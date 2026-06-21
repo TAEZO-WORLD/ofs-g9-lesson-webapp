@@ -2,7 +2,7 @@ export default function TeacherPanel({ teacher }) {
   const { answerKey, modelAnswer, rubric, teacherNotes, teachingScript } = teacher;
 
   return (
-    <aside className="teacher-sidebar">
+    <div className="teacher-page">
       <div className="teacher-panel">
         <h3 className="teacher-panel__title">Answer key</h3>
         <div className="teacher-panel__content">
@@ -43,26 +43,27 @@ export default function TeacherPanel({ teacher }) {
       <div className="teacher-panel">
         <h3 className="teacher-panel__title">Rubric</h3>
         <div className="teacher-panel__content">
-          <table className="rubric-table">
-            <thead>
-              <tr>
-                <th>Criterion</th>
-                <th>Excellent</th>
-                <th>Developing</th>
-                <th>Beginning</th>
-              </tr>
-            </thead>
-            <tbody>
-              {rubric.map((row) => (
-                <tr key={row.criterion}>
-                  <td>{row.criterion}</td>
-                  <td>{row.excellent}</td>
-                  <td>{row.developing}</td>
-                  <td>{row.beginning}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+          <div className="rubric-cards">
+            {rubric.map((row) => (
+              <div key={row.criterion} className="rubric-card">
+                <h4 className="rubric-card__criterion">{row.criterion}</h4>
+                <div className="rubric-card__levels">
+                  <div className="rubric-card__level rubric-card__level--excellent">
+                    <span className="rubric-card__label">Excellent</span>
+                    <p>{row.excellent}</p>
+                  </div>
+                  <div className="rubric-card__level rubric-card__level--developing">
+                    <span className="rubric-card__label">Developing</span>
+                    <p>{row.developing}</p>
+                  </div>
+                  <div className="rubric-card__level rubric-card__level--beginning">
+                    <span className="rubric-card__label">Beginning</span>
+                    <p>{row.beginning}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -88,6 +89,6 @@ export default function TeacherPanel({ teacher }) {
           ))}
         </div>
       </div>
-    </aside>
+    </div>
   );
 }

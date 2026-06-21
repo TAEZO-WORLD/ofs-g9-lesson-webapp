@@ -56,7 +56,9 @@
       "More people are choosing to live with less for personal and environmental reasons, but the lifestyle looks different for everyone.",
       "Shopping is illegal in many cities around the world.",
       "Families should never buy toys for their children."
-    ]
+    ],
+    "correctIndex": 1,
+    "explanation": "The article explains that more people are choosing minimalism for personal and environmental reasons, and that the lifestyle varies for different people."
   },
   "readingComprehension": {
     "title": "Reading Comprehension",
@@ -69,7 +71,9 @@
           "They felt overwhelmed by too many possessions.",
           "Governments forced them to sell their belongings.",
           "They moved to smaller countries."
-        ]
+        ],
+        "correctIndex": 1,
+        "explanation": "The article says many minimalists started this change because they felt overwhelmed by too many possessions."
       },
       {
         "id": "rc2",
@@ -79,7 +83,9 @@
           "It encourages people to buy more gadgets.",
           "It can reduce waste and resource use.",
           "It stops families from cooking at home."
-        ]
+        ],
+        "correctIndex": 2,
+        "explanation": "The article states that when people buy fewer products, factories produce less waste and use fewer resources."
       },
       {
         "id": "rc3",
@@ -89,7 +95,9 @@
           "It only works in winter.",
           "It may ignore people who cannot afford to buy more.",
           "It requires everyone to live in one room."
-        ]
+        ],
+        "correctIndex": 2,
+        "explanation": "Critics argue that minimalism is a privilege because some people cannot afford to buy more, not because they choose to own less."
       }
     ]
   },

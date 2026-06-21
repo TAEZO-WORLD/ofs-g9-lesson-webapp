@@ -43,18 +43,24 @@ export default function StudentLesson({
         answer={mainIdeaAnswer}
         onAnswerChange={onMainIdeaChange}
         disabled={submitted}
+        submitted={submitted}
+        answerKeyValue={lessonData.teacher.answerKey.mainIdea}
       />
       <ReadingComprehension
         data={lessonData.readingComprehension}
         answers={comprehensionAnswers}
         onAnswerChange={onComprehensionChange}
         disabled={submitted}
+        submitted={submitted}
+        answerKey={lessonData.teacher.answerKey.readingComprehension}
       />
       <EvidenceFromText
         data={lessonData.evidenceFromText}
         answers={evidenceAnswers}
         onAnswerChange={onEvidenceChange}
         disabled={submitted}
+        submitted={submitted}
+        suggestedAnswers={lessonData.teacher.answerKey.evidenceFromText}
       />
       <LanguageFocus data={lessonData.languageFocus} />
       <SpeakingPractice data={lessonData.speakingPractice} />
