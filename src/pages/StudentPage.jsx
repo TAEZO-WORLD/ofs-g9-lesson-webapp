@@ -1,7 +1,10 @@
 import { useState } from 'react';
-import lessonData from '../data/lesson-data.json';
+import { useParams } from 'react-router-dom';
 import AppHeader from '../components/AppHeader';
+import LessonError from '../components/LessonError';
+import LessonLoading from '../components/LessonLoading';
 import StudentLesson from '../components/StudentLesson';
+import { useLessonData } from '../hooks/useLessonData';
 import { gradeWritingWithAI } from '../utils/gradeWritingWithAI';
 
 function buildInitialAnswers(questions) {
@@ -16,7 +19,7 @@ function buildInitialSelfCheck(items) {
   return Object.fromEntries(items.map((_, index) => [index, false]));
 }
 
-export default function StudentPage() {
+function StudentLessonContent({ lessonData }) {
   const [mainIdeaAnswer, setMainIdeaAnswer] = useState('');
   const [comprehensionAnswers, setComprehensionAnswers] = useState(() =>
     buildInitialAnswers(lessonData.readingComprehension.questions),
@@ -58,26 +61,39 @@ export default function StudentPage() {
   };
 
   return (
+    <StudentLesson
+      lessonData={lessonData}
+      mainIdeaAnswer={mainIdeaAnswer}
+      onMainIdeaChange={setMainIdeaAnswer}
+      comprehensionAnswers={comprehensionAnswers}
+      onComprehensionChange={handleComprehensionChange}
+      evidenceAnswers={evidenceAnswers}
+      onEvidenceChange={handleEvidenceChange}
+      writingAnswer={writingAnswer}
+      onWritingChange={setWritingAnswer}
+      selfCheckState={selfCheckState}
+      onSelfCheckToggle={handleSelfCheckToggle}
+      submitted={submitted}
+      writingFeedback={writingFeedback}
+      feedbackLoading={feedbackLoading}
+      onSubmit={handleSubmit}
+    />
+  );
+}
+
+export default function StudentPage() {
+  const { lessonSlug } = useParams();
+  const { lessonData, loading, error } = useLessonData(lessonSlug);
+
+  return (
     <div className="app">
       <AppHeader />
       <div className="lesson-layout">
-        <StudentLesson
-          lessonData={lessonData}
-          mainIdeaAnswer={mainIdeaAnswer}
-          onMainIdeaChange={setMainIdeaAnswer}
-          comprehensionAnswers={comprehensionAnswers}
-          onComprehensionChange={handleComprehensionChange}
-          evidenceAnswers={evidenceAnswers}
-          onEvidenceChange={handleEvidenceChange}
-          writingAnswer={writingAnswer}
-          onWritingChange={setWritingAnswer}
-          selfCheckState={selfCheckState}
-          onSelfCheckToggle={handleSelfCheckToggle}
-          submitted={submitted}
-          writingFeedback={writingFeedback}
-          feedbackLoading={feedbackLoading}
-          onSubmit={handleSubmit}
-        />
+        {loading && <LessonLoading />}
+        {!loading && error && <LessonError slug={lessonSlug} message={error} />}
+        {!loading && lessonData && (
+          <StudentLessonContent key={lessonSlug} lessonData={lessonData} />
+        )}
       </div>
     </div>
   );
