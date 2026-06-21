@@ -3,7 +3,7 @@ import AppHeader from '../components/AppHeader';
 import LessonError from '../components/LessonError';
 import LessonLoading from '../components/LessonLoading';
 import { useLessonIndex } from '../hooks/useLessonIndex';
-import { lessonStudentPath, lessonTeacherPath } from '../utils/lessonApi';
+import { lessonStudentPath } from '../utils/lessonApi';
 
 export default function LessonArchivePage() {
   const { index, loading, error } = useLessonIndex();
@@ -14,7 +14,7 @@ export default function LessonArchivePage() {
       <div className="lesson-layout">
         <header className="lesson-hero">
           <h1>Lesson archive</h1>
-          <p>Choose a lesson to open the student or teacher page.</p>
+          <p>Choose a lesson to open the student page.</p>
         </header>
 
         {loading && <LessonLoading message="Loading lesson archive…" />}
@@ -40,12 +40,6 @@ export default function LessonArchivePage() {
                     className="archive-card__link archive-card__link--student"
                   >
                     Student page
-                  </Link>
-                  <Link
-                    to={lessonTeacherPath(lesson.slug)}
-                    className="archive-card__link archive-card__link--teacher"
-                  >
-                    Teacher page
                   </Link>
                 </div>
               </article>
