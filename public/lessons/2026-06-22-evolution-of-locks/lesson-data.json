@@ -273,6 +273,546 @@
                 "phase": "Wrap-up (5 min)",
                 "script": "Today you learned how to explain change over time using evidence and timeline language. This is useful for IGCSE-style reading and writing because many texts ask you to explain development, process, or change."
             }
-        ]
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Welcome back class! / Today we will study / the history of a security device: / the lock.",
+                    "korean": "돌아온 것을 환영합니다 여러분! / 오늘 우리는 보안 장치의 역사를 / 공부할 것입니다: / 자물쇠입니다."
+                },
+                {
+                    "english": "We will learn / how locks changed / from wooden devices / to advanced face scans / over thousands of years.",
+                    "korean": "우리는 학습할 것입니다 / 자물쇠가 어떻게 바뀌었는지 / 나무 장치로부터 / 진보된 얼굴 스캔까지 / 수천 년 동안에 걸쳐."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "What kind of lock / do you use / most often?",
+                    "korean": "어떤 종류의 자물쇠를 / 당신은 사용하나요 / 가장 자주?",
+                    "teacherFollowUp": "Is it / a metal key / or a keypad?",
+                    "teacherFollowUpKorean": "그것은 / 금속 열쇠인가요 / 아니면 키패드인가요?"
+                },
+                {
+                    "question": "Would you rather / use a key, / a number code, / a fingerprint, / or a face scan? / Why?",
+                    "korean": "당신은 차라리 / 열쇠를 쓰고 싶나요, / 숫자 코드를, / 지문을, / 아니면 얼굴 스캔을? / 왜인가요?",
+                    "teacherFollowUp": "Which option / feels / the most futuristic?",
+                    "teacherFollowUpKorean": "어떤 선택지가 / 느껴지나요 / 가장 미래적으로?"
+                },
+                {
+                    "question": "Why do / people need / locks?",
+                    "korean": "왜 / 사람들은 필요로 하나요 / 자물쇠들을?",
+                    "teacherFollowUp": "Think about / privacy / and safety.",
+                    "teacherFollowUpKorean": "생각해보세요 / 사생활과 / 그리고 안전에 대해."
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "From ancient doors to digital doors, locks have come a long way.",
+                    "chunkReading": "From ancient doors / to digital doors, / locks / have come / a long way.",
+                    "directKorean": "고대 문들로부터 / 디지털 문들까지, / 자물쇠들은 / 왔다 / 먼 길을.",
+                    "naturalKorean": "고대 자물쇠 문에서 오늘날의 디지털 문에 이르기까지 자물쇠는 크게 발전해 왔습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "have come a long way",
+                            "meaning": "크게 발전하다, 많은 진전을 이루다",
+                            "use": "기술이나 문명이 오랜 시간에 걸쳐 괄목할 성장을 이루었을 때 쓰는 숙어 표현.",
+                            "example": "Computer technology has come a long way."
+                        }
+                    ],
+                    "mustKnowGrammar": "from A to B 구문이 문두에 쓰여 발전의 시간적/물리적 범위를 한정하고 있으며, 현재완료 시제 have come을 써서 과거부터 현재까지 누적된 발전의 결과를 전달합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 옛날에 쓰던 원시적인 자물쇠랑 지금 우리가 쓰는 디지털 도어락을 비교하면 기술이 진짜 엄청나게 발전했다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice 'have come a long way'. / It is a metaphor / for progress.",
+                            "korean": "'have come a long way'를 보세요. / 이것은 은유적 표현입니다 / 발전에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "Today, your face might be the key!",
+                    "chunkReading": "Today, / your face / might be / the key!",
+                    "directKorean": "오늘날, / 너의 얼굴이 / ~일지도 모른다 / 열쇠!",
+                    "naturalKorean": "오늘날에는 여러분의 얼굴이 열쇠가 될 수 있습니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "might be the key",
+                            "meaning": "열쇠가 될지도 모른다",
+                            "use": "조동사 might와 함께 비유적으로 핵심 해결책이 됨을 설명함.",
+                            "example": "Studying hard might be the key to success."
+                        }
+                    ],
+                    "mustKnowGrammar": "조동사 might는 현재 상태나 미래에 대한 약한 불확실한 추측이나 가능성을 나타내는 문장으로, 기술의 발달로 얼굴이 물리적 열쇠의 역할을 대신할 수 있음을 나타냅니다.",
+                    "feynmanExplanation": "쉽게 말하면, 주머니에 쇠로 만든 열쇠를 들고 다닐 필요 없이 그냥 얼굴을 문에 갖다 대기만 하면 슥 문이 열린다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Might' is a modal verb / showing a weak possibility / that became real today.",
+                            "korean": "'Might'는 조동사입니다 / 약한 가능성을 보여주는 / 오늘날 실제로 실현된."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "The first known locks were invented over 4,000 years ago in Ancient Egypt and Mesopotamia.",
+                    "chunkReading": "The first known locks / were invented / over 4,000 years ago / in Ancient Egypt / and Mesopotamia.",
+                    "directKorean": "최초로 알려진 자물쇠들은 / 발명되었다 / 4,000년보다 더 전에 / 고대 이집트와 / 그리고 메소포타미아에서.",
+                    "naturalKorean": "최초로 알려진 자물쇠는 4,000년 전 고대 이집트와 메소포타미아에서 발명되었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "over 4,000 years ago",
+                            "meaning": "4,000년도 더 전에",
+                            "use": "4000이라는 숫자 앞에 부사 over를 붙여서 기간의 방대함을 강조함.",
+                            "example": "The pyramid was built over 4,000 years ago."
+                        }
+                    ],
+                    "mustKnowGrammar": "과거 수동태 were invented: 주어가 자물쇠(복수)이므로 be동사는 복수 과거형인 were를 썼고, 발명된 대상이기 때문에 과거분사 invented를 결합해 수동태를 구성합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 자물쇠의 나이는 4,000살이 넘었고, 고대 이집트 사람들이 최초로 사용했다는 기록이 있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Were invented' / is passive voice / because locks / don't invent themselves.",
+                            "korean": "'Were invented'는 / 수동태입니다 / 자물쇠가 / 스스로를 발명하지는 않기 때문입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "These early locks were made of wood and used a big wooden key to lift pins inside the lock, a system similar to modern locks!",
+                    "chunkReading": "These early locks / were made of wood / and / used / a big wooden key / to lift pins / inside the lock, / a system / similar to modern locks!",
+                    "directKorean": "이러한 초기 자물쇠들은 / 나무로 만들어졌다 / 그리고 / 사용했다 / 큰 나무 열쇠를 / 핀들을 들어 올리기 위해 / 자물쇠 내부의, / 시스템인 / 현대 자물쇠들과 유사한!",
+                    "naturalKorean": "이 초기 자물쇠들은 나무로 만들어졌으며, 자물쇠 내부의 핀을 들어 올리기 위해 커다란 나무 열쇠를 사용했는데, 이는 현대 자물쇠의 원리와 유사한 방식이었습니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "were made of",
+                            "meaning": "~로 만들어졌다 (물리적 변화)",
+                            "use": "사물의 재료나 구성 요소를 밝힐 때 쓰는 수동태 기반 표현.",
+                            "example": "The table was made of oak wood."
+                        }
+                    ],
+                    "mustKnowGrammar": "to-부정사의 부사적 용법(목적)인 to lift가 나무 열쇠의 용도를 설명하며, 명사구 a system 뒤에 형용사구인 similar to modern locks가 연결되어 동격을 이루며 추가 설명합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 고대 자물쇠는 나무로 만든 큰 열쇠를 구멍에 넣고 밀어서 속의 나무 핀들을 톡톡 들어 올리는 구조였는데, 이 원리가 지금 우리가 쓰는 쇠열쇠랑 완전히 똑같다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Look at the comma / followed by 'a system'. / It describes the whole mechanism / as a system.",
+                            "korean": "쉼표를 보세요 / 'a system'으로 이어지는. / 그것은 전체 장치 원리를 설명합니다 / 하나의 시스템으로."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "The Romans improved on this by using metal locks and keys.",
+                    "chunkReading": "The Romans / improved on this / by using / metal locks and keys.",
+                    "directKorean": "로마인들은 / 이것을 개선했다 / 사용함으로써 / 금속 자물쇠들과 열쇠들을.",
+                    "naturalKorean": "로마인들은 금속 자물쇠와 열쇠를 사용함으로써 이 방식을 한 단계 발전시켰습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "improved on",
+                            "meaning": "~을 개선하다, 나아지게 하다",
+                            "use": "기존에 존재하던 설계나 지식에 기술을 더해 더 좋게 만들었을 때 쓰는 구동사.",
+                            "example": "He improved on his previous design."
+                        }
+                    ],
+                    "mustKnowGrammar": "by + 동명사(-ing) 구조: '사용함으로써'라는 뜻으로 어떤 목적을 달성하는 수단과 방법을 나타냅니다. 여기서는 metal locks and keys를 사용한 것이 수단입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 로마인들이 잘 썩는 나무 대신에 단단하고 튼튼한 철이나 청동 같은 금속으로 자물쇠를 업그레이드했다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'By using' / shows the method / of how they / improved the locks.",
+                            "korean": "'By using'은 수단을 보여줍니다 / 그들이 어떻게 / 자물쇠를 개선했는지에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "Their locks were smaller and could be worn on rings so people wouldn’t lose them!",
+                    "chunkReading": "Their locks / were smaller / and / could be worn on rings / so / people / wouldn’t lose them!",
+                    "directKorean": "그들의 자물쇠들은 / 더 작았다 / 그리고 / 반지 위에 착용될 수 있었다 / ~하도록 / 사람들이 / 그것들을 잃어버리지 않도록!",
+                    "naturalKorean": "그들의 자물쇠는 크기가 더 작았고, 잃어버리지 않도록 반지처럼 손가락에 끼고 다닐 수도 있었습니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "could be worn",
+                            "meaning": "착용될 수 있었다",
+                            "use": "의류나 보석, 액세서리 등을 몸에 찰 수 있었음을 수동태로 서술.",
+                            "example": "The tracking device could be worn on the wrist."
+                        }
+                    ],
+                    "mustKnowGrammar": "조동사 수동태 could be worn이 쓰여 반지에 열쇠를 부착해 끼고 다닐 수 있었음을 묘사하며, 목적 접속사 so (that) 뒤에 주어+조동사 과거형(wouldn't lose)이 연결되었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 열쇠 크기를 엄청 앙증맞게 작게 만들어서 반지처럼 손가락에 끼고 다닐 수 있게 했다는 거예요. 잃어버릴 염려가 없었겠죠!",
+                    "teachingTranscript": [
+                        {
+                            "english": "The word 'so' / is a conjunction / that shows purpose / or result here.",
+                            "korean": "단어 'so'는 / 접속사입니다 / 목적을 보여주는 / 혹은 여기서 결과를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "Locks have been getting stronger, smaller, and smarter ever since.",
+                    "chunkReading": "Locks / have been getting / stronger, smaller, and smarter / ever since.",
+                    "directKorean": "자물쇠들은 / 되어오고 있다 / 더 단단하고, 더 작고, 그리고 더 똑똑하게 / 그 이후로 줄곧.",
+                    "naturalKorean": "그 이후로 자물쇠는 점점 더 단단해지고, 작아지고, 똑똑해졌습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "ever since",
+                            "meaning": "그 이후로 줄곧, 지금까지 계속",
+                            "use": "과거의 특정한 역사적 기점 이후로 현재까지의 지속성을 강조함.",
+                            "example": "They moved to Seoul and have lived there ever since."
+                        }
+                    ],
+                    "mustKnowGrammar": "현재완료 진행형인 have been getting이 사용되어, 로마 시대 이후부터 지금까지 자물쇠 기술이 쉬지 않고 끊임없이 발전(변화)해오고 있는 중임을 역동적으로 표현합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 옛날부터 지금까지 자물쇠는 계속해서 더 튼튼해지고 크기는 작아지고 기능은 똑똑해지는 방향으로 꾸준히 진화해왔다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Have been getting' / shows the ongoing process / of development.",
+                            "korean": "'Have been getting'은 / 진행 중인 과정을 보여줍니다 / 개발의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "In the 1840s, Linus Yale Sr., an American inventor, created strong locks for banks in Newport, New York.",
+                    "chunkReading": "In the 1840s, / Linus Yale Sr., / an American inventor, / created / strong locks / for banks / in Newport, New York.",
+                    "directKorean": "1840년대에, / 라이너스 예일 시니어는, / 미국의 발명가인, / 만들었다 / 튼튼한 자물쇠들을 / 은행들을 위한 / 뉴포트, 뉴욕에 있는.",
+                    "naturalKorean": "1840년대에 미국 발명가인 라이너스 예일 시니어는 뉴욕주 뉴포트의 은행들을 위한 강력한 자물쇠를 만들었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "an American inventor",
+                            "meaning": "미국의 한 발명가",
+                            "use": "주어 옆에 쉼표를 찍고 인물의 직업이나 신분을 명사구로 설명하는 동격 삽입 구조.",
+                            "example": "Thomas Edison, an American inventor, created the lightbulb."
+                        }
+                    ],
+                    "mustKnowGrammar": "Linus Yale Sr.와 an American inventor는 동격 관계입니다. 명사구 삽입을 통해 주어에 대한 정보를 제공하며, 단순 과거 동사인 created로 사실을 진술합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1840년대에 '라이너스 예일'이라는 미국 발명가가 은행 돈을 노리는 도둑들을 막을 강력한 금고용 자물쇠를 만들었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice the commas / around 'an American inventor'. / This is a parenthetical / explanation.",
+                            "korean": "쉼표를 주목하세요 / 'an American inventor' 양 옆의. / 이것은 삽입된 / 설명구입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 9,
+                    "original": "He worked on ideas similar to the old pin-style locks, but with better security.",
+                    "chunkReading": "He / worked on / ideas / similar to / the old pin-style locks, / but / with better security.",
+                    "directKorean": "그는 / 일했다(연구했다) / 생각들을 / 유사한 / 오래된 핀 방식 자물쇠들과, / 하지만 / 더 나은 보안과 함께.",
+                    "naturalKorean": "그는 고대의 핀 방식 자물쇠와 유사하지만 보안성이 더 뛰어난 아이디어를 연구했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "worked on",
+                            "meaning": "~을 연구하다, 개선하기 위해 공들이다",
+                            "use": "특정 작업이나 프로젝트, 생각 개발에 노력과 시간을 쏟음을 표현.",
+                            "example": "Scientists are working on a vaccine."
+                        }
+                    ],
+                    "mustKnowGrammar": "형용사구인 similar to the old pin-style locks가 앞의 명사인 ideas를 뒤에서 수식합니다. 등위접속사 but을 통해 대조적인 상황(but with better security)을 덧붙였습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 고대 이집트에서 쓰던 핀 들어 올리기 자물쇠의 아이디어를 금속으로 새로 연구하되, 훨씬 튼튼하고 안전하게 보안을 강화했다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Worked on' / means he spent / time and effort / on these ideas.",
+                            "korean": "'Worked on'은 의미합니다 / 그가 보냈음을 / 시간과 노력을 / 이 생각들에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 10,
+                    "original": "Later, in 1861, Linus Yale Jr. patented the cylinder lock.",
+                    "chunkReading": "Later, / in 1861, / Linus Yale Jr. / patented / the cylinder lock.",
+                    "directKorean": "나중에, / 1861년에, / 라이너스 예일 주니어는 / 특허를 냈다 / 실린더 자물쇠를.",
+                    "naturalKorean": "이후 1861년에 그의 아들인 라이너스 예일 주니어가 실린더 자물쇠의 특허를 취득했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "patented the",
+                            "meaning": "~의 특허를 내다, 권리를 등록하다",
+                            "use": "자신의 고유한 발명품에 대한 법적 권리를 취득했음을 나타낼 때 사용.",
+                            "example": "He patented the telephone in 1876."
+                        }
+                    ],
+                    "mustKnowGrammar": "Linus Yale Jr.(주니어)는 Yale Sr.(시니어)의 아들을 가리킵니다. 문장 앞에 부사 Later와 과거 연도 in 1861이 명시되어 단순 과거 동사 patented를 사용했습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 아빠의 가업을 이어받은 아들 '예일 주니어'가 1861년에 실린더 자물쇠라는 둥근 금속 통 모양의 자물쇠를 발명해 특허를 냈다는 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Patented' means / he got a legal right / for his invention / so others couldn't copy it.",
+                            "korean": "'Patented'는 의미합니다 / 그가 법적 권리를 얻었음을 / 그의 발명품에 대해 / 다른 이들이 그것을 베끼지 못하도록."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 11,
+                    "original": "The lock mechanism fits inside a metal tube, a design still used in most doors today.",
+                    "chunkReading": "The lock mechanism / fits inside / a metal tube, / a design / still used / in most doors / today.",
+                    "directKorean": "자물쇠 장치는 / 안으로 들어맞는다 / 금속 튜브의, / 디자인인 / 여전히 사용되는 / 대부분의 문들 안에서 / 오늘날.",
+                    "naturalKorean": "이 자물쇠 장치는 금속 원통 안에 쏙 들어가도록 설계되었는데, 이 방식은 오늘날에도 대부분의 문에 여전히 사용되고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "fits inside",
+                            "meaning": "~안에 꼭 들어맞다, 설치되다",
+                            "use": "물건의 부품이나 장치가 다른 빈 공간에 딱 알맞게 들어가는 모양새.",
+                            "example": "The key fits inside the slot."
+                        }
+                    ],
+                    "mustKnowGrammar": "과거분사 수식: a design 뒤에 주격 관계대명사와 be동사가 생략된 (which is) still used 구조가 연결되어, '여전히 문에 사용되는 디자인'이라는 수식 관계를 나타냅니다.",
+                    "feynmanExplanation": "쉽게 말하면, 동그란 쇠통 안에 열쇠 구멍과 핀을 집어넣는 형태인데, 현재 우리 집 현관문이나 방문에 달려있는 열쇠 구멍 문고리가 다 이 디자인이라는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'A design still used' / describes the cylinder lock. / It is a passive participle.",
+                            "korean": "'여전히 사용되는 디자인'은 / 실린더 자물쇠를 묘사합니다. / 이것은 수동 분사입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 12,
+                    "original": "In the 1920s, combination locks became popular, opening with a turning dial instead of a key.",
+                    "chunkReading": "In the 1920s, / combination locks / became popular, / opening / with a turning dial / instead of a key.",
+                    "directKorean": "1920년대에, / 다이얼 자물쇠들이 / 인기를 얻었다, / 열리면서 / 회전식 다이얼로 / 열쇠 대신에.",
+                    "naturalKorean": "1920년대에는 열쇠 대신 회전식 다이얼로 여는 다이얼 방식의 자물쇠(combination locks)가 인기를 끌었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "combination lock",
+                            "meaning": "다이얼식 자물쇠, 비밀번호 자물쇠",
+                            "use": "숫자의 조합(combination)을 맞춰서 여는 금고나 캐비닛용 번호 도어락.",
+                            "example": "I have a combination lock on my school locker."
+                        }
+                    ],
+                    "mustKnowGrammar": "분사구문 opening: 앞의 주절 문장 뒤에 쉼표와 함께 동사원형+-ing 형태의 현재분사가 와서 부대상황(동시동작이나 결과)을 나란히 서술해줍니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1920년대에 열쇠 없이 번호를 돌려서 여는 다이얼식 번호 자물쇠가 처음 나와서 대유행을 했다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Opening with' / shows how the locks / are unlocked / without key.",
+                            "korean": "'~로 열리는'은 보여줍니다 / 어떻게 자물쇠가 / 열리는지 / 열쇠 없이."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 13,
+                    "original": "The late 20th and early 21st centuries brought rapid technology changes.",
+                    "chunkReading": "The late 20th / and early 21st centuries / brought / rapid technology changes.",
+                    "directKorean": "20세기 후반과 / 그리고 21세기 초반은 / 가져왔다 / 신속한 기술 변화들을.",
+                    "naturalKorean": "20세기 후반과 21세기 초반은 급격한 기술 변화를 몰고 왔습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "rapid technology changes",
+                            "meaning": "빠른 기술적 변화",
+                            "use": "디지털이나 IT 분야 등의 발전 속도가 극도로 빠름을 표현할 때 씀.",
+                            "example": "The IT industry is showing rapid technology changes."
+                        }
+                    ],
+                    "mustKnowGrammar": "문장의 주어가 The late 20th and early 21st centuries(시간적 기간)로 사물 주어 형태이며, 타동사 brought를 이용해 급격한 변화를 촉발했음을 능동태로 설명합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1900년대 말과 2000년대 초에 컴퓨터와 반도체 기술이 급격히 발달하면서 자물쇠에도 큰 컴퓨터 바람이 불었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / acts as a transition / to the modern era / of locks.",
+                            "korean": "이 문장은 / 전환점 역할을 합니다 / 현대 시대로의 / 자물쇠의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 14,
+                    "original": "In the 1970s, keycard locks were invented for hotels, letting guests unlock their rooms using a plastic swipe card.",
+                    "chunkReading": "In the 1970s, / keycard locks / were invented / for hotels, / letting / guests unlock / their rooms / using / a plastic swipe card.",
+                    "directKorean": "1970년대에, / 카드 키 자물쇠들이 / 발명되었다 / 호텔들을 위해, / 허락하면서 / 고객들이 그들의 방을 열도록 / 플라스틱 긁는 카드를 사용해서.",
+                    "naturalKorean": "1970년대에는 호텔용 카드 키 자물쇠가 발명되어, 투숙객들이 플라스틱 긁는 카드를 사용해 객실 문을 열 수 있게 되었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "plastic swipe card",
+                            "meaning": "긁어서 쓰는 플라스틱 카드",
+                            "use": "자석 띠가 부착되어 긁는 식(swipe)으로 인식하는 객실 카드 키.",
+                            "example": "The hotel receptionist handed me a plastic swipe card."
+                        }
+                    ],
+                    "mustKnowGrammar": "사역동사 분사구문 letting: let + 목적어(guests) + 목적격보어(동사원형 unlock)의 5형식 사역 구조가 분사 형태로 문장 뒤에 덧붙여졌습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1970년대에 호텔 문 옆에 카드를 아래로 슥 긁으면 열리는 카드 키가 등장해서 무거운 열쇠 꾸러미가 필요 없어졌다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "We see 'letting'. / It is a participle. / Guests is the object. / Unlock is the bare infinitive.",
+                            "korean": "우리는 'letting'을 봅니다. / 이것은 분사입니다. / Guests가 목적어입니다. / Unlock은 동사원형입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 15,
+                    "original": "By the 2000s, fingerprint and keypad locks arrived.",
+                    "chunkReading": "By the 2000s, / fingerprint / and / keypad locks / arrived.",
+                    "directKorean": "2000년대 무렵, / 지문 / 그리고 / 키패드 자물쇠들이 / 도착했다(도입되었다).",
+                    "naturalKorean": "2000년대에 이르자 지문 인식 및 키패드 방식의 자물쇠가 도입되었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "By the 2000s",
+                            "meaning": "2000년대 즈음에는",
+                            "use": "특정 시점에 이미 결과가 달성되어 완료되어 있음을 기한 전치사 By로 나타냄.",
+                            "example": "By the 2000s, almost everyone had a mobile phone."
+                        }
+                    ],
+                    "mustKnowGrammar": "by는 특정 한계 시점을 지정하여, 그 시간의 경계에 이르렀을 때의 기술 변화 도달 수준을 표현하는 전치사입니다. 주어는 복수 명사로 구성되었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 2000년대가 되면서 손가락 지문을 대거나 번호 키를 누르는 디지털 도어락이 대중화되었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Arrived' here / doesn't mean a person came. / It means / the technology became available.",
+                            "korean": "여기서 'Arrived'는 / 사람이 왔다는 뜻이 아닙니다. / 그것은 의미합니다 / 기술이 사용 가능해졌음을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 16,
+                    "original": "You could now unlock doors with your finger or a number code, meaning no physical key was needed!",
+                    "chunkReading": "You / could now unlock / doors / with your finger / or a number code, / meaning / no physical key / was needed!",
+                    "directKorean": "너는 / 이제 문들을 열 수 있었다 / 너의 손가락이나 / 혹은 숫자 코드로, / 의미하면서 / 물리적 열쇠가 / 필요하지 않았음을!",
+                    "naturalKorean": "이제 손가락이나 비밀번호만으로 문을 열 수 있게 되었으며, 이는 더 이상 실물 열쇠가 필요하지 않음을 의미했습니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "physical key",
+                            "meaning": "실물 열쇠, 물리적 키",
+                            "use": "디지털 신호나 생체 정보와 대비되는 구리나 철로 만든 전통적 금속 열쇠.",
+                            "example": "I lost my physical key, but luckily I have a smart lock."
+                        }
+                    ],
+                    "mustKnowGrammar": "현재분사구문 meaning 뒤에 명사절 접속사 that이 생략되어, 뒤의 문장(no physical key was needed)이 앞선 내용의 귀결이자 의미임을 설명합니다. 수동태 was needed도 쓰였습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 더 이상 열쇠 구멍에 쇠 열쇠를 꽂아 돌릴 필요가 없이 손가락 지문 하나면 충분해졌다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Meaning' introduces / the result of not needing / a physical, metal key.",
+                            "korean": "'Meaning'은 도입합니다 / 필요하지 않게 된 결과를 / 물리적인, 금속 열쇠가."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 17,
+                    "original": "Today, smart locks and face scan locks are introduced.",
+                    "chunkReading": "Today, / smart locks / and / face scan locks / are introduced.",
+                    "directKorean": "오늘날, / 스마트 자물쇠들과 / 그리고 / 얼굴 스캔 자물쇠들이 / 소개된다(도입된다).",
+                    "naturalKorean": "오늘날에는 스마트 자물쇠와 얼굴 인식 자물쇠가 도입되어 사용되고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "are introduced",
+                            "meaning": "도입되다, 널리 출현하다",
+                            "use": "기술이나 제품이 새롭게 상용화되거나 생활 속에 적용되었음을 표현하는 수동태.",
+                            "example": "New safety rules are introduced this year."
+                        }
+                    ],
+                    "mustKnowGrammar": "현재 수동태 are introduced: 주어가 스마트 자물쇠와 얼굴 스캔 자물쇠(복수)이므로 복수형 be동사 are와 과거분사인 introduced가 합쳐져 현재의 보편적 도입 상태를 진술합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 요즘에는 스마트폰으로 원격 제어하는 자물쇠나 얼굴을 갖다 대면 열리는 최첨단 도어락이 많이 나왔다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "We are now / in the present day. / 'Smart locks' connect / to the internet.",
+                            "korean": "우리는 이제 / 현재 시점에 있습니다. / 'Smart locks'는 연결됩니다 / 인터넷에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 18,
+                    "original": "Phones, apps, and even your face can now open a lock, all without touching a key.",
+                    "chunkReading": "Phones, apps, / and even your face / can now open / a lock, / all without / touching a key.",
+                    "directKorean": "스마트폰들, 앱들, / 그리고 심지어 너의 얼굴조차 / 이제 열 수 있다 / 자물쇠를, / 모두 ~없이 / 열쇠를 만지는 것.",
+                    "naturalKorean": "이제는 열쇠를 만질 필요도 없이 스마트폰, 앱, 그리고 얼굴 인식만으로 자물쇠를 열 수 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "without touching",
+                            "meaning": "만지지 않고, 접촉 없이",
+                            "use": "전치사 without 뒤에 동명사 touching을 결합해 무언가를 접촉하지 않고 행할 때 씀.",
+                            "example": "You can pay without touching the terminal."
+                        }
+                    ],
+                    "mustKnowGrammar": "without은 전치사이므로 목적어로 동명사 touching이 와야 하며, even(심지어 ~조차) 부사를 써서 '얼굴 인식'이라는 고도화된 기술의 극적인 효과를 배가하고 있습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 주머니에서 번거롭게 열쇠를 찾을 필요 없이 폰을 대거나 얼굴만 보여줘도 바로 문이 열린다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The phrase / 'without touching a key' / highlights / the extreme convenience.",
+                            "korean": "구절 / '열쇠를 만지지 않고'는 / 강조합니다 / 극도의 편리함을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 19,
+                    "original": "Some lock developments are especially interesting.",
+                    "chunkReading": "Some lock developments / are / especially interesting.",
+                    "directKorean": "몇몇 자물쇠 발전들은 / 이다 / 특별히 흥미로운.",
+                    "naturalKorean": "자물쇠 발전사 중 몇 가지는 특히 흥미롭습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "especially interesting",
+                            "meaning": "특히 흥미로운, 특별히 관심이 가는",
+                            "use": "여러 대상이나 역사적 사실 중 도드라지게 이목을 끄는 부분을 부각할 때 씀.",
+                            "example": "This chapter is especially interesting for historians."
+                        }
+                    ],
+                    "mustKnowGrammar": "2형식 문장 구조로, interesting이 감정이나 흥미를 불러일으키는 주체인 사물 주어 Some lock developments를 수식하므로 현재분사(interesting) 형태로 주격 보어가 되었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 자물쇠의 역사 속에는 우리가 상식으로 알아두면 재밌는 재미있는 비하인드 이야기가 있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The word 'especially' / highlights / the interesting facts / that follow.",
+                            "korean": "단어 'especially'는 / 강조합니다 / 재미있는 사실들을 / 뒤이어 나오는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 20,
+                    "original": "For example, the Yale company, which made locks in the 1800s, still exists today.",
+                    "chunkReading": "For example, / the Yale company, / which made locks / in the 1800s, / still exists / today.",
+                    "directKorean": "예를 들어, / 예일 회사는, / 자물쇠를 만들었던 / 1800년대에, / 여전히 존재한다 / 오늘날.",
+                    "naturalKorean": "예를 들어 1800년대에 자물쇠를 제작하던 예일(Yale)사는 오늘날에도 여전히 존재합니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "For example",
+                            "meaning": "예를 들어",
+                            "use": "앞 문장의 주장에 대한 구체적이고 실제적인 역사적 사실을 예시로 제시할 때 씀.",
+                            "example": "For example, water boils at 100 degrees Celsius."
+                        }
+                    ],
+                    "mustKnowGrammar": "관계대명사의 계속적 용법(쉼표 + which): 주어인 the Yale company에 대해 부연 설명을 추가하고 있으며, 문장의 핵심 주어에 대한 본동사는 단수 일치 형태인 exists입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1800년대에 아빠와 아들(예일 부자)이 차렸던 자물쇠 회사가 망하지 않고 지금까지 살아남아 우리 문고리에 예일이라는 상표로 달려있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The relative clause / 'which made locks' / is non-defining. / It adds / extra information.",
+                            "korean": "관계대명사절 / '자물쇠를 만들었던'은 / 비제한적(계속적) 용법입니다. / 그것은 더해 줍니다 / 추가 정보를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 21,
+                    "original": "There are even lock-picking competitions, but only for fun and learning!",
+                    "chunkReading": "There are / even / lock-picking competitions, / but / only / for fun / and learning!",
+                    "directKorean": "있다 / 심지어 / 자물쇠 따기 대회들이, / 하지만 / 오직 / 재미를 위해 / 그리고 학습을 위해!",
+                    "naturalKorean": "심지어 자물쇠 따기 대회도 열리는데, 이는 오로지 재미와 학업적 목적으로만 진행됩니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "lock-picking competition",
+                            "meaning": "자물쇠 따기 시합",
+                            "use": "열쇠 구멍을 도구로 쑤셔서 정밀 기계 장치를 여는 기술 겨루기.",
+                            "example": "The cybersecurity event hosted a lock-picking competition."
+                        }
+                    ],
+                    "mustKnowGrammar": "There are + 복수명사(competitions) 유도부사 구문에 '심지어 ~조차도'를 나타내는 강조 부사 even이 삽입되어, 이례적이고 놀라운 대회의 존재 사실을 전달합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 열쇠 없이 자물쇠를 누가 가장 빨리 푸나 내기하는 대회가 있는데, 도둑질하려고 배우는 게 아니라 그냥 기계 원리 공부나 재미를 위한 이색 행사라는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Lock-picking is / a sport or hobby / for security experts. / It is not / for crime.",
+                            "korean": "자물쇠 따기는 / 일종의 스포츠이자 취미입니다 / 보안 전문가들을 위한. / 그것은 아닙니다 / 범죄를 위한 것이."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 22,
+                    "original": "In addition, a smart lock today can send a message to your phone when someone opens your door!",
+                    "chunkReading": "In addition, / a smart lock today / can send a message / to your phone / when / someone / opens your door!",
+                    "directKorean": "게다가, / 오늘날의 스마트 자물쇠는 / 메시지를 보낼 수 있다 / 너의 폰으로 / ~할 때 / 누군가가 / 너의 문을 열 때!",
+                    "naturalKorean": "게다가 오늘날의 스마트 자물쇠는 누군가가 문을 열면 여러분의 휴대폰으로 즉시 문자 메시지를 보낼 수도 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "send a message to",
+                            "meaning": "~에게 메시지(알림)를 보내다",
+                            "use": "디지털 장치가 수신인이나 모바일 폰으로 전송 알림을 날리는 기술 동작 묘사.",
+                            "example": "The app can send a message to your email."
+                        }
+                    ],
+                    "mustKnowGrammar": "게다가(In addition)라는 접속부사로 앞선 흥미로운 사실에 부가 가치를 더하고, when이 접속사로 이끄는 조건/시간 부사절이 주절(can send a message) 뒤에 꼬리를 뭅니다.",
+                    "feynmanExplanation": "쉽게 말하면, 가족이나 외부인이 문을 열면 도어락이 내 폰으로 '지금 문 열렸어요!'라고 즉시 알림 카톡이나 문자를 보낼 수 있는 사물인터넷(IoT) 기능이 있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'In addition' adds / a final point. / The smart lock / acts as / a security guard / on your phone.",
+                            "korean": "'게다가'는 더해 줍니다 / 마지막 포인트를. / 스마트 자물쇠는 / 역할을 합니다 / 보안 경비원으로서 / 당신의 휴대폰에 있는."
+                        }
+                    ]
+                }
+            ]
+        }
     }
 }

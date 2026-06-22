@@ -295,6 +295,224 @@
                 "phase": "Wrap-up (5 min)",
                 "script": "Before submitting, check that your paragraph includes the problem, evidence, solutions, and a clear final sentence."
             }
-        ]
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Hello class, / today we will read / an important news-style report / about a severe heatwave in Japan.",
+                    "korean": "안녕하세요 여러분, / 오늘 우리는 중요 뉴스 형식의 보고서를 / 읽을 것입니다 / 일본의 심각한 폭염에 대한."
+                },
+                {
+                    "english": "We will study / how this extreme weather / affects the elderly population / and the actions taken / to help them.",
+                    "korean": "우리는 연구할 것입니다 / 이 극심한 날씨가 / 노인 인구에 어떻게 영향을 미치는지와 / 취해진 조치들을 / 그들을 돕기 위해."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "What do / people usually do / when the weather / is extremely hot?",
+                    "korean": "무엇을 / 사람들은 보통 하나요 / 날씨가 / 극도로 더울 때?",
+                    "teacherFollowUp": "Think about / cooling devices / or hydration.",
+                    "teacherFollowUpKorean": "생각해보세요 / 냉방 기기나 / 혹은 수분 섭취에 대해."
+                },
+                {
+                    "question": "Why might / very hot weather / be more dangerous / for elderly people?",
+                    "korean": "왜 / 매우 더운 날씨가 / 더 위험할 수 있을까요 / 노인분들에게?",
+                    "teacherFollowUp": "Consider / physical vulnerability / or living alone.",
+                    "teacherFollowUpKorean": "고려해보세요 / 신체적 취약성이나 / 혹은 홀로 사는 환경을."
+                },
+                {
+                    "question": "Should governments / help people stay safe / during heatwaves? / Why or why not?",
+                    "korean": "정부가 / 사람들이 안전하게 지내도록 도와야 할까요 / 폭염 동안에? / 왜 그렇게 생각하거나 왜 아니라고 생각하나요?",
+                    "teacherFollowUp": "Is public safety / a government duty?",
+                    "teacherFollowUpKorean": "공공 안전이 / 정부의 책임입니까?"
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "In Japan, an alarming heatwave affected the elderly, with record-breaking temperatures this summer reaching up to 41.8 degrees Celsius (107 degrees Fahrenheit).",
+                    "chunkReading": "In Japan, / an alarming heatwave / affected / the elderly, / with record-breaking temperatures / this summer / reaching up to / 41.8 degrees Celsius / (107 degrees Fahrenheit).",
+                    "directKorean": "일본에서, / 한 두려운 폭염이 / 영향을 미쳤다 / 노인들에게, / 전례 없는 기온과 함께 / 이번 여름 / ~까지 도달하는 / 섭씨 41.8도 / (화씨 107도).",
+                    "naturalKorean": "일본에서 올여름 기온이 섭씨 41.8도(화씨 107도)까지 치솟는 심각한 폭염이 발생하여 노인들에게 큰 영향을 미쳤습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "reaching up to",
+                            "meaning": "~까지 도달하는, 치솟는",
+                            "use": "수치나 온도가 특정 높은 수준까지 한계적으로 올라갔음을 나타낼 때 쓰임.",
+                            "example": "The water level is reaching up to the bridge."
+                        }
+                    ],
+                    "mustKnowGrammar": "the + 형용사 구조인 the elderly는 '노인들(elderly people)'을 뜻하는 복수 보통명사입니다. 분사구문 형태로 전치사 with와 함께 쓰인 reaching up to는 기온의 실시간 한계 도달 상태를 묘사합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 일본 여름 날씨가 41.8도라는 엄청나게 높은 온도로 올라가서 할아버지, 할머니들이 큰 피해를 입었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice 'the elderly'. / It refers to / older people / in general.",
+                            "korean": "'the elderly'를 보세요. / 그것은 가리킵니다 / 노인들을 / 일반적으로."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "An 84-year-old man, Toshiaki Morioka, carries a special device that can call for help if he gets too hot, as many seniors live alone and face serious risks of heatstroke.",
+                    "chunkReading": "An 84-year-old man, / Toshiaki Morioka, / carries / a special device / that can call for help / if he gets too hot, / as / many seniors live alone / and face / serious risks of heatstroke.",
+                    "directKorean": "한 84세 남성은, / 토시아키 모리오카인, / 지니고 다닌다 / 특별한 장치를 / 도움을 요청할 수 있는 / 만약 그가 너무 더워지면, / ~이기 때문에 / 많은 노인들이 혼자 살고 / 직면하기 때문에 / 열사병의 심각한 위험들에.",
+                    "naturalKorean": "많은 노인들이 혼자 살며 심각한 열사병 위험에 노출되어 있기 때문에, 84세인 토시아키 모리오카 씨는 몸이 너무 더워지면 도움을 요청할 수 있는 특별한 장치를 휴대하고 다닙니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "call for help",
+                            "meaning": "도움을 요청하다",
+                            "use": "긴급 구조나 위급 상황에서 구호 신호를 보내는 행동을 뜻함.",
+                            "example": "In an emergency, call for help immediately."
+                        }
+                    ],
+                    "mustKnowGrammar": "주격 관계대명사 that이 a special device를 꾸며주어 '도움을 요청할 수 있는 장치'가 됩니다. 접속사 as는 비례나 양보가 아닌, 이유(~ 때문에)를 나타내는 부사절을 이끕니다.",
+                    "feynmanExplanation": "쉽게 말하면, 혼자 사는 할아버지가 더위를 먹고 쓰러지는 것을 막기 위해 비상 호출 버튼 같은 특수 기계를 들고 다닌다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'As' means / 'because' in this sentence. / It explains / the reason / for carrying the device.",
+                            "korean": "'As'는 의미합니다 / '때문에'를 이 문장에서. / 그것은 설명해 줍니다 / 이유를 / 그 장치를 휴대하는 것에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "This summer alone, around 90,000 people needed hospital treatment for heat-related illnesses.",
+                    "chunkReading": "This summer alone, / around 90,000 people / needed / hospital treatment / for heat-related illnesses.",
+                    "directKorean": "이번 여름만 해도, / 약 90,000명의 사람들이 / 필요로 했다 / 병원 치료를 / 열과 관련된 질환들 때문에.",
+                    "naturalKorean": "올여름에만 약 9만 명의 사람들이 온열 질환으로 병원 치료를 받아야 했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "heat-related illnesses",
+                            "meaning": "온열 질환, 열 관련 질병",
+                            "use": "폭염이나 높은 온도에 노출되어 생기는 일사병, 열사병 등의 병을 가리키는 의학 용어.",
+                            "example": "Drink water to prevent heat-related illnesses."
+                        }
+                    ],
+                    "mustKnowGrammar": "This summer 뒤에 명사를 바로 강조하는 부사 alone이 결합하여 '이번 여름만 하더라도'라는 한정 강조의 부사구를 만들었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 이번 한 계절 동안에만 무려 9만 명이나 되는 사람들이 더위를 먹고 병원에 실려 갔다는 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Around' means / approximately. / And 'heat-related' is / an adjective.",
+                            "korean": "'Around'는 의미합니다 / 대략을. / 그리고 'heat-related'는 / 형용사입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "Japan is facing a double crisis: an aging population and a climate emergency.",
+                    "chunkReading": "Japan / is facing / a double crisis: / an aging population / and / a climate emergency.",
+                    "directKorean": "일본은 / 직면하고 있다 / 이중 위기에: / 고령화 인구와 / 그리고 / 기후 비상사태.",
+                    "naturalKorean": "일본은 고령화 인구와 기후 비상사태라는 이중고에 직면해 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "double crisis",
+                            "meaning": "이중 위기, 이중고",
+                            "use": "해결하기 힘든 큰 문제 두 개가 한 번에 겹친 곤란한 상태를 가리킴.",
+                            "example": "The town faces a double crisis of flood and disease."
+                        }
+                    ],
+                    "mustKnowGrammar": "현재진행형 is facing은 일본의 현 실태를 경고조로 강조하고 있으며, 콜론(:)은 앞의 추상적 표현인 'double crisis'를 구체적으로 풀어 동격의 명사구(고령화와 기후 비상사태)로 나열합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 늙은 사람은 많아지는데 날씨까지 점점 엄청 뜨거워지는 두 가지 재앙이 한꺼번에 덮쳤다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The colon / introduces the details / of the 'double crisis'.",
+                            "korean": "콜론은 / 상세 내용을 소개합니다 / '이중 위기'에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "Many elderly people hesitate to use air conditioning due to high costs or the belief that it’s wasteful.",
+                    "chunkReading": "Many elderly people / hesitate to use / air conditioning / due to / high costs / or the belief / that it’s wasteful.",
+                    "directKorean": "많은 노인들은 / 사용하기를 주저한다 / 에어컨을 / ~때문에 / 높은 비용들 / 혹은 믿음 / 그것이 낭비라는.",
+                    "naturalKorean": "많은 노인들은 비싼 비용이나 에어컨 작동이 낭비라는 생각 때문에 에어컨 사용을 주저하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "due to",
+                            "meaning": "~ 때문에, ~로 인해",
+                            "use": "원인이나 이유를 명사구로 연결해주는 전치사구 표현.",
+                            "example": "The flight was canceled due to bad weather."
+                        }
+                    ],
+                    "mustKnowGrammar": "hesitate 뒤에는 to-부정사(to use)가 목적으로 오며, the belief 뒤의 that은 뒤의 완벽한 문장(it is wasteful)과 연결되어 앞의 신념이 구체적으로 무엇인지 말해주는 동격의 접속사입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 전기세가 아깝기도 하고 옛날 아끼던 습관 때문에 에어컨을 켜는 걸 꺼려 한다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'The belief that' / shows that 'that' / is an appositive clause.",
+                            "korean": "'~라는 믿음'은 / 'that' 이하가 / 동격절임을 보여줍니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "To help, the government is creating “cooling spots” in public areas and providing financial aid for air conditioners.",
+                    "chunkReading": "To help, / the government / is creating / “cooling spots” / in public areas / and / providing / financial aid / for air conditioners.",
+                    "directKorean": "돕기 위해, / 정부는 / 만들고 있다 / “무더위 쉼터(cooling spots)”를 / 공공장소에 / 그리고 / 제공하고 있다 / 재정적 지원을 / 에어컨을 위한.",
+                    "naturalKorean": "이러한 문제를 돕기 위해, 정부는 공공장소에 '무더위 쉼터'를 조성하고 에어컨 구매를 위한 재정적 지원을 제공하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "financial aid",
+                            "meaning": "재정적 지원, 보조금",
+                            "use": "국가나 단체가 특정 목적으로 시민들에게 돈을 지원할 때 씀.",
+                            "example": "The school offers financial aid to students."
+                        }
+                    ],
+                    "mustKnowGrammar": "To help는 to-부정사의 부사적 용법(목적)으로 쓰였으며, 조동사 is 뒤에 현재분사 creating과 providing이 and를 중심으로 대칭을 이루는 병렬 진행형 구조입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 나라에서 시원하게 쉴 수 있는 공공 대피소를 만들고, 에어컨 살 돈도 일부 보태주고 있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'To help' / is the purpose. / 'Providing' / is parallel / to 'creating'.",
+                            "korean": "'돕기 위해'는 / 목적입니다. / 'Providing'은 / 병렬을 이룹니다 / 'creating'과."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "These efforts are extremely important.",
+                    "chunkReading": "These efforts / are / extremely important.",
+                    "directKorean": "이러한 노력들은 / 이다 / 극도로 중요한.",
+                    "naturalKorean": "이러한 노력들은 매우 중요합니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "extremely important",
+                            "meaning": "극도로 중요한, 매우 핵심적인",
+                            "use": "일의 시급함 and 중대함을 형용사 강조 부사를 써서 강력하게 피력함.",
+                            "example": "Water is extremely important for our survival."
+                        }
+                    ],
+                    "mustKnowGrammar": "2형식 문장 구조로, 지시 형용사 These가 복수 명사 efforts를 수식하고, 부사 extremely가 주격 보어인 형용사 important를 수식하여 중요성을 배가합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 노인분들의 목숨을 살리기 위해 정부가 하는 정책적 대처가 진짜 중요하다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Extremely' increases / the strength / of the adjective 'important'.",
+                            "korean": "'Extremely'는 증폭시킵니다 / 강도를 / 형용사 'important'의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "This summer, more than 70% of serious heatstroke cases happened in homes that had air conditioning, but it wasn’t turned on.",
+                    "chunkReading": "This summer, / more than 70% / of serious heatstroke cases / happened / in homes / that had air conditioning, / but / it wasn’t / turned on.",
+                    "directKorean": "이번 여름, / 70% 이상이 / 심각한 열사병 사례들의 / 발생했다 / 집들 안에서 / 에어컨을 가지고 있었던, / 하지만 / 그것은 / 켜져 있지 않았다.",
+                    "naturalKorean": "올여름 발생한 심각한 열사병 사례의 70% 이상은 에어컨을 갖추고 있으면서도 가동하지 않은 가정집에서 일어났습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "turned on",
+                            "meaning": "켜진, 가동된",
+                            "use": "가전제품이나 스위치가 켜져 전류가 흐르는 물리적 가동 상태를 뜻함.",
+                            "example": "Make sure the computer is turned on."
+                        }
+                    ],
+                    "mustKnowGrammar": "homes 뒤의 that은 주격 관계대명사로 선행사 homes를 수식합니다. 대명사 it은 단수 명사 air conditioning을 받으며, was not turned on이라는 과거 수동태 부정형이 사용되었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 열사병에 걸려 쓰러진 할머니, 할아버지 10명 중 7명은 집에 에어컨이 설치되어 있었는데도 전기를 켜지 않은 상태였다는 충격적인 통계예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Think about 'turned on'. / It is the passive form / of 'turn on'.",
+                            "korean": "'turned on'을 생각해 보세요. / 그것은 수동태 형태입니다 / 'turn on'의."
+                        }
+                    ]
+                }
+            ]
+        }
     }
 }

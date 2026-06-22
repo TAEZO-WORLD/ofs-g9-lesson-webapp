@@ -1,233 +1,681 @@
 {
-  "lessonTitle": "Living with Less: The Minimalist Movement",
-  "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
-  "lessonGoal": "Students will read an informational text about minimalism, identify the main idea and supporting evidence, use cause-and-effect language, and write a short opinion paragraph.",
-  "warmUp": {
-    "title": "Warm-up",
-    "instructions": "Think about your own belongings. Answer the questions below. There are no right or wrong answers.",
-    "questions": [
-      "What is one item you use every day? Why is it important to you?",
-      "Have you ever given away something you no longer needed? How did it feel?",
-      "In one sentence, what does \"living with less\" mean to you?"
-    ]
-  },
-  "article": {
-    "title": "Why More People Are Choosing to Live with Less",
-    "source": "Adapted for classroom use — OFS Grade 9 International English",
-    "paragraphs": [
-      "In cities around the world, a growing number of people are choosing to own fewer possessions. This lifestyle, often called minimalism, is not simply about having an empty room. Instead, it is about keeping only what is useful, meaningful, or joyful.",
-      "Many minimalists say they started this change because they felt overwhelmed. Their homes were full of clothes they never wore and gadgets they rarely used. Shopping had become a habit, not a need. As a result, they decided to reduce clutter and spend money more carefully.",
-      "Living with less can also benefit the environment. When people buy fewer products, factories produce less waste and use fewer resources. Some families now repair old items instead of replacing them. Others borrow tools from neighbours rather than buying new ones.",
-      "However, minimalism does not look the same for everyone. A student might keep a small wardrobe and digital notes instead of paper. A family might focus on shared experiences, such as hiking or cooking together, rather than buying more toys. The goal is intentionality — making choices on purpose.",
-      "Critics argue that minimalism is a privilege. People with very little money do not always choose to own less; they simply cannot afford more. Because of this, teachers and writers remind us to respect different circumstances and avoid judging others."
-    ]
-  },
-  "vocabularyInContext": {
-    "title": "Vocabulary in Context",
-    "instructions": "Use the article to understand each word. Match the word to its meaning.",
-    "items": [
-      {
-        "word": "minimalism",
-        "definition": "a lifestyle focused on owning fewer possessions on purpose",
-        "sentence": "Minimalism is not simply about having an empty room."
-      },
-      {
-        "word": "clutter",
-        "definition": "a messy collection of things that are not organised",
-        "sentence": "They decided to reduce clutter in their homes."
-      },
-      {
-        "word": "intentionality",
-        "definition": "doing something with a clear purpose or plan",
-        "sentence": "The goal is intentionality — making choices on purpose."
-      },
-      {
-        "word": "privilege",
-        "definition": "a special advantage that not everyone has",
-        "sentence": "Critics argue that minimalism is a privilege."
-      }
-    ]
-  },
-  "mainIdeaQuestion": {
-    "title": "Main Idea",
-    "question": "What is the main idea of the article?",
-    "options": [
-      "Minimalism means throwing away everything you own.",
-      "More people are choosing to live with less for personal and environmental reasons, but the lifestyle looks different for everyone.",
-      "Shopping is illegal in many cities around the world.",
-      "Families should never buy toys for their children."
-    ],
-    "correctIndex": 1,
-    "explanation": "The article explains that more people are choosing minimalism for personal and environmental reasons, and that the lifestyle varies for different people."
-  },
-  "readingComprehension": {
-    "title": "Reading Comprehension",
-    "questions": [
-      {
-        "id": "rc1",
-        "question": "According to the article, why did many minimalists change their lifestyle?",
+    "lessonTitle": "Living with Less: The Minimalist Movement",
+    "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+    "lessonGoal": "Students will read an informational text about minimalism, identify the main idea and supporting evidence, use cause-and-effect language, and write a short opinion paragraph.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about your own belongings. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "What is one item you use every day? Why is it important to you?",
+            "Have you ever given away something you no longer needed? How did it feel?",
+            "In one sentence, what does \"living with less\" mean to you?"
+        ]
+    },
+    "article": {
+        "title": "Why More People Are Choosing to Live with Less",
+        "source": "Adapted for classroom use — OFS Grade 9 International English",
+        "paragraphs": [
+            "In cities around the world, a growing number of people are choosing to own fewer possessions. This lifestyle, often called minimalism, is not simply about having an empty room. Instead, it is about keeping only what is useful, meaningful, or joyful.",
+            "Many minimalists say they started this change because they felt overwhelmed. Their homes were full of clothes they never wore and gadgets they rarely used. Shopping had become a habit, not a need. As a result, they decided to reduce clutter and spend money more carefully.",
+            "Living with less can also benefit the environment. When people buy fewer products, factories produce less waste and use fewer resources. Some families now repair old items instead of replacing them. Others borrow tools from neighbours rather than buying new ones.",
+            "However, minimalism does not look the same for everyone. A student might keep a small wardrobe and digital notes instead of paper. A family might focus on shared experiences, such as hiking or cooking together, rather than buying more toys. The goal is intentionality — making choices on purpose.",
+            "Critics argue that minimalism is a privilege. People with very little money do not always choose to own less; they simply cannot afford more. Because of this, teachers and writers remind us to respect different circumstances and avoid judging others."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Use the article to understand each word. Match the word to its meaning.",
+        "items": [
+            {
+                "word": "minimalism",
+                "definition": "a lifestyle focused on owning fewer possessions on purpose",
+                "sentence": "Minimalism is not simply about having an empty room."
+            },
+            {
+                "word": "clutter",
+                "definition": "a messy collection of things that are not organised",
+                "sentence": "They decided to reduce clutter in their homes."
+            },
+            {
+                "word": "intentionality",
+                "definition": "doing something with a clear purpose or plan",
+                "sentence": "The goal is intentionality — making choices on purpose."
+            },
+            {
+                "word": "privilege",
+                "definition": "a special advantage that not everyone has",
+                "sentence": "Critics argue that minimalism is a privilege."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
         "options": [
-          "They wanted to impress their neighbours.",
-          "They felt overwhelmed by too many possessions.",
-          "Governments forced them to sell their belongings.",
-          "They moved to smaller countries."
+            "Minimalism means throwing away everything you own.",
+            "More people are choosing to live with less for personal and environmental reasons, but the lifestyle looks different for everyone.",
+            "Shopping is illegal in many cities around the world.",
+            "Families should never buy toys for their children."
         ],
         "correctIndex": 1,
-        "explanation": "The article says many minimalists started this change because they felt overwhelmed by too many possessions."
-      },
-      {
-        "id": "rc2",
-        "question": "How can living with less help the environment?",
-        "options": [
-          "It increases factory production.",
-          "It encourages people to buy more gadgets.",
-          "It can reduce waste and resource use.",
-          "It stops families from cooking at home."
-        ],
-        "correctIndex": 2,
-        "explanation": "The article states that when people buy fewer products, factories produce less waste and use fewer resources."
-      },
-      {
-        "id": "rc3",
-        "question": "What concern do critics raise about minimalism?",
-        "options": [
-          "It is too expensive for rich people.",
-          "It only works in winter.",
-          "It may ignore people who cannot afford to buy more.",
-          "It requires everyone to live in one room."
-        ],
-        "correctIndex": 2,
-        "explanation": "Critics argue that minimalism is a privilege because some people cannot afford to buy more, not because they choose to own less."
-      }
-    ]
-  },
-  "evidenceFromText": {
-    "title": "Evidence from the Text",
-    "instructions": "Find a sentence or phrase from the article that supports each statement.",
-    "prompts": [
-      {
-        "id": "ev1",
-        "statement": "Minimalism is not the same for every person."
-      },
-      {
-        "id": "ev2",
-        "statement": "Some people change their habits because they feel stressed by clutter."
-      }
-    ]
-  },
-  "languageFocus": {
-    "title": "Language Focus",
-    "topic": "Cause and Effect Connectors",
-    "explanation": "Writers use cause-and-effect language to explain why something happens or what happens as a result. Common connectors include because, as a result, therefore, and because of this.",
-    "examples": [
-      "Many minimalists started this change because they felt overwhelmed.",
-      "As a result, they decided to reduce clutter.",
-      "Because of this, teachers remind us to respect different circumstances."
-    ],
-    "practice": [
-      "Complete the sentence: People buy fewer products, ________ factories produce less waste.",
-      "Write one sentence using \"because\" about a habit you would like to change."
-    ]
-  },
-  "speakingPractice": {
-    "title": "Speaking Practice",
-    "instructions": "Discuss with a partner or record a short response (60–90 seconds).",
-    "prompts": [
-      "Would you like to try minimalism? Why or why not?",
-      "What is one possession you could live without? Explain your choice.",
-      "How can schools encourage sustainable habits without judging students?"
-    ]
-  },
-  "writingTask": {
-    "title": "Writing Task",
-    "prompt": "Write a short opinion paragraph (80–120 words) answering this question: Do you think minimalism is a good idea for teenagers? Give at least two reasons and use one cause-and-effect connector.",
-    "wordTarget": {
-      "min": 80,
-      "max": 120
+        "explanation": "The article explains that more people are choosing minimalism for personal and environmental reasons, and that the lifestyle varies for different people."
     },
-    "checklist": [
-      "Clear opinion in the opening sentence",
-      "At least two supporting reasons",
-      "One cause-and-effect connector (because, as a result, therefore)",
-      "Concluding sentence"
-    ]
-  },
-  "selfCheck": {
-    "title": "Self-check",
-    "instructions": "Before you submit, review your work.",
-    "items": [
-      "I identified the main idea of the article.",
-      "I answered the comprehension questions using the text.",
-      "I found evidence to support key statements.",
-      "I used cause-and-effect language in my writing.",
-      "I checked spelling and punctuation."
-    ]
-  },
-  "teacher": {
-    "answerKey": {
-      "mainIdea": "More people are choosing to live with less for personal and environmental reasons, but the lifestyle looks different for everyone.",
-      "readingComprehension": {
-        "rc1": "They felt overwhelmed by too many possessions.",
-        "rc2": "It can reduce waste and resource use.",
-        "rc3": "It may ignore people who cannot afford to buy more."
-      },
-      "evidenceFromText": {
-        "ev1": "However, minimalism does not look the same for everyone.",
-        "ev2": "Many minimalists say they started this change because they felt overwhelmed."
-      },
-      "languageFocus": {
-        "practice1": "therefore / as a result / so"
-      }
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "According to the article, why did many minimalists change their lifestyle?",
+                "options": [
+                    "They wanted to impress their neighbours.",
+                    "They felt overwhelmed by too many possessions.",
+                    "Governments forced them to sell their belongings.",
+                    "They moved to smaller countries."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says many minimalists started this change because they felt overwhelmed by too many possessions."
+            },
+            {
+                "id": "rc2",
+                "question": "How can living with less help the environment?",
+                "options": [
+                    "It increases factory production.",
+                    "It encourages people to buy more gadgets.",
+                    "It can reduce waste and resource use.",
+                    "It stops families from cooking at home."
+                ],
+                "correctIndex": 2,
+                "explanation": "The article states that when people buy fewer products, factories produce less waste and use fewer resources."
+            },
+            {
+                "id": "rc3",
+                "question": "What concern do critics raise about minimalism?",
+                "options": [
+                    "It is too expensive for rich people.",
+                    "It only works in winter.",
+                    "It may ignore people who cannot afford to buy more.",
+                    "It requires everyone to live in one room."
+                ],
+                "correctIndex": 2,
+                "explanation": "Critics argue that minimalism is a privilege because some people cannot afford to buy more, not because they choose to own less."
+            }
+        ]
     },
-    "modelAnswer": "I believe minimalism can be a good idea for teenagers because it teaches us to value experiences over possessions. Many students feel stressed when their rooms are cluttered, so owning fewer items can help them focus on school and hobbies. As a result, they may also waste less money on things they do not need. However, minimalism should be a choice, not a rule, because not everyone has the same resources. Overall, thoughtful minimalism can help teenagers live more intentionally.",
-    "rubric": [
-      {
-        "criterion": "Content & Ideas",
-        "excellent": "Clear opinion with two strong, relevant reasons",
-        "developing": "Opinion present but reasons are vague or off-topic",
-        "beginning": "Opinion unclear or missing"
-      },
-      {
-        "criterion": "Language",
-        "excellent": "Uses cause-and-effect connector accurately; few errors",
-        "developing": "Some connector use; errors do not block meaning",
-        "beginning": "Limited vocabulary; frequent errors"
-      },
-      {
-        "criterion": "Organisation",
-        "excellent": "Logical paragraph with opening, support, and conclusion",
-        "developing": "Some organisation; weak opening or ending",
-        "beginning": "Ideas are disconnected"
-      }
-    ],
-    "teacherNotes": [
-      "Pre-teach vocabulary before the first reading if students are G1 level.",
-      "Pair students for evidence-finding: one reads aloud while the other highlights.",
-      "Remind students that evidence answers must quote or closely paraphrase the article.",
-      "For speaking, allow students to use L1 briefly to plan before responding in English.",
-      "Differentiate writing: G1 may write 60–80 words; G2 should aim for 100+ words."
-    ],
-    "teachingScript": [
-      {
-        "phase": "Lead-in (5 min)",
-        "script": "Today we are reading about minimalism — choosing to live with less on purpose. Look at the warm-up questions. In pairs, share one item you use every day and why it matters."
-      },
-      {
-        "phase": "Reading (15 min)",
-        "script": "Read the article silently first. Then we will read two paragraphs together. As you read, underline one sentence that surprises you."
-      },
-      {
-        "phase": "Comprehension (10 min)",
-        "script": "Answer the main idea and comprehension questions. Use the text — do not guess. Be ready to point to the paragraph that helped you."
-      },
-      {
-        "phase": "Language & Writing (15 min)",
-        "script": "Notice the cause-and-effect connectors in the language focus box. In your writing, include at least one connector and two reasons for your opinion."
-      },
-      {
-        "phase": "Wrap-up (5 min)",
-        "script": "Use the self-check list. Submit your work. If time remains, volunteers can share one sentence from their opinion paragraph."
-      }
-    ]
-  }
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find a sentence or phrase from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Minimalism is not the same for every person."
+            },
+            {
+                "id": "ev2",
+                "statement": "Some people change their habits because they feel stressed by clutter."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Cause and Effect Connectors",
+        "explanation": "Writers use cause-and-effect language to explain why something happens or what happens as a result. Common connectors include because, as a result, therefore, and because of this.",
+        "examples": [
+            "Many minimalists started this change because they felt overwhelmed.",
+            "As a result, they decided to reduce clutter.",
+            "Because of this, teachers remind us to respect different circumstances."
+        ],
+        "practice": [
+            "Complete the sentence: People buy fewer products, ________ factories produce less waste.",
+            "Write one sentence using \"because\" about a habit you would like to change."
+        ]
+    },
+    "speakingPractice": {
+        "title": "Speaking Practice",
+        "instructions": "Discuss with a partner or record a short response (60–90 seconds).",
+        "prompts": [
+            "Would you like to try minimalism? Why or why not?",
+            "What is one possession you could live without? Explain your choice.",
+            "How can schools encourage sustainable habits without judging students?"
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short opinion paragraph (80–120 words) answering this question: Do you think minimalism is a good idea for teenagers? Give at least two reasons and use one cause-and-effect connector.",
+        "wordTarget": {
+            "min": 80,
+            "max": 120
+        },
+        "checklist": [
+            "Clear opinion in the opening sentence",
+            "At least two supporting reasons",
+            "One cause-and-effect connector (because, as a result, therefore)",
+            "Concluding sentence"
+        ]
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I identified the main idea of the article.",
+            "I answered the comprehension questions using the text.",
+            "I found evidence to support key statements.",
+            "I used cause-and-effect language in my writing.",
+            "I checked spelling and punctuation."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "More people are choosing to live with less for personal and environmental reasons, but the lifestyle looks different for everyone.",
+            "readingComprehension": {
+                "rc1": "They felt overwhelmed by too many possessions.",
+                "rc2": "It can reduce waste and resource use.",
+                "rc3": "It may ignore people who cannot afford to buy more."
+            },
+            "evidenceFromText": {
+                "ev1": "However, minimalism does not look the same for everyone.",
+                "ev2": "Many minimalists say they started this change because they felt overwhelmed."
+            },
+            "languageFocus": {
+                "practice1": "therefore / as a result / so"
+            }
+        },
+        "modelAnswer": "I believe minimalism can be a good idea for teenagers because it teaches us to value experiences over possessions. Many students feel stressed when their rooms are cluttered, so owning fewer items can help them focus on school and hobbies. As a result, they may also waste less money on things they do not need. However, minimalism should be a choice, not a rule, because not everyone has the same resources. Overall, thoughtful minimalism can help teenagers live more intentionally.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clear opinion with two strong, relevant reasons",
+                "developing": "Opinion present but reasons are vague or off-topic",
+                "beginning": "Opinion unclear or missing"
+            },
+            {
+                "criterion": "Language",
+                "excellent": "Uses cause-and-effect connector accurately; few errors",
+                "developing": "Some connector use; errors do not block meaning",
+                "beginning": "Limited vocabulary; frequent errors"
+            },
+            {
+                "criterion": "Organisation",
+                "excellent": "Logical paragraph with opening, support, and conclusion",
+                "developing": "Some organisation; weak opening or ending",
+                "beginning": "Ideas are disconnected"
+            }
+        ],
+        "teacherNotes": [
+            "Pre-teach vocabulary before the first reading if students are G1 level.",
+            "Pair students for evidence-finding: one reads aloud while the other highlights.",
+            "Remind students that evidence answers must quote or closely paraphrase the article.",
+            "For speaking, allow students to use L1 briefly to plan before responding in English.",
+            "Differentiate writing: G1 may write 60–80 words; G2 should aim for 100+ words."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in (5 min)",
+                "script": "Today we are reading about minimalism — choosing to live with less on purpose. Look at the warm-up questions. In pairs, share one item you use every day and why it matters."
+            },
+            {
+                "phase": "Reading (15 min)",
+                "script": "Read the article silently first. Then we will read two paragraphs together. As you read, underline one sentence that surprises you."
+            },
+            {
+                "phase": "Comprehension (10 min)",
+                "script": "Answer the main idea and comprehension questions. Use the text — do not guess. Be ready to point to the paragraph that helped you."
+            },
+            {
+                "phase": "Language & Writing (15 min)",
+                "script": "Notice the cause-and-effect connectors in the language focus box. In your writing, include at least one connector and two reasons for your opinion."
+            },
+            {
+                "phase": "Wrap-up (5 min)",
+                "script": "Use the self-check list. Submit your work. If time remains, volunteers can share one sentence from their opinion paragraph."
+            }
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Hello everyone, / today we are diving / into a very relevant topic: / minimalism.",
+                    "korean": "안녕하세요 여러분, / 오늘 우리는 매우 대두되는 주제를 / 깊게 살펴볼 것입니다: / 미니멀리즘입니다."
+                },
+                {
+                    "english": "We will explore / how owning less / can change our mindset / and benefit our environment.",
+                    "korean": "우리는 탐구할 것입니다 / 적게 소유하는 것이 / 어떻게 우리의 마인드셋을 바꾸고 / 우리 환경을 이롭게 할 수 있는지를."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "What is / one item / you use every day? / Why is it / important to you?",
+                    "korean": "무엇입니까 / 한 가지 물건은 / 여러분이 매일 사용하는? / 그것이 왜 / 여러분에게 중요합니까?",
+                    "teacherFollowUp": "Think about / how that item / makes your daily life / easier.",
+                    "teacherFollowUpKorean": "생각해보세요 / 그 물건이 어떻게 / 여러분의 일상 생활을 / 더 쉽게 만드는지."
+                },
+                {
+                    "question": "Have you ever / given away / something / you no longer needed? / How did it feel?",
+                    "korean": "한 적이 있습니까 / 나누어 준 적이 / 무언가를 / 더 이상 필요하지 않은? / 기분이 어땠나요?",
+                    "teacherFollowUp": "Did it / give you / a sense of relief / to let it go?",
+                    "teacherFollowUpKorean": "그것이 / 여러분에게 주었나요 / 해방감(안도감)을 / 그것을 떠나보내서?"
+                },
+                {
+                    "question": "In one sentence, / what does / \"living with less\" / mean to you?",
+                    "korean": "한 문장으로, / 무엇을 / \"적게 사는 것\"이 / 당신에게 의미하나요?",
+                    "teacherFollowUp": "Try to focus / on freedom / or simplicity.",
+                    "teacherFollowUpKorean": "자유나 / 혹은 단순함에 / 집중해 보도록 하세요."
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "In cities around the world, a growing number of people are choosing to own fewer possessions.",
+                    "chunkReading": "In cities / around the world, / a growing number of people / are choosing / to own fewer possessions.",
+                    "directKorean": "도시들에서 / 전 세계의, / 증가하는 수의 사람들이 / 선택하고 있다 / 더 적은 소유물을 소유하기를.",
+                    "naturalKorean": "전 세계 도시에서 점점 더 많은 사람들이 더 적은 소유물을 소유하는 삶을 선택하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "a growing number of",
+                            "meaning": "점점 더 많은, 증가하는 수의",
+                            "use": "셀 수 있는 복수 명사 앞에 쓰여 그 수가 늘어나고 있음을 나타냄.",
+                            "example": "A growing number of students are studying online."
+                        }
+                    ],
+                    "mustKnowGrammar": "choose + to-부정사 구조로 '~하는 것을 선택하다'라는 목적어 역할을 합니다. 또한 현재진행형(are choosing)을 써서 현재 일어나고 있는 변화의 추세를 강조하고 있습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 전 세계의 많은 사람들이 물건을 예전보다 덜 가지려고 선택하는 유행이 생기고 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Look at the verb 'choose'. / It is followed / by 'to own'.",
+                            "korean": "'choose' 동사를 보세요. / 그것은 이어집니다 / 'to own'으로."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "This lifestyle, often called minimalism, is not simply about having an empty room.",
+                    "chunkReading": "This lifestyle, / often called minimalism, / is not simply / about having / an empty room.",
+                    "directKorean": "이 라이프스타일은, / 흔히 미니멀리즘이라 불리는, / 단순히 ~에 관한 것이 아니다 / 빈 방을 가지는 것.",
+                    "naturalKorean": "흔히 미니멀리즘이라고 불리는 이 생활 방식은 단순히 빈 방을 갖는 것만을 의미하는 것은 아닙니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "often called",
+                            "meaning": "흔히 ~라고 불리는",
+                            "use": "명사 뒤에서 쉼표와 함께 쓰여 대상을 부연 설명할 때 사용함.",
+                            "example": "This dish, often called sushi, is popular globally."
+                        }
+                    ],
+                    "mustKnowGrammar": "about having에서 전치사 about의 목적어로 동명사 having(~를 갖는 것)이 쓰였습니다. 'not simply about'은 전체 부정이 아닌 부분 한정 표현으로 '단순히 그것만을 위한 것이 아니다'라는 뜻입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 미니멀리즘이 단순히 방을 텅 비우는 것만을 뜻하는 게 아니라는 말이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The writer uses / 'often called minimalism' / as an insert.",
+                            "korean": "작가는 사용합니다 / '흔히 미니멀리즘이라 불리는'을 / 삽입구로."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "Instead, it is about keeping only what is useful, meaningful, or joyful.",
+                    "chunkReading": "Instead, / it is about / keeping only / what is useful, / meaningful, or joyful.",
+                    "directKorean": "대신에, / 그것은 ~에 관한 것이다 / 오직 ~한 것만 유지하는 것 / 유용하거나, / 의미 있거나, 혹은 즐거운.",
+                    "naturalKorean": "그 대신, 유용하거나 의미 있거나 즐거움을 주는 것들만 남겨두는 것에 관한 것입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "what is useful",
+                            "meaning": "유용한 것",
+                            "use": "선행사를 포함한 관계대명사 what이 형용사들과 연결되어 '~한 것' 명사절을 이룸.",
+                            "example": "What is important is your attitude."
+                        }
+                    ],
+                    "mustKnowGrammar": "관계대명사 what은 선행사를 포함하고 있어 the thing which와 바꿀 수 있으며, 전치사구의 동명사 keeping의 목적어 역할을 하는 명사절을 이끕니다.",
+                    "feynmanExplanation": "쉽게 말하면, 물건을 무조건 다 버리라는 게 아니라 나에게 진짜 쓸모 있고 기쁨을 주는 가치 있는 물건들만 쏙 남기라는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Instead' shows / a clear contrast / to the previous sentence.",
+                            "korean": "'Instead'는 보여줍니다 / 명확한 대조를 / 이전 문장에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "Many minimalists say they started this change because they felt overwhelmed.",
+                    "chunkReading": "Many minimalists say / they started this change / because / they felt overwhelmed.",
+                    "directKorean": "많은 미니멀리스트들은 말한다 / 그들이 이 변화를 시작했다고 / 왜냐하면 / 그들이 압도당함을 느꼈기 때문에.",
+                    "naturalKorean": "많은 미니멀리스트들은 자신들이 압도당하는 기분을 느꼈기 때문에 이 변화를 시작했다고 말합니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "felt overwhelmed",
+                            "meaning": "압도당함을 느꼈다, 질렸다",
+                            "use": "물건이나 업무가 너무 많아 감당하지 못하고 스트레스 받는 심리를 묘사함.",
+                            "example": "She felt overwhelmed by the high workload."
+                        }
+                    ],
+                    "mustKnowGrammar": "because는 부사절 접속사로 뒤에 완벽한 주어+동사 문장(they felt overwhelmed)이 오며 원인을 설명합니다. overwhelm은 '압도하다'이므로 압도당하는 감정을 느낀 주어의 상태는 수동 의미의 과거분사(overwhelmed)를 사용합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 집구석에 잡동사니가 너무 꽉 들어차서 숨이 턱 막히고 짜증이 나서 정리를 하기 시작했다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice the cause: / they felt overwhelmed. / That made them / start the change.",
+                            "korean": "원인을 주목하세요: / 그들은 압도당함을 느꼈습니다. / 그것이 그들을 만들었습니다 / 변화를 시작하도록."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "Their homes were full of clothes they never wore and gadgets they rarely used.",
+                    "chunkReading": "Their homes / were full of clothes / they never wore / and gadgets / they rarely used.",
+                    "directKorean": "그들의 집은 / 옷들로 가득 차 있었다 / 그들이 결코 입지 않은 / 그리고 도구들 / 그들이 거의 사용하지 않은.",
+                    "naturalKorean": "그들의 집은 한 번도 입지 않은 옷들과 거의 사용하지 않는 가전제품들로 가득 차 있었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "were full of",
+                            "meaning": "~로 가득 차 있었다",
+                            "use": "공간에 사물이나 사람이 꽉 차 있는 상태를 표현함.",
+                            "example": "The basket was full of fresh apples."
+                        }
+                    ],
+                    "mustKnowGrammar": "clothes (which) they never wore와 gadgets (which) they rarely used 구조로, 목적격 관계대명사가 생략되어 뒤에서 각각 앞의 명사(옷과 도구)를 수식하고 있습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 옷장에 안 입는 옷들이 그득하고 서랍에는 사놓고 안 쓰는 전자기기들만 가득했었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Both clauses / modify the nouns / before them.",
+                            "korean": "두 관계대명사절 모두 / 명사들을 수식합니다 / 그것들 앞의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "Shopping had become a habit, not a need.",
+                    "chunkReading": "Shopping / had become / a habit, / not a need.",
+                    "directKorean": "쇼핑은 / 되어 있었다 / 습관이, / 필요가 아니라.",
+                    "naturalKorean": "쇼핑은 필요가 아니라 습관이 되어 버렸던 것입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "not a need",
+                            "meaning": "필요가 아니라",
+                            "use": "A, not B 형태로 어떤 대상이 진정한 필요에 의한 것이 아님을 대조 강조함.",
+                            "example": "Books are a necessity, not a luxury."
+                        }
+                    ],
+                    "mustKnowGrammar": "과거완료 시제 had become을 쓴 이유는, 미니멀리즘을 결심하기(과거) 전부터 오랫동안 쇼핑이 이미 나쁜 습관이 되어 있었음을 강조하기 위함입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 정말 필요해서 사는 게 아니라 그냥 무의식적이고 습관적으로 결제하고 쇼핑을 해왔다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Had become' is / past perfect. / It happened before / they decided to change.",
+                            "korean": "'Had become'은 / 과거완료입니다. / 그것은 ~전에 일어났습니다 / 그들이 변화를 결심하기."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "As a result, they decided to reduce clutter and spend money more carefully.",
+                    "chunkReading": "As a result, / they decided / to reduce clutter / and spend / money / more carefully.",
+                    "directKorean": "결과적으로, / 그들은 결심했다 / 잡동사니를 줄이고 / 쓰기로 / 돈을 / 더 신중하게.",
+                    "naturalKorean": "그 결과, 그들은 잡동사니를 줄이고 돈을 더 신중하게 쓰기로 결정했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "As a result",
+                            "meaning": "그 결과, 결과적으로",
+                            "use": "앞 문장의 행동이나 원인에 따른 결말이나 결정을 소개할 때 사용하는 연결어.",
+                            "example": "As a result, the project succeeded."
+                        }
+                    ],
+                    "mustKnowGrammar": "decided to 뒤에 동사원형 reduce와 spend가 and로 나란히 걸리는 병렬 구조입니다. to spend가 아니라 to가 생략되어 원형만 병렬되었습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 쇼핑 중독 상태를 자각하고 집 청소(clutter 줄이기)를 하고 돈도 낭비하지 않기로 결심했다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence has / two actions: / 'reduce clutter' and 'spend money'.",
+                            "korean": "이 문장은 가지고 있습니다 / 두 가지 행동을: / '잡동사니를 줄이고'와 '돈을 쓰는 것'입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "Living with less can also benefit the environment.",
+                    "chunkReading": "Living with less / can also benefit / the environment.",
+                    "directKorean": "적게 사는 것은 / 또한 이롭게 할 수 있다 / 환경을.",
+                    "naturalKorean": "적게 사는 것은 환경에도 도움이 될 수 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "benefit the environment",
+                            "meaning": "환경을 이롭게 하다, 돕다",
+                            "use": "친환경적인 습관이 주는 긍정적인 파급효과를 표현할 때 씀.",
+                            "example": "Recycling will benefit the environment."
+                        }
+                    ],
+                    "mustKnowGrammar": "동명사 주어 Living with less가 문장의 주어로 쓰였습니다. 동명사구는 단수 취급을 하지만, 여기서는 조동사 can이 결합하여 동사원형 benefit이 바로 왔습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 우리가 욕심을 버리고 적게 소유하며 살아가면 자연스럽게 자연환경도 보호하게 된다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Living with less' / acts as the subject / here.",
+                            "korean": "'적게 사는 것'이 / 주어의 역할을 합니다 / 여기에서."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 9,
+                    "original": "When people buy fewer products, factories produce less waste and use fewer resources.",
+                    "chunkReading": "When people buy / fewer products, / factories produce / less waste / and use / fewer resources.",
+                    "directKorean": "사람들이 살 때 / 더 적은 제품들을, / 공장들은 생산한다 / 더 적은 쓰레기를 / 그리고 사용한다 / 더 적은 자원을.",
+                    "naturalKorean": "사람들이 제품을 덜 사면, 공장은 쓰레기를 덜 배출하고 자원도 더 적게 사용하게 됩니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "fewer resources",
+                            "meaning": "더 적은 자원들",
+                            "use": "셀 수 있는 복수 명사 resources 앞에 비교급 fewer를 씀.",
+                            "example": "We need to use fewer resources like paper."
+                        }
+                    ],
+                    "mustKnowGrammar": "수량 형용사 비교급의 쓰임 구별: 셀 수 있는 복수 명사(products, resources) 앞에는 fewer를 쓰고, 셀 수 없는 단수 명사(waste) 앞에는 less를 사용합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 우리가 소비를 줄이면 물건을 만드는 공장도 덜 돌아가니까 공장 쓰레기도 줄고 석유나 석탄 같은 자원도 아끼게 된다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice 'fewer' / for products, / but 'less' / for waste.",
+                            "korean": "'fewer'를 보세요 / 제품들(products) 앞에는, / 그러나 'less'입니다 / 쓰레기(waste) 앞에는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 10,
+                    "original": "Some families now repair old items instead of replacing them.",
+                    "chunkReading": "Some families / now repair / old items / instead of / replacing them.",
+                    "directKorean": "일부 가족들은 / 이제 수리한다 / 오래된 물건들을 / ~대신에 / 그것들을 교체하는 것.",
+                    "naturalKorean": "어떤 가족들은 이제 오래된 물건을 새것으로 교체하는 대신 수리해서 씁니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "instead of",
+                            "meaning": "~ 대신에",
+                            "use": "어떤 행위나 물건을 대체하여 다른 것을 취할 때 쓰는 전치사구.",
+                            "example": "He had tea instead of coffee."
+                        }
+                    ],
+                    "mustKnowGrammar": "instead of는 전치사이므로 뒤에 동사가 올 때 반드시 동명사 형태(replacing)로 와야 합니다. 대명사 them은 앞에 나온 복수 명사 old items를 가리킵니다.",
+                    "feynmanExplanation": "쉽게 말하면, 냄비나 의자가 낡거나 고장 났다고 바로 내다 버리고 새로 사는 게 아니라, 고치고 꿰매서 쓴다는 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Replacing' is a gerund / because / 'instead of' is a preposition.",
+                            "korean": "'Replacing'은 동명사입니다 / 왜냐하면 / 'instead of'가 전치사이기 때문입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 11,
+                    "original": "Others borrow tools from neighbours rather than buying new ones.",
+                    "chunkReading": "Others / borrow tools / from neighbours / rather than / buying new ones.",
+                    "directKorean": "다른 이들은 / 도구를 빌린다 / 이웃들로부터 / ~하기보다 / 새것들을 사는 것.",
+                    "naturalKorean": "또 어떤 이들은 새 도구를 사기보다 이웃에게 빌려 씁니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "rather than",
+                            "meaning": "~하기보다는 (오히려)",
+                            "use": "두 선택안 중 원하지 않는 쪽보다 선호하는 행위를 강조하여 묘사할 때 사용함.",
+                            "example": "I prefer to walk rather than drive."
+                        }
+                    ],
+                    "mustKnowGrammar": "Others는 앞 문장의 Some families에 대비되는 '또 다른 사람들'을 뜻합니다. ones는 앞에 나온 tools를 반복 피하기 위해 사용한 복수형 부정대명사입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 1년에 한 번 쓸까 말까 한 드릴 같은 비싼 공구는 새로 사서 창고에 썩히지 않고 이웃에게 빌려 쓴다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Ones' is / a pronoun / replacing 'tools'.",
+                            "korean": "'Ones'는 / 대명사입니다 / 'tools'를 대체하는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 12,
+                    "original": "However, minimalism does not look the same for everyone.",
+                    "chunkReading": "However, / minimalism / does not look / the same / for everyone.",
+                    "directKorean": "하지만, / 미니멀리즘은 / 보이지 않는다 / 똑같이 / 모든 사람에게.",
+                    "naturalKorean": "하지만 미니멀리즘이 모든 사람에게 똑같은 모습인 것은 아닙니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "look the same",
+                            "meaning": "똑같이 보이다, 동일한 모습이다",
+                            "use": "외형이나 성격이 유사하거나 동일하게 보임을 표현할 때 씀.",
+                            "example": "Twins often look the same."
+                        }
+                    ],
+                    "mustKnowGrammar": "역접의 접속부사 However를 써서 화제를 전환합니다. 환경적 이점이라는 대의적인 주제에서, 개개인이 삶에서 어떻게 다르게 실천할 수 있는지 개인적인 관점으로 전환합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 사람마다 가치관이나 환경이 다르기 때문에 미니멀리즘을 실천하는 정답이 하나로 정해진 건 아니라는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'However' shows / a change / in the direction of the text.",
+                            "korean": "'However'는 보여줍니다 / 변화를 / 글의 방향에서의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 13,
+                    "original": "A student might keep a small wardrobe and digital notes instead of paper.",
+                    "chunkReading": "A student / might keep / a small wardrobe / and digital notes / instead of paper.",
+                    "directKorean": "한 학생은 / 유지할지도 모른다 / 작은 옷장과 / 디지털 노트를 / 종이 대신에.",
+                    "naturalKorean": "학생은 종이 노트 대신 디지털 노트를 쓰고, 옷장을 작게 유지할 수 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "small wardrobe",
+                            "meaning": "작은 옷장, 최소한의 옷가지",
+                            "use": "소유하는 의류의 양을 작고 심플하게 통제하는 라이프스타일 묘사.",
+                            "example": "Having a small wardrobe saves time in the morning."
+                        }
+                    ],
+                    "mustKnowGrammar": "조동사 might는 약한 추측이나 가능성(~일지도 모른다, ~할 수 있다)을 나타내어 예시 속 학생이 취할 수 있는 구체적인 선택을 부드럽게 제시합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 학생의 미니멀리즘은 무거운 종이 교과서나 공책을 여러 권 들고 다니는 대신 아이패드 하나에 다 넣고 옷도 몇 벌만 갖는 방식일 수 있다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Might' suggests / a possibility / for a student's lifestyle.",
+                            "korean": "'Might'는 암시합니다 / 가능성을 / 학생의 라이프스타일에 대한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 14,
+                    "original": "A family might focus on shared experiences, such as hiking or cooking together, rather than buying more toys.",
+                    "chunkReading": "A family / might focus on / shared experiences, / such as / hiking or cooking together, / rather than buying / more toys.",
+                    "directKorean": "한 가족은 / 집중할지도 모른다 / 공유된 경험들에, / ~와 같은 / 하이킹이나 요리하기 함께, / 사는 것보다 / 더 많은 장난감을.",
+                    "naturalKorean": "어떤 가족은 장난감을 더 많이 사기보다 하이킹을 가거나 함께 요리를 하는 등의 공유된 경험에 집중할 수 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "focus on",
+                            "meaning": "~에 집중하다, 초점을 맞추다",
+                            "use": "에너지를 쏟거나 깊은 관심을 갖는 주된 목표 대상을 가리킬 때 씀.",
+                            "example": "Students should focus on their studies."
+                        }
+                    ],
+                    "mustKnowGrammar": "such as(~와 같은)는 구체적인 예시들을 열거할 때 쓰이며, 전치사구처럼 취급되어 뒤에 동명사 hiking과 cooking이 or로 병렬 연결되었습니다. rather than 뒤의 buying도 동명사입니다.",
+                    "feynmanExplanation": "쉽게 말하면, 애들 기분 맞춰주려고 맨날 새로운 장난감 결제해 주는 대신에 다 같이 등산가거나 주말에 같이 빵 만들면서 추억을 공유하는 게 가족 미니멀리즘이라는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Shared experiences' / mean doing / activities together.",
+                            "korean": "'공유된 경험'은 / 하는 것을 의미합니다 / 활동들을 함께."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 15,
+                    "original": "The goal is intentionality — making choices on purpose.",
+                    "chunkReading": "The goal is / intentionality / — making choices / on purpose.",
+                    "directKorean": "목표는 ~이다 / 의도성 / — 선택들을 하는 것 / 일부러(목적을 가지고).",
+                    "naturalKorean": "핵심 목표는 의도성, 즉 뚜렷한 목적을 가지고 의도적으로 선택을 내리는 것입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "on purpose",
+                            "meaning": "일부러, 의도적으로",
+                            "use": "우연이나 실수가 아니라 명확한 목적과 계획을 갖고 행동할 때 씀.",
+                            "example": "He left the door open on purpose."
+                        }
+                    ],
+                    "mustKnowGrammar": "대시(—)는 동격 및 보충 설명의 역할을 합니다. 앞의 다소 추상적인 명사 'intentionality'를 'making choices on purpose(목적 있는 선택을 하는 것)'이라는 친절한 단어로 부연하고 있습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 미니멀리즘의 진짜 끝판왕 목표는 유행이나 남들의 광고에 휘둘리지 않고 내가 스스로 확실한 기준과 목적을 세우고 물건을 골라 사는 주체성을 갖는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The dash / explains the difficult word / 'intentionality'.",
+                            "korean": "대시는 / 어려운 단어를 설명합니다 / '의도성(intentionality)'이라는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 16,
+                    "original": "Critics argue that minimalism is a privilege.",
+                    "chunkReading": "Critics / argue that / minimalism / is a privilege.",
+                    "directKorean": "비판론자들은 / 주장한다 ~라고 / 미니멀리즘은 / 특권이라고.",
+                    "naturalKorean": "비판론자들은 미니멀리즘이 하나의 특권이라고 주장합니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "argue that",
+                            "meaning": "~라고 주장하다, 논쟁하다",
+                            "use": "온건한 비판 진영의 의견을 학술적으로 인용할 때 유용함.",
+                            "example": "Many experts argue that sleep is essential."
+                        }
+                    ],
+                    "mustKnowGrammar": "argue의 목적어로 쓰이는 명사절 접속사 that이 사용되었습니다. 명사절 접속사 that 뒤에는 문법적으로 완전한 구조의 문장(minimalism is a privilege)이 옵니다.",
+                    "feynmanExplanation": "쉽게 말하면, 어떤 이들은 미니멀리즘이란 것도 결국 돈도 있고 살 만큼 여유가 남는 부자들만이 부릴 수 있는 사치나 특권이라고 꼬집는다는 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Critics' are / those who / find problems in things.",
+                            "korean": "'비판론자들'은 / 이들입니다 / 일의 문제점을 찾아내는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 17,
+                    "original": "People with very little money do not always choose to own less; they simply cannot afford more.",
+                    "chunkReading": "People / with very little money / do not always choose / to own less; / they simply / cannot afford more.",
+                    "directKorean": "사람들은 / 매우 적은 돈을 가진 / 항상 선택하는 것은 아니다 / 적게 소유하기를; / 그들은 단지 / 더 많이 살 여유가 없다.",
+                    "naturalKorean": "돈이 아주 없는 사람들은 적게 가지는 삶을 스스로 선택한 것이 아니라, 단지 더 살 여유가 없을 뿐입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "cannot afford",
+                            "meaning": "~할 형편이 안 된다, 감당할 수 없다",
+                            "use": "주로 재정적, 시간적 능력의 한계로 인해 어떤 행동이나 소비를 하지 못할 때 쓰는 조동사 표현.",
+                            "example": "I cannot afford to buy a new car."
+                        }
+                    ],
+                    "mustKnowGrammar": "do not always는 부분 부정의 의미로 '항상 ~하는 것은 아니다'로 해석됩니다. 가난한 사람이 자발적으로 덜 가지는 삶을 골랐을 수도 있지만, 대부분은 선택의 여지 없이 돈이 없어 살 형편이 안 될 뿐임을 말합니다.",
+                    "feynmanExplanation": "쉽게 말하면, 가난한 사람들은 물건을 안 사는 게 좋아서 안 가진 게 아니라, 그냥 돈이 없어서 에어컨이나 좋은 옷을 못 산다는 날카로운 비판이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Do not always' / means some do, / but not everyone.",
+                            "korean": "'Do not always'는 / 일부는 그렇지만 / 모두가 다 그런 건 아님을 의미합니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 18,
+                    "original": "Because of this, teachers and writers remind us to respect different circumstances and avoid judging others.",
+                    "chunkReading": "Because of this, / teachers and writers / remind us / to respect different circumstances / and avoid / judging others.",
+                    "directKorean": "이것 때문에, / 교사들과 작가들은 / 우리에게 일깨워준다 / 서로 다른 상황들을 존중하도록 / 그리고 피하도록 / 타인들을 판단하는 것.",
+                    "naturalKorean": "이러한 이유 때문에, 교사와 작가들은 우리에게 처해진 다양한 환경을 존중하고 타인을 판단하지 말 것을 상기시킵니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "remind us to",
+                            "meaning": "우리에게 ~하라고 상기시키다, 일깨우다",
+                            "use": "remind + 목적어 + to-부정사 구조로, 의무나 중요한 태도를 잊지 않도록 촉구함.",
+                            "example": "Teachers remind us to do our homework."
+                        }
+                    ],
+                    "mustKnowGrammar": "remind + 목적어 + to-부정사(to respect ... and avoid ...) 병렬 구조와 avoid + 동명사(judging) 패턴이 결합되었습니다. avoid의 목적어로는 명사나 동명사만 올 수 있습니다.",
+                    "feynmanExplanation": "쉽게 말하면, 사람마다 형편과 사정이 다 제각각이니 '왜 넌 물건을 안 버리니?' 혹은 '왜 넌 그렇게 물건을 못 사니?' 하면서 남을 함부로 비판하거나 무시하면 안 된다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "We see / the verb 'avoid' / requires the gerund / 'judging'.",
+                            "korean": "우리는 봅니다 / 'avoid' 동사가 / 동명사 'judging'을 / 요구하는 것을."
+                        }
+                    ]
+                }
+            ]
+        }
+    }
 }
