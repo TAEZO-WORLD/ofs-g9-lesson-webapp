@@ -1,0 +1,278 @@
+{
+    "lessonTitle": "The Evolution of Locks: From Wooden Keys to Face Scans",
+    "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+    "textType": "Chronological Explanation Paragraph",
+    "lessonGoal": "Students will read an informational timeline text about the evolution of locks, identify chronological order and supporting details, learn technology-related vocabulary, and write a short explanatory paragraph about how locks have changed over time.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about locks and security. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "What kind of lock do you use most often?",
+            "Would you rather use a key, a number code, a fingerprint, or a face scan? Why?",
+            "Why do people need locks?"
+        ]
+    },
+    "article": {
+        "title": "The Evolution of Locks: From Wooden Keys to Face Scans",
+        "source": "Adapted for classroom use — OFS Grade 9 International English",
+        "paragraphs": [
+            "From ancient doors to digital doors, locks have come a long way. Today, your face might be the key!",
+            "The first known locks were invented over 4,000 years ago in Ancient Egypt and Mesopotamia. These early locks were made of wood and used a big wooden key to lift pins inside the lock, a system similar to modern locks! The Romans improved on this by using metal locks and keys. Their locks were smaller and could be worn on rings so people wouldn’t lose them!",
+            "Locks have been getting stronger, smaller, and smarter ever since. In the 1840s, Linus Yale Sr., an American inventor, created strong locks for banks in Newport, New York. He worked on ideas similar to the old pin-style locks, but with better security. Later, in 1861, Linus Yale Jr. patented the cylinder lock. The lock mechanism fits inside a metal tube, a design still used in most doors today. In the 1920s, combination locks became popular, opening with a turning dial instead of a key.",
+            "The late 20th and early 21st centuries brought rapid technology changes. In the 1970s, keycard locks were invented for hotels, letting guests unlock their rooms using a plastic swipe card. By the 2000s, fingerprint and keypad locks arrived. You could now unlock doors with your finger or a number code, meaning no physical key was needed! Today, smart locks and face scan locks are introduced. Phones, apps, and even your face can now open a lock, all without touching a key.",
+            "Some lock developments are especially interesting. For example, the Yale company, which made locks in the 1800s, still exists today. There are even lock-picking competitions, but only for fun and learning! In addition, a smart lock today can send a message to your phone when someone opens your door!"
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Use the article to understand each word or phrase. Match the word to its meaning.",
+        "items": [
+            {
+                "word": "ancient",
+                "definition": "very old; from a long time ago",
+                "sentence": "The first known locks were invented over 4,000 years ago in Ancient Egypt."
+            },
+            {
+                "word": "invented",
+                "definition": "created for the first time",
+                "sentence": "The first known locks were invented over 4,000 years ago."
+            },
+            {
+                "word": "mechanism",
+                "definition": "the working parts inside a machine or tool",
+                "sentence": "The lock mechanism fits inside a metal tube."
+            },
+            {
+                "word": "combination lock",
+                "definition": "a lock that opens with numbers instead of a key",
+                "sentence": "In the 1920s, combination locks became popular."
+            },
+            {
+                "word": "keycard",
+                "definition": "a plastic card used to unlock a door",
+                "sentence": "Keycard locks were invented for hotels in the 1970s."
+            },
+            {
+                "word": "fingerprint",
+                "definition": "the unique mark made by a person’s finger",
+                "sentence": "By the 2000s, fingerprint and keypad locks arrived."
+            },
+            {
+                "word": "smart lock",
+                "definition": "a lock that can connect to phones, apps, or digital systems",
+                "sentence": "Phones, apps, and even your face can now open a smart lock."
+            },
+            {
+                "word": "face scan",
+                "definition": "technology that recognizes a person’s face",
+                "sentence": "Today, smart locks and face scan locks are introduced."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Locks have changed from simple wooden keys to modern digital systems.",
+            "Ancient people did not need locks.",
+            "Locks are only used in hotels and banks.",
+            "Face scans are the only safe type of lock."
+        ],
+        "correctIndex": 0,
+        "explanation": "The article explains how locks developed over time, from ancient wooden locks to modern smart locks and face scan technology."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "Where were the first known locks invented?",
+                "options": [
+                    "Ancient Egypt and Mesopotamia",
+                    "Newport, New York",
+                    "Rome only",
+                    "Modern hotels"
+                ],
+                "correctIndex": 0,
+                "explanation": "The text says the first known locks were invented over 4,000 years ago in Ancient Egypt and Mesopotamia."
+            },
+            {
+                "id": "rc2",
+                "question": "How did early wooden locks work?",
+                "options": [
+                    "They used a face scan.",
+                    "They used a big wooden key to lift pins inside the lock.",
+                    "They opened with a plastic card.",
+                    "They used a phone app."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says early wooden locks used a big wooden key to lift pins inside the lock."
+            },
+            {
+                "id": "rc3",
+                "question": "What did Linus Yale Jr. patent in 1861?",
+                "options": [
+                    "The keycard lock",
+                    "The face scan lock",
+                    "The cylinder lock",
+                    "The combination lock"
+                ],
+                "correctIndex": 2,
+                "explanation": "The text states that Linus Yale Jr. patented the cylinder lock in 1861."
+            },
+            {
+                "id": "rc4",
+                "question": "What can modern smart locks use to open doors?",
+                "options": [
+                    "Only wooden keys",
+                    "Phones, apps, and even face scans",
+                    "Only metal rings",
+                    "Only turning dials"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says phones, apps, and even your face can now open a lock."
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find a sentence or phrase from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Ancient locks were similar to modern locks."
+            },
+            {
+                "id": "ev2",
+                "statement": "Locks became more convenient over time."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Chronological order and timeline phrases",
+        "explanation": "Writers use time phrases to explain how something changed over time.",
+        "examples": [
+            "over 4,000 years ago",
+            "in the 1840s",
+            "in 1861",
+            "in the 1920s",
+            "by the 2000s",
+            "today"
+        ],
+        "practice": [
+            "Complete the sentence: __________, locks were made of wood, but today they can use face scans.",
+            "Write one sentence using 'today' to explain a modern lock."
+        ]
+    },
+    "speakingPractice": {
+        "title": "Speaking Practice",
+        "instructions": "Discuss with a partner or record a short response of 60–90 seconds.",
+        "prompts": [
+            "Which type of lock do you think is the safest? Why?",
+            "Which type of lock is the most convenient?",
+            "Do you think face scan locks are a good idea? Why or why not?",
+            "Is convenience always more important than security?"
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short explanatory paragraph of 80–120 words answering this question: How have locks changed over time, and what does this show about technology?",
+        "wordTarget": {
+            "min": 80,
+            "max": 120
+        },
+        "checklist": [
+            "Explain how locks changed over time.",
+            "Use at least two timeline details from the article.",
+            "Use at least one chronological transition, such as 'long ago,' 'later,' 'by the 2000s,' or 'today.'",
+            "End with a clear concluding sentence."
+        ]
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I explained how locks changed over time.",
+            "I used at least two timeline details.",
+            "I used at least one chronological transition.",
+            "I checked my spelling, grammar, and word count."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Locks have changed from simple wooden keys to modern digital systems.",
+            "readingComprehension": {
+                "rc1": "Ancient Egypt and Mesopotamia",
+                "rc2": "They used a big wooden key to lift pins inside the lock.",
+                "rc3": "The cylinder lock",
+                "rc4": "Phones, apps, and even face scans"
+            },
+            "evidenceFromText": {
+                "ev1": "They used a big wooden key to lift pins inside the lock, a system similar to modern locks.",
+                "ev2": "Phones, apps, and even your face can now open a lock, all without touching a key."
+            },
+            "languageFocus": {
+                "practice1": "Long ago / Over 4,000 years ago"
+            }
+        },
+        "modelAnswer": "Locks have changed greatly over time because people have always needed better security. Over 4,000 years ago, ancient locks were made of wood and used wooden keys to lift pins. Later, in 1861, Linus Yale Jr. patented the cylinder lock, a design still used today. By the 2000s, fingerprint and keypad locks made it possible to open doors without a key. Today, smart locks can use phones, apps, and even face scans. This shows that technology makes security more convenient and more advanced.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clearly explains how locks changed over time using at least two accurate details.",
+                "developing": "Explains the topic but uses limited or general details.",
+                "beginning": "Main idea is unclear or lacks support."
+            },
+            {
+                "criterion": "Chronological Organization",
+                "excellent": "Uses clear time order and timeline transitions.",
+                "developing": "Some time order is shown, but transitions are limited.",
+                "beginning": "Events are not clearly organized."
+            },
+            {
+                "criterion": "Language",
+                "excellent": "Uses accurate vocabulary related to locks and technology.",
+                "developing": "Some vocabulary uses, with a few errors.",
+                "beginning": "Limited vocabulary or frequent errors."
+            }
+        ],
+        "teacherNotes": [
+            "Start by asking students what kind of locks they use in daily life.",
+            "Use the timeline to train students to scan for dates and events.",
+            "Emphasize the difference between 'security' and 'convenience'.",
+            "Teach chronological transitions before the writing task.",
+            "For lower-level students, allow them to use the frame: 'Long ago, locks were ________. Later, they became ________. Today, locks can ________. This shows that ________.'"
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in (5 min)",
+                "script": "Today we are reading about how locks changed over time. First, think about the lock you use most often. Is it a key, a number code, a fingerprint, or something else?"
+            },
+            {
+                "phase": "Reading (15 min)",
+                "script": "Read the article once for the big idea. Then read it again and underline important dates. Each date shows one step in the history of locks."
+            },
+            {
+                "phase": "Vocabulary (10 min)",
+                "script": "Focus on words connected to technology and invention, such as invented, mechanism, fingerprint, keypad, and smart lock. These words help us explain how technology changes."
+            },
+            {
+                "phase": "Comprehension (15 min)",
+                "script": "Answer the main idea and comprehension questions. For each answer, go back to the article and find the sentence that proves it."
+            },
+            {
+                "phase": "Language Focus (10 min)",
+                "script": "Today’s language focus is chronological order. When we explain history or development, we use time phrases like long ago, later, in the 1920s, by the 2000s, and today."
+            },
+            {
+                "phase": "Writing (20 min)",
+                "script": "Write a short explanatory paragraph about how locks changed over time. Use at least two examples from the timeline and one chronological transition."
+            },
+            {
+                "phase": "Wrap-up (5 min)",
+                "script": "Today you learned how to explain change over time using evidence and timeline language. This is useful for IGCSE-style reading and writing because many texts ask you to explain development, process, or change."
+            }
+        ]
+    }
+}

@@ -1,6 +1,13 @@
 {
-  "latest": "2026-06-22-japan-heatwave-elderly",
+  "latest": "2026-06-22-evolution-of-locks",
   "lessons": [
+    {
+      "slug": "2026-06-22-evolution-of-locks",
+      "title": "The Evolution of Locks: From Wooden Keys to Face Scans",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Chronological Explanation Paragraph",
+      "date": "2026-06-22"
+    },
     {
       "slug": "2026-06-22-japan-heatwave-elderly",
       "title": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
