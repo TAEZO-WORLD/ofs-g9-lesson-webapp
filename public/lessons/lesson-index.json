@@ -1,6 +1,13 @@
 {
-  "latest": "2026-06-21-minimalism",
+  "latest": "2026-06-22-japan-heatwave-elderly",
   "lessons": [
+    {
+      "slug": "2026-06-22-japan-heatwave-elderly",
+      "title": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Problem-Solution Report Paragraph",
+      "date": "2026-06-22"
+    },
     {
       "slug": "2026-06-21-minimalism",
       "title": "Living with Less: The Minimalist Movement",

@@ -1,0 +1,300 @@
+{
+    "lessonTitle": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
+    "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+    "textType": "Problem-Solution Report Paragraph",
+    "lessonGoal": "Students will read a news-style article about Japan’s heatwave crisis, identify the main idea and supporting evidence, learn problem-solution vocabulary, and write a short report paragraph explaining the problem and possible solutions.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about hot weather and safety. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "What do people usually do when the weather is extremely hot?",
+            "Why might very hot weather be more dangerous for elderly people?",
+            "Should governments help people stay safe during heatwaves? Why or why not?"
+        ]
+    },
+    "article": {
+        "title": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
+        "source": "Source: CNN",
+        "note": "Adapted for classroom use — OFS Grade 9 International English",
+        "paragraphs": [
+            "In Japan, an alarming heatwave affected the elderly, with record-breaking temperatures this summer reaching up to 41.8 degrees Celsius (107 degrees Fahrenheit).",
+            "An 84-year-old man, Toshiaki Morioka, carries a special device that can call for help if he gets too hot, as many seniors live alone and face serious risks of heatstroke. This summer alone, around 90,000 people needed hospital treatment for heat-related illnesses.",
+            "Japan is facing a double crisis: an aging population and a climate emergency. Many elderly people hesitate to use air conditioning due to high costs or the belief that it’s wasteful. To help, the government is creating “cooling spots” in public areas and providing financial aid for air conditioners. These efforts are extremely important. This summer, more than 70% of serious heatstroke cases happened in homes that had air conditioning, but it wasn’t turned on."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Use the article to understand each word or phrase. Match the word to its meaning.",
+        "items": [
+            {
+                "word": "heatwave",
+                "definition": "a period of unusually hot weather",
+                "sentence": "An alarming heatwave affected the elderly in Japan."
+            },
+            {
+                "word": "elderly",
+                "definition": "older people, especially senior citizens",
+                "sentence": "The heatwave affected the elderly."
+            },
+            {
+                "word": "heatstroke",
+                "definition": "a dangerous illness caused by the body getting too hot",
+                "sentence": "Many seniors face serious risks of heatstroke."
+            },
+            {
+                "word": "double crisis",
+                "definition": "two serious problems happening at the same time",
+                "sentence": "Japan is facing a double crisis: an aging population and a climate emergency."
+            },
+            {
+                "word": "hesitate to",
+                "definition": "to feel unsure about doing something",
+                "sentence": "Many elderly people hesitate to use air conditioning."
+            },
+            {
+                "word": "financial aid",
+                "definition": "money or support given to help people pay for something",
+                "sentence": "The government is providing financial aid for air conditioners."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Japan’s elderly are facing serious heatwave risks because of extreme temperatures, an aging population, and barriers to using air conditioning.",
+            "Japan’s elderly people do not like modern technology.",
+            "The government has stopped people from using air conditioning.",
+            "Heatstroke only happens to people who spend too much time outside."
+        ],
+        "correctIndex": 0,
+        "explanation": "The article focuses on how extreme heat, an aging population, and limited air conditioner use are putting elderly people in danger."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "How high did temperatures reach during the heatwave?",
+                "options": [
+                    "30 degrees Celsius",
+                    "35.5 degrees Celsius",
+                    "41.8 degrees Celsius",
+                    "50 degrees Celsius"
+                ],
+                "correctIndex": 2,
+                "explanation": "The article says temperatures reached up to 41.8 degrees Celsius, or 107 degrees Fahrenheit."
+            },
+            {
+                "id": "rc2",
+                "question": "Why does Toshiaki Morioka carry a special device?",
+                "options": [
+                    "To check the weather forecast",
+                    "To call for help if he gets too hot",
+                    "To measure electricity costs",
+                    "To contact the government"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says the device can call for help if he gets too hot."
+            },
+            {
+                "id": "rc3",
+                "question": "Around how many people needed hospital treatment for heat-related illnesses?",
+                "options": [
+                    "9,000 people",
+                    "19,000 people",
+                    "90,000 people",
+                    "900,000 people"
+                ],
+                "correctIndex": 2,
+                "explanation": "The article states that around 90,000 people needed hospital treatment for heat-related illnesses."
+            },
+            {
+                "id": "rc4",
+                "question": "What is the double crisis Japan is facing?",
+                "options": [
+                    "Aging buildings and expensive food",
+                    "An aging population and a climate emergency",
+                    "Too many hospitals and not enough doctors",
+                    "A cold winter and a rainy summer"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article directly says Japan is facing a double crisis: an aging population and a climate emergency."
+            },
+            {
+                "id": "rc5",
+                "question": "Why do some elderly people hesitate to use air conditioning?",
+                "options": [
+                    "Because they do not own homes",
+                    "Because they think it is too noisy",
+                    "Because of high costs or the belief that it is wasteful",
+                    "Because air conditioners are illegal in public areas"
+                ],
+                "correctIndex": 2,
+                "explanation": "The article says many elderly people hesitate to use air conditioning due to high costs or the belief that it is wasteful."
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find a sentence or phrase from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "The heatwave in Japan was extremely serious."
+            },
+            {
+                "id": "ev2",
+                "statement": "Elderly people are especially vulnerable during heatwaves."
+            },
+            {
+                "id": "ev3",
+                "statement": "Air conditioning was available in many homes, but people did not always use it."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Problem-Solution and Cause-Effect Language",
+        "explanation": "Writers often use problem-solution and cause-effect language when explaining social or environmental issues. These phrases help readers understand the problem, the reason, and the response.",
+        "examples": [
+            "Japan is facing a double crisis: an aging population and a climate emergency.",
+            "Many elderly people hesitate to use air conditioning due to high costs.",
+            "To help, the government is creating cooling spots in public areas.",
+            "These efforts are extremely important."
+        ],
+        "practice": [
+            "Complete the sentence: Many elderly people are at risk during heatwaves because __________.",
+            "Complete the sentence: To help protect seniors, the government should __________.",
+            "Write one sentence using 'due to' about the heatwave problem."
+        ]
+    },
+    "speakingPractice": {
+        "title": "Speaking Practice",
+        "instructions": "Discuss with a partner or record a short response of 60–90 seconds.",
+        "prompts": [
+            "Why are elderly people more vulnerable during extreme heat?",
+            "Do you think governments should provide cooling spaces during heatwaves? Why or why not?",
+            "What could families, schools, or communities do to protect elderly people during very hot weather?"
+        ],
+        "sentenceFrames": [
+            "I think elderly people are more vulnerable because __________.",
+            "The article shows that __________.",
+            "One solution could be __________ because __________.",
+            "This issue is important because __________."
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short problem-solution report paragraph of 100–140 words. Explain the heatwave problem facing Japan’s elderly people and suggest at least two solutions.",
+        "wordTarget": {
+            "min": 100,
+            "max": 140
+        },
+        "checklist": [
+            "Explain the main problem clearly.",
+            "Use at least two details from the article.",
+            "Suggest at least two possible solutions.",
+            "Use problem-solution or cause-effect language such as due to, because, to help, as a result, or therefore.",
+            "End with a clear concluding sentence."
+        ],
+        "studentWritingBox": true
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I identified the main problem in the article.",
+            "I used evidence from the text.",
+            "I explained why elderly people are at risk.",
+            "I suggested at least two solutions.",
+            "I checked grammar, spelling, and punctuation."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Japan’s elderly are facing serious heatwave risks because of extreme temperatures, an aging population, and barriers to using air conditioning.",
+            "readingComprehension": {
+                "rc1": "41.8 degrees Celsius",
+                "rc2": "To call for help if he gets too hot",
+                "rc3": "Around 90,000 people",
+                "rc4": "An aging population and a climate emergency",
+                "rc5": "Because of high costs or the belief that air conditioning is wasteful"
+            },
+            "evidenceFromText": {
+                "ev1": "Record-breaking temperatures this summer reaching up to 41.8 degrees Celsius.",
+                "ev2": "Many seniors live alone and face serious risks of heatstroke.",
+                "ev3": "More than 70% of serious heatstroke cases happened in homes that had air conditioning, but it wasn’t turned on."
+            },
+            "languageFocus": {
+                "practice1": "Many elderly people are at risk during heatwaves because they may live alone and may not use air conditioning.",
+                "practice2": "To help protect seniors, the government should create cooling spots and provide financial aid.",
+                "practice3": "Many seniors face health risks due to extreme heat and high air-conditioning costs."
+            }
+        },
+        "modelAnswer": "Japan’s elderly people are facing a serious heatwave crisis because temperatures have reached dangerous levels and many seniors live alone. According to the article, temperatures rose to 41.8 degrees Celsius, and around 90,000 people needed hospital treatment for heat-related illnesses. Many elderly people also hesitate to use air conditioning due to high costs or the belief that it is wasteful. To help, the government should create more cooling spots in public areas and provide financial aid for air conditioners. Families and neighbors should also check on elderly people during extreme heat. Overall, protecting seniors during heatwaves is important because climate change and aging populations can make this problem worse in the future.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clearly explains the heatwave problem and includes at least two accurate details from the article.",
+                "developing": "Explains the problem but details may be general or incomplete.",
+                "beginning": "Main problem is unclear or missing."
+            },
+            {
+                "criterion": "Organization",
+                "excellent": "Clear problem-solution paragraph with logical flow and a strong concluding sentence.",
+                "developing": "Some organization is present, but ideas may need smoother transitions.",
+                "beginning": "Ideas are disconnected or difficult to follow."
+            },
+            {
+                "criterion": "Use of Evidence",
+                "excellent": "Uses relevant evidence from the article accurately.",
+                "developing": "Uses some evidence, but it may be vague or not fully explained.",
+                "beginning": "Little or no evidence from the article."
+            },
+            {
+                "criterion": "Language",
+                "excellent": "Uses problem-solution and cause-effect language accurately with few errors.",
+                "developing": "Uses some useful language, but grammar or word choice errors are noticeable.",
+                "beginning": "Limited vocabulary and frequent errors make meaning unclear."
+            }
+        ],
+        "teacherNotes": [
+            "Connect this topic to Unit 4: Global Perspectives & Sustainable Living.",
+            "Pre-teach key vocabulary: heatwave, heatstroke, elderly, climate emergency, financial aid.",
+            "Ask students to identify the problem, causes, effects, and solutions separately.",
+            "For G1 students, allow Korean planning before speaking or writing.",
+            "For G2 students, require more precise evidence and stronger report-style language."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in (5 min)",
+                "script": "Today we are going to read about a serious heatwave in Japan and how it affects elderly people. Before we read, think about this question: Why can extreme heat be dangerous, especially for older people?"
+            },
+            {
+                "phase": "Reading (15 min)",
+                "script": "Read the article once for the main idea. Then read it again and underline numbers or facts that show how serious the problem is."
+            },
+            {
+                "phase": "Comprehension (15 min)",
+                "script": "Now answer the main idea and reading comprehension questions. Remember, do not guess. Use evidence from the article."
+            },
+            {
+                "phase": "Evidence Practice (10 min)",
+                "script": "Find exact sentences or phrases that support each statement. This is an important IGCSE and MYP skill because strong answers need evidence."
+            },
+            {
+                "phase": "Language Focus (10 min)",
+                "script": "Notice how the article explains a problem and then gives solutions. Useful phrases include due to, to help, because, and as a result."
+            },
+            {
+                "phase": "Writing (25 min)",
+                "script": "Write a short problem-solution report paragraph. First explain the problem, then use evidence, and finally suggest solutions."
+            },
+            {
+                "phase": "Wrap-up (5 min)",
+                "script": "Before submitting, check that your paragraph includes the problem, evidence, solutions, and a clear final sentence."
+            }
+        ]
+    }
+}
