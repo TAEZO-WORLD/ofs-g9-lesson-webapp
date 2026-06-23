@@ -4,6 +4,7 @@ import LessonError from '../components/LessonError';
 import LessonHeader from '../components/LessonHeader';
 import LessonLoading from '../components/LessonLoading';
 import TeacherPanel from '../components/TeacherPanel';
+import StudentSubmissionsMonitor from '../components/StudentSubmissionsMonitor';
 import { useLessonData } from '../hooks/useLessonData';
 
 export default function TeacherPage() {
@@ -24,6 +25,7 @@ export default function TeacherPage() {
               lessonGoal={lessonData.lessonGoal}
             />
             <TeacherPanel teacher={lessonData.teacher} />
+            <StudentSubmissionsMonitor lessonSlug={lessonSlug} lessonData={lessonData} />
           </>
         )}
       </div>

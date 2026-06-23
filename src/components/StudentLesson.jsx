@@ -21,11 +21,16 @@ export default function StudentLesson({
   onEvidenceChange,
   writingAnswer,
   onWritingChange,
+  writingPracticeAnswers,
+  onWritingPracticeChange,
   selfCheckState,
   onSelfCheckToggle,
+  studentName,
+  onStudentNameChange,
   submitted,
   writingFeedback,
   feedbackLoading,
+  submissionMessage,
   onSubmit,
 }) {
   return (
@@ -63,7 +68,12 @@ export default function StudentLesson({
         suggestedAnswers={lessonData.teacher.answerKey.evidenceFromText}
       />
       <LanguageFocus data={lessonData.languageFocus} />
-      <SpeakingPractice data={lessonData.speakingPractice} />
+      <SpeakingPractice
+        data={lessonData.writingPractice || lessonData.speakingPractice}
+        answers={writingPracticeAnswers}
+        onAnswerChange={onWritingPracticeChange}
+        disabled={submitted}
+      />
       <WritingTask
         data={lessonData.writingTask}
         modelAnswer={submitted ? lessonData.teacher.modelAnswer : null}
@@ -82,6 +92,9 @@ export default function StudentLesson({
         submitted={submitted}
         onSubmit={onSubmit}
         disabled={!writingAnswer.trim()}
+        studentName={studentName}
+        onStudentNameChange={onStudentNameChange}
+        submissionMessage={submissionMessage}
       />
     </div>
   );

@@ -129,6 +129,27 @@
             "Write one sentence using \"because\" about a habit you would like to change."
         ]
     },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "Would you like to try minimalism? Why or why not?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "What is one possession you could live without? Explain your choice.",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "How can schools encourage sustainable habits without judging students?",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
     "speakingPractice": {
         "title": "Speaking Practice",
         "instructions": "Discuss with a partner or record a short response (60–90 seconds).",

@@ -165,6 +165,32 @@
             "Write one sentence using 'today' to explain a modern lock."
         ]
     },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "Which type of lock do you think is the safest? Why?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "Which type of lock is the most convenient?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "Do you think face scan locks are a good idea? Why or why not?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp4",
+                "question": "Is convenience always more important than security?",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
     "speakingPractice": {
         "title": "Speaking Practice",
         "instructions": "Discuss with a partner or record a short response of 60–90 seconds.",

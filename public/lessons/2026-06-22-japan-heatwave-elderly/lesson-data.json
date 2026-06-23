@@ -169,6 +169,27 @@
             "Write one sentence using 'due to' about the heatwave problem."
         ]
     },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "Why are elderly people more vulnerable during extreme heat?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "Do you think governments should provide cooling spaces during heatwaves? Why or why not?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "What could families, schools, or communities do to protect elderly people during very hot weather?",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
     "speakingPractice": {
         "title": "Speaking Practice",
         "instructions": "Discuss with a partner or record a short response of 60–90 seconds.",
