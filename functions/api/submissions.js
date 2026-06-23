@@ -8,7 +8,7 @@ export async function onRequest(context) {
       headers: {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        'Access-Control-Allow-Headers': 'Content-Type, x-teacher-passcode',
       },
     });
   }
@@ -18,7 +18,7 @@ export async function onRequest(context) {
   if (request.method === 'POST') {
     return handlePost(request, env);
   } else if (request.method === 'GET') {
-    return handleGet(url, env);
+    return handleGet(request, url, env);
   }
 
   return new Response('Method not allowed', { status: 405 });
@@ -32,11 +32,11 @@ async function handlePost(request, env) {
 
   try {
     const data = await request.json();
-    const { studentName, lessonSlug, lessonTitle } = data;
+    const { studentName, studentCode, lessonSlug, lessonTitle } = data;
 
-    if (!studentName || !lessonSlug || !lessonTitle) {
+    if (!studentName || !studentCode || !lessonSlug || !lessonTitle) {
       return new Response(
-        JSON.stringify({ error: 'Missing required fields: studentName, lessonSlug, or lessonTitle' }),
+        JSON.stringify({ error: 'Missing required fields: studentName, studentCode, lessonSlug, or lessonTitle' }),
         { status: 400, headers: corsHeaders }
       );
     }
@@ -49,29 +49,44 @@ async function handlePost(request, env) {
       );
     }
 
-    // Auto-create table if not exists
+    // Auto-create table if not exists with new schema
     await db.prepare(`
       CREATE TABLE IF NOT EXISTS submissions (
         id TEXT PRIMARY KEY,
         lesson_slug TEXT NOT NULL,
         lesson_title TEXT NOT NULL,
         student_name TEXT NOT NULL,
+        student_code TEXT NOT NULL,
+        attempt_number INTEGER NOT NULL,
         payload TEXT NOT NULL,
         created_at TEXT NOT NULL
       );
     `).run();
 
+    // Calculate attempt number: count existing submissions for this lesson and student code
+    const countResult = await db.prepare(
+      `SELECT COUNT(*) as count FROM submissions WHERE lesson_slug = ? AND student_code = ?`
+    ).bind(lessonSlug, studentCode).first();
+    const attemptNumber = (countResult?.count || 0) + 1;
+
+    // Create unique ID and timestamp
     const id = crypto.randomUUID();
     const createdAt = new Date().toISOString();
-    const payloadStr = JSON.stringify(data);
+    
+    // Add attempt number to payload
+    const submissionPayload = {
+      ...data,
+      attemptNumber
+    };
+    const payloadStr = JSON.stringify(submissionPayload);
 
     await db.prepare(`
-      INSERT INTO submissions (id, lesson_slug, lesson_title, student_name, payload, created_at)
-      VALUES (?, ?, ?, ?, ?, ?)
-    `).bind(id, lessonSlug, lessonTitle, studentName, payloadStr, createdAt).run();
+      INSERT INTO submissions (id, lesson_slug, lesson_title, student_name, student_code, attempt_number, payload, created_at)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+    `).bind(id, lessonSlug, lessonTitle, studentName, studentCode, attemptNumber, payloadStr, createdAt).run();
 
     return new Response(
-      JSON.stringify({ success: true, id }),
+      JSON.stringify({ success: true, id, attemptNumber }),
       { status: 200, headers: corsHeaders }
     );
   } catch (error) {
@@ -82,7 +97,7 @@ async function handlePost(request, env) {
   }
 }
 
-async function handleGet(url, env) {
+async function handleGet(request, url, env) {
   const corsHeaders = {
     'Access-Control-Allow-Origin': '*',
     'Content-Type': 'application/json',
@@ -90,12 +105,12 @@ async function handleGet(url, env) {
 
   try {
     const lessonSlug = url.searchParams.get('lessonSlug');
-    const teacherPasscode = url.searchParams.get('teacherPasscode');
+    const teacherPasscode = request.headers.get('x-teacher-passcode');
 
     const expectedPasscode = env.TEACHER_PASSCODE;
     if (!expectedPasscode) {
       return new Response(
-        JSON.stringify({ error: 'TEACHER_PASSCODE is not configured on the server.' }),
+        JSON.stringify({ error: 'Submission monitoring is not connected yet. Check TEACHER_PASSCODE.' }),
         { status: 503, headers: corsHeaders }
       );
     }
@@ -110,7 +125,7 @@ async function handleGet(url, env) {
     const db = env.LESSON_DB;
     if (!db) {
       return new Response(
-        JSON.stringify({ error: 'LESSON_DB binding is not configured on the server.' }),
+        JSON.stringify({ error: 'Submission monitoring is not connected yet. Check Cloudflare D1 binding.' }),
         { status: 503, headers: corsHeaders }
       );
     }
@@ -122,6 +137,8 @@ async function handleGet(url, env) {
         lesson_slug TEXT NOT NULL,
         lesson_title TEXT NOT NULL,
         student_name TEXT NOT NULL,
+        student_code TEXT NOT NULL,
+        attempt_number INTEGER NOT NULL,
         payload TEXT NOT NULL,
         created_at TEXT NOT NULL
       );
@@ -147,6 +164,8 @@ async function handleGet(url, env) {
         lessonSlug: row.lesson_slug,
         lessonTitle: row.lesson_title,
         studentName: row.student_name,
+        studentCode: row.student_code,
+        attemptNumber: row.attempt_number,
         createdAt: row.created_at,
         payload: parsedPayload
       };

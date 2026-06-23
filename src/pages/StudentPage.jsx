@@ -6,6 +6,7 @@ import LessonLoading from '../components/LessonLoading';
 import StudentLesson from '../components/StudentLesson';
 import { useLessonData } from '../hooks/useLessonData';
 import { gradeWritingWithAI } from '../utils/gradeWritingWithAI';
+import { getCorrectAnswer, isAnswerCorrect } from '../utils/questionHelpers';
 
 function buildInitialAnswers(questions) {
   return Object.fromEntries(questions.map((q) => [q.id, '']));
@@ -31,6 +32,7 @@ function buildInitialPracticeAnswers(practiceData) {
 
 function StudentLessonContent({ lessonData, lessonSlug }) {
   const [studentName, setStudentName] = useState('');
+  const [studentCode, setStudentCode] = useState('');
   const [mainIdeaAnswer, setMainIdeaAnswer] = useState('');
   const [comprehensionAnswers, setComprehensionAnswers] = useState(() =>
     buildInitialAnswers(lessonData.readingComprehension.questions),
@@ -67,25 +69,71 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
   };
 
   const handleSubmit = async () => {
-    if (!writingAnswer.trim() || !studentName.trim() || submitted) return;
+    if (!writingAnswer.trim() || !studentName.trim() || !studentCode.trim() || submitted) return;
 
     setFeedbackLoading(true);
     try {
       const feedback = await gradeWritingWithAI(writingAnswer, lessonData);
       setWritingFeedback(feedback);
 
+      // Unique ID for the submission
+      const submissionId = crypto.randomUUID 
+        ? crypto.randomUUID() 
+        : `sub_${Date.now().toString(36)}_${Math.random().toString(36).substr(2, 9)}`;
+
+      // Compute auto-grading on client
+      const miCorrect = getCorrectAnswer(
+        lessonData.mainIdeaQuestion,
+        lessonData.teacher?.answerKey?.mainIdea
+      );
+      const mainIdeaResult = isAnswerCorrect(mainIdeaAnswer, miCorrect) ? 'O' : 'X';
+
+      const readingComprehensionResults = {};
+      if (lessonData.readingComprehension?.questions) {
+        lessonData.readingComprehension.questions.forEach((q) => {
+          const correctAns = getCorrectAnswer(
+            q,
+            lessonData.teacher?.answerKey?.readingComprehension?.[q.id]
+          );
+          const studentAns = comprehensionAnswers[q.id];
+          readingComprehensionResults[q.id] = isAnswerCorrect(studentAns, correctAns) ? 'O' : 'X';
+        });
+      }
+
+      let correctCount = 0;
+      let totalCount = 0;
+      if (lessonData.mainIdeaQuestion) {
+        totalCount++;
+        if (mainIdeaResult === 'O') correctCount++;
+      }
+      Object.values(readingComprehensionResults).forEach((res) => {
+        totalCount++;
+        if (res === 'O') correctCount++;
+      });
+      const autoGradedScore = `${correctCount}/${totalCount}`;
+
+      const wordCount = writingAnswer.trim().split(/\s+/).filter(Boolean).length;
+
       const payload = {
+        id: submissionId,
+        lessonSlug,
+        lessonTitle: lessonData.lessonTitle,
         studentName: studentName.trim(),
+        studentCode: studentCode.trim(),
+        submittedAt: new Date().toISOString(),
         mainIdeaAnswer,
-        comprehensionAnswers,
+        mainIdeaResult,
+        readingComprehensionAnswers: comprehensionAnswers,
+        readingComprehensionResults,
         evidenceAnswers,
         languageFocusAnswers: null,
         writingPracticeAnswers,
         finalWritingTaskAnswer: writingAnswer,
+        finalWritingTaskWordCount: wordCount,
         selfCheckItems: selfCheckState,
-        lessonSlug,
-        lessonTitle: lessonData.lessonTitle,
-        submittedTimestamp: new Date().toISOString(),
+        autoGradedScore,
+        feedback,
+        modelAnswer: lessonData.teacher?.modelAnswer || null
       };
 
       try {
@@ -107,14 +155,28 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
         try {
           const key = `submissions_${lessonSlug}`;
           const existing = JSON.parse(localStorage.getItem(key) || '[]');
-          existing.push({
-            id: `local_${Date.now()}`,
+          
+          // Count previous local attempts for same student code
+          const previousAttempts = existing.filter(
+            (sub) => sub.studentCode === studentCode.trim()
+          ).length;
+          const attemptNumber = previousAttempts + 1;
+
+          const localPayload = {
+            id: submissionId,
             lessonSlug,
             lessonTitle: lessonData.lessonTitle,
             studentName: studentName.trim(),
+            studentCode: studentCode.trim(),
+            attemptNumber,
             createdAt: new Date().toISOString(),
-            payload,
-          });
+            payload: {
+              ...payload,
+              attemptNumber
+            }
+          };
+
+          existing.push(localPayload);
           localStorage.setItem(key, JSON.stringify(existing));
         } catch (storageErr) {
           console.error('Failed to save to localStorage:', storageErr);
@@ -147,6 +209,8 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
       onSelfCheckToggle={handleSelfCheckToggle}
       studentName={studentName}
       onStudentNameChange={setStudentName}
+      studentCode={studentCode}
+      onStudentCodeChange={setStudentCode}
       submitted={submitted}
       writingFeedback={writingFeedback}
       feedbackLoading={feedbackLoading}

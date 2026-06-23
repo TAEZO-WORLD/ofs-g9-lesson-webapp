@@ -27,6 +27,8 @@ export default function StudentLesson({
   onSelfCheckToggle,
   studentName,
   onStudentNameChange,
+  studentCode,
+  onStudentCodeChange,
   submitted,
   writingFeedback,
   feedbackLoading,
@@ -94,6 +96,8 @@ export default function StudentLesson({
         disabled={!writingAnswer.trim()}
         studentName={studentName}
         onStudentNameChange={onStudentNameChange}
+        studentCode={studentCode}
+        onStudentCodeChange={onStudentCodeChange}
         submissionMessage={submissionMessage}
       />
     </div>

@@ -11,6 +11,11 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
   const [cloudStatus, setCloudStatus] = useState('idle'); // 'idle' | 'connected' | 'disconnected' | 'loading'
   const [expandedSubmissions, setExpandedSubmissions] = useState({});
 
+  // Filtering & Toggling State
+  const [filterName, setFilterName] = useState('');
+  const [filterCode, setFilterCode] = useState('');
+  const [showLatestOnly, setShowLatestOnly] = useState(false);
+
   const savePasscode = (val) => {
     setPasscode(val);
     sessionStorage.setItem('teacher_passcode', val);
@@ -28,9 +33,12 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
 
     try {
       const response = await fetch(
-        `/api/submissions?lessonSlug=${lessonSlug}&teacherPasscode=${encodeURIComponent(
-          passcode
-        )}`
+        `/api/submissions?lessonSlug=${lessonSlug}`,
+        {
+          headers: {
+            'x-teacher-passcode': passcode.trim(),
+          },
+        }
       );
       if (response.ok) {
         const data = await response.json();
@@ -54,6 +62,14 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
         err.message.includes('401')
       ) {
         setErrorMsg('Invalid passcode.');
+      } else if (err.message.includes('binding') || err.message.includes('LESSON_DB')) {
+        setErrorMsg(
+          'Submission monitoring is not connected yet. Check Cloudflare D1 binding.'
+        );
+      } else if (err.message.includes('TEACHER_PASSCODE')) {
+        setErrorMsg(
+          'Submission monitoring is not connected yet. Check TEACHER_PASSCODE.'
+        );
       } else {
         setErrorMsg(
           'Submission monitoring is not connected yet. Check Cloudflare D1 binding and TEACHER_PASSCODE.'
@@ -74,23 +90,73 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
     setExpandedSubmissions((prev) => ({ ...prev, [id]: !prev[id] }));
   };
 
+  // Filter calculations on the client side
+  const getFilteredSubmissions = () => {
+    let filtered = [...submissions];
+
+    // Sort newest first
+    filtered.sort((a, b) => {
+      const timeA = new Date(a.createdAt || a.payload?.submittedAt || a.payload?.submittedTimestamp || 0).getTime();
+      const timeB = new Date(b.createdAt || b.payload?.submittedAt || b.payload?.submittedTimestamp || 0).getTime();
+      return timeB - timeA;
+    });
+
+    // Filter by student name
+    if (filterName.trim()) {
+      const query = filterName.toLowerCase();
+      filtered = filtered.filter(
+        (s) => s.studentName && s.studentName.toLowerCase().includes(query)
+      );
+    }
+
+    // Filter by student code
+    if (filterCode.trim()) {
+      const query = filterCode.toLowerCase();
+      filtered = filtered.filter(
+        (s) => s.studentCode && s.studentCode.toLowerCase().includes(query)
+      );
+    }
+
+    // Toggle: Latest attempt only
+    if (showLatestOnly) {
+      const seenCodes = new Set();
+      filtered = filtered.filter((s) => {
+        if (!s.studentCode) return true;
+        if (seenCodes.has(s.studentCode)) {
+          return false;
+        }
+        seenCodes.add(s.studentCode);
+        return true;
+      });
+    }
+
+    return filtered;
+  };
+
+  const visibleSubmissions = getFilteredSubmissions();
+
   const exportToCSV = () => {
-    if (!submissions || submissions.length === 0) return;
+    if (!visibleSubmissions || visibleSubmissions.length === 0) return;
     const headers = [
       'Student Name',
+      'Student Code',
       'Submitted At',
+      'Attempt',
       'MCQ Score',
       'Main Idea Answer',
       'Writing Task Answer',
     ];
-    const rows = submissions.map((s) => {
-      const mcqResult = calculateMCQScore(s.payload || s);
+    const rows = visibleSubmissions.map((s) => {
+      const payload = s.payload || s;
+      const mcqResult = calculateMCQScore(payload);
       return [
         s.studentName,
+        s.studentCode || '',
         new Date(s.createdAt || s.submittedTimestamp).toLocaleString(),
+        s.attemptNumber || 1,
         `${mcqResult.correctCount}/${mcqResult.totalCount}`,
-        s.payload?.mainIdeaAnswer || '',
-        s.payload?.finalWritingTaskAnswer || s.payload?.writingAnswer || '',
+        payload.mainIdeaAnswer || '',
+        payload.finalWritingTaskAnswer || payload.writingAnswer || '',
       ];
     });
     const csvContent =
@@ -104,20 +170,20 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement('a');
     link.setAttribute('href', encodedUri);
-    link.setAttribute('download', `submissions_${lessonSlug}.csv`);
+    link.setAttribute('download', `submissions_${lessonSlug}_visible.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
   };
 
   const exportToJSON = () => {
-    if (!submissions || submissions.length === 0) return;
+    if (!visibleSubmissions || visibleSubmissions.length === 0) return;
     const dataStr =
       'data:text/json;charset=utf-8,' +
-      encodeURIComponent(JSON.stringify(submissions, null, 2));
+      encodeURIComponent(JSON.stringify(visibleSubmissions, null, 2));
     const link = document.createElement('a');
     link.setAttribute('href', dataStr);
-    link.setAttribute('download', `submissions_${lessonSlug}.json`);
+    link.setAttribute('download', `submissions_${lessonSlug}_visible.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -207,7 +273,7 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
       </div>
 
       <div className="teacher-panel__content">
-        {/* Passcode Control Panel */}
+        {/* Passcode & Controls */}
         <div
           style={{
             display: 'flex',
@@ -276,6 +342,64 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
           )}
         </div>
 
+        {/* Filters Panel (Shown if there are submissions loaded) */}
+        {submissions.length > 0 && (
+          <div
+            style={{
+              padding: '0.75rem 1rem',
+              backgroundColor: 'var(--color-cream)',
+              borderRadius: '8px',
+              border: '1px solid #e0d5c8',
+              marginBottom: '1.25rem',
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: '1rem',
+              alignItems: 'center',
+            }}
+          >
+            <div style={{ flex: '1 1 200px', display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+              <label style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--color-navy)' }}>
+                Filter by Student Name
+              </label>
+              <input
+                type="text"
+                className="text-input"
+                placeholder="Type name to search..."
+                value={filterName}
+                onChange={(e) => setFilterName(e.target.value)}
+                style={{ padding: '0.4rem 0.60rem', fontSize: '0.85rem' }}
+              />
+            </div>
+
+            <div style={{ flex: '1 1 200px', display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+              <label style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--color-navy)' }}>
+                Filter by Student Code
+              </label>
+              <input
+                type="text"
+                className="text-input"
+                placeholder="Type code to search..."
+                value={filterCode}
+                onChange={(e) => setFilterCode(e.target.value)}
+                style={{ padding: '0.4rem 0.60rem', fontSize: '0.85rem' }}
+              />
+            </div>
+
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '1rem' }}>
+              <input
+                id="toggle-latest-only"
+                type="checkbox"
+                checked={showLatestOnly}
+                onChange={(e) => setShowLatestOnly(e.target.checked)}
+                style={{ accentColor: 'var(--color-sage)', width: '16px', height: '16px', cursor: 'pointer' }}
+              />
+              <label htmlFor="toggle-latest-only" style={{ fontSize: '0.85rem', fontWeight: 600, cursor: 'pointer' }}>
+                Show latest attempt only
+              </label>
+            </div>
+          </div>
+        )}
+
         {/* Setup/Connection warning */}
         {errorMsg && (
           <div
@@ -283,7 +407,7 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
             style={{ marginBottom: '1rem', display: 'block' }}
           >
             <p className="quiz-feedback__mark" style={{ margin: 0 }}>
-              {errorMsg.includes('passcode') ? 'Security Note' : 'Connection Note'}
+              Configuration / Security Alert
             </p>
             <p className="quiz-feedback__explanation" style={{ margin: '4px 0 0', color: 'var(--color-ink)' }}>
               {errorMsg}
@@ -292,16 +416,16 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
         )}
 
         {/* Empty State */}
-        {!isLoading && submissions.length === 0 && (
+        {!isLoading && visibleSubmissions.length === 0 && (
           <p style={{ fontStyle: 'italic', color: 'var(--color-muted)', textAlign: 'center', padding: '1rem 0' }}>
             No submissions yet for this lesson.
           </p>
         )}
 
         {/* Submissions List */}
-        {submissions.length > 0 && (
+        {visibleSubmissions.length > 0 && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginTop: '1rem' }}>
-            {submissions.map((sub) => {
+            {visibleSubmissions.map((sub) => {
               const payload = sub.payload || {};
               const mcqScore = calculateMCQScore(payload);
               const isExpanded = !!expandedSubmissions[sub.id];
@@ -330,14 +454,27 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                       </strong>
                       <span
                         style={{
+                          fontSize: '0.85rem',
+                          color: 'var(--color-muted)',
+                          marginLeft: '0.75rem',
+                        }}
+                      >
+                        Code: <strong>{sub.studentCode || 'N/A'}</strong>
+                      </span>
+                      <span
+                        style={{
                           fontSize: '0.8rem',
                           color: 'var(--color-muted)',
                           marginLeft: '0.75rem',
                         }}
                       >
-                        {new Date(sub.createdAt || sub.submittedTimestamp).toLocaleString()}
+                        (Attempt {sub.attemptNumber || payload.attemptNumber || 1})
                       </span>
+                      <div style={{ fontSize: '0.75rem', color: 'var(--color-muted)', marginTop: '4px' }}>
+                        {new Date(sub.createdAt || sub.submittedTimestamp || payload.submittedAt).toLocaleString()}
+                      </div>
                     </div>
+                    
                     <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                       <span
                         className="feedback-panel__score"
@@ -371,7 +508,7 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                         paddingTop: '1rem',
                         display: 'flex',
                         flexDirection: 'column',
-                        gap: '1rem',
+                        gap: '1.25rem',
                       }}
                     >
                       {/* 1. Main Idea Question */}
@@ -415,7 +552,7 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                           </h5>
                           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                             {lessonData.readingComprehension.questions.map((q, idx) => {
-                              const studentAns = payload.comprehensionAnswers?.[q.id];
+                              const studentAns = payload.comprehensionAnswers?.[q.id] || payload.readingComprehensionAnswers?.[q.id];
                               const correctAns = getCorrectAnswer(q, lessonData.teacher?.answerKey?.readingComprehension?.[q.id]);
                               const isCorrect = isAnswerCorrect(studentAns, correctAns);
 
@@ -469,6 +606,9 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                                   <p style={{ margin: '0 0 4px', whiteSpace: 'pre-wrap' }}>
                                     <strong>Student Answer:</strong> {studentAns || <em style={{ color: 'var(--color-muted)' }}>None</em>}
                                   </p>
+                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
+                                    Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                                  </div>
                                   {suggestedAns && (
                                     <p style={{ margin: '4px 0 0', color: 'var(--color-muted)' }}>
                                       <strong>Suggested Answer:</strong> {suggestedAns}
@@ -501,6 +641,9 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                                   <p style={{ margin: '0 0 4px', whiteSpace: 'pre-wrap' }}>
                                     <strong>Student Answer:</strong> {studentAns || <em style={{ color: 'var(--color-muted)' }}>None</em>}
                                   </p>
+                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
+                                    Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                                  </div>
                                 </div>
                               );
                             })}
@@ -510,7 +653,7 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
 
                       {/* 5. Final Writing Task */}
                       {lessonData.writingTask && (
-                        <div>
+                        <div style={{ paddingBottom: '0.75rem', borderBottom: '1px dashed #e0d5c8' }}>
                           <h5 style={{ margin: '0 0 0.5rem', fontSize: '0.85rem', color: 'var(--color-muted)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
                             Final Writing Task
                           </h5>
@@ -524,8 +667,12 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                             
                             {/* Word Count */}
                             <p style={{ fontSize: '0.8rem', color: 'var(--color-muted)', margin: '8px 0 4px' }}>
-                              Word Count: {(payload.finalWritingTaskAnswer || payload.writingAnswer || '').trim().split(/\s+/).filter(Boolean).length} words
+                              Word Count: {payload.finalWritingTaskWordCount || (payload.finalWritingTaskAnswer || payload.writingAnswer || '').trim().split(/\s+/).filter(Boolean).length} words
                             </p>
+                            
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '8px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
+                              Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                            </div>
 
                             {/* Model Answer comparison */}
                             {lessonData.teacher?.modelAnswer && (
@@ -539,6 +686,30 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                               </div>
                             )}
                           </div>
+                        </div>
+                      )}
+
+                      {/* 6. Self-Check Checklist */}
+                      {lessonData.selfCheck?.items && (
+                        <div>
+                          <h5 style={{ margin: '0 0 0.5rem', fontSize: '0.85rem', color: 'var(--color-muted)', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+                            Self-Check Items
+                          </h5>
+                          <ul className="checklist" style={{ fontSize: '0.85rem', margin: 0, paddingLeft: 0, listStyle: 'none' }}>
+                            {lessonData.selfCheck.items.map((item, idx) => {
+                              const isChecked = !!payload.selfCheckItems?.[idx];
+                              return (
+                                <li key={idx} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', padding: '0.2rem 0' }}>
+                                  <span style={{ color: isChecked ? '#5b8a72' : '#e07a5f', fontWeight: 700 }}>
+                                    {isChecked ? '✓' : '✗'}
+                                  </span>
+                                  <span style={{ color: isChecked ? 'var(--color-ink)' : 'var(--color-muted)' }}>
+                                    {item}
+                                  </span>
+                                </li>
+                              );
+                            })}
+                          </ul>
                         </div>
                       )}
 
