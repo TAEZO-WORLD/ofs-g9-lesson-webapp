@@ -6,7 +6,7 @@ import MainIdeaQuestion from './MainIdeaQuestion';
 import ReadingComprehension from './ReadingComprehension';
 import EvidenceFromText from './EvidenceFromText';
 import LanguageFocus from './LanguageFocus';
-import SpeakingPractice from './SpeakingPractice';
+import WritingPractice from './WritingPractice';
 import WritingTask from './WritingTask';
 import SelfCheck from './SelfCheck';
 import SubmitBar from './SubmitBar';
@@ -70,7 +70,7 @@ export default function StudentLesson({
         suggestedAnswers={lessonData.teacher.answerKey.evidenceFromText}
       />
       <LanguageFocus data={lessonData.languageFocus} />
-      <SpeakingPractice
+      <WritingPractice
         data={lessonData.writingPractice || lessonData.speakingPractice}
         answers={writingPracticeAnswers}
         onAnswerChange={onWritingPracticeChange}

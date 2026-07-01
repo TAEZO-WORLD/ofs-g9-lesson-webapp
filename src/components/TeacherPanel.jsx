@@ -204,6 +204,89 @@ export default function TeacherPanel({ teacher }) {
                 </div>
               </div>
             )}
+
+            {/* 4. Final Writing Support */}
+            {teacher.teacherReadingGuide.finalWritingSupport && (
+              <div className="guide-section" style={{ marginTop: '2rem' }}>
+                <h4 className="guide-section__subtitle">4. Final Writing Support</h4>
+                <div className="writing-support-container" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+                  
+                  {teacher.teacherReadingGuide.finalWritingSupport.sentenceFrames && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">Sentence Frames</h5>
+                      <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.sentenceFrames.map((frame, index) => (
+                          <li key={index} style={{ marginBottom: '0.25rem' }}>{frame}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {teacher.teacherReadingGuide.finalWritingSupport.usefulConnectors && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">Useful Connectors</h5>
+                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', marginTop: '0.5rem' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.usefulConnectors.map((conn, index) => (
+                          <span key={index} style={{ padding: '0.25rem 0.5rem', backgroundColor: 'var(--color-cream)', borderRadius: '4px', fontSize: '0.85rem', border: '1px solid #e0d5c8' }}>
+                            {conn}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {teacher.teacherReadingGuide.finalWritingSupport.usefulVocabulary && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">Useful Vocabulary</h5>
+                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', marginTop: '0.5rem' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.usefulVocabulary.map((vocab, index) => (
+                          <span key={index} style={{ padding: '0.25rem 0.5rem', backgroundColor: 'var(--color-cream)', borderRadius: '4px', fontSize: '0.85rem', border: '1px solid #e0d5c8' }}>
+                            {vocab}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {teacher.teacherReadingGuide.finalWritingSupport.paragraphOutline && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">One Paragraph Outline</h5>
+                      <ol style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.paragraphOutline.map((step, index) => (
+                          <li key={index} style={{ marginBottom: '0.25rem' }}>{step}</li>
+                        ))}
+                      </ol>
+                    </div>
+                  )}
+
+                  {teacher.teacherReadingGuide.finalWritingSupport.commonMistakes && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">Common Mistakes (Korean ESL Students)</h5>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.5rem' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.commonMistakes.map((item, index) => (
+                          <div key={index} style={{ padding: '0.5rem', borderRadius: '6px', backgroundColor: 'var(--color-cream)', borderLeft: '3px solid #d9534f' }}>
+                            <p style={{ margin: '0 0 4px', fontWeight: 600, color: '#d9534f' }}>❌ Mistake: {item.mistake}</p>
+                            <p style={{ margin: '0', fontWeight: 600, color: '#5cb85c' }}>👉 Correction: {item.correction}</p>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {teacher.teacherReadingGuide.finalWritingSupport.teacherCorrectionFocus && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">Teacher Correction Focus</h5>
+                      <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
+                        {teacher.teacherReadingGuide.finalWritingSupport.teacherCorrectionFocus.map((focus, index) => (
+                          <li key={index} style={{ marginBottom: '0.25rem' }}>{focus}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                </div>
+              </div>
+            )}
           </div>
         </div>
       )}

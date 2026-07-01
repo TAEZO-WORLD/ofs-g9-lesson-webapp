@@ -1,6 +1,6 @@
 import SectionCard from './SectionCard';
 
-export default function SpeakingPractice({
+export default function WritingPractice({
   data,
   answers = {},
   onAnswerChange,

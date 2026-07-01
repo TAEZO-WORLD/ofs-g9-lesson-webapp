@@ -1,6 +1,13 @@
 {
-  "latest": "2026-06-22-evolution-of-locks",
+  "latest": "2026-07-01-meta-ai-smart-glasses",
   "lessons": [
+    {
+      "slug": "2026-07-01-meta-ai-smart-glasses",
+      "title": "Meta’s Exciting New AI-Powered Smart Glasses",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Technology News / Opinion Paragraph",
+      "date": "2026-07-01"
+    },
     {
       "slug": "2026-06-22-evolution-of-locks",
       "title": "The Evolution of Locks: From Wooden Keys to Face Scans",

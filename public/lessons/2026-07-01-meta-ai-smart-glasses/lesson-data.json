@@ -1,0 +1,637 @@
+{
+    "lessonTitle": "Meta’s Exciting New AI-Powered Smart Glasses",
+    "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+    "textType": "Technology News / Opinion Paragraph",
+    "lessonGoal": "Students will read a technology news article about Meta’s AI-powered smart glasses, identify the main idea and supporting details, learn technology-related vocabulary, and write a short opinion paragraph about whether AI smart glasses are useful or risky for teenagers.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about technology and your habits. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "What smart device do you use most often, and why?",
+            "Would you feel comfortable wearing glasses with a screen and camera? Why or why not?",
+            "What could be one benefit and one risk of AI-powered glasses?"
+        ]
+    },
+    "article": {
+        "title": "Meta’s Exciting New AI-Powered Smart Glasses",
+        "source": "Source: Adapted from teacher-provided classroom source image.",
+        "note": "OFS Grade 9 International English — Unit 3",
+        "paragraphs": [
+            "At a big tech event called “Meta Connect,” Mark Zuckerberg, the head of Meta (the company behind Instagram and WhatsApp), unveiled a cool new pair of smart glasses that use artificial intelligence (AI).",
+            "These glasses, called Meta Ray-Ban Display, allow you to make video calls, see messages on a high-resolution screen, and even have a 12-megapixel camera. They will cost $799 and are available this month! Zuckerberg called this technology a “huge scientific breakthrough.”",
+            "The event, however, wasn’t perfect. During a demonstration, a WhatsApp call didn’t go through, and Zuckerberg joked, “I keep on messing this up.”",
+            "Along with these glasses, Meta also launched other sporty options priced at $499. Meta has sold about two million pairs of smart glasses already. However, many people aren’t sure if they need AI glasses yet, and some parents are worried about how safe Meta’s platforms are for kids."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Read the words from the article and their definitions below.",
+        "items": [
+            {
+                "word": "unveiled",
+                "definition": "showed or introduced something new to the public for the first time",
+                "sentence": "Mark Zuckerberg unveiled a cool new pair of smart glasses."
+            },
+            {
+                "word": "artificial intelligence",
+                "definition": "technology that allows computers or machines to think, learn, and make decisions like humans",
+                "sentence": "They unveiled a cool new pair of smart glasses that use artificial intelligence (AI)."
+            },
+            {
+                "word": "high-resolution",
+                "definition": "producing a very clear and sharp image on a screen",
+                "sentence": "These glasses allow you to see messages on a high-resolution screen."
+            },
+            {
+                "word": "demonstration",
+                "definition": "a show or performance to explain how something works",
+                "sentence": "During a demonstration, a WhatsApp call didn’t go through."
+            },
+            {
+                "word": "go through",
+                "definition": "to be completed or connected successfully (such as a phone call or message)",
+                "sentence": "During a demonstration, a WhatsApp call didn’t go through."
+            },
+            {
+                "word": "launched",
+                "definition": "started selling a new product or began a new activity",
+                "sentence": "Along with these glasses, Meta also launched other sporty options."
+            },
+            {
+                "word": "platform",
+                "definition": "a website, app, or system that allows people to connect or share information",
+                "sentence": "Some parents are worried about how safe Meta’s platforms are for kids."
+            },
+            {
+                "word": "breakthrough",
+                "definition": "an important discovery or development that helps solve a problem or make progress",
+                "sentence": "Zuckerberg called this technology a “huge scientific breakthrough.”"
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Meta is stopping the sale of all smart glasses.",
+            "Meta introduced new AI-powered smart glasses with useful features, but some people still have concerns.",
+            "Smart glasses are only used for video games.",
+            "Parents are excited because all children need AI glasses."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains the new features of Meta’s AI smart glasses, but it also mentions problems during the demonstration and concerns about safety."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "What event did Mark Zuckerberg introduce the new smart glasses at?",
+                "options": [
+                    "Meta Connect",
+                    "Instagram Live",
+                    "WhatsApp Call",
+                    "Ray-Ban Display"
+                ],
+                "correctIndex": 0,
+                "explanation": "The article says Zuckerberg introduced them at a big tech event called 'Meta Connect.'"
+            },
+            {
+                "id": "rc2",
+                "question": "What company is Meta connected to according to the article?",
+                "options": [
+                    "TikTok and YouTube",
+                    "Instagram and WhatsApp",
+                    "Apple and Microsoft",
+                    "Google and Samsung"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article states that Meta is 'the company behind Instagram and WhatsApp.'"
+            },
+            {
+                "id": "rc3",
+                "question": "What can the Meta Ray-Ban Display glasses do?",
+                "options": [
+                    "Make food and clean the house",
+                    "Fly like a drone and record videos",
+                    "Make video calls, show messages, and take photos or videos with a camera",
+                    "Play virtual reality games without any battery"
+                ],
+                "correctIndex": 2,
+                "explanation": "The article lists the functions: 'allow you to make video calls, see messages on a high-resolution screen, and even have a 12-megapixel camera.'"
+            },
+            {
+                "id": "rc4",
+                "question": "What problem happened during the demonstration?",
+                "options": [
+                    "The glasses broke in half.",
+                    "A WhatsApp call did not go through.",
+                    "The price increased to $1000.",
+                    "The screen turned off completely."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says: 'During a demonstration, a WhatsApp call didn’t go through.'"
+            },
+            {
+                "id": "rc5",
+                "question": "Why are some parents worried?",
+                "options": [
+                    "They don't want their children to wear sporty glasses.",
+                    "They think $499 is too cheap.",
+                    "They are worried about how safe Meta's platforms are for kids.",
+                    "They believe Zuckerberg joked too much."
+                ],
+                "correctIndex": 2,
+                "explanation": "The article states: 'some parents are worried about how safe Meta’s platforms are for kids.'"
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find and type a sentence from the article that supports each statement. Copy the exact sentence.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Find one sentence that shows the glasses have advanced technology."
+            },
+            {
+                "id": "ev2",
+                "statement": "Find one sentence that shows the product launch was not perfect."
+            },
+            {
+                "id": "ev3",
+                "statement": "Find one sentence that shows people still have concerns about AI glasses."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "allow + object + to + verb and Contrast Language using however",
+        "explanation": "In English, we use the pattern 'allow + object + to + verb' to talk about making actions possible. We also use 'however' to show a contrast between two different sentences or ideas.",
+        "examples": [
+            "These glasses allow you to make video calls.",
+            "The event, however, wasn’t perfect.",
+            "Many people are interested in AI devices. However, some people worry about safety."
+        ],
+        "practice": [
+            "Complete the sentence: Smart glasses allow users ________.",
+            "Write one sentence using “however” about technology.",
+            "Write one sentence using “allow + object + to + verb.”"
+        ]
+    },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "What is one useful feature of Meta’s AI smart glasses? Explain your answer.",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "What is one possible problem with wearing smart glasses in daily life?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "Do you think teenagers would use AI glasses responsibly? Why or why not?",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short opinion paragraph of 100–140 words answering this question: Do you think AI-powered smart glasses are a good idea for teenagers? Give at least two reasons and include one concern.",
+        "wordTarget": {
+            "min": 100,
+            "max": 140
+        },
+        "checklist": [
+            "State your opinion clearly.",
+            "Give at least two reasons.",
+            "Mention one possible concern or risk.",
+            "Use at least one technology-related vocabulary word.",
+            "Use “however” or another contrast connector.",
+            "End with a clear concluding sentence."
+        ],
+        "studentWritingBox": true
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I stated my opinion clearly.",
+            "I gave at least two reasons.",
+            "I mentioned one possible concern or risk.",
+            "I used at least one technology-related vocabulary word.",
+            "I used 'however' or another contrast connector.",
+            "I ended with a clear concluding sentence."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Meta introduced new AI-powered smart glasses with useful features, but some people still have concerns.",
+            "readingComprehension": {
+                "rc1": "Meta Connect",
+                "rc2": "Instagram and WhatsApp",
+                "rc3": "make video calls, show messages, and take photos or videos with a camera",
+                "rc4": "A WhatsApp call did not go through.",
+                "rc5": "They are worried about how safe Meta’s platforms are for kids."
+            },
+            "evidenceFromText": {
+                "ev1": "These glasses, called Meta Ray-Ban Display, allow you to make video calls, see messages on a high-resolution screen, and even have a 12-megapixel camera.",
+                "ev2": "During a demonstration, a WhatsApp call didn’t go through, and Zuckerberg joked, “I keep on messing this up.”",
+                "ev3": "However, many people aren’t sure if they need AI glasses yet, and some parents are worried about how safe Meta’s platforms are for kids."
+            },
+            "languageFocus": {
+                "practice1": "Smart glasses allow users to access the internet hands-free.",
+                "practice2": "Technology makes life easier. However, it can also lead to screen addiction.",
+                "practice3": "AI devices allow students to learn English in interactive ways."
+            }
+        },
+        "modelAnswer": "I think AI-powered smart glasses could be useful for teenagers, but they should be used carefully. These glasses allow users to see messages, make video calls, and use a camera without holding a phone. This could be helpful for students who need quick information or want to stay connected. However, there are also serious concerns. If teenagers use smart glasses too often, they may become distracted in class or record others without permission. Some parents may also worry about privacy and online safety. Overall, AI smart glasses are an exciting breakthrough, but teenagers need clear rules before using them in daily life.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clearly states a balanced opinion about smart glasses, supporting it with at least two clear reasons and one relevant concern.",
+                "developing": "States an opinion, but reasons or concerns may be weak, general, or partially explained.",
+                "beginning": "Opinion is unclear or reasons/concerns are completely missing."
+            },
+            {
+                "criterion": "Evidence & Detail",
+                "excellent": "Uses multiple specific details or examples (e.g. features, prices, issues) from the article to support claims.",
+                "developing": "Uses some details from the article, but they are vague or not linked to the arguments.",
+                "beginning": "No evidence or details from the text are used."
+            },
+            {
+                "criterion": "Language Use",
+                "excellent": "Correctly implements 'allow + object + to + verb' and uses 'however' for contrast. Employs at least one target vocabulary word accurately.",
+                "developing": "Attempts target grammar structures and vocabulary, but makes minor errors in form or usage.",
+                "beginning": "Errors in basic grammar and vocabulary make the paragraph difficult to understand."
+            },
+            {
+                "criterion": "Organization",
+                "excellent": "Follows a logical flow from introduction to reasons, concern, and a clear concluding sentence with smooth transitions.",
+                "developing": "Has an identifiable structure, but transitions are abrupt or the conclusion is weak.",
+                "beginning": "Lacks organization, with ideas appearing in a random, disjointed order."
+            },
+            {
+                "criterion": "Task Completion",
+                "excellent": "Writes a complete opinion paragraph within the word limit of 100-140 words, fulfilling all checklist items.",
+                "developing": "Fulfills some checklist items but is slightly under or over the word limit, or misses an essential task.",
+                "beginning": "Fails to meet word target or misses multiple required task elements."
+            }
+        ],
+        "teacherNotes": [
+            "This lesson is suitable for OFS Grade 9 International English G1/G2 students.",
+            "Pre-teach technology vocabulary before reading.",
+            "Ask students to separate “features” from “concerns.”",
+            "Encourage students to use evidence from the article instead of guessing.",
+            "For weaker students, allow sentence frames before the final writing task.",
+            "For stronger students, ask them to discuss privacy, safety, and responsibility."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in / Warm-up (10 minutes)",
+                "script": "Start by asking students about their smart device habits and introduce the concept of wearing smart glasses with cameras. Use the warm-up questions to spark a discussion."
+            },
+            {
+                "phase": "Vocabulary preview (10 minutes)",
+                "script": "Introduce the eight vocabulary items. Have students read them aloud and match them to the simplified definitions. Encourage them to find the words in the article first."
+            },
+            {
+                "phase": "First reading for gist (10 minutes)",
+                "script": "Instruct students to read the text quietly to get a general understanding. Ask: What new device did Zuckerberg introduce? What were some reactions?"
+            },
+            {
+                "phase": "Second reading for detail and evidence (15 minutes)",
+                "script": "Have students read the text again to answer the reading comprehension MCQs. Focus on locating specific evidence for the written-response section."
+            },
+            {
+                "phase": "Language Focus (10 minutes)",
+                "script": "Explain the grammar structures: 'allow + object + to + verb' and contrast marker 'however'. Complete the sentence frame and writing practices together on the board."
+            },
+            {
+                "phase": "Writing Practice (15 minutes)",
+                "script": "Have students answer the three discussion-based writing practice questions in their textareas. Emphasize writing complete sentences."
+            },
+            {
+                "phase": "Final Writing Task (20 minutes)",
+                "script": "Guide students to plan and write their opinion paragraphs. Encourage them to use the checklist to self-assess their writing."
+            },
+            {
+                "phase": "Self-check and submission (5 minutes)",
+                "script": "Remind students to tick all check boxes in the self-check section, review word count, and submit the lesson."
+            }
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Today we will read / about a new AI-powered device / from Meta.",
+                    "korean": "오늘 우리는 읽을 것입니다 / 새로운 AI 기반 장치에 대해 / 메타에서 나온."
+                },
+                {
+                    "english": "We will learn / about its features, / and we will discuss / the potential benefits and risks.",
+                    "korean": "우리는 배울 것입니다 / 그것의 기능들에 대해, / 그리고 우리는 토론할 것입니다 / 잠재적인 이점과 위험들을."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "What smart device / do you use / most often, / and why?",
+                    "korean": "어떤 스마트 장치를 / 여러분은 사용하나요 / 가장 자주, / 그리고 그 이유는 무엇인가요?",
+                    "teacherFollowUp": "Do you spend / more than three hours / on this device / every day?",
+                    "teacherFollowUpKorean": "여러분은 보내나요 / 3시간 이상을 / 이 장치를 사용하면서 / 매일?"
+                },
+                {
+                    "question": "Would you feel / comfortable / wearing glasses / with a screen and camera? / Why or why not?",
+                    "korean": "여러분은 편안하게 / 느낄까요 / 안경을 쓰는 것을 / 화면과 카메라가 있는? / 왜 그렇거나 왜 그렇지 않나요?",
+                    "teacherFollowUp": "Are you worried / that someone / might record you / without your permission?",
+                    "teacherFollowUpKorean": "여러분은 걱정하나요 / 누군가가 / 여러분을 녹화할까 봐 / 여러분의 허락 없이?"
+                },
+                {
+                    "question": "What could be / one benefit / and one risk / of AI-powered glasses?",
+                    "korean": "무엇이 될 수 있을까요 / 한 가지 이점과 / 한 가지 위험이 / AI 기반 안경의?",
+                    "teacherFollowUp": "Can they / distract you / during study?",
+                    "teacherFollowUpKorean": "그것들이 / 여러분을 산만하게 만들 수 있나요 / 공부하는 동안에?"
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "At a big tech event called “Meta Connect,” Mark Zuckerberg, the head of Meta (the company behind Instagram and WhatsApp), unveiled a cool new pair of smart glasses that use artificial intelligence (AI).",
+                    "chunkReading": "At a big tech event / called “Meta Connect,” / Mark Zuckerberg, / the head of Meta / (the company behind / Instagram and WhatsApp), / unveiled / a cool new pair of smart glasses / that use / artificial intelligence (AI).",
+                    "directKorean": "대형 기술 행사에서 / “Meta Connect”라 불리는, / 마크 저커버그는, / 메타의 수장인 / (~ 뒤에 있는 회사인 / 인스타그램과 왓츠앱), / 베일을 벗겼다 / 멋진 새로운 스마트 안경 한 장을 / 사용하는 / 인공지능(AI)을.",
+                    "naturalKorean": "마크 저커버그 메타(인스타그램과 왓츠앱의 모회사) 대표는 '메타 커넥트'라는 대형 IT 행사에서 인공지능(AI)을 적용한 멋진 새 스마트 안경을 선보였습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "the company behind",
+                            "meaning": "~의 뒤에 있는 회사, ~를 개발/운영하는 모회사",
+                            "use": "특정 유명 브랜드나 서비스의 제작사를 설명할 때 자주 쓰입니다.",
+                            "example": "ByteDance is the company behind TikTok."
+                        }
+                    ],
+                    "mustKnowGrammar": "관계대명사 주격 that이 선행사 a cool new pair of smart glasses를 수식합니다. 선행사가 복수(glasses)이므로 동사로 단수가 아닌 use가 쓰였습니다.",
+                    "vocabularyUsageNote": "unveil은 원래 '베일을 벗기다'에서 유래하여 신제품이나 새로운 계획을 대중에게 '최초로 공개하다'라는 뜻으로 기술/비즈니스 뉴스에서 매우 자주 사용됩니다.",
+                    "feynmanExplanation": "쉽게 설명하면, 페이스북과 인스타그램을 만든 메타 회사의 대장 마크 저커버그가 인공지능이 들어간 똑똑한 새 안경을 사람들에게 처음으로 보여주었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Pay attention to 'unveiled'. / It means / showing something / for the first time.",
+                            "korean": "'unveiled'에 주목해 보세요. / 이것은 무언가를 보여주는 것을 뜻합니다 / 최초로."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "These glasses, called Meta Ray-Ban Display, allow you to make video calls, see messages on a high-resolution screen, and even have a 12-megapixel camera.",
+                    "chunkReading": "These glasses, / called Meta Ray-Ban Display, / allow you / to make video calls, / see messages / on a high-resolution screen, / and even have / a 12-megapixel camera.",
+                    "directKorean": "이 안경은, / 메타 레이밴 디스플레이라 불리는, / 허용한다 여러분이 / 영상 통화를 하는 것을, / 메시지를 보는 것을 / 고해상도 화면에서, / 그리고 심지어 갖는 것을 / 12메가픽셀 카메라를.",
+                    "naturalKorean": "'메타 레이밴 디스플레이'로 불리는 이 안경은 고해상도 화면으로 메시지를 확인하고 영상 통화를 할 수 있게 해 주며, 심지어 1200만 화소 카메라까지 탑재되어 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "high-resolution screen",
+                            "meaning": "고해상도 화면",
+                            "use": "화질이 매우 선명하고 입자가 촘촘한 디스플레이 장치를 묘사할 때 사용합니다.",
+                            "example": "The design looks crisp on this high-resolution screen."
+                        }
+                    ],
+                    "mustKnowGrammar": "중요 구문인 'allow + object + to + verb' 구조입니다. 여기서 'allow you' 뒤에 'to make', '(to) see', 그리고 '(to) even have'가 등위 접속사 and로 묶인 병렬 구조를 이루고 있습니다.",
+                    "vocabularyUsageNote": "megapixel은 카메라의 해상도 단위로 '100만 화소'를 의미합니다. 12-megapixel은 1200만 화소라는 뜻입니다.",
+                    "feynmanExplanation": "이 안경을 쓰면 핸드폰을 안 보고도 화면으로 문자나 영상통화가 가능하고, 고화질 사진을 찍을 수 있는 고성능 카메라까지 달려있다는 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice how 'allow' is followed by 'to make' and 'see'. / The 'to' is shared.",
+                            "korean": "'allow' 다음에 'to make'와 'see'가 어떻게 오는지 보세요. / 'to'는 공유되고 있습니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "They will cost $799 and are available this month!",
+                    "chunkReading": "They / will cost / $799 / and / are available / this month!",
+                    "directKorean": "그것들은 / 비용이 들 것이다 / 799달러의 / 그리고 / 이용 가능하다 / 이번 달에!",
+                    "naturalKorean": "가격은 799달러이며 이번 달 출시됩니다!",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "available this month",
+                            "meaning": "이번 달에 구매/이용 가능한",
+                            "use": "제품이 출시되어 소비자가 구할 수 있는 시점을 말할 때 씁니다.",
+                            "example": "The new shoes will be available this month."
+                        }
+                    ],
+                    "mustKnowGrammar": "조동사 will 뒤에 동사원형 cost가 오고, and 뒤에는 현재형 be동사인 are가 주어 They에 일치하여 연결되어 있습니다. 시점이 미래와 현재로 교차 연결되는 문장입니다.",
+                    "vocabularyUsageNote": "available은 '사용할 수 있는', '구할 수 있는'이라는 형용사로 제품 출시나 예약 가능 상태를 표현할 때 핵심 어휘입니다.",
+                    "feynmanExplanation": "안경 가격은 한화로 약 100만 원 정도인 799달러이고, 바로 이번 달부터 사람들이 살 수 있게 나온대요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Available' means / you can buy / or get it now.",
+                            "korean": "'Available'은 의미합니다 / 여러분이 살 수 있거나 / 지금 얻을 수 있다는 것을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "Zuckerberg called this technology a “huge scientific breakthrough.”",
+                    "chunkReading": "Zuckerberg / called / this technology / a “huge scientific breakthrough.”",
+                    "directKorean": "저커버그는 / 불렀다 / 이 기술을 / “거대한 과학적 돌파구”라고.",
+                    "naturalKorean": "저커버그는 이 기술을 '거대한 과학적 돌파구(혁신)'라고 불렀습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "scientific breakthrough",
+                            "meaning": "과학적 돌파구, 과학계의 위대한 발견/혁신",
+                            "use": "기존의 한계를 뛰어넘는 새로운 발명이나 엄청난 과학적 발전을 칭송할 때 씁니다.",
+                            "example": "Penicillin was a major scientific breakthrough."
+                        }
+                    ],
+                    "mustKnowGrammar": "call + 목적어(this technology) + 목적보어(a huge scientific breakthrough) 구조의 5형식 문장입니다. 목적어를 목적보어라고 칭함을 나타냅니다.",
+                    "vocabularyUsageNote": "breakthrough는 장벽이나 문제를 깨부수고 나아간다는 뉘앙스로, 난제를 해결한 '비약적 발전'이나 '혁신'을 의미하는 명사입니다.",
+                    "feynmanExplanation": "저커버그 사장님이 이 안경 기술이 과학계에서 엄청나게 중요하고 역사적인 커다란 성공이라고 큰소리쳤다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "A 'breakthrough' / is an important / new discovery / that solves a problem.",
+                            "korean": "'breakthrough'는 / 중요한 / 새로운 발견입니다 / 문제를 해결해 주는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "The event, however, wasn’t perfect.",
+                    "chunkReading": "The event, / however, / wasn’t perfect.",
+                    "directKorean": "그 행사는, / 하지만, / 완벽하지 않았다.",
+                    "naturalKorean": "그러나 그 행사가 완전히 완벽했던 것은 아닙니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "wasn't perfect",
+                            "meaning": "완벽하지 않았다, 옥에 티가 있었다",
+                            "use": "긍정적인 상황 뒤에 어떤 아쉬움이나 실수가 있었음을 암시할 때 씁니다.",
+                            "example": "Our plan was good, but it wasn't perfect."
+                        }
+                    ],
+                    "mustKnowGrammar": "접속부사 however가 문장 중간의 쉼표(,) 사이에 삽입되어 앞서 말한 긍정적 찬사(breakthrough)와 대비되는 부정적 사실을 유도하는 대비(Contrast)의 효과를 내고 있습니다.",
+                    "vocabularyUsageNote": "however는 문장 앞뿐만 아니라 이 문장처럼 주어와 동사 사이에 삽입되어 흐름을 전환하는 역할을 자주 합니다.",
+                    "feynmanExplanation": "하지만 그 발표회 행사 중에 완벽하지 못하고 조그만 실수나 사고가 하나 터졌다는 예고를 하는 문장이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice 'however' / is placed / inside commas / after the subject.",
+                            "korean": "'however'가 / 위치해 있는 것을 보세요 / 쉼표들 사이에 / 주어 뒤에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "During a demonstration, a WhatsApp call didn’t go through, and Zuckerberg joked, “I keep on messing this up.”",
+                    "chunkReading": "During a demonstration, / a WhatsApp call / didn’t go through, / and / Zuckerberg joked, / “I keep on / messing this up.”",
+                    "directKorean": "시연 동안에, / 왓츠앱 통화가 / 연결되지 않았다, / 그리고 / 저커버그는 농담했다, / “나는 계속해서 / 이것을 망치고 있네요.”라고.",
+                    "naturalKorean": "시연 도중 왓츠앱 전화 연결이 되지 않자, 저커버그는 \"제가 계속 실수를 하네요\"라며 농담을 던졌습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "go through",
+                            "meaning": "(전화 등이) 연결되다, 승인되다",
+                            "use": "통신이나 거래, 서류 등이 막힘 없이 끝까지 통과되는 상황을 묘사합니다.",
+                            "example": "My credit card payment didn't go through."
+                        },
+                        {
+                            "chunk": "mess up",
+                            "meaning": "망치다, 실수하다",
+                            "use": "무언가를 엉망으로 만들거나 어설프게 다루어 잘못을 저질렀을 때 쓰는 구어체 표현.",
+                            "example": "Don't worry if you mess up the first time."
+                        }
+                    ],
+                    "mustKnowGrammar": "keep on + 동사-ing 구조는 '계속해서 ~하다'라는 반복과 지속을 나타내는 관용 패턴입니다. messed up is phrasal verb with pronoun object in the middle.",
+                    "vocabularyUsageNote": "demonstration은 신기술이나 제품의 작동법을 대중 앞에서 직접 보여주는 '시연' 또는 '설명회'를 의미합니다.",
+                    "feynmanExplanation": "사람들 앞에서 안경으로 전화 거는 모습을 직접 보여주고 있었는데, 갑자기 전화가 안 걸리는 에러가 나니까 저커버그가 당황하면서 '내가 또 망쳤네!'하고 웃어넘겼다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Keep on messing up' / means / doing something wrong / repeatedly.",
+                            "korean": "'Keep on messing up'은 의미합니다 / 무언가 잘못하는 것을 / 반복해서."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "Along with these glasses, Meta also launched other sporty options priced at $499.",
+                    "chunkReading": "Along with these glasses, / Meta / also launched / other sporty options / priced at $499.",
+                    "directKorean": "이 안경과 함께, / 메타는 / 또한 출시했다 / 다른 스포티한 옵션들을 / 499달러로 가격이 책정된.",
+                    "naturalKorean": "이 안경과 더불어 메타는 499달러의 스포티한 다른 디자인 옵션들도 함께 출시했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "Along with",
+                            "meaning": "~와 함께, ~와 마찬가지로",
+                            "use": "기존에 언급한 대상에 추가적으로 무언가를 덧붙여 말할 때 전치사처럼 씁니다.",
+                            "example": "Along with the cake, she bought some candles."
+                        }
+                    ],
+                    "mustKnowGrammar": "priced at $499는 과거분사구로 앞에 있는 명사구 other sporty options를 후치 수식합니다. (which were) priced at $499에서 관계대명사와 be동사가 생략된 구조입니다.",
+                    "vocabularyUsageNote": "sporty는 '운동을 좋아하는'이라는 뜻 외에도 의류나 액세서리가 '스포티한, 캐주얼하고 경쾌한' 스타일임을 뜻할 때 씁니다.",
+                    "feynmanExplanation": "방금 말한 비싼 안경 말고도, 운동할 때 쓰기 편한 좀 더 저렴한 499달러짜리 안경 모델들도 같이 팔기 시작했다는 소식이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Priced at' / acts like / an adjective / describing the options.",
+                            "korean": "'Priced at'은 / 역할합니다 / 형용사처럼 / 옵션들을 설명하는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "Meta has sold about two million pairs of smart glasses already.",
+                    "chunkReading": "Meta / has sold / about two million pairs / of smart glasses / already.",
+                    "directKorean": "메타는 / 판매했다 / 대략 2백만 개의 쌍들을 / 스마트 안경의 / 이미.",
+                    "naturalKorean": "메타는 이미 약 200만 개의 스마트 안경을 판매했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "two million pairs of",
+                            "meaning": "200만 개의 (안경 등 켤레로 세는 물건)",
+                            "use": "glasses, shoes, socks처럼 항상 쌍으로 존재하는 물건의 수량을 표시할 때 씁니다.",
+                            "example": "The factory produces three million pairs of shoes a year."
+                        }
+                    ],
+                    "mustKnowGrammar": "has sold는 과거부터 현재까지 판매해 온 실적을 강조하는 현재완료 시제(완료/결과)의 사용입니다. 부사 already가 들어가 판매 속도의 놀라움을 나타내고 있습니다.",
+                    "vocabularyUsageNote": "million은 백만(1,000,000)이므로, two million은 200만입니다. 숫자가 올 때는 million에 s를 붙이지 않습니다.",
+                    "feynmanExplanation": "이 회사는 이번에 새로 낸 안경 말고도, 이미 이전 모델의 스마트 안경을 무려 200만 개나 파는 성공을 거두었다는 정보예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "We use 'pairs' / because glasses / have two lenses / for two eyes.",
+                            "korean": "우리는 'pairs'를 사용합니다 / 안경이 / 두 개의 렌즈를 가지기 때문에 / 두 눈을 위한."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 9,
+                    "original": "However, many people aren’t sure if they need AI glasses yet, and some parents are worried about how safe Meta’s platforms are for kids.",
+                    "chunkReading": "However, / many people / aren’t sure / if they need AI glasses yet, / and / some parents / are worried about / how safe / Meta’s platforms / are for kids.",
+                    "directKorean": "하지만, / 많은 사람들은 / 확신하지 못한다 / 그들이 AI 안경을 아직 필요로 하는지 아닌지, / 그리고 / 어떤 부모들은 / 걱정하고 있다 / 얼마나 안전한지에 대해 / 메타의 플랫폼들이 / 아이들에게.",
+                    "naturalKorean": "그러나 많은 사람들은 아직 자신에게 AI 안경이 필요한지 확신하지 못하고 있으며, 일부 부모들은 메타의 플랫폼들이 아이들에게 얼마나 안전한지에 대해 우려하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "are worried about",
+                            "meaning": "~에 대해 걱정하다",
+                            "use": "주어의 심적 불안감이나 특정 문제점에 대한 우려를 표명할 때 쓰는 형용사적 숙어.",
+                            "example": "They are worried about their exam results."
+                        }
+                    ],
+                    "mustKnowGrammar": "aren't sure 뒤의 if는 '만약 ~라면'이 아닌 '~인지 아닌지'라는 뜻의 명사절 접속사입니다. how safe Meta's platforms are for kids는 전치사 about의 목적어로 쓰인 의문사절(간접의문문)로 '의문사 + 주어 + 동사' 어순을 지키고 있습니다.",
+                    "vocabularyUsageNote": "platform은 왓츠앱, 페이스북, 인스타그램 같은 온라인 서비스 네트워크나 앱 환경 전체를 일컫는 IT 용어로 쓰였습니다.",
+                    "feynmanExplanation": "마지막으로, 아직 사람들이 이 스마트 안경을 꼭 사야 하는지 의문을 품고 있고, 부모님들은 이 안경을 통해 애들이 유해한 앱에 노출될까 봐 걱정한다는 비판을 담고 있어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "In 'how safe they are', / remember the word order / of indirect questions.",
+                            "korean": "'how safe they are'에서, / 어순을 기억하세요 / 간접 의문문의."
+                        }
+                    ]
+                }
+            ],
+            "finalWritingSupport": {
+                "sentenceFrames": [
+                    "I think AI-powered smart glasses are a [good/bad] idea for teenagers because they allow users to ________.",
+                    "On one hand, teenagers can use these glasses to ________, which is very convenient.",
+                    "However, there is a risk that teenagers might ________.",
+                    "Therefore, I believe that we should ________ before teenagers use them."
+                ],
+                "usefulConnectors": [
+                    "However (하지만)",
+                    "On the other hand (반면에)",
+                    "For example (예를 들어)",
+                    "Therefore (그러므로)",
+                    "Overall (전반적으로)"
+                ],
+                "usefulVocabulary": [
+                    "unveiled (공개된)",
+                    "high-resolution (고해상도의)",
+                    "breakthrough (돌파구, 혁신)",
+                    "distracted (산만해진)",
+                    "privacy concern (사생활 걱정)",
+                    "responsible use (책임감 있는 사용)"
+                ],
+                "paragraphOutline": [
+                    "Sentence 1 (Topic Sentence): State your clear opinion on whether AI glasses are a good idea for teens.",
+                    "Sentence 2-3 (Reason 1 & Detail): Explain the first benefit (e.g., messaging, cameras) using target vocabulary.",
+                    "Sentence 4-5 (Reason 2 & Detail): Explain the second benefit or feature that is useful.",
+                    "Sentence 6-7 (Concern/Risk): Introduce a concern (e.g., class distraction, privacy) using contrast language ('However').",
+                    "Sentence 8 (Conclusion): Write a final concluding sentence summarizing your stance and suggesting a rule or action."
+                ],
+                "commonMistakes": [
+                    {
+                        "mistake": "Using 'allow' incorrectly without 'to': *These glasses allow teenagers watch videos.*",
+                        "correction": "Always use 'allow + object + to + verb': *These glasses allow teenagers to watch videos.*"
+                    },
+                    {
+                        "mistake": "Placing 'however' directly before a verb without proper punctuation: *Teens like technology however they worry about safety.*",
+                        "correction": "Use commas and periods correctly: *Teens like technology. However, they worry about safety.* or *Teens like technology; however, they worry about safety.*"
+                    },
+                    {
+                        "mistake": "Translating Korean '~에 익숙하다' literally and using wrong prepositions.",
+                        "correction": "Use established collocations: *Teenagers are used to using smart devices.*"
+                    }
+                ],
+                "teacherCorrectionFocus": [
+                    "Check if the student wrote between 100 and 140 words.",
+                    "Ensure the student has included at least two distinct reasons supporting their opinion.",
+                    "Confirm there is exactly one concern or risk mentioned.",
+                    "Look for the correct grammatical structure of 'allow + object + to + verb'.",
+                    "Verify the usage of 'however' with correct punctuation.",
+                    "Verify that at least one technology vocabulary word from the lesson (e.g. breakthrough, platform, high-resolution) is used."
+                ]
+            }
+        }
+    }
+}
