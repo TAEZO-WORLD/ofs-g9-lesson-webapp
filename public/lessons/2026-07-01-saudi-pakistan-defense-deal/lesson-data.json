@@ -1,0 +1,860 @@
+{
+    "lessonTitle": "Saudi Arabia and Pakistan: A New Deal and Big Questions",
+    "ofsUnit": "Unit 4 — Global Perspectives & International Relations",
+    "textType": "News Explainer / Explanatory Paragraph",
+    "lessonGoal": "Students will read a news explainer about a defense agreement between Saudi Arabia and Pakistan, identify the main idea and supporting details, learn international-relations vocabulary, and write a short explanatory paragraph about why other countries are paying attention.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about international relations and safety. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "Why do countries sometimes make agreements to protect each other?",
+            "What might happen when two powerful countries become closer allies?",
+            "Why do you think other countries watch defense agreements carefully?"
+        ]
+    },
+    "article": {
+        "title": "Saudi Arabia and Pakistan: A New Deal and Big Questions",
+        "source": "Source: Adapted from teacher-provided classroom source image.",
+        "note": "OFS Grade 9 International English — Unit 4",
+        "paragraphs": [
+            "Two countries just made a serious promise to protect each other, and the whole world is paying attention.",
+            "Saudi Arabia and Pakistan have been friendly for a long time. Even though they’re far apart, they have a lot in common. Both are Muslim-majority countries and often support each other in religious matters. Pakistan has sent troops and trainers to help Saudi Arabia in the past. Saudi Arabia has given money to help Pakistan’s economy when things were tough. Many Pakistanis work in Saudi Arabia and send money back home to their families.",
+            "In September 2025, the two countries signed something called a Strategic Mutual Defense Agreement. That means if one country is attacked, the other one will help defend it, just like they were being attacked too. Some leaders in Pakistan even said they might share their nuclear defense plans with Saudi Arabia someday, if needed, although they haven’t given full details. Pakistan is one of only nine countries with nuclear weapons.",
+            "One country that’s especially concerned is India. India and Pakistan have had a long, tense history, including wars and border fights. If Pakistan and Saudi Arabia get even closer, especially in terms of military power, India worries that it could change the balance in the region. India is also friends with Saudi Arabia, so this new deal puts them in an awkward position. They’re saying, “We hope you remember our friendship too.”",
+            "Other countries, like Iran and the United States, are also watching to see what this means for peace, safety, and power in the Middle East."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Read the key terms from the explainer and their definitions below.",
+        "items": [
+            {
+                "word": "agreement",
+                "definition": "a formal decision or promise made between two or more countries or groups",
+                "sentence": "The two countries signed something called a Strategic Mutual Defense Agreement."
+            },
+            {
+                "word": "defend",
+                "definition": "to protect someone or something from attack or harm",
+                "sentence": "That means if one country is attacked, the other one will help defend it."
+            },
+            {
+                "word": "mutual",
+                "definition": "felt, done, or shared by two or more people or groups together",
+                "sentence": "In September 2025, the two countries signed a Strategic Mutual Defense Agreement."
+            },
+            {
+                "word": "military power",
+                "definition": "the strength and resources of a country's army, navy, and air force",
+                "sentence": "If Pakistan and Saudi Arabia get even closer, especially in terms of military power, India worries."
+            },
+            {
+                "word": "nuclear weapons",
+                "definition": "extremely powerful bombs that use nuclear energy to cause massive destruction",
+                "sentence": "Pakistan is one of only nine countries with nuclear weapons."
+            },
+            {
+                "word": "concerned",
+                "definition": "worried, anxious, or paying close attention to a potential problem",
+                "sentence": "One country that’s especially concerned is India."
+            },
+            {
+                "word": "balance",
+                "definition": "a situation where different powers or forces are equal and stable",
+                "sentence": "India worries that it could change the balance in the region."
+            },
+            {
+                "word": "awkward position",
+                "definition": "a difficult or embarrassing situation that is hard to deal with",
+                "sentence": "India is also friends with Saudi Arabia, so this new deal puts them in an awkward position."
+            },
+            {
+                "word": "region",
+                "definition": "a particular area of the world, defined by geography or politics",
+                "sentence": "India worries that it could change the balance in the region."
+            },
+            {
+                "word": "international relations",
+                "definition": "the study or practice of political, economic, and military relationships between countries",
+                "sentence": "This lesson focuses on vocabulary related to international relations."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Saudi Arabia and Pakistan ended their friendship.",
+            "Saudi Arabia and Pakistan signed a defense agreement, and other countries are watching because it may affect regional power and safety.",
+            "India and Pakistan have solved all their problems.",
+            "The United States created the new agreement."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that Saudi Arabia and Pakistan made a defense promise, and countries such as India, Iran, and the United States are watching because the deal could affect peace, safety, and power in the region."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "What do Saudi Arabia and Pakistan have in common according to the article?",
+                "options": [
+                    "They share a long physical land border.",
+                    "They are both Muslim-majority countries and have supported each other in different ways.",
+                    "They both have the exact same size of economy.",
+                    "They both became independent in the year 2025."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article states: 'Both are Muslim-majority countries and often support each other in religious matters' and have exchanged troops and economic aid."
+            },
+            {
+                "id": "rc2",
+                "question": "What is the name of the agreement signed in September 2025?",
+                "options": [
+                    "Saudi-Pakistan Economy Accord",
+                    "Strategic Mutual Defense Agreement",
+                    "Middle East Nuclear Alliance",
+                    "Asian Friendship Treaty"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article says they signed something called a 'Strategic Mutual Defense Agreement' in September 2025."
+            },
+            {
+                "id": "rc3",
+                "question": "What does the agreement mean if one country is attacked?",
+                "options": [
+                    "The other country will pay money to stop the war.",
+                    "The other country will help defend it, treating the attack as if it happened to themselves.",
+                    "The other country will ask the United Nations to help.",
+                    "The other country will remain completely neutral."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article states: 'if one country is attacked, the other one will help defend it, just like they were being attacked too.'"
+            },
+            {
+                "id": "rc4",
+                "question": "Why is India especially concerned?",
+                "options": [
+                    "Because it wants to sign the same agreement with Pakistan.",
+                    "Because India and Pakistan have a long, tense history, and India worries the deal could change the balance in the region.",
+                    "Because India does not like Saudi Arabia's economy.",
+                    "Because Pakistan is planning to stop trading with India."
+                ],
+                "correctIndex": 1,
+                "explanation": "The text explains: 'India and Pakistan have had a long, tense history, including wars and border fights. If Pakistan and Saudi Arabia get even closer... India worries that it could change the balance in the region.'"
+            },
+            {
+                "id": "rc5",
+                "question": "Which other countries are watching the situation?",
+                "options": [
+                    "China and Russia",
+                    "Iran and the United States",
+                    "Egypt and Turkey",
+                    "Japan and South Korea"
+                ],
+                "correctIndex": 1,
+                "explanation": "The article mentions: 'Other countries, like Iran and the United States, are also watching to see what this means...'"
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find and type the exact sentence from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Find one sentence that shows Saudi Arabia and Pakistan have had a close relationship for a long time."
+            },
+            {
+                "id": "ev2",
+                "statement": "Find one sentence that explains what the defense agreement means."
+            },
+            {
+                "id": "ev3",
+                "statement": "Find one sentence that shows why India is concerned."
+            },
+            {
+                "id": "ev4",
+                "statement": "Find one sentence that shows other countries are also paying attention."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Cause-and-Effect and Cautious Political Language",
+        "explanation": "In international relations, writers use cause-and-effect language to explain the consequences of agreements. They also use cautious language (like 'could change' or 'are watching to see') because future actions are not certain.",
+        "examples": [
+            "If one country is attacked, the other one will help defend it.",
+            "India worries that it could change the balance in the region.",
+            "Other countries are watching to see what this means for peace and safety."
+        ],
+        "practice": [
+            "Complete the sentence: If two countries sign a defense agreement, they may ________.",
+            "Write one sentence using “could change.”",
+            "Write one sentence using “are watching to see what this means.”",
+            "Write one cause-and-effect sentence about the new deal."
+        ]
+    },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "Why might Saudi Arabia and Pakistan want a defense agreement?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "Why might India feel concerned about this new deal?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "How could this agreement affect peace, safety, or power in the region?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp4",
+                "question": "Why is it important to use neutral language when writing about international relations?",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short explanatory paragraph of 100–140 words answering this question: Why are other countries paying attention to the new defense agreement between Saudi Arabia and Pakistan?",
+        "wordTarget": {
+            "min": 100,
+            "max": 140
+        },
+        "checklist": [
+            "Explain the agreement clearly.",
+            "Include at least two reasons why other countries are watching.",
+            "Use at least two details from the article.",
+            "Use cause-and-effect language such as because, if, could change, as a result, or this means.",
+            "Keep your tone neutral and balanced.",
+            "End with a clear concluding sentence."
+        ],
+        "studentWritingBox": true
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I explained the agreement clearly.",
+            "I included at least two reasons why other countries are watching.",
+            "I used at least two details from the article.",
+            "I used cause-and-effect language.",
+            "I kept my tone neutral and balanced.",
+            "I ended with a clear concluding sentence."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Saudi Arabia and Pakistan signed a defense agreement, and other countries are watching because it may affect regional power and safety.",
+            "readingComprehension": {
+                "rc1": "They are both Muslim-majority countries and have supported each other in different ways.",
+                "rc2": "Strategic Mutual Defense Agreement",
+                "rc3": "The other country will help defend it.",
+                "rc4": "India and Pakistan have a long, tense history, and India worries the deal could change the balance in the region.",
+                "rc5": "Iran and the United States"
+            },
+            "evidenceFromText": {
+                "ev1": "Saudi Arabia and Pakistan have been friendly for a long time.",
+                "ev2": "That means if one country is attacked, the other one will help defend it, just like they were being attacked too.",
+                "ev3": "If Pakistan and Saudi Arabia get even closer, especially in terms of military power, India worries that it could change the balance in the region.",
+                "ev4": "Other countries, like Iran and the United States, are also watching to see what this means for peace, safety, and power in the Middle East."
+            },
+            "languageFocus": {
+                "practice1": "If two countries sign a defense agreement, they may send troops or military equipment to help each other.",
+                "practice2": "The new agreement could change the way neighboring countries interact.",
+                "practice3": "Diplomats are watching to see what this means for international trade agreements.",
+                "practice4": "Because the agreement involves nuclear-armed Pakistan, neighboring nations feel anxious about security."
+            }
+        },
+        "modelAnswer": "Other countries are paying attention to the new defense agreement between Saudi Arabia and Pakistan because it could affect peace, safety, and power in the region. The agreement says that if one country is attacked, the other country will help defend it. This is important because Pakistan has nuclear weapons, and some leaders have mentioned the possibility of sharing nuclear defense plans in the future. India is especially concerned because it has had a long and tense history with Pakistan, including wars and border fights. India is also friends with Saudi Arabia, so the deal puts it in an awkward position. As a result, countries such as Iran and the United States are watching carefully. Overall, the agreement matters because it may change regional relationships and security.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clearly explains the defense agreement and details at least two distinct reasons why other nations are monitoring the pact.",
+                "developing": "Explains the agreement but reasons are general, repetitive, or lack clear connection to the text.",
+                "beginning": "The explanation is incorrect, incomplete, or fails to address the question."
+            },
+            {
+                "criterion": "Evidence & Detail",
+                "excellent": "Incorporates at least two specific details from the article (e.g. September 2025 date, nuclear weapons, India's relations) accurately.",
+                "developing": "Attempts to use details, but they are inaccurate, out of context, or insufficient.",
+                "beginning": "Fails to include specific details or relies entirely on outside knowledge."
+            },
+            {
+                "criterion": "Language Use",
+                "excellent": "Effectively uses cause-and-effect connectors (e.g. because, as a result) and cautious academic phrases (e.g. could change).",
+                "developing": "Uses some connectors but makes grammatical errors, or fails to use cautious language.",
+                "beginning": "Lacks appropriate connectors; sentences are disjointed or grammatically incorrect."
+            },
+            {
+                "criterion": "Organization",
+                "excellent": "Structured as a single, cohesive paragraph with a clear topic sentence, logical flow, and a strong concluding sentence.",
+                "developing": "Paragraph structure is loose, transitions are missing, or the concluding sentence is weak.",
+                "beginning": "Lacks paragraphs or logical organization; ideas are randomly arranged."
+            },
+            {
+                "criterion": "Neutral Academic Tone",
+                "excellent": "Maintains a neutral, objective, and politically balanced tone throughout. Avoids subjective statements.",
+                "developing": "Paragraph is mostly objective but includes minor subjective comments or biased phrasing.",
+                "beginning": "Uses highly subjective, biased, or emotional language to describe countries' actions."
+            },
+            {
+                "criterion": "Task Completion",
+                "excellent": "Completes the paragraph within the 100-140 word range and meets all checklist criteria.",
+                "developing": "Fails to meet word count (under 100 or over 140 words) or misses one checklist item.",
+                "beginning": "Fails to meet multiple criteria or is excessively short/long."
+            }
+        ],
+        "teacherNotes": [
+            "This lesson is suitable for OFS Grade 9 International English G1/G2 students.",
+            "Keep the discussion neutral and focused on reading comprehension, not political opinion.",
+            "Pre-teach vocabulary connected to international relations and security.",
+            "Help students distinguish facts from possible concerns.",
+            "Remind students not to make unsupported claims beyond the article.",
+            "For weaker students, provide sentence frames for the final paragraph.",
+            "For stronger students, ask them to explain how one country’s decision can affect other countries."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in / Warm-up (10 minutes)",
+                "script": "Begin the class by discussing why countries make alliances. Use the warm-up questions to discuss safety, allies, and regional balance in a neutral manner."
+            },
+            {
+                "phase": "Vocabulary preview (10 minutes)",
+                "script": "Preview the 10 international-relations terms. Read them aloud and discuss their student-friendly definitions before opening the text."
+            },
+            {
+                "phase": "First reading for gist (10 minutes)",
+                "script": "Have students read the article once individually. Ask: Which two countries signed the agreement? What is the main point of their agreement?"
+            },
+            {
+                "phase": "Second reading for detail and evidence (15 minutes)",
+                "script": "Direct students to read the text a second time to answer the comprehension questions. Have them highlight sentence evidence for the written task."
+            },
+            {
+                "phase": "Language Focus (10 minutes)",
+                "script": "Teach cause-and-effect language and cautious expressions ('could change', 'are watching to see'). Practice writing sample sentences on the board."
+            },
+            {
+                "phase": "Writing Practice (15 minutes)",
+                "script": "Instruct students to complete the 4 writing practice questions in their textareas. Encourage neutral, objective, and complete sentences."
+            },
+            {
+                "phase": "Final Writing Task (20 minutes)",
+                "script": "Have students write their explanatory paragraph (100–140 words) using the guidelines and checklist. Focus on balancing India's and other nations' reactions."
+            },
+            {
+                "phase": "Self-check and submission (5 minutes)",
+                "script": "Remind students to complete their self-check checklist, verify their paragraph's word count, and submit the lesson."
+            }
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Today we will read / about a new defense agreement / between Saudi Arabia and Pakistan.",
+                    "korean": "오늘 우리는 읽을 것입니다 / 새로운 방위 협정에 대해 / 사우디아라비아와 파키스탄 사이의."
+                },
+                {
+                    "english": "We will study / why this agreement / was signed / and how it affects / other nations in the region.",
+                    "korean": "우리는 연구할 것입니다 / 왜 이 협정이 / 서명되었는지와 / 그것이 어떻게 영향을 미치는지 / 지역 내 다른 국가들에."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "Why do / countries sometimes / make agreements / to protect each other?",
+                    "korean": "왜 / 국가들은 때때로 / 협정을 맺나요 / 서로를 보호하기 위해?",
+                    "teacherFollowUp": "Can you think / of an example / of an alliance?",
+                    "teacherFollowUpKorean": "생각해 볼 수 있나요 / 한 가지 예시를 / 동맹의?"
+                },
+                {
+                    "question": "What might happen / when two powerful countries / become closer allies?",
+                    "korean": "무슨 일이 일어날 수 있을까요 / 두 강력한 국가들이 / 더 가까운 동맹이 될 때?",
+                    "teacherFollowUp": "Will it make / the region / more stable / or less stable?",
+                    "teacherFollowUpKorean": "그것은 만들까요 / 그 지역을 / 더 안정적으로 / 아니면 덜 안정적으로?"
+                },
+                {
+                    "question": "Why do you think / other countries / watch defense agreements / carefully?",
+                    "korean": "왜 여러분은 생각하나요 / 다른 국가들이 / 방위 협정들을 지켜본다고 / 주의 깊게?",
+                    "teacherFollowUp": "Do agreements / affect / neighbor countries' security?",
+                    "teacherFollowUpKorean": "협정들이 / 영향을 미칩나요 / 이웃 국가들의 안보에?"
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "Two countries just made a serious promise to protect each other, and the whole world is paying attention.",
+                    "chunkReading": "Two countries / just made / a serious promise / to protect each other, / and the whole world / is paying attention.",
+                    "directKorean": "두 국가가 / 방금 했다 / 진지한 약속을 / 서로를 보호하겠다는, / 그리고 전 세계가 / 주목하고 있다.",
+                    "naturalKorean": "두 나라가 서로를 보호하겠다는 진지한 약속을 맺었으며, 이에 전 세계가 주목하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "pay attention",
+                            "meaning": "주목하다, 주의를 기울이다",
+                            "use": "중요한 사건이나 뉴스에 대해 관심이나 신경을 쏟을 때 사용합니다.",
+                            "example": "Please pay attention to the teacher during class."
+                        }
+                    ],
+                    "mustKnowGrammar": "to-부정사구인 to protect each other가 명사 a serious promise를 수식하는 형용사적 용법으로 쓰였습니다. and 뒤에는 현재진행형인 is paying attention이 쓰여 현재의 상태를 나타냅니다.",
+                    "vocabularyUsageNote": "promise는 일상적인 '약속'을 뜻하지만, 국제 정세에서는 국가 간의 공식적 선언이나 조약을 보다 친근하게 풀어쓴 단어입니다.",
+                    "feynmanExplanation": "두 나라가 서로 힘을 합쳐 지켜주기로 약속해서 다른 나라 사람들이 다들 관심을 갖고 지켜보고 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Paying attention' / shows that / this is a major / international event.",
+                            "korean": "'Paying attention'은 보여줍니다 / 이것이 중요한 / 국제적 사건임을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "Saudi Arabia and Pakistan have been friendly for a long time.",
+                    "chunkReading": "Saudi Arabia and Pakistan / have been / friendly / for a long time.",
+                    "directKorean": "사우디아라비아와 파키스탄은 / 이어왔다 / 우호적인 상태를 / 오랜 시간 동안.",
+                    "naturalKorean": "사우디아라비아와 파키스탄은 오랫동안 우호적인 관계를 유지해 왔습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "for a long time",
+                            "meaning": "오랫동안, 오랜 시간 동안",
+                            "use": "시간의 지속성을 표현할 때 완료 시제와 결합하여 매우 흔하게 쓰입니다.",
+                            "example": "They have lived here for a long time."
+                        }
+                    ],
+                    "mustKnowGrammar": "have been은 현재완료 시제(계속)의 형태로, 과거부터 지금까지 계속 친하게 지내왔음을 강조합니다. friendly는 형용사로 주격 보어 역할을 합니다.",
+                    "vocabularyUsageNote": "friendly는 -ly로 끝나서 부사처럼 보이지만, '우호적인, 친근한'이라는 뜻의 형용사입니다.",
+                    "feynmanExplanation": "두 나라는 아주 오래전부터 계속 친한 친구 사이였다는 사실을 설명하고 있어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "We use the present perfect / 'have been' / because the friendship / continues now.",
+                            "korean": "우리는 현재완료를 사용합니다 / 'have been'을 / 우정이 / 지금도 계속되기 때문에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "Even though they’re far apart, they have a lot in common.",
+                    "chunkReading": "Even though / they’re far apart, / they have / a lot in common.",
+                    "directKorean": "비록 ~일지라도 / 그들이 멀리 떨어져 있을지라도, / 그들은 가지고 있다 / 많은 것을 공통적으로.",
+                    "naturalKorean": "두 나라는 지리적으로 멀리 떨어져 있음에도 불구하고 많은 공통점을 가지고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "have a lot in common",
+                            "meaning": "공통점이 많다",
+                            "use": "성격, 관심사, 문화 등에서 비슷한 면을 공유하고 있음을 나타낼 때 사용합니다.",
+                            "example": "My brother and I have a lot in common."
+                        }
+                    ],
+                    "mustKnowGrammar": "양보를 나타내는 접속사 Even though는 비록 주어가 동사할지라도라는 대조 상황을 이끕니다. Although나 Though로 바꾸어 쓸 수 있습니다.",
+                    "vocabularyUsageNote": "apart는 부사로 '떨어져, 격리되어'라는 뜻이며, far apart는 지리적 혹은 심리적 거리가 아주 멂을 묘사합니다.",
+                    "feynmanExplanation": "두 나라가 지도상으로는 아주 멀리 떨어져 있지만, 서로 비슷한 점이 진짜 많다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Even though' / introduces a contrast / between distance and commonality.",
+                            "korean": "'Even though'는 / 대조를 유도합니다 / 거리와 공통성 사이의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "Both are Muslim-majority countries and often support each other in religious matters.",
+                    "chunkReading": "Both / are / Muslim-majority countries / and / often support / each other / in religious matters.",
+                    "directKorean": "둘 다 / 이다 / 이슬람 다수 국가들 / 그리고 / 자주 지지한다 / 서로를 / 종교적 문제들에서.",
+                    "naturalKorean": "두 나라 모두 이슬람교가 다수인 국가이며 종교적 현안에서도 종종 서로를 지원합니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "Muslim-majority countries",
+                            "meaning": "이슬람교 다수 국가, 무슬림이 대다수인 나라",
+                            "use": "인구의 대부분이 이슬람교를 믿는 국가를 가리키는 지리학적/종교학적 용어.",
+                            "example": "Indonesia is one of the Muslim-majority countries."
+                        }
+                    ],
+                    "mustKnowGrammar": "대명사 Both는 Saudi Arabia와 Pakistan을 동시에 가리키며 복수 취급을 받아 be동사 are가 쓰였습니다. support 뒤에 each other(서로)가 목적어로 결합했습니다.",
+                    "vocabularyUsageNote": "matter는 명사로 '문제, 사안, 일'을 뜻하며, religious matters는 종교적 쟁점이나 행사를 통칭합니다.",
+                    "feynmanExplanation": "두 나라의 국민들 대부분이 이슬람교를 믿고 있어서, 종교와 관련된 일에서는 서로 든든하게 도와주고 지지해 준다는 내용이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Both' refers to / Saudi Arabia and Pakistan. / They share / the same main religion.",
+                            "korean": "'Both'는 가리킵니다 / 사우디아라비아와 파키스탄을. / 그들은 공유합니다 / 같은 주요 종교를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "Pakistan has sent troops and trainers to help Saudi Arabia in the past.",
+                    "chunkReading": "Pakistan / has sent / troops and trainers / to help / Saudi Arabia / in the past.",
+                    "directKorean": "파키스탄은 / 보냈다 / 군대와 훈련관들을 / 돕기 위해 / 사우디아라비아를 / 과거에.",
+                    "naturalKorean": "파키스탄은 과거 사우디아라비아를 돕기 위해 군대와 훈련단들을 파견한 적이 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "send troops",
+                            "meaning": "군대를 파견하다, 병력을 보내다",
+                            "use": "국방 협력이나 전쟁 시 아군 측에 군사 인력을 지원하는 공적 행동을 표현합니다.",
+                            "example": "The government decided to send troops to the region."
+                        }
+                    ],
+                    "mustKnowGrammar": "has sent는 현재완료 시제로 과거의 경험이나 완료된 사실이 현재의 관계에 영향을 줌을 말해줍니다. to help는 부사적 용법의 목적(~하기 위해)입니다.",
+                    "vocabularyUsageNote": "troops는 항상 복수형으로 쓰여 '군대, 병력'을 의미합니다. trainers는 여기선 군사 전술을 지도하는 교관이나 군사 훈련관들을 뜻합니다.",
+                    "feynmanExplanation": "예전에 사우디아라비아가 군사적으로 도움이 필요했을 때, 파키스탄이 직접 군인들과 훈련 전문가들을 보내서 도와줬었다는 예전 역사 이야기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Troops' means / soldiers. / Pakistan helped / Saudi Arabia's military.",
+                            "korean": "'Troops'는 의미합니다 / 군인들을. / 파키스탄은 도왔습니다 / 사우디아라비아의 군대를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "Saudi Arabia has given money to help Pakistan’s economy when things were tough.",
+                    "chunkReading": "Saudi Arabia / has given / money / to help / Pakistan’s economy / when / things were tough.",
+                    "directKorean": "사우디아라비아는 / 주었다 / 돈을 / 돕기 위해 / 파키스탄의 경제를 / ~때 / 상황이 힘들었을.",
+                    "naturalKorean": "사우디아라비아는 파키스탄 경제가 어려울 때 이를 돕기 위해 자금을 지원해 주었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "when things were tough",
+                            "meaning": "상황이 힘들었을 때, 여건이 곤란했을 때",
+                            "use": "경제가 어렵거나 생활이나 상황이 팍팍해진 시기를 묘사하는 구어체 관용 표현.",
+                            "example": "He helped me when things were tough."
+                        }
+                    ],
+                    "mustKnowGrammar": "help 뒤에 목적어인 Pakistan's economy가 왔으며, when은 시간의 부사절을 이끄는 접속사입니다. tough는 '힘든, 어려운'이라는 형용사로 쓰였습니다.",
+                    "vocabularyUsageNote": "tough는 고기가 질기다는 뜻도 있지만, 여기서는 상황이나 경제가 '곤란하고 힘겹다'는 의미로 쓰였습니다.",
+                    "feynmanExplanation": "반대로 파키스탄 경제가 힘들어 살기 팍팍할 때, 부유한 사우디아라비아가 돈을 빌려주거나 보태주면서 경제적 도움을 주었다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Things' here means / the general situation / or the economy.",
+                            "korean": "여기서 'Things'는 의미합니다 / 전반적인 상황이나 / 혹은 경제를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "Many Pakistanis work in Saudi Arabia and send money back home to their families.",
+                    "chunkReading": "Many Pakistanis / work / in Saudi Arabia / and / send money / back home / to their families.",
+                    "directKorean": "많은 파키스탄인들은 / 일한다 / 사우디아라비아에서 / 그리고 / 보낸다 돈을 / 집으로 다시 / 그들의 가족들에게.",
+                    "naturalKorean": "많은 파키스탄인들이 사우디아라비아에서 일하며 고국의 가족들에게 돈을 송금하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "send money back home",
+                            "meaning": "고국으로(집으로) 돈을 송금하다, 집으로 돈을 보내다",
+                            "use": "외국에서 외화벌이를 하는 노동자들이 자국의 가족들에게 송금하는 행위를 의미합니다.",
+                            "example": "Migrant workers often send money back home."
+                        }
+                    ],
+                    "mustKnowGrammar": "복수 주어인 Many Pakistanis가 두 동사 work와 send를 and로 병렬로 연결하여 취하고 있습니다. back home은 부사구로 쓰였습니다.",
+                    "vocabularyUsageNote": "Pakistanis는 파키스탄 국적의 사람들을 의미하며 복수 형태입니다.",
+                    "feynmanExplanation": "파키스탄 사람들 중에 사우디에 가서 일하며 돈을 벌어 파키스탄에 남아있는 가족들에게 보내서 생활하도록 도와주는 근로자들이 아주 많다는 얘기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This shows / a strong economic link / between the people / of both countries.",
+                            "korean": "이것은 보여줍니다 / 강력한 경제적 연결을 / 사람들 사이의 / 양국 모두의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "In September 2025, the two countries signed something called a Strategic Mutual Defense Agreement.",
+                    "chunkReading": "In September 2025, / the two countries / signed / something called / a Strategic Mutual Defense Agreement.",
+                    "directKorean": "2025년 9월에, / 두 국가는 / 서명했다 / 무언가에 ~라고 불리는 / 전략적 상호 방위 협정.",
+                    "naturalKorean": "2025년 9월, 양국은 '전략적 상호 방위 협정'이라 불리는 계약에 서명했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "Strategic Mutual Defense Agreement",
+                            "meaning": "전략적 상호 방위 협정",
+                            "use": "국방 및 군사 협력에서 가장 강력한 조약 중 하나로, 상호 안보 파트너십을 명문화한 정식 명칭.",
+                            "example": "The allies established a Strategic Mutual Defense Agreement."
+                        }
+                    ],
+                    "mustKnowGrammar": "something 뒤에서 과거분사구 called가 수식하여 '~라고 불리는 무언가'를 만듭니다. 고유 명사 명칭은 대문자로 적어 정식 조약명임을 보여줍니다.",
+                    "vocabularyUsageNote": "strategic은 군사적이나 정치적으로 '전략적인' 계획을 뜻하며, mutual은 '상호 간의'라는 뜻입니다.",
+                    "feynmanExplanation": "2025년 9월에 두 나라가 군사적으로 엄청나게 긴밀하게 서로를 돕겠다는 서류(협정)에 도장을 쾅 찍었다는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Signed' means / they officially accepted / the agreement.",
+                            "korean": "'Signed'는 의미합니다 / 그들이 공식적으로 승인했음을 / 그 협정을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 9,
+                    "original": "That means if one country is attacked, the other one will help defend it, just like they were being attacked too.",
+                    "chunkReading": "That means / if / one country / is attacked, / the other one / will help defend it, / just like / they were being attacked too.",
+                    "directKorean": "그것은 의미한다 / 만약 / 한 국가가 / 공격을 받는다면, / 다른 한 국가는 / 그것을 지키도록 도울 것이라는 것을, / 마치 ~처럼 / 자신들이 공격을 당하고 있는 것처럼 또한.",
+                    "naturalKorean": "이것은 만약 한 나라가 공격을 받으면, 다른 나라도 마치 자신들이 공격받는 것처럼 간주하여 그 나라를 지키기 위해 돕겠다는 의미입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "just like",
+                            "meaning": "마치 ~처럼, 꼭 ~같이",
+                            "use": "두 상황을 직접 비유하거나 강조하며 동등한 수준으로 비교할 때 씁니다.",
+                            "example": "He runs fast, just like a cheetah."
+                        }
+                    ],
+                    "mustKnowGrammar": "if 조건문에서 현재시제 is attacked가 쓰여 조건 상황을 나타내고, 주절에는 will help defend로 미래 조동사가 쓰였습니다. just like 뒤에는 가정법적 뉘앙스를 담은 과거진행 수동태(were being attacked)가 쓰여 사실이 아닌 비유 상황임을 드러냅니다.",
+                    "vocabularyUsageNote": "defend는 적의 공격을 막아주는 안보 행동을 뜻합니다.",
+                    "feynmanExplanation": "쉽게 말해 한 나라가 전쟁을 겪게 되면, 동맹 나라도 자기 나라가 공격받은 것처럼 바로 뛰어가서 같이 싸워주고 막아주겠다는 룰이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice the passive voice / 'is attacked' / and the help verb / followed by a base verb.",
+                            "korean": "수동태인 'is attacked'와 / 준사역동사 help 뒤에 / 동사원형이 오는 것에 주목해 보세요."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 10,
+                    "original": "Some leaders in Pakistan even said they might share their nuclear defense plans with Saudi Arabia someday, if needed, although they haven’t given full details.",
+                    "chunkReading": "Some leaders in Pakistan / even said / they might share / their nuclear defense plans / with Saudi Arabia / someday, / if needed, / although / they haven’t given / full details.",
+                    "directKorean": "파키스탄의 일부 지도자들은 / 심지어 말했다 / 자신들이 공유할지도 모른다고 / 자신들의 핵 방위 계획들을 / 사우디아라비아와 / 언젠가, / 필요하다면, / ~일지라도 / 그들이 아직 주지 않았을지라도 / 전체적인 세부 정보들을.",
+                    "naturalKorean": "파키스탄의 일부 지도자들은 아직 구체적인 내용을 밝히지는 않았으나, 필요할 경우 언젠가 자신들의 핵 방위 계획을 사우디아라비아와 공유할 수도 있다고 언급하기까지 했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "nuclear defense plans",
+                            "meaning": "핵 방어 계획, 핵 안보 계획",
+                            "use": "핵무기를 사용하거나 배치하는 것과 관련된 국가 일급 안보 기밀 전략을 말합니다.",
+                            "example": "The military is updating its nuclear defense plans."
+                        }
+                    ],
+                    "mustKnowGrammar": "although는 역접/양보의 부사절을 이끌어 '~이지만'을 나타내며, 그 뒤에는 현재완료 시제(haven't given)의 부정형이 쓰여 과거부터 지금까지 구체적인 정보를 드러내지 않은 현실을 서술합니다. if needed는 if it is needed에서 주어와 be동사가 생략된 조건절 분사구문입니다.",
+                    "vocabularyUsageNote": "someday는 미래의 막연한 '언젠가'를 뜻하며, details는 상세 정보들을 의미합니다.",
+                    "feynmanExplanation": "파키스탄의 높은 정치가들이 나중에 필요해지면 자신들의 강력한 무기인 핵무기를 사용하는 비밀 방어 계획도 사우디아라비아랑 같이 나눌 수 있다고 슬쩍 흘렸는데, 아직 확실한 속내나 구체적 내용은 말해주지 않은 상태라는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Someday' is an uncertain future time. / The leaders are cautious.",
+                            "korean": "'Someday'는 불확실한 미래 시점입니다. / 지도자들은 조심스럽습니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 11,
+                    "original": "Pakistan is one of only nine countries with nuclear weapons.",
+                    "chunkReading": "Pakistan / is / one / of only nine countries / with nuclear weapons.",
+                    "directKorean": "파키스탄은 / 이다 / 하나 / 단 9개 국가들 중 / 핵무기를 가진.",
+                    "naturalKorean": "파키스탄은 전 세계에서 핵무기를 보유한 단 9개국 중 하나입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "one of only nine countries",
+                            "meaning": "단 9개 국가 중 하나",
+                            "use": "특정한 소수 엘리트 그룹에 속해 있어 엄청난 희소성을 가짐을 말할 때 씁니다.",
+                            "example": "He is one of only nine doctors in the town."
+                        }
+                    ],
+                    "mustKnowGrammar": "one of + 복수명사(countries) 구조입니다. 주어는 Pakistan(단수)이므로 be동사는 단수형 is가 오며, 전치사 with가 ~을 가진이라는 뜻으로 수식합니다.",
+                    "vocabularyUsageNote": "weapons는 무기들이며, nuclear weapons는 지구상에서 가장 파괴적인 무기군인 핵무기를 지칭합니다.",
+                    "feynmanExplanation": "지구 전체에서 핵폭탄을 가진 아주 위험하고 강력한 나라는 딱 아홉 개밖에 없는데, 파키스탄이 그중 하나라는 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Remember that 'one of' / is followed by / a plural noun 'countries'.",
+                            "korean": "기억하세요 'one of' 다음에는 / 복수 명사인 'countries'가 / 온다는 것을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 12,
+                    "original": "One country that’s especially concerned is India.",
+                    "chunkReading": "One country / that’s / especially concerned / is India.",
+                    "directKorean": "한 국가는 / ~인 / 특히 걱정하고 있는 / 인도이다.",
+                    "naturalKorean": "이로 인해 특히 큰 우려를 나타내는 나라는 바로 인도입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "especially concerned",
+                            "meaning": "특별히 우려하는, 각별히 걱정하는",
+                            "use": "어떤 사건의 직접적인 이해당사자가 되어 남달리 긴장하고 예의주시할 때 씁니다.",
+                            "example": "The neighbors are especially concerned about the noise."
+                        }
+                    ],
+                    "mustKnowGrammar": "that's (that is)는 주격 관계대명사절로 선행사 One country를 꾸며주고 있습니다. 전체 문장의 본동사는 is이며, 보어는 India입니다.",
+                    "vocabularyUsageNote": "concerned는 걱정하는 마음을 품은 상태를 묘사하는 형용사적 성격의 과거분사입니다.",
+                    "feynmanExplanation": "이 두 나라가 손을 잡은 것에 대해, 옆 나라 인도가 아주 많이 불안해하고 귀를 쫑긋 세우며 지켜보고 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Especially' highlights / India's unique worry / compared to other countries.",
+                            "korean": "'Especially'는 강조합니다 / 인도의 유별난 걱정을 / 다른 국가들에 비해."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 13,
+                    "original": "India and Pakistan have had a long, tense history, including wars and border fights.",
+                    "chunkReading": "India and Pakistan / have had / a long, tense history, / including / wars / and border fights.",
+                    "directKorean": "인도와 파키스탄은 / 가져왔다 / 길고 긴장된 역사를, / ~을 포함하여 / 전쟁들과 / 그리고 국경 싸움들을.",
+                    "naturalKorean": "인도와 파키스탄은 전쟁과 국경 분쟁을 포함하여 오랫동안 긴장 관계가 팽팽한 역사를 겪어 왔습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "border fights",
+                            "meaning": "국경 분쟁, 국경 싸움",
+                            "use": "두 나라의 경계선 부근에서 영토 영유권을 두고 일어나는 소규모 무력 충돌이나 마찰.",
+                            "example": "The two armies engaged in border fights last year."
+                        }
+                    ],
+                    "mustKnowGrammar": "have had는 현재완료 시제로 과거의 분쟁 역사가 현재까지도 앙금으로 남아 긴장 상태가 해소되지 않고 이어짐을 드러냅니다. including은 전치사로 뒤에 명사구들을 동반합니다.",
+                    "vocabularyUsageNote": "tense는 실이 팽팽하게 당겨진 것처럼 '긴장되고 험악한' 관계를 묘사하는 형용사입니다.",
+                    "feynmanExplanation": "인도랑 파키스탄은 땅을 두고 예전부터 전쟁도 하고 국경에서 군인들끼리 싸우기도 하는 앙숙이자 라이벌 관계였다는 뒷배경이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The present perfect 'have had' / means the tension / started in the past / and exists now.",
+                            "korean": "현재완료 'have had'는 의미합니다 / 긴장 상태가 과거에 시작되어 / 지금도 존재한다는 것을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 14,
+                    "original": "If Pakistan and Saudi Arabia get even closer, especially in terms of military power, India worries that it could change the balance in the region.",
+                    "chunkReading": "If / Pakistan and Saudi Arabia / get even closer, / especially / in terms of / military power, / India worries / that / it could change / the balance / in the region.",
+                    "directKorean": "만약 / 파키스탄과 사우디아라비아가 / 훨씬 더 가까워진다면, / 특별히 / ~의 측면에서 / 군사력의, / 인도는 걱정한다 / ~라고 / 그것이 바꿀 수 있다고 / 힘의 균형을 / 그 지역 내의.",
+                    "naturalKorean": "만약 파키스탄과 사우디아라비아가 군사력 면에서 훨씬 더 긴밀해진다면, 인도는 이 지역의 힘의 균형이 깨질 수 있음을 우려하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "in terms of",
+                            "meaning": "~의 면에서, ~의 측면에서, ~에 관하여",
+                            "use": "어떤 사안을 특정 영역이나 관점에 국한하여 분석하거나 설명할 때 쓰는 아주 중요한 숙어.",
+                            "example": "The project was successful in terms of cost."
+                        },
+                        {
+                            "chunk": "change the balance",
+                            "meaning": "균형을 바꾸다, 힘의 구도를 변화시키다",
+                            "use": "안정되어 있던 힘의 대칭 구조나 세력 균형을 뒤흔들어 변화가 생기는 상황에 씁니다.",
+                            "example": "A new alliance could change the balance of power."
+                        }
+                    ],
+                    "mustKnowGrammar": "조건의 부사절 if가 쓰여 현재시제 get이 쓰였고, 주절에는 India worries 뒤에 접속사 that이 명사절 목적어를 이끕니다. 조동사 could는 가능성이나 추측(~할 수도 있다)을 정중하거나 조심스럽게 타진할 때 씁니다.",
+                    "vocabularyUsageNote": "region은 주변 영토나 지역 전체를 지칭합니다. 여기서는 서아시아와 남아시아 지역을 포괄합니다.",
+                    "feynmanExplanation": "파키스탄과 사우디가 군사적으로 엄청 친해지면 인도는 자기를 둘러싼 주변 지역의 군사력 힘의 저울이 파키스탄 쪽으로 쏠려 자기들이 위험해질까 봐 크게 불안해하고 있어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Could' indicates / a potential effect, / not a 100% / certainty.",
+                            "korean": "'Could'는 나타냅니다 / 잠재적인 영향을, / 100% 확신이 / 아닌."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 15,
+                    "original": "India is also friends with Saudi Arabia, so this new deal puts them in an awkward position.",
+                    "chunkReading": "India / is also friends / with Saudi Arabia, / so / this new deal / puts them / in an awkward position.",
+                    "directKorean": "인도는 / 또한 친구이다 / 사우디아라비아와, / 그래서 / 이 새로운 거래는 / 둔다 그들을 / 곤란한 위치에.",
+                    "naturalKorean": "인도 역시 사우디아라비아와 우호 관계에 있기 때문에, 이번 새로운 협정은 인도를 매우 난처한 입장에 처하게 만들었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "put in an awkward position",
+                            "meaning": "~를 곤란한 처지에 두다, 곤란한 입장에 빠뜨리다",
+                            "use": "양측 모두와 친분이 있어서 어느 한쪽 편을 들기 애매하고 곤혹스러워진 상황을 묘사합니다.",
+                            "example": "Her sudden question put me in an awkward position."
+                        }
+                    ],
+                    "mustKnowGrammar": "등위접속사 so가 쓰여 인과관계를 나타냅니다. puts them in...은 5형식과 비슷한 구조로 목적어 them을 awkward position이라는 장소/상태의 부사구로 몰아넣는 전이적 용법입니다.",
+                    "vocabularyUsageNote": "awkward는 몸동작이 어설프거나 상황이 '서먹서먹하고 거북한' 상태를 의미하는 형용사입니다.",
+                    "feynmanExplanation": "인도는 사우디아라비아랑도 잘 지내는 친구인데, 자기의 앙숙인 파키스탄이랑 사우디가 동맹을 맺어버려서 중간에서 눈치를 봐야 하는 되게 어색하고 곤란한 상황이 되었다는 얘기예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "India cannot support / the deal / because of its / relationship with Pakistan.",
+                            "korean": "인도는 지지할 수 없습니다 / 그 계약을 / 파키스탄과의 / 관계 때문에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 16,
+                    "original": "They’re saying, “We hope you remember our friendship too.”",
+                    "chunkReading": "They’re saying, / “We hope / you / remember / our friendship too.”",
+                    "directKorean": "그들은 말하고 있다, / “우리는 희망한다 / 당신이 / 기억해주기를 / 우리의 우정 역시.”라고.",
+                    "naturalKorean": "인도는 사우디 측에 \"우리 사이의 우정도 잊지 말아 달라\"며 조심스러운 메시지를 전하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "hope you remember",
+                            "meaning": "당신이 기억해 주기를 바라다",
+                            "use": "상대방에게 어떤 은혜나 관계를 잊지 말아 달라고 완곡하고 신중하게 부탁할 때 씁니다.",
+                            "example": "I hope you remember our promise."
+                        }
+                    ],
+                    "mustKnowGrammar": "They're saying은 현재 진행 중인 인도의 행동 태도를 부각하고, We hope 뒤에 대명사 접속사 that이 생략된 채 remember가 이끄는 희망 사항의 명사절을 연결하고 있습니다.",
+                    "vocabularyUsageNote": "They는 문맥상 인도(India)의 정부 지도자들을 가리키는 대명사입니다.",
+                    "feynmanExplanation": "인도 정부가 사우디를 향해 '사우디야, 파키스탄이랑 친해져도 우리랑 친한 사이인 것도 잊지 말고 계속 챙겨줘'라고 은근슬쩍 신호를 보내고 있다는 뉘앙스예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'They' means India. / This quote represents / India's diplomatic message.",
+                            "korean": "'They'는 인도를 뜻합니다. / 이 인용구는 나타냅니다 / 인도의 외교적 메시지를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 17,
+                    "original": "Other countries, like Iran and the United States, are also watching to see what this means for peace, safety, and power in the Middle East.",
+                    "chunkReading": "Other countries, / like Iran and the United States, / are also watching / to see / what / this means / for peace, safety, and power / in the Middle East.",
+                    "directKorean": "다른 국가들은, / 이란과 미국 같은, / 또한 지켜보고 있다 / 확인하기 위해 / 무엇을 / 이것이 의미하는지 / 평화, 안보, 그리고 권력을 위해 / 중동 내에서.",
+                    "naturalKorean": "이란이나 미국 같은 다른 국가들 역시 이번 협정이 중동의 평화, 안보, 그리고 권력 역학 구도에 어떤 영향을 미칠지 예의주시하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "watching to see what this means",
+                            "meaning": "이것이 무엇을 의미할지 지켜보다, 추이를 지켜보다",
+                            "use": "새로운 대형 사건이 터졌을 때 그 파장이 어떻게 전개될지 면밀히 추적 감시하는 태도를 나타냅니다.",
+                            "example": "Critics are watching to see what this means for the market."
+                        }
+                    ],
+                    "mustKnowGrammar": "주어가 복수형인 Other countries(like 구는 수식어)이므로 복수형 be동사인 are가 왔고, watching 뒤의 to see는 부사적 용법의 목적으로 쓰였습니다. see의 목적어로 간접의문문 what this means가 연결되어 '의문사 + 주어 + 동사' 순서를 취합니다.",
+                    "vocabularyUsageNote": "Middle East는 중동 지역을 뜻하는 고유명사로 아라비아반도와 그 주변 일대를 의미합니다.",
+                    "feynmanExplanation": "인도뿐만 아니라 이란이나 미국 같은 강력한 나라들도 이 계약 때문에 중동 평화가 깨지거나 새로운 싸움이 일어날까 봐 조마조마하며 어떻게 돌아가는지 똑똑히 지켜보고 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The Middle East / is a region / where balance of power / is very sensitive.",
+                            "korean": "중동은 / 지역입니다 / 세력 균형이 / 매우 민감한."
+                        }
+                    ]
+                }
+            ],
+            "finalWritingSupport": {
+                "sentenceFrames": [
+                    "The new agreement is important because ________.",
+                    "If one country is attacked, ________.",
+                    "India may be concerned because ________.",
+                    "This could change ________.",
+                    "Other countries are watching because ________.",
+                    "Overall, this agreement matters because ________."
+                ],
+                "usefulConnectors": [
+                    "Because (때문에)",
+                    "As a result (결과적으로)",
+                    "If (만약)",
+                    "This means (이것은 의미한다)",
+                    "However (그러나)"
+                ],
+                "usefulVocabulary": [
+                    "Strategic Mutual Defense Agreement (전략적 상호 방위 협정)",
+                    "military power (군사력)",
+                    "nuclear weapons (핵무기)",
+                    "concerned (우려하는)",
+                    "awkward position (난처한 입장)",
+                    "balance of power (세력 균형)"
+                ],
+                "paragraphOutline": [
+                    "Sentence 1 (Topic Sentence): State clearly why other countries are paying attention to the new Saudi-Pakistan deal.",
+                    "Sentence 2-3 (Agreement Definition & Detail): Describe the Strategic Mutual Defense Agreement and what it entails.",
+                    "Sentence 4-5 (Nuclear & Military Detail): Mention the military aspects, including Pakistan's nuclear weapons.",
+                    "Sentence 6-7 (India's Reaction): Explain India's specific concern and its relationship with both nations.",
+                    "Sentence 8 (Other Countries & Conclusion): Summarize why other global powers (US, Iran) are watching, ending with a neutral conclusion."
+                ],
+                "commonMistakes": [
+                    {
+                        "mistake": "Using biased or unverified claims: *Pakistan will definitely give nuclear bombs to Saudi Arabia immediately.*",
+                        "correction": "Use cautious, neutral wording: *Pakistan may share its nuclear defense plans in the future if needed.*"
+                    },
+                    {
+                        "mistake": "Incorrect word order in 'watching to see what this means': *They are watching to see what does this mean.*",
+                        "correction": "Use statement word order: *They are watching to see what this means.*"
+                    },
+                    {
+                        "mistake": "Omitting the 'to' in 'puts them in an awkward position'.",
+                        "correction": "Always include the full phrase: *This puts them in an awkward position.*"
+                    }
+                ],
+                "teacherCorrectionFocus": [
+                    "Verify the word count is within the 100-140 words limit.",
+                    "Check if the tone remains strictly neutral and academic.",
+                    "Verify the student included at least two distinct reasons for international attention (e.g., India's concern, nuclear defense sharing).",
+                    "Ensure cause-and-effect language (because, if, as a result) is used correctly.",
+                    "Confirm there are no outside political claims that are not present in the article."
+                ]
+            }
+        }
+    }
+}
