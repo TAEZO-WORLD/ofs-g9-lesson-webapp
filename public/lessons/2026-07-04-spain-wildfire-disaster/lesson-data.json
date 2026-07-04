@@ -1,0 +1,629 @@
+{
+    "lessonTitle": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",
+    "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+    "textType": "News Report / Impact Paragraph",
+    "lessonGoal": "Students will read a news report about Spain’s summer wildfires, identify the main idea and supporting details, learn disaster-impact vocabulary, and write a short impact paragraph explaining how wildfires affected farmers, tourism, and rural communities.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about natural disasters and their effects on communities. Answer the questions below. There are no right or wrong answers.",
+        "questions": [
+            "What problems can wildfires cause for people, animals, and businesses?",
+            "Why might farmers be especially affected by natural disasters?",
+            "How can a wildfire hurt tourism in a rural area?"
+        ]
+    },
+    "article": {
+        "title": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",
+        "source": "Source: Adapted from teacher-provided classroom source image. Source shown in image: CNN.",
+        "note": "OFS Grade 9 International English — Unit 4",
+        "paragraphs": [
+            "This summer, Spain has been battling fierce wildfires that have burned over 20,000 hectares (49,000 acres) of land, forcing thousands of people to evacuate their homes.",
+            "José Antonio Bruña, a honey producer from a small village in north-west Spain, described August as a “nightmare” after lightning sparked a fire near his beehives. He fears losing at least 50% of his honey production due to damaged flowers, which bees rely on for food.",
+            "The wildfires have hurt not just honey farmers but livestock farmers too. Fernando García, a cow farmer, lost around 30 cattle, with serious losses affecting his income.",
+            "While farmer organizations estimate the damage at around €600 million, businesses tied to tourism, especially around tourist spots like Sanabria Lake, also faced disasters. Many local restaurants and hotels saw huge drops in visitors and income, highlighting the widespread impact of the wildfires across rural Spain."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Read the key terms from the report and their definitions below.",
+        "items": [
+            {
+                "word": "wildfire",
+                "definition": "a large, destructive fire that spreads quickly over woodland or brush",
+                "sentence": "This summer, Spain has been battling fierce wildfires..."
+            },
+            {
+                "word": "fierce",
+                "definition": "extremely strong, violent, or intense",
+                "sentence": "...Spain has been battling fierce wildfires that have burned..."
+            },
+            {
+                "word": "hectares",
+                "definition": "metric units of measurement for area, equal to 10,000 square meters",
+                "sentence": "...wildfires that have burned over 20,000 hectares (49,000 acres) of land..."
+            },
+            {
+                "word": "evacuate",
+                "definition": "to leave a place of danger to go to a safer place",
+                "sentence": "...forcing thousands of people to evacuate their homes."
+            },
+            {
+                "word": "honey producer",
+                "definition": "a person or business that makes honey, usually by keeping bees",
+                "sentence": "José Antonio Bruña, a honey producer from a small village..."
+            },
+            {
+                "word": "beehives",
+                "definition": "structures in which bees are kept and in which they make honey",
+                "sentence": "...after lightning sparked a fire near his beehives."
+            },
+            {
+                "word": "livestock",
+                "definition": "farm animals, such as cows or sheep, kept for use or profit",
+                "sentence": "The wildfires have hurt not just honey farmers but livestock farmers too."
+            },
+            {
+                "word": "income",
+                "definition": "money received, especially on a regular basis, for work or through investments",
+                "sentence": "...with serious losses affecting his income."
+            },
+            {
+                "word": "tourism",
+                "definition": "the business of providing services, such as hotels and restaurants, for people who are visiting a place",
+                "sentence": "...businesses tied to tourism, especially around tourist spots like Sanabria Lake, also faced disasters."
+            },
+            {
+                "word": "widespread impact",
+                "definition": "an effect or influence that is felt over a large area or by many people",
+                "sentence": "...highlighting the widespread impact of the wildfires across rural Spain."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Spain’s wildfires only affected tourists visiting big cities.",
+            "Spain’s wildfires caused serious damage to farmers, tourism businesses, and rural communities.",
+            "Honey production in Spain increased because of the wildfires.",
+            "The article explains how to stop all wildfires in Europe."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that wildfires in Spain damaged land, forced people to evacuate, hurt honey and livestock farmers, and caused losses for tourism businesses."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "How much land did the wildfires burn?",
+                "options": [
+                    "Less than 5,000 hectares of land",
+                    "Exactly 10,000 hectares of land",
+                    "Over 20,000 hectares (about 49,000 acres) of land",
+                    "Over 100,000 hectares of land"
+                ],
+                "correctIndex": 2,
+                "explanation": "The text states: 'wildfires that have burned over 20,000 hectares (49,000 acres) of land...'"
+            },
+            {
+                "id": "rc2",
+                "question": "Why did José Antonio Bruña describe August as a “nightmare”?",
+                "options": [
+                    "Because lightning sparked a fire near his beehives, and he feared losing half of his honey production.",
+                    "Because all of his bees flew away to the north-west of Spain.",
+                    "Because tourists refused to buy his honey anymore.",
+                    "Because he had to move his beehives to a hotel near Sanabria Lake."
+                ],
+                "correctIndex": 0,
+                "explanation": "The article states: 'José Antonio Bruña... described August as a “nightmare” after lightning sparked a fire near his beehives. He fears losing at least 50% of his honey production...'"
+            },
+            {
+                "id": "rc3",
+                "question": "Why could damaged flowers hurt honey production?",
+                "options": [
+                    "Because flowers attract tourists who buy honey.",
+                    "Because bees rely on flowers for food.",
+                    "Because flowers protect beehives from lightning.",
+                    "Because flowers make honey taste bad."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article explains that he fears losing production due to 'damaged flowers, which bees rely on for food.'"
+            },
+            {
+                "id": "rc4",
+                "question": "What happened to Fernando García?",
+                "options": [
+                    "He started a new tourism business.",
+                    "He estimated the total wildfire damage at €600 million.",
+                    "He lost around 30 cattle, which affected his income.",
+                    "He bought more bees to produce honey."
+                ],
+                "correctIndex": 2,
+                "explanation": "The article states: 'Fernando García, a cow farmer, lost around 30 cattle, with serious losses affecting his income.'"
+            },
+            {
+                "id": "rc5",
+                "question": "How did the wildfires affect tourism businesses?",
+                "options": [
+                    "Many restaurants and hotels had more visitors than ever before.",
+                    "Many local restaurants and hotels saw huge drops in visitors and income.",
+                    "Tourism businesses moved to north-west Spain to help the bees.",
+                    "They received €600 million in tourism aid."
+                ],
+                "correctIndex": 1,
+                "explanation": "The article mentions: 'Many local restaurants and hotels saw huge drops in visitors and income...'"
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find and type the exact sentence from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Find one sentence that shows the wildfires affected many people."
+            },
+            {
+                "id": "ev2",
+                "statement": "Find one sentence that shows honey farmers were affected."
+            },
+            {
+                "id": "ev3",
+                "statement": "Find one sentence that shows livestock farmers were affected."
+            },
+            {
+                "id": "ev4",
+                "statement": "Find one sentence that shows tourism businesses were affected."
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Cause-and-Effect and Impact-Report Language",
+        "explanation": "In report writing, writers use cause-and-effect language and impact expressions to explain how events lead to specific consequences. Target phrases include 'due to', 'which', 'forcing', 'affecting', 'tied to', 'highlighting', and 'not just... but... too'.",
+        "examples": [
+            "He fears losing at least 50% of his honey production due to damaged flowers.",
+            "The wildfires have hurt not just honey farmers but livestock farmers too.",
+            "Many local restaurants and hotels saw huge drops in visitors and income, highlighting the widespread impact."
+        ],
+        "practice": [
+            "Complete the sentence: Farmers lost income due to ________.",
+            "Write one sentence using “not just... but... too.”",
+            "Write one sentence using “highlighting.”",
+            "Write one cause-and-effect sentence about wildfires."
+        ]
+    },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "How did the wildfires affect honey farmers?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp2",
+                "question": "How did the wildfires affect livestock farmers?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp3",
+                "question": "Why did tourism businesses suffer after the wildfires?",
+                "placeholder": "Write 2–4 sentences here..."
+            },
+            {
+                "id": "wp4",
+                "question": "Which group do you think was affected the most: farmers, tourists, or local businesses? Explain your answer.",
+                "placeholder": "Write 2–4 sentences here..."
+            }
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short impact paragraph of 100–140 words answering this question: How did Spain’s summer wildfires affect rural communities?",
+        "wordTarget": {
+            "min": 100,
+            "max": 140
+        },
+        "checklist": [
+            "Explain the main problem clearly.",
+            "Include at least two details from the article.",
+            "Mention at least two affected groups.",
+            "Use cause-and-effect language such as due to, because, as a result, affecting, or highlighting.",
+            "End with a clear concluding sentence."
+        ],
+        "studentWritingBox": true
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I explained the main problem clearly.",
+            "I included at least two details from the article.",
+            "I mentioned at least two affected groups.",
+            "I used cause-and-effect language (e.g., due to, because, as a result, affecting, highlighting).",
+            "I ended with a clear concluding sentence."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Spain’s wildfires caused serious damage to farmers, tourism businesses, and rural communities.",
+            "readingComprehension": {
+                "rc1": "Over 20,000 hectares, or about 49,000 acres.",
+                "rc2": "Lightning sparked a fire near his beehives, and he feared losing much of his honey production.",
+                "rc3": "Bees rely on flowers for food.",
+                "rc4": "He lost around 30 cattle, which affected his income.",
+                "rc5": "Local restaurants and hotels saw huge drops in visitors and income."
+            },
+            "evidenceFromText": {
+                "ev1": "This summer, Spain has been battling fierce wildfires that have burned over 20,000 hectares (49,000 acres) of land, forcing thousands of people to evacuate their homes.",
+                "ev2": "José Antonio Bruña, a honey producer from a small village in north-west Spain, described August as a “nightmare” after lightning sparked a fire near his beehives. He fears losing at least 50% of his honey production due to damaged flowers, which bees rely on for food.",
+                "ev3": "The wildfires have hurt not just honey farmers but livestock farmers too. Fernando García, a cow farmer, lost around 30 cattle, with serious losses affecting his income.",
+                "ev4": "Many local restaurants and hotels saw huge drops in visitors and income, highlighting the widespread impact of the wildfires across rural Spain."
+            },
+            "languageFocus": {
+                "practice1": "Farmers lost income due to the wildfire damage to crops and cattle.",
+                "practice2": "The disaster affected not just agricultural workers but tourism business owners too.",
+                "practice3": "Local hotels saw a sudden drop in reservations, highlighting the economic damage of the fire.",
+                "practice4": "Due to lightning sparking a fire near beehives, Spain's honey production was cut in half."
+            }
+        },
+        "modelAnswer": "Spain’s summer wildfires seriously affected rural communities by damaging land, farms, and tourism businesses. The fires burned over 20,000 hectares of land and forced thousands of people to evacuate their homes. Farmers were hit especially hard. José Antonio Bruña, a honey producer, feared losing at least 50% of his honey production because damaged flowers left bees with less food. Livestock farmers also suffered. Fernando García lost around 30 cattle, which caused serious losses to his income. The disaster also hurt tourism because restaurants and hotels near places like Sanabria Lake saw fewer visitors. As a result, the wildfires affected not just the environment but also people’s jobs and local economies. Overall, the article shows how one natural disaster can create widespread problems across rural Spain.",
+        "rubric": [
+            {
+                "criterion": "Content & Ideas",
+                "excellent": "Clearly explains the wildfire disaster's impact on multiple groups and details the environmental and agricultural damage.",
+                "developing": "Explains the impact, but groups are mixed up, or details are repetitive or general.",
+                "beginning": "The explanation is incorrect, incomplete, or fails to address the question."
+            },
+            {
+                "criterion": "Evidence & Detail",
+                "excellent": "Incorporates at least two specific details from the article (e.g. 20,000 hectares burned, 50% honey loss, 30 cattle lost, €600 million damage) accurately.",
+                "developing": "Attempts to use details, but they are inaccurate or insufficient.",
+                "beginning": "Fails to include specific details or relies entirely on outside knowledge."
+            },
+            {
+                "criterion": "Cause-and-Effect Language",
+                "excellent": "Effectively uses cause-and-effect connectors and reporting vocabulary (e.g. due to, forcing, highlighting, not just... but... too).",
+                "developing": "Uses some connectors but makes grammatical errors, or fails to use the target expressions.",
+                "beginning": "Lacks appropriate connectors; sentences are disjointed or grammatically incorrect."
+            },
+            {
+                "criterion": "Organization",
+                "excellent": "Structured as a single, cohesive paragraph with a clear topic sentence, logical flow, and a strong concluding sentence.",
+                "developing": "Paragraph structure is loose, transitions are missing, or the concluding sentence is weak.",
+                "beginning": "Lacks paragraphs or logical organization; ideas are randomly arranged."
+            },
+            {
+                "criterion": "Task Completion",
+                "excellent": "Completes the paragraph within the 100-140 word range and meets all checklist criteria.",
+                "developing": "Fails to meet word count (under 100 or over 140 words) or misses one checklist item.",
+                "beginning": "Fails to meet multiple criteria or is excessively short/long."
+            }
+        ],
+        "teacherNotes": [
+            "This lesson is suitable for OFS Grade 9 International English G1/G2 students.",
+            "Pre-teach disaster and economy-related vocabulary before reading.",
+            "Help students separate environmental impact, agricultural impact, and economic impact.",
+            "Encourage students to use evidence from the text instead of making general guesses.",
+            "For weaker students, provide cause-and-effect sentence frames.",
+            "For stronger students, ask them to explain how one disaster can affect multiple parts of a local economy."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in / Warm-up: 10 minutes",
+                "script": "Start by asking students about the consequences of wildfires on communities. Use the warm-up questions to discuss how disasters affect farmers and tourism."
+            },
+            {
+                "phase": "Vocabulary preview: 10 minutes",
+                "script": "Go through the 10 vocabulary terms. Ensure students understand terms like 'evacuate', 'livestock', and 'widespread impact' before reading."
+            },
+            {
+                "phase": "First reading for gist: 10 minutes",
+                "script": "Have students read the article once. Ask: What groups of people are mentioned as being affected? (honey farmers, livestock farmers, tourism businesses)."
+            },
+            {
+                "phase": "Second reading for detail and evidence: 15 minutes",
+                "script": "Students read again to answer the reading comprehension MCQs. Instruct them to find and highlight the exact evidence sentences for the next section."
+            },
+            {
+                "phase": "Language Focus: 10 minutes",
+                "script": "Explain the use of 'due to', 'not just... but... too', and participial clauses like 'forcing...' and 'highlighting...'. Practice creating sentences with these."
+            },
+            {
+                "phase": "Writing Practice: 15 minutes",
+                "script": "Have students answer the four writing practice questions in complete sentences, using their textareas. Check for proper grammar and detail."
+            },
+            {
+                "phase": "Final Writing Task: 20 minutes",
+                "script": "Guide students to write their 100–140 word impact paragraph. Emphasize using at least two details, two groups, cause-and-effect language, and concluding sentence."
+            },
+            {
+                "phase": "Self-check and submission: 5 minutes",
+                "script": "Encourage students to review their paragraph against the self-check list and word count before submitting."
+            }
+        ],
+        "teacherReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Today we will read / about a wildfire disaster / in rural Spain.",
+                    "korean": "오늘 우리는 읽을 것입니다 / 산불 재난에 대해 / 스페인 농촌 지역에서."
+                },
+                {
+                    "english": "We will examine / how the fires / hurt farmers and tourism, / and we will practice / writing about impact.",
+                    "korean": "우리는 조사할 것입니다 / 어떻게 화재가 / 농민들과 관광업에 피해를 주었는지를 / 그리고 우리는 연습할 것입니다 / 영향에 대해 쓰는 것을."
+                }
+            ],
+            "warmupGuide": [
+                {
+                    "question": "What problems / can wildfires cause / for people, animals, and businesses?",
+                    "korean": "어떤 문제들을 / 산불이 일으킬 수 있나요 / 사람, 동물, 그리고 사업체들에게?",
+                    "teacherFollowUp": "Can you think / of the dangers / to wild animals?",
+                    "teacherFollowUpKorean": "생각해 볼 수 있나요 / 그 위험들을 / 야생 동물들에 대한?"
+                },
+                {
+                    "question": "Why might farmers / be especially affected / by natural disasters?",
+                    "korean": "왜 농민들이 / 특별히 영향을 받을까요 / 자연재해에 의해?",
+                    "teacherFollowUp": "How do weather / and land / connect to farming?",
+                    "teacherFollowUpKorean": "어떻게 날씨와 / 토지가 / 농업과 연결되나요?"
+                },
+                {
+                    "question": "How can / a wildfire hurt / tourism / in a rural area?",
+                    "korean": "어떻게 / 산불이 해를 끼칠 수 있나요 / 관광업에 / 농촌 지역에서?",
+                    "teacherFollowUp": "Would tourists / visit a lake / if the hills are burned?",
+                    "teacherFollowUpKorean": "관광객들이 / 호수를 방문할까요 / 만약 언덕들이 다 타버렸다면?"
+                }
+            ],
+            "sentenceAnalysis": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "This summer, Spain has been battling fierce wildfires that have burned over 20,000 hectares (49,000 acres) of land, forcing thousands of people to evacuate their homes.",
+                    "chunkReading": "This summer, / Spain has been battling / fierce wildfires / that have burned / over 20,000 hectares / (49,000 acres) of land, / forcing thousands of people / to evacuate their homes.",
+                    "directKorean": "이번 여름, / 스페인은 싸워오고 있다 / 격렬한 산불들과 / 태워버린 / 20,000 헥타르 이상을 / (49,000 에이커)의 토지, / 강제하면서 수천 명의 사람들을 / 그들의 집에서 대피하도록.",
+                    "naturalKorean": "이번 여름, 스페인은 20,000헥타르(49,000에이커) 이상의 토지를 태우고 수천 명의 사람들을 대피하게 만든 격렬한 산불과 사투를 벌이고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "battle fierce wildfires",
+                            "meaning": "격렬한 산불과 싸우다",
+                            "use": "재난이나 악조건에 맞서 끈질기게 투쟁하거나 대처하는 모습을 설명할 때 씁니다.",
+                            "example": "Firefighters are battling fierce wildfires in the mountains."
+                        },
+                        {
+                            "chunk": "evacuate their homes",
+                            "meaning": "그들의 집에서 대피하다",
+                            "use": "홍수, 산불 등 위급한 대피령이 내렸을 때 주민들이 주거지를 떠나는 행위입니다.",
+                            "example": "Residents were told to evacuate their homes immediately."
+                        }
+                    ],
+                    "mustKnowGrammar": "'has been battling'은 현재완료 진행형으로, 과거에 시작되어 현재까지 진행 중인 격렬한 싸움을 강조합니다. 'forcing'은 현재분사구문(분사구문 결과적 용법)으로 앞선 화재 사실로 인해 발생한 동시/결과적 상황을 보여줍니다.",
+                    "vocabularyUsageNote": "evacuate는 위험지에서 안전지로 사람들을 이동시키는 행동을 뜻하며, 명사형은 evacuation입니다.",
+                    "feynmanExplanation": "이번 여름 스페인에 엄청나게 크고 사나운 불이 나서, 넓은 땅이 다 타고 많은 사람들이 안전한 곳으로 도망쳐야 했다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice the word 'forcing' / which shows / the direct consequence / of the wildfires.",
+                            "korean": "'forcing'이라는 단어에 주목해 보세요 / 보여주는 / 직접적인 결과를 / 산불의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "José Antonio Bruña, a honey producer from a small village in north-west Spain, described August as a “nightmare” after lightning sparked a fire near his beehives.",
+                    "chunkReading": "José Antonio Bruña, / a honey producer / from a small village / in north-west Spain, / described August / as a “nightmare” / after lightning / sparked a fire / near his beehives.",
+                    "directKorean": "호세 안토니오 브루냐는, / 꿀 생산자인 / 작은 마을 출신의 / 스페인 북서부의, / 묘사했다 8월을 / \"악몽\"으로 / 번개가 / 불을 일으킨 후에 / 그의 벌통 근처에서.",
+                    "naturalKorean": "스페인 북서부의 작은 마을에서 온 꿀 생산자인 호세 안토니오 브루냐는 번개가 그의 벌통 근처에 불을 일으킨 후 8월을 \"악몽\"으로 묘사했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "describe A as B",
+                            "meaning": "A를 B로 묘사하다",
+                            "use": "어떤 사물이나 상황, 사람에 대한 주관적인 평가나 묘사를 할 때 씁니다.",
+                            "example": "She described the project as a total success."
+                        },
+                        {
+                            "chunk": "spark a fire",
+                            "meaning": "불을 일으키다, 화재를 촉발하다",
+                            "use": "물리적으로 불꽃을 튀겨 불이 나게 만드는 상황이나 은유적으로 갈등을 유발할 때 사용합니다.",
+                            "example": "The electrical fault sparked a fire in the warehouse."
+                        }
+                    ],
+                    "mustKnowGrammar": "'a honey producer from...'은 주어인 José Antonio Bruña를 추가 설명하는 동격(Apposition) 명사구입니다. 'after'는 시점이나 시간 관계를 나타내는 부사절 접속사입니다.",
+                    "vocabularyUsageNote": "beehives는 양봉용 벌통들을 일컫습니다. nightmare는 원래 악몽을 뜻하지만, 실생활이나 비즈니스에서 아주 곤란하고 최악인 경험을 과장해 표현할 때 널리 쓰입니다.",
+                    "feynmanExplanation": "스페인 북서부에 사는 벌을 키워 꿀을 만드는 호세 씨가, 번개 때문에 벌통 근처에 불이 나자 이번 8월이 정말 끔찍한 악몽 같았다고 이야기하고 있어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The word 'nightmare' / is used here / to show / how terrible / the situation was.",
+                            "korean": "'nightmare'라는 단어는 / 여기서 사용되었습니다 / 보여주기 위해 / 얼마나 끔찍했는지 / 그 상황이."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "He fears losing at least 50% of his honey production due to damaged flowers, which bees rely on for food.",
+                    "chunkReading": "He fears / losing / at least 50% / of his honey production / due to / damaged flowers, / which bees / rely on / for food.",
+                    "directKorean": "그는 두려워한다 / 잃는 것을 / 적어도 50%를 / 그의 꿀 생산의 / ~ 때문에 / 손상된 꽃들, / 그것을 벌들이 / 의존한다 / 먹이를 위해.",
+                    "naturalKorean": "그는 벌들이 먹이로 삼는 꽃들이 훼손되는 바람에 꿀 생산량의 최소 50%를 잃을까 봐 우려하고 있습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "due to",
+                            "meaning": "~ 때문에, ~로 인해",
+                            "use": "특정 사건이나 상태의 원인을 말할 때 쓰는 전치사로 뒤에 명사(구)가 옵니다.",
+                            "example": "The flight was delayed due to heavy rain."
+                        },
+                        {
+                            "chunk": "rely on",
+                            "meaning": "~에 의존하다, 의지하다",
+                            "use": "사람, 물건, 자연물 등에 절대적으로 기대거나 생계를 맡길 때 씁니다.",
+                            "example": "Children rely on their parents for guidance."
+                        }
+                    ],
+                    "mustKnowGrammar": "타동사 'fears'의 목적어로 동명사 'losing'이 쓰였으며, ', which'는 관계대명사의 계속적 용법으로 선행사인 'damaged flowers'에 대한 추가적인 과학적/환경적 사실을 설명합니다.",
+                    "vocabularyUsageNote": "due to는 'because of'와 호환되지만 좀 더 격식 있는 표현입니다. rely on은 'depend on' 또는 'trust'와 비슷한 어감을 가집니다.",
+                    "feynmanExplanation": "불 때문에 꽃들이 다 타서 망가지자, 벌들이 먹을 밥이 없어져서 꿀을 절반도 못 만들까 봐 호세 씨가 걱정하고 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "'Due to' / is a key phrase / for expressing / cause and effect.",
+                            "korean": "'Due to'는 / 핵심 구문입니다 / 표현하기 위한 / 원인과 결과를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "The wildfires have hurt not just honey farmers but livestock farmers too.",
+                    "chunkReading": "The wildfires / have hurt / not just honey farmers / but livestock farmers too.",
+                    "directKorean": "그 산불들은 / 피해를 주었다 / 꿀 농가들뿐만 아니라 / 가축 농가들에도 역시.",
+                    "naturalKorean": "산불은 양봉 농가뿐만 아니라 축산 농가에게도 피해를 주었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "not just A but B too",
+                            "meaning": "A뿐만 아니라 B도 역시",
+                            "use": "앞의 대상에 더해 뒤의 대상도 같은 문제를 겪었음을 대조 또는 보충하여 결합할 때 씁니다.",
+                            "example": "She likes not just reading but writing too."
+                        }
+                    ],
+                    "mustKnowGrammar": "상관접속사인 'not just A but B too'는 'not only A but also B'와 구조적, 의미적으로 완벽히 같습니다. 'have hurt'는 현재완료 시제입니다.",
+                    "vocabularyUsageNote": "livestock은 농장의 소, 돼지, 양 등 수익이나 노동을 위해 기르는 가축을 나타내는 셀 수 없는 명사(집합명사)입니다.",
+                    "feynmanExplanation": "산불은 꿀을 만드는 양봉 농가뿐만 아니라 소나 돼지를 키우는 다른 축산 농민들에게도 똑같이 큰 피해를 입혔다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence uses / 'not just... but... too' / to connect / two affected groups.",
+                            "korean": "이 문장은 사용합니다 / 'not just... but... too'를 / 연결하기 위해 / 피해를 입은 두 집단을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "Fernando García, a cow farmer, lost around 30 cattle, with serious losses affecting his income.",
+                    "chunkReading": "Fernando García, / a cow farmer, / lost / around 30 cattle, / with / serious losses / affecting his income.",
+                    "directKorean": "페르난도 가르시아는, / 소 농가인, / 잃었다 / 약 30마리의 소들을, / ~인 채로 / 심각한 손실들이 / 그의 소득에 영향을 미치며.",
+                    "naturalKorean": "소를 키우는 페르난도 가르시아는 약 30마리의 소를 잃었고, 이로 인한 심각한 손실은 그의 소득에 직접적인 타격을 주었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "affecting his income",
+                            "meaning": "그의 소득에 영향을 미치다",
+                            "use": "돈벌이나 월급 등에 부정적인 영향이나 손실이 미쳤음을 서술할 때 많이 쓰입니다.",
+                            "example": "High taxes are affecting the workers' income."
+                        }
+                    ],
+                    "mustKnowGrammar": "'with + 명사 + 분사' 구문(with serious losses affecting...)은 부대상황(원인/결과 또는 동시 상황)을 유도합니다. 'affecting'은 능동의 의미로 쓰여 손실이 소득에 직접 해를 입히는 주체임을 나타냅니다.",
+                    "vocabularyUsageNote": "cattle은 항상 복수로 쓰이며 'cattle' 앞에는 수사를 써서 마릿수를 수식할 수 있습니다. income은 소득을 뜻합니다.",
+                    "feynmanExplanation": "소를 키우는 페르난도 씨가 불 때문에 소를 30마리나 잃어버리는 바람에, 돈을 벌지 못해 생활비에 엄청 큰 타격을 입었다는 내용이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice that 'cattle' / is a plural noun / and doesn't take / an 's' at the end.",
+                            "korean": "'cattle'이 / 복수 명사이며 / 취하지 않는다는 것에 주의하세요 / 끝에 's'를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "While farmer organizations estimate the damage at around €600 million, businesses tied to tourism, especially around tourist spots like Sanabria Lake, also faced disasters.",
+                    "chunkReading": "While / farmer organizations / estimate the damage / at around €600 million, / businesses / tied to tourism, / especially / around tourist spots / like Sanabria Lake, / also faced disasters.",
+                    "directKorean": "~하는 반면에 / 농민 단체들이 / 그 피해를 추산하는 / 약 6억 유로로, / 사업체들도 / 관광과 연계된, / 특히 / 관광지들 주변의 / 사나브리아 호수와 같은, / 또한 재난에 직면했다.",
+                    "naturalKorean": "농민 단체들이 피해액을 약 6억 유로로 추산하는 한편, 사나브리아 호수 같은 유명 관광지 주변의 관광 관련 사업체들도 재난을 피해 가지 못했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "estimate the damage at",
+                            "meaning": "피해액을 ~로 추산하다",
+                            "use": "어떤 재난이나 사고 이후 공식 또는 비공식 단체가 총 피해액수를 어림잡아 발표할 때 씁니다.",
+                            "example": "Experts estimate the damage at five million dollars."
+                        },
+                        {
+                            "chunk": "tied to tourism",
+                            "meaning": "관광업에 연계된",
+                            "use": "관광업과 긴밀하게 밀착되어 그 성패를 공유하는 사업 분야들을 수식할 때 씁니다.",
+                            "example": "Many jobs are tied to tourism in the island."
+                        }
+                    ],
+                    "mustKnowGrammar": "종속접속사 'While'은 대조 상황(~인 반면)을 이끕니다. 'tied to tourism'은 과거분사구로서 주어 'businesses'를 후치수식하고 있습니다.",
+                    "vocabularyUsageNote": "estimate는 명사로 견적, 동사로 추산하다입니다. tied to는 ~에 묶여 있다, 즉 강한 관계가 있음을 의미합니다.",
+                    "feynmanExplanation": "농사짓는 단체들은 피해 금액이 6억 유로 정도 된다고 계산했고, 농부뿐만 아니라 사나브리아 호수 같은 예쁜 관광지 근처에서 식당이나 호텔을 하던 사람들도 손님이 뚝 끊겨서 아주 큰 위기를 맞았다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The connector 'While' / compares / agricultural damage / with tourism damage.",
+                            "korean": "접속사 'While'은 / 비교합니다 / 농업적 피해와 / 관광업 피해를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "Many local restaurants and hotels saw huge drops in visitors and income, highlighting the widespread impact of the wildfires across rural Spain.",
+                    "chunkReading": "Many local restaurants and hotels / saw / huge drops / in visitors and income, / highlighting / the widespread impact / of the wildfires / across rural Spain.",
+                    "directKorean": "많은 현지 식당들과 호텔들은 / 보았다 / 거대한 하락을 / 방문객들과 소득에서, / 강조하면서 / 광범위한 영향을 / 그 산불들의 / 스페인 농촌 전역에 걸친.",
+                    "naturalKorean": "많은 현지 식당과 호텔이 방문객과 수입에서 급격한 감소를 겪었으며, 이는 스페인 농촌 전역에 미친 산불의 광범위한 피해를 여실히 보여줍니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "huge drops in",
+                            "meaning": "~에서의 급격한 감소",
+                            "use": "이용객, 매출, 온도 등이 매우 큰 수치로 하강했음을 강조할 때 씁니다.",
+                            "example": "We saw huge drops in sales last winter."
+                        },
+                        {
+                            "chunk": "widespread impact",
+                            "meaning": "광범위한 영향, 넓은 범위의 충격",
+                            "use": "특정 현상이나 재앙이 지역 전체나 사회 여러 곳에 널리 영향을 끼치고 있을 때 서술합니다.",
+                            "example": "The new law will have a widespread impact."
+                        }
+                    ],
+                    "mustKnowGrammar": "', highlighting'은 현재분사구문으로, 앞 절 전체 내용이 뒤의 사실을 '입증하고 강조해준다'는 연속적 결과나 부연 설명을 제공합니다.",
+                    "vocabularyUsageNote": "rural은 시골의, 농촌의 뜻이고 반의어는 urban입니다. highlight는 눈에 띄게 드러내다, 강조하다입니다.",
+                    "feynmanExplanation": "많은 식당과 호텔들에 손님도 돈도 다 줄어든 것을 보면, 이번 산불이 스페인의 시골 마을 구석구석까지 얼마나 넓고 깊게 큰 상처를 줬는지 잘 알 수 있다는 뜻이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Here, 'highlighting' / means showing / or proving / the widespread impact.",
+                            "korean": "여기서 'highlighting'은 / 의미합니다 / 보여주거나 / 입증하는 것을 / 광범위한 영향을."
+                        }
+                    ]
+                }
+            ],
+            "finalWritingSupport": {
+                "sentenceFrames": [
+                    "Spain’s wildfires affected rural communities because ________.",
+                    "One major impact was ________.",
+                    "Farmers suffered because ________.",
+                    "Tourism businesses were also affected because ________.",
+                    "This shows that ________.",
+                    "Overall, the wildfires caused ________."
+                ],
+                "usefulConnectors": [
+                    "Because (때문에)",
+                    "As a result (결과적으로)",
+                    "Due to (~ 때문에)",
+                    "Affecting (~에 영향을 미치는)",
+                    "Highlighting (~을 강조하며)"
+                ],
+                "usefulVocabulary": [
+                    "evacuate (대피하다)",
+                    "honey producer (꿀 생산자)",
+                    "beehives (벌통)",
+                    "livestock (가축)",
+                    "income (소득)",
+                    "tourism (관광)",
+                    "widespread impact (광범위한 영향)"
+                ],
+                "paragraphOutline": [
+                    "Sentence 1 (Topic Sentence): State how Spain's summer wildfires caused massive damage across rural communities.",
+                    "Sentence 2-3 (Agricultural impact): Detail the damage to honey farmers (beehives, damaged flowers, 50% loss) and livestock farmers (loss of 30 cattle).",
+                    "Sentence 4-5 (Tourism & Economic impact): Describe the damage to restaurants and hotels near tourist spots like Sanabria Lake.",
+                    "Sentence 6 (Conclusion): Wrap up with a summarizing sentence on the overall widespread impact on the economy and people's lives."
+                ],
+                "commonMistakes": [
+                    {
+                        "mistake": "Using unverified statements: *Many tourists died in the wildfires.*",
+                        "correction": "Only use facts from the text: *Many restaurants and hotels saw huge drops in visitors and income.*"
+                    },
+                    {
+                        "mistake": "Incorrect preposition with 'due to': *due to of damaged flowers.*",
+                        "correction": "Use 'due to' as a preposition itself: *due to damaged flowers.*"
+                    }
+                ],
+                "teacherCorrectionFocus": [
+                    "Verify the word count is within the 100-140 words limit.",
+                    "Check if the student mentions at least two affected groups (e.g. honey/livestock farmers, tourism businesses).",
+                    "Confirm that the text uses target cause-and-effect language: due to, because, affecting, highlighting, not just... but... too.",
+                    "Ensure no outside unverified claims are included."
+                ]
+            }
+        }
+    }
+}

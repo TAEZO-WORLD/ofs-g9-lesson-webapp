@@ -1,6 +1,13 @@
 {
-  "latest": "2026-07-01-saudi-pakistan-defense-deal",
+  "latest": "2026-07-04-spain-wildfire-disaster",
   "lessons": [
+    {
+      "slug": "2026-07-04-spain-wildfire-disaster",
+      "title": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "News Report / Impact Paragraph",
+      "date": "2026-07-04"
+    },
     {
       "slug": "2026-07-01-saudi-pakistan-defense-deal",
       "title": "Saudi Arabia and Pakistan: A New Deal and Big Questions",
