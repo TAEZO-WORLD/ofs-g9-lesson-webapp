@@ -1,5 +1,42 @@
+// ─── helpers ────────────────────────────────────────────────────────────────
+
+/**
+ * Render a teaching-script body value that may be a string or an array.
+ * Tries multiple field names so old lessons (script) and new lessons (actions,
+ * content, steps, teacherTalk) both work.
+ */
+function ScriptBody({ phase }) {
+  const raw =
+    phase.script ??
+    phase.actions ??
+    phase.content ??
+    phase.steps ??
+    phase.teacherTalk ??
+    phase.description ??
+    null;
+
+  if (!raw) return null;
+
+  if (Array.isArray(raw)) {
+    return (
+      <ul style={{ margin: '0.4rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.65' }}>
+        {raw.map((item, i) => (
+          <li key={i} style={{ marginBottom: '0.25rem' }}>{item}</li>
+        ))}
+      </ul>
+    );
+  }
+
+  return <p style={{ margin: '0.4rem 0 0', lineHeight: '1.65' }}>{raw}</p>;
+}
+
+// ─── component ───────────────────────────────────────────────────────────────
+
 export default function TeacherPanel({ teacher, lessonData }) {
   const { answerKey, modelAnswer, rubric, teacherNotes, teachingScript } = teacher;
+
+  // Accept either "teacherReadingGuide" (old lessons) or "detailedReadingGuide" (Cubism+)
+  const readingGuide = teacher.teacherReadingGuide ?? teacher.detailedReadingGuide ?? null;
 
   return (
     <div className="teacher-page">
@@ -100,9 +137,9 @@ export default function TeacherPanel({ teacher, lessonData }) {
         <h3 className="teacher-panel__title">Rubric</h3>
         <div className="teacher-panel__content">
           <div className="rubric-cards">
-            {rubric.map((row) => (
-              <div key={row.criterion} className="rubric-card">
-                <h4 className="rubric-card__criterion">{row.criterion}</h4>
+            {rubric.map((row, idx) => (
+              <div key={row.criterion ?? row.category ?? idx} className="rubric-card">
+                <h4 className="rubric-card__criterion">{row.criterion ?? row.category}</h4>
                 <div className="rubric-card__levels">
                   <div className="rubric-card__level rubric-card__level--excellent">
                     <span className="rubric-card__label">Excellent</span>
@@ -137,25 +174,36 @@ export default function TeacherPanel({ teacher, lessonData }) {
       <div className="teacher-panel">
         <h3 className="teacher-panel__title">Teaching script</h3>
         <div className="teacher-panel__content">
-          {teachingScript.map((phase, index) => (
-            <div key={index} className="script-phase">
-              <p className="script-phase__name">{phase.phase}</p>
-              <p>{phase.script}</p>
-            </div>
-          ))}
+          {teachingScript.map((phase, index) => {
+            const heading = phase.phase ?? phase.title ?? phase.heading ?? `Phase ${index + 1}`;
+            const duration = phase.duration ?? phase.time ?? null;
+            return (
+              <div key={index} className="script-phase">
+                <p className="script-phase__name">
+                  {heading}
+                  {duration && (
+                    <span style={{ fontWeight: 400, fontSize: '0.82rem', color: 'var(--color-muted)', marginLeft: '0.5rem' }}>
+                      ({duration})
+                    </span>
+                  )}
+                </p>
+                <ScriptBody phase={phase} />
+              </div>
+            );
+          })}
         </div>
       </div>
 
-      {teacher.teacherReadingGuide && (
+      {readingGuide && (
         <div className="teacher-panel">
           <h3 className="teacher-panel__title">Detailed Reading Teaching Guide</h3>
           <div className="teacher-panel__content reading-guide">
             {/* 1. Teacher's Opening Script */}
-            {teacher.teacherReadingGuide.openingScript && (
+            {readingGuide.openingScript && (
               <div className="guide-section">
                 <h4 className="guide-section__subtitle">1. Teacher's Opening Script</h4>
                 <div className="script-container">
-                  {teacher.teacherReadingGuide.openingScript.map((item, index) => (
+                  {readingGuide.openingScript.map((item, index) => (
                     <div key={index} className="script-line">
                       <p className="script-line__english">{item.english}</p>
                       <p className="script-line__korean">{item.korean}</p>
@@ -166,32 +214,39 @@ export default function TeacherPanel({ teacher, lessonData }) {
             )}
 
             {/* 2. Warm-up / Icebreaking Questions */}
-            {teacher.teacherReadingGuide.warmupGuide && (
+            {(readingGuide.warmupGuide ?? readingGuide.warmUpDiscussion) && (
               <div className="guide-section">
                 <h4 className="guide-section__subtitle">2. Warm-up / Icebreaking Questions</h4>
                 <div className="warmup-guide-container">
-                  {teacher.teacherReadingGuide.warmupGuide.map((item, index) => (
-                    <div key={index} className="warmup-guide-item">
-                      <p className="warmup-question__english"><strong>Q{index + 1}:</strong> {item.question}</p>
-                      <p className="warmup-question__korean">{item.korean}</p>
-                      {item.teacherFollowUp && (
-                        <div className="warmup-followup">
-                          <p className="warmup-followup__english">💡 <em>Follow-up:</em> {item.teacherFollowUp}</p>
-                          <p className="warmup-followup__korean">{item.teacherFollowUpKorean}</p>
-                        </div>
-                      )}
-                    </div>
-                  ))}
+                  {(readingGuide.warmupGuide ?? readingGuide.warmUpDiscussion).map((item, index) => {
+                    // Support both old field names (korean / teacherFollowUp / teacherFollowUpKorean)
+                    // and new field names (translation / followUp)
+                    const koreanText = item.korean ?? item.translation ?? null;
+                    const followUpText = item.teacherFollowUp ?? item.followUp ?? null;
+                    const followUpKorean = item.teacherFollowUpKorean ?? null;
+                    return (
+                      <div key={index} className="warmup-guide-item">
+                        <p className="warmup-question__english"><strong>Q{index + 1}:</strong> {item.question}</p>
+                        {koreanText && <p className="warmup-question__korean">{koreanText}</p>}
+                        {followUpText && (
+                          <div className="warmup-followup">
+                            <p className="warmup-followup__english">💡 <em>Follow-up:</em> {followUpText}</p>
+                            {followUpKorean && <p className="warmup-followup__korean">{followUpKorean}</p>}
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
             )}
 
             {/* 3. Sentence-by-Sentence Passage Analysis */}
-            {teacher.teacherReadingGuide.sentenceAnalysis && (
+            {(readingGuide.sentenceAnalysis ?? readingGuide.sentences) && (
               <div className="guide-section">
                 <h4 className="guide-section__subtitle">3. Sentence-by-Sentence Passage Analysis</h4>
                 <div className="sentence-analysis-container">
-                  {teacher.teacherReadingGuide.sentenceAnalysis.map((sentence) => (
+                  {(readingGuide.sentenceAnalysis ?? readingGuide.sentences).map((sentence) => (
                     <div key={sentence.sentenceNumber} className="sentence-analysis-card">
                       <div className="sentence-analysis-card__header">
                         <span className="sentence-number">Sentence {sentence.sentenceNumber}</span>
@@ -262,27 +317,27 @@ export default function TeacherPanel({ teacher, lessonData }) {
             )}
 
             {/* 4. Final Writing Support */}
-            {teacher.teacherReadingGuide.finalWritingSupport && (
+            {readingGuide.finalWritingSupport && (
               <div className="guide-section" style={{ marginTop: '2rem' }}>
                 <h4 className="guide-section__subtitle">4. Final Writing Support</h4>
                 <div className="writing-support-container" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                   
-                  {teacher.teacherReadingGuide.finalWritingSupport.sentenceFrames && (
+                  {readingGuide.finalWritingSupport.sentenceFrames && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Sentence Frames</h5>
                       <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.sentenceFrames.map((frame, index) => (
+                        {readingGuide.finalWritingSupport.sentenceFrames.map((frame, index) => (
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{frame}</li>
                         ))}
                       </ul>
                     </div>
                   )}
 
-                  {teacher.teacherReadingGuide.finalWritingSupport.usefulConnectors && (
+                  {readingGuide.finalWritingSupport.usefulConnectors && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Useful Connectors</h5>
                       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', marginTop: '0.5rem' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.usefulConnectors.map((conn, index) => (
+                        {readingGuide.finalWritingSupport.usefulConnectors.map((conn, index) => (
                           <span key={index} style={{ padding: '0.25rem 0.5rem', backgroundColor: 'var(--color-cream)', borderRadius: '4px', fontSize: '0.85rem', border: '1px solid #e0d5c8' }}>
                             {conn}
                           </span>
@@ -291,11 +346,11 @@ export default function TeacherPanel({ teacher, lessonData }) {
                     </div>
                   )}
 
-                  {teacher.teacherReadingGuide.finalWritingSupport.usefulVocabulary && (
+                  {readingGuide.finalWritingSupport.usefulVocabulary && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Useful Vocabulary</h5>
                       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', marginTop: '0.5rem' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.usefulVocabulary.map((vocab, index) => (
+                        {readingGuide.finalWritingSupport.usefulVocabulary.map((vocab, index) => (
                           <span key={index} style={{ padding: '0.25rem 0.5rem', backgroundColor: 'var(--color-cream)', borderRadius: '4px', fontSize: '0.85rem', border: '1px solid #e0d5c8' }}>
                             {vocab}
                           </span>
@@ -304,22 +359,22 @@ export default function TeacherPanel({ teacher, lessonData }) {
                     </div>
                   )}
 
-                  {teacher.teacherReadingGuide.finalWritingSupport.paragraphOutline && (
+                  {readingGuide.finalWritingSupport.paragraphOutline && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">One Paragraph Outline</h5>
                       <ol style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.paragraphOutline.map((step, index) => (
+                        {readingGuide.finalWritingSupport.paragraphOutline.map((step, index) => (
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{step}</li>
                         ))}
                       </ol>
                     </div>
                   )}
 
-                  {teacher.teacherReadingGuide.finalWritingSupport.commonMistakes && (
+                  {readingGuide.finalWritingSupport.commonMistakes && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Common Mistakes (Korean ESL Students)</h5>
                       <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.5rem' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.commonMistakes.map((item, index) => (
+                        {readingGuide.finalWritingSupport.commonMistakes.map((item, index) => (
                           <div key={index} style={{ padding: '0.5rem', borderRadius: '6px', backgroundColor: 'var(--color-cream)', borderLeft: '3px solid #d9534f' }}>
                             <p style={{ margin: '0 0 4px', fontWeight: 600, color: '#d9534f' }}>❌ Mistake: {item.mistake}</p>
                             <p style={{ margin: '0', fontWeight: 600, color: '#5cb85c' }}>👉 Correction: {item.correction}</p>
@@ -329,11 +384,11 @@ export default function TeacherPanel({ teacher, lessonData }) {
                     </div>
                   )}
 
-                  {teacher.teacherReadingGuide.finalWritingSupport.teacherCorrectionFocus && (
+                  {readingGuide.finalWritingSupport.teacherCorrectionFocus && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Teacher Correction Focus</h5>
                       <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
-                        {teacher.teacherReadingGuide.finalWritingSupport.teacherCorrectionFocus.map((focus, index) => (
+                        {readingGuide.finalWritingSupport.teacherCorrectionFocus.map((focus, index) => (
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{focus}</li>
                         ))}
                       </ul>
