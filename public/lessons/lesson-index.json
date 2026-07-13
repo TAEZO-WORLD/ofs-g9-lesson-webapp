@@ -1,6 +1,13 @@
 {
-  "latest": "2026-07-04-spain-wildfire-disaster",
+  "latest": "2026-07-13-cubism-seeing-differently",
   "lessons": [
+    {
+      "slug": "2026-07-13-cubism-seeing-differently",
+      "title": "Cubism: The Art of Seeing Things Differently",
+      "ofsUnit": "Unit 2 — Arts, Culture & Creative Perspectives",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-13"
+    },
     {
       "slug": "2026-07-04-spain-wildfire-disaster",
       "title": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",

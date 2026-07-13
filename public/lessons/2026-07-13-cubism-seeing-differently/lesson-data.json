@@ -1,0 +1,1085 @@
+{
+    "lessonTitle": "Cubism: The Art of Seeing Things Differently",
+    "ofsUnit": "Unit 2 — Arts, Culture & Creative Perspectives",
+    "textType": "Informational Explanation Paragraph",
+    "lessonGoal": "Students will read an informational text about Cubism, identify the main idea and supporting details, learn art and perspective-related vocabulary, and write a short explanatory paragraph about how Cubism changed the way people see art.",
+    "warmUp": {
+        "title": "Warm-up",
+        "instructions": "Think about how we see art and the world. Answer the warm-up questions below. There are no right or wrong answers.",
+        "questions": [
+            "Have you ever seen a painting that looked strange or hard to understand? What did you think of it?",
+            "Why might an artist choose not to make something look realistic?",
+            "Can two people look at the same object and notice different things? Explain your answer."
+        ]
+    },
+    "article": {
+        "title": "Cubism: The Art of Seeing Things Differently",
+        "source": "Source: Adapted from teacher-provided classroom source image.",
+        "note": "OFS Grade 9 International English — Unit 2",
+        "paragraphs": [
+            "What if a painting could show someone’s face from the front, the side, and even the top all at once, like a puzzle exploding with shapes? Let’s explore Cubism: a wild new way of seeing the world that turned art upside down.",
+            "Cubism is a style of art that shows things in new and surprising ways. Instead of painting a person, object, or place to look real, Cubist artists used shapes, angles, and flattened forms to show many sides of something all at once.",
+            "Cubism started in France in the early 1900s. Two famous artists, Pablo Picasso and Georges Braque, wanted to try something totally new. They were inspired by African masks, modern science, and even photography. Their goal was not to copy what they saw, but to show how they thought about what they saw. Their early Cubist work looked more like shattered glass than traditional art, and people did not know what to think at first.",
+            "Cubism came in two main phases. The first phase was Analytical Cubism, from 1908 to 1912. Art was mostly made of browns, grays, and muted colors. Paintings looked like they were broken into tiny shapes and angles. It was like taking something apart to understand it better, kind of like science.",
+            "The second phase was Synthetic Cubism, from 1912 and after. Artists started using brighter colors. They added things like newspaper, fabric, or wallpaper into their art. This was the beginning of collage in modern art.",
+            "Cubism changed the way people thought about art, vision, and reality. Before Cubism, most art tried to look realistic. But Cubism said: What if there’s more than one way to see something? It inspired many other modern art movements, including Futurism, Abstract Art, and Pop Art."
+        ]
+    },
+    "vocabularyInContext": {
+        "title": "Vocabulary in Context",
+        "instructions": "Read the key terms from the text and their definitions below.",
+        "items": [
+            {
+                "word": "Cubism",
+                "definition": "a style of art that uses geometric shapes, flattened forms, and multiple angles to depict subjects",
+                "sentence": "Cubism is a style of art that shows things in new and surprising ways."
+            },
+            {
+                "word": "perspective",
+                "definition": "a particular attitude toward or way of looking at something; a point of view",
+                "sentence": "Let’s explore Cubism: a wild new way of seeing the world that turned art upside down."
+            },
+            {
+                "word": "realistic",
+                "definition": "representing things in a way that is accurate and true to life",
+                "sentence": "Instead of painting a person, object, or place to look real..."
+            },
+            {
+                "word": "shapes",
+                "definition": "the external forms, contours, or outlines of someone or something",
+                "sentence": "Cubist artists used shapes, angles, and flattened forms..."
+            },
+            {
+                "word": "angles",
+                "definition": "points of view or ways of looking at objects; directions from which things are seen",
+                "sentence": "...used shapes, angles, and flattened forms to show many sides..."
+            },
+            {
+                "word": "flattened forms",
+                "definition": "shapes made flat or deprived of depth, losing their three-dimensional appearance",
+                "sentence": "...used shapes, angles, and flattened forms to show many sides..."
+            },
+            {
+                "word": "inspired",
+                "definition": "filled with the urge or ability to do or feel something, especially to create art",
+                "sentence": "They were inspired by African masks, modern science, and even photography."
+            },
+            {
+                "word": "traditional",
+                "definition": "following ideas, styles, or methods that have existed for a long time without changing",
+                "sentence": "Their early Cubist work looked more like shattered glass than traditional art..."
+            },
+            {
+                "word": "Analytical Cubism",
+                "definition": "the first phase of Cubism, characterized by breaking down objects into geometric shapes and using muted colors",
+                "sentence": "The first phase was Analytical Cubism, from 1908 to 1912."
+            },
+            {
+                "word": "Synthetic Cubism",
+                "definition": "the second phase of Cubism, featuring brighter colors and combined materials like collage",
+                "sentence": "The second phase was Synthetic Cubism, from 1912 and after."
+            },
+            {
+                "word": "collage",
+                "definition": "a piece of art made by sticking various different materials such as photographs and pieces of paper onto a backing",
+                "sentence": "This was the beginning of collage in modern art."
+            },
+            {
+                "word": "modern art movement",
+                "definition": "a historical trend or collective style in art that breaks away from classical and traditional methods",
+                "sentence": "It inspired many other modern art movements, including Futurism..."
+            }
+        ]
+    },
+    "mainIdeaQuestion": {
+        "title": "Main Idea",
+        "question": "What is the main idea of the article?",
+        "options": [
+            "Cubism was an art style that tried to make paintings look exactly like photographs.",
+            "Cubism changed art by showing objects from different angles and encouraging people to see things in new ways.",
+            "Cubism was only about using bright colors and simple shapes.",
+            "Cubism began as a type of music in France."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that Cubism used shapes, angles, and flattened forms to show many sides of something at once, changing how people thought about art and reality."
+    },
+    "readingComprehension": {
+        "title": "Reading Comprehension",
+        "questions": [
+            {
+                "id": "rc1",
+                "question": "Where and when did Cubism begin?",
+                "options": [
+                    "It started in Germany in the 1920s.",
+                    "It started in France in the early 1900s.",
+                    "It started in Italy in the late 1800s.",
+                    "It started in Spain in the mid-1950s."
+                ],
+                "correctIndex": 1,
+                "explanation": "The text states: 'Cubism started in France in the early 1900s.'"
+            },
+            {
+                "id": "rc2",
+                "question": "Who were two important artists connected to Cubism?",
+                "options": [
+                    "Claude Monet and Pierre-Auguste Renoir",
+                    "Leonardo da Vinci and Michelangelo",
+                    "Pablo Picasso and Georges Braque",
+                    "Vincent van Gogh and Paul Gauguin"
+                ],
+                "correctIndex": 2,
+                "explanation": "The text states: 'Two famous artists, Pablo Picasso and Georges Braque, wanted to try something totally new.'"
+            },
+            {
+                "id": "rc3",
+                "question": "What inspired early Cubist artists?",
+                "options": [
+                    "They were inspired by African masks, modern science, and photography.",
+                    "They were inspired by nature, clouds, and ocean waves.",
+                    "They were inspired by classical music and poetry.",
+                    "They were inspired by traditional Greek statues."
+                ],
+                "correctIndex": 0,
+                "explanation": "The text states: 'They were inspired by African masks, modern science, and even photography.'"
+            },
+            {
+                "id": "rc4",
+                "question": "What colors were common in Analytical Cubism?",
+                "options": [
+                    "Bright pinks, blues, and yellows",
+                    "Browns, grays, and muted colors",
+                    "Neon greens and deep purples",
+                    "Mostly black and white only"
+                ],
+                "correctIndex": 1,
+                "explanation": "The text states: 'Art was mostly made of browns, grays, and muted colors.'"
+            },
+            {
+                "id": "rc5",
+                "question": "What materials did artists use in Synthetic Cubism?",
+                "options": [
+                    "They used clay, metal wires, and stone.",
+                    "They used oil paints, watercolor, and ink only.",
+                    "They used brighter colors and added materials like newspaper, fabric, or wallpaper.",
+                    "They used leaves, sand, and wood from forests."
+                ],
+                "correctIndex": 2,
+                "explanation": "The text states: 'They added things like newspaper, fabric, or wallpaper into their art.'"
+            },
+            {
+                "id": "rc6",
+                "question": "Why was Cubism important?",
+                "options": [
+                    "It helped artists paint portraits faster.",
+                    "It made traditional art popular again.",
+                    "It changed how people thought about art, vision, and reality, and inspired other modern art movements.",
+                    "It was the first style to use computers in art."
+                ],
+                "correctIndex": 2,
+                "explanation": "The text states: 'Cubism changed the way people thought about art, vision, and reality. It inspired many other modern art movements...'"
+            }
+        ]
+    },
+    "evidenceFromText": {
+        "title": "Evidence from the Text",
+        "instructions": "Find and type the exact sentence from the article that supports each statement.",
+        "prompts": [
+            {
+                "id": "ev1",
+                "statement": "Find one sentence that explains what Cubist artists wanted to show.",
+                "modelAnswer": "Cubist artists used shapes, angles, and flattened forms to show many sides of something all at once.",
+                "compareTip": "Your answer should explain the main idea of Cubist style.",
+                "checkType": "evidence"
+            },
+            {
+                "id": "ev2",
+                "statement": "Find one sentence that shows Cubism was new and surprising.",
+                "modelAnswer": "Their early Cubist work looked more like shattered glass than traditional art, and people did not know what to think at first.",
+                "compareTip": "Your answer should show that Cubism was different from traditional art.",
+                "checkType": "evidence"
+            },
+            {
+                "id": "ev3",
+                "statement": "Find one sentence that explains Analytical Cubism.",
+                "modelAnswer": "Paintings looked like they were broken into tiny shapes and angles.",
+                "compareTip": "Your answer should describe the first phase of Cubism.",
+                "checkType": "evidence"
+            },
+            {
+                "id": "ev4",
+                "statement": "Find one sentence that explains Synthetic Cubism.",
+                "modelAnswer": "They added things like newspaper, fabric, or wallpaper into their art.",
+                "compareTip": "Your answer should describe the second phase of Cubism.",
+                "checkType": "evidence"
+            },
+            {
+                "id": "ev5",
+                "statement": "Find one sentence that explains why Cubism was important.",
+                "modelAnswer": "Cubism changed the way people thought about art, vision, and reality.",
+                "compareTip": "Your answer should explain the larger impact of Cubism.",
+                "checkType": "evidence"
+            }
+        ]
+    },
+    "languageFocus": {
+        "title": "Language Focus",
+        "topic": "Explanation and Contrast Language",
+        "explanation": "In explanatory reports, writers use key transition patterns to frame alternative choices (Instead of), explain intentions (not to... but to...), compare qualities (more like... than...), describe stages (came in two main phases, from... to...), and highlight results (changed the way... or This was the beginning of...)",
+        "examples": [
+            "Instead of painting a person, object, or place to look real, Cubist artists used shapes, angles, and flattened forms.",
+            "Their goal was not to copy what they saw, but to show how they thought about what they saw.",
+            "Their early Cubist work looked more like shattered glass than traditional art.",
+            "Cubism came in two main phases: Analytical Cubism and Synthetic Cubism.",
+            "Cubism changed the way people thought about art, vision, and reality.",
+            "This was the beginning of collage in modern art."
+        ],
+        "practice": [
+            "Complete the sentence: Instead of making art look realistic, Cubist artists ________.",
+            "Write one sentence using 'not to..., but to...'",
+            "Write one sentence using 'changed the way...'",
+            "Write one sentence explaining the difference between Analytical Cubism and Synthetic Cubism."
+        ]
+    },
+    "writingPractice": {
+        "title": "Writing Practice",
+        "description": "Write short responses to the questions below. Use complete sentences.",
+        "prompts": [
+            {
+                "id": "wp1",
+                "question": "How did Cubist artists show objects in a new way?",
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Cubist artists showed objects in a new way by using shapes, angles, and flattened forms. They tried to show many sides of something all at once instead of making it look realistic.",
+                "compareTip": "Did your answer explain the geometric shapes and multiple angles used instead of realistic painting?"
+            },
+            {
+                "id": "wp2",
+                "question": "Why do you think people were confused by early Cubist art?",
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "People were probably confused by early Cubist art because it looked very different from traditional paintings. The article says early Cubist work looked more like shattered glass than normal art.",
+                "compareTip": "Did you connect the confusion to the similarity to shattered glass and contrast with traditional art?"
+            },
+            {
+                "id": "wp3",
+                "question": "What is one difference between Analytical Cubism and Synthetic Cubism?",
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "One difference is that Analytical Cubism used browns, grays, and muted colors, while Synthetic Cubism used brighter colors and added materials like newspaper, fabric, or wallpaper.",
+                "compareTip": "Did you compare the colors and materials (e.g. newspaper collage) used in each phase?"
+            },
+            {
+                "id": "wp4",
+                "question": "Why was Cubism important for modern art?",
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Cubism was important because it changed the way people thought about art, vision, and reality. It also inspired many other modern art movements, such as Futurism, Abstract Art, and Pop Art.",
+                "compareTip": "Did you mention its impact on how people perceive reality and the other art movements it inspired?"
+            }
+        ]
+    },
+    "writingTask": {
+        "title": "Writing Task",
+        "prompt": "Write a short explanatory paragraph of 100–140 words answering this question: How did Cubism change the way people see art?",
+        "wordTarget": {
+            "min": 100,
+            "max": 140
+        },
+        "checklist": [
+            "Explain what Cubism is.",
+            "Include at least two details from the article.",
+            "Mention Analytical Cubism or Synthetic Cubism.",
+            "Use explanation or contrast language such as instead of, not to... but to..., however, or changed the way.",
+            "End with a clear concluding sentence."
+        ],
+        "modelAnswer": "Cubism changed the way people see art because it showed that art does not have to look realistic. Instead of copying a person, object, or place exactly, Cubist artists used shapes, angles, and flattened forms to show many sides of something at once. This made their paintings look new and surprising. In Analytical Cubism, artists used muted colors and broke objects into tiny shapes and angles. Later, in Synthetic Cubism, they used brighter colors and added materials like newspaper, fabric, or wallpaper. Their goal was not to copy what they saw, but to show how they thought about what they saw. Overall, Cubism helped people understand that there is more than one way to see art and reality."
+    },
+    "selfCheck": {
+        "title": "Self-check",
+        "instructions": "Before you submit, review your work.",
+        "items": [
+            "I explained what Cubism is.",
+            "I included at least two details from the article.",
+            "I mentioned Analytical Cubism or Synthetic Cubism.",
+            "I used explanation or contrast language.",
+            "I ended with a clear concluding sentence."
+        ]
+    },
+    "teacher": {
+        "answerKey": {
+            "mainIdea": "Cubism changed art by showing objects from different angles and encouraging people to see things in new ways.",
+            "readingComprehension": {
+                "rc1": "It started in France in the early 1900s.",
+                "rc2": "Pablo Picasso and Georges Braque.",
+                "rc3": "They were inspired by African masks, modern science, and photography.",
+                "rc4": "Browns, grays, and muted colors.",
+                "rc5": "They used brighter colors and added materials like newspaper, fabric, or wallpaper.",
+                "rc6": "It changed how people thought about art, vision, and reality, and inspired other modern art movements."
+            },
+            "evidenceFromText": {
+                "ev1": "Cubist artists used shapes, angles, and flattened forms to show many sides of something all at once.",
+                "ev2": "Their early Cubist work looked more like shattered glass than traditional art, and people did not know what to think at first.",
+                "ev3": "Paintings looked like they were broken into tiny shapes and angles.",
+                "ev4": "They added things like newspaper, fabric, or wallpaper into their art.",
+                "ev5": "Cubism changed the way people thought about art, vision, and reality."
+            }
+        },
+        "modelAnswer": "Cubism changed the way people see art because it showed that art does not have to look realistic. Instead of copying a person, object, or place exactly, Cubist artists used shapes, angles, and flattened forms to show many sides of something at once. This made their paintings look new and surprising. In Analytical Cubism, artists used muted colors and broke objects into tiny shapes and angles. Later, in Synthetic Cubism, they used brighter colors and added materials like newspaper, fabric, or wallpaper. Their goal was not to copy what they saw, but to show how they thought about what they saw. Overall, Cubism helped people understand that there is more than one way to see art and reality.",
+        "rubric": [
+            {
+                "category": "Content & Ideas",
+                "excellent": "Clearly explains how Cubism changed art with strong details.",
+                "developing": "Explains Cubism but needs clearer or more specific details.",
+                "beginning": "Gives a vague or incomplete explanation."
+            },
+            {
+                "category": "Evidence & Detail",
+                "excellent": "Uses at least two accurate details from the article.",
+                "developing": "Uses one detail or includes some unclear details.",
+                "beginning": "Uses little or no article evidence."
+            },
+            {
+                "category": "Explanation Language",
+                "excellent": "Uses explanation or contrast language accurately.",
+                "developing": "Uses some useful language but with errors.",
+                "beginning": "Uses limited connectors or unclear sentence structure."
+            },
+            {
+                "category": "Organization",
+                "excellent": "Clear paragraph with opening, support, and conclusion.",
+                "developing": "Some organization but weak opening or ending.",
+                "beginning": "Ideas are disconnected."
+            },
+            {
+                "category": "Task Completion",
+                "excellent": "100–140 words and fully answers the question.",
+                "developing": "Slightly too short/long or partly answers the question.",
+                "beginning": "Too short or does not answer the question clearly."
+            }
+        ],
+        "teacherNotes": [
+            "This lesson is suitable for OFS Grade 9 International English G1/G2 students.",
+            "Pre-teach art and perspective-related vocabulary before reading.",
+            "Emphasize that Cubism is about seeing from multiple perspectives, not about drawing “badly.”",
+            "Help students distinguish between Analytical Cubism and Synthetic Cubism.",
+            "Encourage students to use evidence from the text when explaining why Cubism was important.",
+            "For weaker students, provide sentence frames.",
+            "For stronger students, ask them to connect Cubism to the idea that people can see the same thing in different ways."
+        ],
+        "teachingScript": [
+            {
+                "phase": "Lead-in / Warm-up",
+                "duration": "10 minutes",
+                "actions": "Project an image of a famous Cubist painting (e.g. Picasso's 'Weeping Woman'). Ask: What shapes do you see? Why did the artist paint the face this way? Ask warm-up questions 1 and 2."
+            },
+            {
+                "phase": "Vocabulary preview",
+                "duration": "10 minutes",
+                "actions": "Go through the Vocabulary in Context section. Focus on pronunciation and spelling of Cubism, perspective, and Analytical/Synthetic Cubism. Ask students to construct simple sentences."
+            },
+            {
+                "phase": "First reading for gist",
+                "duration": "10 minutes",
+                "actions": "Students read the text silently. Ask: What are the two main phases of Cubism? Who started it? Have them check Main Idea MCQ."
+            },
+            {
+                "phase": "Second reading for detail and evidence",
+                "duration": "15 minutes",
+                "actions": "Read chunk-by-chunk using the sentence analyzer. Have students underline evidence for the Evidence from the Text prompts. Verify answers using Check & Compare."
+            },
+            {
+                "phase": "Language Focus",
+                "duration": "10 minutes",
+                "actions": "Work through target structures (Instead of, not to... but to...). Have students write their practice sentences and do short-writing check comparisons."
+            },
+            {
+                "phase": "Writing Practice",
+                "duration": "15 minutes",
+                "actions": "Students answer the 4 Writing Practice questions. Monitor their progress. Guide them to use Check & Compare to revise their draft answers."
+            },
+            {
+                "phase": "Final Writing Task",
+                "duration": "20 minutes",
+                "actions": "Review the checklist. Students write the 100-140 words explanatory paragraph. Reinforce target word targets and grammatical requirements."
+            },
+            {
+                "phase": "Self-check and submission",
+                "duration": "5 minutes",
+                "actions": "Students complete self-check items and click Submit Lesson. Remind them submissions go to D1 for teacher review."
+            }
+        ],
+        "detailedReadingGuide": {
+            "openingScript": [
+                {
+                    "english": "Today we will read / about Cubism, / a new way of seeing art.",
+                    "korean": "오늘 우리는 읽을 것입니다 / 큐비즘에 대해 / 예술을 보는 새로운 방식인."
+                }
+            ],
+            "warmUpDiscussion": [
+                {
+                    "question": "Have you ever seen a painting / that looked strange or hard to understand? / What did you think of it?",
+                    "translation": "그림을 본 적이 있나요 / 이상하거나 이해하기 어려운? / 그것에 대해 어떻게 생각했나요?",
+                    "followUp": "Would you want to have / such a painting in your house? / 왜 그렇게 생각하나요?"
+                },
+                {
+                    "question": "Why might an artist choose / not to make something look realistic?",
+                    "translation": "화가는 왜 선택할 수 있을까요 / 대상을 사실적으로 만들지 않기로?",
+                    "followUp": "Does a painting have to look like a photo / to be beautiful? / 어떻게 생각하나요?"
+                },
+                {
+                    "question": "Can two people look at the same object / and notice different things? / Explain your answer.",
+                    "translation": "두 사람이 같은 물체를 보고 / 다른 것을 알아차릴 수 있을까요? / 답변을 설명해보세요.",
+                    "followUp": "How can looking from different angles / help us understand someone else's opinion? / 다른 사람의 의견을 이해하는 데 어떤 도움이 되나요?"
+                }
+            ],
+            "sentences": [
+                {
+                    "sentenceNumber": 1,
+                    "original": "What if a painting could show someone’s face from the front, the side, and even the top all at once, like a puzzle exploding with shapes?",
+                    "chunkReading": "What if / a painting / could show / someone’s face / from the front, the side, / and even the top / all at once, / like a puzzle / exploding with shapes?",
+                    "directKorean": "만약 ~라면 어떨까 / 그림이 / 보여줄 수 있다면 / 누군가의 얼굴을 / 정면, 측면, / 그리고 심지어 윗면으로부터 / 한 번에 모두, / 퍼즐처럼 / 도형들로 폭발하는?",
+                    "naturalKorean": "만약 그림이 누군가의 얼굴을 정면, 측면, 그리고 심지어 위에서 본 모습까지 한 번에 모두 보여줄 수 있다면 어떨까요, 마치 도형들로 터져 나가는 퍼즐처럼 말이죠?",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "What if...?",
+                            "meaning": "만약 ~라면 어떨까?",
+                            "use": "가상의 상황을 가정하거나 새로운 제안을 던질 때 씁니다.",
+                            "example": "What if we try a different way?"
+                        },
+                        {
+                            "chunk": "all at once",
+                            "meaning": "한 번에 모두, 동시에",
+                            "use": "여러 가지 일이 동시에 일어날 때 강조하여 씁니다.",
+                            "example": "Don't speak all at once."
+                        }
+                    ],
+                    "mustKnowGrammar": "What if + 주어 + 동사 과거형(could show) 패턴은 현재 사실 och 반대되거나 가상적인 상황을 가정하는 가정법 형태입니다.",
+                    "vocabularyUsageNote": "exploding은 '폭발하는' 뜻으로, 여기서는 다양한 입체 도형들이 사방으로 강렬하게 뻗어 나오는 시각적 느낌을 비유합니다.",
+                    "feynmanExplanation": "만약 어떤 그림이 얼굴을 앞, 옆, 위 등 모든 방향에서 본 모습을 한꺼번에 보여준다면 어떨까요? 여러 조각들이 합쳐져 터져 나가는 퍼즐처럼 아주 독특하겠죠?",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / asks a hypothetical question / to grab attention.",
+                            "korean": "이 문장은 / 가상의 질문을 던집니다 / 흥미를 끌기 위해."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 2,
+                    "original": "Let’s explore Cubism: a wild new way of seeing the world that turned art upside down.",
+                    "chunkReading": "Let’s explore / Cubism: / a wild new way / of seeing the world / that turned / art / upside down.",
+                    "directKorean": "탐험해보자 / 입체파(큐비즘)를: / 거칠고 새로운 방식 / 세상을 보는 / 바꾼 / 미술을 / 거꾸로(뒤집어).",
+                    "naturalKorean": "미술의 세계를 완전히 뒤흔들어 놓은 새로운 세상 보기 방식인 '큐비즘(입체파)'에 대해 알아봅시다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "turn ~ upside down",
+                            "meaning": "~을 거꾸로 뒤집어 놓다, 완전히 바꾸다",
+                            "use": "기존의 체계나 질서를 완전히 뒤집어 대대적인 변화를 일으켰을 때 사용합니다.",
+                            "example": "The news turned his life upside down."
+                        }
+                    ],
+                    "mustKnowGrammar": "that turned art upside down에서 'that'은 선행사 'a wild new way'를 수식하는 주격 관계대명사입니다.",
+                    "vocabularyUsageNote": "wild는 여기에서 '거친, 야생의'라기보다는 기존 규칙에 얽매이지 않고 매우 독창적이거나 파격적인 것을 표현합니다.",
+                    "feynmanExplanation": "미술의 역사를 완전히 바꾸고 뒤집어 놓은 아주 기발하고 새로운 미술 스타일인 '큐비즘'을 함께 공부해 봐요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The phrase 'turned art upside down' / means it revolutionized / the art world.",
+                            "korean": "'turned art upside down'이라는 구절은 / 혁신을 일으켰음을 의미합니다 / 미술계에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 3,
+                    "original": "Cubism is a style of art that shows things in new and surprising ways.",
+                    "chunkReading": "Cubism / is / a style of art / that shows / things / in new and surprising ways.",
+                    "directKorean": "큐비즘은 / 이다 / 미술의 한 스타일 / 보여주는 / 사물들을 / 새롭고 놀라운 방식들로.",
+                    "naturalKorean": "큐비즘은 대상들을 새롭고 놀라운 방식으로 표현하는 미술 양식입니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "a style of art",
+                            "meaning": "미술의 한 양식(스타일)",
+                            "use": "미술의 장르나 특정 경향을 설명할 때 씁니다.",
+                            "example": "Impressionism is a style of art."
+                        },
+                        {
+                            "chunk": "in a new way",
+                            "meaning": "새로운 방식으로",
+                            "use": "동작이나 표현의 수단과 방법을 나타낼 때 전치사 'in'과 함께 씁니다.",
+                            "example": "He solved the puzzle in a new way."
+                        }
+                    ],
+                    "mustKnowGrammar": "that shows things... 에서 'that'은 주격 관계대명사이며 단수 선행사인 'a style of art'에 맞춰 동사 'shows'가 쓰였습니다.",
+                    "vocabularyUsageNote": "surprising은 '놀라운' 뜻으로, 여기서는 기존에 보지 못했던 파격적인 표현법이 주는 시각적 충격을 의미합니다.",
+                    "feynmanExplanation": "큐비즘은 사물을 그냥 보이는 대로 그리지 않고, 아주 새롭고 깜짝 놀랄 만한 방식으로 보여주는 미술이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / defines Cubism / simply for readers.",
+                            "korean": "이 문장은 / 큐비즘을 정의합니다 / 독자를 위해 쉽게."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 4,
+                    "original": "Instead of painting a person, object, or place to look real, Cubist artists used shapes, angles, and flattened forms to show many sides of something all at once.",
+                    "chunkReading": "Instead of / painting / a person, object, or place / to look real, / Cubist artists / used / shapes, angles, and flattened forms / to show / many sides of something / all at once.",
+                    "directKorean": "~대신에 / 그리는 것 / 사람, 물체, 또는 장소를 / 진짜처럼 보이도록, / 입체파 화가들은 / 사용했다 / 도형들, 각도들, 그리고 납작해진 형태들을 / 보여주기 위해 / 무언가의 여러 면을 / 한 번에 모두.",
+                    "naturalKorean": "사람, 물체, 혹은 장소를 사실적으로 그리는 대신, 큐비즘 화가들은 도형, 각도, 납작하게 만든 형태들을 사용하여 어떤 대상의 여러 측면을 한 번에 동시에 보여주었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "Instead of -ing",
+                            "meaning": "~하는 대신에",
+                            "use": "기존의 방식이나 다른 대안을 배제하고 다른 행동을 할 때 씁니다.",
+                            "example": "Instead of buying coffee, he saved money."
+                        },
+                        {
+                            "chunk": "flattened forms",
+                            "meaning": "납작해진 형태, 평면화된 형상",
+                            "use": "3차원의 입체를 2차원의 평면으로 단순화하여 그린 형태를 설명할 때 씁니다.",
+                            "example": "The artist used flattened forms in the background."
+                        }
+                    ],
+                    "mustKnowGrammar": "'Instead of'는 전치사이므로 뒤에 동명사 'painting'이 옵니다. 'to look real'은 목적이나 결과를 나타내는 부사적 용법의 부정사입니다.",
+                    "vocabularyUsageNote": "angles는 물체를 바라보는 각도나 물체 자체의 꺾인 모서리를 뜻합니다. real은 현실과 똑같아 보이는 사실성을 가리킵니다.",
+                    "feynmanExplanation": "사물을 똑같이 그리는 대신에, 세모나 네모 같은 모양, 뾰족한 각도, 그리고 납작한 평면들을 사용해서 한 물체의 앞모습과 뒷모습을 한 번에 그린 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Notice the term 'Instead of', / which shows / the contrast with realistic art.",
+                            "korean": "'Instead of'라는 단어에 주목하세요, / 이것은 보여줍니다 / 사실주의 미술과의 대비를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 5,
+                    "original": "Cubism started in France in the early 1900s.",
+                    "chunkReading": "Cubism / started / in France / in the early 1900s.",
+                    "directKorean": "큐비즘은 / 시작되었다 / 프랑스에서 / 1900년대 초에.",
+                    "naturalKorean": "큐비즘은 1900년대 초 프랑스에서 시작되었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "in the early 1900s",
+                            "meaning": "1900년대 초반에",
+                            "use": "특정 세기나 연대의 초기를 가리킬 때 씁니다.",
+                            "example": "The factory was built in the early 1900s."
+                        }
+                    ],
+                    "mustKnowGrammar": "과거의 특정한 때(in the early 1900s)를 나타내므로 단순 과거시제 동사 'started'를 씁니다.",
+                    "vocabularyUsageNote": "start는 여기서는 예술 사조가 형성되고 본격적으로 출현했음을 나타냅니다.",
+                    "feynmanExplanation": "이 미술 스타일은 100년도 더 전인 1900년대 초반에 프랑스라는 나라에서 처음 시작되었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / gives us / the time and place / of Cubism's origin.",
+                            "korean": "이 문장은 / 우리에게 제공합니다 / 시간과 장소를 / 큐비즘 기원의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 6,
+                    "original": "Two famous artists, Pablo Picasso and Georges Braque, wanted to try something totally new.",
+                    "chunkReading": "Two famous artists, / Pablo Picasso and Georges Braque, / wanted / to try / something totally new.",
+                    "directKorean": "두 명의 유명한 화가들인, / 파블로 피카소와 조르주 브라크는, / 원했다 / 시도하기를 / 완전히 새로운 무언가를.",
+                    "naturalKorean": "파블로 피카소와 조르주 브라크라는 두 명의 유명한 화가는 완전히 새로운 것을 시도하고 싶어 했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "something totally new",
+                            "meaning": "완전히 새로운 것",
+                            "use": "-thing으로 끝나는 대명사는 형용사가 뒤에서 수식하므로 'totally new'가 뒤에 위치합니다.",
+                            "example": "I want to eat something totally new."
+                        }
+                    ],
+                    "mustKnowGrammar": "Picasso와 Braque는 동격(,)으로 연결되어 주어를 이룹니다. 'something'처럼 -thing 대명사는 형용사가 뒤에서 수식합니다.",
+                    "vocabularyUsageNote": "totally는 '완전히, 온전히' 뜻으로 new를 강조합니다. try는 새로운 아이디어를 실험한다는 뉘앙스입니다.",
+                    "feynmanExplanation": "우리가 잘 아는 피카소와 그의 친구 브라크라는 두 화가가 옛날 그림들과는 완전히 다른 새로운 걸 그려보고 싶어 했어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Remember that adjectives / like 'new' / must follow 'something'.",
+                            "korean": "기억하세요 형용사는 / 'new' 같은 / 'something' 뒤에 와야 함을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 7,
+                    "original": "They were inspired by African masks, modern science, and even photography.",
+                    "chunkReading": "They / were inspired / by African masks, / modern science, / and even photography.",
+                    "directKorean": "그들은 / 영감을 받았다 / 아프리카 가면들, / 현대 과학, / 그리고 심지어 사진술에 의해.",
+                    "naturalKorean": "그들은 아프리카 가면, 현대 과학, 그리고 사진술로부터 영감을 받았습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "be inspired by",
+                            "meaning": "~로부터 영감을 받다",
+                            "use": "창작 활동에서 아이디어나 자극을 준 대상을 수동태로 나타낼 때 씁니다.",
+                            "example": "The design was inspired by nature."
+                        }
+                    ],
+                    "mustKnowGrammar": "수동태 'were inspired by'가 쓰여 화가들이 자극을 받은 주체들을 나타내고 있습니다.",
+                    "vocabularyUsageNote": "photography는 1900년대 초 신기술이었던 사진술을 의미합니다. 이미 대상을 똑같이 찍어낼 수 있는 사진이 있었기 때문에 미술은 다른 방향으로 나아갈 영감을 얻었습니다.",
+                    "feynmanExplanation": "그들은 아프리카 부족들의 가면 모양, 당시에 유행하던 과학 이론, 그리고 사진기 기술을 보고 엄청난 힌트와 아이디어를 얻었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "They looked at / different cultural objects / and technologies / for inspiration.",
+                            "korean": "그들은 보았습니다 / 다양한 문화적 오브젝트와 / 기술들을 / 영감을 얻기 위해."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 8,
+                    "original": "Their goal was not to copy what they saw, but to show how they thought about what they saw.",
+                    "chunkReading": "Their goal / was / not to copy / what they saw, / but to show / how they thought / about what they saw.",
+                    "directKorean": "그들의 목표는 / 이었다 / 복사하는 것이 아니라 / 그들이 본 것을, / 보여주는 것 / 어떻게 그들이 생각했는지 / 그들이 본 것에 대해.",
+                    "naturalKorean": "그들의 목표는 눈에 보이는 것을 똑같이 복제하는 것이 아니라, 자신이 본 것에 대해 어떻게 생각하는지를 보여주는 것이었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "not A but B",
+                            "meaning": "A가 아니라 B인",
+                            "use": "두 대상이나 사실을 명확히 대조하여 B를 강조할 때 씁니다.",
+                            "example": "He is not a teacher but a student."
+                        },
+                        {
+                            "chunk": "what they saw",
+                            "meaning": "그들이 본 것",
+                            "use": "관계대명사 'what'은 선행사를 포함하여 '~하는 것'으로 해석됩니다.",
+                            "example": "I did not hear what you said."
+                        }
+                    ],
+                    "mustKnowGrammar": "주격보어로 명사적 용법의 to부정사구 'not to copy... but to show...'가 쓰였으며, 'what'은 선행사를 포함한 관계대명사입니다.",
+                    "vocabularyUsageNote": "copy는 똑같이 베끼다, 묘사하다의 의미입니다. thought는 주관적인 생각이나 개념을 가리킵니다.",
+                    "feynmanExplanation": "눈앞의 풍경을 사진처럼 똑같이 그리는 건 의미가 없다고 생각해서, 자신이 본 물건에 대해 어떤 생각을 갖고 있는지를 그림으로 보여주려 한 것이에요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / explains the core philosophy / of Cubism / using 'not A but B'.",
+                            "korean": "이 문장은 / 핵심 철학을 설명합니다 / 큐비즘의 / 'not A but B'를 사용하여."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 9,
+                    "original": "Their early Cubist work looked more like shattered glass than traditional art, and people did not know what to think at first.",
+                    "chunkReading": "Their early Cubist work / looked / more like shattered glass / than traditional art, / and people / did not know / what to think / at first.",
+                    "directKorean": "그들의 초기 입체파 작품은 / 보였다 / 부서진 유리처럼 더 많이 / 전통 미술보다, / 그리고 사람들은 / 알지 못했다 / 무엇을 생각해야 할지 / 처음에.",
+                    "naturalKorean": "그들의 초기 큐비즘 작품은 전통 미술보다는 깨진 유리창처럼 보였기 때문에, 사람들은 처음에는 이를 어떻게 받아들여야 할지 몰랐습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "more like A than B",
+                            "meaning": "B보다는 오히려 A에 더 가까운",
+                            "use": "두 비교 대상을 두고 어느 쪽에 더 가깝고 어울리는지 표현할 때 씁니다.",
+                            "example": "It looks more like a dog than a cat."
+                        },
+                        {
+                            "chunk": "shattered glass",
+                            "meaning": "산산이 조각난 유리",
+                            "use": "심하게 깨져서 날카로운 조각들로 갈라진 유리의 비유적 형상을 말합니다.",
+                            "example": "The floor was covered with shattered glass."
+                        },
+                        {
+                            "chunk": "what to think",
+                            "meaning": "무엇을 생각해야 할지, 어떻게 받아들여야 할지",
+                            "use": "의문사 + to부정사 구조로 선택이나 판단의 혼란을 드러냅니다.",
+                            "example": "I don't know what to say."
+                        }
+                    ],
+                    "mustKnowGrammar": "의문사구 'what to think'는 동사 'know'의 목적어 역할을 합니다. 'more like A than B' 비교 구문이 작품의 특징을 설명하고 있습니다.",
+                    "vocabularyUsageNote": "shattered는 완전히 조각난 상태를 말합니다. traditional은 과거부터 오랫동안 전해 내려온 정밀하고 고전적인 미술 화풍을 뜻합니다.",
+                    "feynmanExplanation": "초기 피카소 그림들은 얌전하고 웅장한 클래식 그림들과 달리 유리가 와장창 깨진 조각들 같아 보였어요. 그래서 사람들은 '이게 대체 뭘 그린 거지?' 하고 당황했죠.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The comparison / 'more like shattered glass' / highlights the shocking impact / of their art.",
+                            "korean": "그 비교는 / 'more like shattered glass'라는 / 충격적인 파급력을 강조합니다 / 그들의 미술이 준."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 10,
+                    "original": "Cubism came in two main phases.",
+                    "chunkReading": "Cubism / came / in two main phases.",
+                    "directKorean": "큐비즘은 / 왔다 / 두 가지 주요 단계로.",
+                    "naturalKorean": "큐비즘은 크게 두 가지 시기로 나뉘어 전개되었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "come in (phases/shapes)",
+                            "meaning": "(단계, 형태, 크기 등으로) 제공되다, 나뉘다",
+                            "use": "어떤 사물이나 개념이 특정 유형이나 발전 단계를 거칠 때 씁니다.",
+                            "example": "The shoes come in three sizes."
+                        },
+                        {
+                            "chunk": "main phases",
+                            "meaning": "주요 단계, 핵심 시기",
+                            "use": "역사적 흐름이나 과정 중에서 가장 뚜렷한 시기를 지칭합니다.",
+                            "example": "The project has three main phases."
+                        }
+                    ],
+                    "mustKnowGrammar": "전치사 'in'은 상태나 형식을 나타내어 두 개의 큰 시기 속에서 존재했다는 뜻을 전달합니다.",
+                    "vocabularyUsageNote": "phase는 발달이나 변화의 한 단계를 뜻합니다.",
+                    "feynmanExplanation": "입체파는 역사적으로 두 개의 큰 시기로 나뉘어서 발전하게 되었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Now, we will learn / about the two categories / of this art movement.",
+                            "korean": "이제, 우리는 배울 것입니다 / 두 개의 카테고리에 대해 / 이 예술 운동의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 11,
+                    "original": "The first phase was Analytical Cubism, from 1908 to 1912.",
+                    "chunkReading": "The first phase / was / Analytical Cubism, / from 1908 to 1912.",
+                    "directKorean": "첫 번째 단계는 / 이었다 / 분석적 큐비즘, / 1908년부터 1912년까지.",
+                    "naturalKorean": "첫 번째 단계는 1908년부터 1912년까지 지속된 '분석적 큐비즘'이었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "from A to B",
+                            "meaning": "from A to B (A에서 B까지)",
+                            "use": "시간의 범위나 공간의 시작점과 끝점을 명시할 때 씁니다.",
+                            "example": "I work from Monday to Friday."
+                        }
+                    ],
+                    "mustKnowGrammar": "'Analytical Cubism'과 'from 1908 to 1912'는 쉼표로 연결되어 시기를 설명하는 동격에 가깝습니다.",
+                    "vocabularyUsageNote": "analytical은 '분석적인'이라는 뜻으로, 사물을 쪼개고 해체해서 면밀히 뜯어보는 느낌의 예술 태도를 지칭합니다.",
+                    "feynmanExplanation": "첫 번째 시기는 사물을 아주 잘게 쪼개서 분석하듯이 그린 '분석적 입체파' 단계인데, 대략 1908년부터 1912년까지예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The word 'analytical' / comes from / 'analyze' / which means to study carefully.",
+                            "korean": "'analytical'이라는 단어는 / 나옵니다 / 'analyze'에서 / 자세히 공부하다를 의미하는."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 12,
+                    "original": "Art was mostly made of browns, grays, and muted colors.",
+                    "chunkReading": "Art / was mostly made of / browns, grays, / and muted colors.",
+                    "directKorean": "미술은 / 주로 만들어졌다 / 갈색들, 회색들, / 그리고 차분한 색들로.",
+                    "naturalKorean": "이 시기의 작품들은 주로 갈색, 회색, 그리고 차분하고 어두운 톤의 색조들로 이루어졌습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "be made of",
+                            "meaning": "~로 구성되다, 만들어지다",
+                            "use": "물리적 재료나 색상 구성 요소를 서술할 때 씁니다.",
+                            "example": "The chair is made of wood."
+                        },
+                        {
+                            "chunk": "muted colors",
+                            "meaning": "차분한 색, 톤이 다운된 색",
+                            "use": "원색처럼 튀지 않고 회색조가 섞여 어둡거나 차분한 느낌을 주는 색상들을 부를 때 씁니다.",
+                            "example": "She prefers muted colors for her room."
+                        }
+                    ],
+                    "mustKnowGrammar": "수동태 'was made of'에 'mostly'라는 부사가 수동태 동사 사이에 들어가 의미를 한정하고 있습니다.",
+                    "vocabularyUsageNote": "muted는 소리가 작아지거나 빛이 약해진 것처럼 채도가 낮고 부드러운 색상을 뜻합니다.",
+                    "feynmanExplanation": "그림의 색깔이 아주 화려하지 않고, 칙칙한 갈색, 회색 같은 어두운 색들이 중심을 이루었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Muted colors / are not bright. / They are quiet colors.",
+                            "korean": "Muted colors는 / 밝지 않습니다. / 차분한 색상들입니다."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 13,
+                    "original": "Paintings looked like they were broken into tiny shapes and angles.",
+                    "chunkReading": "Paintings / looked like / they were broken into / tiny shapes and angles.",
+                    "directKorean": "그림들은 / ~처럼 보였다 / 그것들이 부서진 것처럼 / 작은 도형들과 각도들로.",
+                    "naturalKorean": "그림들은 마치 잘게 쪼개진 작은 도형과 모서리 조각들로 부서져 있는 것처럼 보였습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "look like + clause",
+                            "meaning": "마치 ~인 것처럼 보이다",
+                            "use": "눈앞에 보이는 모습을 주관적으로 비유하거나 추측할 때 씁니다.",
+                            "example": "It looks like it is going to rain."
+                        },
+                        {
+                            "chunk": "be broken into",
+                            "meaning": "~로 부서지다, 쪼개지다",
+                            "use": "하나의 덩어리가 여러 개의 작은 부분들로 갈라지거나 깨지는 상태를 묘사합니다.",
+                            "example": "The mirror was broken into pieces."
+                        }
+                    ],
+                    "mustKnowGrammar": "'look like' 뒤에 주어+동사가 이끄는 절 'they were broken...'이 오며, 이때 they는 Paintings를 뜻합니다.",
+                    "vocabularyUsageNote": "tiny는 아주 작다는 뜻으로, 쪼개진 모자이크 조각이나 파편 같은 느낌을 줍니다.",
+                    "feynmanExplanation": "그림들을 보면 마치 온전한 병이나 컵이 수많은 세모, 네모 조각으로 산산조각이 나서 흩어진 것처럼 보였어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Here, 'they' / refers back to / the paintings.",
+                            "korean": "여기서, 'they'는 / 가리킵니다 / 그 그림들을."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 14,
+                    "original": "It was like taking something apart to understand it better, kind of like science.",
+                    "chunkReading": "It / was like / taking something apart / to understand it better, / kind of like science.",
+                    "directKorean": "그것은 / ~와 같았다 / 무언가를 분해하는 것 / 그것을 더 잘 이해하기 위해, / 일종의 과학처럼.",
+                    "naturalKorean": "이는 무언가를 더 잘 이해하기 위해 해체하는 것 같았는데, 마치 일종의 과학 실험과 비슷했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "take ~ apart",
+                            "meaning": "~을 해체하다, 분해하다",
+                            "use": "시계나 기계 같은 구조물을 부품별로 뜯어내는 행위를 말하며, 미술적 해체를 비유할 때도 씁니다.",
+                            "example": "He took the watch apart to fix it."
+                        },
+                        {
+                            "chunk": "kind of like",
+                            "meaning": "약간 ~ 같은, 일종의 ~ 같은",
+                            "use": "명확히 똑같지는 않지만 대략적인 느낌이 비슷할 때 캐주얼하게 비유적으로 씁니다.",
+                            "example": "It tastes kind of like an orange."
+                        }
+                    ],
+                    "mustKnowGrammar": "'like' 뒤에 동명사구 'taking something apart'가 왔습니다. 'to understand'는 목적을 나타내는 to부정사의 부사적 용법입니다.",
+                    "vocabularyUsageNote": "apart는 분리되어 흩어진 상태입니다. science는 감정적인 예술이 아닌 이성적이고 체계적인 분석을 비유합니다.",
+                    "feynmanExplanation": "자동차가 어떻게 굴러가는지 보려고 부품을 다 뜯어보는 것처럼, 사물을 더 잘 이해하려고 그림 속에서 쪼개놓은 거라 과학 실험이랑 아주 비슷해요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "The comparison to science / helps students see / the intellectual nature / of Analytical Cubism.",
+                            "korean": "과학과의 비교는 / 학생들이 이해하도록 돕습니다 / 지적인 특징을 / 분석적 큐비즘의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 15,
+                    "original": "The second phase was Synthetic Cubism, from 1912 and after.",
+                    "chunkReading": "The second phase / was / Synthetic Cubism, / from 1912 and after.",
+                    "directKorean": "두 번째 단계는 / 이었다 / 종합적 큐비즘, / 1912년과 그 이후부터.",
+                    "naturalKorean": "두 번째 단계는 1912년 이후 전개된 '종합적 큐비즘'이었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "from ~ and after",
+                            "meaning": "~년과 그 이후부터",
+                            "use": "특정 기점을 기준으로 그 이후의 긴 시기를 지칭할 때 사용합니다.",
+                            "example": "From 1990 and after, internet grew."
+                        }
+                    ],
+                    "mustKnowGrammar": "synthetic이란 형용사가 명사 Cubism을 수식하고 있으며, 뒤의 시간 구가 시기를 규정해 줍니다.",
+                    "vocabularyUsageNote": "synthetic은 '종합적인, 합성의'라는 뜻으로, 잘게 쪼갰던 것들을 다시 뭉치거나 다른 재료들을 섞어서 새로운 무언가를 창조해 내는 화풍을 뜻합니다.",
+                    "feynmanExplanation": "두 번째 시기는 쪼갰던 것들을 다시 모아서 새로운 느낌으로 조립한 '종합적 입체파' 단계로, 1912년부터 시작되었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "In this phase, / artists started putting things / back together.",
+                            "korean": "이 단계에서, / 화가들은 사물을 배치하기 시작했습니다 / 다시 하나로 모아서."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 16,
+                    "original": "Artists started using brighter colors.",
+                    "chunkReading": "Artists / started / using / brighter colors.",
+                    "directKorean": "화가들은 / 시작했다 / 사용하는 것을 / 더 밝은 색들을.",
+                    "naturalKorean": "화가들은 이전보다 더 밝고 화려한 색상을 사용하기 시작했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "brighter colors",
+                            "meaning": "더 밝은 색상들",
+                            "use": "어두침침한 무채색 계열 대신 원색 등 시각적으로 돋보이는 밝은 색들을 비교급으로 나타낼 때 씁니다.",
+                            "example": "Use brighter colors for the sky."
+                        }
+                    ],
+                    "mustKnowGrammar": "동사 'start'는 목적어로 동명사 'using'과 to부정사(to use)를 둘 다 가질 수 있습니다.",
+                    "vocabularyUsageNote": "brighter는 밝기뿐만 아니라 눈에 띄는 화려한 색감의 확장을 내포합니다.",
+                    "feynmanExplanation": "어둡고 칙칙했던 색상판 대신에, 노란색, 빨간색 같은 밝고 예쁜 색들을 다시 쓰기 시작한 거예요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This marks a shift / from the dark tones / of the first phase.",
+                            "korean": "이것은 변화를 의미합니다 / 어두운 톤으로부터 / 첫 번째 단계의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 17,
+                    "original": "They added things like newspaper, fabric, or wallpaper into their art.",
+                    "chunkReading": "They / added / things like / newspaper, fabric, or wallpaper / into their art.",
+                    "directKorean": "그들은 / 추가했다 / 신문, 직물, 또는 벽지 같은 것들을 / 그들의 미술 안으로.",
+                    "naturalKorean": "그들은 신문지, 천 조각, 혹은 벽지 같은 실제 재료들을 자신들의 작품에 붙여 넣었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "add A into B",
+                            "meaning": "A를 B에 섞어 넣다, 추가하다",
+                            "use": "기존 형태에 새로운 요소나 재료를 결합할 때 표현합니다.",
+                            "example": "Add sugar into the mixture."
+                        },
+                        {
+                            "chunk": "things like",
+                            "meaning": "~와 같은 것들",
+                            "use": "여러 구체적인 예시들을 편안하게 열거할 때 씁니다.",
+                            "example": "I like fruits like apples and grapes."
+                        }
+                    ],
+                    "mustKnowGrammar": "동사 'add'와 전치사 'into'가 결합하여 외부 물질이 미술 작품 속에 포함되는 방향성을 보여줍니다.",
+                    "vocabularyUsageNote": "fabric은 천이나 직물이고, wallpaper는 인쇄된 다양한 패턴의 벽지를 말합니다.",
+                    "feynmanExplanation": "그림에 물감만 칠하는 게 아니라 실제 신문 조각, 예쁜 무늬의 천, 혹은 집 벽지 같은 것들을 가위로 오려서 그림 위에 풀로 붙였어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "By adding real objects, / they changed / what art could be made of.",
+                            "korean": "실제 오브젝트들을 더함으로써, / 그들은 바꾸었습니다 / 예술이 무엇으로 만들어질 수 있는지를."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 18,
+                    "original": "This was the beginning of collage in modern art.",
+                    "chunkReading": "This / was / the beginning of / collage / in modern art.",
+                    "directKorean": "이것이 / 이었다 / 시작 / 콜라주의 / 현대 미술에서의.",
+                    "naturalKorean": "이것이 현대 미술에서 여러 가지 재료를 붙여 만드는 '콜라주' 기법의 시작이었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "the beginning of",
+                            "meaning": "~의 시작, 기원",
+                            "use": "어떤 기술이나 역사적 트렌드가 태동했을 때 씁니다.",
+                            "example": "This was the beginning of a new era."
+                        }
+                    ],
+                    "mustKnowGrammar": "지시대명사 'This'는 앞 문장의 '실제 재료들을 그림에 붙이는 행위'를 가리킵니다.",
+                    "vocabularyUsageNote": "collage는 풀로 종이나 천 등을 캔버스에 직접 붙이는 현대 미술 기법입니다. 프랑스어 coller(붙이다)에서 유래했습니다.",
+                    "feynmanExplanation": "이렇게 그림에 물건을 붙이는 방식이 오늘날 학교 미술 시간에 많이 하는 '콜라주' 기법의 진짜 시초가 되었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Collage / is a very common technique / today, / but it started / with Cubism.",
+                            "korean": "콜라주는 / 매우 흔한 기법입니다 / 오늘날, / 하지만 그것은 시작되었습니다 / 큐비즘과 함께."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 19,
+                    "original": "Cubism changed the way people thought about art, vision, and reality.",
+                    "chunkReading": "Cubism / changed / the way / people thought / about art, vision, and reality.",
+                    "directKorean": "큐비즘은 / 바꾸었다 / 방식을 / 사람들이 생각했던 / 미술, 시각, 그리고 현실에 대해.",
+                    "naturalKorean": "큐비즘은 사람들이 미술, 보는 방식(시각), 그리고 현실에 대해 생각하는 방식을 완전히 바꾸어 놓았습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "change the way",
+                            "meaning": "~하는 방식을 바꾸다",
+                            "use": "사람들의 사고방식이나 사회적 행동 패턴에 큰 변화가 생겼을 때 서술합니다.",
+                            "example": "Smartphones changed the way we communicate."
+                        }
+                    ],
+                    "mustKnowGrammar": "the way와 people thought... 사이에는 관계부사 how가 생략되어(또는 that/in which가 생략되어) 수식하고 있습니다.",
+                    "vocabularyUsageNote": "vision은 단순히 보는 능력을 넘어 세상을 시각적으로 인지하는 구조를 뜻합니다. reality는 객관적인 외부 세계의 현실을 가리킵니다.",
+                    "feynmanExplanation": "입체파는 사람들이 미술관에서 그림을 보는 방식뿐만 아니라, 눈으로 무언가를 관찰하고 이해하는 생각 자체를 통째로 바꾸었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This sentence / summarizes / the major impact / of Cubism.",
+                            "korean": "이 문장은 / 요약합니다 / 거대한 영향력을 / 큐비즘의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 20,
+                    "original": "Before Cubism, most art tried to look realistic.",
+                    "chunkReading": "Before Cubism, / most art / tried / to look realistic.",
+                    "directKorean": "큐비즘 이전에, / 대부분의 미술은 / 노력했다 / 사실적으로 보이도록.",
+                    "naturalKorean": "큐비즘이 등장하기 전까지만 해도 대부분의 미술은 대상을 사실적으로 재현하려고 노력했습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "look realistic",
+                            "meaning": "사실적으로 보이다",
+                            "use": "그림 등이 왜곡되지 않고 실물과 똑같아 보일 때 사용합니다.",
+                            "example": "The computer game graphics look realistic."
+                        }
+                    ],
+                    "mustKnowGrammar": "과거 시점인 'Before Cubism'이 명시되어 동사의 과거형 'tried'가 쓰였습니다. 'try to + 동사원형'은 ~하려고 애쓰다라는 뜻입니다.",
+                    "vocabularyUsageNote": "realistic은 현실과 매우 흡사한 사실주의적인 시각 효과를 의미합니다.",
+                    "feynmanExplanation": "입체파가 나오기 전에는 화가들의 가장 큰 목표가 사진처럼 대상을 진짜와 똑같이 그리는 것이었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Art before Cubism / was focused / on imitation / of reality.",
+                            "korean": "큐비즘 이전의 미술은 / 집중되어 있었습니다 / 모방에 / 현실의."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 21,
+                    "original": "But Cubism said: What if there’s more than one way to see something?",
+                    "chunkReading": "But Cubism said: / What if / there’s / more than one way / to see something?",
+                    "directKorean": "하지만 큐비즘은 말했다: / 만약 ~라면 어떨까 / 있다면 / 하나 이상의 방식이 / 무언가를 보는?",
+                    "naturalKorean": "하지만 큐비즘은 다른 질문을 던졌습니다. '만약 사물을 바라보는 방법이 단 하나만 있는 것이 아니라면 어떨까?' 하고 말이죠.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "more than one way",
+                            "meaning": "한 가지 이상의 방법, 여러 가지 길",
+                            "use": "해결책이나 관점이 다양하다는 것을 역설할 때 사용합니다.",
+                            "example": "There is more than one way to solve this."
+                        }
+                    ],
+                    "mustKnowGrammar": "'way' 뒤에 형용사적 용법의 to부정사 'to see something'이 와서 수식하고 있습니다. 'there is'는 ~이 존재하다입니다.",
+                    "vocabularyUsageNote": "said는 큐비즘이라는 예술 사조가 작품을 통해 대중에게 강렬한 메시지나 철학적 의문을 전달했음을 인격화하여 표현한 것입니다.",
+                    "feynmanExplanation": "입체파는 '어떤 대상을 보는 방법이 왜 꼭 한 가지만이어야 해? 다른 방향에서 보면 전혀 다르게 보일 텐데!' 하는 아주 새로운 생각을 대중에게 던져주었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "This question / challenged / the traditional definition of art.",
+                            "korean": "이 질문은 / 도전했습니다 / 전통적인 예술의 정의에."
+                        }
+                    ]
+                },
+                {
+                    "sentenceNumber": 22,
+                    "original": "It inspired many other modern art movements, including Futurism, Abstract Art, and Pop Art.",
+                    "chunkReading": "It / inspired / many other modern art movements, / including / Futurism, Abstract Art, and Pop Art.",
+                    "directKorean": "그것은 / 영감을 주었다 / 많은 다른 현대 미술 운동들에, / 포함하여 / 미래주의, 추상 미술, 그리고 팝 아트를.",
+                    "naturalKorean": "그리고 이는 미래주의, 추상 미술, 팝 아트를 포함하여 이후 등장한 수많은 다른 현대 미술 운동에 깊은 영감을 불어넣었습니다.",
+                    "mustKnowChunks": [
+                        {
+                            "chunk": "modern art movements",
+                            "meaning": "현대 미술 운동(사조)들",
+                            "use": "역사적으로 전개된 여러 현대 미술 유파들의 흐름을 가리킵니다.",
+                            "example": "He studied various modern art movements."
+                        },
+                        {
+                            "chunk": "including ~",
+                            "meaning": "~을 포함하여",
+                            "use": "여러 하위 범주나 구체적 예시를 덧붙일 때 유용하게 쓰는 분사 전치사입니다.",
+                            "example": "Everyone attended, including the manager."
+                        }
+                    ],
+                    "mustKnowGrammar": "전치사 역할을 하는 현재분사 'including'이 이끄는 구가 'movements'를 구체적으로 열거하여 설명해 줍니다.",
+                    "vocabularyUsageNote": "Futurism(미래주의), Abstract Art(추상 미술), Pop Art(팝 아트)는 모두 큐비즘의 파격적인 공간 해석에 영향을 받은 역사적인 미술 유파들입니다.",
+                    "feynmanExplanation": "입체파 덕분에 화가들이 대상을 자유롭게 그리게 되었고, 이게 힌트가 되어서 나중에 미래주의나 형체 없는 추상화, 그리고 팝 아트 같은 수많은 현대 미술들이 태어날 수 있었어요.",
+                    "teachingTranscript": [
+                        {
+                            "english": "Cubism paved the way / for all these / famous modern styles.",
+                            "korean": "큐비즘은 길을 닦아주었습니다 / 이 모든 / 유명한 현대 양식들을 위한."
+                        }
+                    ]
+                }
+            ],
+            "finalWritingSupport": {
+                "sentenceFrames": [
+                    "Cubism is an art style that ________.",
+                    "Instead of ________, Cubist artists ________.",
+                    "One important feature of Cubism is ________.",
+                    "In Analytical Cubism, artists ________.",
+                    "In Synthetic Cubism, artists ________.",
+                    "Cubism changed the way people thought about ________.",
+                    "Overall, Cubism showed that ________."
+                ],
+                "usefulConnectors": [
+                    "Instead of (대신에)",
+                    "Not to... but to... (~하기 위해서가 아니라, ~하기 위해서)",
+                    "More like... than... (~보다 오히려 ~ 같은)",
+                    "However (하지만)",
+                    "Changed the way (~하는 방식을 바꾸었다)"
+                ],
+                "usefulVocabulary": [
+                    "realistic (사실적인)",
+                    "shapes and angles (도형과 각도)",
+                    "flattened forms (납작해진 형태)",
+                    "Analytical Cubism (분석적 입체파)",
+                    "Synthetic Cubism (종합적 입체파)",
+                    "collage (콜라주)",
+                    "perspective (관점/원근법)"
+                ],
+                "paragraphOutline": [
+                    "Sentence 1 (Topic Sentence): State how Cubism changed the way people see art by moving away from realism.",
+                    "Sentence 2-3 (Describe Cubist techniques): Mention shapes, angles, and flattened forms used to show multiple sides at once.",
+                    "Sentence 4-5 (Describe the two phases): Explain the Analytical phase (muted colors, breaking down) and the Synthetic phase (brighter colors, collage materials).",
+                    "Sentence 6 (Core goal): Explain that the goal was not to copy reality, but to show how artists thought about it.",
+                    "Sentence 7 (Concluding Sentence): Summarize the impact of Cubism on modern art and our perception of reality."
+                ],
+                "commonMistakes": [
+                    {
+                        "mistake": "Using unverified statements: *Picasso died in France during Analytical Cubism.*",
+                        "correction": "Only use facts from the text: *Analytical Cubism lasted from 1908 to 1912.*"
+                    },
+                    {
+                        "mistake": "Incorrect pattern with 'Instead of': *Instead of paint realistic...*",
+                        "correction": "Use a gerund after 'Instead of': *Instead of painting realistic...*"
+                    }
+                ],
+                "teacherCorrectionFocus": [
+                    "Confirm the paragraph is within the 100-140 words range.",
+                    "Check if the student explains both the Analytical or Synthetic phase.",
+                    "Ensure they use explanation/contrast transitions: instead of, not to... but to..., however, changed the way.",
+                    "Ensure all information is directly drawn from the article without outside unverified claims."
+                ]
+            }
+        }
+    }
+}
