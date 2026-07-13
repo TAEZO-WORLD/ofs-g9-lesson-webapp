@@ -1,4 +1,4 @@
-export default function TeacherPanel({ teacher }) {
+export default function TeacherPanel({ teacher, lessonData }) {
   const { answerKey, modelAnswer, rubric, teacherNotes, teachingScript } = teacher;
 
   return (
@@ -30,6 +30,62 @@ export default function TeacherPanel({ teacher }) {
               </div>
             </div>
           )}
+        </div>
+      </div>
+
+      <div className="teacher-panel" style={{ borderLeft: '5px solid var(--color-sage)' }}>
+        <h3 className="teacher-panel__title">Writing Check & Student Model Answers</h3>
+        <div className="teacher-panel__content">
+          <p style={{ fontStyle: 'italic', color: 'var(--color-muted)', marginBottom: '1.25rem' }}>
+            ℹ️ Students receive a rule-based writing check and can compare their answers with model answers. This is not AI feedback.
+          </p>
+
+          <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+            Evidence from the Text Model Answers
+          </h4>
+          <ul style={{ paddingLeft: '1.25rem', marginBottom: '1.25rem' }}>
+            {lessonData?.evidenceFromText?.prompts?.map((prompt, idx) => (
+              <li key={prompt.id} style={{ marginBottom: '0.5rem' }}>
+                <strong>Prompt {idx + 1}:</strong> {prompt.statement}
+                <div style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', marginTop: '0.2rem', paddingLeft: '0.5rem', borderLeft: '2px solid var(--color-border)' }}>
+                  "{prompt.modelAnswer || teacher.answerKey?.evidenceFromText?.[prompt.id]}"
+                </div>
+              </li>
+            ))}
+          </ul>
+
+          {(lessonData?.writingPractice || lessonData?.speakingPractice) && (
+            <>
+              <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+                Writing Practice Model Answers
+              </h4>
+              <ul style={{ paddingLeft: '1.25rem', marginBottom: '1.25rem' }}>
+                {(lessonData.writingPractice || lessonData.speakingPractice).prompts.map((prompt, idx) => {
+                  const questionText = typeof prompt === 'string' ? prompt : prompt.question;
+                  const promptId = typeof prompt === 'string' ? `wp${idx + 1}` : (prompt.id || `wp${idx + 1}`);
+                  const modelAns = typeof prompt === 'string' ? '' : prompt.modelAnswer;
+
+                  return (
+                    <li key={promptId} style={{ marginBottom: '0.5rem' }}>
+                      <strong>Question {idx + 1}:</strong> {questionText}
+                      {modelAns && (
+                        <div style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', marginTop: '0.2rem', paddingLeft: '0.5rem', borderLeft: '2px solid var(--color-border)' }}>
+                          "{modelAns}"
+                        </div>
+                      )}
+                    </li>
+                  );
+                })}
+              </ul>
+            </>
+          )}
+
+          <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+            Writing Task Model Answer
+          </h4>
+          <div style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', paddingLeft: '0.5rem', borderLeft: '2px solid var(--color-border)' }}>
+            "{teacher.modelAnswer || lessonData?.writingTask?.modelAnswer}"
+          </div>
         </div>
       </div>
 

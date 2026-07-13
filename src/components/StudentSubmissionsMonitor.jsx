@@ -606,9 +606,20 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                                   <p style={{ margin: '0 0 4px', whiteSpace: 'pre-wrap' }}>
                                     <strong>Student Answer:</strong> {studentAns || <em style={{ color: 'var(--color-muted)' }}>None</em>}
                                   </p>
-                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
+                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)', flexWrap: 'wrap' }}>
                                     Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                                    {payload.modelAnswersViewed?.[p.id] && (
+                                      <span style={{ fontSize: '0.75rem', backgroundColor: '#e8f0eb', color: '#5b8a72', padding: '0.1rem 0.4rem', borderRadius: '4px', marginLeft: '6px' }}>
+                                        ✓ Model Answer Revealed
+                                      </span>
+                                    )}
                                   </div>
+                                  {payload.ruleBasedCheckResults?.[p.id] && (
+                                    <div style={{ fontSize: '0.8rem', color: 'var(--color-navy)', backgroundColor: '#fafaf9', padding: '6px 8px', borderRadius: '4px', border: '1px solid var(--color-border)', marginTop: '4px' }}>
+                                      <strong>Rule-based Check:</strong>{' '}
+                                      {payload.ruleBasedCheckResults[p.id].map((c) => (c.status === 'good' ? '✓' : c.status === 'try-this' ? '△' : '✗') + ' ' + c.text).join(' | ')}
+                                    </div>
+                                  )}
                                   {suggestedAns && (
                                     <p style={{ margin: '4px 0 0', color: 'var(--color-muted)' }}>
                                       <strong>Suggested Answer:</strong> {suggestedAns}
@@ -641,9 +652,20 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                                   <p style={{ margin: '0 0 4px', whiteSpace: 'pre-wrap' }}>
                                     <strong>Student Answer:</strong> {studentAns || <em style={{ color: 'var(--color-muted)' }}>None</em>}
                                   </p>
-                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
+                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '4px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)', flexWrap: 'wrap' }}>
                                     Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                                    {payload.modelAnswersViewed?.[promptId] && (
+                                      <span style={{ fontSize: '0.75rem', backgroundColor: '#e8f0eb', color: '#5b8a72', padding: '0.1rem 0.4rem', borderRadius: '4px', marginLeft: '6px' }}>
+                                        ✓ Model Answer Revealed
+                                      </span>
+                                    )}
                                   </div>
+                                  {payload.ruleBasedCheckResults?.[promptId] && (
+                                    <div style={{ fontSize: '0.8rem', color: 'var(--color-navy)', backgroundColor: '#fafaf9', padding: '6px 8px', borderRadius: '4px', border: '1px solid var(--color-border)', marginTop: '4px' }}>
+                                      <strong>Rule-based Check:</strong>{' '}
+                                      {payload.ruleBasedCheckResults[promptId].map((c) => (c.status === 'good' ? '✓' : c.status === 'try-this' ? '△' : '✗') + ' ' + c.text).join(' | ')}
+                                    </div>
+                                  )}
                                 </div>
                               );
                             })}
@@ -670,9 +692,26 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                               Word Count: {payload.finalWritingTaskWordCount || (payload.finalWritingTaskAnswer || payload.writingAnswer || '').trim().split(/\s+/).filter(Boolean).length} words
                             </p>
                             
-                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '8px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)' }}>
-                              Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
-                            </div>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', margin: '8px 0', fontSize: '0.85rem', fontWeight: 600, color: 'var(--color-muted)', flexWrap: 'wrap' }}>
+                               Status: <span style={{ color: '#c9a227' }}>Teacher review needed</span>
+                               {payload.modelAnswersViewed?.['writingTask'] && (
+                                 <span style={{ fontSize: '0.75rem', backgroundColor: '#e8f0eb', color: '#5b8a72', padding: '0.1rem 0.4rem', borderRadius: '4px', marginLeft: '6px' }}>
+                                   ✓ Model Answer Revealed
+                                 </span>
+                               )}
+                             </div>
+                             {payload.ruleBasedCheckResults?.['writingTask'] && (
+                               <div style={{ fontSize: '0.8rem', color: 'var(--color-navy)', backgroundColor: '#fafaf9', padding: '8px 10px', borderRadius: '6px', border: '1px solid var(--color-border)', marginTop: '6px' }}>
+                                 <strong>Rule-based Check:</strong>
+                                 <ul style={{ margin: '4px 0 0', paddingLeft: '1.25rem', listStyle: 'none' }}>
+                                   {payload.ruleBasedCheckResults['writingTask'].map((c, idx) => (
+                                     <li key={idx} style={{ marginBottom: '2px' }}>
+                                       {(c.status === 'good' ? '✓' : c.status === 'try-this' ? '△' : '✗') + ' ' + c.text}
+                                     </li>
+                                   ))}
+                                 </ul>
+                               </div>
+                             )}
 
                             {/* Model Answer comparison */}
                             {lessonData.teacher?.modelAnswer && (

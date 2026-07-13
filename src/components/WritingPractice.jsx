@@ -1,10 +1,13 @@
 import SectionCard from './SectionCard';
+import WrittenResponseWithCheck from './WrittenResponseWithCheck';
 
 export default function WritingPractice({
   data,
   answers = {},
   onAnswerChange,
   disabled,
+  onWritingCheck,
+  vocabularyList = []
 }) {
   if (!data) return null;
 
@@ -21,6 +24,11 @@ export default function WritingPractice({
       id: p.id || `wp${index + 1}`,
       question: p.question,
       placeholder: p.placeholder || 'Write 2–4 sentences here...',
+      modelAnswer: p.modelAnswer,
+      compareTip: p.compareTip,
+      targetWords: p.targetWords,
+      targetVocabulary: p.targetVocabulary,
+      targetConnectors: p.targetConnectors
     };
   });
 
@@ -34,25 +42,30 @@ export default function WritingPractice({
     <SectionCard icon="📝" title={title} instructions={instructions}>
       {normalizedPrompts.map((prompt, index) => {
         const value = answers[prompt.id] ?? '';
-        const wordCount = value.trim().split(/\s+/).filter(Boolean).length;
 
         return (
           <div key={prompt.id} className="question-block">
             <p className="question-block__label">
               {index + 1}. {prompt.question}
             </p>
-            <textarea
-              className="text-area"
-              rows={3}
-              placeholder={prompt.placeholder}
+            <WrittenResponseWithCheck
+              id={prompt.id}
               value={value}
-              onChange={(e) => onAnswerChange?.(prompt.id, e.target.value)}
+              onChange={(val) => onAnswerChange?.(prompt.id, val)}
               disabled={disabled}
-              aria-label={`Writing Practice Response ${index + 1}`}
+              placeholder={prompt.placeholder}
+              rows={3}
+              modelAnswer={prompt.modelAnswer}
+              compareTip={prompt.compareTip || "Check whether your answer is a complete sentence and gives a clear reason or example."}
+              checkType="short"
+              checkSettings={{
+                targetWords: prompt.targetWords || 8,
+                targetVocabulary: prompt.targetVocabulary || vocabularyList,
+                targetConnectors: prompt.targetConnectors
+              }}
+              onCheck={onWritingCheck}
+              showWordCount={true}
             />
-            <p className="word-count">
-              {wordCount} {wordCount === 1 ? 'word' : 'words'}
-            </p>
           </div>
         );
       })}

@@ -34,6 +34,9 @@ export default function StudentLesson({
   feedbackLoading,
   submissionMessage,
   onSubmit,
+  ruleBasedCheckResults,
+  modelAnswersViewed,
+  onWritingCheck,
 }) {
   return (
     <div className="lesson-main">
@@ -68,6 +71,8 @@ export default function StudentLesson({
         disabled={submitted}
         submitted={submitted}
         suggestedAnswers={lessonData.teacher.answerKey.evidenceFromText}
+        onWritingCheck={onWritingCheck}
+        articleText={lessonData.article?.paragraphs?.join('\n') || ''}
       />
       <LanguageFocus data={lessonData.languageFocus} />
       <WritingPractice
@@ -75,15 +80,19 @@ export default function StudentLesson({
         answers={writingPracticeAnswers}
         onAnswerChange={onWritingPracticeChange}
         disabled={submitted}
+        onWritingCheck={onWritingCheck}
+        vocabularyList={lessonData.vocabularyInContext?.items?.map(i => i.word) || []}
       />
       <WritingTask
         data={lessonData.writingTask}
-        modelAnswer={submitted ? lessonData.teacher.modelAnswer : null}
+        modelAnswer={lessonData.teacher.modelAnswer || ''}
         writingAnswer={writingAnswer}
         onWritingChange={onWritingChange}
         submitted={submitted}
         feedback={writingFeedback}
         loading={feedbackLoading}
+        onWritingCheck={onWritingCheck}
+        vocabularyList={lessonData.vocabularyInContext?.items?.map(i => i.word) || []}
       />
       <SelfCheck
         data={lessonData.selfCheck}

@@ -107,11 +107,17 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "Minimalism is not the same for every person."
+                "statement": "Minimalism is not the same for every person.",
+                "modelAnswer": "However, minimalism does not look the same for everyone.",
+                "compareTip": "Check if you quoted the sentence from the article that explicitly says minimalism does not look the same for everyone.",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Some people change their habits because they feel stressed by clutter."
+                "statement": "Some people change their habits because they feel stressed by clutter.",
+                "modelAnswer": "Many minimalists say they started this change because they felt overwhelmed.",
+                "compareTip": "Did you quote the sentence stating that minimalists started this change because they felt overwhelmed?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -136,17 +142,23 @@
             {
                 "id": "wp1",
                 "question": "Would you like to try minimalism? Why or why not?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Yes, I would like to try minimalism because it helps reduce clutter and allows me to focus on things that really matter, such as my hobbies and studies.",
+                "compareTip": "Does your answer give a clear personal preference and explain why with a reason?"
             },
             {
                 "id": "wp2",
                 "question": "What is one possession you could live without? Explain your choice.",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "I could live without my gaming console because I spend too much time playing games on it, and I could use that time for reading or playing outdoor sports.",
+                "compareTip": "Did you name a specific item and explain how your life might improve or change without it?"
             },
             {
                 "id": "wp3",
                 "question": "How can schools encourage sustainable habits without judging students?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Schools can encourage sustainable habits by setting up recycling bins and hosting workshops, rather than monitoring what students bring to class.",
+                "compareTip": "Did you propose a positive, non-judgmental action schools can take to encourage sustainability?"
             }
         ]
     },
@@ -171,7 +183,8 @@
             "At least two supporting reasons",
             "One cause-and-effect connector (because, as a result, therefore)",
             "Concluding sentence"
-        ]
+        ],
+        "modelAnswer": "I believe minimalism can be a good idea for teenagers because it teaches us to value experiences over possessions. Many students feel stressed when their rooms are cluttered, so owning fewer items can help them focus on school and hobbies. As a result, they may also waste less money on things they do not need. However, minimalism should be a choice, not a rule, because not everyone has the same resources. Overall, thoughtful minimalism can help teenagers live more intentionally."
     },
     "selfCheck": {
         "title": "Self-check",

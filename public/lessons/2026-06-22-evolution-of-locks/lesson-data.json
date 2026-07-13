@@ -140,11 +140,17 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "Ancient locks were similar to modern locks."
+                "statement": "Ancient locks were similar to modern locks.",
+                "modelAnswer": "They used a big wooden key to lift pins inside the lock, a system similar to modern locks.",
+                "compareTip": "Did you quote the sentence comparing the ancient wooden lock system to modern locks?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Locks became more convenient over time."
+                "statement": "Locks became more convenient over time.",
+                "modelAnswer": "Phones, apps, and even your face can now open a lock, all without touching a key.",
+                "compareTip": "Did you quote the sentence about using phones, apps, and faces to open doors without keys?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -172,22 +178,30 @@
             {
                 "id": "wp1",
                 "question": "Which type of lock do you think is the safest? Why?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "I think smart locks using face scans or fingerprints are the safest because every person has unique biometric data, making it very difficult for someone else to duplicate or bypass the lock.",
+                "compareTip": "Did your answer name a specific lock and explain why it provides the highest security?"
             },
             {
                 "id": "wp2",
                 "question": "Which type of lock is the most convenient?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Smart locks are the most convenient because they allow users to open doors using their phones or face scans, meaning they do not have to carry metal keys around.",
+                "compareTip": "Did you name a keyless lock and explain how it makes entering a building easier?"
             },
             {
                 "id": "wp3",
                 "question": "Do you think face scan locks are a good idea? Why or why not?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Yes, I think they are a good idea because they provide high security and quick access. However, some people might worry about their biometric data being hacked.",
+                "compareTip": "Did you state a clear opinion and back it up with at least one benefit or concern?"
             },
             {
                 "id": "wp4",
                 "question": "Is convenience always more important than security?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "No, convenience is not always more important than security. For important things like securing our homes or bank accounts, safety must be prioritized over quick access.",
+                "compareTip": "Did you compare convenience and security and explain why safety must be prioritized?"
             }
         ]
     },
@@ -213,7 +227,8 @@
             "Use at least two timeline details from the article.",
             "Use at least one chronological transition, such as 'long ago,' 'later,' 'by the 2000s,' or 'today.'",
             "End with a clear concluding sentence."
-        ]
+        ],
+        "modelAnswer": "Locks have changed greatly over time because people have always needed better security. Over 4,000 years ago, ancient locks were made of wood and used wooden keys to lift pins. Later, in 1861, Linus Yale Jr. patented the cylinder lock, a design still used today. By the 2000s, fingerprint and keypad locks made it possible to open doors without a key. Today, smart locks can use phones, apps, and even face scans. This shows that technology makes security more convenient and more advanced."
     },
     "selfCheck": {
         "title": "Self-check",

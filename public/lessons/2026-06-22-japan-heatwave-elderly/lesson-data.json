@@ -141,15 +141,24 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "The heatwave in Japan was extremely serious."
+                "statement": "The heatwave in Japan was extremely serious.",
+                "modelAnswer": "Record-breaking temperatures this summer reaching up to 41.8 degrees Celsius.",
+                "compareTip": "Did you quote the sentence about record-breaking temperatures reaching 41.8 degrees Celsius?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Elderly people are especially vulnerable during heatwaves."
+                "statement": "Elderly people are especially vulnerable during heatwaves.",
+                "modelAnswer": "Many seniors live alone and face serious risks of heatstroke.",
+                "compareTip": "Did you quote the sentence showing that many seniors live alone and face risks of heatstroke?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev3",
-                "statement": "Air conditioning was available in many homes, but people did not always use it."
+                "statement": "Air conditioning was available in many homes, but people did not always use it.",
+                "modelAnswer": "More than 70% of serious heatstroke cases happened in homes that had air conditioning, but it wasn’t turned on.",
+                "compareTip": "Did you quote the sentence about 70% of heatstroke cases occurring in homes where air conditioning was not turned on?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -176,17 +185,23 @@
             {
                 "id": "wp1",
                 "question": "Why are elderly people more vulnerable during extreme heat?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Elderly people are more vulnerable during extreme heat because many of them live alone, which makes it harder to call for help. Additionally, their bodies are less able to regulate temperature, and they may hesitate to turn on air conditioning due to high costs.",
+                "compareTip": "Does your answer mention living alone, high cost concerns, or bodily vulnerability to heat?"
             },
             {
                 "id": "wp2",
                 "question": "Do you think governments should provide cooling spaces during heatwaves? Why or why not?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Yes, I think governments should provide public cooling spaces because they give vulnerable citizens a safe, free, and air-conditioned place to stay. This can prevent heatstroke and save lives during extreme heatwaves.",
+                "compareTip": "Did you state a clear opinion on public cooling spaces and explain the benefit for vulnerable seniors?"
             },
             {
                 "id": "wp3",
                 "question": "What could families, schools, or communities do to protect elderly people during very hot weather?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Communities can organize volunteers to check on elderly neighbors daily and make sure they are hydrated and using their air conditioning. Families can also help by phone calls or installing smart temperature alarms in their relatives' homes.",
+                "compareTip": "Did you propose a specific community or family-led action to protect seniors?"
             }
         ]
     },
@@ -219,7 +234,8 @@
             "Use problem-solution or cause-effect language such as due to, because, to help, as a result, or therefore.",
             "End with a clear concluding sentence."
         ],
-        "studentWritingBox": true
+        "studentWritingBox": true,
+        "modelAnswer": "Japan’s elderly people are facing a serious heatwave crisis because temperatures have reached dangerous levels and many seniors live alone. According to the article, temperatures rose to 41.8 degrees Celsius, and around 90,000 people needed hospital treatment for heat-related illnesses. Many elderly people also hesitate to use air conditioning due to high costs or the belief that it is wasteful. To help, the government should create more cooling spots in public areas and provide financial aid for air conditioners. Families and neighbors should also check on elderly people during extreme heat. Overall, protecting seniors during heatwaves is important because climate change and aging populations can make this problem worse in the future."
     },
     "selfCheck": {
         "title": "Self-check",

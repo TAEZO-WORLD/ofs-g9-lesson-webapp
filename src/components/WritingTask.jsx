@@ -1,4 +1,5 @@
 import SectionCard from './SectionCard';
+import WrittenResponseWithCheck from './WrittenResponseWithCheck';
 
 export default function WritingTask({
   data,
@@ -8,8 +9,9 @@ export default function WritingTask({
   submitted,
   feedback,
   loading,
+  onWritingCheck,
+  vocabularyList = []
 }) {
-  const wordCount = writingAnswer.trim().split(/\s+/).filter(Boolean).length;
   const { min, max } = data.wordTarget ?? {};
 
   return (
@@ -22,20 +24,30 @@ export default function WritingTask({
           ))}
         </ul>
       )}
-      <textarea
-        className="text-area"
-        rows={8}
-        placeholder="Type your opinion paragraph here…"
+      
+      <WrittenResponseWithCheck
+        id="writingTask"
         value={writingAnswer}
-        onChange={(e) => onWritingChange(e.target.value)}
+        onChange={onWritingChange}
         disabled={submitted}
-        aria-label="Writing task response"
+        placeholder="Type your opinion paragraph here…"
+        rows={8}
+        modelAnswer={modelAnswer || data.modelAnswer}
+        compareTip={data.compareGuide}
+        revisionTips={data.revisionTips || [
+          "Check your spelling and punctuation.",
+          "Read your paragraph aloud to see if it flows smoothly.",
+          "Ensure you have both reasons and at least one concern/risk if requested."
+        ]}
+        checkType="paragraph"
+        checkSettings={{
+          targetWordRange: data.wordTarget || { min: 80, max: 120 },
+          targetVocabulary: data.targetVocabulary || vocabularyList,
+          targetConnectors: data.targetConnectors
+        }}
+        onCheck={onWritingCheck}
+        showWordCount={true}
       />
-      {min && max && (
-        <p className="word-count">
-          {wordCount} words · target {min}–{max}
-        </p>
-      )}
 
       {submitted && feedback && (
         <div className="feedback-panel" role="status">
@@ -61,7 +73,7 @@ export default function WritingTask({
       )}
 
       {submitted && modelAnswer && (
-        <div className="model-answer-reveal">
+        <div className="model-answer-reveal" style={{ marginTop: '1rem' }}>
           <p className="model-answer-reveal__label">Model answer</p>
           <p>{modelAnswer}</p>
         </div>

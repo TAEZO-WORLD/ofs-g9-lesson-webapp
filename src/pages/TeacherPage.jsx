@@ -24,7 +24,7 @@ export default function TeacherPage() {
               ofsUnit={lessonData.ofsUnit}
               lessonGoal={lessonData.lessonGoal}
             />
-            <TeacherPanel teacher={lessonData.teacher} />
+            <TeacherPanel teacher={lessonData.teacher} lessonData={lessonData} />
             <StudentSubmissionsMonitor lessonSlug={lessonSlug} lessonData={lessonData} />
           </>
         )}

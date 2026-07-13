@@ -162,19 +162,31 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "Find one sentence that shows the wildfires affected many people."
+                "statement": "Find one sentence that shows the wildfires affected many people.",
+                "modelAnswer": "This summer, Spain has been battling fierce wildfires that have burned over 20,000 hectares (49,000 acres) of land, forcing thousands of people to evacuate their homes.",
+                "compareTip": "Did you quote the sentence about the wildfires burning over 20,000 hectares and forcing thousands of evacuations?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Find one sentence that shows honey farmers were affected."
+                "statement": "Find one sentence that shows honey farmers were affected.",
+                "modelAnswer": "José Antonio Bruña, a honey producer from a small village in north-west Spain, described August as a “nightmare” after lightning sparked a fire near his beehives. He fears losing at least 50% of his honey production due to damaged flowers, which bees rely on for food.",
+                "compareTip": "Did you quote the sentence about honey producer José Antonio Bruña and his 50% honey production loss?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev3",
-                "statement": "Find one sentence that shows livestock farmers were affected."
+                "statement": "Find one sentence that shows livestock farmers were affected.",
+                "modelAnswer": "The wildfires have hurt not just honey farmers but livestock farmers too. Fernando García, a cow farmer, lost around 30 cattle, with serious losses affecting his income.",
+                "compareTip": "Did you quote the sentence about cow farmer Fernando García losing around 30 cattle?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev4",
-                "statement": "Find one sentence that shows tourism businesses were affected."
+                "statement": "Find one sentence that shows tourism businesses were affected.",
+                "modelAnswer": "Many local restaurants and hotels saw huge drops in visitors and income, highlighting the widespread impact of the wildfires across rural Spain.",
+                "compareTip": "Did you quote the sentence about local restaurants and hotels seeing huge drops in visitors and income?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -201,22 +213,30 @@
             {
                 "id": "wp1",
                 "question": "How did the wildfires affect honey farmers?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "The wildfires affected honey farmers by burning the flowers that bees rely on for food. As a result, honey producers like José Antonio Bruña feared losing at least half of their honey production.",
+                "compareTip": "Did you explain the connection between damaged flowers, bees' food source, and honey production loss?"
             },
             {
                 "id": "wp2",
                 "question": "How did the wildfires affect livestock farmers?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Livestock farmers suffered severe losses because the wildfires killed their animals. For instance, cow farmer Fernando García lost around 30 cattle, which seriously affected his income.",
+                "compareTip": "Did you mention specific details like cow loss and the resulting impact on farmer income?"
             },
             {
                 "id": "wp3",
                 "question": "Why did tourism businesses suffer after the wildfires?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Tourism businesses suffered because the wildfires kept visitors away from scenic areas like Sanabria Lake. Consequently, restaurants and hotels saw massive drops in customers and revenue.",
+                "compareTip": "Did you explain that drops in visitors led to decreased income for local hotels and restaurants?"
             },
             {
                 "id": "wp4",
                 "question": "Which group do you think was affected the most: farmers, tourists, or local businesses? Explain your answer.",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "I think farmers were affected the most because they lost their primary means of livelihood, such as cattle and honey beehives. While local businesses lost temporary tourism income, farmers lost their long-term assets and investments.",
+                "compareTip": "Did you select one of the three groups and support your choice with a logical comparison or reason?"
             }
         ]
     },
@@ -234,7 +254,8 @@
             "Use cause-and-effect language such as due to, because, as a result, affecting, or highlighting.",
             "End with a clear concluding sentence."
         ],
-        "studentWritingBox": true
+        "studentWritingBox": true,
+        "modelAnswer": "Spain’s summer wildfires seriously affected rural communities by damaging land, farms, and tourism businesses. The fires burned over 20,000 hectares of land and forced thousands of people to evacuate their homes. Farmers were hit especially hard. José Antonio Bruña, a honey producer, feared losing at least 50% of his honey production because damaged flowers left bees with less food. Livestock farmers also suffered. Fernando García lost around 30 cattle, which caused serious losses to his income. The disaster also hurt tourism because restaurants and hotels near places like Sanabria Lake saw fewer visitors. As a result, the wildfires affected not just the environment but also people’s jobs and local economies. Overall, the article shows how one natural disaster can create widespread problems across rural Spain."
     },
     "selfCheck": {
         "title": "Self-check",

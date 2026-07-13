@@ -163,19 +163,31 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "Find one sentence that shows Saudi Arabia and Pakistan have had a close relationship for a long time."
+                "statement": "Find one sentence that shows Saudi Arabia and Pakistan have had a close relationship for a long time.",
+                "modelAnswer": "Saudi Arabia and Pakistan have been friendly for a long time.",
+                "compareTip": "Did you quote the sentence about Saudi Arabia and Pakistan being friendly for a long time?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Find one sentence that explains what the defense agreement means."
+                "statement": "Find one sentence that explains what the defense agreement means.",
+                "modelAnswer": "That means if one country is attacked, the other one will help defend it, just like they were being attacked too.",
+                "compareTip": "Did you quote the sentence explaining what happens if one country is attacked under the agreement?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev3",
-                "statement": "Find one sentence that shows why India is concerned."
+                "statement": "Find one sentence that shows why India is concerned.",
+                "modelAnswer": "If Pakistan and Saudi Arabia get even closer, especially in terms of military power, India worries that it could change the balance in the region.",
+                "compareTip": "Did you quote the sentence showing India's concerns about regional power balance?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev4",
-                "statement": "Find one sentence that shows other countries are also paying attention."
+                "statement": "Find one sentence that shows other countries are also paying attention.",
+                "modelAnswer": "Other countries, like Iran and the United States, are also watching to see what this means for peace, safety, and power in the Middle East.",
+                "compareTip": "Did you quote the sentence listing other countries like Iran and the US watching the situation?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -202,22 +214,30 @@
             {
                 "id": "wp1",
                 "question": "Why might Saudi Arabia and Pakistan want a defense agreement?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Saudi Arabia and Pakistan might want a defense agreement to improve their security and deter potential adversaries. By agreeing to defend each other, they strengthen their military positions and guarantee support in case of conflict.",
+                "compareTip": "Did you explain the security benefit for the two countries signing the agreement?"
             },
             {
                 "id": "wp2",
                 "question": "Why might India feel concerned about this new deal?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "India might feel concerned because it has a tense relationship and a history of border conflicts with Pakistan. A defense agreement that strengthens Pakistan's military power, especially with nuclear weapons involved, could upset the regional balance of power.",
+                "compareTip": "Did you explain India's historical tension with Pakistan and concerns over regional military balance?"
             },
             {
                 "id": "wp3",
                 "question": "How could this agreement affect peace, safety, or power in the region?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "The agreement could change regional power dynamics and create tension between neighboring countries like Iran and India. However, if it deters attacks, it might also help maintain stability, depending on how other countries respond.",
+                "compareTip": "Did you discuss the potential shifts in power balance or responses from other countries?"
             },
             {
                 "id": "wp4",
                 "question": "Why is it important to use neutral language when writing about international relations?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "Using neutral language is important to avoid bias and present facts objectively. This allows readers to analyze the political situation fairly without being influenced by emotional or opinionated words.",
+                "compareTip": "Did you explain the role of objective and unbiased writing in presenting political news?"
             }
         ]
     },
@@ -236,7 +256,8 @@
             "Keep your tone neutral and balanced.",
             "End with a clear concluding sentence."
         ],
-        "studentWritingBox": true
+        "studentWritingBox": true,
+        "modelAnswer": "Other countries are paying attention to the new defense agreement between Saudi Arabia and Pakistan because it could affect peace, safety, and power in the region. The agreement says that if one country is attacked, the other country will help defend it. This is important because Pakistan has nuclear weapons, and some leaders have mentioned the possibility of sharing nuclear defense plans in the future. India is especially concerned because it has had a long and tense history with Pakistan, including wars and border fights. India is also friends with Saudi Arabia, so the deal puts it in an awkward position. As a result, countries such as Iran and the United States are watching carefully. Overall, the agreement matters because it may change regional relationships and security."
     },
     "selfCheck": {
         "title": "Self-check",

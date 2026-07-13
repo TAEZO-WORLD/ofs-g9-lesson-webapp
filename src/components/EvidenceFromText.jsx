@@ -1,4 +1,5 @@
 import SectionCard from './SectionCard';
+import WrittenResponseWithCheck from './WrittenResponseWithCheck';
 
 export default function EvidenceFromText({
   data,
@@ -7,36 +8,32 @@ export default function EvidenceFromText({
   disabled,
   submitted,
   suggestedAnswers,
+  onWritingCheck,
+  articleText,
 }) {
   return (
     <SectionCard icon="📌" title={data.title} instructions={data.instructions}>
       {data.prompts.map((prompt, index) => {
-        const suggested = suggestedAnswers?.[prompt.id];
+        const suggested = suggestedAnswers?.[prompt.id] || prompt.modelAnswer;
 
         return (
           <div key={prompt.id} className="question-block">
             <p className="question-block__label">
               {index + 1}. {prompt.statement}
             </p>
-            <textarea
-              className="text-area"
-              rows={2}
-              placeholder="Quote or paraphrase evidence from the article…"
+            <WrittenResponseWithCheck
+              id={prompt.id}
               value={answers[prompt.id] ?? ''}
-              onChange={(e) => onAnswerChange(prompt.id, e.target.value)}
+              onChange={(val) => onAnswerChange(prompt.id, val)}
               disabled={disabled}
-              aria-label={`Evidence for: ${prompt.statement}`}
+              placeholder="Quote or paraphrase evidence from the article…"
+              rows={2}
+              modelAnswer={suggested}
+              compareTip={prompt.compareTip || "Did your answer come directly from the article? If not, revise it using a phrase or exact quote from the text."}
+              checkType="evidence"
+              articleText={articleText}
+              onCheck={onWritingCheck}
             />
-            {submitted && suggested && (
-              <div className="evidence-feedback">
-                <p className="evidence-feedback__note">
-                  Compare your answer with the suggested evidence.
-                </p>
-                <p className="evidence-feedback__suggested">
-                  <strong>Suggested evidence:</strong> {suggested}
-                </p>
-              </div>
-            )}
           </div>
         );
       })}

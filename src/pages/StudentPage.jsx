@@ -51,6 +51,10 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
   const [writingFeedback, setWritingFeedback] = useState(null);
   const [feedbackLoading, setFeedbackLoading] = useState(false);
   const [submissionMessage, setSubmissionMessage] = useState('');
+  
+  // Rule-based writing check and model answer view tracking states
+  const [ruleBasedCheckResults, setRuleBasedCheckResults] = useState({});
+  const [modelAnswersViewed, setModelAnswersViewed] = useState({});
 
   const handleComprehensionChange = (id, value) => {
     setComprehensionAnswers((prev) => ({ ...prev, [id]: value }));
@@ -66,6 +70,11 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
 
   const handleSelfCheckToggle = (index) => {
     setSelfCheckState((prev) => ({ ...prev, [index] : !prev[index] }));
+  };
+
+  const handleWritingCheck = (questionId, checkResult) => {
+    setRuleBasedCheckResults((prev) => ({ ...prev, [questionId]: checkResult }));
+    setModelAnswersViewed((prev) => ({ ...prev, [questionId]: true }));
   };
 
   const handleSubmit = async () => {
@@ -133,7 +142,9 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
         selfCheckItems: selfCheckState,
         autoGradedScore,
         feedback,
-        modelAnswer: lessonData.teacher?.modelAnswer || null
+        modelAnswer: lessonData.teacher?.modelAnswer || null,
+        ruleBasedCheckResults,
+        modelAnswersViewed
       };
 
       try {
@@ -216,6 +227,9 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
       feedbackLoading={feedbackLoading}
       submissionMessage={submissionMessage}
       onSubmit={handleSubmit}
+      ruleBasedCheckResults={ruleBasedCheckResults}
+      modelAnswersViewed={modelAnswersViewed}
+      onWritingCheck={handleWritingCheck}
     />
   );
 }

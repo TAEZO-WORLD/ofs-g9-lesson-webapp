@@ -152,15 +152,24 @@
         "prompts": [
             {
                 "id": "ev1",
-                "statement": "Find one sentence that shows the glasses have advanced technology."
+                "statement": "Find one sentence that shows the glasses have advanced technology.",
+                "modelAnswer": "These glasses, called Meta Ray-Ban Display, allow you to make video calls, see messages on a high-resolution screen, and even have a 12-megapixel camera.",
+                "compareTip": "Did you quote the sentence listing advanced features like video calls, high-resolution screen, or the megapixel camera?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev2",
-                "statement": "Find one sentence that shows the product launch was not perfect."
+                "statement": "Find one sentence that shows the product launch was not perfect.",
+                "modelAnswer": "During a demonstration, a WhatsApp call didn’t go through, and Zuckerberg joked, “I keep on messing this up.”",
+                "compareTip": "Did you quote the sentence about the WhatsApp call failing during the demonstration and Zuckerberg joking?",
+                "checkType": "evidence"
             },
             {
                 "id": "ev3",
-                "statement": "Find one sentence that shows people still have concerns about AI glasses."
+                "statement": "Find one sentence that shows people still have concerns about AI glasses.",
+                "modelAnswer": "However, many people aren’t sure if they need AI glasses yet, and some parents are worried about how safe Meta’s platforms are for kids.",
+                "compareTip": "Did you quote the sentence describing parents' concerns about safety and people's hesitation to buy?",
+                "checkType": "evidence"
             }
         ]
     },
@@ -186,17 +195,23 @@
             {
                 "id": "wp1",
                 "question": "What is one useful feature of Meta’s AI smart glasses? Explain your answer.",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "One useful feature of Meta's AI smart glasses is the high-resolution screen, which allows users to see text messages easily. This is convenient because users do not need to pull out their phones to check notifications.",
+                "compareTip": "Did you name a specific feature (like the camera or screen) and explain its benefit?"
             },
             {
                 "id": "wp2",
                 "question": "What is one possible problem with wearing smart glasses in daily life?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "One possible problem is privacy concerns, because the built-in camera allows people to take photos or videos without others knowing. This could make people nearby feel uncomfortable or violated.",
+                "compareTip": "Did you describe a social, safety, or distractions problem associated with daily smart glasses use?"
             },
             {
                 "id": "wp3",
                 "question": "Do you think teenagers would use AI glasses responsibly? Why or why not?",
-                "placeholder": "Write 2–4 sentences here..."
+                "placeholder": "Write 2–4 sentences here...",
+                "modelAnswer": "I do not think all teenagers would use AI glasses responsibly because they might easily get distracted in school or record people without permission. However, with clear rules and guidance, some teens could learn to use them in a helpful way.",
+                "compareTip": "Did you state a clear opinion on teen responsibility and provide a reason or rule they should follow?"
             }
         ]
     },
@@ -215,7 +230,8 @@
             "Use “however” or another contrast connector.",
             "End with a clear concluding sentence."
         ],
-        "studentWritingBox": true
+        "studentWritingBox": true,
+        "modelAnswer": "I think AI-powered smart glasses could be useful for teenagers, but they should be used carefully. These glasses allow users to see messages, make video calls, and use a camera without holding a phone. This could be helpful for students who need quick information or want to stay connected. However, there are also serious concerns. If teenagers use smart glasses too often, they may become distracted in class or record others without permission. Some parents may also worry about privacy and online safety. Overall, AI smart glasses are an exciting breakthrough, but teenagers need clear rules before using them in daily life."
     },
     "selfCheck": {
         "title": "Self-check",
