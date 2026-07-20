@@ -1,6 +1,13 @@
 {
-  "latest": "2026-07-13-cubism-seeing-differently",
+  "latest": "2026-07-20-big-industries-of-the-world",
   "lessons": [
+    {
+      "slug": "2026-07-20-big-industries-of-the-world",
+      "title": "Big Industries of the World",
+      "ofsUnit": "Unit 5 — Work, Economy & Global Industries",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-20"
+    },
     {
       "slug": "2026-07-13-cubism-seeing-differently",
       "title": "Cubism: The Art of Seeing Things Differently",
