@@ -1,0 +1,646 @@
+{
+  "lessonTitle": "Guyana’s Oil Boom: Where Did the Money Go?",
+  "ofsUnit": "Unit 4 — Global Perspectives, Resources & Inequality",
+  "textType": "Problem–Solution / Discussion Paragraph",
+  "lessonGoal": "Students will read an informational discussion text about Guyana’s oil boom, identify the main idea and supporting evidence, learn vocabulary about natural resources and inequality, and write short responses about who should benefit from a country’s resources.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Think about natural resources and wealth. Answer the warm-up questions below. There are no right or wrong answers.",
+    "questions": [
+      "What natural resources can make a country rich?",
+      "If a country finds oil, who should benefit from the money?",
+      "Can a country be rich in resources but still have many poor people? Why or why not?"
+    ]
+  },
+  "article": {
+    "title": "Guyana’s Oil Boom: Where Did the Money Go?",
+    "source": "Source: Adapted from teacher-provided classroom source image (Guardian).",
+    "note": "OFS Grade 9 International English — Unit 4",
+    "paragraphs": [
+      "Guyana is a small, tropical country located on the northern coast of South America. Ten years ago, in 2015, the country discovered a huge amount of oil deep under the ocean. This discovery marked the start of a massive 'oil boom,' which is a period of rapid economic growth and business success in the oil industry. When the news broke, many Guyanese citizens felt very excited. They hoped that the oil boom would bring money, create new jobs, and provide a much better life for everyone in the nation.",
+      "Today, Guyana has become one of the fastest-growing economies in the world, producing about 650,000 barrels of oil every day. A barrel is a standard container used to measure oil. Selling this oil brings billions of dollars into the country. However, despite this incredible wealth, more than half of the people in Guyana still live in poverty, earning less than about $7 a day. This means they struggle to pay for basic needs like food, housing, and healthcare, showing a high level of economic inequality.",
+      "Many citizens are asking why the oil money is not helping them. A local artist named Rajesh Singh said that while the government has built some new roads, there is still much more work to do to help ordinary people. At the same time, big international oil companies like ExxonMobil and Chevron are making large profits from Guyana's resources. For example, Chevron spent $55 billion to buy Hess Oil just to get a share of Guyana’s oil fields. Because these foreign companies make so much money, many local Guyanese people feel left out and ignored.",
+      "This situation raises an important question about fairness and resources: Who should benefit from a country’s natural resources? Some people believe that since the oil belongs to Guyana, the profits should go directly to helping ordinary citizens build better lives. Others argue that big companies need to make money because they have the technology to extract the oil. As the oil boom continues, Guyanese people are questioning whether this natural treasure will help their communities or only benefit rich companies."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "oil boom",
+        "definition": "a period of rapid growth and economic success in the oil industry",
+        "sentence": "This discovery marked the start of a massive 'oil boom'..."
+      },
+      {
+        "word": "natural resource",
+        "definition": "materials or substances found in nature that can be used by people (like oil, water, or wood)",
+        "sentence": "Who should benefit from a country’s natural resources?"
+      },
+      {
+        "word": "poverty",
+        "definition": "the state of being extremely poor and unable to meet basic needs",
+        "sentence": "...more than half of the people in Guyana still live in poverty..."
+      },
+      {
+        "word": "barrel",
+        "definition": "a large standard container used to measure and transport liquids like oil",
+        "sentence": "...producing about 650,000 barrels of oil every day."
+      },
+      {
+        "word": "company",
+        "definition": "a business organization that makes or sells goods or services to make money",
+        "sentence": "...big international oil companies like ExxonMobil and Chevron are making large profits..."
+      },
+      {
+        "word": "profit",
+        "definition": "money that a business makes after paying all its costs",
+        "sentence": "Do you think big companies should make most of the profit from natural resources?"
+      },
+      {
+        "word": "ordinary citizens",
+        "definition": "normal, everyday people who are not in the government or large corporations",
+        "sentence": "...the profits should go directly to helping ordinary citizens build better lives."
+      },
+      {
+        "word": "benefit",
+        "definition": "to receive an advantage, help, or profit from something",
+        "sentence": "Who should benefit from a country’s natural resources?"
+      },
+      {
+        "word": "inequality",
+        "definition": "an unfair situation where some people have much more money or opportunities than others",
+        "sentence": "...showing a high level of economic inequality."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "Guyana has no natural resources and cannot make money.",
+      "Guyana’s oil has brought great wealth, but many people still question who benefits from it.",
+      "Chevron bought Hess because Guyana stopped producing oil.",
+      "Everyone in Guyana has become rich because of the oil boom."
+    ],
+    "correctIndex": 1,
+    "explanation": "The article explains that Guyana produces a large amount of oil, but many citizens still live in poverty and wonder whether ordinary people will benefit from the country’s oil wealth."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What did Guyana discover deep under the ocean ten years ago?",
+        "options": [
+          "A huge gold mine",
+          "A massive amount of oil",
+          "A new species of fish",
+          "An ancient city"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article states that ten years ago, Guyana discovered a huge amount of oil."
+      },
+      {
+        "id": "rc2",
+        "question": "How much oil does Guyana produce every day now?",
+        "options": [
+          "About 100,000 barrels",
+          "About 650,000 barrels",
+          "About 1 million barrels",
+          "About 55 billion barrels"
+        ],
+        "correctIndex": 1,
+        "explanation": "According to the article, Guyana produces about 650,000 barrels of oil every day."
+      },
+      {
+        "id": "rc3",
+        "question": "Why did many people hope the oil discovery would help the country?",
+        "options": [
+          "They hoped it would bring money, jobs, and a better life for everyone.",
+          "They wanted to transition to renewable energy sources.",
+          "They hoped foreign countries would buy the land.",
+          "They wanted the oil companies to build corporate offices."
+        ],
+        "correctIndex": 0,
+        "explanation": "The article explains that many people hoped the oil would bring money, jobs, and a better life for everyone."
+      },
+      {
+        "id": "rc4",
+        "question": "What serious problem do more than half of the people in Guyana still face today?",
+        "options": [
+          "They are not allowed to travel abroad.",
+          "They live in poverty, earning less than about $7 a day.",
+          "They do not have access to electricity.",
+          "They cannot drive on the new roads built by the government."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article states that more than half of the people in Guyana still live in poverty, earning less than about $7 a day."
+      },
+      {
+        "id": "rc5",
+        "question": "Which big international oil companies are mentioned in the text?",
+        "options": [
+          "Shell and BP",
+          "Aramco and Petronas",
+          "ExxonMobil and Chevron",
+          "Hess Oil and Sinopec"
+        ],
+        "correctIndex": 2,
+        "explanation": "The text mentions big oil companies such as ExxonMobil and Chevron."
+      },
+      {
+        "id": "rc6",
+        "question": "What important question are people asking about Guyana's oil money?",
+        "options": [
+          "When will the country find more oil fields?",
+          "Will the money help ordinary citizens or mainly benefit large companies?",
+          "How can they transport the oil to other countries?",
+          "Why did Chevron buy Hess Oil?"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article raises the question of whether the oil money will help ordinary citizens or mainly benefit large companies."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that shows Guyana’s oil industry is very large.",
+        "modelAnswer": "Today, Guyana produces about 650,000 barrels of oil every day.",
+        "compareTip": "Your answer should mention the daily production of 650,000 barrels of oil.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that shows many Guyanese people are still struggling.",
+        "modelAnswer": "However, more than half of the people in Guyana still live in poverty, earning less than about $7 a day.",
+        "compareTip": "Your answer should show that more than half of the population lives in poverty or earns under $7 a day.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that shows people are questioning who benefits from the oil money.",
+        "modelAnswer": "Some people are asking whether the money will help ordinary citizens or mainly benefit large companies.",
+        "compareTip": "Your answer should refer to questions about whether ordinary citizens or large companies will benefit.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Contrast and Problem–Solution Language",
+    "explanation": "In discussion texts, writers use contrast language (however, but, even though, despite this) to show two opposite ideas. They also use problem-solution language (as a result, to solve this problem, should benefit from) to explain consequences and propose actions.",
+    "examples": [
+      "Guyana produces about 650,000 barrels of oil every day. However, more than half of the people still live in poverty.",
+      "Big oil companies are making large amounts of money, but many Guyanese people feel left out.",
+      "Even though the country is rich in oil, many citizens earn less than $7 a day.",
+      "Chevron spent $55 billion to buy Hess Oil. Despite this, ordinary people do not see the benefits.",
+      "As a result of the oil boom, the government has built new roads.",
+      "To solve this problem, the government should use oil money to help the community.",
+      "Ordinary citizens should benefit from the natural resources of their country."
+    ],
+    "practice": [
+      "Complete the sentence: Guyana produces a lot of oil. However, __________.",
+      "Write one sentence using 'even though' to contrast wealth and poverty.",
+      "Write one sentence using 'to solve this problem' to suggest how to help citizens.",
+      "Write one sentence about who 'should benefit from' a country's resources."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use complete sentences.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Why did many people hope Guyana’s oil would improve life in the country?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "Many people hoped Guyana's oil would improve life because they expected the oil boom to bring money and jobs. They believed this wealth would create a better life for everyone in the country.",
+        "compareTip": "Did your answer mention the hope for money, jobs, and a better life?"
+      },
+      {
+        "id": "wp2",
+        "question": "Why might some Guyanese people feel left out of the oil boom?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "Some Guyanese people might feel left out because more than half of the population still lives in poverty despite the massive oil production. While big oil companies make large profits, ordinary citizens do not see enough improvement in their daily lives.",
+        "compareTip": "Did your answer mention poverty or the contrast between big company profits and the struggles of ordinary people?"
+      },
+      {
+        "id": "wp3",
+        "question": "Do you think big companies should make most of the profit from natural resources? Why or why not?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "I do not think big companies should make most of the profit from natural resources. Even though these companies provide technology, the natural resources belong to the country and should benefit its citizens first. Therefore, the profit should be shared fairly.",
+        "compareTip": "Did you state your opinion and give a clear reason using complete sentences?"
+      },
+      {
+        "id": "wp4",
+        "question": "What could the government do to make sure ordinary citizens benefit from oil money?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "To solve this problem, the government could invest oil money into public services. For example, they could build better schools, hospitals, and roads. They could also create programs to help poor families and generate local jobs.",
+        "compareTip": "Did you suggest specific government actions like improving schools, roads, or healthcare?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a short discussion paragraph of 100–140 words answering this question: Who should benefit most from Guyana’s oil money: the government, big companies, or ordinary citizens?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State your opinion clearly.",
+      "Explain the problem.",
+      "Give at least two reasons.",
+      "Use at least one detail from the article.",
+      "Use contrast or problem–solution language such as however, even though, because, as a result, or to solve this problem.",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "I think ordinary citizens should benefit most from Guyana’s oil money because natural resources belong to the country, not only to big companies. Guyana now produces about 650,000 barrels of oil every day, so the oil industry is very large. However, many people in Guyana still live in poverty and earn less than about $7 a day. This shows that oil wealth does not automatically help everyone. Big companies can make profits, but the government should also use oil money to improve schools, hospitals, roads, and jobs. To solve this problem, Guyana needs fair rules so that ordinary people are not left out. Overall, oil money should help build a better life for all citizens."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work.",
+    "items": [
+      "I identified the main idea of the article.",
+      "I used details from the text.",
+      "I answered written questions in complete sentences.",
+      "I used contrast or problem–solution language.",
+      "I checked spelling and punctuation.",
+      "I compared my answer with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "Guyana’s oil has brought great wealth, but many people still question who benefits from it.",
+      "readingComprehension": {
+        "rc1": "A massive amount of oil",
+        "rc2": "About 650,000 barrels",
+        "rc3": "They hoped it would bring money, jobs, and a better life for everyone.",
+        "rc4": "They live in poverty, earning less than about $7 a day.",
+        "rc5": "ExxonMobil and Chevron",
+        "rc6": "Will the money help ordinary citizens or mainly benefit large companies?"
+      },
+      "evidenceFromText": {
+        "ev1": "Today, Guyana produces about 650,000 barrels of oil every day.",
+        "ev2": "However, more than half of the people in Guyana still live in poverty, earning less than about $7 a day.",
+        "ev3": "Some people are asking whether the money will help ordinary citizens or mainly benefit large companies."
+      }
+    },
+    "modelAnswer": "I think ordinary citizens should benefit most from Guyana’s oil money because natural resources belong to the country, not only to big companies. Guyana now produces about 650,000 barrels of oil every day, so the oil industry is very large. However, many people in Guyana still live in poverty and earn less than about $7 a day. This shows that oil wealth does not automatically help everyone. Big companies can make profits, but the government should also use oil money to improve schools, hospitals, roads, and jobs. To solve this problem, Guyana needs fair rules so that ordinary people are not left out. Overall, oil money should help build a better life for all citizens.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly states an opinion and explains the problem of resource wealth versus poverty with at least two strong reasons.",
+        "developing": "States an opinion but the explanation or reasons are weak or incomplete.",
+        "beginning": "Opinion is unclear and does not give clear reasons."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Uses at least one accurate detail from the article (e.g., 650,000 barrels, $7 a day).",
+        "developing": "Attempts to use a detail from the article, but it is inaccurate or poorly connected.",
+        "beginning": "Uses no details from the article."
+      },
+      {
+        "category": "Problem–Solution / Contrast Language",
+        "excellent": "Accurately uses target contrast or problem-solution language (however, even though, as a result, etc.) to link ideas.",
+        "developing": "Uses some target language but with minor grammatical errors or awkward phrasing.",
+        "beginning": "Uses limited or no contrast or problem-solution connectors."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Clearly organized paragraph with an introduction, supporting reasons, and a concluding sentence starting with a concluding word.",
+        "developing": "Shows some structure but lacks a clear opening, logical flow, or proper concluding sentence.",
+        "beginning": "Paragraph lacks organization; ideas are presented randomly."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Writes 100–140 words, uses complete sentences, and has minimal spelling or punctuation errors.",
+        "developing": "Slightly outside the word limit or has several spelling/punctuation errors that disrupt readability.",
+        "beginning": "Too short or has many errors that make it difficult to understand."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach “oil boom,” “poverty,” “profit,” and “ordinary citizens.”",
+      "Help students understand that natural resource wealth does not always reduce poverty automatically.",
+      "Use simple examples: if a school earns money, should only the principal benefit or should students benefit too?",
+      "Emphasize the contrast between high oil production and continued poverty.",
+      "Encourage students to support opinions with details from the article.",
+      "For lower-level students, provide sentence frames.",
+      "For stronger students, ask them to compare Guyana with another resource-rich country."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Lead-in / Warm-up",
+        "duration": "10 minutes",
+        "actions": "Welcome the students and write the word 'RESOURCE' on the board. Ask students what natural resources their countries have. Introduce the case of Guyana finding oil and ask: If a country finds a lot of oil, who should get the money? Encourage students to share their initial thoughts on fairness."
+      },
+      {
+        "phase": "Vocabulary preview",
+        "duration": "10 minutes",
+        "actions": "Go over the vocabulary table. Have students read the definitions and repeat the words after you: oil boom, natural resource, poverty, barrel, company, profit, ordinary citizens, benefit, inequality. Clarify that 'poverty' is the noun form of 'poor' and 'inequality' means things are not equal."
+      },
+      {
+        "phase": "First reading for gist",
+        "duration": "10 minutes",
+        "actions": "Ask students to read the text quietly once just to find the general topic. Once they finish, ask: Where is Guyana? What did they find? Have them answer the Main Idea MCQ and discuss why option B is the correct answer."
+      },
+      {
+        "phase": "Second reading for detail and evidence",
+        "duration": "15 minutes",
+        "actions": "Read the text aloud or have volunteers read it paragraph by paragraph. Point out specific numbers (650,000 barrels, $7 a day, $55 billion). Guide students to complete the 'Evidence from the Text' section and use the 'Check & Compare' button to check their answers."
+      },
+      {
+        "phase": "Language Focus",
+        "duration": "10 minutes",
+        "actions": "Teach the use of contrast words like 'however', 'but', 'even though', and 'despite this', and problem-solution connectors like 'as a result' and 'to solve this problem'. Write examples on the board and have students complete the short practice items in their student views."
+      },
+      {
+        "phase": "Writing Practice",
+        "duration": "15 minutes",
+        "actions": "Give students time to answer the 4 short Writing Practice questions. Walk around the room to assist students. Remind them to write 2-4 complete sentences and use the Check & Compare button for instant feedback and model answers."
+      },
+      {
+        "phase": "Final Writing Task",
+        "duration": "20 minutes",
+        "actions": "Explain the final writing prompt: Who should benefit most from Guyana’s oil money? Read the checklist together. Remind students that their paragraph must be 100-140 words, start with a clear opinion, use at least one detail from the text, use contrast/problem-solution language, and end with a concluding sentence."
+      },
+      {
+        "phase": "Self-check and submission",
+        "duration": "5 minutes",
+        "actions": "Have students go through the Self-check list to evaluate their own writing. Ask them to input their Name and Code, then click 'Submit Lesson'. Remind them that they can see the model answer after submitting."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we will talk about / a small country / with a huge amount of oil.",
+          "korean": "오늘 우리는 이야기해 볼 것입니다 / 작은 나라에 대해 / 엄청난 양의 석유가 있는."
+        },
+        {
+          "english": "Usually, when a country finds oil, / people expect / money, jobs, and a better life.",
+          "korean": "보통, 어떤 나라가 석유를 발견하면, / 사람들은 기대합니다 / 돈, 일자리, 그리고 더 나은 삶을."
+        },
+        {
+          "english": "But today’s question is: / who really benefits / from the oil money?",
+          "korean": "하지만 오늘의 질문은 이것입니다: / 과연 누가 진짜 혜택을 볼까요 / 석유로 벌어들인 돈으로부터?"
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "What natural resources / can make a country rich?",
+          "translation": "어떤 천연자원이 / 나라를 부유하게 만들 수 있을까요?",
+          "followUp": "Do you know any country / that is famous for its natural resources? / 그 나라는 무슨 자원을 가지고 있나요?"
+        },
+        {
+          "question": "If a country finds oil, / who should benefit / from the money?",
+          "translation": "만약 한 나라가 석유를 발견한다면, / 누가 혜택을 받아야 할까요 / 그 돈으로부터?",
+          "followUp": "Should the money go / to the government, to companies, or to the people? / 누구에게 가장 많이 가야 한다고 생각하나요?"
+        },
+        {
+          "question": "Can a country be rich in resources / but still have many poor people? / Why or why not?",
+          "translation": "어떤 나라가 자원은 풍부하지만 / 여전히 가난한 사람이 많을 수 있을까요? / 왜 그렇거나 그렇지 않다고 생각하나요?",
+          "followUp": "How can corruption or bad management / affect resource wealth? / 부정부패나 잘못된 관리가 자원 부국에 어떤 영향을 미칠까요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "Ten years ago, Guyana, a small country in South America, discovered a huge amount of oil.",
+          "chunkReading": "Ten years ago, / Guyana, / a small country in South America, / discovered / a huge amount of oil.",
+          "directKorean": "10년 전에, / 가이아나는, / 남미의 작은 나라인, / 발견했다 / 거대한 양의 석유를.",
+          "naturalKorean": "10년 전, 남미의 작은 나라인 가이아나는 엄청난 양의 석유를 발견했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a huge amount of",
+              "meaning": "엄청난 양의, 거대한 양의",
+              "use": "셀 수 없는 명사의 양이 매우 많음을 표현할 때 사용합니다.",
+              "example": "She spent a huge amount of money."
+            }
+          ],
+          "mustKnowGrammar": "주어 Guyana와 동격 쉼표로 연결된 수식어구 'a small country in South America'가 쓰였으며, 단순 과거 시제 동사 'discovered'를 사용했습니다.",
+          "vocabularyUsageNote": "discovered는 존재하고 있었으나 알려지지 않았던 자원을 새로 찾아냈음을 뜻합니다.",
+          "feynmanExplanation": "남미에 있는 작은 나라인 가이아나가 10년 전에 바다 밑에서 엄청난 석유를 찾아냈어요.",
+          "teachingTranscript": [
+            {
+              "english": "Let's look at the location: / Guyana is in South America.",
+              "korean": "위치를 확인해 봅시다: / 가이아나는 남미에 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Many people hoped the oil would bring money, jobs, and a better life for everyone.",
+          "chunkReading": "Many people / hoped / the oil / would bring / money, jobs, / and a better life / for everyone.",
+          "directKorean": "많은 사람들은 / 희망했다 / 그 석유가 / 가져다줄 것을 / 돈, 일자리, / 그리고 더 나은 삶을 / 모두를 위해.",
+          "naturalKorean": "많은 사람들은 그 석유가 모든 사람에게 돈 and 일자리, 그리고 더 나은 삶을 가져다줄 것이라 기대했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a better life",
+              "meaning": "더 나은 삶, 개선된 생활",
+              "use": "현재보다 더 나은 조건이나 환경의 생활을 의미할 때 씁니다.",
+              "example": "They moved to the city for a better life."
+            }
+          ],
+          "mustKnowGrammar": "hoped 뒤에 접속사 that이 생략된 명사절이 오며, 과거 시점에서의 미래 기대를 나타내기 위해 'would'가 쓰였습니다.",
+          "vocabularyUsageNote": "bring은 결과나 혜택을 유발하거나 가져다주는 것을 의미합니다.",
+          "feynmanExplanation": "석유가 나오면 나라가 부자가 되니까, 사람들은 당연히 좋은 직장도 생기고 다 같이 잘 살게 될 거라고 꿈꿨어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the use of 'would' / after 'hoped'. / It shows past expectation.",
+              "korean": "'hoped' 뒤에 'would'가 / 쓰인 것을 주목하세요. / 과거의 기대를 나타냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Today, Guyana produces about 650,000 barrels of oil every day.",
+          "chunkReading": "Today, / Guyana / produces / about 650,000 barrels of oil / every day.",
+          "directKorean": "오늘날, / 가이아나는 / 생산한다 / 약 650,000 배럴의 석유를 / 매일.",
+          "naturalKorean": "오늘날 가이아나는 매일 약 650,000 배럴의 석유를 생산하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "every day",
+              "meaning": "매일, 하루도 빠짐없이",
+              "use": "반복되는 일상이나 정기적인 생산 활동을 나타낼 때 씁니다.",
+              "example": "He exercises every day."
+            }
+          ],
+          "mustKnowGrammar": "현재의 사실을 기술하므로 단수 3인칭 주어인 Guyana 뒤에 현재형 동사 'produces'가 쓰였습니다.",
+          "vocabularyUsageNote": "barrel은 석유의 양을 측정하는 기본 단위로, 1배럴은 약 159리터에 해당합니다.",
+          "feynmanExplanation": "지금 가이아나는 매일매일 엄청난 크기의 통(배럴) 65만 개 분량의 석유를 계속 뽑아내고 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "650,000 barrels / is a massive amount of oil / for a small country.",
+              "korean": "650,000 배럴은 / 엄청난 양의 석유입니다 / 작은 나라치고는."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "However, more than half of the people in Guyana still live in poverty, earning less than about $7 a day.",
+          "chunkReading": "However, / more than half of the people / in Guyana / still live / in poverty, / earning / less than / about $7 a day.",
+          "directKorean": "하지만, / 사람들 절반 이상은 / 가이아나의 / 여전히 산다 / 빈곤 속에서, / 벌면서 / ~보다 적게 / 하루에 약 7달러.",
+          "naturalKorean": "하지만 가이아나 인구의 절반 이상은 여전히 하루에 약 7달러도 안 되는 돈을 벌며 빈곤 속에서 살아가고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "more than half of",
+              "meaning": "절반 이상의, 과반수의",
+              "use": "비율이 50%를 넘는 다수임을 나타낼 때 씁니다.",
+              "example": "More than half of the students passed."
+            },
+            {
+              "chunk": "live in poverty",
+              "meaning": "가난하게 살다, 빈곤 속에 살다",
+              "use": "기본적인 의식주를 해결하기 어려울 정도의 가난한 삶을 묘사합니다.",
+              "example": "Many families still live in poverty."
+            }
+          ],
+          "mustKnowGrammar": "earning less than... 은 분사구문으로, 주어인 'more than half of the people'의 부대상황을 설명합니다.",
+          "vocabularyUsageNote": "poverty는 빈곤, 가난을 뜻하는 명사입니다.",
+          "feynmanExplanation": "하지만 충격적이게도 국민들 중 절반이 넘는 사람들이 하루에 겨우 7달러(만원 정도)도 못 벌며 아주 가난하게 살고 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "Earning less than $7 a day / means it is very hard / to buy basic needs.",
+              "korean": "하루 7달러 미만을 버는 것은 / 매우 어렵다는 것을 뜻합니다 / 기본적인 필요를 충족하기가."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Big oil companies such as ExxonMobil and Chevron are making large amounts of money, but many Guyanese people feel left out.",
+          "chunkReading": "Big oil companies / such as ExxonMobil and Chevron / are making / large amounts of money, / but / many Guyanese people / feel left out.",
+          "directKorean": "거대 석유 회사들은 / 엑손모빌과 쉐브론 같은 / 만들고 있다 / 거대한 양의 돈을, / 하지만 / 많은 가이아나 사람들은 / 소외감을 느낀다.",
+          "naturalKorean": "엑손모빌과 쉐브론 같은 거대 석유 회사들은 막대한 돈을 벌어들이고 있지만, 많은 가이아나 국민들은 소외감을 느끼고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "such as",
+              "meaning": "~와 같은, 예를 들어",
+              "use": "구체적인 사례나 이름을 나열할 때 대표적으로 쓰는 표현입니다.",
+              "example": "I like fruits such as apples."
+            },
+            {
+              "chunk": "feel left out",
+              "meaning": "소외감을 느끼다, 따돌림당하는 기분이다",
+              "use": "혜택이나 대화, 모임 등에서 자신이 제외되어 외로움을 느낄 때 씁니다.",
+              "example": "She felt left out during the meeting."
+            }
+          ],
+          "mustKnowGrammar": "등위접속사 'but'이 앞의 문장과 뒤의 문장을 대조하여 연결하고 있습니다. 'are making'은 현재 진행형 시제입니다.",
+          "vocabularyUsageNote": "left out은 참여하지 못하고 바깥에 남겨진 상태를 묘사합니다.",
+          "feynmanExplanation": "세계적인 거대 석유 회사들은 가이아나 석유로 엄청난 돈을 쓸어 담고 있는데, 정작 주인이어야 할 가이아나 사람들은 그 혜택을 못 받아서 소외되었다고 느껴요.",
+          "teachingTranscript": [
+            {
+              "english": "'Feel left out' / is a key expression / for showing inequality.",
+              "korean": "'Feel left out'은 / 핵심 표현입니다 / 불평등을 보여주기 위한."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Chevron spent $55 billion to buy Hess Oil to get a share of Guyana’s oil.",
+          "chunkReading": "Chevron / spent / $55 billion / to buy Hess Oil / to get a share / of Guyana’s oil.",
+          "directKorean": "쉐브론은 / 소비했다 / 550억 달러를 / 헤스 오일을 사기 위해 / 몫을 얻기 위해 / 가이아나 석유의.",
+          "naturalKorean": "쉐브론은 가이아나 석유에 대한 지분(몫)을 얻기 위해 무려 550억 달러를 들여 헤스 오일을 인수했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "spend (money) to do",
+              "meaning": "~하기 위해 (돈을) 쓰다",
+              "use": "특정 목적을 위해 자금이나 시간을 투입할 때 쓰는 형태입니다.",
+              "example": "He spent all his savings to start a business."
+            },
+            {
+              "chunk": "get a share of",
+              "meaning": "~의 지분(몫)을 차지하다",
+              "use": "이익이나 권리, 자원 등에서 자신의 몫을 챙기거나 얻는 것을 뜻합니다.",
+              "example": "Everyone wants to get a share of the profits."
+            }
+          ],
+          "mustKnowGrammar": "to buy와 to get은 둘 다 목적을 나타내는 to부정사의 부사적 용법입니다.",
+          "vocabularyUsageNote": "share는 전체 중에서 나누어 갖는 부분이나 몫, 지분을 가리킵니다.",
+          "feynmanExplanation": "쉐브론이라는 엄청나게 큰 회사는 가이아나 석유를 조금이라도 더 차지하려고 다른 회사(헤스 오일)를 사는 데 550억 달러(우리 돈 70조 원 이상)나 썼답니다.",
+          "teachingTranscript": [
+            {
+              "english": "This shows / how valuable / Guyana's oil fields are.",
+              "korean": "이것은 보여줍니다 / 얼마나 가치 있는지 / 가이아나의 유전이."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "The important question is: Who really gets the treasure from Guyana’s oil?",
+          "chunkReading": "The important question / is: / Who / really gets / the treasure / from Guyana’s oil?",
+          "directKorean": "중요한 질문은 / 이다: / 누가 / 진짜 얻는가 / 보물을 / 가이아나의 석유로부터?",
+          "naturalKorean": "여기서 중요한 질문이 생깁니다. 가이아나의 석유가 주는 보물은 과연 진짜 누구의 손에 들어가는 것일까요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "important question",
+              "meaning": "중요한 의문, 핵심 질문",
+              "use": "논의나 논쟁의 가장 핵심이 되는 의제를 제기할 때 씁니다.",
+              "example": "That is the most important question today."
+            }
+          ],
+          "mustKnowGrammar": "be동사 'is' 뒤에 콜론(:)을 사용하여 보어 역할을 하는 의문사절 'Who really gets...'를 직접 제시하고 있습니다.",
+          "vocabularyUsageNote": "treasure는 보물을 뜻하며, 여기서는 석유가 만들어내는 엄청난 경제적 부와 혜택을 비유적으로 칭합니다.",
+          "feynmanExplanation": "결국 진짜 중요한 문제는 이 아까운 나라의 자원 보물을 진짜로 가져가는 사람이 누구냐는 거예요.",
+          "teachingTranscript": [
+            {
+              "english": "This concluding question / invites students / to write their opinion.",
+              "korean": "이 결론 질문은 / 학생들을 초대합니다 / 자신의 의견을 쓰도록."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "I think ordinary citizens should benefit most because ________.",
+          "Guyana now produces about 650,000 barrels of oil, but ________.",
+          "Foreign companies like Chevron and ExxonMobil ________, while many locals ________.",
+          "To solve this problem, the government should ________.",
+          "Overall, the wealth from natural resources should be used to ________."
+        ],
+        "usefulConnectors": [
+          "However (하지만)",
+          "Even though (비록 ~일지라도)",
+          "As a result (결과적으로)",
+          "To solve this problem (이 문제를 해결하기 위해)",
+          "Should benefit from (~로부터 혜택을 받아야 한다)"
+        ],
+        "usefulVocabulary": [
+          "oil boom (석유 붐)",
+          "poverty (빈곤)",
+          "ordinary citizens (평범한 시민들)",
+          "inequality (불평등)",
+          "profit (이익)",
+          "natural resources (천연자원)"
+        ],
+        "paragraphOutline": [
+          "Sentence 1 (Topic Sentence): State your opinion clearly on who should benefit most from the oil wealth.",
+          "Sentence 2-3 (Explain the Problem): Contrast Guyana's massive oil production (650,000 barrels/day) with the high poverty rate (over 50% under $7/day).",
+          "Sentence 4-5 (Present Reasons & Details): Explain how big companies are making huge profits while ordinary citizens feel left out.",
+          "Sentence 6 (Propose Solution): Suggest what the government should do to share the wealth fairly (e.g. building schools, roads, jobs).",
+          "Sentence 7 (Concluding Sentence): Provide a strong final summary of your point of view starting with a concluding transition."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Using 'poverty' as an adjective: *Many citizens are poverty.*",
+            "correction": "Use 'poor' as the adjective or 'live in poverty': *Many citizens are poor.* or *Many citizens live in poverty.*"
+          },
+          {
+            "mistake": "Incorrect structure with 'Even though' and 'But' together: *Even though the country has oil, but people are poor.*",
+            "correction": "Use only one: *Even though the country has oil, people are poor.* or *The country has oil, but people are poor.*"
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check if the paragraph is within the 100-140 words range.",
+          "Verify that students use contrast connectors like 'however' or 'even though'.",
+          "Ensure there is a clear topic sentence expressing an opinion.",
+          "Confirm that the concluding sentence uses a concluding transition (e.g. 'Overall' or 'In conclusion')."
+        ]
+      }
+    }
+  }
+}
