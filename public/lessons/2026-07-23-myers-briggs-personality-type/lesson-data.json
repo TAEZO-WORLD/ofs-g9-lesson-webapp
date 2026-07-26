@@ -1,0 +1,726 @@
+{
+  "lessonTitle": "Myers-Briggs: What’s Your Personality Type?",
+  "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+  "textType": "Informational Explanation Paragraph",
+  "lessonGoal": "Students will read an informational text about the Myers-Briggs personality test, identify the main idea and supporting details, learn vocabulary about personality preferences, and write short explanatory responses about personality, learning, and teamwork.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Think about your habits, choices, and personality. Answer the warm-up questions below. There are no right or wrong answers.",
+    "questions": [
+      "Do you think you are more outgoing or more quiet? Why?",
+      "Do you usually make decisions with logic or feelings?",
+      "Why might people enjoy taking personality tests?"
+    ]
+  },
+  "article": {
+    "title": "Myers-Briggs: What’s Your Personality Type?",
+    "source": "Source: Adapted from teacher-provided classroom source images.",
+    "note": "OFS Grade 9 International English — Unit 2",
+    "paragraphs": [
+      "Have you ever wondered why some people feel energized in crowded rooms while others prefer quiet time alone? The Myers-Briggs Type Indicator, commonly known as MBTI, is a popular personality test that helps people explore how they think, feel, and interact with the world. It was created in the 1940s by an American mother-daughter team, Katharine Cook Briggs and Isabel Briggs Myers. They were inspired by the famous Swiss psychologist Carl Jung, who suggested that human beings use their minds in different, predictable ways. Rather than judging people as good or bad, Briggs and Myers created a practical tool to help individuals understand their natural thinking and behavior habits.",
+      "The MBTI system sorts human personality into 16 distinct types based on four preference pairs. The first pair is Extraversion (E) or Introversion (I), which describes whether you are energized by being around people or by spending time alone. The second pair is Sensing (S) or Intuition (N), reflecting whether you focus on concrete facts and details or big ideas and imagination. The third pair is Thinking (T) or Feeling (F), which looks at whether you make decisions using logic and fairness or feelings and kindness. Finally, Judging (J) or Perceiving (P) describes whether you prefer to plan things out or keep things open and flexible. Combining these four preferences creates four-letter types, such as INTJ ('The Mastermind'), ESFP ('The Entertainer'), ISFJ ('The Protector'), or ENTP ('The Inventor').",
+      "Today, millions of people use the MBTI for self-reflection, career exploration, and personal growth. For instance, discovering your personality type can help you identify your personal strengths and weaknesses, explore potential hobbies or jobs, and understand your learning style in school. In companies and classrooms, team members use MBTI results to improve communication and appreciate different working styles. Teachers and parents also use these insights to understand how a child learns best. Because it measures natural preferences rather than intelligence or skill, MBTI is not a test you pass or fail.",
+      "However, psychologists emphasize that MBTI should be used with caution and open-mindedness. It is a helpful tool for self-discovery, but it is not a 100% accurate scientific measurement. Human personality is dynamic and complex, so no one fits perfectly into just 16 categories. If used too strictly, personality types can turn into rigid labels that limit people's growth or cause them to judge others prematurely. Ultimately, MBTI is a useful mirror for exploring who you are, but you should never let a test define your potential or choices."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "personality",
+        "definition": "the combination of characteristics, qualities, and behaviors that form an individual's unique character",
+        "sentence": "The Myers-Briggs Type Indicator is a popular personality test."
+      },
+      {
+        "word": "preference",
+        "definition": "a greater liking or natural choice for one option over another",
+        "sentence": "The MBTI system sorts human personality into 16 types based on four preference pairs."
+      },
+      {
+        "word": "introversion",
+        "definition": "the trait of being quiet and gaining energy from spending time alone",
+        "sentence": "Introversion describes people who feel refreshed after quiet alone time."
+      },
+      {
+        "word": "extraversion",
+        "definition": "the trait of being outgoing and gaining energy from social interactions",
+        "sentence": "People high in extraversion feel energized when surrounded by people."
+      },
+      {
+        "word": "logic",
+        "definition": "reasoned, step-by-step thinking based on facts rather than emotions",
+        "sentence": "Thinking types tend to make decisions using logic and fairness."
+      },
+      {
+        "word": "flexible",
+        "definition": "able to change or adapt easily to new situations and plans",
+        "sentence": "Perceiving types like to keep their schedules open and flexible."
+      },
+      {
+        "word": "strength",
+        "definition": "a valuable quality, skill, or positive character trait",
+        "sentence": "Taking the test helps people identify their personal strengths and habits."
+      },
+      {
+        "word": "weakness",
+        "definition": "an area or quality in which a person is less skilled or needs improvement",
+        "sentence": "Understanding your weaknesses can help you grow and collaborate better."
+      },
+      {
+        "word": "label",
+        "definition": "a restrictive tag or description applied to a person or group",
+        "sentence": "We should never let a personality type become a rigid label that limits our growth."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. MBTI is a personality test that helps people think about their preferences, but it should not be seen as a perfect description of a person.",
+      "B. MBTI proves that everyone has only one correct job.",
+      "C. MBTI was created by Carl Jung in ancient Greece.",
+      "D. People should use MBTI to decide whether they pass or fail at personality."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains that MBTI is a popular personality test that describes preferences such as introversion, extraversion, thinking, and feeling, but it also reminds readers that no test can fully define a person."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What does MBTI stand for?",
+        "options": [
+          "A. Modern Brain and Thinking Inspection",
+          "B. Myers-Briggs Type Indicator",
+          "C. Mental Behavior and Temperament Index",
+          "D. Major Biological Traits Instrument"
+        ],
+        "correctIndex": 1,
+        "explanation": "MBTI stands for the Myers-Briggs Type Indicator, named after its creators Katharine Cook Briggs and Isabel Briggs Myers."
+      },
+      {
+        "id": "rc2",
+        "question": "Who created the Myers-Briggs Type Indicator in the 1940s?",
+        "options": [
+          "A. Carl Jung and William Shakespeare",
+          "B. Katharine Cook Briggs and her daughter Isabel Briggs Myers",
+          "C. A group of ancient Greek doctors",
+          "D. Modern computer scientists and media experts"
+        ],
+        "correctIndex": 1,
+        "explanation": "MBTI was created in the 1940s by mother and daughter Katharine Cook Briggs and Isabel Briggs Myers."
+      },
+      {
+        "id": "rc3",
+        "question": "Which famous psychologist inspired Briggs and Myers to develop the MBTI system?",
+        "options": [
+          "A. Carl Jung",
+          "B. Sigmund Freud",
+          "C. Ivan Pavlov",
+          "D. Albert Einstein"
+        ],
+        "correctIndex": 0,
+        "explanation": "Briggs and Myers were inspired by the psychologist Carl Jung, who believed people use their minds in different, predictable ways."
+      },
+      {
+        "id": "rc4",
+        "question": "What does the E or I preference pair (Extraversion or Introversion) describe?",
+        "options": [
+          "A. Whether you make choices using logic or kindness",
+          "B. Whether you gain energy from social interactions or spending time alone",
+          "C. Whether you like to plan things out or stay flexible",
+          "D. Whether you focus on detailed facts or big imagination"
+        ],
+        "correctIndex": 1,
+        "explanation": "The E/I pair describes whether a person is energized by being around people (Extraversion) or by spending time alone (Introversion)."
+      },
+      {
+        "id": "rc5",
+        "question": "What does the T or F preference pair (Thinking or Feeling) focus on?",
+        "options": [
+          "A. How people make choices—using logic and fairness versus personal values and feelings",
+          "B. How many hours a day a person sleeps",
+          "C. Whether a person prefers reading books or playing sports",
+          "D. Whether a person lives in a big city or a small town"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Thinking (T) vs. Feeling (F) dimension looks at whether someone relies on objective logic or personal feelings when making decisions."
+      },
+      {
+        "id": "rc6",
+        "question": "Why should MBTI NOT be treated as a 100% accurate scientific test?",
+        "options": [
+          "A. Because human personality is complex, and no test can perfectly fit a person into just 16 strict types.",
+          "B. Because MBTI was designed as a high-stakes pass/fail test for college entry.",
+          "C. Because MBTI only measures body fluids like blood and phlegm.",
+          "D. Because Carl Jung proved that personality changes completely every hour."
+        ],
+        "correctIndex": 0,
+        "explanation": "The text emphasizes that human personality is dynamic and complex, so no test result is 100% accurate or capable of capturing a person completely."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that explains what MBTI helps people understand.",
+        "modelAnswer": "The Myers-Briggs Type Indicator, commonly known as MBTI, is a popular personality test that helps people explore how they think, feel, and interact with the world.",
+        "compareTip": "Your answer should mention that MBTI helps people explore their thoughts, feelings, habits, strengths, or teamwork styles.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that explains how MBTI sorts people into types.",
+        "modelAnswer": "The MBTI system sorts human personality into 16 distinct types based on four preference pairs.",
+        "compareTip": "Your answer should state that MBTI sorts people into 16 personality types using four preference pairs.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that shows MBTI is not a perfect test.",
+        "modelAnswer": "It is a helpful tool for self-discovery, but it is not a 100% accurate scientific measurement.",
+        "compareTip": "Your answer should mention that MBTI is not 100% accurate, not a pass/fail test, or that no one fits perfectly into 16 types.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Preference and Classification Language",
+    "explanation": "In informational texts about psychology and personality, writers use specific language to describe preferences (are you more likely to), systems (based on, sorts people into), benefits (helps people understand, for example), and limitations (not always, no one fits perfectly into).",
+    "examples": [
+      "Are you more likely to spend your weekends reading quietly or hanging out with friends?",
+      "The Myers-Briggs system sorts people into 16 personality types based on four preference pairs.",
+      "Learning your type helps people understand their strengths, habits, and teamwork style.",
+      "For example, an INTJ likes solving problems alone, while an ESFP enjoys being with people.",
+      "MBTI is not always 100% accurate, and no one fits perfectly into a simple four-letter category."
+    ],
+    "practice": [
+      "Complete the sentence: MBTI sorts people into personality types based on __________.",
+      "Write one sentence using 'helps people understand' to explain a benefit of MBTI.",
+      "Write one sentence using 'not always' to explain why personality tests are not perfect.",
+      "Write one sentence using 'no one fits perfectly into' to show that personality is complex."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Do you think you are more introverted or extroverted? Explain your answer.",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "I think I am more introverted because I feel most energized when I spend quiet time alone or with a few close friends. After a long day at school, I prefer reading or listening to music rather than going to crowded social events. However, I can still be friendly and outgoing when I am around people I know well.",
+        "compareTip": "Did you state whether you are introverted or extroverted and give clear examples of your habits?"
+      },
+      {
+        "id": "wp2",
+        "question": "Why might MBTI be useful for understanding teamwork?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "MBTI can be useful for teamwork because it helps team members understand each other's strengths and working preferences. For example, knowing whether a classmate prefers quiet problem-solving or lively group discussion allows the team to divide tasks fairly. This helps people communicate smoothly and avoid misunderstandings.",
+        "compareTip": "Did your answer explain how knowing preferences helps team members communicate and divide tasks?"
+      },
+      {
+        "id": "wp3",
+        "question": "Why should people be careful not to label others too quickly?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "People should be careful not to label others too quickly because human personality is complex and can change over time. Using personality test results as strict labels might cause us to make incorrect assumptions about someone's potential or character. No test can fully define a person, so we should stay open-minded.",
+        "compareTip": "Did your answer mention that personality is complex and warn against using test results as rigid labels?"
+      },
+      {
+        "id": "wp4",
+        "question": "Which preference pair do you think is most interesting: E/I, S/N, T/F, or J/P? Why?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "I think the Thinking versus Feeling (T/F) pair is the most interesting because it explains how people make important choices. Thinking types focus on objective logic and fairness, while Feeling types prioritize kindness and personal values. Understanding this difference helps explain why people handle conflicts in different ways.",
+        "compareTip": "Did you select one preference pair and explain clearly why you find it interesting?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a short explanatory paragraph of 100–140 words answering this question: Can personality tests like MBTI help people understand themselves?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State your opinion clearly.",
+      "Explain what MBTI is.",
+      "Give at least two reasons.",
+      "Use at least one detail from the article.",
+      "Use preference or classification language such as based on, for example, helps people understand, not always, or no one fits perfectly into.",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "I think personality tests like MBTI can help people understand themselves, but they should be used carefully. MBTI is a personality test that sorts people into 16 types based on four preference pairs, such as Extraversion or Introversion and Thinking or Feeling. For example, a student might learn that they feel more comfortable working alone, or that they make decisions based on feelings. This can help people understand their strengths, habits, and teamwork style. However, MBTI is not always 100% accurate, and no one fits perfectly into one type. People are more complex than a test result. Overall, MBTI can be a useful self-reflection tool, but it should not become a strict label."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I identified the main idea of the article.",
+      "I used details from the text.",
+      "I answered written questions in complete sentences.",
+      "I used preference or classification language.",
+      "I checked spelling and punctuation.",
+      "I compared my answer with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. MBTI is a personality test that helps people think about their preferences, but it should not be seen as a perfect description of a person.",
+      "readingComprehension": {
+        "rc1": "B. Myers-Briggs Type Indicator",
+        "rc2": "B. Katharine Cook Briggs and her daughter Isabel Briggs Myers",
+        "rc3": "A. Carl Jung",
+        "rc4": "B. Whether you gain energy from social interactions or spending time alone",
+        "rc5": "A. How people make choices—using logic and fairness versus personal values and feelings",
+        "rc6": "A. Because human personality is complex, and no test can perfectly fit a person into just 16 strict types."
+      },
+      "evidenceFromText": {
+        "ev1": "The Myers-Briggs Type Indicator, commonly known as MBTI, is a popular personality test that helps people explore how they think, feel, and interact with the world.",
+        "ev2": "The MBTI system sorts human personality into 16 distinct types based on four preference pairs.",
+        "ev3": "It is a helpful tool for self-discovery, but it is not a 100% accurate scientific measurement."
+      },
+      "languageFocus": {
+        "lf1": "four preference pairs (E/I, S/N, T/F, J/P)",
+        "lf2": "It helps people understand their personal strengths, habits, and teamwork style.",
+        "lf3": "MBTI results are not always 100% accurate.",
+        "lf4": "No one fits perfectly into just 16 personality categories."
+      }
+    },
+    "modelAnswer": "I think personality tests like MBTI can help people understand themselves, but they should be used carefully. MBTI is a personality test that sorts people into 16 types based on four preference pairs, such as Extraversion or Introversion and Thinking or Feeling. For example, a student might learn that they feel more comfortable working alone, or that they make decisions based on feelings. This can help people understand their strengths, habits, and teamwork style. However, MBTI is not always 100% accurate, and no one fits perfectly into one type. People are more complex than a test result. Overall, MBTI can be a useful self-reflection tool, but it should not become a strict label.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly states an opinion on whether MBTI helps self-understanding, explains what MBTI is, and provides at least two well-reasoned supporting arguments.",
+        "developing": "States an opinion, but the explanation of MBTI or supporting reasons are vague or incomplete.",
+        "beginning": "Opinion is unclear and fails to explain the purpose or limits of personality testing."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Accurately integrates at least one specific detail from the text (e.g., 16 types, four preference pairs, Carl Jung, 1940s, strengths/weaknesses).",
+        "developing": "Attempts to include a detail from the text, but it is inaccurate or loosely connected.",
+        "beginning": "Uses no details or evidence from the article."
+      },
+      {
+        "category": "Preference / Classification Language",
+        "excellent": "Uses target preference/classification connectors (based on, helps people understand, for example, not always, no one fits perfectly into) fluently and correctly.",
+        "developing": "Uses some target language, but with minor grammatical or phrasing errors.",
+        "beginning": "Uses limited or no target preference/classification expressions."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Paragraph is well-organized with a clear topic sentence, smooth transition between benefits and cautions, and a strong concluding sentence starting with an ending transition.",
+        "developing": "Shows basic organization, but transitions between test benefits and limitations feel abrupt.",
+        "beginning": "Lacks logical organization or paragraph structure."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Writes 100–140 words, uses complete sentences, and exhibits minimal spelling or grammatical errors.",
+        "developing": "Slightly outside 100–140 words or contains several language errors that disrupt readability.",
+        "beginning": "Significantly under or over word count with frequent errors."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach “personality,” “preference,” “introversion,” “extraversion,” and “label.”",
+      "Explain that MBTI is popular but not a perfect scientific description of personality.",
+      "Avoid making students reveal personal MBTI results if they do not want to.",
+      "Emphasize that personality types should not be used to judge or limit people.",
+      "Help students use the topic to discuss learning styles, teamwork, and self-reflection.",
+      "For lower-level students, provide sentence frames.",
+      "For stronger students, ask them to evaluate the strengths and limits of personality tests."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Lead-in / Warm-up",
+        "duration": "10 minutes",
+        "actions": "Welcome students and write 'MYERS-BRIGGS (MBTI)' on the board. Ask students to reflect on whether they consider themselves more outgoing or quiet, and whether they usually make decisions using logic or feelings. Introduce MBTI as a popular tool for self-reflection and ask why online personality quizzes attract so much interest."
+      },
+      {
+        "phase": "Vocabulary preview",
+        "duration": "10 minutes",
+        "actions": "Pre-teach key terms: personality, preference, introversion, extraversion, logic, flexible, strength, weakness, label. Emphasize that a 'preference' is simply what feels natural, not a test score or ability. Model pronunciation and check understanding with quick sample sentences."
+      },
+      {
+        "phase": "First reading for gist",
+        "duration": "10 minutes",
+        "actions": "Instruct students to read the text quietly once to grasp the main idea. Ask gist questions: What is MBTI? Who created it? Have students answer the Main Idea MCQ independently, then confirm why option A is the correct answer."
+      },
+      {
+        "phase": "Second reading for detail and evidence",
+        "duration": "15 minutes",
+        "actions": "Read the passage aloud or call on student volunteers paragraph by paragraph. Point out the creators (Briggs & Myers), Carl Jung's influence, the four preference pairs (E/I, S/N, T/F, J/P), and four sample types. Direct students to complete Reading Comprehension MCQs and Evidence from the Text, encouraging them to use Check & Compare for feedback."
+      },
+      {
+        "phase": "Language Focus",
+        "duration": "10 minutes",
+        "actions": "Teach preference and classification language: 'are you more likely to', 'based on', 'sorts people into', 'helps people understand', 'for example', 'not always', 'no one fits perfectly into'. Demonstrate how these expressions connect self-reflection with warnings against rigid labels. Guide students through short practice items."
+      },
+      {
+        "phase": "Writing Practice",
+        "duration": "15 minutes",
+        "actions": "Direct students to answer the 4 short written-response questions in 2-4 sentences each. Walk around to provide individual support. Encourage students to click 'Check & Compare' to evaluate their responses against model answers."
+      },
+      {
+        "phase": "Final Writing Task",
+        "duration": "20 minutes",
+        "actions": "Introduce the final prompt: 'Can personality tests like MBTI help people understand themselves?' Review checklist criteria together: 100–140 words, clear stance, explanation of MBTI, two reasons, target connectors, and a strong concluding sentence. Provide uninterrupted writing time."
+      },
+      {
+        "phase": "Self-check and submission",
+        "duration": "5 minutes",
+        "actions": "Guide students through the Self-check checklist. Instruct them to enter their Name and Student Code, then click 'Submit Lesson'. Remind them that submitting unlocks the full model answer for final reflection."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we will talk about / personality types / and how people understand themselves.",
+          "korean": "오늘 우리는 이야기해 볼 것입니다 / 성격 유형에 대해 / 그리고 사람들이 자신을 어떻게 이해하는지."
+        },
+        {
+          "english": "MBTI is one popular way / to describe personality preferences.",
+          "korean": "MBTI는 하나의 인기 있는 방법입니다 / 성격 선호도를 설명하는."
+        },
+        {
+          "english": "But remember: / a personality test can help us reflect, / but it should not become a strict label.",
+          "korean": "하지만 기억하세요: / 성격 검사는 우리가 스스로를 되돌아보는 데 도움을 줄 수 있지만, / 엄격한 라벨이 되어서는 안 됩니다."
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "Do you think you are more outgoing / or more quiet? / Why?",
+          "translation": "당신은 자신이 더 외향적이라고 생각하나요 / 아니면 더 조용하다고 생각하나요? / 왜 그런가요?",
+          "followUp": "Where do you feel you get your energy from? / 어디서 에너지를 얻는다고 느끼나요?"
+        },
+        {
+          "question": "Do you usually make decisions / with logic or feelings?",
+          "translation": "당신은 보통 결정을 내리나요 / 논리로 아니면 감정으로?",
+          "followUp": "What happens when logic and feelings conflict? / 논리와 감정이 충돌할 때 어떻게 하나요?"
+        },
+        {
+          "question": "Why might people enjoy / taking personality tests?",
+          "translation": "왜 사람들은 즐거워할까요 / 성격 검사를 받는 것을?",
+          "followUp": "Do you think personality tests are accurate or just fun? / 성격 검사가 정확하다고 생각하나요, 아니면 그냥 재미인가요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "The Myers-Briggs Type Indicator, commonly known as MBTI, is a popular personality test that helps people explore how they think, feel, and interact with the world.",
+          "chunkReading": "The Myers-Briggs Type Indicator, / commonly known as MBTI, / is a popular personality test / that helps people explore / how they think, feel, and interact / with the world.",
+          "directKorean": "마이어스-브릭스 유형 지표는, / 흔히 MBTI로 알려진, / 인기 있는 성격 검사이다 / 사람들이 탐색하도록 돕는 / 그들이 어떻게 생각하고, 느끼고, 상호작용하는지 / 세상과.",
+          "naturalKorean": "흔히 MBTI로 알려진 마이어스-브릭스 유형 지표는 사람들이 세상과 어떻게 생각하고, 느끼고, 상호작용하는지 탐색하도록 돕는 인기 있는 성격 검사입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "commonly known as",
+              "meaning": "흔히 ~로 알려진",
+              "use": "통상적으로 불리는 별칭이나 줄임말을 소개할 때 사용합니다.",
+              "example": "Ascorbic acid, commonly known as Vitamin C, is healthy."
+            },
+            {
+              "chunk": "interact with",
+              "meaning": "~와 상호작용하다, 소통하다",
+              "use": "사람이나 환경과 관계를 맺고 영향을 주고받음을 뜻합니다.",
+              "example": "He finds it easy to interact with new classmates."
+            }
+          ],
+          "mustKnowGrammar": "주어 'The Myers-Briggs Type Indicator' 뒤에 동격 삽입구 'commonly known as MBTI'가 오며, 주격 관계대명사절 'that helps people explore...'가 보어인 'a popular personality test'를 수식합니다.",
+          "feynmanExplanation": "우리가 잘 아는 MBTI는 '내가 어떤 방식으로 생각하고 다른 사람들과 어울리는지' 스스로를 관찰하도록 도와주는 대표적인 성격 테스트예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the relative clause starting with 'that helps people explore'. / It defines the purpose of MBTI.",
+              "korean": "'that helps people explore'로 시작하는 관계대명사절에 주목하세요. / MBTI의 목적을 정의해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "It was created in the 1940s by an American mother-daughter team, Katharine Cook Briggs and Isabel Briggs Myers.",
+          "chunkReading": "It was created / in the 1940s / by an American mother-daughter team, / Katharine Cook Briggs and Isabel Briggs Myers.",
+          "directKorean": "그것은 만들어졌다 / 1940년대에 / 미국의 모녀 팀에 의해, / 캐서린 쿡 브릭스와 이자벨 브릭스 마이어스인.",
+          "naturalKorean": "MBTI는 1940년대 미국의 모녀 팀인 캐서린 쿡 브릭스와 이자벨 브릭스 마이어스에 의해 만들어졌습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "in the 1940s",
+              "meaning": "1940년대에",
+              "use": "특정 세기나 십년대 연도를 나타낼 때 in the + 연도s 형태를 사용합니다.",
+              "example": "The factory was built in the 1940s."
+            },
+            {
+              "chunk": "mother-daughter team",
+              "meaning": "모녀 팀, 어머니와 딸로 구성된 팀",
+              "use": "어머니와 딸이 함께 협력하는 관계를 묘사합니다.",
+              "example": "They form a successful mother-daughter team."
+            }
+          ],
+          "mustKnowGrammar": "수동태 'was created' 뒤에 행위자를 나타내는 전치사 'by...'가 쓰였으며, 쉼표 뒤에 모녀 팀의 이름이 동격으로 연결됩니다.",
+          "feynmanExplanation": "MBTI라는 이름은 이 테스트를 함께 만든 엄마(캐서린)와 딸(이자벨)의 성(Briggs & Myers)을 따서 붙인 거랍니다.",
+          "teachingTranscript": [
+            {
+              "english": "The test takes its name from / the mother-daughter creators: / Briggs and Myers.",
+              "korean": "이 테스트의 이름은 / 모녀 창립자인 / 브릭스와 마이어스의 이름에서 따온 것입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "They were inspired by the famous Swiss psychologist Carl Jung, who suggested that human beings use their minds in different, predictable ways.",
+          "chunkReading": "They were inspired / by the famous Swiss psychologist Carl Jung, / who suggested that / human beings use their minds / in different, predictable ways.",
+          "directKorean": "그들은 영감을 받았다 / 스위스의 유명한 심리학자 칼 융에 의해, / 그는 제안했다 / 인간이 그들의 마음을 사용한다고 / 다르고 예측 가능한 방식으로.",
+          "naturalKorean": "그들은 인간이 다르고 예측 가능한 방식으로 마음을 사용한다고 주장한 스위스의 유명한 심리학자 칼 융에게서 영감을 받았습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "were inspired by",
+              "meaning": "~에게 영감을 받았다",
+              "use": "다른 사람의 아이디어나 작품에서 자극을 받아 창작했음을 나타냅니다.",
+              "example": "The artist was inspired by nature."
+            },
+            {
+              "chunk": "in predictable ways",
+              "meaning": "예측 가능한 방식으로",
+              "use": "행동이나 패턴을 미리 짐작할 수 있음을 의미합니다.",
+              "example": "Habits form in predictable ways."
+            }
+          ],
+          "mustKnowGrammar": "수동태 'were inspired by'와 고유명사 Carl Jung을 수식하는 계속적 용법의 관계대명사 'who suggested that...' 구문이 사용되었습니다.",
+          "feynmanExplanation": "모녀가 마음대로 만든 게 아니라, '사람은 저마다 마음을 쓰는 정해진 패턴이 있다'고 말한 유명한 심리학자 칼 융의 이론을 바탕으로 연구했어요.",
+          "teachingTranscript": [
+            {
+              "english": "Carl Jung provided / the psychological framework / for the MBTI.",
+              "korean": "칼 융은 제공했습니다 / 심리학적 틀을 / MBTI를 위한."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "The MBTI system sorts human personality into 16 distinct types based on four preference pairs.",
+          "chunkReading": "The MBTI system / sorts human personality / into 16 distinct types / based on / four preference pairs.",
+          "directKorean": "MBTI 시스템은 / 인간의 성격을 분류한다 / 16가지 고유한 유형으로 / ~에 기반하여 / 네 가지 선호 쌍.",
+          "naturalKorean": "MBTI 시스템은 네 가지 선호 쌍을 기반으로 인간의 성격을 16가지 고유한 유형으로 분류합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "sorts into",
+              "meaning": "~으로 분류하다, 나누다",
+              "use": "sort A into B 구문으로 대상 A를 B 카테고리로 나눔을 뜻합니다.",
+              "example": "She sorts the books into fiction and non-fiction."
+            },
+            {
+              "chunk": "based on",
+              "meaning": "~에 근거하여, ~에 기반하여",
+              "use": "판단이나 분류의 기준을 설명할 때 매우 자주 쓰는 전치사구입니다.",
+              "example": "The film is based on a true story."
+            }
+          ],
+          "mustKnowGrammar": "단수 주어 'The MBTI system'에 현재 동사 'sorts'가 연결되며, 'based on + 명사' 분사구문이 분류의 기준을 한정해 줍니다.",
+          "feynmanExplanation": "네 가지 질문(선호 쌍)에서 어느 쪽을 더 좋아하는지 고르면 2×2×2×2 = 총 16가지의 성격 서랍 중 하나로 나누어지는 원리예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the expression 'sorts into' / and 'based on'. / They are key classification phrases.",
+              "korean": "'sorts into'와 / 'based on' 표현을 주목하세요. / 핵심 분류 표현들입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "These four pairs include Extraversion or Introversion, Sensing or Intuition, Thinking or Feeling, and Judging or Perceiving.",
+          "chunkReading": "These four pairs include / Extraversion or Introversion, / Sensing or Intuition, / Thinking or Feeling, / and Judging or Perceiving.",
+          "directKorean": "이 네 가지 쌍은 포함한다 / 외향성 또는 내향성, / 감각 또는 직관, / 사고 또는 감정, / 그리고 판단 또는 인식.",
+          "naturalKorean": "이 네 가지 쌍에는 외향성/내향성, 감각/직관, 사고/감정, 판단/인식이 포함됩니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "these four pairs include",
+              "meaning": "이 네 가지 쌍에는 ~이 포함된다",
+              "use": "구성 요소를 열거할 때 씁니다.",
+              "example": "The main categories include reading and writing."
+            }
+          ],
+          "mustKnowGrammar": "타동사 'include'의 목적어로 네 개의 선택 쌍(E/I, S/N, T/F, J/P)이 쉼표와 접속사 and로 4항 병렬 연결되어 있습니다.",
+          "feynmanExplanation": "E/I(사람/혼자), S/N(사실/아이디어), T/F(논리/마음), J/P(계획/자유)라는 4가지 잣대로 선택을 확인해요.",
+          "teachingTranscript": [
+            {
+              "english": "Each pair represents / two opposite preferences.",
+              "korean": "각 쌍은 나타냅니다 / 두 개의 상반된 선호도를."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "For example, an INTJ is often called The Mastermind who likes solving problems alone, while an ESFP is called The Entertainer who enjoys being with people.",
+          "chunkReading": "For example, / an INTJ / is often called The Mastermind / who likes solving problems alone, / while an ESFP / is called The Entertainer / who enjoys being with people.",
+          "directKorean": "예를 들어, / INTJ는 / 자주 '마스터마인드'라 불린다 / 혼자 문제 해결하는 것을 좋아하는, / 반면에 ESFP는 / '엔터테이너'라 불린다 / 사람들과 함께 있는 것을 즐기는.",
+          "naturalKorean": "예를 들어 INTJ는 혼자 문제 해결을 즐기는 '마스터마인드'로 불리는 반면, ESFP는 사람들과 어울리길 좋아하는 '엔터테이너'로 불립니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is often called",
+              "meaning": "흔히 ~라 불린다",
+              "use": "수동태 표현으로 사람들의 일반적인 호칭을 지칭합니다.",
+              "example": "He is often called a genius."
+            },
+            {
+              "chunk": "enjoys being with",
+              "meaning": "~와 함께 있음을 즐기다",
+              "use": "enjoy + 동명사(-ing) 구문입니다.",
+              "example": "She enjoys being with her family."
+            }
+          ],
+          "mustKnowGrammar": "대조를 나타내는 접속사 'while'을 중심으로 두 수동태 문장이 연결되며, 각 타입 이름 뒤에 관계대명사절(who likes... / who enjoys...)이 붙어 있습니다.",
+          "feynmanExplanation": "INTJ는 혼자 차분히 전략을 짜는 전략가 스타일인 반면, ESFP는 사람들과 신나게 어울리는 분위기 메이커 스타일이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'While' contrasts / two very different MBTI profiles.",
+              "korean": "'While'은 대조합니다 / 매우 서로 다른 두 가지 MBTI 프로필을."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "People use MBTI to learn about personal strengths and weaknesses, discover potential jobs, and understand how they work in teams.",
+          "chunkReading": "People use MBTI / to learn about / personal strengths and weaknesses, / discover potential jobs, / and understand / how they work in teams.",
+          "directKorean": "사람들은 MBTI를 사용한다 / ~에 대해 배우기 위해 / 개인의 장점과 단점, / 잠재적인 직업을 발견하고, / 그리고 이해하기 위해 / 그들이 팀에서 어떻게 일하는지.",
+          "naturalKorean": "사람들은 개인의 장단점을 배우고, 적성에 맞는 직업을 발견하며, 팀에서 어떻게 협력하는지 이해하기 위해 MBTI를 활용합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "strengths and weaknesses",
+              "meaning": "장점과 단점, 강점과 약점",
+              "use": "성격이나 역량의 양면을 함께 가리킬 때 세트로 쓰는 표현입니다.",
+              "example": "Everyone has their own strengths and weaknesses."
+            },
+            {
+              "chunk": "work in teams",
+              "meaning": "팀으로 일하다, 협동하다",
+              "use": "그룹 내에서 역할을 수행함을 뜻합니다.",
+              "example": "Students learn to work in teams."
+            }
+          ],
+          "mustKnowGrammar": "목적을 나타내는 to부정사(to learn..., [to] discover..., and [to] understand...)가 3개 병렬 구조로 연결되어 있으며, 마지막 부정사의 목적어로 간접의문문(how they work...)이 들어왔습니다.",
+          "feynmanExplanation": "사람들이 이 검사를 하는 이유는 내 장단점도 알고, 나와 잘 맞는 일이나 친구와 협동하는 방식을 배우는 데 큰 도움이 되기 때문이에요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the 3 parallel verbs / after 'to': learn, discover, and understand.",
+              "korean": "'to' 뒤의 3가지 병렬 동사를 보세요: learn, discover, understand."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Because it measures preferences rather than ability, MBTI is not a test you pass or fail.",
+          "chunkReading": "Because it measures preferences / rather than ability, / MBTI is not a test / you pass or fail.",
+          "directKorean": "그것은 선호도를 측정하기 때문에 / 능력보다는, / MBTI는 시험이 아니다 / 당신이 합격하거나 불합격하는.",
+          "naturalKorean": "MBTI는 능력이 아니라 개인의 선호도를 측정하기 때문에 점수를 받아 합격하거나 불합격하는 시험이 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "rather than",
+              "meaning": "~라기보다는, ~ 대신에",
+              "use": "두 요소 중 하나의 성격을 배제하거나 대조할 때 씁니다.",
+              "example": "Choose quality rather than quantity."
+            },
+            {
+              "chunk": "pass or fail",
+              "meaning": "합격하거나 불합격하다",
+              "use": "시험의 이분법적 평가 기준을 나타냅니다.",
+              "example": "This is a pass or fail assignment."
+            }
+          ],
+          "mustKnowGrammar": "이유의 부사절 'Because...'로 시작하며, 주절의 명사 'a test' 뒤에 목적격 관계대명사(that/which)가 생략된 관계절 '(that) you pass or fail'이 연결됩니다.",
+          "feynmanExplanation": "수학 시험처럼 100점을 맞아 합격하는 시험이 아니라, '나는 사과보다 딸기가 좋아'처럼 내가 뭘 좋아하는지 알아보는 설문 조사예요.",
+          "teachingTranscript": [
+            {
+              "english": "MBTI measures preferences, / not intelligence or skill.",
+              "korean": "MBTI는 선호도를 측정합니다, / 지능이나 기술이 아니라."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "It is not always 100% accurate, and no one fits perfectly into just 16 types.",
+          "chunkReading": "It is not always 100% accurate, / and no one fits perfectly / into just 16 types.",
+          "directKorean": "그것은 항상 100% 정확한 것은 아니다, / 그리고 아무도 완벽히 들어맞지 않는다 / 단지 16가지 유형에.",
+          "naturalKorean": "MBTI가 항상 100% 정확한 것은 아니며, 그 누구도 단 16가지 유형에 완벽하게 들어맞지는 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "not always",
+              "meaning": "항상 ~인 것은 아니다 (부분 부정)",
+              "use": "예외나 한계가 존재함을 나타냅니다.",
+              "example": "The weather is not always sunny."
+            },
+            {
+              "chunk": "fits perfectly into",
+              "meaning": "~에 완벽히 들어맞다, 딱 맞다",
+              "use": "틀이나 범주에 완벽하게 일치함을 뜻합니다.",
+              "example": "No single model fits perfectly into every situation."
+            }
+          ],
+          "mustKnowGrammar": "부분 부정 구문 'not always'와 부정을 나타내는 대명사 주어 'no one' + 단수 동사 'fits'가 접속사 and로 연결된 등가문입니다.",
+          "feynmanExplanation": "사람 성격은 너무나 복잡하고 신비로워서, 알파벳 4글자 서랍 16개에 온전히 100% 가둬놓을 수는 없다는 점을 명심해야 해요.",
+          "teachingTranscript": [
+            {
+              "english": "'Not always' expresses partial negation. / It warns against over-reliance.",
+              "korean": "'Not always'는 부분 부정을 나타냅니다. / 지나친 신뢰에 대해 경고합니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "I think personality tests like MBTI can help people understand themselves because __________.",
+          "MBTI is a personality test that sorts people into 16 types based on __________.",
+          "For example, a student might learn that they __________.",
+          "This can help people understand their __________.",
+          "However, MBTI is not always __________.",
+          "Overall, MBTI can be a useful self-reflection tool, but __________."
+        ],
+        "usefulConnectors": [
+          "based on",
+          "sorts people into",
+          "helps people understand",
+          "for example",
+          "not always",
+          "no one fits perfectly into",
+          "however",
+          "overall"
+        ],
+        "usefulVocabulary": [
+          "personality",
+          "preference",
+          "introversion",
+          "extraversion",
+          "logic",
+          "flexible",
+          "strength",
+          "weakness",
+          "label",
+          "self-reflection"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State your view on whether MBTI helps self-understanding.",
+          "2. Definition & Mechanism: Explain what MBTI is and how it sorts people based on preferences.",
+          "3. Specific Example & Benefit: Give a concrete example of how it helps with strengths or teamwork.",
+          "4. Limitation & Warning: Explain why it is not 100% accurate and warn against rigid labels.",
+          "5. Concluding Sentence: Summarize your balanced opinion on MBTI as a reflection tool."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "MBTI sorts people based on four preference pair.",
+            "correction": "MBTI sorts people based on four preference pairs. (Use plural 'pairs')."
+          },
+          {
+            "mistake": "No one fit perfectly in 16 types.",
+            "correction": "No one fits perfectly into just 16 types. (Use singular verb 'fits' with 'no one')."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Ensure subject-verb agreement with singular indefinite pronouns like 'no one fits'.",
+          "Check that the word count is within the target range of 100–140 words.",
+          "Verify that the paragraph balances benefits with warnings against rigid labels."
+        ]
+      }
+    }
+  }
+}

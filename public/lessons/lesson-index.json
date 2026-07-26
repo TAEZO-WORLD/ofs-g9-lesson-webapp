@@ -1,6 +1,13 @@
 {
-  "latest": "2026-07-22-ancient-greeks-personality",
+  "latest": "2026-07-23-myers-briggs-personality-type",
   "lessons": [
+    {
+      "slug": "2026-07-23-myers-briggs-personality-type",
+      "title": "Myers-Briggs: What’s Your Personality Type?",
+      "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-23"
+    },
     {
       "slug": "2026-07-22-ancient-greeks-personality",
       "title": "How Ancient Greeks Explained Personality",
