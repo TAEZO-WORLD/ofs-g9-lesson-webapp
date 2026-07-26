@@ -1,0 +1,723 @@
+{
+  "lessonTitle": "How Ancient Greeks Explained Personality",
+  "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+  "textType": "Informational Explanation Paragraph",
+  "lessonGoal": "Students will read an informational text about how ancient Greeks explained personality, identify the main idea and supporting details, learn psychology and classification vocabulary, and write short explanatory responses about personality types and human behavior.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Think about personality and human behavior. Answer the warm-up questions below. There are no right or wrong answers.",
+    "questions": [
+      "How would you describe your personality in three words?",
+      "Why do people like personality tests or quizzes?",
+      "Do you think personality can be explained easily? Why or why not?"
+    ]
+  },
+  "article": {
+    "title": "How Ancient Greeks Explained Personality",
+    "source": "Source: Adapted from teacher-provided classroom source image.",
+    "note": "OFS Grade 9 International English — Unit 2",
+    "paragraphs": [
+      "Thousands of years ago, long before modern psychology existed, people wanted to understand why human beings behave in different ways. According to ancient Greek doctors, human mood and personality depended on the balance of four body fluids: yellow bile, black bile, phlegm, and blood. These four fluids were known as the 'four humours.' Medical thinkers believed that a healthy person had a perfect balance of all four humours. However, if one fluid became dominant, it was believed to change a person’s temperament, mood, and emotional state.",
+      "Each of the four humours was linked to a specific personality type. For example, too much yellow bile was believed to make a person irritable, short-tempered, and stubborn. On the other hand, an excess of blood was believed to make a person cheerful, energetic, and optimistic. Meanwhile, too much phlegm made someone calm and passive, while an excess of black bile was associated with a gloomy or anxious nature. This early theory helped people explain why someone might be calm, gloomy, outgoing, or anxious long before scientific psychology was developed.",
+      "Even though the four humours theory was not scientifically true, the idea remained popular for a very long time. For over two thousand years—continuing through the Middle Ages and into the time of William Shakespeare—doctors, writers, and ordinary people used the humours to describe human character. Even though modern science eventually proved that body fluids do not determine personality, the theory survived for centuries because it provided a clear structure to organize and explain human behavior when no other medical knowledge existed.",
+      "Some echoes of this ancient idea still appear today in modern culture and psychology. Although we no longer blame body fluids for our moods, people remain deeply interested in personality classification. Modern personality tests, such as the Myers-Briggs test, still group people into traits like 'extroverted' or 'calm.' One media psychology expert explained that classification is our built-in mechanism for organizing information. In other words, humans naturally like to group complex ideas and people into categories. The four humours theory may be unscientific, but our desire to classify personality remains as strong today as it was in ancient Greece."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "personality",
+        "definition": "the combination of characteristics, qualities, and behaviors that form an individual's unique character",
+        "sentence": "Ancient Greeks created one of the earliest theories of human personality."
+      },
+      {
+        "word": "mood",
+        "definition": "a temporary state of mind or feeling",
+        "sentence": "They believed that a person's mood was controlled by body fluids."
+      },
+      {
+        "word": "humour",
+        "definition": "in ancient medicine, one of the four body fluids believed to determine a person's health and temperament",
+        "sentence": "These four fluids were known as the 'four humours.'"
+      },
+      {
+        "word": "balance",
+        "definition": "a state where different elements or amounts are equal or in correct proportions",
+        "sentence": "According to ancient Greek doctors, personality depended on the balance of four body fluids."
+      },
+      {
+        "word": "irritable",
+        "definition": "easily annoyed, angry, or made impatient",
+        "sentence": "Too much yellow bile was believed to make a person irritable and stubborn."
+      },
+      {
+        "word": "cheerful",
+        "definition": "noticeably happy, lively, and optimistic",
+        "sentence": "Too much blood was believed to make a person cheerful and energetic."
+      },
+      {
+        "word": "gloomy",
+        "definition": "feeling sad, dark, or without hope",
+        "sentence": "Too much black bile was associated with a gloomy or anxious nature."
+      },
+      {
+        "word": "extroverted",
+        "definition": "outgoing, socially confident, and enjoying interactions with others",
+        "sentence": "Modern personality tests group people into traits like 'extroverted' or 'calm.'"
+      },
+      {
+        "word": "classification",
+        "definition": "the system or process of arranging things or people into groups based on shared qualities",
+        "sentence": "One media psychology expert said classification is our built-in mechanism for organizing information."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Ancient Greeks correctly proved that personality comes from body fluids.",
+      "B. Ancient Greeks used the four humours to explain personality, and people still like classifying personality today.",
+      "C. Shakespeare invented the four humours theory.",
+      "D. Modern psychology says personality tests are always scientifically perfect."
+    ],
+    "correctIndex": 1,
+    "explanation": "The article explains that ancient Greeks believed personality depended on four humours, and although this theory was not scientifically true, people today still use personality categories and tests to understand behavior."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What were the 'four humours' according to ancient Greek doctors?",
+        "options": [
+          "A. Four types of brain cells used in modern psychology",
+          "B. Four body fluids believed to control mood and personality",
+          "C. Four popular personality quizzes created by Shakespeare",
+          "D. Four stages of human physical growth"
+        ],
+        "correctIndex": 1,
+        "explanation": "According to ancient Greek doctors, the four humours were four body fluids (yellow bile, black bile, phlegm, and blood) that controlled mood and personality."
+      },
+      {
+        "id": "rc2",
+        "question": "Which four body fluids were included in the four humours theory?",
+        "options": [
+          "A. Water, oil, sweat, and tears",
+          "B. Yellow bile, black bile, phlegm, and blood",
+          "C. Saliva, stomach acid, blood, and water",
+          "D. Oxygen, nitrogen, carbon, and hydrogen"
+        ],
+        "correctIndex": 1,
+        "explanation": "The four body fluids included in the ancient Greek theory were yellow bile, black bile, phlegm, and blood."
+      },
+      {
+        "id": "rc3",
+        "question": "Why was the four humours theory NOT the same as modern scientific psychology?",
+        "options": [
+          "A. It was not scientifically true, but it gave people a structure to explain behavior before modern science existed.",
+          "B. It relied entirely on modern computer algorithms and data analysis.",
+          "C. It was proven to be 100% scientifically accurate by modern doctors.",
+          "D. It was created recently by media experts."
+        ],
+        "correctIndex": 0,
+        "explanation": "The article explains that the four humours theory was not scientifically true, but people used it because modern scientific psychology did not exist yet."
+      },
+      {
+        "id": "rc4",
+        "question": "What personality traits were believed to be caused by having too much yellow bile?",
+        "options": [
+          "A. Cheerful and energetic",
+          "B. Calm and passive",
+          "C. Irritable and stubborn",
+          "D. Gloomy and anxious"
+        ],
+        "correctIndex": 2,
+        "explanation": "The text explicitly states that an excess of yellow bile was believed to make a person irritable, short-tempered, and stubborn."
+      },
+      {
+        "id": "rc5",
+        "question": "What mood or personality was linked to an excess of blood?",
+        "options": [
+          "A. Gloomy and thoughtful",
+          "B. Cheerful and energetic",
+          "C. Stubborn and irritable",
+          "D. Calm and quiet"
+        ],
+        "correctIndex": 1,
+        "explanation": "According to the article, having an excess of blood was believed to make a person cheerful, energetic, and optimistic."
+      },
+      {
+        "id": "rc6",
+        "question": "Why are modern personality tests like Myers-Briggs connected to the ancient Greek idea of classification?",
+        "options": [
+          "A. Because modern personality tests measure body fluids like blood and phlegm.",
+          "B. Because humans have a built-in mechanism for organizing information into categories.",
+          "C. Because Shakespeare designed the questions for modern personality tests.",
+          "D. Because modern psychology has proven that human personality never changes."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that classification is our built-in mechanism for organizing information, so both ancient humours and modern tests fulfill the human desire to classify personality."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that explains what the four humours were.",
+        "modelAnswer": "According to ancient Greek doctors, human mood and personality depended on the balance of four body fluids: yellow bile, black bile, phlegm, and blood.",
+        "compareTip": "Your answer should mention that the four humours were four body fluids (yellow bile, black bile, phlegm, and blood).",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that shows the theory stayed popular for a long time.",
+        "modelAnswer": "For over two thousand years—continuing through the Middle Ages and into the time of William Shakespeare—doctors, writers, and ordinary people used the humours to describe human character.",
+        "compareTip": "Your answer should state that the theory lasted for over two thousand years or remained popular into Shakespeare's time.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that connects ancient personality ideas to modern personality tests.",
+        "modelAnswer": "Modern personality tests, such as the Myers-Briggs test, still group people into traits like 'extroverted' or 'calm.'",
+        "compareTip": "Your answer should mention modern tests like Myers-Briggs or traits like extroverted and calm.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Classification and Explanation Language",
+    "explanation": "In informational and explanatory texts, writers use specific linking expressions to state sources (according to), explain historical beliefs (was believed to, was linked to, depended on), provide examples (for example), show contrast (even though), and link past ideas to present habits (today, we still).",
+    "examples": [
+      "According to ancient Greek doctors, personality depended on body fluids.",
+      "Too much yellow bile was believed to make a person irritable and stubborn.",
+      "Too much blood was linked to a cheerful and energetic personality.",
+      "Even though this theory was not scientifically true, it remained popular for centuries.",
+      "Today, we still use personality tests to classify human behavior."
+    ],
+    "practice": [
+      "Complete the sentence: According to the ancient Greek theory, personality depended on __________.",
+      "Write one sentence using 'was believed to' to explain how body fluids affected mood.",
+      "Write one sentence using 'even though' to contrast ancient humours with modern science.",
+      "Write one sentence using 'today, we still' to connect past theories with modern personality tests."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Why did ancient Greeks use the four humours to explain personality?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "Ancient Greeks used the four humours to explain personality because modern psychological science did not exist yet. They believed that four body fluids—yellow bile, black bile, phlegm, and blood—controlled human mood and temperament. Balancing these fluids gave them a simple way to understand different human behaviors.",
+        "compareTip": "Did your answer explain that ancient Greeks lacked modern psychology and believed body fluids controlled mood and behavior?"
+      },
+      {
+        "id": "wp2",
+        "question": "Why was the four humours theory different from modern psychology?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "The four humours theory was different from modern psychology because it was not scientifically true. Ancient doctors incorrectly believed that physical body fluids determined emotional temperaments. In contrast, modern psychology uses scientific evidence, brain studies, and behavioral research to analyze personality.",
+        "compareTip": "Did your answer contrast unscientific beliefs about body fluids with modern scientific psychology?"
+      },
+      {
+        "id": "wp3",
+        "question": "Why do people still enjoy personality tests today?",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "People still enjoy personality tests today because humans have a built-in mechanism for organizing information into categories. Modern quizzes like the Myers-Briggs test offer simple labels like 'extroverted' or 'calm' to help people describe themselves. It fulfills our natural desire to understand ourselves and others.",
+        "compareTip": "Did your answer mention the human desire to classify information or mention personality tests like Myers-Briggs?"
+      },
+      {
+        "id": "wp4",
+        "question": "Do you think classifying personality is useful or too simple? Explain your answer.",
+        "placeholder": "Write 2–4 sentences here...",
+        "modelAnswer": "I think classifying personality can be useful as a starting point, but it becomes too simple if used too strictly. Personality categories help people communicate basic traits like being outgoing or quiet. However, human behavior is very complex, so we should not limit anyone to a single label.",
+        "compareTip": "Did you state your opinion clearly and explain both the benefits and limitations of classifying personality?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a short explanatory paragraph of 100–140 words answering this question: Why do people try to classify personality, and is this useful?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State your opinion clearly.",
+      "Explain the ancient Greek four humours theory.",
+      "Give at least two reasons why people classify personality.",
+      "Use at least one detail from the article.",
+      "Use classification or explanation language such as according to, was believed to, for example, even though, or today we still.",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "People try to classify personality because it helps them understand human behavior more easily. According to the ancient Greek theory, personality depended on the balance of four humours: yellow bile, black bile, phlegm, and blood. For example, too much yellow bile was believed to make a person irritable, while too much blood was believed to make someone cheerful. Even though this theory was not scientifically true, it helped people organize different moods and behaviors. Today, people still enjoy personality tests because they want simple ways to describe themselves and others. However, personality is very complex, so categories should not be used too strictly. Overall, personality classification can be useful, but it should be seen as a starting point, not a perfect answer."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I identified the main idea of the article.",
+      "I used details from the text.",
+      "I answered written questions in complete sentences.",
+      "I used classification or explanation language.",
+      "I checked spelling and punctuation.",
+      "I compared my answer with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "B. Ancient Greeks used the four humours to explain personality, and people still like classifying personality today.",
+      "readingComprehension": {
+        "rc1": "B. Four body fluids believed to control mood and personality",
+        "rc2": "B. Yellow bile, black bile, phlegm, and blood",
+        "rc3": "A. It was not scientifically true, but it gave people a structure to explain behavior before modern science existed.",
+        "rc4": "C. Irritable and stubborn",
+        "rc5": "B. Cheerful and energetic",
+        "rc6": "B. Because humans have a built-in mechanism for organizing information into categories."
+      },
+      "evidenceFromText": {
+        "ev1": "According to ancient Greek doctors, human mood and personality depended on the balance of four body fluids: yellow bile, black bile, phlegm, and blood.",
+        "ev2": "For over two thousand years—continuing through the Middle Ages and into the time of William Shakespeare—doctors, writers, and ordinary people used the humours to describe human character.",
+        "ev3": "Modern personality tests, such as the Myers-Briggs test, still group people into traits like 'extroverted' or 'calm.'"
+      },
+      "languageFocus": {
+        "lf1": "the balance of four humours (yellow bile, black bile, phlegm, and blood)",
+        "lf2": "Yellow bile was believed to make a person irritable and stubborn.",
+        "lf3": "Even though the humours theory was unscientific, it was popular for over two thousand years.",
+        "lf4": "Today, we still use personality tests to classify human behavior."
+      }
+    },
+    "modelAnswer": "People try to classify personality because it helps them understand human behavior more easily. According to the ancient Greek theory, personality depended on the balance of four humours: yellow bile, black bile, phlegm, and blood. For example, too much yellow bile was believed to make a person irritable, while too much blood was believed to make someone cheerful. Even though this theory was not scientifically true, it helped people organize different moods and behaviors. Today, people still enjoy personality tests because they want simple ways to describe themselves and others. However, personality is very complex, so categories should not be used too strictly. Overall, personality classification can be useful, but it should be seen as a starting point, not a perfect answer.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly states an opinion on personality classification, explains the ancient Greek four humours theory, and provides at least two well-reasoned explanations for why humans classify behavior.",
+        "developing": "States an opinion, but the explanation of the four humours or reasons for classification are incomplete or vague.",
+        "beginning": "Opinion is unclear and fails to explain why people classify personality."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Accurately integrates at least one specific detail from the article (e.g., four body fluids, yellow bile, Shakespeare, Myers-Briggs, built-in mechanism).",
+        "developing": "Attempts to include a detail from the text, but it is inaccurate or loosely connected.",
+        "beginning": "Uses no details or evidence from the article."
+      },
+      {
+        "category": "Classification / Explanation Language",
+        "excellent": "Uses target explanation connectors (according to, was believed to, for example, even though, today we still) correctly and fluently.",
+        "developing": "Uses some target language, but with minor grammatical or connector errors.",
+        "beginning": "Uses limited or no target explanation/classification connectors."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Paragraph is well-structured with a clear topic sentence, smooth transitions between historical and modern ideas, and a strong concluding sentence starting with an ending transition.",
+        "developing": "Shows basic organization, but transitions between ancient theory and modern personality tests feel abrupt.",
+        "beginning": "Lacks logical organization or paragraph structure."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Writes 100–140 words, uses complete sentences, and exhibits minimal spelling or grammatical errors.",
+        "developing": "Slightly outside the 100–140 word target or contains several grammatical errors that slightly disrupt readability.",
+        "beginning": "Significantly under or over word target with frequent errors that impede understanding."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach “personality,” “mood,” “humour,” “balance,” and “classification.”",
+      "Explain clearly that the four humours theory is historical, not modern science.",
+      "Help students understand that old theories can still influence language and culture.",
+      "Use simple examples of personality words: calm, cheerful, anxious, outgoing, gloomy.",
+      "Encourage students to support written answers with details from the article.",
+      "For lower-level students, provide sentence frames.",
+      "For stronger students, ask them to compare ancient classification with modern personality tests."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Lead-in / Warm-up",
+        "duration": "10 minutes",
+        "actions": "Welcome students and write 'PERSONALITY' on the board. Ask students to share three words that describe their personality. Introduce the idea that humans have tried to explain personality for thousands of years. Ask: Why do people like taking online personality quizzes or tests like Myers-Briggs? Encourage student pairs to discuss initial ideas before sharing with the class."
+      },
+      {
+        "phase": "Vocabulary preview",
+        "duration": "10 minutes",
+        "actions": "Pre-teach key terms: personality, mood, humour, balance, irritable, cheerful, gloomy, extroverted, classification. Clarify that in historical medicine, 'humour' referred to body fluids, not jokes or comedy. Model pronunciation and have students create short sample sentences for 'irritable' and 'classification'."
+      },
+      {
+        "phase": "First reading for gist",
+        "duration": "10 minutes",
+        "actions": "Instruct students to read the article silently once to grasp the main idea. Ask gist questions: What did ancient Greeks believe controlled personality? Do we still classify personality today? Have students answer the Main Idea MCQ independently, then confirm why option B is correct."
+      },
+      {
+        "phase": "Second reading for detail and evidence",
+        "duration": "15 minutes",
+        "actions": "Read the passage aloud or call on student volunteers paragraph by paragraph. Highlight the four humours (yellow bile, black bile, phlegm, blood) and their matching personality traits. Have students complete the Reading Comprehension MCQs and Evidence from the Text section, using 'Check & Compare' to verify textual evidence."
+      },
+      {
+        "phase": "Language Focus",
+        "duration": "10 minutes",
+        "actions": "Explicitly teach classification and explanation language: 'according to', 'was linked to', 'was believed to', 'depended on', 'for example', 'even though', 'today, we still'. Demonstrate how these expressions connect historical beliefs to modern habits. Guide students through the short completion practice items."
+      },
+      {
+        "phase": "Writing Practice",
+        "duration": "15 minutes",
+        "actions": "Direct students to complete the 4 short written-response questions in 2-4 complete sentences each. Walk around the room to provide individualized feedback. Prompt students to click 'Check & Compare' to evaluate their responses against the model answers."
+      },
+      {
+        "phase": "Final Writing Task",
+        "duration": "20 minutes",
+        "actions": "Introduce the final prompt: 'Why do people try to classify personality, and is this useful?' Review the checklist criteria together: 100–140 words, clear stance, reference to the four humours theory, two reasons for classification, target connectors, and a strong concluding sentence. Provide uninterrupted writing time."
+      },
+      {
+        "phase": "Self-check and submission",
+        "duration": "5 minutes",
+        "actions": "Guide students through the Self-check checklist. Instruct them to enter their Name and Student Code, then click 'Submit Lesson'. Point out that submitting reveals the complete model answer for final reflection."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we will talk about / personality / and how ancient people explained it.",
+          "korean": "오늘 우리는 이야기해 볼 것입니다 / 성격에 대해 / 그리고 옛날 사람들이 그것을 어떻게 설명했는지."
+        },
+        {
+          "english": "Before modern psychology existed, / ancient Greeks believed / personality came from four body fluids.",
+          "korean": "현대 심리학이 존재하기 전에, / 고대 그리스인들은 믿었습니다 / 성격이 네 가지 체액에서 나온다고."
+        },
+        {
+          "english": "This theory was not scientifically true, / but it helped people / organize human behavior.",
+          "korean": "이 이론은 과학적으로 사실이 아니었지만, / 사람들이 이해하는 데 도움을 주었습니다 / 인간의 행동을 정리하여."
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "How would you describe your personality / in three words?",
+          "translation": "당신의 성격을 / 세 단어로 어떻게 설명하시겠습니까?",
+          "followUp": "Why did you choose those specific words? / 왜 그 단어들을 선택했나요?"
+        },
+        {
+          "question": "Why do people like / personality tests or quizzes?",
+          "translation": "왜 사람들은 좋아할까요 / 성격 검사나 퀴즈를?",
+          "followUp": "Have you ever taken a test like Myers-Briggs? / 마이어스-브릭스 같은 성격 검사를 받아본 적이 있나요?"
+        },
+        {
+          "question": "Do you think personality / can be explained easily? / Why or why not?",
+          "translation": "성격이 / 쉽게 설명될 수 있다고 생각하나요? / 왜 그렇거나 그렇지 않나요?",
+          "followUp": "Is human behavior too complex for simple labels? / 인간의 행동은 단순한 라벨로 지정하기에 너무 복잡한가요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "Thousands of years ago, long before modern psychology existed, people wanted to understand why human beings behave in different ways.",
+          "chunkReading": "Thousands of years ago, / long before modern psychology existed, / people wanted to understand / why human beings behave / in different ways.",
+          "directKorean": "수천 년 전에, / 현대 심리학이 존재하기 훨씬 전에, / 사람들은 이해하기를 원했다 / 왜 인간이 행동하는지 / 서로 다른 방식으로.",
+          "naturalKorean": "수천 년 전, 현대 심리학이 존재하기 훨씬 전부터 사람들은 왜 인간이 서로 다른 방식으로 행동하는지 이해하고 싶어 했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "long before",
+              "meaning": "~하기 훨씬 전에",
+              "use": "어떤 사건이나 시대가 시작되기 훨씬 전임을 강조할 때 씁니다.",
+              "example": "They lived here long before the city was built."
+            },
+            {
+              "chunk": "in different ways",
+              "meaning": "서로 다른 방식으로, 다양한 방법으로",
+              "use": "행동이나 방법이 다양함을 나타낼 때 씁니다.",
+              "example": "People react to stress in different ways."
+            }
+          ],
+          "mustKnowGrammar": "주어 people 뒤에 원망 동사 wanted + to부정사(to understand)가 왔으며, understand의 목적어로 의문사절(why human beings behave...)이 접속되었습니다.",
+          "feynmanExplanation": "옛날 옛적에 심리학이라는 학문이 없던 시절에도 사람들은 '저 사람은 왜 저렇게 행동할까?'라는 궁금증을 품고 이유를 찾으려고 했어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the phrase 'long before modern psychology existed'. / It sets the historical context.",
+              "korean": "'long before modern psychology existed'라는 표현에 주목하세요. / 이것이 역사적 배경을 설정해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "According to ancient Greek doctors, human mood and personality depended on the balance of four body fluids: yellow bile, black bile, phlegm, and blood.",
+          "chunkReading": "According to ancient Greek doctors, / human mood and personality / depended on / the balance of four body fluids: / yellow bile, black bile, phlegm, and blood.",
+          "directKorean": "고대 그리스 의사들에 따르면, / 인간의 기분과 성격은 / ~에 의존했다 / 네 가지 체액의 균형에: / 황담즙, 흑담즙, 점액, 그리고 혈액.",
+          "naturalKorean": "고대 그리스 의사들에 따르면 인간의 기분과 성격은 황담즙, 흑담즙, 점액, 혈액이라는 네 가지 체액의 균형에 달려 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "according to",
+              "meaning": "~에 따르면, ~의 말에 의하면",
+              "use": "정보의 출처나 누군가의 주장을 인용할 때 사용합니다.",
+              "example": "According to the report, sales increased."
+            },
+            {
+              "chunk": "depended on",
+              "meaning": "~에 달려 있었다, ~에 의존했다",
+              "use": "결과나 상태가 특정 요소에 의해 결정됨을 나타냅니다.",
+              "example": "Success depended on hard work."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'According to...'가 문두에 쓰였으며, 주어 'human mood and personality'에 대한 과거 동사 'depended on'이 쓰였습니다. 콜론(:) 뒤에 네 가지 체액이 열거됩니다.",
+          "feynmanExplanation": "그리스 의사들은 우리 몸 속에 네 가지 물(체액)이 들어있는데, 이 비율이 딱 맞아야 건강하고 기분도 좋다고 믿었어요.",
+          "teachingTranscript": [
+            {
+              "english": "The four fluids are / yellow bile, black bile, phlegm, and blood.",
+              "korean": "네 가지 체액은 / 황담즙, 흑담즙, 점액, 그리고 혈액입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "These four fluids were known as the four humours.",
+          "chunkReading": "These four fluids / were known as / the four humours.",
+          "directKorean": "이 네 가지 체액은 / ~로 알려져 있었다 / 4체액(four humours)으로.",
+          "naturalKorean": "이 네 가지 체액은 '4체액(four humours)'이라고 불렸습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "were known as",
+              "meaning": "~로 알려져 있었다, ~라고 불렸다",
+              "use": "특정 이름이나 명칭으로 인지되었음을 나타내는 수동태 표현입니다.",
+              "example": "They were known as great leaders."
+            }
+          ],
+          "mustKnowGrammar": "수동태 구문 'be known as + 명사'가 사용되어 주어가 뒤따르는 이름으로 칭해졌음을 설명합니다.",
+          "feynmanExplanation": "이 네 가지 체액을 옛날 의학 용어로 'humours(체액)'이라고 불렀어요. 여기서 humour는 웃긴 개그가 아니라 체액이라는 뜻이에요.",
+          "teachingTranscript": [
+            {
+              "english": "In historical medicine, / 'humour' means body fluid, / not comedy.",
+              "korean": "역사적 의학에서 / 'humour'는 유머가 아니라 체액을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Too much yellow bile was believed to make a person irritable, short-tempered, and stubborn.",
+          "chunkReading": "Too much yellow bile / was believed to make / a person / irritable, short-tempered, and stubborn.",
+          "directKorean": "너무 많은 황담즙은 / 만들 것으로 믿어졌다 / 한 사람을 / 짜증을 잘 내고, 성미가 급하고, 고집스럽게.",
+          "naturalKorean": "황담즙이 너무 많으면 사람을 짜증을 잘 내고 성미가 급하며 고집스럽게 만든다고 믿어졌습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "was believed to",
+              "meaning": "~하는 것으로 믿어졌다",
+              "use": "과거 사람들의 일반적인 믿음이나 추측을 나타낼 때 사용하는 수동태 표현입니다.",
+              "example": "The stone was believed to bring good luck."
+            },
+            {
+              "chunk": "too much",
+              "meaning": "너무 많은, 과도한",
+              "use": "불가산 명사의 양이 지나침을 나타냅니다.",
+              "example": "Too much noise causes stress."
+            }
+          ],
+          "mustKnowGrammar": "'was believed to + 동사원형(make)' 구조와 'make + 목적어(a person) + 형용사 보어(irritable, short-tempered, and stubborn)' 5형식 구문이 결합되었습니다.",
+          "feynmanExplanation": "몸 안에 노란 즙(황담즙)이 너무 넘치면 툭하면 화내고 고집을 부리는 깐깐한 성격이 된다고 생각했어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the 3-element adjective list: / irritable, short-tempered, and stubborn.",
+              "korean": "형용사 목록을 확인하세요: / 짜증내는, 성미 급한, 고집스러운."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "On the other hand, an excess of blood was believed to make a person cheerful, energetic, and optimistic.",
+          "chunkReading": "On the other hand, / an excess of blood / was believed to make / a person / cheerful, energetic, and optimistic.",
+          "directKorean": "반면에, / 피의 과다함은 / 만들 것으로 믿어졌다 / 한 사람을 / 명랑하고, 활기차고, 낙천적으로.",
+          "naturalKorean": "반면에 피가 과다하면 그 사람은 명랑하고 활기차며 낙천적으로 변한다고 믿어졌습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "on the other hand",
+              "meaning": "반면에, 다른 한편으로는",
+              "use": "상반되는 두 가지 사실이나 의견을 대조할 때 씁니다.",
+              "example": "He is quiet; on the other hand, his brother is loud."
+            },
+            {
+              "chunk": "an excess of",
+              "meaning": "~의 과다, 지나침",
+              "use": "어떤 물질이나 양이 기준치를 초과함을 뜻합니다.",
+              "example": "An excess of sugar is bad for health."
+            }
+          ],
+          "mustKnowGrammar": "대조 접속어구 'On the other hand'로 시작하며, 주어 'an excess of blood'에 대한 5형식 동사구(was believed to make + obj + adj)가 이어집니다.",
+          "feynmanExplanation": "반대로 피가 왕성하고 넘치면 기분이 항상 좋고 싱글벙글 활력이 넘치는 활발한 사람이 된다고 봤지요.",
+          "teachingTranscript": [
+            {
+              "english": "'An excess of blood' means / having too much blood / in the body.",
+              "korean": "'An excess of blood'는 / 체내에 피가 너무 많음을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "The theory helped people explain why someone might be calm, gloomy, outgoing, or anxious long before modern psychology existed.",
+          "chunkReading": "The theory helped people explain / why someone might be / calm, gloomy, outgoing, or anxious / long before modern psychology existed.",
+          "directKorean": "그 이론은 사람들이 설명하도록 도왔다 / 왜 누군가가 ~일 수 있는지 / 침착하거나, 우울하거나, 외향적이거나, 불안한지 / 현대 심리학이 존재하기 훨씬 전에.",
+          "naturalKorean": "이 이론은 현대 심리학이 생겨나기 훨씬 전부터 사람들이 누군가가 왜 침착하거나, 우울하거나, 외향적이거나, 불안한지 설명하는 데 도움을 주었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "helped people explain",
+              "meaning": "사람들이 설명하는 것을 도왔다",
+              "use": "help + 목적어 + 동사원형(원형부정사) 구문입니다.",
+              "example": "The map helped us find the way."
+            }
+          ],
+          "mustKnowGrammar": "'help + 목적어(people) + 원형부정사(explain)' 구문 뒤에 간접의문문 'why + 주어(someone) + 조동사(might) + be...'가 목적어로 쓰였습니다.",
+          "feynmanExplanation": "비록 진짜 과학은 아니었지만, 옛날 사람들에게는 '저 친구는 우울하고, 저 친구는 느긋하네'를 설명해주는 유일한 도구였던 거예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the list of personality adjectives: / calm, gloomy, outgoing, or anxious.",
+              "korean": "성격 형용사들을 살펴보세요: / 침착한, 우울한, 외향적인, 불안한."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Even though the idea was not scientifically true, it remained popular for a very long time, even into Shakespeare's time.",
+          "chunkReading": "Even though the idea / was not scientifically true, / it remained popular / for a very long time, / even into Shakespeare's time.",
+          "directKorean": "비록 그 생각이 / 과학적으로 사실이 아니었을지라도, / 그것은 인기 있는 상태로 남아있었다 / 매우 오랜 시간 동안, / 심지어 셰익스피어의 시대까지도.",
+          "naturalKorean": "그 생각이 과학적으로 진실은 아니었을지라도, 셰익스피어 시대에 이르기까지 아주 오랫동안 널리 사용되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "even though",
+              "meaning": "비록 ~일지라도, ~에도 불구하고",
+              "use": "양보의 부사절을 이끄는 접속사입니다.",
+              "example": "Even though it rained, we played soccer."
+            },
+            {
+              "chunk": "remained popular",
+              "meaning": "인기 있는 상태로 남아있었다, 지속적인 인기를 누렸다",
+              "use": "remain + 형용사 보어 구문입니다.",
+              "example": "The song remained popular for decades."
+            }
+          ],
+          "mustKnowGrammar": "양보 접속사 'Even though'절과 주절 'it remained popular...'로 이루어진 복문 구조이며, 'even into + 명사'는 연장된 기간을 강조합니다.",
+          "feynmanExplanation": "과학적으로 맞지 않는 이론인데도 무려 2천 년 넘게, 셰익스피어가 연극을 쓸 때까지도 사람들이 믿고 계속 썼어요.",
+          "teachingTranscript": [
+            {
+              "english": "Shakespeare often used the humours / to describe his characters' moods.",
+              "korean": "셰익스피어는 등장인물의 기분을 묘사할 때 / 4체액설을 자주 활용했습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Some echoes of this ancient idea still appear today in personality tests, such as the Myers-Briggs test, or in modern traits like extroverted and calm.",
+          "chunkReading": "Some echoes of this ancient idea / still appear today / in personality tests, / such as the Myers-Briggs test, / or in modern traits / like extroverted and calm.",
+          "directKorean": "이 고대 아이디어의 일부 메아리(흔적)가 / 오늘날 여전히 나타난다 / 성격 검사에, / 마이어스-브릭스 검사와 같은, / 혹은 현대의 특성들에 / 외향적이거나 침착함과 같은.",
+          "naturalKorean": "이 고대 아이디어의 흔적은 마이어스-브릭스 검사 같은 성격 검사나 '외향적', '침착함'과 같은 현대의 성격 유형 속에 오늘날에도 여전히 남아있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "echoes of",
+              "meaning": "~의 메아리, ~의 흔적이나 영향",
+              "use": "과거의 관념이 현대까지 영향을 미치고 있음을 비유적으로 표현할 때 사용합니다.",
+              "example": "We still see echoes of ancient traditions today."
+            },
+            {
+              "chunk": "such as",
+              "meaning": "~와 같은",
+              "use": "구체적인 예시를 들 때 사용합니다.",
+              "example": "Fruits such as apples and oranges are healthy."
+            }
+          ],
+          "mustKnowGrammar": "주어 'Some echoes of this ancient idea'에 부사 'still appear today'가 연결되고, 전치사구 'in personality tests... or in modern traits...'가 병렬 연결되어 있습니다.",
+          "feynmanExplanation": "요즘 우리가 흔히 하는 MBTI 성격 검사나 '나 외향적이야' 같은 말 속에도 옛날 4체액설처럼 사람을 몇 가지 유형으로 나누려는 방식이 그대로 들어있어요.",
+          "teachingTranscript": [
+            {
+              "english": "The word 'echoes' is used metaphorically / to mean lingering influences.",
+              "korean": "'echoes'라는 단어는 비유적으로 쓰여 / 지속되는 영향력을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "One media psychology expert said classification is our built-in mechanism for organizing information.",
+          "chunkReading": "One media psychology expert said / classification is / our built-in mechanism / for organizing information.",
+          "directKorean": "한 미디어 심리학 전문가는 말했다 / 분류는 ~이다 / 우리의 타고난 메커니즘 / 정보를 정리하기 위한.",
+          "naturalKorean": "한 미디어 심리학 전문가는 분류란 정보를 정리하기 위한 인간의 타고난 본능적 메커니즘이라고 말했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "built-in mechanism",
+              "meaning": "타고난 메커니즘, 내장된 기제",
+              "use": "인간이나 시스템에 본능적으로 내재된 기능이나 방식을 뜻합니다.",
+              "example": "Fear is a built-in mechanism for survival."
+            },
+            {
+              "chunk": "organizing information",
+              "meaning": "정보를 정리함, 정보를 조직화함",
+              "use": "for + 동명사 구문으로 목적이나 용도를 설명합니다.",
+              "example": "Folders are useful for organizing information."
+            }
+          ],
+          "mustKnowGrammar": "전달 동사 'said' 뒤에 접속사 that이 생략되어 명사절이 오며, 'for + 동명사(organizing)'가 용도를 한정해 줍니다.",
+          "feynmanExplanation": "전문가에 따르면, 인간은 복잡한 세상과 사람들을 몇 개의 서랍(카테고리)으로 딱딱 나누어서 정리해야 마음이 편해지는 타고난 본능이 있대요.",
+          "teachingTranscript": [
+            {
+              "english": "'Built-in mechanism' means / a natural, innate way of behaving.",
+              "korean": "'Built-in mechanism'은 / 자연스럽고 타고난 행동 방식을 의미합니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "People try to classify personality because __________.",
+          "According to the ancient Greek theory, personality depended on __________.",
+          "For example, too much yellow bile was believed to make a person __________.",
+          "Even though this theory was not scientifically true, __________.",
+          "Today, people still enjoy personality tests because __________.",
+          "Overall, personality classification can be useful, but __________."
+        ],
+        "usefulConnectors": [
+          "according to",
+          "was linked to",
+          "was believed to",
+          "depended on",
+          "for example",
+          "even though",
+          "today, we still",
+          "on the other hand",
+          "overall"
+        ],
+        "usefulVocabulary": [
+          "personality",
+          "four humours",
+          "yellow bile",
+          "black bile",
+          "phlegm",
+          "blood",
+          "irritable",
+          "cheerful",
+          "gloomy",
+          "extroverted",
+          "classification",
+          "mechanism"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State your stance on why people classify personality.",
+          "2. Historical Detail: Mention the ancient Greek four humours theory (yellow bile, blood, etc.).",
+          "3. Function / Reason: Explain why people used and still use categories to organize information.",
+          "4. Modern Connection: Refer to modern personality tests like Myers-Briggs.",
+          "5. Concluding Sentence: Summarize your view on the usefulness and limits of classification."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "According to ancient Greeks, personality is depend on blood.",
+            "correction": "According to ancient Greeks, personality depended on blood."
+          },
+          {
+            "mistake": "Even though it was not true, but people believed it.",
+            "correction": "Even though it was not true, people believed it. (Avoid using 'even though' and 'but' together in one clause)."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Ensure students do not use double connectors like 'even though... but'.",
+          "Check that the word count is within the target range of 100–140 words.",
+          "Verify that students cite at least one specific detail from the text (e.g. four humours or Myers-Briggs)."
+        ]
+      }
+    }
+  }
+}
