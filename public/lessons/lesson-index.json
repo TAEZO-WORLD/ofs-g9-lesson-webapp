@@ -1,6 +1,13 @@
 {
-  "latest": "2026-08-04-farming-under-solar-panels",
+  "latest": "2026-08-05-whats-a-sim-card",
   "lessons": [
+    {
+      "slug": "2026-08-05-whats-a-sim-card",
+      "title": "What’s a SIM Card?",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Informational Explanation / Process Explanation Paragraph",
+      "date": "2026-08-05"
+    },
     {
       "slug": "2026-08-04-farming-under-solar-panels",
       "title": "Farming Under Solar Panels: A Bright Idea?",
