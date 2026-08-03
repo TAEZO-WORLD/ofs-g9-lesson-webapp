@@ -1,0 +1,904 @@
+{
+  "lessonTitle": "Farming Under Solar Panels: A Bright Idea?",
+  "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+  "textType": "Problem–Solution / Cause-and-Effect Report Paragraph",
+  "lessonGoal": "Students will read an informational problem–solution text about agrivoltaics in India, identify the main idea and supporting evidence, learn vocabulary about farming and renewable energy, and write short responses about how solar energy can help farmers and the environment.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Think about farming, energy, and the environment. Answer the warm-up questions below. There are no right or wrong answers.",
+    "questions": [
+      "What problems can farmers face because of hot weather or climate change?",
+      "How can solar panels help people or communities?",
+      "Do you think farmland should be used for both food and energy? Why or why not?"
+    ]
+  },
+  "article": {
+    "title": "Farming Under Solar Panels: A Bright Idea?",
+    "source": "Source: Adapted from teacher-provided classroom source image (NYT).",
+    "note": "OFS Grade 9 International English — Unit 4",
+    "paragraphs": [
+      "In India, extreme weather and unpredictable climate conditions create huge challenges for agriculture. To solve these problems, a smart farming technique called agrivoltaics is becoming popular. Agrivoltaics is a system where farmers grow crops on farmland while solar panels installed above the land generate clean, renewable energy. Instead of choosing between food production and energy generation, this dual-use method allows one piece of farmland to produce both at the same time.",
+      "One real-life example is Harpal Dagar, a farmer living near Delhi, who has been farming under solar panels for five years. Before adopting agrivoltaics, unpredictable weather and crop failure caused him severe stress. However, under the new system, his annual income has tripled. Furthermore, he receives stable financial support from Sun Master, the solar company partnering with him, which pays about $1,200 each year for every acre of land. Dagar explained that he can now sleep peacefully without constant anxiety about extreme heat, drought, or financial ruin.",
+      "Despite these remarkable benefits, agrivoltaics faces several significant challenges that prevent it from spreading rapidly. Currently, only about 40 agrivoltaic projects are operating across India. One major obstacle is crop suitability, as not all vegetables and grains grow well in the partial shade created by solar panels. Additionally, building the high metal frames and installing solar panels requires high upfront costs, which many local farmers cannot afford on their own.",
+      "To overcome these hurdles and expand agrivoltaics nationwide, experts emphasize the need for stronger government support and careful planning. Governments could provide subsidies for initial installation costs and support scientific research to identify shade-tolerant crops. With strategic investment and proper management, experts believe India could become a global leader in agrivoltaics, boosting farmers' livelihoods while promoting sustainable renewable energy for the environment."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "agrivoltaics",
+        "definition": "a smart farming system where crops are grown on farmland underneath solar panels that produce renewable energy",
+        "sentence": "In India, agrivoltaics allows farmers to grow food while producing solar power on the same land."
+      },
+      {
+        "word": "solar panel",
+        "definition": "a flat panel designed to absorb the sun's rays as a source of energy for generating electricity",
+        "sentence": "Solar panels installed above the crops generate clean electricity from sunlight."
+      },
+      {
+        "word": "renewable energy",
+        "definition": "energy from a source that is not depleted when used, such as wind or solar power",
+        "sentence": "Using solar energy helps reduce pollution and promotes clean renewable energy."
+      },
+      {
+        "word": "crop",
+        "definition": "a cultivated plant that is grown as food, especially a grain, fruit, or vegetable",
+        "sentence": "Farmers must choose the right crop to grow underneath the solar panels."
+      },
+      {
+        "word": "income",
+        "definition": "money received, especially on a regular basis, for work or through investments",
+        "sentence": "Harpal Dagar's annual income tripled after he started farming under solar panels."
+      },
+      {
+        "word": "climate stress",
+        "definition": "difficulty, anxiety, or financial loss caused by extreme weather and climate change",
+        "sentence": "Solar farming helps protect farmers from the severe climate stress of crop failure."
+      },
+      {
+        "word": "installation",
+        "definition": "the process of setting up equipment or machinery, such as solar panels and metal frames",
+        "sentence": "The high cost of solar panel installation makes it difficult for small farmers to start."
+      },
+      {
+        "word": "government support",
+        "definition": "financial aid, subsidies, or policy assistance provided by state authorities",
+        "sentence": "With stronger government support, India can expand agrivoltaic projects across the country."
+      },
+      {
+        "word": "environment",
+        "definition": "the natural world, including land, water, and air, in which organisms live",
+        "sentence": "Agrivoltaics helps protect the environment by producing clean solar energy."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Agrivoltaics can help farmers grow crops and produce solar energy, but there are still challenges to solve.",
+      "B. Solar panels always destroy crops and should not be used on farms.",
+      "C. India has stopped using solar energy because installation is too expensive.",
+      "D. Farmers can only make money by selling crops, not by using solar panels."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains that agrivoltaics can help farmers grow crops while producing solar energy, but it also explains challenges such as shade, crop choice, and installation costs."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What is agrivoltaics?",
+        "options": [
+          "A. A method of farming only at night using electric lamps",
+          "B. A smart farming technique where crops are grown under solar panels that produce clean energy",
+          "C. A system for building expensive highways through farmland",
+          "D. A process of growing crops inside indoor greenhouse labs without sunlight"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article defines agrivoltaics as a smart farming system where farmers grow crops underneath solar panels that generate clean, renewable energy."
+      },
+      {
+        "id": "rc2",
+        "question": "Where does farmer Harpal Dagar farm?",
+        "options": [
+          "A. Near Delhi, India",
+          "B. In Tokyo, Japan",
+          "C. In London, England",
+          "D. Near New York City, USA"
+        ],
+        "correctIndex": 0,
+        "explanation": "The article states that Harpal Dagar is a farmer living near Delhi, India."
+      },
+      {
+        "id": "rc3",
+        "question": "How long has Harpal Dagar been farming under solar panels?",
+        "options": [
+          "A. For five months",
+          "B. For five years",
+          "C. For fifteen years",
+          "D. For twenty-five years"
+        ],
+        "correctIndex": 1,
+        "explanation": "The text states that Harpal Dagar has been farming under solar panels for five years."
+      },
+      {
+        "id": "rc4",
+        "question": "What happened to Harpal Dagar's annual income after adopting agrivoltaics?",
+        "options": [
+          "A. His income decreased by half.",
+          "B. His income stayed exactly the same.",
+          "C. His annual income tripled.",
+          "D. He stopped earning money completely."
+        ],
+        "correctIndex": 2,
+        "explanation": "The article explicitly states that Harpal Dagar's annual income tripled after adopting agrivoltaics."
+      },
+      {
+        "id": "rc5",
+        "question": "Why are there only about 40 agrivoltaic projects running in India?",
+        "options": [
+          "A. Because solar energy has been completely banned in India.",
+          "B. Because not all crops grow well in panel shade, and installation costs are high.",
+          "C. Because Indian farmers prefer not to earn extra money.",
+          "D. Because solar panels take away all water from the soil."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that expanding agrivoltaics is challenging because not all crops grow well in shade and panel installation requires high upfront costs."
+      },
+      {
+        "id": "rc6",
+        "question": "What do experts believe India needs to become a global leader in agrivoltaics?",
+        "options": [
+          "A. Higher tax penalties on farmers who use solar panels",
+          "B. Stronger government support and careful, strategic planning",
+          "C. Replacing all agricultural land with concrete solar factories",
+          "D. Stopping all scientific research on shade-tolerant crops"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article concludes that experts believe India could become a leader in agrivoltaics with better government support and careful planning."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that shows agrivoltaics can help farmers earn more money.",
+        "modelAnswer": "Harpal Dagar, a farmer near Delhi, said his income tripled after farming under solar panels, and Sun Master pays him about $1,200 each year for every acre of land.",
+        "compareTip": "Your answer should mention that Harpal Dagar's income tripled or that the company pays $1,200 per acre each year.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that shows agrivoltaics can reduce farmers’ stress.",
+        "modelAnswer": "Harpal Dagar said he can now sleep peacefully without the stress of climate problems or crop failure.",
+        "compareTip": "Your answer should mention that Dagar can sleep peacefully or no longer worries about climate problems or crop failure.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that explains why agrivoltaics is difficult to expand.",
+        "modelAnswer": "Only about 40 projects are running in India because not all crops grow well in the shade of solar panels, and installation can be expensive.",
+        "compareTip": "Your answer should mention crop shade issues or high installation costs as reasons why expanding is difficult.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Cause-and-Effect and Problem–Solution Language",
+    "explanation": "In problem–solution and cause-and-effect reports, writers use specific connecting words to explain causes, contrast challenges, introduce solutions, and show results. Target connectors include because, while, as a result, however, one challenge is, to solve this problem, and with better support.",
+    "examples": [
+      "Agrivoltaics can help farmers because it provides solar energy while crops grow.",
+      "Solar panels produce electricity above while crops grow underneath.",
+      "Dagar adopted solar farming; as a result, his annual income tripled.",
+      "However, not all crops thrive in the shade of solar panels.",
+      "One challenge is that installing high metal structures can be expensive.",
+      "To solve this problem, governments could provide financial support.",
+      "With better support, India could become a leader in sustainable farming."
+    ],
+    "practice": [
+      "Complete the sentence: Agrivoltaics can help farmers because __________.",
+      "Complete the sentence: Solar panels provide energy above the land while __________.",
+      "Complete the sentence: Installing solar panels is expensive; however, __________.",
+      "Complete the sentence: One challenge is shade, but to solve this problem, __________."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "How can agrivoltaics help farmers?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Agrivoltaics helps farmers by allowing them to grow crops and produce clean solar energy on the same land. This dual system provides extra financial income and protects farmers from losing money when extreme weather damages crops. As a result, farmers gain financial stability and better security.",
+        "compareTip": "Did your answer explain both crop growing and solar energy production or extra income?"
+      },
+      {
+        "id": "wp2",
+        "question": "Why might solar panels reduce stress for some farmers?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Solar panels can reduce stress because they generate a steady income regardless of weather conditions. For example, Indian farmer Harpal Dagar receives annual payments from the solar company, which helps him sleep peacefully without worrying about crop failure or climate problems.",
+        "compareTip": "Did your answer mention steady income or sleeping peacefully without anxiety over crop failure?"
+      },
+      {
+        "id": "wp3",
+        "question": "What challenges make agrivoltaics difficult to spread?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Agrivoltaics is difficult to spread because installing solar panel frames requires high upfront costs. In addition, not all crops grow well in the shade created by solar panels, so farmers must carefully select suitable plants.",
+        "compareTip": "Did your answer mention high installation costs and crop shade limitations?"
+      },
+      {
+        "id": "wp4",
+        "question": "Do you think agrivoltaics is a good idea for the future? Why or why not?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "I think agrivoltaics is a great idea for the future because it combines food production with renewable energy. Although initial installation is expensive, government support can help communities solve this challenge and protect the environment.",
+        "compareTip": "Did you state your opinion clearly and provide supporting reasons like clean energy, food, or government support?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a short problem–solution paragraph of 100–140 words answering this question: Should more countries use agrivoltaics to help farmers and the environment?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State your opinion clearly.",
+      "Explain what agrivoltaics is.",
+      "Give at least two benefits.",
+      "Explain at least one challenge.",
+      "Use at least one detail from the article.",
+      "Use cause-and-effect or problem–solution language such as because, as a result, however, one challenge is, or to solve this problem.",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "I think more countries should use agrivoltaics because it can help both farmers and the environment. Agrivoltaics means growing crops under solar panels while also producing solar energy. In India, farmer Harpal Dagar said his income tripled after farming under solar panels. He also felt less stress about climate problems and crop failure. This shows that solar farming can give farmers another source of income. However, there are still challenges. Not all crops grow well in the shade, and installing solar panels can be expensive. To solve this problem, governments could give support and help farmers choose the right crops. Overall, agrivoltaics is a bright idea if it is planned carefully."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I identified the main idea of the article.",
+      "I used details from the text.",
+      "I answered written questions in complete sentences.",
+      "I used cause-and-effect or problem–solution language.",
+      "I checked spelling and punctuation.",
+      "I compared my answer with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. Agrivoltaics can help farmers grow crops and produce solar energy, but there are still challenges to solve.",
+      "readingComprehension": {
+        "rc1": "B. A smart farming technique where crops are grown under solar panels that produce clean energy",
+        "rc2": "A. Near Delhi, India",
+        "rc3": "B. For five years",
+        "rc4": "C. His annual income tripled.",
+        "rc5": "B. Because not all crops grow well in panel shade, and installation costs are high.",
+        "rc6": "B. Stronger government support and careful, strategic planning"
+      },
+      "evidenceFromText": {
+        "ev1": "Harpal Dagar, a farmer near Delhi, said his income tripled after farming under solar panels, and Sun Master pays him about $1,200 each year for every acre of land.",
+        "ev2": "Harpal Dagar said he can now sleep peacefully without the stress of climate problems or crop failure.",
+        "ev3": "Only about 40 projects are running in India because not all crops grow well in the shade of solar panels, and installation can be expensive."
+      },
+      "languageFocus": {
+        "lf1": "Agrivoltaics can help farmers because it provides renewable energy while crops grow.",
+        "lf2": "Solar panels provide energy above the land while crops grow underneath.",
+        "lf3": "Installing solar panels is expensive; however, government support could help.",
+        "lf4": "One challenge is shade, but to solve this problem, farmers can choose shade-tolerant crops."
+      }
+    },
+    "modelAnswer": "I think more countries should use agrivoltaics because it can help both farmers and the environment. Agrivoltaics means growing crops under solar panels while also producing solar energy. In India, farmer Harpal Dagar said his income tripled after farming under solar panels. He also felt less stress about climate problems and crop failure. This shows that solar farming can give farmers another source of income. However, there are still challenges. Not all crops grow well in the shade, and installing solar panels can be expensive. To solve this problem, governments could give support and help farmers choose the right crops. Overall, agrivoltaics is a bright idea if it is planned carefully.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly states an opinion on agrivoltaics, explains the concept accurately, and provides at least two benefits alongside at least one challenge.",
+        "developing": "States an opinion, but explanation of agrivoltaics or benefits/challenges is incomplete or vague.",
+        "beginning": "Opinion is unclear and fails to explain agrivoltaics or its benefits."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Accurately integrates at least one specific detail from the article (e.g., Harpal Dagar, income tripling, $1,200 per acre, 40 projects, shade issues).",
+        "developing": "Attempts to include a detail from the text, but it is inaccurate or loosely connected.",
+        "beginning": "Uses no details or evidence from the article."
+      },
+      {
+        "category": "Cause-and-Effect / Problem–Solution Language",
+        "excellent": "Uses target connectors (because, while, as a result, however, one challenge is, to solve this problem, with better support) correctly and fluently.",
+        "developing": "Uses some target language, but with minor grammatical or connector errors.",
+        "beginning": "Uses limited or no target cause-and-effect / problem-solution connectors."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Paragraph is well-structured with a clear stance, logical transitions between benefits and challenges, and a strong concluding sentence starting with an ending transition.",
+        "developing": "Shows basic organization, but transitions between benefits and challenges feel abrupt.",
+        "beginning": "Lacks logical organization or paragraph structure."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Writes 100–140 words, uses complete sentences, and exhibits minimal spelling or grammatical errors.",
+        "developing": "Slightly outside the 100–140 word target or contains several grammatical errors that slightly disrupt readability.",
+        "beginning": "Significantly under or over word target with frequent errors that impede understanding."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach “agrivoltaics,” “solar panel,” “crop,” “income,” and “installation.”",
+      "Explain that agrivoltaics combines farming and solar energy.",
+      "Use a simple classroom analogy: one space can sometimes have two purposes, like a classroom used for both study and club meetings.",
+      "Emphasize both benefits and challenges.",
+      "Encourage students to support opinions with details from the article.",
+      "For lower-level students, provide sentence frames.",
+      "For stronger students, ask them to compare agrivoltaics with other renewable energy solutions."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Lead-in / Warm-up",
+        "duration": "10 minutes",
+        "actions": "Welcome students and write 'FARMING + SOLAR POWER' on the board. Introduce the warm-up questions: What problems can farmers face because of hot weather or climate change? How can solar panels help communities? Do you think farmland should produce both food and energy? Use the classroom analogy of a single room serving two purposes (e.g. study hall and meeting room) to introduce dual-use land."
+      },
+      {
+        "phase": "Vocabulary preview",
+        "duration": "10 minutes",
+        "actions": "Pre-teach key terms: agrivoltaics, solar panel, renewable energy, crop, income, climate stress, installation, government support, and environment. Explain that 'agri-' comes from agriculture and 'voltaics' relates to electricity. Model pronunciation and check understanding with simple sentence creation."
+      },
+      {
+        "phase": "First reading for gist",
+        "duration": "10 minutes",
+        "actions": "Direct students to read the article silently once for main ideas. Ask gist questions: What is agrivoltaics? Does it have both benefits and challenges? Have students complete the Main Idea MCQ independently, then confirm why Option A is the correct answer."
+      },
+      {
+        "phase": "Second reading for detail and evidence",
+        "duration": "15 minutes",
+        "actions": "Read the passage aloud or call on student volunteers paragraph by paragraph. Highlight Harpal Dagar's story (income tripled, sleeping peacefully) and the challenges (shade, 40 projects, high installation costs). Have students complete Reading Comprehension MCQs and Evidence from the Text, using 'Check & Compare'."
+      },
+      {
+        "phase": "Language Focus",
+        "duration": "10 minutes",
+        "actions": "Explicitly teach cause-and-effect and problem-solution connectors: 'because', 'while', 'as a result', 'however', 'one challenge is', 'to solve this problem', and 'with better support'. Show how these connectors link causes to effects and problems to solutions. Guide students through sentence completion exercises."
+      },
+      {
+        "phase": "Writing Practice",
+        "duration": "15 minutes",
+        "actions": "Direct students to complete the 4 short written-response questions in 2–4 complete sentences each. Circulate to provide support and encourage students to click 'Check & Compare' to evaluate their responses against the model answers."
+      },
+      {
+        "phase": "Final Writing Task",
+        "duration": "20 minutes",
+        "actions": "Introduce the final prompt: 'Should more countries use agrivoltaics to help farmers and the environment?' Review the checklist: 100–140 words, clear stance, definition, two benefits, one challenge, text detail, cause-and-effect connectors, and concluding sentence. Provide writing time."
+      },
+      {
+        "phase": "Self-check and submission",
+        "duration": "5 minutes",
+        "actions": "Guide students through the Self-check checklist. Instruct them to enter their Name and Student Code, then click 'Submit Lesson'. Point out that submitting reveals the full model answer for final reflection."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we will talk about / a new farming idea / called agrivoltaics.",
+          "korean": "오늘 우리는 이야기해 볼 것입니다 / 새로운 농업 아이디어에 대해 / 아그리볼테익스(농업용 태양광)라 불리는."
+        },
+        {
+          "english": "This system allows farmers / to grow crops / under solar panels.",
+          "korean": "이 시스템은 농부들이 ~하도록 해줍니다 / 작물을 재배하도록 / 태양광 패널 아래에서."
+        },
+        {
+          "english": "The big question is: / can one piece of land / produce both food and energy?",
+          "korean": "핵심 질문은 이것입니다: / 한 조각의 땅이 / 식량과 에너지 둘 다 생산할 수 있을까요?"
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "What problems can farmers face / because of hot weather or climate change?",
+          "translation": "농부들은 어떤 문제에 직면할 수 있나요 / 더운 날씨나 기후 변화 때문에?",
+          "followUp": "How does extreme weather hurt crop growth and income? / 극심한 날씨가 작물 성숙과 수입에 어떻게 피해를 주나요?"
+        },
+        {
+          "question": "How can solar panels help / people or communities?",
+          "translation": "태양광 패널이 어떻게 도움이 될 수 있나요 / 사람들과 지역사회에?",
+          "followUp": "Can solar power reduce pollution and electric bills? / 태양광 발전이 오염과 전기 요금을 줄일 수 있나요?"
+        },
+        {
+          "question": "Do you think farmland should be used / for both food and energy? / Why or why not?",
+          "translation": "농경지가 사용되어야 한다고 생각하나요 / 식량과 에너지 둘 다를 위해? / 왜 그렇거나 그렇지 않나요?",
+          "followUp": "What are the benefits of using one space for two purposes? / 한 공간을 두 가지 목적으로 사용하는 것의 장점은 무엇인가요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "In India, extreme weather and unpredictable climate conditions create huge challenges for agriculture.",
+          "chunkReading": "In India, / extreme weather / and unpredictable climate conditions / create huge challenges / for agriculture.",
+          "directKorean": "인도에서, / 극심한 날씨 / 그리고 예측할 수 없는 기후 조건은 / 거대한 도전 과제를 만든다 / 농업에.",
+          "naturalKorean": "인도에서는 극심한 날씨와 예측할 수 없는 기후 조건이 농업에 커다란 어려움을 야기합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "extreme weather",
+              "meaning": "극심한 날씨, 이상 기후",
+              "use": "폭염, 가뭄, 폭우 등 심각한 기상 현상을 나타냅니다.",
+              "example": "Extreme weather damaged many farms this summer."
+            },
+            {
+              "chunk": "unpredictable climate conditions",
+              "meaning": "예측할 수 없는 기후 조건",
+              "use": "기후 변동성이 커서 예측하기 어려운 상황을 표현합니다.",
+              "example": "Farmers suffer due to unpredictable climate conditions."
+            }
+          ],
+          "mustKnowGrammar": "주어 'extreme weather and unpredictable climate conditions'에 복수 동사 'create'가 연결되며, 전치사구 'for agriculture'가 대상을 한정합니다.",
+          "feynmanExplanation": "인도는 날씨가 너무 덥거나 갑자기 가뭄이 드는 등 예측하기 힘든 기후 때문에 농사짓기가 너무 힘들어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the phrase 'unpredictable climate conditions'. / It highlights the background problem.",
+              "korean": "'unpredictable climate conditions'라는 표현에 주목하세요. / 이것이 배경 문제를 강조해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "To solve these problems, a smart farming technique called agrivoltaics is becoming popular.",
+          "chunkReading": "To solve these problems, / a smart farming technique / called agrivoltaics / is becoming popular.",
+          "directKorean": "이러한 문제들을 해결하기 위해, / 영리한 농업 기술이 / 아그리볼테익스라 불리는 / 인기를 얻고 있다.",
+          "naturalKorean": "이러한 문제들을 해결하기 위해 '아그리볼테익스(영농형 태양광)'라 불리는 스마트 농업 기술이 인기를 얻고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "to solve these problems",
+              "meaning": "이러한 문제들을 해결하기 위해",
+              "use": "to부정사의 목적 용법으로 문제 해결 의도를 나타냅니다.",
+              "example": "To solve these problems, we need new technology."
+            },
+            {
+              "chunk": "called agrivoltaics",
+              "meaning": "~라 불리는",
+              "use": "과거분사구로서 앞에 있는 명사(farming technique)를 수식합니다.",
+              "example": "A new method called solar farming is growing."
+            }
+          ],
+          "mustKnowGrammar": "부사구 'To solve these problems'가 문두에 쓰였으며, 주어 'a smart farming technique (called agrivoltaics)'에 현재진행형 동사 'is becoming popular'가 이어집니다.",
+          "feynmanExplanation": "기후 문제를 해결하기 위해 농사와 태양광 발전을 합친 '아그리볼테익스'라는 기발한 농업 방식이 주목받고 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Agrivoltaics' combines 'agriculture' and 'photovoltaics'.",
+              "korean": "'Agrivoltaics'는 'agriculture(농업)'와 'photovoltaics(태양광)'를 합친 말입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Agrivoltaics is a system where farmers grow crops on farmland while solar panels installed above the land generate clean, renewable energy.",
+          "chunkReading": "Agrivoltaics is a system / where farmers grow crops / on farmland / while solar panels installed above the land / generate clean, renewable energy.",
+          "directKorean": "아그리볼테익스는 시스템이다 / 농부들이 작물을 재배하는 / 농경지에서 / 땅 위에 설치된 태양광 패널이 / 깨끗한 재생 에너지를 생성하는 동안.",
+          "naturalKorean": "아그리볼테익스는 땅 위에 설치된 태양광 패널이 깨끗한 재생 에너지를 생산하는 동안 농부들이 땅에서 작물을 재배하는 시스템입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a system where",
+              "meaning": "~하는 시스템, ~한 방식",
+              "use": "관계부사 where가 장소나 상황을 나타내는 선행사 system을 수식합니다.",
+              "example": "This is a system where students learn by doing."
+            },
+            {
+              "chunk": "renewable energy",
+              "meaning": "재생 에너지",
+              "use": "태양, 바람 등 고갈되지 않는 청정 에너지를 의미합니다.",
+              "example": "Solar power is a popular renewable energy source."
+            }
+          ],
+          "mustKnowGrammar": "관계부사 'where'절 내부에서 접속사 'while'이 쓰여 두 가지 작업(작물 재배, 태양광 발전)이 동시에 일어남을 보여줍니다.",
+          "feynmanExplanation": "땅에서는 벼나 채소를 키우고, 그 위 하늘에는 지붕처럼 태양광 패널을 달아 전기도 같이 만드는 일석이조 시스템이에요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how 'while' connects farming and energy generation.",
+              "korean": "'while'이 농사와 에너지 생산을 어떻게 연결하는지 살펴보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Instead of choosing between food production and energy generation, this dual-use method allows one piece of farmland to produce both at the same time.",
+          "chunkReading": "Instead of choosing / between food production and energy generation, / this dual-use method / allows one piece of farmland / to produce both at the same time.",
+          "directKorean": "선택하는 대신에 / 식량 생산과 에너지 생성 사이에서, / 이 이중 용도 방식은 / 한 조각의 농경지가 ~하도록 해준다 / 동시에 둘 다 생산하도록.",
+          "naturalKorean": "식량 생산과 에너지 생산 중 하나를 선택하는 대신, 이 이중 용도 방식은 한 조각의 농경지가 두 가지를 동시에 생산할 수 있게 해줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "instead of choosing",
+              "meaning": "선택하는 대신에",
+              "use": "instead of + 동명사 구문으로 대체 상황을 표현합니다.",
+              "example": "Instead of waiting, they took action."
+            },
+            {
+              "chunk": "at the same time",
+              "meaning": "동시에",
+              "use": "두 가지 일이나 상태가 같이 이루어짐을 뜻합니다.",
+              "example": "He can study and listen to music at the same time."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Instead of + 동명사'와 'between A and B' 구문이 쓰였으며, 주절은 'allow + 목적어 + to부정사' (allows one piece... to produce) 구조입니다.",
+          "feynmanExplanation": "'농사를 지을까, 태양광 공장을 지을까?' 고민할 필요 없이 한 땅에서 식량과 전기를 다 얻을 수 있다는 뜻이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'Dual-use' means having two distinct purposes.",
+              "korean": "'Dual-use'는 두 가지 서로 다른 목적을 가짐을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Harpal Dagar, a farmer near Delhi, has been farming under solar panels for five years.",
+          "chunkReading": "Harpal Dagar, / a farmer near Delhi, / has been farming / under solar panels / for five years.",
+          "directKorean": "하르팔 다가르는, / 델리 근처의 농부인, / 농사를 지어오고 있다 / 태양광 패널 아래에서 / 5년 동안.",
+          "naturalKorean": "델리 근처의 농부인 하르팔 다가르 씨는 5년 동안 태양광 패널 아래에서 농사를 지어오고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "has been farming",
+              "meaning": "농사를 지어오고 있다",
+              "use": "현재완료진행형(have/has been -ing)으로 과거부터 현재까지 계속되는 동작을 나타냅니다.",
+              "example": "She has been working here for three years."
+            },
+            {
+              "chunk": "for five years",
+              "meaning": "5년 동안",
+              "use": "for + 기간 표현으로 지속 기간을 나타냅니다.",
+              "example": "They lived in India for five years."
+            }
+          ],
+          "mustKnowGrammar": "주어 'Harpal Dagar'와 동격 어구 'a farmer near Delhi'가 쉼표로 묶여 있으며, 동사로 현재완료진행형 'has been farming'이 쓰였습니다.",
+          "feynmanExplanation": "인도 델리 근처의 농부 다가르 씨는 실제로 5년 전부터 이 태양광 패널 농법을 직접 실천하고 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the present perfect continuous: 'has been farming'.",
+              "korean": "현재완료진행형 'has been farming'을 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Before adopting agrivoltaics, unpredictable weather and crop failure caused him severe stress.",
+          "chunkReading": "Before adopting agrivoltaics, / unpredictable weather / and crop failure / caused him severe stress.",
+          "directKorean": "아그리볼테익스를 도입하기 전에, / 예측할 수 없는 날씨 / 그리고 작물 수확 실패는 / 그에게 심각한 스트레스를 일으켰다.",
+          "naturalKorean": "아그리볼테익스를 도입하기 전에는 예측할 수 없는 날씨와 농사 실패가 그에게 심각한 스트레스를 주었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "crop failure",
+              "meaning": "농사 실패, 작물 수확 불능",
+              "use": "날씨나 병충해로 작물 수확을 망치는 상황을 뜻합니다.",
+              "example": "Drought caused widespread crop failure."
+            },
+            {
+              "chunk": "severe stress",
+              "meaning": "심각한 스트레스",
+              "use": "정신적, 경제적으로 매우 큰 압박을 표현합니다.",
+              "example": "Financial trouble caused severe stress for the family."
+            }
+          ],
+          "mustKnowGrammar": "전치사 'Before' 뒤에 동명사 'adopting'이 왔으며, 4형식 동사 'caused + 간접목적어(him) + 직접목적어(severe stress)' 구문입니다.",
+          "feynmanExplanation": "옛날에는 날씨가 안 좋아서 농사를 망치면 당장 돈을 못 벌어 수확철마다 엄청난 스트레스를 받았어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Crop failure' means crops do not grow or yield food.",
+              "korean": "'Crop failure'는 작물이 자라지 않거나 수확량이 없는 것을 뜻합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Under this system, his annual income has tripled.",
+          "chunkReading": "Under this system, / his annual income / has tripled.",
+          "directKorean": "이 시스템 아래에서, / 그의 연간 수입은 / 세 배가 되었다.",
+          "naturalKorean": "이 시스템 덕분에 그의 연간 수입은 세 배로 늘어났습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "annual income",
+              "meaning": "연간 수입, 1년 소득",
+              "use": "한 해 동안 벌어들이는 전체 금액을 의미합니다.",
+              "example": "His annual income increased significantly."
+            },
+            {
+              "chunk": "has tripled",
+              "meaning": "세 배가 되었다",
+              "use": "triple이 자동사로 쓰여 양이나 금액이 3배로 증가함을 나타냅니다.",
+              "example": "The company's profits have tripled."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Under this system'으로 시작하며, 현재완료 동사 'has tripled'가 쓰여 이전과 비교해 3배가 된 결과를 나타냅니다.",
+          "feynmanExplanation": "태양광 농법을 도입하고 나니 1년에 버는 돈이 예전보다 무려 3배나 많아졌대요!",
+          "teachingTranscript": [
+            {
+              "english": "'Tripled' means multiplied by three.",
+              "korean": "'Tripled'는 3배가 되었다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Sun Master, the solar company working with Dagar, pays him about $1,200 each year for every acre of land.",
+          "chunkReading": "Sun Master, / the solar company working with Dagar, / pays him about $1,200 each year / for every acre of land.",
+          "directKorean": "선 마스터는, / 다가르 씨와 협력하는 태양광 회사인, / 그에게 매년 약 1,200달러를 지급한다 / 땅 1에이커당.",
+          "naturalKorean": "다가르 씨와 협력하는 태양광 회사인 '선 마스터'는 땅 1에이커당 매년 약 1,200달러(약 160만 원)를 그에게 지급합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "working with",
+              "meaning": "~와 협력하는, ~와 일하는",
+              "use": "현재분사구로서 앞의 명사(the solar company)를 수식합니다.",
+              "example": "The engineers working with us are very helpful."
+            },
+            {
+              "chunk": "for every acre of land",
+              "meaning": "땅 1에이커당",
+              "use": "every + 단수명사 표현으로 단위 면적당 비율을 나타냅니다.",
+              "example": "They paid tax for every acre of land."
+            }
+          ],
+          "mustKnowGrammar": "주어 'Sun Master'와 동격 설명구 'the solar company working with Dagar'가 위치하며, 4형식 동사 'pays + him + about $1,200...' 구조입니다.",
+          "feynmanExplanation": "태양광 회사가 땅을 빌려 패널을 세운 대가로 매년 1에이커마다 1,200달러씩 꼬박꼬박 임대료를 지불해 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the steady payment details: '$1,200 each year'.",
+              "korean": "안정적인 임대료 지급 내역: '매년 1,200달러'를 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "He explained that he can now sleep peacefully without constant anxiety about extreme heat, drought, or financial ruin.",
+          "chunkReading": "He explained / that he can now sleep peacefully / without constant anxiety / about extreme heat, drought, / or financial ruin.",
+          "directKorean": "그는 설명했다 / 자신이 이제 평화롭게 잘 수 있다고 / 지속적인 불안 없이 / 극심한 더위, 가뭄, / 또는 재정적 파산에 대한.",
+          "naturalKorean": "그는 극심한 더위, 가뭄, 또는 재정적 파산에 대한 끊임없는 불안 없이 이제 밤에 평화롭게 잘 수 있다고 설명했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "sleep peacefully",
+              "meaning": "평화롭게 잠들다",
+              "use": "걱정이나 스트레스 없이 편안하게 자는 상태를 나타냅니다.",
+              "example": "With money in the bank, he can sleep peacefully."
+            },
+            {
+              "chunk": "constant anxiety",
+              "meaning": "지속적인 불안, 끊임없는 염려",
+              "use": "지속되는 정신적 불안감을 의미합니다.",
+              "example": "Drought caused constant anxiety for farmers."
+            }
+          ],
+          "mustKnowGrammar": "전달 동사 'explained' 뒤에 명사절 접속사 'that'이 이끄는 목적어절이 오며, 'without + 명사(constant anxiety)' 구문이 연결됩니다.",
+          "feynmanExplanation": "농사를 망쳐도 태양광 회사에서 들어오는 연세(임대료)가 있으니 가뭄이 와도 걱정 없이 밤에 숙면을 취하게 되었답니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Financial ruin' means losing all your money and going broke.",
+              "korean": "'Financial ruin'은 모든 돈을 잃고 파산하는 것을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "Despite these remarkable benefits, agrivoltaics faces several significant challenges that prevent it from spreading rapidly.",
+          "chunkReading": "Despite these remarkable benefits, / agrivoltaics faces / several significant challenges / that prevent it from spreading rapidly.",
+          "directKorean": "이러한 놀라운 혜택들에도 불구하고, / 아그리볼테익스는 부딪힌다 / 몇 가지 중요한 도전 과제들에 / 그것이 빠르게 확산되는 것을 막는.",
+          "naturalKorean": "이러한 놀라운 혜택에도 불구하고 아그리볼테익스는 그것이 빠르게 확산되는 것을 막는 몇 가지 주요한 어려움에 직면해 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "despite these remarkable benefits",
+              "meaning": "이러한 놀라운 혜택들에도 불구하고",
+              "use": "전치사 despite 뒤에 명사구가 옵니다.",
+              "example": "Despite the high cost, it is very useful."
+            },
+            {
+              "chunk": "prevent it from spreading",
+              "meaning": "그것이 확산되는 것을 막다",
+              "use": "prevent A from -ing 구문입니다.",
+              "example": "Rain prevented us from playing outdoor sports."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Despite + 명사구'가 문두에 오며, 관계대명사 주격 'that'이 'several significant challenges'를 수식하면서 'prevent A from -ing' 구조를 포함합니다.",
+          "feynmanExplanation": "좋은 점이 이렇게 많은데도 불구하고, 빠르게 다른 곳으로 안 퍼지게 막는 현실적인 벽들이 몇 가지 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'prevent A from -ing': a classic structure.",
+              "korean": "'prevent A from -ing' 핵심 구문을 기억하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "Currently, only about 40 projects are operating across India.",
+          "chunkReading": "Currently, / only about 40 projects / are operating / across India.",
+          "directKorean": "현재, / 단지 약 40개의 프로젝트만이 / 운영되고 있다 / 인도 전역에서.",
+          "naturalKorean": "현재 인도 전역에서 운영 중인 프로젝트는 약 40개에 불과합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "are operating",
+              "meaning": "운영되고 있다, 가동 중이다",
+              "use": "operate가 자동사로 프로젝트의 가동 상태를 나타냅니다.",
+              "example": "Many clinics are operating in the region."
+            }
+          ],
+          "mustKnowGrammar": "현재 상황 부사 'Currently'와 수량 한정구 'only about 40 projects'에 복수 진행형 동사 'are operating'이 연결됩니다.",
+          "feynmanExplanation": "인도는 수백만 명의 농부가 있는 대국인데, 아직 태양광 농사를 짓는 농장은 40곳 정도뿐이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'Only about 40' emphasizes how rare this is.",
+              "korean": "'Only about 40'은 이 프로젝트가 얼마나 희소한지를 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "One major obstacle is crop suitability, as not all vegetables and grains grow well in the partial shade created by solar panels.",
+          "chunkReading": "One major obstacle is / crop suitability, / as not all vegetables and grains grow well / in the partial shade / created by solar panels.",
+          "directKorean": "한 가지 주요한 장애물은 / 작물 적합성이다, / 모든 야채와 곡물이 잘 자라는 것은 아니기 때문에 / 부분적인 그늘 아래서 / 태양광 패널에 의해 만들어진.",
+          "naturalKorean": "주요한 장애물 중 하나는 작물 적합성인데, 모든 야채와 곡물이 태양광 패널에 의해 생기는 부분적인 그늘 아래서 잘 자라는 것은 아니기 때문입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "major obstacle",
+              "meaning": "주요한 장애물, 큰 걸림돌",
+              "use": "진행을 방해하는 핵심 원인을 나타냅니다.",
+              "example": "High cost is a major obstacle to growth."
+            },
+            {
+              "chunk": "partial shade",
+              "meaning": "부분적인 그늘, 반그늘",
+              "use": "햇빛이 완전히 차단되지 않고 부분적으로 비치는 상태입니다.",
+              "example": "Some plants prefer growing in partial shade."
+            }
+          ],
+          "mustKnowGrammar": "이유 접속사 'as'절 내부에서 부분부정 구문(not all vegetables and grains grow well)이 쓰였으며, 과거분사구 'created by solar panels'가 'partial shade'를 수식합니다.",
+          "feynmanExplanation": "어떤 작물은 햇빛을 쨍쨍 받아야만 자라는데, 패널 그늘 때문에 일부 농작물은 제대로 안 자랄 수 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Crop suitability' means selecting crops that match shade conditions.",
+              "korean": "'Crop suitability'는 그늘 조건에 맞는 작물을 선택함을 의미합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Additionally, building the high metal frames and installing solar panels requires high upfront costs, which many local farmers cannot afford on their own.",
+          "chunkReading": "Additionally, / building the high metal frames / and installing solar panels / requires high upfront costs, / which many local farmers cannot afford / on their own.",
+          "directKorean": "게다가, / 높은 금속 프레임을 짓는 것 / 그리고 태양광 패널을 설치하는 것은 / 높은 초기 비용을 필요로 한다, / 그리고 그것은 많은 지역 농부들이 감당할 수 없다 / 스스로는.",
+          "naturalKorean": "게다가 높은 금속 기둥을 세우고 태양광 패널을 설치하는 데는 막대한 초기 비용이 드는데, 이는 많은 지역 농부들이 스스로 감당하기 어려운 금액입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "upfront costs",
+              "meaning": "초기 비용, 선불 비용",
+              "use": "사업이나 프로젝트를 시작할 때 처음에 들어가는 자금을 뜻합니다.",
+              "example": "High upfront costs discourage small businesses."
+            },
+            {
+              "chunk": "cannot afford",
+              "meaning": "감당할 수 없다, 형편이 안 되다",
+              "use": "can/cannot afford + 명사/to부정사 구문으로 경제적 능력을 표현합니다.",
+              "example": "They cannot afford to buy expensive equipment."
+            }
+          ],
+          "mustKnowGrammar": "접속부사 'Additionally'로 시작하며, 동명사구 주어에 단수 동사 'requires'가 왔고, 계속적 용법의 관계대명사 'which'절이 초기 비용의 부담을 설명합니다.",
+          "feynmanExplanation": "태양광 기둥과 패널을 새로 짓는 초기 설치비가 엄청나게 비싸서 시골 농부들이 자기 돈으로 선뜻 시작하기 힘들어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'upfront costs' and 'cannot afford on their own'.",
+              "korean": "'upfront costs(초기 비용)'와 'cannot afford on their own(스스로 감당할 수 없다)' 구문에 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "To overcome these hurdles and expand agrivoltaics nationwide, experts emphasize the need for stronger government support and careful planning.",
+          "chunkReading": "To overcome these hurdles / and expand agrivoltaics nationwide, / experts emphasize the need / for stronger government support / and careful planning.",
+          "directKorean": "이러한 난관들을 극복하고 / 아그리볼테익스를 전국적으로 확장하기 위해, / 전문가들은 필요성을 강조한다 / 더 강력한 정부 지원에 대한 / 그리고 세심한 계획에 대한.",
+          "naturalKorean": "이러한 장애물을 극복하고 아그리볼테익스를 전국으로 확대하기 위해 전문가들은 더 강력한 정부 지원과 세심한 계획의 필요성을 강조합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "overcome these hurdles",
+              "meaning": "이러한 난관들을 극복하다",
+              "use": "hurdle(장애물)을 극복한다는 숙어적 표현입니다.",
+              "example": "They worked hard to overcome these hurdles."
+            },
+            {
+              "chunk": "careful planning",
+              "meaning": "세심한 계획, 신중한 기획",
+              "use": "성공적인 이행을 위한 사전 준비를 나타냅니다.",
+              "example": "Careful planning is essential for project success."
+            }
+          ],
+          "mustKnowGrammar": "목적의 to부정사 병렬구문 'To overcome... and expand...'가 쓰였으며, 타동사 'emphasize'의 목적어로 'the need for...'가 연결됩니다.",
+          "feynmanExplanation": "이 문제들을 해결하려면 정부가 돈을 보태주고(보조금), 어떤 농작물이 그늘에 잘 자라는지 연구해서 신중하게 계획을 세워줘야 해요.",
+          "teachingTranscript": [
+            {
+              "english": "'Hurdles' is a synonym for obstacles or challenges.",
+              "korean": "'Hurdles'는 장애물(obstacles) 또는 도전 과제(challenges)의 동의어입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "With strategic investment and proper management, experts believe India could become a global leader in agrivoltaics, boosting farmers' livelihoods while promoting sustainable renewable energy for the environment.",
+          "chunkReading": "With strategic investment / and proper management, / experts believe / India could become a global leader in agrivoltaics, / boosting farmers' livelihoods / while promoting sustainable renewable energy / for the environment.",
+          "directKorean": "전략적 투자와 / 적절한 관리가 있다면, / 전문가들은 믿는다 / 인도가 아그리볼테익스의 세계적 리더가 될 수 있다고, / 농부들의 생계를 향상시키면서 / 지속 가능한 재생 에너지를 촉진하는 동안 / 환경을 위해.",
+          "naturalKorean": "전략적인 투자와 적절한 관리가 이루어진다면 전문가들은 인도가 농부들의 생계를 향상시키는 동시에 환경을 위한 지속 가능한 재생 에너지를 촉진하며 아그리볼테익스 분야의 세계적 선도국이 될 수 있다고 믿습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "strategic investment",
+              "meaning": "전략적 투자",
+              "use": "장기적 목표를 위해 계획적으로 자금을 지원함을 뜻합니다.",
+              "example": "Strategic investment in clean energy creates jobs."
+            },
+            {
+              "chunk": "boosting farmers' livelihoods",
+              "meaning": "농부들의 생계를 향상시키며, 소득을 증대시키며",
+              "use": "분사구문으로 부수적 효과를 설명합니다.",
+              "example": "The program helps by boosting farmers' livelihoods."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'With strategic investment...'로 시작하며, 주절 뒤에 현재분사구문 'boosting...'과 접속사 'while + 동명사(promoting)'가 이어집니다.",
+          "feynmanExplanation": "정부가 전략적으로 투자하고 관리를 잘 해주면 인도는 농부도 부자 만들고 지구 환경도 지키는 세계 1등 태양광 농업 국가가 될 수 있어요!",
+          "teachingTranscript": [
+            {
+              "english": "Summarize the final visionary outlook: farmers prosper and the environment wins.",
+              "korean": "농부도 번창하고 환경도 보호받는 최종 비전을 요약하며 마무리하세요."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "I think more countries should use agrivoltaics because __________.",
+          "Agrivoltaics is a system where farmers __________ while __________.",
+          "In India, farmer Harpal Dagar stated that __________.",
+          "As a result of farming under solar panels, __________.",
+          "However, one challenge is that __________.",
+          "To solve this problem, governments could __________.",
+          "Overall, agrivoltaics is a bright idea because __________."
+        ],
+        "usefulConnectors": [
+          "because",
+          "while",
+          "as a result",
+          "however",
+          "one challenge is",
+          "to solve this problem",
+          "with better support",
+          "overall"
+        ],
+        "usefulVocabulary": [
+          "agrivoltaics",
+          "solar panel",
+          "renewable energy",
+          "crop",
+          "income",
+          "climate stress",
+          "installation",
+          "government support",
+          "environment",
+          "sustainable"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State your opinion clearly on whether countries should use agrivoltaics.",
+          "2. Definition & Explanation: Define agrivoltaics (growing crops under solar panels while generating solar power).",
+          "3. Textual Evidence / Benefits: Give two benefits using text details (e.g. Harpal Dagar's income tripling, reduced climate stress).",
+          "4. Challenge & Solution: Explain one challenge (crop shade or high installation cost) and how to solve it (government support/crop research).",
+          "5. Concluding Sentence: End with a clear summary sentence wrapping up your point."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Agrivoltaics can help farmers because it generate solar energy while crops grow.",
+            "correction": "Agrivoltaics can help farmers because it generates solar energy while crops grow. (Ensure subject-verb agreement: 'it generates')."
+          },
+          {
+            "mistake": "However, but installing solar panels is expensive.",
+            "correction": "However, installing solar panels is expensive. (Do not combine 'however' and 'but' together)."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check that students write between 100–140 words.",
+          "Ensure students include a clear definition of agrivoltaics and cite text details (Harpal Dagar, income, etc.).",
+          "Verify the correct use of target connectors: because, while, as a result, however, one challenge is, or to solve this problem."
+        ]
+      }
+    }
+  }
+}
