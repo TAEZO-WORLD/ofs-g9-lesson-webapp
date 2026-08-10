@@ -1,0 +1,969 @@
+{
+  "lessonTitle": "Illegal Gold Mining Fuels Mercury Crisis in Mexico",
+  "ofsUnit": "Unit 4 — Global Perspectives, Environment & Human Health",
+  "textType": "Cause-and-Effect / Problem–Solution News Report",
+  "lessonGoal": "Students will read a cause-and-effect news report about illegal gold mining and mercury use in Mexico, identify the main idea and supporting evidence, learn vocabulary about mining, health, and the environment, and write short responses about how economic pressure can create health and environmental problems.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Think about dangerous jobs, economic pressures, and environmental risks. Answer the warm-up questions below. There are no right or wrong answers.",
+    "questions": [
+      "Why might people take dangerous jobs if they need money?",
+      "What kinds of environmental problems can mining cause?",
+      "Should governments help workers find safer jobs? Why or why not?"
+    ]
+  },
+  "article": {
+    "title": "Illegal Gold Mining Fuels Mercury Crisis in Mexico",
+    "source": "Source: Adapted from teacher-provided classroom source image (AP).",
+    "note": "OFS Grade 9 International English — Unit 4",
+    "paragraphs": [
+      "In the Sierra Gorda mountains of central Mexico, a sudden increase in illegal gold mining is causing a serious environmental and health crisis. As global gold prices continue to rise around the world, more people in rural mountain communities are turning to small-scale gold mining to earn a living. However, this surge in illegal mining has created what local environmental experts call a dangerous \"mercury boom,\" exposing thousands of miners, their families, and local communities to toxic chemical pollution.",
+      "The rapid expansion of gold mining is closely connected to rising chemical prices. In recent years, global demand for gold has driven up the value of mercury significantly. According to experts, the price of mercury skyrocketed from about $20 per kilogram to roughly $240 to $350 per kilogram over a fifteen-year period. Miners use mercury because it easily binds to precious metal particles, helping them extract gold from raw rock and soil. Because mercury is so useful for small-scale gold extraction, the chemical has become extremely valuable despite severe international regulations.",
+      "Although mercury helps miners separate gold, it poses extreme dangers to human health and natural ecosystems. Mercury is a highly toxic heavy metal that damages the body quickly. When miners burn or handle mercury without protective equipment, poisonous vapors enter their lungs and pollute local waterways. Over time, mercury exposure causes severe health complications, including permanent neurological damage, memory loss, and organ failure. Furthermore, liquid mercury drains into rivers and soil, contaminating local ecosystems and poisoning fish that families depend on for food.",
+      "Despite knowing these severe health risks, thousands of local miners continue working with toxic mercury every day. For many families in the Sierra Gorda region, mining is one of the very few ways to earn an income in an area with widespread poverty and limited economic opportunities. Miners do not choose dangerous work freely; rather, economic pressure and a lack of safe job alternatives force them to risk their health to support their children. Because global demand for mercury is expected to keep rising, experts emphasize that governments and international organisations must provide safer mining alternatives, stricter mercury monitoring, and community job programs to protect both human health and the environment."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "illegal mining",
+        "definition": "mining activity conducted without official permission or legal authorization from the government",
+        "sentence": "A surge in illegal mining in the mountains is causing serious chemical pollution."
+      },
+      {
+        "word": "mercury",
+        "definition": "a heavy, silvery toxic liquid metal used in industrial processes and gold extraction",
+        "sentence": "Miners use liquid mercury to separate tiny pieces of gold from surrounding rock."
+      },
+      {
+        "word": "toxic",
+        "definition": "poisonous, dangerous, or harmful to living things and human health",
+        "sentence": "Mercury is a highly toxic substance that can cause severe long-term illness."
+      },
+      {
+        "word": "extract",
+        "definition": "to remove, pull out, or separate a substance from a larger material or rock",
+        "sentence": "Miners add chemical substances to extract gold particles from crushed ore."
+      },
+      {
+        "word": "expose",
+        "definition": "to subject or leave someone unprotected against a harmful chemical or condition",
+        "sentence": "Working without gloves or masks can expose miners to dangerous toxic vapors."
+      },
+      {
+        "word": "neurological",
+        "definition": "related to the body's nervous system, including the brain and nerves",
+        "sentence": "Long-term exposure to heavy metals can cause permanent neurological damage."
+      },
+      {
+        "word": "contaminate",
+        "definition": "to make a substance or environment impure, dirty, or poisonous by adding harmful chemicals",
+        "sentence": "Dangerous chemicals can contaminate local river water and agricultural soil."
+      },
+      {
+        "word": "income",
+        "definition": "money earned regularly from work, business, or investments",
+        "sentence": "Many families depend on mining because it provides their only source of income."
+      },
+      {
+        "word": "alternative",
+        "definition": "a different choice, option, or possibility that can be used instead of something else",
+        "sentence": "Workers need safe job alternatives so they do not have to do dangerous work."
+      },
+      {
+        "word": "demand",
+        "definition": "the desire or need of buyers for a particular product, chemical, or resource",
+        "sentence": "As global demand for gold increases, the price of mercury also rises."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Illegal gold mining in Mexico is creating serious mercury-related health and environmental risks, but many miners depend on the work for income.",
+      "B. Mercury is completely safe when it is used in gold mining.",
+      "C. Gold mining has ended in the Sierra Gorda mountains.",
+      "D. Most miners have many safe job choices but prefer dangerous work."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains that illegal gold mining is increasing mercury exposure and environmental contamination, while many miners continue because they depend on mining for income and have few safer alternatives."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "Where is the illegal gold mining crisis described in the article taking place?",
+        "options": [
+          "A. In the Sierra Gorda mountains of Mexico",
+          "B. In the Amazon rainforest of Brazil",
+          "C. In the Rocky Mountains of Canada",
+          "D. In the Outback of Australia"
+        ],
+        "correctIndex": 0,
+        "explanation": "The article explicitly states that the illegal gold mining surge and mercury crisis are occurring in the Sierra Gorda mountains of central Mexico."
+      },
+      {
+        "id": "rc2",
+        "question": "Why do miners use mercury in small-scale gold mining?",
+        "options": [
+          "A. To clean the drinking water for local communities",
+          "B. To separate and extract gold particles from crushed rock",
+          "C. To cool down heavy machinery in hot weather",
+          "D. To make the surrounding soil more fertile for crops"
+        ],
+        "correctIndex": 1,
+        "explanation": "The text explains that miners use mercury because it easily binds to precious metal particles, helping them extract gold from rock and soil."
+      },
+      {
+        "id": "rc3",
+        "question": "How have mercury prices changed over the fifteen-year period mentioned in the text?",
+        "options": [
+          "A. Prices dropped from $350 to $20 per kilogram.",
+          "B. Prices remained completely flat at $50 per kilogram.",
+          "C. Prices rose from about $20 per kilogram to roughly $240–$350 per kilogram.",
+          "D. Mercury is now distributed for free by the Mexican government."
+        ],
+        "correctIndex": 2,
+        "explanation": "According to the article, mercury prices skyrocketed from about $20 per kilogram to roughly $240–$350 per kilogram over fifteen years as gold demand grew."
+      },
+      {
+        "id": "rc4",
+        "question": "What severe health problems can mercury exposure cause in humans?",
+        "options": [
+          "A. Improved memory and faster nerve reflexes",
+          "B. Serious neurological damage, memory loss, and organ failure",
+          "C. Minor skin sunburn that disappears in one day",
+          "D. Temporary tiredness without any lasting internal damage"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article notes that mercury exposure causes severe health complications, including permanent neurological damage, memory loss, and organ failure."
+      },
+      {
+        "id": "rc5",
+        "question": "Why do many miners continue working with dangerous mercury despite knowing the health risks?",
+        "options": [
+          "A. Because they are unaware of any risks connected to chemicals",
+          "B. Because mining is one of the few ways to earn an income in an area with widespread poverty",
+          "C. Because they enjoy working with toxic materials for recreation",
+          "D. Because local regulations require all citizens to mine gold"
+        ],
+        "correctIndex": 1,
+        "explanation": "The text explains that miners continue dangerous work because they face poverty and have very few safe job alternatives to earn an income for their families."
+      },
+      {
+        "id": "rc6",
+        "question": "Why might the mercury crisis become even more serious in the future?",
+        "options": [
+          "A. Because global demand for mercury is expected to continue rising as gold prices stay high",
+          "B. Because gold has lost all its financial value globally",
+          "C. Because all gold miners have recently moved to cities",
+          "D. Because mercury is no longer used anywhere in Latin America"
+        ],
+        "correctIndex": 0,
+        "explanation": "The article concludes that the problem may become more serious because global demand for mercury is expected to continue rising alongside high gold prices."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that shows mercury has become more valuable.",
+        "modelAnswer": "According to the source, the price of mercury rose from about $20 per kilogram to roughly $240–$350 per kilogram over about 15 years.",
+        "compareTip": "Your answer should mention that mercury prices increased from $20 per kg to $240–$350 per kg over 15 years.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that shows mercury is dangerous to human health.",
+        "modelAnswer": "Mercury is highly toxic, and exposure can cause serious health problems, including permanent neurological damage.",
+        "compareTip": "Your answer should mention toxic effects or health problems such as neurological damage.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that explains why miners continue doing dangerous work.",
+        "modelAnswer": "Miners continue doing dangerous work because mining is one of the few ways they can earn money due to poverty and a lack of safe job alternatives.",
+        "compareTip": "Your answer should mention earning money, poverty, or the lack of safe job alternatives.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Cause-and-Effect and Problem–Solution Language",
+    "explanation": "In cause-and-effect and problem–solution news reports, writers use specific connecting words to explain causes, contrast challenges, introduce solutions, and show results. Target connectors include because, as, leads to, as a result, due to, however, one reason is, and to solve this problem.",
+    "examples": [
+      "Illegal mining is increasing because global gold prices have risen sharply.",
+      "As gold prices rise, the demand for mercury also increases.",
+      "Using toxic mercury leads to severe health risks and environmental contamination.",
+      "Mercury pollutes waterways; as a result, local fish and ecosystems are damaged.",
+      "Miners face dangerous health risks due to chemical exposure.",
+      "However, many miners continue working because they have few safe alternatives for income.",
+      "One reason is that poverty forces families to take risky jobs.",
+      "To solve this problem, governments must provide safer job alternatives and monitor chemical sales."
+    ],
+    "practice": [
+      "Complete the sentence: Some miners continue using mercury because __________.",
+      "Complete the sentence: Global gold prices have increased sharply; as a result, __________.",
+      "Complete the sentence: Working with toxic mercury is dangerous; however, __________.",
+      "Complete the sentence: Mercury causes environmental damage, so to solve this problem, __________."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Why is mercury used in illegal gold mining?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Mercury is used in illegal gold mining because it easily binds to precious metal particles. This chemical process allows miners to extract gold from crushed rock and soil quickly. As a result, small-scale miners depend heavily on mercury to gather gold.",
+        "compareTip": "Did your answer explain that mercury binds to gold particles to extract metal from rock?"
+      },
+      {
+        "id": "wp2",
+        "question": "How can mercury harm miners and their families?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Mercury is a highly toxic substance that poses severe risks to human health and the environment. Exposure to mercury vapors or contaminated water can cause permanent neurological damage, memory loss, and organ failure. In addition, mercury pollutes local rivers and fish that families eat.",
+        "compareTip": "Did your answer mention toxic vapors, neurological damage, organ failure, or environmental pollution?"
+      },
+      {
+        "id": "wp3",
+        "question": "Why do some miners continue doing this dangerous work?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Miners continue doing dangerous work because they face severe poverty and lack safe economic alternatives. For many families in the Sierra Gorda region, gold mining is one of the few ways to earn money to survive. Economic pressure forces workers to risk their health despite knowing the dangers.",
+        "compareTip": "Did your answer mention poverty, earning money, or the lack of safe job alternatives?"
+      },
+      {
+        "id": "wp4",
+        "question": "What could governments or communities do to reduce the problem?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Governments could reduce the mercury problem by creating job-training programs that offer safe, sustainable work for local communities. Authorities should also enforce stricter controls on mercury sales and promote safer gold extraction technology. To solve this problem, long-term economic support must accompany environmental rules.",
+        "compareTip": "Did your answer suggest job-training programs, safer mining methods, or mercury regulation?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a short problem–solution paragraph of 100–140 words answering this question: How could Mexico reduce the health and environmental problems caused by illegal gold mining and mercury use?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "Explain the main problem clearly.",
+      "Give at least two causes or effects.",
+      "Suggest at least two possible solutions.",
+      "Use at least one detail from the article.",
+      "Use cause-and-effect or problem–solution language such as because, due to, as a result, however, or to solve this problem.",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "Mexico could reduce the dangers of illegal gold mining by giving miners safer ways to earn money and by reducing mercury use. Mercury is used to extract gold, but it is highly toxic and can cause serious health problems, including neurological damage. It can also contaminate the environment. However, many miners continue this work because they need income and have few safe alternatives. To solve this problem, the government could create job-training programs, support safer mining methods, and monitor mercury sales more carefully. Communities could also provide health checks and education about mercury exposure. As a result, miners would have more choices and less reason to risk their health. Overall, solving the problem requires both environmental protection and economic support."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I identified the main idea of the article.",
+      "I used details from the text.",
+      "I answered written questions in complete sentences.",
+      "I used cause-and-effect or problem–solution language.",
+      "I checked spelling and punctuation.",
+      "I compared my answer with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. Illegal gold mining in Mexico is creating serious mercury-related health and environmental risks, but many miners depend on the work for income.",
+      "readingComprehension": {
+        "rc1": "A. In the Sierra Gorda mountains of Mexico",
+        "rc2": "B. To separate and extract gold particles from crushed rock",
+        "rc3": "C. Prices rose from about $20 per kilogram to roughly $240–$350 per kilogram.",
+        "rc4": "B. Serious neurological damage, memory loss, and organ failure",
+        "rc5": "B. Because mining is one of the few ways to earn an income in an area with widespread poverty",
+        "rc6": "A. Because global demand for mercury is expected to continue rising as gold prices stay high"
+      },
+      "evidenceFromText": {
+        "ev1": "According to the source, the price of mercury rose from about $20 per kilogram to roughly $240–$350 per kilogram over about 15 years.",
+        "ev2": "Mercury is highly toxic, and exposure can cause serious health problems, including permanent neurological damage.",
+        "ev3": "Miners continue doing dangerous work because mining is one of the few ways they can earn money due to poverty and a lack of safe job alternatives."
+      },
+      "languageFocus": {
+        "lf1": "Some miners continue using mercury because they need income and have few safe job alternatives.",
+        "lf2": "Global gold prices have increased sharply; as a result, mercury demand and prices have risen.",
+        "lf3": "Working with toxic mercury is dangerous; however, poor economic conditions force miners to take the risk.",
+        "lf4": "Mercury causes environmental damage, so to solve this problem, governments should offer safe job programs."
+      }
+    },
+    "modelAnswer": "Mexico could reduce the dangers of illegal gold mining by giving miners safer ways to earn money and by reducing mercury use. Mercury is used to extract gold, but it is highly toxic and can cause serious health problems, including neurological damage. It can also contaminate the environment. However, many miners continue this work because they need income and have few safe alternatives. To solve this problem, the government could create job-training programs, support safer mining methods, and monitor mercury sales more carefully. Communities could also provide health checks and education about mercury exposure. As a result, miners would have more choices and less reason to risk their health. Overall, solving the problem requires both environmental protection and economic support.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly explains the problem of illegal gold mining and mercury use, identifies causes/effects, and proposes at least two realistic solutions.",
+        "developing": "Explains the problem and mentions a solution, but lacks depth or missing cause/effect connections.",
+        "beginning": "Fails to identify the problem or solutions clearly."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Integrates specific details from the article (e.g., Sierra Gorda mountains, price increase to $240–$350/kg, neurological damage, poverty/income).",
+        "developing": "Attempts to include details from the text, but connection is vague or partially inaccurate.",
+        "beginning": "Uses no specific evidence or details from the article."
+      },
+      {
+        "category": "Cause-and-Effect / Problem–Solution Language",
+        "excellent": "Uses target connectors (because, as, leads to, as a result, due to, however, one reason is, to solve this problem) correctly and fluently.",
+        "developing": "Uses some target language, but with minor grammatical or connector errors.",
+        "beginning": "Uses limited or no target cause-and-effect / problem-solution connectors."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Paragraph is well-structured with a clear problem definition, logical cause-and-effect transitions, proposed solutions, and a strong concluding sentence.",
+        "developing": "Shows basic organisation, but transitions between problem, cause, and solution feel abrupt.",
+        "beginning": "Lacks logical organisation or paragraph structure."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Writes 100–140 words, uses complete sentences, and exhibits minimal spelling or grammatical errors.",
+        "developing": "Slightly outside the 100–140 word target or contains several grammatical errors that disrupt readability.",
+        "beginning": "Significantly under or over word target with frequent errors that impede understanding."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach 'mercury,' 'toxic,' 'extract,' 'contaminate,' and 'alternative.'",
+      "Clarify that mercury is a toxic substance and the lesson is not about how to perform mining.",
+      "Explain the link between poverty, risky work, and lack of alternatives.",
+      "Avoid framing miners simply as irresponsible; emphasize economic pressure.",
+      "Encourage students to distinguish cause, effect, and solution.",
+      "For lower-level students, provide sentence frames (e.g., 'Miners use mercury because... However,... To solve this problem,...').",
+      "For stronger students, ask them to discuss whether environmental rules can work without economic support for workers."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Lead-in / Warm-up",
+        "duration": "10 minutes",
+        "actions": "Welcome students and write 'DANGEROUS JOBS & SURVIVAL' on the board. Introduce the warm-up questions: Why might people take dangerous jobs if they need money? What kinds of environmental problems can mining cause? Should governments help workers find safer jobs? Lead a class discussion framing economic pressure versus health risks without judging workers."
+      },
+      {
+        "phase": "Vocabulary preview",
+        "duration": "10 minutes",
+        "actions": "Pre-teach key terms: illegal mining, mercury, toxic, extract, expose, neurological, contaminate, income, alternative, and demand. Clarify that mercury is a toxic heavy metal liquid and extract means to pull out metal from rock. Model pronunciation and check student understanding with quick sentence checks."
+      },
+      {
+        "phase": "First reading for gist",
+        "duration": "10 minutes",
+        "actions": "Direct students to read the article silently once for gist. Ask main idea questions: Where is this happening? Why are miners using mercury? Have students complete the Main Idea MCQ independently and review why Option A is the correct answer."
+      },
+      {
+        "phase": "Second reading for detail and evidence",
+        "duration": "15 minutes",
+        "actions": "Read the text aloud paragraph by paragraph with the class. Highlight details about mercury prices ($20 to $240–$350/kg), health risks (neurological damage, organ failure), and economic pressures. Have students complete Reading Comprehension MCQs and Evidence from the Text using 'Check & Compare'."
+      },
+      {
+        "phase": "Language Focus",
+        "duration": "10 minutes",
+        "actions": "Explicitly teach cause-and-effect and problem-solution connectors: 'because', 'as', 'leads to', 'as a result', 'due to', 'however', 'one reason is', and 'to solve this problem'. Show how cause words explain reasons while problem-solution words introduce remedies. Guide students through the sentence completion practice."
+      },
+      {
+        "phase": "Writing Practice",
+        "duration": "15 minutes",
+        "actions": "Direct students to complete the 4 short written-response questions in 2–4 complete sentences each. Circulate around the room to assist students and remind them to click 'Check & Compare' to inspect rule-based writing feedback and model answers."
+      },
+      {
+        "phase": "Final Writing Task",
+        "duration": "20 minutes",
+        "actions": "Introduce the final writing prompt: 'How could Mexico reduce the health and environmental problems caused by illegal gold mining and mercury use?' Review the prompt checklist: 100–140 words, clear problem, two causes/effects, two solutions, text detail, connectors, and concluding sentence. Monitor students as they write."
+      },
+      {
+        "phase": "Self-check and submission",
+        "duration": "5 minutes",
+        "actions": "Guide students through the Self-check checklist. Direct them to enter their Name and Student Code, then click 'Submit Lesson'. Remind them that submitting saves their work and unlocks the complete model answer for final self-reflection."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we will talk about / a serious problem / connected to gold mining in Mexico.",
+          "korean": "오늘 우리는 이야기해 볼 것입니다 / 심각한 문제에 대해 / 멕시코의 금 채굴과 관련된."
+        },
+        {
+          "english": "Mercury can help miners / separate gold from rock, / but it is highly toxic.",
+          "korean": "수은은 채굴업자들이 ~하도록 도울 수 있지만 / 암석에서 금을 분리하도록 / 이것은 매우 독성이 강합니다."
+        },
+        {
+          "english": "The difficult question is: / what happens when dangerous work / is one of the only ways to earn money?",
+          "korean": "어려운 질문은 이것입니다: / 위험한 일이 ~일 때 무슨 일이 일어나는가 / 돈을 벌 수 있는 유일한 방법 중 하나일 때?"
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "Why might people take dangerous jobs / if they need money?",
+          "translation": "사람들은 왜 위험한 직업을 가질까요 / 돈이 필요하다면?",
+          "followUp": "When economic pressure is high, do workers have real choices? / 경제적 압박이 클 때, 근로자들에게 실질적인 선택지가 있을까요?"
+        },
+        {
+          "question": "What kinds of environmental problems / can mining cause?",
+          "translation": "채굴은 어떤 종류의 환경 문제를 / 야기할 수 있나요?",
+          "followUp": "How can chemicals in rivers affect fish and clean drinking water? / 강에 유입된 화학물질이 어떻게 물고기와 깨끗한 음용수에 영향을 주나요?"
+        },
+        {
+          "question": "Should governments help workers / find safer jobs? / Why or why not?",
+          "translation": "정부가 근로자들이 ~하도록 도와야 할까요 / 더 안전한 직업을 찾도록? / 왜 그렇거나 그렇지 않나요?",
+          "followUp": "Can environmental laws succeed without giving economic support to workers? / 근로자에 대한 경제적 지원 없이 환경 법안이 성공할 수 있을까요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "In the Sierra Gorda mountains of central Mexico, a sudden increase in illegal gold mining is causing a serious environmental and health crisis.",
+          "chunkReading": "In the Sierra Gorda mountains / of central Mexico, / a sudden increase / in illegal gold mining / is causing a serious environmental and health crisis.",
+          "directKorean": "시에라 고르다 산맥에서 / 멕시코 중부의, / 갑작스러운 증가는 / 불법 금 채굴의 / 심각한 환경 및 건강 위기를 일으키고 있다.",
+          "naturalKorean": "멕시코 중부의 시에라 고르다 산맥에서 불법 금 채굴이 급증하면서 심각한 환경 및 건강 위기가 발생하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a sudden increase in",
+              "meaning": "~의 갑작스러운 증가",
+              "use": "특정 현상이나 활동이 빠르게 늘어날 때 사용합니다.",
+              "example": "There was a sudden increase in solar energy adoption."
+            },
+            {
+              "chunk": "environmental and health crisis",
+              "meaning": "환경 및 건강 위기",
+              "use": "환경 오염과 생명 위협이 동시에 일어나는 상황을 뜻합니다.",
+              "example": "Pollution created an environmental and health crisis."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'In the Sierra Gorda mountains...'로 시작하며, 주어 'a sudden increase in illegal gold mining'에 현재진행형 'is causing'이 연결됩니다.",
+          "feynmanExplanation": "멕시코 시에라 고르다 산에서 금을 몰래 채굴하는 일이 갑자기 엄청 많아지면서 자연도 파괴되고 사람들도 아프게 되었어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the location details: 'Sierra Gorda mountains of central Mexico'.",
+              "korean": "위치 정보를 확인하세요: '멕시코 중부의 시에라 고르다 산맥'."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "As global gold prices continue to rise around the world, more people in rural mountain communities are turning to small-scale gold mining to earn a living.",
+          "chunkReading": "As global gold prices / continue to rise / around the world, / more people in rural mountain communities / are turning to small-scale gold mining / to earn a living.",
+          "directKorean": "~함에 따라 / 세계 금 가격이 지속해서 상승함에 따라 / 전 세계에서, / 시골 산간 공동체의 더 많은 사람들이 / 소규모 금 채굴로 돌아서고 있다 / 생계를 유지하기 위해.",
+          "naturalKorean": "전 세계적으로 금 가격이 계속 상승함에 따라, 시골 산간 마을의 더 많은 사람들이 생계를 유지하기 위해 소규모 금 채굴로 몰려들고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "turn to",
+              "meaning": "~에 의존하다, ~로 돌아서다",
+              "use": "어려운 상황에서 특정 방법이나 일에 의존할 때 쓰입니다.",
+              "example": "Many workers turn to farming when jobs are scarce."
+            },
+            {
+              "chunk": "earn a living",
+              "meaning": "생계를 유지하다, 돈을 벌다",
+              "use": "생활비를 벌기 위해 일하는 것을 뜻합니다.",
+              "example": "They work hard to earn a living for their families."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'As'가 비례/원인을 나타내며, 주절에서는 'turn to + 명사' 및 to부정사의 목적 용법 'to earn a living'이 쓰였습니다.",
+          "feynmanExplanation": "금값이 세계적으로 뛰니까 시골 산골짜기 주민들이 살기 위해 너도나도 금을 파기 시작한 거예요.",
+          "teachingTranscript": [
+            {
+              "english": "'Earn a living' means earning money to pay for basic needs.",
+              "korean": "'Earn a living'은 기본적인 생활비를 벌다라는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "However, this surge in illegal mining has created what local environmental experts call a dangerous \"mercury boom,\" exposing thousands of miners, their families, and local communities to toxic chemical pollution.",
+          "chunkReading": "However, / this surge in illegal mining / has created / what local environmental experts call / a dangerous \"mercury boom,\" / exposing thousands of miners, / their families, and local communities / to toxic chemical pollution.",
+          "directKorean": "그러나, / 불법 채굴의 이러한 급증은 / 만들었다 / 지역 환경 전문가들이 부르는 것을 / 위험한 \"수은 붐\"이라, / 수천 명의 채굴업자, / 그들의 가족, 그리고 지역 공동체를 노출시키면서 / 독성 화학 오염에.",
+          "naturalKorean": "그러나 불법 채굴의 급증은 지역 환경 전문가들이 '위험한 수은 붐'이라 부르는 현상을 초래하여, 수천 명의 채굴업자와 가족, 지역 사회를 독성 화학 오염에 노출시키고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "surge in",
+              "meaning": "~의 급증, 쇄도",
+              "use": "양이나 수치가 갑자기 크게 늘어남을 나타냅니다.",
+              "example": "A sudden surge in gold demand raised prices."
+            },
+            {
+              "chunk": "expose ... to",
+              "meaning": "~를 ...에 노출시키다",
+              "use": "유해한 물질이나 환경에 닿게 만드는 구문입니다.",
+              "example": "Chemicals expose workers to serious health risks."
+            }
+          ],
+          "mustKnowGrammar": "관계대명사 'what'절(what local environmental experts call...)이 목적어로 쓰였으며, 분사구문 'exposing ... to ...'가 결과를 설명합니다.",
+          "feynmanExplanation": "하지만 금 채굴이 급증하면서 엄청난 양의 독성 수은이 쓰이게 되었고, 이게 사람들과 마을 전체를 오염시켰어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the present participle clause: 'exposing thousands of miners...'.",
+              "korean": "분사구문 'exposing thousands of miners...'를 주의 깊게 보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "The rapid expansion of gold mining is closely connected to rising chemical prices.",
+          "chunkReading": "The rapid expansion / of gold mining / is closely connected to / rising chemical prices.",
+          "directKorean": "빠른 확장/팽창은 / 금 채굴의 / 밀접하게 연결되어 있다 / 상승하는 화학물질 가격과.",
+          "naturalKorean": "금 채굴의 급격한 확장은 화학물질 가격의 상승과 밀접하게 연관되어 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "rapid expansion",
+              "meaning": "급격한 확장, 빠른 증대",
+              "use": "규모나 범위가 빠르게 넓어짐을 의미합니다.",
+              "example": "The rapid expansion of mining changed the environment."
+            },
+            {
+              "chunk": "is closely connected to",
+              "meaning": "~와 밀접하게 연관되어 있다",
+              "use": "두 요소 간의 강한 인과관계나 연관성을 나타냅니다.",
+              "example": "Health issues are closely connected to chemical exposure."
+            }
+          ],
+          "mustKnowGrammar": "수동태 구문 'is connected to'에 부사 'closely'가 삽입되어 밀접성을 강조합니다.",
+          "feynmanExplanation": "금 채굴이 커진 것과 채굴할 때 쓰는 수은 값이 뛴 것은 서로 끈끈하게 연결되어 있어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Closely connected to' shows a direct economic link.",
+              "korean": "'Closely connected to'는 직접적인 경제적 연결고리를 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "In recent years, global demand for gold has driven up the value of mercury significantly.",
+          "chunkReading": "In recent years, / global demand for gold / has driven up / the value of mercury significantly.",
+          "directKorean": "최근 몇 년 동안, / 금에 대한 세계적 수요는 / 끌어올렸다 / 수은의 가치를 크게.",
+          "naturalKorean": "최근 몇 년간 금에 대한 전 세계적 수요는 수은의 가치를 크게 끌어올렸습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "global demand for",
+              "meaning": "~에 대한 세계적 수요",
+              "use": "전 세계적인 자원이나 상품의 수요를 뜻합니다.",
+              "example": "Global demand for gold remains very strong."
+            },
+            {
+              "chunk": "drive up",
+              "meaning": "(가격·가치 등을) 끌어올리다",
+              "use": "수요 증가로 인해 가격을 올리는 동작을 나타냅니다.",
+              "example": "High demand drove up the price of raw materials."
+            }
+          ],
+          "mustKnowGrammar": "현재완료 'has driven up'이 쓰여 과거의 수요 증가가 현재 수은 가격 상승이라는 결과를 낳았음을 보여줍니다.",
+          "feynmanExplanation": "세계 사람들이 금을 많이 원하니까 금 파는 데 필요한 수은 몸값도 같이 엄청나게 치솟은 거죠.",
+          "teachingTranscript": [
+            {
+              "english": "'Drive up' means to cause a price or value to increase.",
+              "korean": "'Drive up'은 가격이나 가치를 올리다라는 의미입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "According to experts, the price of mercury skyrocketed from about $20 per kilogram to roughly $240 to $350 per kilogram over a fifteen-year period.",
+          "chunkReading": "According to experts, / the price of mercury skyrocketed / from about $20 per kilogram / to roughly $240 to $350 per kilogram / over a fifteen-year period.",
+          "directKorean": "전문가들에 따르면, / 수은의 가격은 폭등했다 / 킬로그램당 약 20달러에서 / 대략 킬로그램당 240~350달러로 / 15년의 기간 동안.",
+          "naturalKorean": "전문가들에 따르면 수은 가격은 15년 동안 1킬로그램당 약 20달러에서 대략 240~350달러로 폭등했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "skyrocketed from ... to ...",
+              "meaning": "...에서 ...로 폭등했다",
+              "use": "가격이 단기간이나 일정 기간에 엄청나게 수직 상승할 때 씁니다.",
+              "example": "Oil prices skyrocketed from $30 to $120."
+            },
+            {
+              "chunk": "over a fifteen-year period",
+              "meaning": "15년의 기간 동안",
+              "use": "시간의 지속 범위를 명시할 때 쓰입니다.",
+              "example": "Prices increased over a ten-year period."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'According to experts'로 시작하며, 과고동사 'skyrocketed'와 'from A to B' 구문이 구체적 수치 변화를 나타냅니다.",
+          "feynmanExplanation": "15년 전엔 1kg에 20달러(약 26,000원)밖에 안 하던 수은이 지금은 최고 350달러(약 46만 원)까지 10배 넘게 폭등했어요!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the exact numerical detail: '$20 per kg to $240–$350 per kg'.",
+              "korean": "구체적인 수치 정보를 확인하세요: 'kg당 20달러에서 240~350달러'."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Miners use mercury because it easily binds to precious metal particles, helping them extract gold from raw rock and soil.",
+          "chunkReading": "Miners use mercury / because it easily binds / to precious metal particles, / helping them extract gold / from raw rock and soil.",
+          "directKorean": "채굴업자들은 수은을 사용한다 / 그것이 쉽게 결합하기 때문에 / 귀금속 입자들과, / 그들이 금을 추출하도록 도우면서 / 날것의 암석과 흙으로부터.",
+          "naturalKorean": "수은이 귀금속 입자와 쉽게 결합하기 때문에, 채굴업자들은 흙과 암석에서 금을 추출하기 위해 수은을 사용합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "binds to",
+              "meaning": "~와 결합하다, 붙다",
+              "use": "화학물질이 특정 물질과 단단히 달라붙는 현상을 뜻합니다.",
+              "example": "Mercury binds to tiny gold particles in sediment."
+            },
+            {
+              "chunk": "extract gold from",
+              "meaning": "~로부터 금을 추출하다",
+              "use": "원석이나 흙에서 금만을 뽑아내는 과정을 나타냅니다.",
+              "example": "Miners use chemicals to extract gold from rock."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'because'가 원인을 설명하며, 뒤이어 현재분사구문 'helping + 목적어(them) + 원형부정사(extract)'가 목적과 결과를 보충합니다.",
+          "feynmanExplanation": "수은은 돌가루 속에 섞인 눈에 안 보이는 금 알갱이들을 자석처럼 찰떡같이 끌어당겨 뭉쳐주는 역할을 해요.",
+          "teachingTranscript": [
+            {
+              "english": "'Bind to' explains the chemical attraction between mercury and gold.",
+              "korean": "'Bind to'는 수은과 금 사이의 화학적 결합을 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Because mercury is so useful for small-scale gold extraction, the chemical has become extremely valuable despite severe international regulations.",
+          "chunkReading": "Because mercury is so useful / for small-scale gold extraction, / the chemical has become / extremely valuable / despite severe international regulations.",
+          "directKorean": "수은이 너무 유용하기 때문에 / 소규모 금 추출에, / 그 화학물질은 되었다 / 매우 가치 있게 / 엄격한 국제 규제에도 불구하고.",
+          "naturalKorean": "수은이 소규모 금 추출에 매우 유용하기 때문에, 엄격한 국제 규제에도 불구하고 이 화학물질은 매우 비싸고 가치 있게 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "small-scale gold extraction",
+              "meaning": "소규모 금 추출",
+              "use": "대형 공장이 아닌 개인이나 작은 집단이 하는 금 채굴 방식입니다.",
+              "example": "Mercury is widely used in small-scale gold extraction."
+            },
+            {
+              "chunk": "despite severe international regulations",
+              "meaning": "엄격한 국제 규제에도 불구하고",
+              "use": "despite + 명사구 구문으로 양보의 의미를 나타냅니다.",
+              "example": "Trade continues despite severe international regulations."
+            }
+          ],
+          "mustKnowGrammar": "이유의 접속사 'Because'절과, 주절의 현재완료 'has become', 그리고 양보의 전치사 'despite + 명사구'가 조화를 이룹니다.",
+          "feynmanExplanation": "세계적으로 수은 사용을 금지하고 단속해도, 금 찌꺼기를 거르는 데 너무 편하니까 불법 시장에서 귀한 대접을 받는 거죠.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'despite', which introduces a contrast to international laws.",
+              "korean": "국제 법규와의 대비를 나타내는 'despite'를 주의해서 보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "Although mercury helps miners separate gold, it poses extreme dangers to human health and natural ecosystems.",
+          "chunkReading": "Although mercury helps miners / separate gold, / it poses extreme dangers / to human health / and natural ecosystems.",
+          "directKorean": "비록 수은이 채굴업자들을 돕지만 / 금을 분리하도록, / 그것은 극심한 위험을 가져온다 / 인간의 건강과 / 자연 생태계에.",
+          "naturalKorean": "비록 수은이 채굴업자들의 금 분리를 도와주지만, 인간의 건강과 자연 생태계에는 극심한 위험을 가져옵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "poses extreme dangers to",
+              "meaning": "~에 극심한 위험을 내포하다/가져오다",
+              "use": "위험을 초래하거나 제기할 때 쓰는 고급 표현입니다.",
+              "example": "Toxic waste poses extreme dangers to marine life."
+            },
+            {
+              "chunk": "natural ecosystems",
+              "meaning": "자연 생태계",
+              "use": "동식물과 환경이 이루는 자연적 환경을 뜻합니다.",
+              "example": "Pollution harms natural ecosystems around the river."
+            }
+          ],
+          "mustKnowGrammar": "양보 접속사 'Although'절 뒤에 주절 'it poses extreme dangers to...'가 이어져 심각한 유해성을 대비시킵니다.",
+          "feynmanExplanation": "금 분리에는 최고일지 몰라도, 인간 몸과 자연환경에는 거의 악마 수준으로 치명적이라는 뜻이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'Pose a danger' is a common formal collocation.",
+              "korean": "'Pose a danger'는 위험을 가져오다라는 자주 쓰이는 격식 표현입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "Mercury is a highly toxic heavy metal that damages the body quickly.",
+          "chunkReading": "Mercury is / a highly toxic heavy metal / that damages the body quickly.",
+          "directKorean": "수은은 ~이다 / 매우 독성이 강한 중금속 / 신체를 빠르게 손상시키는.",
+          "naturalKorean": "수은은 신체를 빠르게 손상시키는 독성이 매우 강한 중금속입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "highly toxic heavy metal",
+              "meaning": "매우 독성이 강한 중금속",
+              "use": "수은, 납, 카드뮴 등 인체에 유해한 금속을 설명합니다.",
+              "example": "Mercury is a highly toxic heavy metal."
+            },
+            {
+              "chunk": "damages the body quickly",
+              "meaning": "신체를 빠르게 손상시키다",
+              "use": "유해성이 몸에 빠르게 작용함을 설명합니다.",
+              "example": "Chemical exposure damages the body quickly."
+            }
+          ],
+          "mustKnowGrammar": "주격 관계대명사 'that'이 선행사 'a highly toxic heavy metal'을 수식합니다.",
+          "feynmanExplanation": "수은은 중금속 중에서도 독성이 엄청 세서 우리 몸속에 들어가면 바로 장기나 신경을 망가뜨려요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the relative clause starting with 'that damages'.",
+              "korean": "'that damages'로 시작하는 관계대명사절을 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "When miners burn or handle mercury without protective equipment, poisonous vapors enter their lungs and pollute local waterways.",
+          "chunkReading": "When miners burn or handle mercury / without protective equipment, / poisonous vapors / enter their lungs / and pollute local waterways.",
+          "directKorean": "채굴업자들이 수은을 태우거나 다룰 때 / 보호 장비 없이, / 유독성 증기가 / 그들의 폐로 들어가고 / 지역 수로를 오염시킨다.",
+          "naturalKorean": "채굴업자들이 보호 장비 없이 수은을 태우거나 다룰 때, 유독 가스가 폐로 들어가고 지역 수로를 오염시킵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "protective equipment",
+              "meaning": "보호 장비 (장갑, 마스크 등)",
+              "use": "위험한 작업을 할 때 몸을 보호하는 장구를 뜻합니다.",
+              "example": "Workers should always wear protective equipment."
+            },
+            {
+              "chunk": "poisonous vapors",
+              "meaning": "유독성 증기, 독가스",
+              "use": "화학물질이 증발하면서 나오는 유해 가스를 의미합니다.",
+              "example": "Inhaling poisonous vapors can cause lung damage."
+            }
+          ],
+          "mustKnowGrammar": "시간의 부사절 'When...'과 전치사구 'without protective equipment', 그리고 등이접속사 'and'가 이끄는 병렬 동사 'enter ... and pollute ...' 구조입니다.",
+          "feynmanExplanation": "금과 수은을 떼어내려고 끓이거나 태울 때 마스크나 장갑이 없으면 그 독연기가 폐로 다 들어가고 시냇물도 오염돼요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the compound action: 'enter their lungs and pollute local waterways'.",
+              "korean": "병렬 구조: '폐로 들어가고 수로를 오염시킨다'를 살펴보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Over time, mercury exposure causes severe health complications, including permanent neurological damage, memory loss, and organ failure.",
+          "chunkReading": "Over time, / mercury exposure / causes severe health complications, / including permanent neurological damage, / memory loss, / and organ failure.",
+          "directKorean": "시간이 지남에 따라, / 수은 노출은 / 심각한 건강 합병증을 야기한다, / 영구적인 신경계 손상, / 기억력 상실, / 그리고 장기 부전을 포함하여.",
+          "naturalKorean": "시간이 지남에 따라 수은 노출은 영구적인 신경계 손상, 기억력 상실, 장기 부전을 포함한 심각한 건강 합병증을 야기합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "mercury exposure",
+              "meaning": "수은 노출",
+              "use": "수은을 만지거나 냄새를 들이마시는 상태를 뜻합니다.",
+              "example": "Long-term mercury exposure causes brain problems."
+            },
+            {
+              "chunk": "permanent neurological damage",
+              "meaning": "영구적인 신경계 손상",
+              "use": "뇌나 신경이 고장 나 다시는 회복되지 않는 병을 말합니다.",
+              "example": "Heavy metal poisoning leads to permanent neurological damage."
+            }
+          ],
+          "mustKnowGrammar": "전치사 'including'이 나열형 명사들(permanent neurological damage, memory loss, and organ failure)을 이끕니다.",
+          "feynmanExplanation": "수은을 계속 마시면 뇌세포가 영구적으로 손상되어 기억을 잃고 콩팥이나 간 같은 장기도 멈춰 버릴 수 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the list of health issues following 'including'.",
+              "korean": "'including' 뒤에 나열된 건강 질환 목록을 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Furthermore, liquid mercury drains into rivers and soil, contaminating local ecosystems and poisoning fish that families depend on for food.",
+          "chunkReading": "Furthermore, / liquid mercury / drains into rivers and soil, / contaminating local ecosystems / and poisoning fish / that families depend on for food.",
+          "directKorean": "뿐만 아니라, / 액체 수은은 강과 흙으로 흘러 들어간다, / 지역 생태계를 오염시키면서 / 그리고 물고기를 중독시키면서 / 가족들이 식량으로 의존하는.",
+          "naturalKorean": "뿐만 아니라 액체 수은이 강과 흙으로 흘러 들어가 지역 생태계를 오염시키고, 주민들이 식량으로 의존하는 물고기를 중독시킵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "drains into",
+              "meaning": "~로 흘러 들어가다",
+              "use": "액체가 하천이나 토양으로 흘러 들어가는 현상을 나타냅니다.",
+              "example": "Toxic chemicals drain into the river."
+            },
+            {
+              "chunk": "depend on ... for food",
+              "meaning": "식량으로 ~에 의존하다",
+              "use": "먹을거리를 특정 자원에 의지하는 구문입니다.",
+              "example": "Villagers depend on river fish for food."
+            }
+          ],
+          "mustKnowGrammar": "접속부사 'Furthermore'로 시작하여 분사구문 'contaminating ... and poisoning ...'이 연속 결과를 설명하며, 목적격 관계대명사절 'that families depend on for food'가 fish를 수식합니다.",
+          "feynmanExplanation": "땅에 버려진 액체 수은은 빗물을 타고 강으로 흘러 들어가 물고기 몸에 쌓이고, 그 물고기를 잡아먹는 가족들까지 아프게 해요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the relative clause 'that families depend on for food'.",
+              "korean": "관계대명사절 'that families depend on for food'를 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "Despite knowing these severe health risks, thousands of local miners continue working with toxic mercury every day.",
+          "chunkReading": "Despite knowing these severe health risks, / thousands of local miners / continue working / with toxic mercury every day.",
+          "directKorean": "이러한 심각한 건강 위험을 앎에도 불구하고, / 수천 명의 지역 채굴업자들은 / 계속 일한다 / 매일 독성 수은을 가지고.",
+          "naturalKorean": "이러한 심각한 건강 위험을 알고 있음에도 불구하고, 수천 명의 지역 채굴업자들은 매일 독성 수은을 가지고 계속 일하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "despite knowing",
+              "meaning": "~를 알고 있음에도 불구하고",
+              "use": "despite + 동명사 구문으로 인지 상태와 반대되는 행동을 설명합니다.",
+              "example": "Despite knowing the risk, they continued working."
+            },
+            {
+              "chunk": "thousands of local miners",
+              "meaning": "수천 명의 지역 채굴업자들",
+              "use": "thousands of + 복수명사로 다수의 인원을 뜻합니다.",
+              "example": "Thousands of local miners depend on gold."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Despite + 동명사'와, 주절의 'continue + 동명사 (continue working)' 구문입니다.",
+          "feynmanExplanation": "위험하다는 걸 머리로는 다 알면서도, 당장 하루 벌어 하루 먹고살아야 하니까 위험한 수은을 손에서 놓지 못해요.",
+          "teachingTranscript": [
+            {
+              "english": "'Continue working' shows ongoing habit despite danger.",
+              "korean": "'Continue working'은 위험에도 불구하고 계속되는 행동을 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "For many families in the Sierra Gorda region, mining is one of the very few ways to earn an income in an area with widespread poverty and limited economic opportunities.",
+          "chunkReading": "For many families / in the Sierra Gorda region, / mining is one of the very few ways / to earn an income / in an area / with widespread poverty / and limited economic opportunities.",
+          "directKorean": "많은 가족들에게 / 시에라 고르다 지역의, / 채굴은 아주 몇 안 되는 방법 중 하나이다 / 수입을 올릴 수 있는 / 지역에서 / 광범위한 가난을 가진 / 그리고 제한된 경제적 기회를.",
+          "naturalKorean": "시에라 고르다 지역의 많은 가족에게 채굴은 가난이 만연하고 경제적 기회가 제한된 지역에서 수입을 올릴 수 있는 몇 안 되는 방법 중 하나입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "one of the very few ways",
+              "meaning": "아주 몇 안 되는 방법 중 하나",
+              "use": "선택지가 지극히 제한적인 상황을 강조합니다.",
+              "example": "Mining is one of the very few ways to make money."
+            },
+            {
+              "chunk": "widespread poverty",
+              "meaning": "만연한 가난, 광범위한 빈곤",
+              "use": "지역 전반에 걸친 극심한 가난을 의미합니다.",
+              "example": "Widespread poverty forces people into dangerous work."
+            }
+          ],
+          "mustKnowGrammar": "구문 'one of the + 복수명사(ways) + to부정사(to earn)' 구조와 전치사구 'with widespread poverty and limited economic opportunities'가 명사를 보충 설명합니다.",
+          "feynmanExplanation": "다른 공장도 없고 일자리도 전혀 없는 지독한 가난 동네라 굶지 않으려면 금 파는 것 말고는 다른 방법이 없기 때문이에요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'widespread poverty' explaining the economic root cause.",
+              "korean": "경제적 근본 원인을 설명하는 'widespread poverty'를 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "Miners do not choose dangerous work freely; rather, economic pressure and a lack of safe job alternatives force them to risk their health to support their children.",
+          "chunkReading": "Miners do not choose dangerous work freely; / rather, economic pressure / and a lack of safe job alternatives / force them to risk their health / to support their children.",
+          "directKorean": "채굴업자들은 위험한 일을 자유롭게 선택하지 않는다; / 오히려, 경제적 압박 / 그리고 안전한 직업 대안의 부족이 / 그들이 건강을 위험에 무릅쓰도록 강요한다 / 그들의 자녀를 부양하기 위해.",
+          "naturalKorean": "채굴업자들이 위험한 일을 스스로 원해서 선택하는 것은 아닙니다. 오히려 경제적 압박과 안전한 일자리의 부족이 자녀를 부양하기 위해 그들의 건강을 위험에 내몰고 있는 것입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "economic pressure",
+              "meaning": "경제적 압박, 생계 부담",
+              "use": "돈을 벌어야 한다는 현실적인 압박감을 표현합니다.",
+              "example": "Economic pressure causes workers to take risks."
+            },
+            {
+              "chunk": "force A to B",
+              "meaning": "A가 B하도록 강요하다/내몰다",
+              "use": "force + 목적어 + to부정사 구조로 불가피한 강제를 나타냅니다.",
+              "example": "Poverty forces them to work in unsafe conditions."
+            }
+          ],
+          "mustKnowGrammar": "세미콜론(;)과 접속부사 'rather'가 부정문('do not choose... freely')과 대조되는 진실을 연결하며, 'force + 목적어 + to부정사' 구문이 쓰였습니다.",
+          "feynmanExplanation": "누가 좋아서 목숨 걸고 일을 하겠어요? 아이들 밥은 먹여야 하는데 다른 일자리가 없으니 어쩔 수 없이 내몰려 일하는 거랍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the key sentence structure: 'not choose freely; rather, force them to...'.",
+              "korean": "핵심 문장 구조: '자유롭게 선택한 게 아니며, 오직 강요당했을 뿐이다'를 유념하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "original": "Because global demand for mercury is expected to keep rising, experts emphasize that governments and international organisations must provide safer mining alternatives, stricter mercury monitoring, and community job programs to protect both human health and the environment.",
+          "chunkReading": "Because global demand for mercury / is expected to keep rising, / experts emphasize that / governments and international organisations / must provide safer mining alternatives, / stricter mercury monitoring, / and community job programs / to protect both human health / and the environment.",
+          "directKorean": "수은에 대한 세계적 수요가 / 계속 상승할 것으로 예상되기 때문에, / 전문가들은 강조한다 / 정부와 국제 기구들이 / 더 안전한 채굴 대안, / 더 엄격한 수은 감시, / 그리고 지역사회 일자리 프로그램을 제공해야 한다고 / 인간의 건강과 / 환경 모두를 보호하기 위해.",
+          "naturalKorean": "수은에 대한 세계적 수요가 계속 늘어날 것으로 예상되는 만큼, 전문가들은 인간의 건강과 환경 모두를 보호하기 위해 정부와 국제 기구가 더 안전한 채굴 대안, 엄격한 수은 감독, 그리고 지역사회 일자리 프로그램을 반드시 제공해야 한다고 강조합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is expected to keep rising",
+              "meaning": "계속 상승할 것으로 예상되다",
+              "use": "미래 수치나 수요가 지속적으로 늘어날 것이라는 예측입니다.",
+              "example": "Mercury demand is expected to keep rising."
+            },
+            {
+              "chunk": "safer mining alternatives",
+              "meaning": "더 안전한 채굴 대안들",
+              "use": "수은 대신 사용할 수 있는 안전한 기술이나 직업 대안을 뜻합니다.",
+              "example": "Governments should promote safer mining alternatives."
+            }
+          ],
+          "mustKnowGrammar": "이유절 'Because...', 전달동사 절 'experts emphasize that...', 조동사 'must provide A, B, and C', 그리고 목적의 to부정사 구문 'to protect both A and B'가 결합된 종합적 해결책 문장입니다.",
+          "feynmanExplanation": "수은 수요가 앞으로도 계속 늘어날 테니, 정부와 국제 사회가 단속만 할 게 아니라 안전한 기술과 새로운 일자리를 꼭 제공해야 이 문제가 해결됩니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the concluding call to action addressing both health and environment.",
+              "korean": "건강과 환경 모두를 보호하기 위한 결론적 조치 촉구를 확인하세요."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "Illegal gold mining causes severe problems because __________.",
+          "Mercury is used to extract gold, but it is dangerous due to __________.",
+          "Many miners continue this work because __________.",
+          "To solve this problem, governments should __________ and __________.",
+          "As a result, local communities would have __________."
+        ],
+        "usefulConnectors": [
+          "because",
+          "due to",
+          "as a result",
+          "however",
+          "one reason is",
+          "to solve this problem",
+          "furthermore",
+          "overall"
+        ],
+        "usefulVocabulary": [
+          "illegal mining",
+          "mercury",
+          "toxic chemical",
+          "extract gold",
+          "neurological damage",
+          "contaminate soil",
+          "widespread poverty",
+          "safe job alternatives"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State the problem clearly (illegal mining and mercury risks in Mexico).",
+          "2. Cause & Effect: Explain why mercury is used (extract gold) and its severe risks (neurological damage, contamination).",
+          "3. Background Challenge: Explain why miners continue (poverty, lack of safe job alternatives).",
+          "4. Solutions: Propose 2 clear solutions (job training programs, stricter mercury monitoring, safer mining tech).",
+          "5. Conclusion: Summarize the solution with a clear concluding sentence."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Miners choose dangerous work because they like money.",
+            "correction": "Miners take dangerous work because poverty and economic pressure leave them with few safe job choices."
+          },
+          {
+            "mistake": "Mercury causes health problems because it is bad.",
+            "correction": "Mercury is a highly toxic metal that causes serious health problems, including permanent neurological damage."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Ensure students include at least two causes or effects and two solutions.",
+          "Check that students use target connectors (because, due to, as a result, however, to solve this problem).",
+          "Verify word count is strictly between 100 and 140 words."
+        ]
+      }
+    }
+  }
+}
