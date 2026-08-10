@@ -1,0 +1,951 @@
+{
+  "lessonTitle": "Teens Try Going Tech-Free in Their Bedrooms",
+  "ofsUnit": "Unit 4 — Campaigns & Digital Wellbeing",
+  "textType": "News Report / Evidence-Based Recommendation Paragraph",
+  "lessonGoal": "Students will read a news-style text about teenagers who removed technology from their bedrooms for five days, identify reported results and limitations, learn vocabulary for digital habits and personal boundaries, distinguish evidence from overgeneralization, and write an evidence-based recommendation about technology-free bedrooms.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. There are no right or wrong answers.",
+    "questions": [
+      "What kinds of technology do teenagers commonly keep in their bedrooms?",
+      "How might removing technology from a bedroom change a teenager’s evening routine?",
+      "Do you think a technology-free bedroom is a useful boundary or an unnecessary restriction? Why?"
+    ]
+  },
+  "article": {
+    "title": "Teens Try Going Tech-Free in Their Bedrooms",
+    "source": "Source: Adapted from a teacher-provided classroom source image (CNN).",
+    "note": "OFS Grade 9 International English — Unit 4",
+    "paragraphs": [
+      "A group of four teenagers in Bradford, United Kingdom, recently accepted a unique five-day challenge to remove all digital technology from their bedrooms. The project was organized in connection with the Teen Summit, an initiative that explores major issues affecting young people. Crucially, the experiment focused on establishing a location-based boundary by making bedrooms tech-free zones, rather than attempting a complete ban on technology everywhere throughout the day.",
+      "Before starting the challenge, thirteen-year-old Elizabeth spent approximately three to four hours each evening watching YouTube videos and chatting online with friends. Although she felt excited about taking on the challenge, she was also nervous and expected it to be difficult. Her father even expressed doubt about whether she would complete the full five days. However, during the experiment, Elizabeth discovered a new offline interest in baking, which gave her an enjoyable creative activity away from her screen.",
+      "Another participant, Henry, reported sleeping noticeably better during the five-day period without his gaming console in his bedroom. A survey cited in the source reported that 38 percent of teenagers surveyed spent more than five hours per day using screens. Reflecting on the challenge, Henry's mother noted that introducing technology-free zones could spark helpful family discussions about daily habits, evening routines, and household rules.",
+      "While these initial experiences suggest that changing device locations may help some teenagers manage screen time, experts emphasize that a small five-day challenge involving four teenagers is a personal experiment rather than scientific proof. It does not prove that removing devices will guarantee better sleep or new hobbies for every young person. Nevertheless, setting realistic boundaries invites families to discuss healthy technology habits that support both digital connection and personal wellbeing."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "take on a challenge",
+        "definition": "to accept and attempt to complete a difficult task or test",
+        "partOfSpeech": "phrasal verb",
+        "sentence": "Four teenagers decided to take on a challenge to remove devices from their rooms."
+      },
+      {
+        "word": "tech-free zone",
+        "definition": "an area or room where electronic devices and technology are not allowed",
+        "partOfSpeech": "noun phrase",
+        "sentence": "Making the bedroom a tech-free zone encouraged students to sleep earlier."
+      },
+      {
+        "word": "screen time",
+        "definition": "the amount of time spent looking at electronic screens such as phones, tablets, or TVs",
+        "partOfSpeech": "noun",
+        "sentence": "Many parents encourage their children to limit their daily screen time."
+      },
+      {
+        "word": "habit",
+        "definition": "a settled or regular practice that a person does frequently or automatically",
+        "partOfSpeech": "noun",
+        "sentence": "Checking a smartphone right before sleeping can become an unhealthy habit."
+      },
+      {
+        "word": "device",
+        "definition": "an electronic instrument such as a smartphone, tablet, or gaming console",
+        "partOfSpeech": "noun",
+        "sentence": "Each student placed their electronic device outside the bedroom at night."
+      },
+      {
+        "word": "nervous",
+        "definition": "feeling anxious, worried, or uneasy about an upcoming test or change",
+        "partOfSpeech": "adjective",
+        "sentence": "Elizabeth felt nervous before starting the experiment because she loved chatting online."
+      },
+      {
+        "word": "last",
+        "definition": "to continue or endure for a specific period of time",
+        "partOfSpeech": "verb",
+        "sentence": "The technology-free bedroom challenge was designed to last for five days."
+      },
+      {
+        "word": "discover",
+        "definition": "to find out, learn about, or develop an interest in something new",
+        "partOfSpeech": "verb",
+        "sentence": "During the experiment, Elizabeth managed to discover a new interest in baking."
+      },
+      {
+        "word": "benefit",
+        "definition": "an advantage, positive outcome, or helpful effect gained from something",
+        "partOfSpeech": "noun",
+        "sentence": "Henry reported a major benefit of the challenge when his sleep quality improved."
+      },
+      {
+        "word": "survey",
+        "definition": "an investigation or collection of data gathering opinions or habits from people",
+        "partOfSpeech": "noun",
+        "sentence": "A survey cited in the article reported that 38% of teenagers use screens over five hours daily."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. A short challenge in Bradford showed how removing devices from bedrooms may change some teenagers’ habits and encourage discussion about healthier technology boundaries.",
+      "B. Four teenagers in Bradford proved that all technology is harmful and should be banned permanently.",
+      "C. Elizabeth and Henry decided never to use YouTube or gaming consoles again.",
+      "D. A survey proved that every teenager spends more than five hours per day using screens."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article describes a five-day bedroom challenge, the personal changes reported by Elizabeth and Henry, and the broader discussion about balanced technology use. It also explains that the small experiment cannot prove that every teenager will have the same result."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What did the four teenagers in Bradford agree to do?",
+        "options": [
+          "A. Stop using technology completely everywhere for a full month",
+          "B. Remove all digital technology from their bedrooms for five days",
+          "C. Delete their social media accounts permanently",
+          "D. Buy new gaming consoles for their bedrooms"
+        ],
+        "correctIndex": 1,
+        "explanation": "The opening paragraph explicitly states that four teenagers in Bradford accepted a five-day challenge to remove all digital technology from their bedrooms."
+      },
+      {
+        "id": "rc2",
+        "question": "What was Elizabeth’s usual technology routine before taking on the challenge?",
+        "options": [
+          "A. She spent 3 to 4 hours each evening watching YouTube and chatting with friends",
+          "B. She used her phone only for 10 minutes per week",
+          "C. She played video games all night without talking to anyone",
+          "D. She studied online textbooks for 6 hours every night"
+        ],
+        "correctIndex": 0,
+        "explanation": "The text states that thirteen-year-old Elizabeth usually spent about three to four hours each evening watching YouTube videos and chatting online with friends."
+      },
+      {
+        "id": "rc3",
+        "question": "How did Elizabeth feel before starting the tech-free bedroom challenge?",
+        "options": [
+          "A. Completely calm because she hated using technology",
+          "B. Excited but nervous because she expected the challenge to be difficult",
+          "C. Angry at her teacher for forcing her to bake cakes",
+          "D. Confident that her father would fail the challenge"
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that Elizabeth felt excited about taking on the challenge but was also nervous because she expected it to be hard, and her father doubted she would finish."
+      },
+      {
+        "id": "rc4",
+        "question": "What new offline interest did Elizabeth discover during the five-day experiment?",
+        "options": [
+          "A. Playing competitive chess",
+          "B. Baking",
+          "C. Writing news articles for CNN",
+          "D. Building computer hardware"
+        ],
+        "correctIndex": 1,
+        "explanation": "The text mentions that during the experiment, Elizabeth discovered a new offline interest in baking as a creative activity away from screens."
+      },
+      {
+        "id": "rc5",
+        "question": "What positive change did Henry report during the challenge?",
+        "options": [
+          "A. He reported sleeping noticeably better without a gaming console in his bedroom",
+          "B. He reported winning a national gaming championship",
+          "C. He reported that he stopped talking to his family members",
+          "D. He reported selling his gaming console to buy baking tools"
+        ],
+        "correctIndex": 0,
+        "explanation": "According to the article, Henry reported sleeping noticeably better during the five-day period when his gaming console was removed from his bedroom."
+      },
+      {
+        "id": "rc6",
+        "question": "What did the survey cited in the source report about teenage screen habits?",
+        "options": [
+          "A. 100% of teenagers worldwide spend 10 hours on screens daily",
+          "B. 38 percent of teenagers surveyed spent more than five hours per day using screens",
+          "C. No teenagers use screens for more than one hour per day",
+          "D. All teenagers sleep less than three hours every night"
+        ],
+        "correctIndex": 1,
+        "explanation": "The text explicitly states that a survey cited in the source reported that 38 percent of teenagers surveyed spent more than five hours per day using screens. Note that this percentage describes a surveyed group, not every teenager globally."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail showing that Elizabeth expected the challenge to be difficult.",
+        "modelAnswer": "Elizabeth felt nervous before starting the experiment and expected it to be difficult, and her father even expressed doubt about whether she would complete the full five days.",
+        "compareTip": "Your answer should mention Elizabeth feeling nervous, expecting difficulty, or her father doubting she would complete the challenge.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find two details showing how the challenge affected Elizabeth and Henry differently.",
+        "modelAnswer": "Elizabeth discovered a new offline interest in baking during her screen-free time, while Henry reported sleeping noticeably better without his gaming console nearby.",
+        "compareTip": "Your answer should mention Elizabeth discovering baking and Henry reporting improved sleep without his gaming console.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail showing why the topic may matter to many families.",
+        "modelAnswer": "A survey cited in the source reported that 38% of teenagers surveyed spent more than five hours per day using screens, and Henry’s mother noted that tech-free zones could spark helpful family discussions.",
+        "compareTip": "Your answer should mention the 38% survey statistic or Henry’s mother noting that tech-free zones encourage useful family discussions.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Reporting Evidence, Showing Contrast, and Avoiding Overgeneralization",
+    "explanation": "When writing news reports and evidence-based recommendations, careful writers use reporting expressions (according to the source, the article reports that, Elizabeth discovered that, Henry said that), contrast connectors (while, although, however, as a result), and cautious modal verbs (may, might, suggests, does not prove) to avoid overgeneralizing small experiments.",
+    "examples": [
+      "According to the source, four teenagers in Bradford took on a five-day bedroom challenge.",
+      "The article reports that Elizabeth spent 3 to 4 hours on YouTube each evening.",
+      "Elizabeth discovered that she enjoyed baking while her bedroom was tech-free.",
+      "Henry said that he slept better without his gaming console in his room.",
+      "Although Elizabeth expected the challenge to be hard, she finished the five days.",
+      "Henry removed his gaming console; as a result, he reported sleeping better.",
+      "This short challenge suggests a possibility, but it does not prove that every teenager will experience the same result.",
+      "Families may find that tech-free bedrooms encourage helpful discussions about daily habits."
+    ],
+    "practice": [
+      "Complete the sentence: According to the article, Elizabeth usually spent three to four hours __________.",
+      "Combine into one sentence using 'while': Elizabeth discovered baking. Henry reported sleeping better.",
+      "Rewrite this overgeneralization carefully: 'This experiment proves that every teenager needs a tech-free bedroom.'"
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Summarize the Bradford challenge.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Four teenagers in Bradford, UK, accepted a five-day challenge to remove all digital technology from their bedrooms. The experiment was connected with the Teen Summit to examine how location-based technology boundaries affect daily habits. Rather than banning devices everywhere, the challenge focused specifically on bedroom tech-free zones.",
+        "compareTip": "Did your answer mention four teenagers in Bradford removing technology from their bedrooms for five days as a location boundary?"
+      },
+      {
+        "id": "wp2",
+        "question": "Compare Elizabeth's routine before and during the challenge.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Before the challenge, thirteen-year-old Elizabeth spent three to four hours every evening watching YouTube and chatting online with friends. During the five-day experiment, she replaced some of that screen time with baking. Discovering this new offline interest provided a creative activity away from her digital devices.",
+        "compareTip": "Did your answer contrast Elizabeth's 3-4 hours of YouTube/chatting before with her discovery of baking during the challenge?"
+      },
+      {
+        "id": "wp3",
+        "question": "Explain Henry's result using cause-and-effect language.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Henry removed his gaming console from his bedroom for the challenge. As a result, he reported sleeping noticeably better because the console was no longer nearby to distract him. This personal experience suggests that removing night-time distractions may support better rest.",
+        "compareTip": "Did your answer use cause-and-effect language (e.g. as a result, because) to link removing the gaming console with better reported sleep?"
+      },
+      {
+        "id": "wp4",
+        "question": "Give a balanced recommendation to a family considering a technology-free bedroom.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "A family considering tech-free bedrooms could try a one-week trial to see if evening routines improve. This boundary may help teenagers sleep better or discover offline hobbies. However, parents and teenagers should discuss the rules together because individual needs and habits vary.",
+        "compareTip": "Did your answer suggest trying a trial while noting that families should discuss rules together to balance individual needs?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a 100–140-word evidence-based recommendation answering: Should teenagers make their bedrooms technology-free zones?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State a clear position or recommendation.",
+      "Use at least two accurate details from the article.",
+      "Explain one possible benefit.",
+      "Include one limitation, counterpoint, or caution.",
+      "Use at least two target expressions (e.g. according to, while, however, as a result, may, suggests).",
+      "Do not claim that the short experiment proved a universal result.",
+      "Finish with a clear concluding recommendation."
+    ],
+    "modelAnswer": "Teenagers should consider making their bedrooms technology-free zones, especially at night. In the Bradford challenge, four teenagers removed technology from their rooms for five days. Elizabeth had usually spent three to four hours using YouTube and chatting, but she discovered baking during the challenge. Henry also reported sleeping better without his gaming console nearby. These examples suggest that changing where devices are used may create more time for hobbies and rest. However, the challenge involved only four teenagers and lasted a short time, so it does not prove that every teenager will have the same result. Families could try the idea for one week, discuss what changes, and create rules together. A technology-free bedroom should support balance rather than ban technology completely."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I clearly stated my recommendation.",
+      "I used at least two details from the article.",
+      "I explained a possible benefit.",
+      "I included a limitation or counterpoint.",
+      "I used evidence-reporting or contrast language.",
+      "I avoided claiming that the experiment proved a universal result.",
+      "I wrote 100–140 words.",
+      "I checked spelling, capitalization, and punctuation.",
+      "I compared my work with the Model Answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. A short challenge in Bradford showed how removing devices from bedrooms may change some teenagers’ habits and encourage discussion about healthier technology boundaries.",
+      "readingComprehension": {
+        "rc1": "B. Remove all digital technology from their bedrooms for five days",
+        "rc2": "A. She spent 3 to 4 hours each evening watching YouTube and chatting with friends",
+        "rc3": "B. Excited but nervous because she expected the challenge to be difficult",
+        "rc4": "B. Baking",
+        "rc5": "A. He reported sleeping noticeably better without a gaming console in his bedroom",
+        "rc6": "B. Thirty-eight percent of teenagers surveyed spent more than five hours per day using screens"
+      },
+      "evidenceFromText": {
+        "ev1": "Elizabeth felt nervous before starting the experiment and expected it to be difficult, and her father even expressed doubt about whether she would complete the full five days.",
+        "ev2": "Elizabeth discovered a new offline interest in baking during her screen-free time, while Henry reported sleeping noticeably better without his gaming console nearby.",
+        "ev3": "A survey cited in the source reported that 38% of teenagers surveyed spent more than five hours per day using screens, and Henry’s mother noted that tech-free zones could spark helpful family discussions."
+      },
+      "languageFocus": {
+        "lf1": "According to the article, Elizabeth usually spent three to four hours watching YouTube videos and chatting online with friends.",
+        "lf2": "Elizabeth discovered baking, while Henry reported sleeping noticeably better.",
+        "lf3": "This short experiment suggests that a tech-free bedroom may help some teenagers, but it does not prove that every teenager will have the same result."
+      }
+    },
+    "modelAnswer": "Teenagers should consider making their bedrooms technology-free zones, especially at night. In the Bradford challenge, four teenagers removed technology from their rooms for five days. Elizabeth had usually spent three to four hours using YouTube and chatting, but she discovered baking during the challenge. Henry also reported sleeping better without his gaming console nearby. These examples suggest that changing where devices are used may create more time for hobbies and rest. However, the challenge involved only four teenagers and lasted a short time, so it does not prove that every teenager will have the same result. Families could try the idea for one week, discuss what changes, and create rules together. A technology-free bedroom should support balance rather than ban technology completely.",
+    "rubric": [
+      {
+        "category": "Content & Recommendation",
+        "excellent": "States a clear, nuanced recommendation about tech-free bedrooms, identifies specific benefits and limitations, and presents a well-supported argument.",
+        "developing": "States a recommendation and mentions an example, but lacks depth or omits key limitations.",
+        "beginning": "Fails to state a clear recommendation or omits article evidence."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Integrates accurate details from the text (e.g., 4 Bradford teens, 5 days, Elizabeth's 3–4 hr YouTube/chatting routine, baking, Henry's sleep report, 38% survey statistic).",
+        "developing": "Includes some text details, but connections are general or slightly vague.",
+        "beginning": "Uses little or no evidence from the article."
+      },
+      {
+        "category": "Reporting / Contrast Language",
+        "excellent": "Fluently uses reporting phrases (according to, reports that, discovered that, suggests) and contrast terms (while, however, may) to distinguish reported personal experience from scientific proof.",
+        "developing": "Uses some reporting or contrast terms, but occasionally overgeneralizes small results as universal proof.",
+        "beginning": "Uses no reporting or contrast connectors; presents personal reports as absolute medical facts."
+      },
+      {
+        "category": "Organization",
+        "excellent": "Paragraph is logically structured with a clear topic sentence, supporting evidence, counterpoint/limitation, and a balanced concluding recommendation.",
+        "developing": "Has a basic topic sentence and body, but transitions between benefits and limitations feel abrupt.",
+        "beginning": "Lacks paragraph organization or clear sentence progression."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Meets 100–140 word target range, uses complete sentences, and has minimal spelling or grammatical errors.",
+        "developing": "Slightly outside the 100–140 word target or contains several mechanical errors that interrupt readability.",
+        "beginning": "Significantly under or over word count with frequent errors that impede understanding."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach key terms: 'take on a challenge', 'tech-free zone', 'screen time', 'habit', 'device', 'benefit', and 'survey' before reading.",
+      "Clarify that technology was removed specifically from bedrooms, not banned completely throughout the entire day.",
+      "Present the Bradford project as a short personal experiment rather than a scientific study or medical proof.",
+      "Explain why 'Henry reported sleeping better' is more factually accurate than claims like 'Technology always ruins sleep.'",
+      "Avoid shaming students for their screen time habits; foster an open, supportive classroom environment.",
+      "Acknowledge positive uses of technology for communication, learning, creativity, and entertainment while discussing boundaries.",
+      "Encourage students to distinguish source facts, personal reported experiences, survey claims, inferences, and opinions.",
+      "For lower-level ESL students, provide sentence frames for recommendation writing (e.g., 'According to the article,... One benefit is... However,...').",
+      "For stronger ESL students, challenge them to discuss how families can balance personal freedom with collective wellbeing.",
+      "Protect student privacy: do not require students to disclose personal or family technology habits against their will.",
+      "Accept diverse student positions (for or against tech-free bedrooms) as long as they are supported with text evidence and balanced reasoning."
+    ],
+    "teachingScript": [
+      {
+        "phase": "A. Lead-in / Warm-up",
+        "duration": "5 min",
+        "objective": "Introduce the concept of bedroom technology boundaries without judging student habits.",
+        "actions": "Welcome the class and write 'BEDROOM BOUNDARIES' on the board. Introduce the warm-up questions: What technology do teens keep in their rooms? How does removing technology change evening routines? Is a tech-free bedroom a boundary or a restriction? Lead a 5-minute discussion.",
+        "script": [
+          "Teacher: \"Today we're going to examine what happened when four teenagers in Bradford removed technology from their bedrooms for five days.\"",
+          "Teacher: \"This was not a complete ban on technology everywhere. It was a change in where technology could be used.\"",
+          "Teacher: \"Before we read, let's discuss: Do you think a tech-free bedroom is a helpful boundary or an unnecessary rule?\""
+        ],
+        "studentAction": "Students discuss bedroom devices and share initial thoughts on technology boundaries.",
+        "transition": "Now let's preview key vocabulary terms before reading the news report."
+      },
+      {
+        "phase": "B. Vocabulary Preview",
+        "duration": "8 min",
+        "objective": "Pre-teach target vocabulary related to digital habits and personal boundaries.",
+        "actions": "Pre-teach 10 target terms: take on a challenge, tech-free zone, screen time, habit, device, nervous, last, discover, benefit, survey. Conduct quick concept checks.",
+        "script": [
+          "Teacher: \"Let's check two key terms: 'tech-free zone' and 'take on a challenge.'\"",
+          "Teacher: \"If a room is a tech-free zone, can a gaming console stay beside your bed? No, devices are kept outside.\"",
+          "Teacher: \"If you take on a challenge, you agree to try a task that might be difficult at first.\""
+        ],
+        "studentAction": "Students repeat terms, read example sentences, and answer quick concept questions.",
+        "transition": "Let's read the article silently to find the main reported results."
+      },
+      {
+        "phase": "C. First Reading for Gist",
+        "duration": "5 min",
+        "objective": "Guide students to read for main ideas and complete the Main Idea MCQ.",
+        "actions": "Direct students to read the text silently for 5 minutes. Ask them to identify the central challenge and reported outcomes, then answer Main Idea MCQ 1.",
+        "script": [
+          "Teacher: \"As you read, ask yourself: What changed for the teenagers, and what two specific results were reported by Elizabeth and Henry?\"",
+          "Teacher: \"Complete the Main Idea question and check why Option A is the best summary.\""
+        ],
+        "studentAction": "Students read silently and submit Main Idea MCQ.",
+        "transition": "Now let's re-read carefully to label facts, personal reports, and limitations."
+      },
+      {
+        "phase": "D. Second Reading for Detail and Evidence",
+        "duration": "10 min",
+        "actions": "Read paragraph by paragraph with the class. Guide students to label details: F (source fact), R (reported personal result), L (limitation). Direct students to complete Reading Comprehension MCQs and Evidence from the Text.",
+        "script": [
+          "Teacher: \"Notice paragraph 2: Elizabeth spent 3 to 4 hours on YouTube before the challenge, but discovered baking during it.\"",
+          "Teacher: \"Notice paragraph 4: The text explicitly reminds us that 4 teenagers over 5 days is a small experiment, not scientific proof. Type your Evidence answers and click 'Check & Compare.'\""
+        ],
+        "studentAction": "Students mark text details, complete RC MCQs, and draft Evidence responses.",
+        "transition": "Let's examine how careful writers report evidence without overgeneralizing."
+      },
+      {
+        "phase": "E. Language Focus",
+        "duration": "8 min",
+        "objective": "Explicitly teach reporting phrases, contrast connectors, and cautious modal verbs.",
+        "actions": "Display reporting phrases (according to, reports that, discovered that, suggests) and contrast connectors (while, however, may, does not prove). Contrast overclaims with nuanced statements.",
+        "script": [
+          "Teacher: \"Compare these two sentences: 'Tech-free bedrooms improve everyone's sleep' versus 'Henry reported sleeping better without his console.'\"",
+          "Teacher: \"The second sentence is more accurate because it describes a reported personal result rather than claiming universal proof.\""
+        ],
+        "studentAction": "Students complete language practice activities and rewrite overgeneralized sentences.",
+        "transition": "Now apply these reporting structures in your Writing Practice responses."
+      },
+      {
+        "phase": "F. Writing Practice",
+        "duration": "12 min",
+        "objective": "Guide students to complete four 2–4 sentence written response items.",
+        "actions": "Direct students to complete WP1 to WP4. Remind them to use 'Check & Compare' after drafting independently to inspect rule-based feedback and model answers.",
+        "script": [
+          "Teacher: \"For WP3, explain Henry's sleep result using cause-and-effect language like 'as a result' or 'because.' Keep his result framed as a reported experience.\""
+        ],
+        "studentAction": "Students write short responses, click 'Check & Compare', and refine their sentences.",
+        "transition": "Let's move to our final evidence-based recommendation paragraph."
+      },
+      {
+        "phase": "G. Final Writing Task",
+        "duration": "15–20 min",
+        "objective": "Support students in drafting a 100–140-word recommendation paragraph.",
+        "actions": "Review prompt requirements: clear recommendation, 2 text details, 1 benefit, 1 limitation/caution, target connectors, and concluding sentence. Monitor student writing.",
+        "script": [
+          "Teacher: \"Aim for 100 to 140 words. State your recommendation, cite Elizabeth or Henry, explain a benefit, mention the 4-person limitation, and end with a balanced closing rule.\""
+        ],
+        "studentAction": "Students plan and write their recommendation paragraph while checking live word counts.",
+        "transition": "Complete your self-check checklist before final submission."
+      },
+      {
+        "phase": "H. Self-check and Submission",
+        "duration": "5 min",
+        "objective": "Guide self-reflection, final revision, and student data submission.",
+        "actions": "Instruct students to complete the 9 Self-check boxes, review the Model Answer, make one self-correction, enter their Name and Student Code, and click 'Submit Lesson'.",
+        "script": [
+          "Teacher: \"Check off all 9 items in your Self-check list. Click 'Check & Compare' to inspect the model answer, make any small final edits, enter your name, and submit your work.\""
+        ],
+        "studentAction": "Students complete self-check, compare with model answer, enter student ID, and submit.",
+        "transition": "Great job! Your submissions are saved for teacher review."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we're going to explore / what happened when four teenagers / removed technology from their bedrooms / for five days.",
+          "korean": "오늘 우리는 살펴볼 겁니다 / 네 명의 십 대 청소년이 어떻게 되었는지를 / 그들의 침실에서 기술 기기를 치웠을 때 / 5일 동안."
+        },
+        {
+          "english": "A tech-free bedroom / does not necessarily mean / a life without technology.",
+          "korean": "기술 기기가 없는 침실은 / 반드시 의미하지는 않습니다 / 기술이 없는 삶을."
+        },
+        {
+          "english": "As we read, / we need to separate / reported personal experiences / from scientific proof.",
+          "korean": "우리가 읽으면서 / 우리는 구분해야 합니다 / 보고된 개인적 경험들을 / 과학적인 증명으로부터."
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "What kinds of technology / do teenagers commonly keep / in their bedrooms?",
+          "translation": "청소년들은 보통 침실에 어떤 종류의 전자기기를 두나요?",
+          "followUp": "Which device / would be the hardest / to move outside your room?",
+          "teacherFollowUpKorean": "방 밖으로 옮기기 가장 어려운 기기는 무엇일까요?",
+          "teachingPurpose": "Activates background knowledge about daily technology habits and room boundaries."
+        },
+        {
+          "question": "How might removing technology / from a bedroom / change an evening routine?",
+          "translation": "침실에서 전자기기를 치우는 것이 어떻게 저녁 루틴을 바꿀 수 있을까요?",
+          "followUp": "Would every teenager / experience the same change? / Why or why not?",
+          "teacherFollowUpKorean": "모든 청소년이 똑같은 변화를 겪을까요? 왜 그렇거나 그렇지 않은가요?",
+          "teachingPurpose": "Encourages students to predict changes in sleep, hobbies, or boredom."
+        },
+        {
+          "question": "Do you think / a tech-free bedroom / is a useful boundary / or an unnecessary restriction?",
+          "translation": "침실을 테크 프리 공간으로 만드는 것이 유용한 경계선이라고 생각하나요, 아니면 불필요한 제한이라고 생각하나요?",
+          "followUp": "What evidence / would make your opinion / more convincing?",
+          "teacherFollowUpKorean": "어떤 근거가 여러분의 의견을 더 설득력 있게 만들어 줄까요?",
+          "teachingPurpose": "Prepares students to form balanced, evidence-based recommendations."
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "A group of four teenagers in Bradford, United Kingdom, recently accepted a unique five-day challenge to remove all digital technology from their bedrooms.",
+          "chunkReading": "A group of four teenagers in Bradford, United Kingdom, / recently accepted / a unique five-day challenge / to remove all digital technology / from their bedrooms.",
+          "directKorean": "영국 브래드퍼드의 네 명의 십 대 집단은 / 최근 수락했다 / 독특한 5일간의 도전을 / 모든 디지털 기술 기기를 치우기 위한 / 그들의 침실로부터.",
+          "naturalKorean": "영국 브래드퍼드에 사는 네 명의 청소년 그룹이 최근 5일 동안 침실에서 모든 디지털 전자기기를 치우는 독특한 도전에 참여했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "accept a challenge",
+              "meaning": "도전을 수락하다/참여하다",
+              "use": "어려운 과제나 테스트에 동의하고 도전할 때 씁니다.",
+              "example": "Students accepted a challenge to reduce screen time."
+            },
+            {
+              "chunk": "remove A from B",
+              "meaning": "A를 B에서 치우다/제거하다",
+              "use": "물건을 특정 장소에서 밖으로 이동시키는 구문입니다.",
+              "example": "They removed devices from their bedrooms."
+            }
+          ],
+          "mustKnowGrammar": "주어 'A group of four teenagers...' 뒤에 수동태가 아닌 능동 과거동사 'accepted'가 쓰였으며, to부정사 형용사적 용법 'to remove...'가 'challenge'를 수식합니다.",
+          "feynmanExplanation": "'remove A from B'는 A(전자기기)를 B(침실) 밖으로 빼낸다는 뜻이에요. 온 세상에서 전자기기를 다 없앤 게 아니라 '침실'에서 치운 거죠.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'remove all digital technology from their bedrooms.' A is technology, and B is their bedrooms.",
+              "korean": "'remove all digital technology from their bedrooms' 구문을 보세요. A는 기술 기기이고, B는 침실입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "The project was organized in connection with the Teen Summit, an initiative that explores major issues affecting young people.",
+          "chunkReading": "The project was organized / in connection with the Teen Summit, / an initiative / that explores major issues / affecting young people.",
+          "directKorean": "그 프로젝트는 조직되었다 / 틴 서밋(Teen Summit)과 관련하여, / 하나의 이니셔티브인 / 주요 이슈들을 탐구하는 / 젊은이들에게 영향을 미치는.",
+          "naturalKorean": "이 프로젝트는 청소년에게 영향을 미치는 주요 문제들을 탐구하는 이니셔티브인 '틴 서밋(Teen Summit)'과 연계하여 기획되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "in connection with",
+              "meaning": "~와 관련하여, ~와 연계하여",
+              "use": "행사나 프로젝트가 특정 기구/이슈와 연결됨을 밝힙니다.",
+              "example": "The experiment was held in connection with Teen Summit."
+            },
+            {
+              "chunk": "affecting young people",
+              "meaning": "젊은이들에게 영향을 미치는",
+              "use": "현재분사구로 'issues'를 수식합니다.",
+              "example": "We focus on digital habits affecting young people."
+            }
+          ],
+          "mustKnowGrammar": "수동태 'was organized' 뒤에 전치사구 'in connection with'가 오고, 동격 명사구 'an initiative' 뒤에 주격 관계대명사 'that'이 수식합니다.",
+          "feynmanExplanation": "'in connection with'는 쉽게 말해 '틴 서밋 행사와 손잡고 / 관련해서 기획되었다'라는 의미입니다.",
+          "teachingTranscript": [
+            {
+              "english": "'In connection with' links the bedroom challenge to the Teen Summit conference.",
+              "korean": "'In connection with'는 침실 도전 과제를 틴 서밋 행사와 연결해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Crucially, the experiment focused on establishing a location-based boundary by making bedrooms tech-free zones, rather than attempting a complete ban on technology everywhere throughout the day.",
+          "chunkReading": "Crucially, / the experiment focused on establishing / a location-based boundary / by making bedrooms tech-free zones, / rather than attempting / a complete ban on technology / everywhere throughout the day.",
+          "directKorean": "결정적으로, / 그 실험은 확립하는 것에 집중했다 / 장소 기반의 경계선을 / 침실을 테크 프리 존으로 만듦으로써, / 시도하기보다는 / 기술에 대한 완전한 금지를 / 하루 종일 어디에서나.",
+          "naturalKorean": "결정적으로 이 실험은 하루 종일 모든 곳에서 기술을 전면 금지하려 하기보다, 침실을 테크 프리 공간으로 만들어 장소 중심의 경계선을 설정하는 데 집중했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "focused on establishing",
+              "meaning": "~를 확립하는 데 집중했다",
+              "use": "전치사 on 뒤에 동명사 establishing이 연결됩니다.",
+              "example": "The rule focused on establishing healthy boundaries."
+            },
+            {
+              "chunk": "rather than attempting",
+              "meaning": "~를 시도하기보다는",
+              "use": "두 행위 중 한쪽을 선택하고 다른 쪽을 지양할 때 쓰입니다.",
+              "example": "We set room limits rather than attempting a total ban."
+            }
+          ],
+          "mustKnowGrammar": "부사 'Crucially'로 시작하며, 'focus on + -ing' 및 'by + -ing' 구문, 그리고 대조 구문 'rather than + -ing'가 쓰였습니다.",
+          "feynmanExplanation": "'rather than attempting a complete ban'은 하루 종일 전자기기를 아예 못 쓰게 막는 극단적인 방법이 아니었다는 점을 분명히 해 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'rather than attempting a complete ban.' It emphasizes a realistic, location-based boundary.",
+              "korean": "'rather than attempting a complete ban'에 주의하세요. 현실적인 장소 기반 경계선을 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Before starting the challenge, thirteen-year-old Elizabeth spent approximately three to four hours each evening watching YouTube videos and chatting online with friends.",
+          "chunkReading": "Before starting the challenge, / thirteen-year-old Elizabeth spent / approximately three to four hours / each evening / watching YouTube videos / and chatting online with friends.",
+          "directKorean": "도전을 시작하기 전에, / 13세의 엘리자베스는 보냈다 / 대략 3~4시간을 / 매일 저녁 / 유튜브 동영상을 보면서 / 그리고 친구들과 온라인으로 대화하면서.",
+          "naturalKorean": "도전을 시작하기 전에 13세의 엘리자베스는 매일 저녁 유튜브 동영상을 보고 친구들과 온라인으로 대화하는 데 대략 3~4시간을 보냈습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "spend + time + verb-ing",
+              "meaning": "~하면서 (시간을) 보내다",
+              "use": "시간 사용 구문으로 동명사가 목적보어로 연결됩니다.",
+              "example": "She spent four hours watching videos and chatting."
+            },
+            {
+              "chunk": "chatting online with",
+              "meaning": "~와 온라인으로 대화하다",
+              "use": "메신저나 SNS로 소통하는 행위를 뜻합니다.",
+              "example": "Teens spend time chatting online with friends."
+            }
+          ],
+          "mustKnowGrammar": "접속사 분사구문 'Before starting...' 뒤에 핵심 문형 'spend + 시간 + v-ing(watching... and chatting...)' 병렬 구조가 쓰였습니다.",
+          "feynmanExplanation": "영어에서는 'spend + 시간 + ~ing'를 써서 '~을 하면서 시간을 쓰다'라고 표현해요. to watch가 아니라 watching이라고 써야 정답입니다!",
+          "teachingTranscript": [
+            {
+              "english": "Remember the key ESL structure: 'spend time doing something'—here, watching and chatting.",
+              "korean": "핵심 ESL 구문을 기억하세요: 'spend time doing something'—여기서는 watching과 chatting입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Although she felt excited about taking on the challenge, she was also nervous and expected it to be difficult.",
+          "chunkReading": "Although she felt excited / about taking on the challenge, / she was also nervous / and expected it to be difficult.",
+          "directKorean": "비록 그녀는 흥미를 느꼈지만 / 도전에 참여하는 것에 대해, / 그녀는 또한 불안해했고 / 그것이 힘들 것이라고 예상했다.",
+          "naturalKorean": "도전에 참여하는 것에 흥미를 느끼기도 했지만, 그녀는 불안감을 느꼈으며 이 도전이 힘들 것이라고 예상했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "feel excited about",
+              "meaning": "~에 대해 흥미/설렘을 느끼다",
+              "use": "감정을 나타내는 형용사구입니다.",
+              "example": "Elizabeth felt excited about taking on the challenge."
+            },
+            {
+              "chunk": "expect A to be B",
+              "meaning": "A가 B할 것이라고 예상하다",
+              "use": "목적격보어로 to부정사가 쓰이는 5형식 구문입니다.",
+              "example": "She expected the challenge to be difficult."
+            }
+          ],
+          "mustKnowGrammar": "양보 접속사 'Although'절과 주절의 5형식 동사 'expected + it(목적어) + to be difficult(목적보어)'가 결합되었습니다.",
+          "feynmanExplanation": "양보 접속사 'Although'는 '비록 ~했지만'이란 뜻으로, 기대감과 불안감이라는 두 가지 상반된 마음을 보여 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Although' shows mixed feelings: excitement versus nervousness.",
+              "korean": "'Although'는 설렘 대 불안감이라는 복합적인 감정을 보여 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Her father even expressed doubt about whether she would complete the full five days.",
+          "chunkReading": "Her father even expressed doubt / about whether she would complete / the full five days.",
+          "directKorean": "그녀의 아버지는 심지어 의구심을 표명했다 / 그녀가 완수할 수 있을지에 대해 / 꼬박 5일 전체를.",
+          "naturalKorean": "그녀의 아버지는 심지어 그녀가 꼬박 5일을 다 채워 완수할 수 있을지에 대해 의구심을 나타내기까지 했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "express doubt about",
+              "meaning": "~에 대해 의구심을 표명하다",
+              "use": "의심이나 불확실성을 표현할 때 씁니다.",
+              "example": "Her father expressed doubt about her completing it."
+            },
+            {
+              "chunk": "whether she would",
+              "meaning": "그녀가 ~할지 안 할지",
+              "use": "명사절 접속사 whether가 전치사 about의 목적어로 쓰였습니다.",
+              "example": "We doubted whether she would last five days."
+            }
+          ],
+          "mustKnowGrammar": "전치사 'about' 뒤에 의문사/접속사절 'whether + 주어 + 조동사(would) + 동사원형' 명사절이 왔습니다.",
+          "feynmanExplanation": "'express doubt about whether~'는 '~할 수 있을지 아닐지 의심했다/걱정했다'라는 의미예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'whether she would complete.' It reinforces how hard Elizabeth expected the challenge to be.",
+              "korean": "'whether she would complete'에 주목하세요. 엘리자베스가 이번 도전을 얼마나 어렵게 예상했는지 보여 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "However, during the experiment, Elizabeth discovered a new offline interest in baking, which gave her an enjoyable creative activity away from her screen.",
+          "chunkReading": "However, during the experiment, / Elizabeth discovered / a new offline interest in baking, / which gave her an enjoyable creative activity / away from her screen.",
+          "directKorean": "그러나 실험 동안, / 엘리자베스는 발견했다 / 베이킹에서의 새로운 오프라인 취미를, / 그리고 그것은 그녀에게 즐거운 창의적 활동을 제공했다 / 화면에서 벗어난.",
+          "naturalKorean": "그러나 실험 기간 동안 엘리자베스는 베이킹이라는 새로운 오프라인 취미를 발견했고, 이는 화면에서 벗어나 즐겁고 창의적인 활동을 할 수 있게 해 주었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "offline interest in",
+              "meaning": "~에서의 오프라인 취미/관심사",
+              "use": "전자기기 없이 하는 활동을 지칭합니다.",
+              "example": "She discovered an offline interest in baking."
+            },
+            {
+              "chunk": "away from her screen",
+              "meaning": "화면(스마트폰/모니터)에서 벗어난",
+              "use": "디지털 화면과 떨어진 상태를 묘사합니다.",
+              "example": "Baking gave her time away from her screen."
+            }
+          ],
+          "mustKnowGrammar": "계속적 용법의 관계대명사 ', which'가 앞선 내용('a new offline interest in baking')을 부연 설명합니다.",
+          "feynmanExplanation": "스마트폰을 손에서 놓으니까 베이킹(빵 굽기)이라는 신나고 창의적인 오프라인 취미가 새로 눈에 들어온 거죠!",
+          "teachingTranscript": [
+            {
+              "english": "Notice ', which gave her an enjoyable activity.' Offline hobbies replace lost screen time.",
+              "korean": "', which gave her an enjoyable activity'를 보세요. 오프라인 취미가 줄어든 화면 시간을 대체합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Another participant, Henry, reported sleeping noticeably better during the five-day period without his gaming console in his bedroom.",
+          "chunkReading": "Another participant, Henry, / reported sleeping noticeably better / during the five-day period / without his gaming console in his bedroom.",
+          "directKorean": "또 다른 참가자인 헨리는 / 눈에 띄게 더 잘 잤다고 보고했다 / 5일간의 기간 동안 / 침실에 비디오 게임 콘솔이 없는 상태에서.",
+          "naturalKorean": "또 다른 참가자인 헨리는 침실에 비디오 게임 콘솔이 없는 5일 동안 눈에 띄게 수면의 질이 좋아졌다고 말했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "reported sleeping better",
+              "meaning": "더 잘 잤다고 보고했다/말했다",
+              "use": "동사 report 뒤에 동명사 sleeping이 목적어로 연결됩니다.",
+              "example": "Henry reported sleeping noticeably better."
+            },
+            {
+              "chunk": "without his gaming console",
+              "meaning": "게임 콘솔이 없는 상태로",
+              "use": "전치사 without이 조건이나 방해 요소의 부재를 나타냅니다.",
+              "example": "He slept well without his gaming console nearby."
+            }
+          ],
+          "mustKnowGrammar": "동격의 명사구 'Another participant, Henry' 주어 뒤에 'reported + v-ing(sleeping)' 동명사 목적어가 쓰였습니다.",
+          "feynmanExplanation": "'Henry reported sleeping better'라고 한 표현을 잘 보세요! '의학적으로 완벽히 증명되었다'가 아니라 '헨리 개인이 더 잘 잤다고 경험을 이야기했다'라는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Pay attention to 'reported sleeping better.' We use 'reported' to describe personal experience rather than universal medical proof.",
+              "korean": "'reported sleeping better'에 주목하세요. 의학적 증명이 아니라 개인적 경험을 서술할 때 'reported'를 씁니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "A survey cited in the source reported that 38 percent of teenagers surveyed spent more than five hours per day using screens.",
+          "chunkReading": "A survey cited in the source / reported that 38 percent of teenagers surveyed / spent more than five hours per day / using screens.",
+          "directKorean": "출처에 인용된 설문 조사는 / 조사 대상 청소년의 38퍼센트가 / 하루 5시간 이상을 보낸다고 보고했다 / 화면을 사용하면서.",
+          "naturalKorean": "자료에 인용된 한 설문 조사에 따르면, 조사 대상 청소년의 38%가 하루 5시간 이상 화면을 사용하는 것으로 나타났습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "survey cited in",
+              "meaning": "~에 인용된 설문 조사",
+              "use": "과거분사 cited가 survey를 수식합니다.",
+              "example": "A survey cited in the source provided statistics."
+            },
+            {
+              "chunk": "spend more than five hours",
+              "meaning": "5시간 이상을 보내다",
+              "use": "시간 소비를 수량적으로 서술할 때 씁니다.",
+              "example": "38% of teens spent more than 5 hours on screens."
+            }
+          ],
+          "mustKnowGrammar": "주어 'A survey cited in the source' 뒤에 명사절 접속사 'that'절이 올바른 수치 정보를 전달합니다.",
+          "feynmanExplanation": "이 38%라는 숫자는 전 세계 모든 학생의 숫자가 아니라 '그 설문 조사에 참여했던 학생들 중 38%'라는 뜻이에요. 과장하면 안 됩니다!",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'A survey cited in the source reported that...' Always attribute statistics accurately.",
+              "korean": "'A survey cited in the source reported that...' 표현을 확인하세요. 통계 수치는 정확히 출처를 밝혀야 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "Reflecting on the challenge, Henry's mother noted that introducing technology-free zones could spark helpful family discussions about daily habits, evening routines, and household rules.",
+          "chunkReading": "Reflecting on the challenge, / Henry's mother noted / that introducing technology-free zones / could spark helpful family discussions / about daily habits, evening routines, / and household rules.",
+          "directKorean": "도전에 대해 되돌아보며, / 헨리의 어머니는 언급했다 / 테크 프리 존을 도입하는 것이 / 유익한 가족 대화를 촉발할 수 있다고 / 일상적 습관, 저녁 루틴, / 그리고 집안 규칙에 관한.",
+          "naturalKorean": "이 도전을 되돌아보며 헨리의 어머니는 테크 프리 공간을 만드는 것이 일상 습관, 저녁 루틴, 집안 규칙에 관한 유익한 가족 대화를 끌어낼 수 있다고 언급했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "reflecting on",
+              "meaning": "~에 대해 깊이 생각하며/되돌아보며",
+              "use": "경험을 반추하는 분사구문입니다.",
+              "example": "Reflecting on the challenge, families discussed rules."
+            },
+            {
+              "chunk": "spark family discussions",
+              "meaning": "가족 간 대화를 촉발하다/끌어내다",
+              "use": "새로운 주제에 대해 대화를 시작하게 함을 뜻합니다.",
+              "example": "Tech-free zones can spark helpful family discussions."
+            }
+          ],
+          "mustKnowGrammar": "분사구문 'Reflecting on...'으로 시작하며, 'noted that' 명사절 내에 동명사 주어 'introducing technology-free zones'가 쓰였습니다.",
+          "feynmanExplanation": "'spark discussions'는 불꽃이 튀듯 가족들이 이야기꽃을 피우게 만든다는 뜻입니다. 방 규칙에 대해 대화가 시작된 거죠.",
+          "teachingTranscript": [
+            {
+              "english": "'Spark family discussions' highlights how personal challenges influence family communication.",
+              "korean": "'Spark family discussions'는 개인의 도전이 가족 대화에 어떻게 영향을 미치는지 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "While these initial experiences suggest that changing device locations may help some teenagers manage screen time, experts emphasize that a small five-day challenge involving four teenagers is a personal experiment rather than scientific proof.",
+          "chunkReading": "While these initial experiences suggest / that changing device locations / may help some teenagers / manage screen time, / experts emphasize / that a small five-day challenge / involving four teenagers / is a personal experiment / rather than scientific proof.",
+          "directKorean": "~인 반면에 / 이러한 초기 경험들이 시사하는 반면에 / 기기 위치를 바꾸는 것이 / 일부 청소년들이 화면 시간을 관리하도록 도울 수 있음을, / 전문가들은 강조한다 / 네 명의 청소년이 참여한 작고 5일간의 도전은 / 개인적인 실험이라고 / 과학적 증명이라기보다는.",
+          "naturalKorean": "이러한 초기 경험들이 기기 위치를 바꾸는 것이 일부 청소년의 화면 시간 관리에 도움이 될 수 있음을 시사하긴 하지만, 전문가들은 4명의 청소년이 참여한 5일간의 소규모 도전은 과학적 증명이라기보다는 개인적인 실험에 가깝다고 강조합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "suggest that",
+              "meaning": "~를 시도하다/시사하다",
+              "use": "확정적 증거가 아닌 가능성을 제시할 때 씁니다.",
+              "example": "Initial reports suggest that boundaries may help."
+            },
+            {
+              "chunk": "personal experiment rather than scientific proof",
+              "meaning": "과학적 증명이라기보다는 개인적 실험",
+              "use": "결과의 한계점을 명확히 짚어 주는 표현입니다.",
+              "example": "This project was a personal experiment rather than scientific proof."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'While'절 내에 조동사 'may'가 쓰여 가능성을 조심스럽게 표현하고, 주절에서는 대조 구문 'rather than'이 쓰였습니다.",
+          "feynmanExplanation": "아무리 좋은 결과가 나왔어도 겨우 4명이 5일 동안 해본 것이기 때문에 '과학 법칙'이 아니라 '작은 개인 경험'으로 봐야 해요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the balance: 'suggests' and 'may help,' combined with 'personal experiment rather than scientific proof.'",
+              "korean": "균형 잡힌 표현에 주목하세요: 'suggests'와 'may help', 그리고 'personal experiment rather than scientific proof'."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "It does not prove that removing devices will guarantee better sleep or new hobbies for every young person.",
+          "chunkReading": "It does not prove / that removing devices / will guarantee better sleep / or new hobbies / for every young person.",
+          "directKorean": "그것은 증명하지 않는다 / 전자기기를 치우는 것이 / 더 나은 수면을 보장할 것이라고 / 또는 새로운 취미를 / 모든 젊은이에게.",
+          "naturalKorean": "이 결과가 전자기기를 치운다고 해서 모든 청소년에게 더 나은 수면이나 새로운 취미가 보장된다는 것을 증명하지는 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "does not prove that",
+              "meaning": "~라는 것을 증명하지는 않는다",
+              "use": "일반화의 오류를 경계하는 대표적 비판 표현입니다.",
+              "example": "One example does not prove that all teens agree."
+            },
+            {
+              "chunk": "guarantee better sleep",
+              "meaning": "더 나은 수면을 보장하다",
+              "use": "결과를 100% 확언할 때 쓰는 표현입니다.",
+              "example": "Removing screens cannot guarantee better sleep for all."
+            }
+          ],
+          "mustKnowGrammar": "부정문 'It does not prove that...' 내에 동명사 주어 'removing devices'와 미래 시제 'will guarantee'가 쓰였습니다.",
+          "feynmanExplanation": "'does not prove'라는 표현은 '한두 명한테 효과가 있었다고 해서 모두에게 똑같이 100% 보장되는 건 아니다'라는 사실을 짚어 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Does not prove' prevents overgeneralization. Critical readers check for limitations.",
+              "korean": "'Does not prove'는 과도한 일반화를 막아 줍니다. 비판적 독자는 한계점을 점검합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Nevertheless, setting realistic boundaries invites families to discuss healthy technology habits that support both digital connection and personal wellbeing.",
+          "chunkReading": "Nevertheless, / setting realistic boundaries / invites families to discuss / healthy technology habits / that support both digital connection / and personal wellbeing.",
+          "directKorean": "그럼에도 불구하고, / 현실적인 경계선을 설정하는 것은 / 가족들이 논의하도록 이끈다 / 건강한 기술 사용 습관을 / 디지털 연결과 개인의 웰빙 모두를 지원하는.",
+          "naturalKorean": "그럼에도 불구하고 현실적인 경계선을 만드는 것은 가족들이 디지털 연결과 개인의 웰빙을 모두 지켜 주는 건강한 기술 습관에 대해 대화하도록 장려합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "setting realistic boundaries",
+              "meaning": "현실적인 경계선을 설정하는 것",
+              "use": "지킬 수 있는 규칙을 만드는 동명사 주어입니다.",
+              "example": "Setting realistic boundaries helps control screen time."
+            },
+            {
+              "chunk": "support both A and B",
+              "meaning": "A와 B 모두를 지원하다/도와주다",
+              "use": "상충할 수 있는 두 가치의 조화를 표현할 때 씁니다.",
+              "example": "Rules should support both digital connection and sleep."
+            }
+          ],
+          "mustKnowGrammar": "전환어 'Nevertheless' 뒤에 동명사 주어 'setting realistic boundaries'가 오고, 5형식 동사 'invites + families(목적어) + to discuss(목적보어)'가 쓰였습니다.",
+          "feynmanExplanation": "'both A and B'는 친구들과의 연락(디지털 연결)도 중요하고 나의 건강(웰빙)도 다 중요하다는 균형 잡힌 결론을 만들어 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the balanced conclusion: supporting 'both digital connection and personal wellbeing.'",
+              "korean": "균형 잡힌 결론에 주목하세요: 'digital connection'과 'personal wellbeing' 둘 다를 지원하는 것입니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "Teenagers should consider making their bedrooms technology-free zones because __________.",
+          "In the Bradford challenge, Elizabeth discovered __________ while her room was tech-free.",
+          "Henry reported sleeping better without a gaming console, which suggests __________.",
+          "However, this small experiment does not prove that every teenager will __________."
+        ],
+        "usefulConnectors": [
+          "according to the article",
+          "the source reports that",
+          "Elizabeth discovered that",
+          "Henry reported that",
+          "while",
+          "although",
+          "however",
+          "as a result",
+          "may / might",
+          "suggests",
+          "does not prove that",
+          "in conclusion"
+        ],
+        "usefulVocabulary": [
+          "tech-free zone",
+          "screen time",
+          "habit",
+          "device",
+          "challenge",
+          "benefit",
+          "boundary",
+          "restriction",
+          "evidence",
+          "survey",
+          "balanced",
+          "recommendation"
+        ],
+        "paragraphOutline": [
+          "1. Topic sentence: State a clear, balanced recommendation about tech-free bedrooms.",
+          "2. Evidence 1: Cite Elizabeth's pre-challenge routine and her discovery of baking.",
+          "3. Evidence 2: Cite Henry's reported sleep improvement without his gaming console.",
+          "4. Interpretation: Explain how changing device locations may create time for rest and hobbies.",
+          "5. Counterpoint: Mention the limitation (only 4 teens over 5 days; personal report, not proof).",
+          "6. Conclusion: Recommend family discussion to create balanced rules supporting connection and wellbeing."
+        ],
+        "commonMistakes": [
+          {
+            "incorrect": "❌ Elizabeth spent three hours to watch YouTube.",
+            "correct": "✅ Elizabeth spent three hours watching YouTube.",
+            "explanation": "Use 'spend + time + verb-ing' (watching), not 'to watch'."
+          },
+          {
+            "incorrect": "❌ Henry could sleep well because no game in his room.",
+            "correct": "✅ Henry reported sleeping better because his gaming console was not in his room.",
+            "explanation": "Use a complete clause after 'because' and retain 'reported' to describe personal experience rather than absolute proof."
+          },
+          {
+            "incorrect": "❌ This experiment proves all teenagers need tech-free bedroom.",
+            "correct": "✅ This experiment suggests that a tech-free bedroom may help some teenagers.",
+            "explanation": "Use 'suggests' and 'may' because four participants over five days cannot prove a universal rule. Also include the article 'a'."
+          },
+          {
+            "incorrect": "❌ Although technology has benefits, but teenagers need rules.",
+            "correct": "✅ Although technology has benefits, teenagers may still need reasonable boundaries.",
+            "explanation": "Do not combine 'although' and 'but' in the same sentence structure."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check for a clear, evidence-based recommendation in the topic sentence.",
+          "Verify accurate integration of at least two details from the article (Elizabeth's baking, Henry's sleep, or 38% survey).",
+          "Ensure the student carefully distinguishes reported personal experience from universal scientific proof using terms like 'suggests' or 'may'.",
+          "Verify inclusion of at least one limitation or counterpoint.",
+          "Confirm paragraph length meets the 100–140 word target range with complete, accurate sentences."
+        ]
+      }
+    }
+  }
+}
