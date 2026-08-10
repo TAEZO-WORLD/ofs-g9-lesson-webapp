@@ -1,0 +1,1160 @@
+{
+  "lessonTitle": "Gold: The Shiny Metal That Changed the World",
+  "ofsUnit": "Unit 3 — Innovation, Economy & Society",
+  "textType": "Informational Explanation / Historical Process Paragraph",
+  "lessonGoal": "Students will read an informational text about the history and value of gold, explain how the gold standard worked, identify basic methods of gold mining, learn vocabulary about money and natural resources, and write an explanatory paragraph using historical and cause-and-effect details.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. There are no right or wrong answers.",
+    "questions": [
+      "Why do you think people have valued gold for thousands of years?",
+      "If money were still connected to gold today, how might our economy be different?",
+      "Where do you think gold comes from before it becomes jewelry, coins, or electronics?"
+    ]
+  },
+  "article": {
+    "title": "Gold: The Shiny Metal That Changed the World",
+    "source": "Source: Adapted from teacher-provided classroom source image.",
+    "note": "OFS Grade 9 International English — Unit 3",
+    "paragraphs": [
+      "Gold has been considered special and valuable for more than 5,000 years. Some of the earliest people known to use gold lived in ancient Mesopotamia and Egypt. By around 2600 BCE, gold was already being crafted into fine jewelry, official coins, elaborate tomb decorations, and royal objects connected to kings and queens. Gold became deeply prized because it is naturally rare, beautifully shiny, and resistant to rust and rot. Furthermore, because gold is soft and malleable, craftspeople could easily shape it into delicate crowns, ornaments, and physical coins. To many ancient societies, possessing gold represented power, beauty, physical wealth, and divine favor.",
+      "During the 1800s and 1900s, many countries used a financial system known as the gold standard. Under a gold-standard system, a nation defined its national currency in relation to a fixed amount of real gold, and paper banknotes could generally be exchanged according to that system. For example, if a paper banknote represented ten dollars, it was connected to a corresponding value in official gold reserves. This system offered major benefits, such as keeping currency values relatively stable and simplifying international trade. However, maintaining the gold standard was difficult during wars and economic crises when governments lacked sufficient gold reserves. Because governments needed greater flexibility to manage their national money supply, major economies eventually abandoned the classical gold standard. The United States ended the dollar's direct convertibility into gold in 1971, transitioning the global economy toward modern fiat money. Unlike gold-backed currency, fiat money is not directly backed by physical gold; its value depends on government authority, public trust, monetary policy, and overall economic strength.",
+      "In addition to its role in economic history, gold is a natural resource that must be extracted from the earth. Gold mining began thousands of years ago using simple tools such as pans, hammers, fire, and basic digging instruments. Today, modern gold mining relies on two primary methods: hard rock mining and placer mining. Hard rock mining is used when gold is trapped inside solid underground rock deposits. Miners blast and dig rock, crush it into fine powder, and separate gold particles, sometimes using industrial processes with chemicals such as cyanide or mercury. While these chemicals help separate gold from raw rock, they create severe health and environmental risks if they are not carefully controlled. In contrast, placer mining extracts gold found in loose sediment near rivers and streams. Placer mining became famous during historical gold rushes, such as the 1849 California Gold Rush, where miners used flowing water and metal pans to wash away lighter river sediment while heavy, dense gold particles remained behind.",
+      "Today, gold is no longer the direct foundation of most national currencies, but it remains one of the world's most valuable materials. From ancient royal tombs to high-tech electronics, medical equipment, and modern financial investments, gold continues to shape human history. Understanding how gold transformed trade, monetary systems, and mining technology helps us understand how human innovation and natural resources shape global society."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "rare",
+        "definition": "not common, existing in small amounts, or difficult to find",
+        "sentence": "Gold is a rare metal found in small quantities in the earth's crust."
+      },
+      {
+        "word": "valuable",
+        "definition": "worth a lot of money, highly prized, or extremely useful",
+        "sentence": "Ancient rulers collected gold because it was considered highly valuable."
+      },
+      {
+        "word": "symbolize",
+        "definition": "to represent, stand for, or suggest an idea, quality, or concept",
+        "sentence": "Golden crowns were created to symbolize royal power and wealth."
+      },
+      {
+        "word": "gold standard",
+        "definition": "a monetary system where a country's currency value is directly linked to a fixed amount of gold",
+        "sentence": "Under the gold standard, paper banknotes were connected to gold reserves."
+      },
+      {
+        "word": "currency",
+        "definition": "the system of money in general use in a particular country",
+        "sentence": "Paper notes and metal coins form the official currency of a nation."
+      },
+      {
+        "word": "exchange",
+        "definition": "to give something to someone and receive something else in return",
+        "sentence": "Traders could exchange paper money for real gold at the central bank."
+      },
+      {
+        "word": "stable",
+        "definition": "steady, firmly fixed, and not likely to change or fail suddenly",
+        "sentence": "Connecting money to gold helped keep currency values stable."
+      },
+      {
+        "word": "reserve",
+        "definition": "a supply of a commodity or asset kept in store for future or official use",
+        "sentence": "The national bank kept a large reserve of gold bars in a secure vault."
+      },
+      {
+        "word": "fiat money",
+        "definition": "currency that is backed by government authority and trust rather than a physical commodity",
+        "sentence": "Most modern economies use fiat money rather than gold-backed banknotes."
+      },
+      {
+        "word": "mine",
+        "definition": "to extract coal, metal, or minerals from the earth by digging or blasting",
+        "sentence": "Workers dig deep underground tunnels to mine precious metals."
+      },
+      {
+        "word": "extract",
+        "definition": "to remove, pull out, or separate a substance from a surrounding material",
+        "sentence": "Water and specialized tools help miners extract gold from river sediment."
+      },
+      {
+        "word": "sediment",
+        "definition": "matter such as sand, mud, or small stone particles settled at the bottom of a liquid or river",
+        "sentence": "Placer miners sifted through river sediment to find tiny gold nuggets."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Gold has influenced human history because of its physical qualities, economic value, use in money systems, and importance as a natural resource.",
+      "B. Gold became valuable only after modern banks were invented.",
+      "C. All modern money can still be exchanged directly for gold.",
+      "D. Gold can only be found in rivers."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains why gold became valuable in ancient times, how it influenced monetary systems such as the gold standard, and how people continue to mine and use gold today."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "How long has gold been valued by human societies?",
+        "options": [
+          "A. For less than 100 years",
+          "B. For about 500 years",
+          "C. For more than 5,000 years",
+          "D. Gold was discovered only last century"
+        ],
+        "correctIndex": 2,
+        "explanation": "The opening sentence explicitly states that gold has been considered special and valuable for more than 5,000 years, starting in places like ancient Mesopotamia and Egypt."
+      },
+      {
+        "id": "rc2",
+        "question": "Why was gold attractive and useful to ancient people?",
+        "options": [
+          "A. It was rare, shiny, durable against rust, and easy to shape into coins or jewelry",
+          "B. It was cheap, abundant, very hard, and turned green when exposed to air",
+          "C. It dissolved easily in river water so people could drink it",
+          "D. It was used as a lightweight food container that rusted quickly"
+        ],
+        "correctIndex": 0,
+        "explanation": "The article explains that gold was prized because it is naturally rare, shiny, does not rust or rot easily, and is soft enough to shape into coins, jewelry, and royal ornaments."
+      },
+      {
+        "id": "rc3",
+        "question": "What was the basic idea of the gold standard monetary system?",
+        "options": [
+          "A. All paper money was made out of thin sheets of real gold",
+          "B. A country connected the value of its currency to a defined amount of gold",
+          "C. Governments required citizens to pay for food using only gold nuggets",
+          "D. Gold was banned from international banking transactions"
+        ],
+        "correctIndex": 1,
+        "explanation": "Under the gold standard, a nation defined its currency in relation to a fixed amount of gold, connecting banknote value to national gold reserves."
+      },
+      {
+        "id": "rc4",
+        "question": "Why did major countries eventually move away from the classical gold standard?",
+        "options": [
+          "A. Gold became completely worthless across the entire world",
+          "B. People stopped buying goods in international trade",
+          "C. Wars, economic crises, and the need for flexible monetary policy made maintaining gold reserves difficult",
+          "D. Governments ran out of paper to print banknotes"
+        ],
+        "correctIndex": 2,
+        "explanation": "Maintaining fixed gold reserves became difficult during wars and economic crises, so governments needed greater flexibility to manage national money supplies."
+      },
+      {
+        "id": "rc5",
+        "question": "How does placer mining separate gold from surrounding river material?",
+        "options": [
+          "A. Heavy machinery burns the water away to leave gold vapors behind",
+          "B. Flowing water washes away lighter river sediment while dense, heavy gold particles remain behind",
+          "C. Underground explosives melt the river sediment into solid gold blocks",
+          "D. Miners freeze the river water to extract frozen gold cubes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Placer mining relies on water to wash away lighter sand and sediment, leaving behind dense, heavy gold particles in pans or sluice boxes."
+      },
+      {
+        "id": "rc6",
+        "question": "What is one key difference between modern fiat money and gold-standard currency?",
+        "options": [
+          "A. Fiat money is made of solid gold, while gold-standard money was made of silver",
+          "B. Fiat money is not directly convertible into a fixed amount of gold; its value relies on public trust and government policy",
+          "C. Gold-standard money was used only in ancient Egypt, while fiat money is used only in Mesopotamia",
+          "D. Fiat money cannot be used to buy goods or services in stores"
+        ],
+        "correctIndex": 1,
+        "explanation": "Unlike gold-standard money, fiat money is not directly backed by or convertible into physical gold; its value depends on government authority, public trust, and monetary policy."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find one detail that explains why ancient people valued gold.",
+        "modelAnswer": "Gold became valuable because it is naturally rare, shiny, resistant to rust and rot, and soft enough to shape into jewelry, coins, and crowns.",
+        "compareTip": "Your answer should mention physical qualities such as being rare, shiny, durable against rust, or easy to shape into jewelry or coins.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find one detail that explains a benefit of the gold standard.",
+        "modelAnswer": "Connecting currency to gold offered major benefits, such as keeping currency values relatively stable and simplifying international trade.",
+        "compareTip": "Your answer should mention keeping currency values stable or making international trade easier.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail that explains how placer mining separates gold from other material.",
+        "modelAnswer": "Placer mining uses flowing water to wash away lighter river sediment while heavy, dense gold particles remain behind.",
+        "compareTip": "Your answer should explain that water washes away lighter sediment while heavier gold particles stay behind.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Historical Sequence + Cause-and-Effect Language",
+    "explanation": "When writing historical explanations, writers use sequence connectors to show time order (thousands of years ago, by around, during the 1800s, eventually, today) and cause-and-effect connectors to explain reasons and results (because, as a result, while, unlike).",
+    "examples": [
+      "Thousands of years ago, people in Mesopotamia and Egypt crafted gold jewelry.",
+      "By around 2600 BCE, gold was used for coins and royal objects.",
+      "Gold was prized because it does not rust or rot easily.",
+      "During the 1800s, many nations adopted the gold standard system.",
+      "Maintaining reserves was difficult during wars; as a result, countries left the system.",
+      "Eventually, the United States ended direct dollar-to-gold convertibility in 1971.",
+      "Unlike gold-backed currency, modern fiat money depends on public trust and monetary policy.",
+      "Today, gold remains valuable in technology, medicine, and financial investment."
+    ],
+    "practice": [
+      "Complete the sentence: Gold became valuable partly because __________.",
+      "Complete the sentence: Countries needed more monetary flexibility; as a result, __________.",
+      "Complete the sentence: Placer mining uses flowing water, so __________.",
+      "Order the historical steps: First (Ancient use) → Later (Gold standard) → Eventually (End of convertibility) → Today (Fiat money & modern mining)"
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Why did gold become valuable to ancient societies?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Gold became valuable to ancient societies because it is rare, attractive, and durable against rust. In addition, gold is soft and malleable, so craftspeople could easily shape it into coins, jewelry, and royal ornaments. As a result, possessing gold symbolized power, wealth, and beauty.",
+        "compareTip": "Did your answer explain that gold was rare, shiny, durable, easy to shape, and symbolized power or wealth?"
+      },
+      {
+        "id": "wp2",
+        "question": "What was the gold standard?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "The gold standard was a financial system where a country defined its national currency in relation to a fixed amount of gold. Paper money could generally be exchanged according to that official gold value. This system helped keep currency values stable and supported international trade during the 1800s and 1900s.",
+        "compareTip": "Did your answer mention connecting paper currency to a fixed amount of gold to keep money stable?"
+      },
+      {
+        "id": "wp3",
+        "question": "Why did many countries stop using the gold standard?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Many countries stopped using the gold standard because wars and economic crises made it difficult to maintain sufficient gold reserves. Furthermore, governments needed more flexibility to manage their national money supplies during hard times. As a result, countries transitioned to fiat money, and the U.S. ended dollar-to-gold convertibility in 1971.",
+        "compareTip": "Did your answer mention economic crises, wars, the need for monetary flexibility, or the shift to fiat money?"
+      },
+      {
+        "id": "wp4",
+        "question": "How are hard rock mining and placer mining different?",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Hard rock mining extracts gold trapped inside solid underground rock by digging, blasting, and crushing rock into fine powder. In contrast, placer mining gathers gold from loose sediment near rivers using water to wash away lighter sand. Because gold is dense and heavy, placer particles remain behind when water flows over sediment.",
+        "compareTip": "Did your answer contrast crushing solid rock in hard rock mining with using water to wash away river sediment in placer mining?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a 100–140 word explanatory paragraph answering: Why has gold remained important throughout human history?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "Explain at least two reasons why gold became valuable.",
+      "Include at least one historical example (e.g., ancient societies or the gold standard).",
+      "Explain either the gold standard or one method of gold mining.",
+      "Use at least two specific details from the article.",
+      "Use historical sequence or cause-and-effect language (e.g., because, as a result, during, eventually, today).",
+      "End with a clear concluding sentence."
+    ],
+    "modelAnswer": "Gold has remained important throughout human history because it is rare, beautiful, durable, and economically useful. Thousands of years ago, people in ancient Mesopotamia and Egypt crafted gold into royal jewelry and coins because gold does not rust or rot easily. Later, during the 1800s and 1900s, many nations used the gold standard to connect paper currency to fixed gold reserves, helping keep money values stable. In addition, gold is an important natural resource extracted through hard rock or placer mining. Today, although modern currencies operate as fiat money backed by public trust rather than gold, gold remains highly prized in technology, medicine, and global investment. Ultimately, gold continues to shape human history because of its unique physical properties and enduring economic value."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I explained why gold became valuable.",
+      "I used information from the article.",
+      "I used complete sentences.",
+      "I used historical sequence or cause-and-effect language.",
+      "I organized my ideas clearly.",
+      "I checked spelling and punctuation.",
+      "I compared my writing with the model answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. Gold has influenced human history because of its physical qualities, economic value, use in money systems, and importance as a natural resource.",
+      "readingComprehension": {
+        "rc1": "C. For more than 5,000 years",
+        "rc2": "A. It was rare, shiny, durable against rust, and easy to shape into coins or jewelry",
+        "rc3": "B. A country connected the value of its currency to a defined amount of gold",
+        "rc4": "C. Wars, economic crises, and the need for flexible monetary policy made maintaining gold reserves difficult",
+        "rc5": "B. Flowing water washes away lighter river sediment while dense, heavy gold particles remain behind",
+        "rc6": "B. Fiat money is not directly convertible into a fixed amount of gold; its value relies on public trust and government policy"
+      },
+      "evidenceFromText": {
+        "ev1": "Gold became valuable because it is naturally rare, shiny, resistant to rust and rot, and soft enough to shape into jewelry, coins, and crowns.",
+        "ev2": "Connecting currency to gold offered major benefits, such as keeping currency values relatively stable and simplifying international trade.",
+        "ev3": "Placer mining uses flowing water to wash away lighter river sediment while heavy, dense gold particles remain behind."
+      },
+      "languageFocus": {
+        "lf1": "Gold became valuable partly because it is naturally rare, shiny, and resistant to rust.",
+        "lf2": "Countries needed more monetary flexibility; as a result, major economies eventually abandoned the classical gold standard.",
+        "lf3": "Placer mining uses flowing water, so lighter sediment washes away while heavy gold particles stay behind.",
+        "lf4": "Historical sequence: First (Ancient Mesopotamia/Egypt ~2600 BCE) → Later (Gold Standard in 1800s/1900s) → Eventually (US ended convertibility in 1971) → Today (Fiat money & modern industry)"
+      }
+    },
+    "modelAnswer": "Gold has remained important throughout human history because it is rare, beautiful, durable, and economically useful. Thousands of years ago, people in ancient Mesopotamia and Egypt crafted gold into royal jewelry and coins because gold does not rust or rot easily. Later, during the 1800s and 1900s, many nations used the gold standard to connect paper currency to fixed gold reserves, helping keep money values stable. In addition, gold is an important natural resource extracted through hard rock or placer mining. Today, although modern currencies operate as fiat money backed by public trust rather than gold, gold remains highly prized in technology, medicine, and global investment. Ultimately, gold continues to shape human history because of its unique physical properties and enduring economic value.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Clearly explains at least two reasons why gold is valuable, includes a historical example, accurately explains the gold standard or a mining method, and features strong supporting details.",
+        "developing": "Explains why gold is valuable and mentions history or mining, but lacks detail or contains minor inaccuracies regarding monetary systems.",
+        "beginning": "Fails to explain why gold is valuable or omits required historical and mining details."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Integrates specific, accurate text details (e.g., 5,000 years, Mesopotamia/Egypt, 2600 BCE, 1971 convertibility end, fiat money, placer sediment).",
+        "developing": "Uses some text details, but connections are general or slightly vague.",
+        "beginning": "Uses little or no evidence from the reading article."
+      },
+      {
+        "category": "Historical / Cause-and-Effect Language",
+        "excellent": "Uses historical sequence and cause-and-effect connectors (thousands of years ago, by around, during, eventually, because, as a result, unlike, today) fluently and correctly.",
+        "developing": "Uses some target sequence or cause-and-effect words, but with occasional grammatical or structural errors.",
+        "beginning": "Uses limited or no target connectors."
+      },
+      {
+        "category": "Organisation",
+        "excellent": "Paragraph is logically structured with a clear topic sentence, chronological or topical progression, smooth transitions, and an insightful concluding sentence.",
+        "developing": "Has a basic topic sentence and body, but transitions between history, economics, and mining feel abrupt.",
+        "beginning": "Lacks paragraph organization or clear sentence order."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Meets 100–140 word count target, uses complete sentences, and has minimal spelling or grammatical errors.",
+        "developing": "Slightly outside the 100–140 word target or contains several mechanical errors that interrupt flow.",
+        "beginning": "Significantly under or over word count with frequent errors that impede understanding."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach target vocabulary: 'rare', 'durable', 'currency', 'gold standard', 'reserve', 'sediment', and 'fiat money' before reading.",
+      "Explain that gold has both cultural-aesthetic importance (symbolizing power and beauty) and economic importance (acting as currency reference and store of value).",
+      "Clarify that modern paper and digital currency is generally fiat money and is not directly convertible into gold.",
+      "Avoid oversimplifying the gold standard: explain that under a gold-standard system, currency was defined in relation to gold rather than claiming every note was converted everywhere unconditionally.",
+      "Connect this lesson to previous or future environmental discussions by noting that while modern gold mining uses industrial chemicals like cyanides or mercury, safe mining requires strict environmental controls.",
+      "Clarify that modern mining may involve hazardous industrial chemicals, but do NOT teach procedural chemical extraction methods in class.",
+      "For lower-level ESL students, provide sentence frames for sequence writing (e.g., 'Thousands of years ago,... Later,... Today,...').",
+      "For stronger ESL students, challenge them with the discussion prompt: 'Does money need a physical object like gold to have real value?'",
+      "Encourage students to distinguish factual historical events (e.g., 1971 U.S. convertibility change) from opinions about gold's value."
+    ],
+    "teachingScript": [
+      {
+        "phase": "A. Lead-in / Warm-up",
+        "duration": "5 min",
+        "actions": "Welcome the class and display images or write the word 'GOLD' on the board. Introduce gold as a familiar metal used in jewelry, Olympic medals, smartphones, and historical coins. Lead a 5-minute warm-up discussion using the 3 student questions.",
+        "script": [
+          "Teacher: \"Today we're going to look at one of the most famous metals in human history: gold.\"",
+          "Teacher: \"People have valued gold for thousands of years, but the reasons have changed over time.\"",
+          "Teacher: \"Before we read, let's discuss: Why do you think people trusted gold as something valuable long before modern banks existed?\""
+        ]
+      },
+      {
+        "phase": "B. Vocabulary Preview",
+        "duration": "8 min",
+        "actions": "Pre-teach the 12 key vocabulary terms: rare, valuable, symbolize, gold standard, currency, exchange, stable, reserve, fiat money, mine, extract, sediment. Model pronunciation and clarify the distinction between commodity-backed currency (gold standard) and government-backed currency (fiat money).",
+        "script": [
+          "Teacher: \"Let's review two important economic terms: 'gold standard' and 'fiat money.'\"",
+          "Teacher: \"Under a gold standard, paper money was connected to a fixed amount of real gold in reserves.\"",
+          "Teacher: \"Today, most money is fiat money. Its value comes from government authority, economic strength, and public trust—not gold stored in a vault.\""
+        ]
+      },
+      {
+        "phase": "C. First Reading for Gist",
+        "duration": "5 min",
+        "actions": "Instruct students to read the article silently for 5 minutes to identify the main themes. Ask students to complete the Main Idea MCQ independently.",
+        "script": [
+          "Teacher: \"As you read through the article for the first time, ask yourself: What are the three big ideas of this text?\"",
+          "Teacher: \"Look for: 1) Why gold became valuable in ancient history, 2) How gold influenced money systems, and 3) How gold is mined from rock and sediment.\""
+        ]
+      },
+      {
+        "phase": "D. Second Reading for Detail and Evidence",
+        "duration": "10 min",
+        "actions": "Read the article aloud or in pairs paragraph by paragraph. Have students underline key dates (~2600 BCE, 1800s, 1971), physical qualities of gold, and differences between hard rock and placer mining. Guide students through Reading Comprehension MCQs and Evidence from the Text.",
+        "script": [
+          "Teacher: \"Let's examine paragraph 3 carefully. Notice how placer mining uses flowing water to separate lighter river sediment from dense gold particles.\"",
+          "Teacher: \"Now look at Evidence prompt 2: Find one detail explaining a benefit of the gold standard. Type your response and click 'Check & Compare.'\""
+        ]
+      },
+      {
+        "phase": "E. Language Focus",
+        "duration": "8 min",
+        "actions": "Teach historical sequence connectors (thousands of years ago, by around, during the 1800s, eventually, today) and cause-and-effect words (because, as a result, while, unlike). Guide students through the timeline order activity.",
+        "script": [
+          "Teacher: \"Notice how the article moves through time: starting thousands of years ago in Mesopotamia, moving to the 1800s gold standard, reaching 1971, and ending with 'today.'\"",
+          "Teacher: \"When you write your paragraph, use these sequence words to guide your reader chronologically.\""
+        ]
+      },
+      {
+        "phase": "F. Writing Practice",
+        "duration": "12 min",
+        "actions": "Direct students to answer Writing Practice questions WP1 through WP4 in 2–4 complete sentences each. Remind them to use 'Check & Compare' to inspect rule-based feedback and model answers.",
+        "script": [
+          "Teacher: \"For question WP3, make sure you explain why countries left the gold standard. Mention economic crises, wars, or the need for monetary flexibility.\""
+        ]
+      },
+      {
+        "phase": "G. Final Writing Task",
+        "duration": "15–20 min",
+        "actions": "Introduce the final explanatory writing prompt: 'Why has gold remained important throughout human history?' Review the prompt criteria: 100–140 words, 2 reasons for value, 1 historical example, 1 monetary or mining explanation, sequence connectors, and a concluding sentence.",
+        "script": [
+          "Teacher: \"Aim for 100 to 140 words. Start with a strong topic sentence explaining that gold remains important due to its physical qualities and economic role. Follow your chronological outline before concluding.\""
+        ]
+      },
+      {
+        "phase": "H. Self-check and Submission",
+        "duration": "5 min",
+        "actions": "Guide students to complete the 7 Self-check checklist items, enter their Name and Student Code, and click 'Submit Lesson'.",
+        "script": [
+          "Teacher: \"Verify your word count and check off every box in your Self-check list before submitting your work.\""
+        ]
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we're going to explore / why one shiny metal / has influenced human history / for thousands of years.",
+          "korean": "오늘 우리는 살펴볼 겁니다 / 왜 하나의 반짝이는 금속이 / 인류 역사에 영향을 주어 왔는지를 / 수천 년 동안."
+        },
+        {
+          "english": "Gold was valuable / long before modern banks / or paper money existed.",
+          "korean": "금은 가치가 있었습니다 / 현대의 은행이나 / 지폐가 존재하기 훨씬 전부터."
+        },
+        {
+          "english": "But gold is not only about wealth. / It also tells us / how societies, money, and technology changed.",
+          "korean": "하지만 금은 부에 관한 것만은 아닙니다. / 이것은 또한 우리에게 보여 줍니다 / 사회, 화폐, 그리고 기술이 어떻게 변화했는지를."
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "Why do you think / people have valued gold / for thousands of years?",
+          "translation": "사람들이 수천 년 동안 금을 귀하게 여겨 온 이유가 뭐라고 생각하나요?",
+          "followUp": "Which reason / do you think is the most important: / its rarity, its shine, or its resistance to rust?",
+          "teacherFollowUpKorean": "어떤 이유가 가장 중요하다고 생각하나요: 희소성, 반짝임, 아니면 녹슬지 않는 성질 중 무엇인가요?"
+        },
+        {
+          "question": "If money were still connected to gold today, / how might our economy be different?",
+          "translation": "만약 오늘날에도 화폐가 금과 연결되어 있다면, 우리 경제는 어떻게 달라졌을까요?",
+          "followUp": "Would governments have more or less flexibility / during economic crises?",
+          "teacherFollowUpKorean": "경제 위기 시에 정부가 더 많은 유연성을 가질까요, 아니면 더 적은 유연성을 가질까요?"
+        },
+        {
+          "question": "Where do you think gold comes from / before it becomes jewelry, coins, or electronics?",
+          "translation": "귀금속, 동전, 또는 전자제품이 되기 전에 금은 어디서 온다고 생각하나요?",
+          "followUp": "Have you heard of gold rushes / or river panning in history?",
+          "teacherFollowUpKorean": "역사 속 골드러시나 강가에서 금을 채취하는 사금 채굴에 대해 들어본 적이 있나요?"
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "Gold has been considered special and valuable for more than 5,000 years.",
+          "chunkReading": "Gold / has been considered special and valuable / for more than 5,000 years.",
+          "directKorean": "금은 / 특별하고 가치 있게 여겨져 왔다 / 5,000년이 넘는 기간 동안.",
+          "naturalKorean": "금은 5,000년이 넘는 시간 동안 특별하고 귀중한 것으로 여겨져 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "has been considered + adjective",
+              "meaning": "~하다고 여겨져 왔다",
+              "use": "과거부터 현재까지 지속된 사회적 평가나 상태를 나타낼 때 쓰입니다.",
+              "example": "Gold has been considered valuable throughout history."
+            },
+            {
+              "chunk": "for more than 5,000 years",
+              "meaning": "5,000년이 넘는 기간 동안",
+              "use": "구체적인 장기 시간 범위를 강조할 때 쓰입니다.",
+              "example": "The structure has stood for more than 5,000 years."
+            }
+          ],
+          "mustKnowGrammar": "현재완료 수동태 'has been considered'가 쓰여 과거에 시작되어 현재까지 이어지는 사회적 인식을 표현합니다.",
+          "feynmanExplanation": "'has been considered'는 쉽게 말하면 '옛날부터 사람들이 지금까지 계속 귀하다고 생각해 왔다'라는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Class, notice 'has been considered.' We are emphasizing that gold's high value is not new; it spans over five millennia.",
+              "korean": "여러분, 'has been considered'에 주목하세요. 금의 높은 가치는 새로운 것이 아니라 5000년 이상 지속되어 왔음을 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Some of the earliest people known to use gold lived in ancient Mesopotamia and Egypt.",
+          "chunkReading": "Some of the earliest people / known to use gold / lived in ancient Mesopotamia and Egypt.",
+          "directKorean": "가장 초기 사람들 중 일부는 / 금을 사용한 것으로 알려진 / 고대 메조포타미아와 이집트에 살았다.",
+          "naturalKorean": "금은 사용한 것으로 알려진 가장 초기 인류 중 일부는 고대 메솝포타미아와 이집트에 살았습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "known to + verb",
+              "meaning": "~한 것으로 알려진",
+              "use": "명사를 수식하는 과거분사구로 역사적 사실을 서술할 때 쓰입니다.",
+              "example": "The earliest people known to farm lived in the region."
+            }
+          ],
+          "mustKnowGrammar": "주어 'Some of the earliest people' 뒤에 과거분사구 'known to use gold'가 후치 수식하고, 본동사는 'lived'입니다.",
+          "feynmanExplanation": "금을 처음으로 써본 옛날 사람들이 살던 곳이 바로 그 유명한 고대 메솝포타미아와 이집트예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how 'known to use gold' describes the people. It points to early human civilizations.",
+              "korean": "'known to use gold'가 사람들을 어떻게 설명하는지 보세요. 초기 인류 문명을 가리킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "By around 2600 BCE, gold was already being crafted into fine jewelry, official coins, elaborate tomb decorations, and royal objects connected to kings and queens.",
+          "chunkReading": "By around 2600 BCE, / gold was already being crafted / into fine jewelry, official coins, / elaborate tomb decorations, / and royal objects connected to kings and queens.",
+          "directKorean": "기원전 약 2600년 무렵, / 금은 이미 제작되고 있었다 / 정교한 장신구, 공식 동전, / 정교한 무덤 장식, / 그리고 왕과 왕비에 연결된 왕실 물품으로.",
+          "naturalKorean": "기원전 2600년경에 이르러 금은 이미 정교한 장신구, 공식 동전, 화려한 무덤 장식, 그리고 왕족을 위한 왕실 물품으로 제작되고 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "crafted into",
+              "meaning": "~로 정성껏 가공되다/제작되다",
+              "use": "재료가 가공되어 특정 물품이 됨을 나타냅니다.",
+              "example": "Gold was crafted into beautiful crowns."
+            },
+            {
+              "chunk": "connected to",
+              "meaning": "~와 연관된, ~에 연결된",
+              "use": "대상 간의 연관성이나 소유 관계를 밝힙니다.",
+              "example": "These symbols were connected to royal authority."
+            }
+          ],
+          "mustKnowGrammar": "과거진행 수동태 'was being crafted'가 쓰여 기원전 2600년 당시에 진행 중이던 가공 제작 행위를 묘사합니다.",
+          "feynmanExplanation": "'was being crafted'는 4600년 전 그 당시에 사람들이 금으로 장신구와 동전을 막 만들고 있던 장면을 보여줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Was being crafted' shows active manufacturing in the ancient past.",
+              "korean": "'Was being crafted'는 고대 과거에 활발히 이루어지던 제작 행위를 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Gold became deeply prized because it is naturally rare, beautifully shiny, and resistant to rust and rot.",
+          "chunkReading": "Gold became deeply prized / because it is naturally rare, / beautifully shiny, / and resistant to rust and rot.",
+          "directKorean": "금은 깊이 소중히 여겨졌다 / 그것이 자연적으로 희귀하고, / 아름답게 반짝이며, / 녹과 부식에 강하기 때문에.",
+          "naturalKorean": "금은 자연적으로 희귀하고 아름답게 반짝이며 녹이나 부식에 강하기 때문에 매우 소중하게 여겨졌습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "deeply prized",
+              "meaning": "매우 소중히 여겨지는",
+              "use": "가치가 높게 평가됨을 나타냅니다.",
+              "example": "Rare gems are deeply prized by collectors."
+            },
+            {
+              "chunk": "resistant to",
+              "meaning": "~에 저항력이 있는, ~에 강한",
+              "use": "손상이나 변형에 잘 견디는 성질을 뜻합니다.",
+              "example": "Gold is resistant to corrosion and rust."
+            }
+          ],
+          "mustKnowGrammar": "이유 접속사 'because' 절 내에 세 개의 형용사 보어('rare', 'shiny', 'resistant to rust and rot')가 병렬 구조로 연결되어 있습니다.",
+          "feynmanExplanation": "금이 왜 귀할까요? 희귀하고, 반짝이고, 결정적으로 세월이 지나도 녹슬거나 썩지 않기 때문이에요!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the adjectives after 'because': rare, shiny, resistant to rust. These physical traits explain its value.",
+              "korean": "'because' 뒤의 형용사들(rare, shiny, resistant to rust)을 보세요. 이 물리적 특징들이 금의 가치를 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Furthermore, because gold is soft and malleable, craftspeople could easily shape it into delicate crowns, ornaments, and physical coins.",
+          "chunkReading": "Furthermore, / because gold is soft and malleable, / craftspeople could easily shape it / into delicate crowns, ornaments, / and physical coins.",
+          "directKorean": "뿐만 아니라, / 금은 부드럽고 펴서 모양을 만들기 쉽기 때문에, / 장인들은 그것을 쉽게 형상화할 수 있었다 / 정교한 왕관, 장식품, / 그리고 실제 동전으로.",
+          "naturalKorean": "게다가 금은 부드럽고 연성이 뛰어나 장인들이 정교한 왕관, 장식품, 실물 동전으로 쉽게 가공할 수 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "soft and malleable",
+              "meaning": "부드럽고 펴서 모양 만들기 쉬운(연성이 있는)",
+              "use": "금속이 잘 두드려 펴지는 성질을 묘사합니다.",
+              "example": "Pure gold is soft and malleable."
+            },
+            {
+              "chunk": "shape ... into ...",
+              "meaning": "~를 ... 모양으로 만들다",
+              "use": "재료를 특정 형태의 물건으로 가공하는 동작입니다.",
+              "example": "Miners shape gold into solid bars."
+            }
+          ],
+          "mustKnowGrammar": "연결어 'Furthermore'로 추가적인 원인을 도입하며, 'shape A into B' 구문이 활용되었습니다.",
+          "feynmanExplanation": "'malleable'은 망치로 두드렸을 때 깨지지 않고 얇게 쭉 펴지는 성질을 말해요. 그래서 섬세한 왕관도 만들 수 있었죠.",
+          "teachingTranscript": [
+            {
+              "english": "'Malleable' means a metal can be hammered or pressed into shape without breaking.",
+              "korean": "'Malleable'은 금속을 깨뜨리지 않고 두드리거나 눌러서 모양을 만들 수 있다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "To many ancient societies, possessing gold represented power, beauty, physical wealth, and divine favor.",
+          "chunkReading": "To many ancient societies, / possessing gold represented / power, beauty, physical wealth, / and divine favor.",
+          "directKorean": "많은 고대 사회에, / 금을 소유하는 것은 나타냈다 / 권력, 아름다움, 물질적 부, / 그리고 신의 은총을.",
+          "naturalKorean": "많은 고대 사회에서 금을 소유한다는 것은 권력, 아름다움, 물질적 부, 그리고 신의 은총을 상징했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "possessing gold",
+              "meaning": "금을 소유하는 것",
+              "use": "동명사 주어로 소유 행위 자체를 가리킵니다.",
+              "example": "Possessing gold gave kings great influence."
+            },
+            {
+              "chunk": "divine favor",
+              "meaning": "신의 은총, 신성한 축복",
+              "use": "고대 종교적 권위나 신의 선택을 뜻합니다.",
+              "example": "Royal crowns symbolized divine favor."
+            }
+          ],
+          "mustKnowGrammar": "동명사 'possessing gold'가 문장의 주어이며, 타동사 'represented'의 목적어로 4개의 명사구가 나열되었습니다.",
+          "feynmanExplanation": "고대에는 금을 가지고 있는 것 자체가 '나는 힘이 세고, 부자이며, 신의 축복을 받은 사람이다'라는 표시였어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Represented' shows the symbolic meaning of gold in ancient culture.",
+              "korean": "'Represented'는 고대 문화에서 금이 가졌던 상징적 의미를 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "During the 1800s and 1900s, many countries used a financial system known as the gold standard.",
+          "chunkReading": "During the 1800s and 1900s, / many countries used / a financial system / known as the gold standard.",
+          "directKorean": "1800년대와 1900년대 동안, / 많은 국가들이 사용했다 / 금융 시스템을 / 금본위제로 알려진.",
+          "naturalKorean": "1800년대와 1900년대 동안 많은 국가들은 금본위제라고 알려진 금융 제도를 사용했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "financial system",
+              "meaning": "금융 제도, 화폐 시스템",
+              "use": "국가의 돈과 거래를 관리하는 체계를 의미합니다.",
+              "example": "A stable financial system encourages trade."
+            },
+            {
+              "chunk": "known as",
+              "meaning": "~로 알려진",
+              "use": "특정 명칭이나 개념을 소개할 때 씁니다.",
+              "example": "This policy is known as the gold standard."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'During the 1800s and 1900s'로 시대를 명시하고, 'known as...'가 시스템을 수식합니다.",
+          "feynmanExplanation": "19-20세기에는 세상의 많은 나라들이 '금본위제'라는 약속된 돈 시스템을 사용했어요.",
+          "teachingTranscript": [
+            {
+              "english": "'Known as the gold standard' introduces the key historical economic model.",
+              "korean": "'Known as the gold standard'는 핵심적인 역사적 경제 모델을 소개합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Under a gold-standard system, a nation defined its national currency in relation to a fixed amount of real gold, and paper banknotes could generally be exchanged according to that system.",
+          "chunkReading": "Under a gold-standard system, / a nation defined its national currency / in relation to a fixed amount of real gold, / and paper banknotes / could generally be exchanged / according to that system.",
+          "directKorean": "금본위제 시스템 하에서, / 한 국가연은 자국의 화폐를 정의했다 / 실제 금의 고정된 양과 관련하여, / 그리고 종이 지폐는 / 일반적으로 교환될 수 있었다 / 그 시스템에 따라서.",
+          "naturalKorean": "금본위제 하에서 국가들은 자국 화폐의 가치를 일정량의 실제 금에 맞춰 정했으며, 종이 지폐는 일반적으로 그 제도에 따라 금으로 교환할 수 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "in relation to",
+              "meaning": "~와 관련하여, ~에 비례하여",
+              "use": "어떤 기준에 입각해 가치를 정할 때 쓰입니다.",
+              "example": "Currency value was set in relation to gold."
+            },
+            {
+              "chunk": "fixed amount of",
+              "meaning": "~의 고정된 양",
+              "use": "변하지 않는 정량의 자원을 말합니다.",
+              "example": "Each bill represented a fixed amount of gold."
+            }
+          ],
+          "mustKnowGrammar": "등이접속사 'and'가 두 개의 독립절을 연결하며, 두 번째 절에서는 조동사 수동태 'could be exchanged'가 쓰였습니다.",
+          "feynmanExplanation": "금본위제는 '종이 돈 10달러를 은행에 가져가면 거기에 딱 맞는 진짜 금으로 바꿔 준다'라는 국가적인 약속이었어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the accurate definition: currency was defined in relation to a fixed amount of gold.",
+              "korean": "정확한 정의에 주목하세요: 화폐 가치가 고정된 양의 금과 관련하여 정의되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "For example, if a paper banknote represented ten dollars, it was connected to a corresponding value in official gold reserves.",
+          "chunkReading": "For example, / if a paper banknote represented ten dollars, / it was connected to / a corresponding value / in official gold reserves.",
+          "directKorean": "예를 들어, / 만약 종이 지폐가 10달러를 나타낸다면, / 그것은 연결되어 있었다 / 상응하는 가치에 / 공식 금 보유고의.",
+          "naturalKorean": "예를 들어 종이 지폐가 10달러권이라면, 이는 공식 금 보유고 내의 그에 상응하는 금 가치와 연결되어 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "corresponding value",
+              "meaning": "상응하는 가치, 해당하는 금액",
+              "use": "동등한 액수나 가치의 대상을 지칭합니다.",
+              "example": "Banknotes had a corresponding value in gold."
+            },
+            {
+              "chunk": "gold reserves",
+              "meaning": "금 보유고",
+              "use": "국가 중앙은행에 보관된 실제 금의 총량을 뜻합니다.",
+              "example": "Nations stored gold reserves in central vaults."
+            }
+          ],
+          "mustKnowGrammar": "조건절 'if...'가 단순 과거시제로 쓰였으며, 주절의 수동태 'was connected to'가 연결 관계를 설명합니다.",
+          "feynmanExplanation": "10달러짜리 지폐 뒤에는 중앙은행 금고에 보관된 10달러어치 진짜 금 덩어리가 든든하게 버티고 있던 셈이죠.",
+          "teachingTranscript": [
+            {
+              "english": "'Corresponding value' highlights the direct economic tie between paper money and vaulted gold.",
+              "korean": "'Corresponding value'는 지폐와 금고 속 금 사이의 직접적인 경제적 연관성을 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "This system offered major benefits, such as keeping currency values relatively stable and simplifying international trade.",
+          "chunkReading": "This system offered major benefits, / such as keeping currency values / relatively stable / and simplifying international trade.",
+          "directKorean": "이 시스템은 주요한 이점들을 제공했다, / 화폐 가치를 유지하는 것과 같은 / 비교적 안정되게 / 그리고 국제 무역을 단순화하는 것과 같은.",
+          "naturalKorean": "이 제도는 화폐 가치를 비교적 안정적으로 유지하고 국제 무역을 간소화하는 등 큰 이점을 제공했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "keep ... stable",
+              "meaning": "~를 안정적으로 유지하다",
+              "use": "가치나 상태의 변동을 막고 유지하는 구문입니다.",
+              "example": "The gold standard kept currency values stable."
+            },
+            {
+              "chunk": "simplify international trade",
+              "meaning": "국제 무역을 단순화하다/간소화하다",
+              "use": "국가 간 거래를 용이하게 함을 의미합니다.",
+              "example": "Fixed rates simplified international trade."
+            }
+          ],
+          "mustKnowGrammar": "'such as' 뒤에 두 개의 동명사 목적어('keeping...', 'simplifying...')가 병렬 구조로 배치되었습니다.",
+          "feynmanExplanation": "금본위제를 쓰면 돈 가치가 마음대로 오르내리지 않고 안정적이라, 나라끼리 물건을 사고파는 무역이 훨씬 쉬워졌어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the two gerunds after 'such as': keeping currency values stable and simplifying trade.",
+              "korean": "'such as' 뒤의 두 동명사(keeping, simplifying)에 주목하여 이점을 파악하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "However, maintaining the gold standard was difficult during wars and economic crises when governments lacked sufficient gold reserves.",
+          "chunkReading": "However, / maintaining the gold standard was difficult / during wars and economic crises / when governments lacked / sufficient gold reserves.",
+          "directKorean": "그러나, / 금본위제를 유지하는 것은 어려웠다 / 전쟁과 경제 위기 동안 / 정부가 부족했을 때 / 충분한 금 보유고가.",
+          "naturalKorean": "그러나 정부가 충분한 금 보유고를 갖추지 못한 전쟁이나 경제 위기 시기에는 금본위제를 유지하기가 어려웠습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "economic crises",
+              "meaning": "경제 위기들",
+              "use": "불황이나 공황 같은 경제적 혼란기입니다.",
+              "example": "Governments face challenges during economic crises."
+            },
+            {
+              "chunk": "lack sufficient reserves",
+              "meaning": "충분한 보유고가 부족하다",
+              "use": "필요한 자금이나 금의 양이 모자람을 의미합니다.",
+              "example": "Banks lacked sufficient gold reserves during war."
+            }
+          ],
+          "mustKnowGrammar": "동명사구 주어 'maintaining the gold standard'에 관계부사 'when'이 'wars and economic crises'를 수식합니다.",
+          "feynmanExplanation": "하지만 큰 전쟁이 나거나 경제가 침체되면 돈은 많이 인쇄해야 하는데 금은 부족하니까, 금본위제를 지키기가 너무 힘들어졌어요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the drawback: maintaining the standard required vast gold reserves, which dried up in crisis.",
+              "korean": "단점에 주목하세요: 금본위제 유지에는 막대한 금 보유고가 필요한데, 위기 시에는 이것이 고갈되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Because governments needed greater flexibility to manage their national money supply, major economies eventually abandoned the classical gold standard.",
+          "chunkReading": "Because governments needed / greater flexibility / to manage their national money supply, / major economies eventually abandoned / the classical gold standard.",
+          "directKorean": "정부들이 필요로 했기 때문에 / 더 큰 유연성을 / 자국의 통화 공급량을 관리하기 위한, / 주요 경제국들은 결국 포기했다 / 고전적 금본위제를.",
+          "naturalKorean": "정부가 자국의 통화 공급량을 관리하는 데 더 큰 유연성이 필요해짐에 따라, 주요 경제국들은 결국 고전적 금본위제를 폐지했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "greater flexibility",
+              "meaning": "더 큰 유연성, 더 넓은 자율성",
+              "use": "상황 변화에 유연하게 대처할 수 있는 능력을 말합니다.",
+              "example": "Governments needed greater flexibility in crisis."
+            },
+            {
+              "chunk": "manage money supply",
+              "meaning": "통화 공급량을 관리하다",
+              "use": "시중에 유통되는 돈의 양을 조절하는 정책입니다.",
+              "example": "Central banks manage the national money supply."
+            }
+          ],
+          "mustKnowGrammar": "이유 절 'Because...'가 먼저 오고, 주절에서 부사 'eventually'가 동사 'abandoned'를 수식합니다.",
+          "feynmanExplanation": "정부가 시중에 돈을 늘리거나 줄이면서 경제를 조절하려면 자유로워야 하는데, 금에 묶여 있으니 답답해서 결국 금본위제를 버린 거죠.",
+          "teachingTranscript": [
+            {
+              "english": "'Greater flexibility' was the key reason nations shifted away from gold reserves.",
+              "korean": "'Greater flexibility(더 큰 유연성)'가 국가들이 금 보유고 체제에서 벗어난 핵심 이유였습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "The United States ended the dollar's direct convertibility into gold in 1971, transitioning the global economy toward modern fiat money.",
+          "chunkReading": "The United States ended / the dollar's direct convertibility into gold / in 1971, / transitioning the global economy / toward modern fiat money.",
+          "directKorean": "미국은 종식시켰다 / 달러의 금으로의 직접적 태환성을 / 1971년에, / 세계 경제를 전환시키면서 / 현대의 법정 화폐(피아트 머니) 쪽으로.",
+          "naturalKorean": "미국은 1971년 달러를 금으로 직접 바꿔 주던 제도를 중단하고, 세계 경제를 현대의 법정 화폐(fiat money) 체제로 전환시켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "direct convertibility into",
+              "meaning": "~로의 직접적 태환성(교환 가능성)",
+              "use": "지폐를 실물 금이나 자원으로 교환할 수 있는 성질입니다.",
+              "example": "Nixon ended the dollar's direct convertibility into gold."
+            },
+            {
+              "chunk": "transition toward",
+              "meaning": "~쪽으로 전환하다/변화하다",
+              "use": "새로운 체제나 상태로 옮겨감을 나타냅니다.",
+              "example": "The global economy transitioned toward fiat money."
+            }
+          ],
+          "mustKnowGrammar": "주절의 과거동사 'ended' 뒤에 분사구문 'transitioning...'이 이어져 역사적 정책 변화의 결과를 보여줍니다.",
+          "feynmanExplanation": "1971년에 미국 대통령이 '이제 달러 가져와도 금으로 안 바꿔 줍니다!' 하고 발표하면서, 세계 돈 체계가 완전히 달라졌어요.",
+          "teachingTranscript": [
+            {
+              "english": "1971 is a landmark historical year: the end of direct dollar-to-gold convertibility.",
+              "korean": "1971년은 역사적인 해입니다: 달러의 금 직접 태환성이 끝난 시점입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "Unlike gold-backed currency, fiat money is not directly backed by physical gold; its value depends on government authority, public trust, monetary policy, and overall economic strength.",
+          "chunkReading": "Unlike gold-backed currency, / fiat money is not directly backed / by physical gold; / its value depends on / government authority, public trust, / monetary policy, and overall economic strength.",
+          "directKorean": "금 기반 화폐와 달리, / 법정 화폐는 직접 뒷받침되지 않는다 / 실물 금에 의해; / 그것의 가치는 ~에 의존한다 / 정부의 권위, 대중의 신뢰, / 통화 정책, 그리고 전반적인 경제력에.",
+          "naturalKorean": "금 기반 화폐와 달리 법정 화폐는 실물 금으로 직접 뒷받침되지 않으며, 그 가치는 정부의 권위, 대중의 신뢰, 통화 정책 및 전반적인 경제력에 따라 결정됩니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "backed by",
+              "meaning": "~에 의해 뒷받침되는",
+              "use": "가치의 근거나 보증 수단을 말할 때 씁니다.",
+              "example": "Fiat money is backed by public trust, not gold."
+            },
+            {
+              "chunk": "depends on",
+              "meaning": "~에 의존하다, ~에 달려 있다",
+              "use": "결정 요인이나 조건 관계를 나타냅니다.",
+              "example": "Value depends on government policy and trust."
+            }
+          ],
+          "mustKnowGrammar": "전치사 'Unlike'로 대조를 이루며, 세미콜론(;)으로 두 독립절이 연결되어 fiat money의 가치 근거 4가지를 병렬 나열합니다.",
+          "feynmanExplanation": "지금 우리가 쓰는 지폐(fiat money)는 금고에 금이 없어도, '정부와 사회가 이 종이돈의 가치를 인정하고 서로 믿기 때문에' 돈이 되는 거예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice what supports fiat money: government authority, public trust, monetary policy, and economic strength.",
+              "korean": "법정 화폐를 뒷받침하는 요소들(정부 권위, 대중 신뢰, 통화 정책, 경제력)을 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "In addition to its role in economic history, gold is a natural resource that must be extracted from the earth.",
+          "chunkReading": "In addition to its role / in economic history, / gold is a natural resource / that must be extracted / from the earth.",
+          "directKorean": "그것의 역할에 더하여 / 경제사에 있어서의, / 금은 자연 자원이다 / 추출되어야 하는 / 지구(땅)로부터.",
+          "naturalKorean": "경제사에서의 역할 외에도 금은 지구 땅속에서 추출해야 하는 자연자원입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "in addition to",
+              "meaning": "~에 더하여, ~ 외에도",
+              "use": "추가적인 화제나 관점을 도입할 때 쓰입니다.",
+              "example": "In addition to trade, gold influenced technology."
+            },
+            {
+              "chunk": "must be extracted from",
+              "meaning": "~로부터 추출되어야 한다",
+              "use": "자연 물질을 캐내는 당위적 과정을 말합니다.",
+              "example": "Metals must be extracted from subterranean rock."
+            }
+          ],
+          "mustKnowGrammar": "'In addition to + 명사구'로 전환을 이끌고, 주격 관계대명사 'that'이 'natural resource'를 수식하며 수동태 'must be extracted'가 쓰였습니다.",
+          "feynmanExplanation": "돈 이야기 말고도, 금은 땅속에서 파내야 하는 소중한 '자연 광물 자원'이기도 해요.",
+          "teachingTranscript": [
+            {
+              "english": "This sentence transitions our focus from monetary history to mining methods.",
+              "korean": "이 문장은 우리의 초점을 화폐사에서 채굴 방식으로 전환합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "Gold mining began thousands of years ago using simple tools such as pans, hammers, fire, and basic digging instruments.",
+          "chunkReading": "Gold mining began / thousands of years ago / using simple tools / such as pans, hammers, fire, / and basic digging instruments.",
+          "directKorean": "금 채굴은 시작되었다 / 수천 년 전에 / 간단한 도구들을 사용하여 / 사금 냄비(팬), 망치, 불, / 그리고 기본적인 굴착 도구와 같은.",
+          "naturalKorean": "금 채굴은 수천 년 전 팬, 망치, 불, 기본적인 굴착 도구와 같은 간단한 도구를 사용하며 시작되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "using simple tools",
+              "meaning": "단순한 도구들을 사용하여",
+              "use": "방법이나 수단을 설명하는 현재분사구문입니다.",
+              "example": "Ancient miners worked using simple tools."
+            }
+          ],
+          "mustKnowGrammar": "분사구문 'using simple tools...'가 동사 'began'의 부대상황을 설명합니다.",
+          "feynmanExplanation": "옛날 옛적 초기 채굴업자들은 곡괭이나 냄비, 망치 같은 아주 단순한 도구로 금을 캤답니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the historic tools: pans, hammers, fire, digging instruments.",
+              "korean": "역사 속 도구들(팬, 망치, 불, 굴착 도구)에 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "original": "Today, modern gold mining relies on two primary methods: hard rock mining and placer mining.",
+          "chunkReading": "Today, / modern gold mining relies on / two primary methods: / hard rock mining and placer mining.",
+          "directKorean": "오늘날, / 현대 금 채굴은 ~에 의존한다 / 두 가지 주요 방법에: / 하드 록(암석) 채굴과 플래서(사금) 채굴.",
+          "naturalKorean": "오늘날 현대의 금 채굴은 두 가지 주요 방법, 즉 암석(하드 록) 채굴과 사금(플래서) 채굴에 의존하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "relies on",
+              "meaning": "~에 의존하다, ~를 바탕으로 하다",
+              "use": "특정 방식이나 자원에 바탕을 둘 때 쓰입니다.",
+              "example": "Modern industry relies on advanced mining technology."
+            },
+            {
+              "chunk": "primary methods",
+              "meaning": "주요 방법들",
+              "use": "가장 기본적인 두 가지 핵심 기법을 말합니다.",
+              "example": "The article presents two primary methods of extraction."
+            }
+          ],
+          "mustKnowGrammar": "콜론(:)을 사용하여 'two primary methods'의 구체적 내용 두 가지를 동등하게 부연 설명합니다.",
+          "feynmanExplanation": "요즘 금 채굴 방식은 크게 딱 두 가지예요: '돌을 깨서 파내는 방식(하드 록)'과 '강물 흙을 씻어내는 방식(플래서)'.",
+          "teachingTranscript": [
+            {
+              "english": "Here are the two core technical terms: hard rock mining and placer mining.",
+              "korean": "여기 두 가지 핵심 기술 용어가 있습니다: hard rock mining과 placer mining."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "original": "Hard rock mining is used when gold is trapped inside solid underground rock deposits.",
+          "chunkReading": "Hard rock mining is used / when gold is trapped / inside solid underground rock deposits.",
+          "directKorean": "하드 록 채굴은 사용된다 / 금이 갇혀 있을 때 / 단단한 지하 암석 매장지 안에.",
+          "naturalKorean": "암석(하드 록) 채굴은 단단한 지하 암석 매장층 안에 금이 갇혀 있을 때 사용됩니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "trapped inside",
+              "meaning": "~ 안에 갇혀 있는",
+              "use": "단단한 바위나 물질 속에 매장된 상태를 나타냅니다.",
+              "example": "Gold particles are trapped inside hard quartz rock."
+            },
+            {
+              "chunk": "rock deposits",
+              "meaning": "암석 매장지/층",
+              "use": "지하에 형성된 광물 암석 덩어리를 말합니다.",
+              "example": "Miners locate rich underground rock deposits."
+            }
+          ],
+          "mustKnowGrammar": "수동태 'is used'와 접속사 'when' 절 내의 수동태 'is trapped'가 결합되어 기법의 적용 조건을 설명합니다.",
+          "feynmanExplanation": "금이 아주 단단한 바위 덩어리 속에 콕 박혀 갇혀 있을 때, 바위를 깨서 금을 캐내는 게 하드 록 채굴이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'Trapped inside solid rock deposits' describes why heavy drilling and crushing are required.",
+              "korean": "'Trapped inside solid rock deposits'는 왜 발파와 쇄석 작업이 필요한지 설명해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "original": "Miners blast and dig rock, crush it into fine powder, and separate gold particles, sometimes using industrial processes with chemicals such as cyanide or mercury.",
+          "chunkReading": "Miners blast and dig rock, / crush it into fine powder, / and separate gold particles, / sometimes using industrial processes / with chemicals such as cyanide or mercury.",
+          "directKorean": "채굴업자들은 바위를 발파하고 굴착하며, / 그것을 고운 가루로 쇄석하고, / 금 입자를 분리한다, / 때때로 산업 공정을 사용하면서 / 시안화물이나 수은과 같은 화학물질이 들어간.",
+          "naturalKorean": "채굴업자들은 암석을 발파하고 파낸 뒤 고운 가루로 빻아 금 입자를 분리하는데, 때로는 시안화물이나 수은 같은 화학물질을 활용한 산업 공정을 이용하기도 합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "crush into fine powder",
+              "meaning": "~를 고운 가루로 빻다/쇄석하다",
+              "use": "암석을 분쇄하여 입자화하는 과정입니다.",
+              "example": "Rock is crushed into fine powder to free the gold."
+            },
+            {
+              "chunk": "chemicals such as",
+              "meaning": "~와 같은 화학물질",
+              "use": "산업용 화학물질의 예시를 나열할 때 씁니다.",
+              "example": "Industrial chemical processes use substances like cyanide."
+            }
+          ],
+          "mustKnowGrammar": "세 개의 동사('blast and dig', 'crush', 'separate')가 병렬 연결되고, 분사구문 'using...'이 부가적 공정을 설명합니다.",
+          "feynmanExplanation": "바위를 꽝 터뜨려 파낸 다음, 가루로 빻아서 금을 걸러내는데, 이때 수은 같은 화학물질을 써서 금만 쏙 뽑아내기도 해요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the high-level mention of industrial chemicals. Note that we highlight environmental risks without giving chemical formulas.",
+              "korean": "산업 화학물질에 대한 개괄적 언급을 확인하세요. 추출법 공식을 가르치지 않고 환경적 위험을 다룹니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "original": "In contrast, placer mining extracts gold found in loose sediment near rivers and streams.",
+          "chunkReading": "In contrast, / placer mining extracts gold / found in loose sediment / near rivers and streams.",
+          "directKorean": "대조적으로, / 플래서(사금) 채굴은 금을 추출한다 / 느슨한 침전물에서 발견되는 / 강과 개울 근처의.",
+          "naturalKorean": "반면에 사금(플래서) 채굴은 강과 개울 근처의 느슨한 모래나 흙 침전물에서 발견되는 금을 추출합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "In contrast",
+              "meaning": "대조적으로, 반면에",
+              "use": "앞선 개념과 상반되는 새로운 개념을 대조할 때 씁니다.",
+              "example": "In contrast, placer mining requires no heavy blasting."
+            },
+            {
+              "chunk": "loose sediment",
+              "meaning": "느슨한 침전물(모래, 흙)",
+              "use": "강가나 시냇가 바닥의 모래와 자갈을 뜻합니다.",
+              "example": "Gold nuggets rest in loose river sediment."
+            }
+          ],
+          "mustKnowGrammar": "대조의 전환어 'In contrast'로 시작하여, 과거분사구 'found in loose sediment...'가 'gold'를 수식합니다.",
+          "feynmanExplanation": "바위를 깨는 하드 록과 달리, 사금 채굴은 강가 흙이나 모래에 섞여 있는 금을 캐내는 방식이에요.",
+          "teachingTranscript": [
+            {
+              "english": "'In contrast' marks the clear structural switch from hard rock to river placer mining.",
+              "korean": "'In contrast'는 하드 록에서 강가 사금 채굴로의 명확한 구조적 전환을 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "original": "Placer mining became famous during historical gold rushes, such as the 1849 California Gold Rush, where miners used flowing water and metal pans to wash away lighter river sediment while heavy, dense gold particles remained behind.",
+          "chunkReading": "Placer mining became famous / during historical gold rushes, / such as the 1849 California Gold Rush, / where miners used flowing water and metal pans / to wash away lighter river sediment / while heavy, dense gold particles / remained behind.",
+          "directKorean": "사금 채굴은 유명해졌다 / 역사적인 골드러시 동안, / 1849년 칼리포니아 골드러시와 같은, / 그곳에서 채굴업자들은 흐르는 물과 금속 팬을 사용했다 / 가벼운 강 침전물을 씻어내기 위해 / 무겁고 밀도가 높은 금 입자가 / 뒤에 남아 있는 동안.",
+          "naturalKorean": "사금 채굴은 1849년 캘리포니아 골드러시와 같은 역사적 골드러시 기간에 유명해졌는데, 당시 채굴업자들은 흐르는 물과 냄비를 이용해 가벼운 흙을 씻어내고 무거운 금 입자만 남기는 방식을 사용했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "wash away",
+              "meaning": "~를 씻어내다, 쓸어가다",
+              "use": "물살을 이용해 가벼운 물질을 떠내려보낼 때 씁니다.",
+              "example": "Water washes away light river sand."
+            },
+            {
+              "chunk": "remained behind",
+              "meaning": "뒤에 남아 있었다",
+              "use": "무거운 물질이 바닥에 가라앉아 남게 됨을 말합니다.",
+              "example": "Heavy gold grains remained behind in the pan."
+            }
+          ],
+          "mustKnowGrammar": "관계부사 'where'가 '1849 California Gold Rush'를 수식하며, 접속사 'while'이 밀도 차이에 의한 분리 과정을 대조합니다.",
+          "feynmanExplanation": "물이 지나가면 가벼운 흙이나 모래는 쓸려 떠내려가고, 무거운 금 알갱이만 냄비 바닥에 묵직하게 남게 되는 원리죠!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the core physics principle: gold is dense and heavy, so water washes light sand away while gold remains.",
+              "korean": "핵심 물리 원리에 주목하세요: 금은 밀도가 높고 무겁기 때문에 물이 가벼운 모래를 씻어내는 동안 금은 남아 있게 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 22,
+          "original": "Today, gold is no longer the direct foundation of most national currencies, but it remains one of the world's most valuable materials.",
+          "chunkReading": "Today, / gold is no longer / the direct foundation / of most national currencies, / but it remains / one of the world's most valuable materials.",
+          "directKorean": "오늘날, / 금은 더 이상 ~가 아니다 / 직접적인 기반이 / 대부분의 국가 화폐의, / 하지만 그것은 유지되고 있다 / 세계에서 가장 가치 있는 물질 중 하나로.",
+          "naturalKorean": "오늘날 금은 더 이상 대부분 국가 화폐의 직접적인 기반은 아니지만, 여전히 세계에서 가장 가치 있는 물질 중 하나로 남아 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "no longer",
+              "meaning": "더 이상 ~이 아닌",
+              "use": "과거의 상태가 현재 종식되었음을 나타냅니다.",
+              "example": "Gold is no longer directly tied to dollar bills."
+            },
+            {
+              "chunk": "direct foundation",
+              "meaning": "직접적인 토대/기반",
+              "use": "근간이 되는 기초 역할을 지칭합니다.",
+              "example": "Gold was once the direct foundation of money."
+            }
+          ],
+          "mustKnowGrammar": "'no longer A, but B' 구문이 활용되어 과거와 현재의 상태 변화를 대조하며 종합합니다.",
+          "feynmanExplanation": "비록 지금은 지폐를 금으로 직접 안 바꿔 주지만, 금은 여전히 이 세상에서 제일 비싸고 귀한 물질 중 하나예요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the concluding synthesis: gold lost its direct convertibility, but retained its physical and financial status.",
+              "korean": "결론적 종합에 주목하세요: 금은 직접 태환성은 잃었지만 물리적, 금융적 위상은 유지했습니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "Gold has been considered valuable for more than 5,000 years because __________.",
+          "During the 1800s, countries used the gold standard, which connected paper money to __________.",
+          "Major nations stopped using the gold standard because wars and economic crises __________.",
+          "Placer mining uses flowing water to separate gold because __________."
+        ],
+        "usefulConnectors": [
+          "thousands of years ago",
+          "by around",
+          "during the 1800s",
+          "eventually",
+          "today",
+          "because",
+          "as a result",
+          "while",
+          "unlike",
+          "in contrast"
+        ],
+        "usefulVocabulary": [
+          "rare",
+          "durable",
+          "valuable",
+          "currency",
+          "gold standard",
+          "fiat money",
+          "reserve",
+          "sediment",
+          "extract",
+          "historical"
+        ],
+        "paragraphOutline": [
+          "1. Topic sentence: State why gold has remained important throughout human history.",
+          "2. Ancient history & qualities: Give physical reasons (rare, shiny, durable) and early uses (Mesopotamia/Egypt).",
+          "3. Economic role: Explain the gold standard and the shift to modern fiat money.",
+          "4. Mining & resources: Mention hard rock or placer mining methods.",
+          "5. Conclusion: Summarize why gold remains valuable in modern society."
+        ],
+        "commonMistakes": [
+          {
+            "incorrect": "❌ Gold is valuable because it is very expensive since old time.",
+            "correct": "✅ Gold has been valuable for thousands of years because it is rare, durable, and attractive.",
+            "explanation": "Use 'for thousands of years' instead of 'since old time,' and use present perfect 'has been valuable' for continuing states."
+          },
+          {
+            "incorrect": "❌ Money was backed up gold.",
+            "correct": "✅ Money was backed by gold.",
+            "explanation": "The correct passive idiom is 'be backed by' (~에 의해 뒷받침되다), not 'backed up'."
+          },
+          {
+            "incorrect": "❌ Gold doesn't rust because it can use long time.",
+            "correct": "✅ Gold does not rust easily, so it can last for a very long time.",
+            "explanation": "Objects 'last' for a long time; active subjects do not 'use long time'."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check for accurate chronological sequence connectors (thousands of years ago -> during 1800s -> eventually -> today).",
+          "Verify accurate factual distinction between gold-standard currency and modern fiat money.",
+          "Ensure evidence from the text is explicitly integrated into the paragraph.",
+          "Confirm paragraph length meets the 100–140 word target range with complete sentences."
+        ]
+      }
+    }
+  }
+}

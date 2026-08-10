@@ -1,6 +1,13 @@
 {
-  "latest": "2026-08-10-illegal-gold-mining-mercury-mexico",
+  "latest": "2026-08-10-gold-shiny-metal-changed-world",
   "lessons": [
+    {
+      "slug": "2026-08-10-gold-shiny-metal-changed-world",
+      "title": "Gold: The Shiny Metal That Changed the World",
+      "ofsUnit": "Unit 3 — Innovation, Economy & Society",
+      "textType": "Informational Explanation / Historical Process Paragraph",
+      "date": "2026-08-10"
+    },
     {
       "slug": "2026-08-10-illegal-gold-mining-mercury-mexico",
       "title": "Illegal Gold Mining Fuels Mercury Crisis in Mexico",
