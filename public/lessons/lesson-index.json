@@ -1,6 +1,13 @@
 {
-  "latest": "2026-08-10-teens-try-tech-free-bedrooms",
+  "latest": "2026-08-19-journey-of-your-last-name",
   "lessons": [
+    {
+      "slug": "2026-08-19-journey-of-your-last-name",
+      "title": "The Journey of Your Last Name",
+      "ofsUnit": "Unit 1 — Identity & Language",
+      "textType": "Informational Article / Compare-and-Explain Paragraph",
+      "date": "2026-08-19"
+    },
     {
       "slug": "2026-08-10-teens-try-tech-free-bedrooms",
       "title": "Teens Try Going Tech-Free in Their Bedrooms",

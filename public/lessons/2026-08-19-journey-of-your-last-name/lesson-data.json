@@ -1,0 +1,1299 @@
+{
+  "lessonTitle": "The Journey of Your Last Name",
+  "ofsUnit": "Unit 1 — Identity & Language",
+  "textType": "Informational Article / Compare-and-Explain Paragraph",
+  "lessonGoal": "Students will read an informational article about how surnames developed, identify different surname origins, compare naming systems across cultures, distinguish common patterns from universal claims, and write an evidence-based paragraph explaining what last names can—and cannot—reveal about identity.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. There are no right or wrong answers.\n\nPrivacy Note: You may discuss a fictional, historical, or public example. You do not need to share private information about your own family or legal name.",
+    "questions": [
+      "What information might a last name reveal about history, family, work, or place?",
+      "Why might different cultures develop different ways of naming people?",
+      "Should people be free to keep, combine, or change their surnames? Explain your opinion."
+    ]
+  },
+  "article": {
+    "title": "The Journey of Your Last Name",
+    "source": "Source: Adapted from a teacher-provided classroom source image.",
+    "note": "OFS Grade 9 International English — Unit 1",
+    "paragraphs": [
+      "In many early human communities, a single personal name was sufficient for daily life. When populations were relatively small, everyone knew each other, so additional identifiers were completely unnecessary. However, as towns grew, trade expanded, and governments began keeping official records for taxation, land ownership, and civic administration, using only one name created widespread confusion. To distinguish individuals who shared the same first name within the same town, societies developed more specific and structured naming systems. Over time, these descriptive labels became permanent identifiers passed down to future generations.",
+      "In medieval Europe, particularly in England after the Norman Conquest, hereditary surnames established themselves gradually over several centuries. Many European surnames developed from four common sources: occupations, parentage, locations, and personal descriptions. For example, Taylor and Smith referred to specific trades, while Johnson identified a child as John’s son. Geographic names like Hill and Ford described where someone lived, whereas Brown, Short, and Strong reflected physical features. However, these categories are illustrative examples rather than a universal global formula, and a surname’s historical meaning does not prove what a modern person does, looks like, or believes. A modern person named Smith is not necessarily a blacksmith, just as someone named Hill might live near the sea.",
+      "Naming traditions around the world developed along very different historical timelines and cultural logic. Documented Chinese surname traditions, for instance, are more than 3,000 years old—far older than hereditary family names in many parts of Europe. Furthermore, marriage and family naming practices vary widely across cultures and historical eras. In English common law, the historical legal doctrine of coverture treated much of a married woman’s legal identity as joined with her husband’s. This legal concept became strongly associated with the custom of women adopting a husband’s surname in parts of the English-speaking world. Nevertheless, coverture was not the single cause of all married-name customs, and social practices have always involved a mix of law, custom, and personal choice. In 1855, American reformer Lucy Stone famously chose to retain her birth surname after marrying Henry Blackwell, leading women who made similar decisions to be known as \"Lucy Stoners.\"",
+      "Across the globe, diverse naming structures reflect different cultural values rather than one standard universal rule. In Spain, people traditionally use two surnames, inheriting one from each parent, while in China and Korea, married women generally retain their birth surnames. Meanwhile, Icelandic naming traditions frequently use patronymics or matronymics, creating last names from a parent’s first name with suffixes such as -son, -dóttir, or gender-neutral -bur. In many Ethiopian traditions, a person’s name is followed by the personal names of their father and grandfather instead of a single family name passed down across generations. These varied customs demonstrate that no single naming structure is superior or more natural than another. Ultimately, naming systems show that while a last name may offer a fascinating historical clue, it can never tell a person’s complete story."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "surname",
+        "definition": "an inherited family name or last name that distinguishes a person within a community",
+        "partOfSpeech": "noun",
+        "sentence": "The surname Taylor originally referred to an occupation, but today it is simply a family name."
+      },
+      {
+        "word": "distinguish",
+        "definition": "to recognize or show the difference between two or more people or things",
+        "partOfSpeech": "verb",
+        "sentence": "Additional names helped official recordkeepers distinguish individuals who shared the same first name."
+      },
+      {
+        "word": "occupation",
+        "definition": "a person's regular job, trade, or profession",
+        "partOfSpeech": "noun",
+        "sentence": "In medieval Europe, many surnames were derived from an ancestor's daily occupation."
+      },
+      {
+        "word": "ancestor",
+        "definition": "a family member from an earlier generation, such as a grandparent or great-grandparent",
+        "partOfSpeech": "noun",
+        "sentence": "A surname may provide a historical clue about the trade or location of an ancestor."
+      },
+      {
+        "word": "hereditary",
+        "definition": "passed down from a parent or earlier generation to a child within a family",
+        "partOfSpeech": "adjective",
+        "sentence": "Hereditary surnames became established gradually in Europe over several centuries."
+      },
+      {
+        "word": "patronymic",
+        "definition": "a name derived from the personal name of a father or male ancestor",
+        "partOfSpeech": "adjective / noun",
+        "sentence": "Many Icelandic last names follow a patronymic pattern based on a parent's first name."
+      },
+      {
+        "word": "custom",
+        "definition": "an established cultural practice or traditional way of behaving within a society",
+        "partOfSpeech": "noun",
+        "sentence": "Adopting a spouse's surname after marriage became a common social custom in some English-speaking countries."
+      },
+      {
+        "word": "coverture",
+        "definition": "a historical English common-law doctrine treating a married woman's legal identity as joined with her husband's",
+        "partOfSpeech": "noun",
+        "sentence": "Under the legal doctrine of coverture, a married woman's legal rights were bound to those of her husband."
+      },
+      {
+        "word": "identity",
+        "definition": "the qualities, beliefs, background, and characteristics that make a person unique",
+        "partOfSpeech": "noun",
+        "sentence": "A last name reflects one aspect of cultural history, but it does not define a person's full identity."
+      },
+      {
+        "word": "generation",
+        "definition": "all of the people born and living at about the same time within a family or society",
+        "partOfSpeech": "noun",
+        "sentence": "Some naming customs pass shared family names down from one generation to the next."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Last names developed in different ways across societies and can provide historical clues, but naming traditions are diverse and cannot define a person’s complete identity.",
+      "B. Every last name was created in medieval Europe to describe a person’s job.",
+      "C. All married women around the world traditionally take their husband’s surname.",
+      "D. A person’s surname always proves where that person lives and what job the family performs."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains several historical sources of surnames and compares naming traditions across cultures. It also emphasizes that names provide limited clues rather than complete or universal information about a person."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "Why did additional names become useful in some growing communities?",
+        "options": [
+          "A. Small villages banned personal names and required everyone to use numbers.",
+          "B. More people shared the same personal name, and governments or communities needed clearer ways to identify individuals.",
+          "C. Every person was required to change their name every five years.",
+          "D. Communities wanted to prevent people from owning land or trading goods."
+        ],
+        "correctIndex": 1,
+        "explanation": "The article explains that as populations grew and governments created records for tax, land, and administration, additional names were needed to distinguish individuals who shared the same first name."
+      },
+      {
+        "id": "rc2",
+        "question": "Which example correctly matches a surname with one possible historical source?",
+        "options": [
+          "A. Taylor — occupation",
+          "B. Hill — parentage",
+          "C. Johnson — location",
+          "D. Brown — job"
+        ],
+        "correctIndex": 0,
+        "explanation": "In the article, Taylor is listed as an occupational surname (clothing maker), while Hill is location-based, Johnson is parent-based, and Brown is descriptive."
+      },
+      {
+        "id": "rc3",
+        "question": "Why should people avoid making assumptions about a modern person from a surname such as Brown or Smith?",
+        "options": [
+          "A. Surnames change automatically every generation in all countries.",
+          "B. The name’s old meaning does not prove the person’s appearance, occupation, origin, or identity today.",
+          "C. Surnames were invented only ten years ago and have no history.",
+          "D. People with those surnames are not allowed to choose their own jobs."
+        ],
+        "correctIndex": 1,
+        "explanation": "A surname's historical origin (such as an ancestor's job or hair color) offers a historical clue, but it does not describe a modern individual's appearance, work, or personality."
+      },
+      {
+        "id": "rc4",
+        "question": "What does the article explain about Chinese and European surname history?",
+        "options": [
+          "A. European surnames are 3,000 years older than Chinese surnames.",
+          "B. Chinese surname traditions were documented much earlier, while hereditary surnames developed gradually in many parts of medieval Europe.",
+          "C. Neither region ever used family names in official records.",
+          "D. Medieval European surnames were established in a single year across all countries."
+        ],
+        "correctIndex": 1,
+        "explanation": "Documented Chinese surname traditions date back over 3,000 years, whereas hereditary family names in medieval Europe developed gradually over several centuries."
+      },
+      {
+        "id": "rc5",
+        "question": "What was coverture?",
+        "options": [
+          "A. A modern law that forces all husbands to adopt their wives' surnames.",
+          "B. A historical English common-law doctrine that treated much of a married woman’s legal identity as joined with her husband’s.",
+          "C. An ancient Spanish custom of using three surnames for every child.",
+          "D. A rule created by Lucy Stone to eliminate all last names in North America."
+        ],
+        "correctIndex": 1,
+        "explanation": "Coverture was a legal doctrine under English common law under which a married woman's legal identity was legally bound to her husband's."
+      },
+      {
+        "id": "rc6",
+        "question": "Which statement best shows the article’s global perspective?",
+        "options": [
+          "A. Every culture in the world uses identical naming rules.",
+          "B. Western naming systems are the only advanced forms of identification.",
+          "C. Naming systems vary: Spanish, Korean, Chinese, Icelandic, Ethiopian, and English-speaking traditions do not all follow one rule.",
+          "D. Ethiopian chains of personal names are forbidden in modern international law."
+        ],
+        "correctIndex": 2,
+        "explanation": "The article highlights global naming diversity, demonstrating that different cultures have distinct, valid ways of expressing family connections and identity."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Find two examples showing how surnames could develop from different sources.",
+        "modelAnswer": "Taylor could come from an occupation, while Johnson identified someone as John's son. Hill referred to a place, and Brown originally described a physical appearance.",
+        "compareTip": "Your answer should mention at least two surname examples (such as Taylor for job, Johnson for parent, Hill for location, or Brown for description).",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "Find evidence showing that married-name traditions are not the same everywhere.",
+        "modelAnswer": "Many married women in China and Korea retain their birth surnames, while adopting a husband's surname became common in parts of the English-speaking world. Spain also uses surnames connected to both parents.",
+        "compareTip": "Your answer should contrast naming customs, such as Chinese/Korean women keeping birth surnames or Spanish people using surnames from both parents.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "Find one detail showing why a surname cannot explain a person’s complete identity.",
+        "modelAnswer": "A surname's historical meaning does not prove that a modern person has the same occupation, appearance, location, ancestry, or personal identity suggested by the name.",
+        "compareTip": "Your answer should explain that old historical meanings do not describe a modern person's job, appearance, or personal identity.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Explaining Origins, Comparing Cultural Patterns, and Avoiding Stereotypes",
+    "explanation": "When explaining how names developed or comparing cultural customs, effective writers use origin expressions (come from, be derived from, be based on, be passed down, be associated with) and contrast connectors (unlike, while, whereas, however, in some cultures). To avoid stereotyping, careful writers use nuanced frequency words (many, often, generally, may, might, can, not necessarily) and qualifying clauses (This does not mean that...). For instance, saying 'In some cultures, married women commonly adopt a spouse's surname, while in other cultures they generally retain their birth surname' is far more accurate than overgeneralizing that 'All married women take their husband's surname.'",
+    "examples": [
+      "The surname Taylor may be derived from an occupation.",
+      "Some surnames are based on a geographic location, such as Hill or Ford.",
+      "Family names were often passed down through generations in medieval Europe.",
+      "Unlike English traditions where one family name is inherited, Spanish naming connects surnames from both parents.",
+      "Many Korean women retain their birth surnames, whereas in some English-speaking countries women traditionally adopt a spouse's name.",
+      "A surname may provide a historical clue; however, this does not mean that it defines a person's complete identity.",
+      "The pattern varies depending on cultural traditions, legal rules, and personal choice."
+    ],
+    "practice": [
+      "1. Complete: The surname Taylor may be derived __________ an occupation.",
+      "2. Combine with 'while': Many Spanish names include surnames connected to both parents. Many Korean women retain their birth surname after marriage.",
+      "3. Rewrite the overgeneralization: 'A surname tells you exactly who a person is.'",
+      "4. Complete with passive voice: Some surnames __________ down through many generations."
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "description": "Write short responses to the questions below. Use 2–4 complete sentences for each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Explain why additional names became useful.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "In some growing communities, many people shared the same personal name. Additional names helped people distinguish individuals and keep clearer legal, tax, land, or community records.",
+        "compareTip": "Did your answer mention growing populations sharing first names and the need for clearer identification in official records?"
+      },
+      {
+        "id": "wp2",
+        "question": "Explain two possible origins of European surnames.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Some European surnames came from occupations, such as Taylor or Smith. Others were based on a parent's name like Johnson, a location like Hill, or a physical description like Brown.",
+        "compareTip": "Did your answer explain at least two origins such as jobs, parentage, location, or physical description with examples?"
+      },
+      {
+        "id": "wp3",
+        "question": "Compare two naming systems from the article.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "Many Spanish people use surnames connected to both parents, while many Icelandic names are formed from a parent's personal name using patronymic or matronymic patterns. These systems show that family identity can be represented in different ways.",
+        "compareTip": "Did your answer contrast two distinct naming systems (e.g., Spanish two-surname pattern vs. Icelandic patronymics) using contrast connectors like while or whereas?"
+      },
+      {
+        "id": "wp4",
+        "question": "Explain why people should not stereotype someone based on a surname.",
+        "placeholder": "Write 2–4 complete sentences here...",
+        "modelAnswer": "A surname may have a historical meaning, but it does not prove a person's job, nationality, personality, appearance, or family experience. Names are only one part of identity, so we should avoid making assumptions about individuals.",
+        "compareTip": "Did your answer explain that a historical name origin does not define a modern person's job, appearance, or personal identity?"
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "Write a 100–140-word compare-and-explain paragraph answering: What can last names reveal about history and culture, and why can they not tell a person’s complete story?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State a clear central idea.",
+      "Explain at least two possible historical origins of surnames.",
+      "Compare at least two naming traditions from the article.",
+      "Include one caution against overgeneralization or stereotyping.",
+      "Use at least two target expressions (e.g. while, however, may, be derived from, be passed down, not necessarily).",
+      "End with a clear concluding insight about names and identity.",
+      "Do not reveal private family information."
+    ],
+    "modelAnswer": "Last names can reveal history and culture, but they cannot tell a person’s whole story. In medieval England, names such as Taylor, Johnson, Hill, and Brown could point to an occupation, parent, place, or description. However, naming systems developed differently around the world. Many people in Spain use surnames connected to both parents, while many married women in Korea and China keep their birth surnames. Icelandic names often show a parent’s first name rather than a fixed family name. History also shows that names can involve power. Under coverture, a married woman’s legal identity in English common law was largely joined with her husband’s, although this doctrine alone did not create every naming custom. Therefore, a surname is useful historical evidence, but it should never be used to make complete assumptions about someone’s identity."
+  },
+  "selfCheck": {
+    "title": "Self-check",
+    "instructions": "Before you submit, review your work using the checklist below.",
+    "items": [
+      "I stated a clear central idea.",
+      "I explained at least two possible origins of surnames.",
+      "I compared at least two naming traditions.",
+      "I used accurate evidence from the article.",
+      "I used careful language instead of universal claims.",
+      "I explained why a surname cannot define a person completely.",
+      "I used at least two target expressions.",
+      "I wrote 100–140 words.",
+      "I checked spelling, capitalization, and punctuation.",
+      "I compared my paragraph with the Model Answer."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "A. Last names developed in different ways across societies and can provide historical clues, but naming traditions are diverse and cannot define a person’s complete identity.",
+      "readingComprehension": {
+        "rc1": "B. More people shared the same personal name, and governments or communities needed clearer ways to identify individuals.",
+        "rc2": "A. Taylor — occupation",
+        "rc3": "B. The name’s old meaning does not prove the person’s appearance, occupation, origin, or identity today.",
+        "rc4": "B. Chinese surname traditions were documented much earlier, while hereditary surnames developed gradually in many parts of medieval Europe.",
+        "rc5": "B. A historical English common-law doctrine that treated much of a married woman’s legal identity as joined with her husband’s.",
+        "rc6": "C. Naming systems vary: Spanish, Korean, Chinese, Icelandic, Ethiopian, and English-speaking traditions do not all follow one rule."
+      },
+      "evidenceFromText": {
+        "ev1": "Taylor could come from an occupation, while Johnson identified someone as John's son. Hill referred to a place, and Brown originally described a physical appearance.",
+        "ev2": "Many married women in China and Korea retain their birth surnames, while adopting a husband's surname became common in parts of the English-speaking world. Spain also uses surnames connected to both parents.",
+        "ev3": "A surname's historical meaning does not prove that a modern person has the same occupation, appearance, location, ancestry, or personal identity suggested by the name."
+      },
+      "languageFocus": {
+        "lf1": "from",
+        "lf2": "Many Spanish names include surnames connected to both parents, while many Korean women retain their birth surname after marriage.",
+        "lf3": "A surname may provide a historical clue, but it does not necessarily tell us a person's complete identity.",
+        "lf4": "are passed"
+      }
+    },
+    "modelAnswer": "Last names can reveal history and culture, but they cannot tell a person’s whole story. In medieval England, names such as Taylor, Johnson, Hill, and Brown could point to an occupation, parent, place, or description. However, naming systems developed differently around the world. Many people in Spain use surnames connected to both parents, while many married women in Korea and China keep their birth surnames. Icelandic names often show a parent’s first name rather than a fixed family name. History also shows that names can involve power. Under coverture, a married woman’s legal identity in English common law was largely joined with her husband’s, although this doctrine alone did not create every naming custom. Therefore, a surname is useful historical evidence, but it should never be used to make complete assumptions about someone’s identity.",
+    "rubric": [
+      {
+        "category": "Content & Central Idea",
+        "excellent": "States a clear central idea about surname history and identity, explains at least two historical origins, and compares two cultural traditions with high factual accuracy.",
+        "developing": "States a general central idea and mentions surname origins, but cultural comparisons lack depth or clarity.",
+        "beginning": "Fails to state a central idea or omits key historical and cultural explanations."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Integrates precise evidence from the article (e.g., European categories, Chinese history, coverture, Spanish/Korean/Icelandic/Ethiopian practices).",
+        "developing": "Uses some article details, but connections to the prompt are vague or incomplete.",
+        "beginning": "Uses little or no evidence from the article."
+      },
+      {
+        "category": "Comparison & Careful Language",
+        "excellent": "Fluently uses contrast connectors (while, whereas, however) and cautious language (may, generally, not necessarily) to distinguish patterns from universal rules without stereotyping.",
+        "developing": "Uses basic contrast words, but occasionally overgeneralizes cultural practices or uses absolute language.",
+        "beginning": "Lacks contrast connectors; presents local customs as universal rules."
+      },
+      {
+        "category": "Organization",
+        "excellent": "Paragraph is logically organized with a clear topic sentence, structured body sentences, warning against stereotyping, and an insightful conclusion.",
+        "developing": "Has a recognizable structure, but transitions between origins and cultural comparisons feel disjointed.",
+        "beginning": "Lacks paragraph organization or clear sentence progression."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Meets the 100–140 word target, uses complete sentences, and has minimal grammatical, spelling, or punctuation errors.",
+        "developing": "Slightly outside the word count range or contains mechanical errors that interrupt readability.",
+        "beginning": "Significantly under or over word count with frequent mechanical errors."
+      }
+    ],
+    "teacherNotes": [
+      "Pre-teach key vocabulary terms: 'surname', 'distinguish', 'occupation', 'ancestor', 'hereditary', 'patronymic', 'custom', 'coverture', 'identity', and 'generation'.",
+      "Explain that surname systems did not develop at the same time or in the same way everywhere.",
+      "Clarify that occupation, parentage, location, and description are common European categories, not a universal global formula.",
+      "Explain why Brown does not prove someone has brown hair and Smith does not prove someone is a blacksmith today.",
+      "Present coverture as a historical English common-law doctrine affecting married women's legal identities, not simply as a rule about surnames.",
+      "Clarify that coverture did not single-handedly create every married-name custom around the world.",
+      "Present Lucy Stone accurately as an early prominent white American woman who kept her birth surname, not necessarily the first woman in history to do so.",
+      "Protect student privacy: do not require students to disclose personal family history, adoption, divorce, guardianship, immigration, or legal-name details.",
+      "Permit students to use fictional, historical, or public examples in all written activities.",
+      "Avoid treating Western surname structures as the universal default.",
+      "Explain the distinction between a surname, family name, patronymic, matronymic, and chain of personal names.",
+      "Accept different student opinions about keeping, combining, or changing surnames as long as they are supported with clear reasoning.",
+      "For lower-level ESL students, provide sentence frames for comparative writing.",
+      "For stronger ESL students, ask how naming systems can reflect both cultural belonging and social power.",
+      "Reject unverified claims (such as unsupported 600-letter surname stories) to maintain academic rigor."
+    ],
+    "teachingScript": [
+      {
+        "phase": "A. Lead-in / Warm-up",
+        "duration": "5 min",
+        "objective": "Introduce the idea that names carry history without defining a person completely.",
+        "actions": "Welcome the class and write 'THE JOURNEY OF YOUR LAST NAME' on the board. Introduce the warm-up questions and emphasize the privacy note. Lead a 5-minute introductory discussion.",
+        "script": [
+          "Teacher: \"Today we’re going to explore / how last names developed / and what they may reveal / about history and culture.\"",
+          "Teacher: \"A surname can be a clue, / but it is not / a complete biography.\"",
+          "Teacher: \"Remember that for all class activities, / you may discuss a fictional, historical, or public example. / You do not need to share private information / about your own family.\""
+        ],
+        "studentAction": "Students discuss initial thoughts on surname meanings and cultural differences.",
+        "transition": "Now let's preview key vocabulary terms before reading the article."
+      },
+      {
+        "phase": "B. Vocabulary Preview",
+        "duration": "8 min",
+        "objective": "Pre-teach ten target vocabulary items with concept checks.",
+        "actions": "Display and explain the ten target items: surname, distinguish, occupation, ancestor, hereditary, patronymic, custom, coverture, identity, generation. Conduct targeted concept checks.",
+        "script": [
+          "Teacher: \"Let's check three key terms: 'hereditary', 'patronymic', and 'coverture'.\"",
+          "Teacher: \"If a name is hereditary, / is it passed down / through generations? Yes.\"",
+          "Teacher: \"Does a patronymic name / come from a parent’s personal name / or from a person’s job? It comes from a parent's first name.\"",
+          "Teacher: \"Is coverture / only a type of surname? / No. It was a historical legal doctrine under English common law.\""
+        ],
+        "studentAction": "Students read definitions, examine example sentences, and answer concept questions.",
+        "transition": "Let's read the article silently to find the main idea."
+      },
+      {
+        "phase": "C. First Reading for Gist",
+        "duration": "5 min",
+        "objective": "Guide students to read for main ideas and complete the Main Idea MCQ.",
+        "actions": "Direct students to read the text silently for 5 minutes. Ask them to identify two things surnames may reveal and one thing they cannot prove, then complete Main Idea MCQ 1.",
+        "script": [
+          "Teacher: \"As you read, ask yourself: What are two things that surnames may reveal, and what is one thing they cannot prove?\"",
+          "Teacher: \"Complete the Main Idea question and check why Option A is the best overall summary.\""
+        ],
+        "studentAction": "Students read silently and submit Main Idea MCQ.",
+        "transition": "Now let's re-read carefully to identify origins, cultural comparisons, and legal influences."
+      },
+      {
+        "phase": "D. Second Reading for Detail and Evidence",
+        "duration": "10 min",
+        "objective": "Guide detailed reading, paragraph annotation, and evidence extraction.",
+        "actions": "Read paragraph by paragraph. Direct students to label details: O (origin example), C (cultural comparison), P (power/legal influence), L (limitation/warning). Guide completion of Reading Comprehension MCQs and Evidence from the Text.",
+        "script": [
+          "Teacher: \"Notice paragraph 2: Taylor represents an occupational origin, Johnson a parent-based origin, Hill a location, and Brown a description.\"",
+          "Teacher: \"Notice paragraph 3: Coverture was a legal doctrine treating a married woman's legal identity as joined with her husband's, but social customs involve law, custom, and choice. Type your Evidence answers and click 'Check & Compare.'\""
+        ],
+        "studentAction": "Students mark text details, complete RC MCQs, and draft Evidence responses.",
+        "transition": "Let's examine how careful writers compare cultures without stereotyping."
+      },
+      {
+        "phase": "E. Language Focus",
+        "duration": "8 min",
+        "objective": "Teach origin expressions, contrast connectors, and careful frequency language.",
+        "actions": "Display target expressions (be derived from, be passed down, while, whereas, however, may, generally, not necessarily). Contrast overgeneralizations with accurate comparative statements.",
+        "script": [
+          "Teacher: \"Compare these two statements: 'All married women take their husband’s surname' versus 'In some cultures, married women commonly adopt a spouse’s surname, while in other cultures they generally retain their birth surname.'\"",
+          "Teacher: \"The second sentence is accurate because it identifies variation, avoids 'all', and uses careful comparison language.\""
+        ],
+        "studentAction": "Students complete language practice activities and rewrite overgeneralized sentences.",
+        "transition": "Now apply these comparative structures in your Writing Practice responses."
+      },
+      {
+        "phase": "F. Writing Practice",
+        "duration": "12 min",
+        "objective": "Guide completion of four 2–4 sentence written response items.",
+        "actions": "Direct students to complete WP1 to WP4. Remind them to draft independently before using 'Check & Compare' to inspect feedback and model answers.",
+        "script": [
+          "Teacher: \"For WP3, compare two naming systems using contrast words like 'while' or 'whereas'. Keep your explanation focused on how family connections are expressed differently.\""
+        ],
+        "studentAction": "Students write short responses, click 'Check & Compare', and refine their sentences.",
+        "transition": "Let's move to our final compare-and-explain paragraph."
+      },
+      {
+        "phase": "G. Final Writing Task",
+        "duration": "15–20 min",
+        "objective": "Support students in drafting a 100–140-word compare-and-explain paragraph.",
+        "actions": "Review prompt requirements: central idea, 2 surname origins, 2 cultural comparisons, 1 warning against stereotyping, target expressions, and concluding insight. Monitor writing.",
+        "script": [
+          "Teacher: \"Aim for 100 to 140 words. State your central idea, explain two surname origins, compare two cultural traditions, include a warning against stereotyping, and end with a clear concluding thought about identity.\""
+        ],
+        "studentAction": "Students plan and draft their compare-and-explain paragraph while monitoring word count.",
+        "transition": "Complete your self-check checklist before final submission."
+      },
+      {
+        "phase": "H. Self-check and Submission",
+        "duration": "5 min",
+        "objective": "Guide self-reflection, final revision, and student submission.",
+        "actions": "Instruct students to complete all 10 Self-check boxes, review the Model Answer, make one self-correction, enter their Name and Student Code, and click 'Submit Lesson'.",
+        "script": [
+          "Teacher: \"Check off all 10 items in your Self-check list. Click 'Check & Compare' to inspect the model answer, make any small final edits, enter your name and student code, and submit your work.\""
+        ],
+        "studentAction": "Students complete self-check, compare with model answer, enter student ID, and submit.",
+        "transition": "Great job! Your submissions are saved for teacher review."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Today we’re going to explore / how last names developed / and what they may reveal / about history and culture.",
+          "korean": "오늘 우리는 탐구할 겁니다 / 성씨가 어떻게 발달했는지를 / 그리고 그것이 무엇을 보여줄 수도 있는지를 / 역사와 문화에 관하여."
+        },
+        {
+          "english": "Naming systems did not develop / in the same way / or at the same time / in every society.",
+          "korean": "이름 체계들은 발달하지 않았습니다 / 같은 방식으로 / 또는 같은 시기에 / 모든 사회에서."
+        },
+        {
+          "english": "A surname may provide a historical clue, / but it does not necessarily define / a person’s complete identity.",
+          "korean": "성씨는 역사적인 단서를 제공할 수도 있습니다 / 그러나 그것이 반드시 규정하지는 않습니다 / 한 사람의 완전한 정체성을."
+        },
+        {
+          "english": "As we read, / pay attention to the difference / between a common pattern / and a universal rule.",
+          "korean": "우리가 읽으면서 / 그 차이에 주목하세요 / 흔한 경향과 / 보편적인 규칙 사이의."
+        }
+      ],
+      "warmUpDiscussion": [
+        {
+          "question": "What information / might a last name reveal / about history, family, work, or place?",
+          "translation": "성씨는 역사, 가족, 직업 또는 장소에 관해 어떤 정보를 보여줄 수 있을까요?",
+          "followUp": "Does the historical meaning / always describe / the person today?",
+          "teacherFollowUpKorean": "역사적 의미가 오늘날의 사람을 항상 설명할까요?",
+          "teachingPurpose": "Activates background knowledge about surname origins and introduces the distinction between historical clues and modern identity."
+        },
+        {
+          "question": "Why might different cultures / develop different ways / of naming people?",
+          "translation": "왜 서로 다른 문화권에서는 사람들의 이름을 짓는 다양한 방식을 발전시켰을까요?",
+          "followUp": "Does different mean / better or worse? / Why not?",
+          "teacherFollowUpKorean": "'서로 다르다'는 것이 더 낫거나 못하다는 뜻일까요? 왜 아닐까요?",
+          "teachingPurpose": "Encourages students to see naming traditions as culturally diverse expressions rather than hierarchical systems."
+        },
+        {
+          "question": "Should people be free / to keep, combine, or change / their surnames?",
+          "translation": "사람들은 자신의 성씨를 유지하거나, 결합하거나, 변경할 자유가 있어야 할까요?",
+          "followUp": "What principle / supports your opinion—identity, equality, tradition, choice, or convenience?",
+          "teacherFollowUpKorean": "여러분의 의견을 뒷받침하는 원칙은 무엇인가요—정체성, 평등, 전통, 선택, 또는 편의성인가요?",
+          "teachingPurpose": "Prepares students to discuss personal agency, social customs, and legal norms thoughtfully."
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "In many early human communities, a single personal name was sufficient for daily life.",
+          "chunkReading": "In many early human communities, / a single personal name / was sufficient / for daily life.",
+          "directKorean": "많은 초기 인류 공동체에서 / 하나의 개인 이름이 / 충분했다 / 일상생활을 위해.",
+          "naturalKorean": "초기 많은 인류 공동체에서는 일상생활을 위해 단 하나의 개인 이름으로도 충분했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a single personal name",
+              "meaning": "단 하나의 개인 이름",
+              "use": "성씨 없이 하나의 이름만 사용하던 상태를 나타냅니다.",
+              "example": "In ancient times, a single personal name was common."
+            },
+            {
+              "chunk": "be sufficient for",
+              "meaning": "~에 충분하다",
+              "use": "특정 목적에 양이나 조건이 부족하지 않음을 밝힙니다.",
+              "example": "One name was sufficient for small groups."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'In many early human communities'가 문두에 위치하고, 주어 'a single personal name'과 연결동사 'was', 형용사 보어 'sufficient'가 쓰였습니다.",
+          "feynmanExplanation": "'sufficient for daily life'는 매일 서로를 부르고 대화하는 데 이름 하나만으로도 부족함이 없었다는 뜻이에요.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'a single personal name was sufficient.' In small groups, people didn't need last names yet.",
+              "korean": "'a single personal name was sufficient' 구문을 보세요. 소규모 집단에서는 아직 성씨가 필요하지 않았습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "When populations were relatively small, everyone knew each other, so additional identifiers were completely unnecessary.",
+          "chunkReading": "When populations were relatively small, / everyone knew each other, / so additional identifiers / were completely unnecessary.",
+          "directKorean": "인구가 비교적 적었을 때, / 모든 사람이 서로를 알았다, / 그래서 추가적인 식별자들은 / 완전히 불필요했다.",
+          "naturalKorean": "인구가 비교적 적었을 때는 모든 사람이 서로를 알고 있었기 때문에 추가적인 식별 이름이 완전히 불필요했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "relatively small",
+              "meaning": "비교적 적은/작은",
+              "use": "다른 규모와 비교했을 때 작음을 나타냅니다.",
+              "example": "The population was relatively small in early villages."
+            },
+            {
+              "chunk": "additional identifiers",
+              "meaning": "추가적인 식별자(이름)",
+              "use": "사람을 구별하기 위한 성씨나 별칭을 뜻합니다.",
+              "example": "They did not require additional identifiers."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'When'절 뒤에 주절 'everyone knew each other'와 결과를 나타내는 등이접속사 'so'절이 연결된 복합문 구조입니다.",
+          "feynmanExplanation": "'everyone knew each other'는 마을 구성원이 서로를 다 알고 있었기 때문에 '누구집 누구'라고 길게 설명할 필요가 없었다는 의미입니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Additional identifiers' refers to extra names or titles added to distinguish people.",
+              "korean": "'Additional identifiers'는 사람을 구별하기 위해 추가된 이름이나 칭호를 가리킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "However, as towns grew, trade expanded, and governments began keeping official records for taxation, land ownership, and civic administration, using only one name created widespread confusion.",
+          "chunkReading": "However, / as towns grew, / trade expanded, / and governments began keeping official records / for taxation, land ownership, and civic administration, / using only one name / created widespread confusion.",
+          "directKorean": "그러나, / 마을이 자라남에 따라, / 무역이 확장됨에 따라, / 그리고 정부들이 공식 기록을 남기기 시작함에 따라 / 과세, 토지 소유권, 그리고 시민 행정을 위해, / 단 하나의 이름만 사용하는 것은 / 광범위한 혼란을 일으켰다.",
+          "naturalKorean": "그러나 도시가 커지고 무역이 확대되며 정부가 세금 징수, 토지 소유권, 행정을 위한 공식 기록을 작성하기 시작하자, 이름 하나만 사용하는 것은 광범위한 혼란을 불러일으켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "as towns grew",
+              "meaning": "도시/마을이 성장함에 따라",
+              "use": "시간적·상황적 변화의 과정을 부사절로 나타냅니다.",
+              "example": "As trade expanded, recordkeeping grew vital."
+            },
+            {
+              "chunk": "keep official records for",
+              "meaning": "~를 위한 공식 기록을 작성/보존하다",
+              "use": "행정적 목적으로 문서를 관리하는 행위를 뜻합니다.",
+              "example": "Governments kept official records for taxation."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'as'가 이끄는 세 개의 병렬 부사절('as towns grew, trade expanded, and governments began...') 뒤에, 동명사 주어 'using only one name'과 단수동사 'created'가 쓰였습니다.",
+          "feynmanExplanation": "동명사 주어 'using only one name'이 단수 취급되어 'created widespread confusion'이라는 결과를 이끌어냅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how population growth, trade, and taxation created the official need for clearer names.",
+              "korean": "인구 증가, 무역, 세금 징수가 어떻게 이름의 명확성에 대한 공식적 필요를 만들어냈는지 보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "To distinguish individuals who shared the same first name within the same town, societies developed more specific and structured naming systems.",
+          "chunkReading": "To distinguish individuals / who shared the same first name / within the same town, / societies developed / more specific and structured naming systems.",
+          "directKorean": "개인들을 구별하기 위해 / 같은 이름을 공유했던 / 같은 마을 안에서, / 사회들은 발달시켰다 / 더 구체적이고 구조화된 이름 체계들을.",
+          "naturalKorean": "같은 마을 안에서 동일한 이름을 가진 사람들을 구별하기 위해 사회는 더욱 구체적이고 구조화된 이름 체계를 발전시켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "to distinguish individuals",
+              "meaning": "개인들을 구별하기 위해",
+              "use": "목적을 나타내는 to부정사의 부사적 용법입니다.",
+              "example": "Surnames helped to distinguish individuals."
+            },
+            {
+              "chunk": "structured naming systems",
+              "meaning": "구조화된 이름 체계들",
+              "use": "체계적이고 일관된 명칭 분류법을 뜻합니다.",
+              "example": "Societies created structured naming systems."
+            }
+          ],
+          "mustKnowGrammar": "목적의 to부정사구 'To distinguish...'로 시작하며, 주격 관계대명사 'who'가 'individuals'를 수식합니다.",
+          "feynmanExplanation": "'who shared the same first name'은 어떤 사람들인지를 꾸며주는 말입니다. 동네에 'John'이 다섯 명이면 구분하기 위해 성이 필요했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "'To distinguish' explains the purpose behind creating surname systems.",
+              "korean": "'To distinguish'는 성씨 체계를 만든 목적을 설명해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Over time, these descriptive labels became permanent identifiers passed down to future generations.",
+          "chunkReading": "Over time, / these descriptive labels / became permanent identifiers / passed down / to future generations.",
+          "directKorean": "시간이 흐르면서, / 이러한 묘사적인 라벨들은 / 영구적인 식별자가 되었다 / 전해지는 / 미래 세대들에게.",
+          "naturalKorean": "시간이 흐르면서 이러한 묘사적 칭호들은 미래 세대로 전해지는 영구적인 식별 이름이 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "descriptive labels",
+              "meaning": "묘사적인 라벨/칭호",
+              "use": "특징이나 직업에서 유래한 명칭을 가리킵니다.",
+              "example": "Descriptive labels turned into family names."
+            },
+            {
+              "chunk": "passed down to future generations",
+              "meaning": "미래 세대들에게 전해지는",
+              "use": "과거분사구(passed down...)가 앞 명사 'identifiers'를 수식합니다.",
+              "example": "Names were passed down to future generations."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Over time'으로 시작하며, 주어 'these descriptive labels'와 연결동사 'became', 그리고 수식어구 'passed down...'이 쓰였습니다.",
+          "feynmanExplanation": "'passed down to future generations'는 처음엔 한 사람의 별명이나 직업 설명이었던 것이 자식과 후손에게 상속되어 '가문 성씨'가 되었다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'passed down to future generations.' This describes how personal labels turned into hereditary surnames.",
+              "korean": "'passed down to future generations'를 보세요. 개인적인 칭호가 어떻게 세습 성씨로 변했는지를 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "In medieval Europe, particularly in England after the Norman Conquest, hereditary surnames established themselves gradually over several centuries.",
+          "chunkReading": "In medieval Europe, / particularly in England / after the Norman Conquest, / hereditary surnames established themselves / gradually / over several centuries.",
+          "directKorean": "중세 유럽에서, / 특히 영국에서 / 노르만 征服 이후, / 세습 성씨들은 스스로를 정착시켰다 / 점진적으로 / 수 세기에 걸쳐.",
+          "naturalKorean": "중세 유럽, 특히 노르만 정복 이후의 영국에서는 세습 성씨가 수 세기에 걸쳐 점진적으로 정착되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "hereditary surnames",
+              "meaning": "세습 성씨/가문 이름",
+              "use": "부모에게서 자식으로 물려받는 성씨를 의미합니다.",
+              "example": "Hereditary surnames passed down through generations."
+            },
+            {
+              "chunk": "over several centuries",
+              "meaning": "수 세기에 걸쳐",
+              "use": "긴 시간 동안 점진적으로 일어난 변화를 나타냅니다.",
+              "example": "Surnames developed over several centuries."
+            }
+          ],
+          "mustKnowGrammar": "재귀대명사 'established themselves'가 쓰여 성씨가 사회적 제도로 점차 자리 잡았음을 나타내며, 전치사구 'over several centuries'가 서술어를 수식합니다.",
+          "feynmanExplanation": "'established themselves gradually'는 성씨가 하룻밤 사이에 뚝딱 생긴 것이 아니라, 오랜 시간에 걸쳐 사회에 자연스럽게 자리 잡았다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'gradually over several centuries.' European surnames took hundreds of years to become fixed.",
+              "korean": "'gradually over several centuries'를 보세요. 유럽의 성씨가 고정되기까지는 수백 년이 걸렸습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Many European surnames developed from four common sources: occupations, parentage, locations, and personal descriptions.",
+          "chunkReading": "Many European surnames developed / from four common sources: / occupations, parentage, locations, / and personal descriptions.",
+          "directKorean": "많은 유럽 성씨들은 발달했다 / 네 가지 흔한 출처로부터: / 직업, 부모/혈통, 장소, / 그리고 개인적 묘사.",
+          "naturalKorean": "많은 유럽 성씨는 직업, 부모(혈통), 장소, 개인적 묘사라는 네 가지 흔한 출처에서 발전했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "developed from",
+              "meaning": "~로부터 발달하다/유래하다",
+              "use": "기원이나 출처를 나타내는 구문입니다.",
+              "example": "Many names developed from occupations."
+            },
+            {
+              "chunk": "four common sources",
+              "meaning": "네 가지 흔한 출처",
+              "use": "유럽 성씨의 주요 형성 카테고리를 소개합니다.",
+              "example": "The text lists four common sources for names."
+            }
+          ],
+          "mustKnowGrammar": "자동사 'developed from' 구문 뒤에 콜론(:)을 사용하여 네 가지 명사 항목('occupations, parentage, locations, and personal descriptions')을 나열했습니다.",
+          "feynmanExplanation": "콜론(:) 뒤에 나오는 네 가지 명사들은 유럽 성씨가 어디서 왔는지를 대표적으로 보여주는 카테고리입니다.",
+          "teachingTranscript": [
+            {
+              "english": "These four categories give us a useful structure for analyzing European surname origins.",
+              "korean": "이 네 가지 카테고리는 유럽 성씨의 유래를 분석하는 유용한 틀을 제공합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "For example, Taylor and Smith referred to specific trades, while Johnson identified a child as John’s son.",
+          "chunkReading": "For example, / Taylor and Smith referred to specific trades, / while Johnson identified a child / as John’s son.",
+          "directKorean": "예를 들어, / Taylor와 Smith는 특정 직업들을 가리켰다, / 반면에 Johnson은 아이를 식별했다 / 존의 아들로서.",
+          "naturalKorean": "예를 들어 테일러(Taylor)와 스미스(Smith)는 특정 직업을 가리켰고, 존슨(Johnson)은 존(John)의 아들이라는 사실을 보여주었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "refer to specific trades",
+              "meaning": "특정 직업/업종을 가리키다",
+              "use": "이름이나 단어가 의미하는 대상을 설명합니다.",
+              "example": "Taylor referred to the trade of a tailor."
+            },
+            {
+              "chunk": "identify A as B",
+              "meaning": "A를 B로 식별하다/확인하다",
+              "use": "어떤 사람이나 사물의 정체나 관계를 밝힐 때 씁니다.",
+              "example": "The name identified him as John's son."
+            }
+          ],
+          "mustKnowGrammar": "대조를 나타내는 접속사 'while'이 두 개의 절('Taylor and Smith referred to...' 대 'Johnson identified...')을 연결합니다.",
+          "feynmanExplanation": "'while'은 두 가지 유래(직업 대 부모 이름)를 깔끔하게 대조해 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'While' acts as a contrast connector here, linking an occupational name to a patronymic name.",
+              "korean": "여기서 'while'은 대조 접속사로 작용하여 직업에서 온 성씨와 부모 이름에서 온 성씨를 연결합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "Geographic names like Hill and Ford described where someone lived, whereas Brown, Short, and Strong reflected physical features.",
+          "chunkReading": "Geographic names like Hill and Ford / described where someone lived, / whereas Brown, Short, and Strong / reflected physical features.",
+          "directKorean": "Hill과 Ford 같은 지리적 이름들은 / 누군가가 살았던 장소를 묘사했다, / 반면에 Brown, Short, Strong은 / 신체적 특징들을 반영했다.",
+          "naturalKorean": "힐(Hill)이나 포드(Ford) 같은 지리적 이름은 거주지를 나타냈으며, 브라운(Brown), 쇼트(Short), 스트롱(Strong)은 신체적 특징을 반영했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "where someone lived",
+              "meaning": "누군가가 살았던 장소",
+              "use": "의문사/관계부사 where가 이끄는 명사절입니다.",
+              "example": "Location names described where someone lived."
+            },
+            {
+              "chunk": "reflect physical features",
+              "meaning": "신체적 특징을 반영하다",
+              "use": "외모나 묘사에 기반한 성씨 형성을 나타냅니다.",
+              "example": "Descriptive names reflected physical features."
+            }
+          ],
+          "mustKnowGrammar": "접속사 'whereas'가 장소 기반 성씨 절과 묘사 기반 성씨 절을 대조하여 연결합니다.",
+          "feynmanExplanation": "'whereas' 역시 'while'처럼 두 가지 서로 다른 유래 카테고리를 대비시켜 설명할 때 씁니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'whereas' contrasting geographic origins with descriptive origins.",
+              "korean": "지리적 유래와 묘사적 유래를 대조하는 'whereas'에 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "However, these categories are illustrative examples rather than a universal global formula, and a surname’s historical meaning does not prove what a modern person does, looks like, or believes.",
+          "chunkReading": "However, / these categories are illustrative examples / rather than a universal global formula, / and a surname’s historical meaning / does not prove / what a modern person does, looks like, or believes.",
+          "directKorean": "그러나, / 이러한 카테고리들은 예시적 사례들이다 / 보편적인 전 세계 공식이라기보다는, / 그리고 성씨의 역사적 의미는 / 증명하지 않는다 / 현대의 사람이 무엇을 하는지, 어떻게 생겼는지, 또는 무엇을 믿는지를.",
+          "naturalKorean": "그러나 이러한 카테고리는 보편적인 전 세계 공식이라기보다는 예시일 뿐이며, 성씨의 역사적 의미가 오늘날 그 사람의 직업, 외모, 신념을 증명하지는 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "illustrative examples",
+              "meaning": "예시적인 사례들",
+              "use": "이해를 돕기 위한 예시일 뿐 법칙이 아님을 밝힙니다.",
+              "example": "These categories are illustrative examples."
+            },
+            {
+              "chunk": "universal global formula",
+              "meaning": "보편적인 전 세계 공식",
+              "use": "모든 국가에 다 들어맞는 규칙이 아님을 말합니다.",
+              "example": "There is no single universal global formula."
+            }
+          ],
+          "mustKnowGrammar": "접속부사 'However'로 문맥을 전환하며, 'A rather than B' 구조 및 간접의문문 'what a modern person does, looks like, or believes'가 목적어로 쓰였습니다.",
+          "feynmanExplanation": "'illustrative examples rather than a universal global formula'는 '이 4가지가 유용한 예시는 되지만, 세상 모든 성씨를 다 설명하는 절대 공식은 아니다'라는 아주 중요한 경계의 메시지입니다.",
+          "teachingTranscript": [
+            {
+              "english": "This sentence contains a key critical concept: historical examples are not universal rules.",
+              "korean": "이 문장은 핵심적인 비판적 사고 개념을 담고 있습니다. 역사적 예시가 보편적 규칙은 아닙니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "A modern person named Smith is not necessarily a blacksmith, just as someone named Hill might live near the sea.",
+          "chunkReading": "A modern person named Smith / is not necessarily a blacksmith, / just as someone named Hill / might live near the sea.",
+          "directKorean": "Smith라는 이름을 가진 현대인은 / 반드시 대장정이가 아니다, / Hill이라는 이름을 가진 누군가가 / 바다 근처에 살 수도 있는 것처럼.",
+          "naturalKorean": "Hill이라는 성을 가진 사람이 바닷가 근처에 살 수도 있듯이, Smith라는 성을 가진 현대인이 반드시 대장장이인 것은 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "not necessarily",
+              "meaning": "반드시 ~인 것은 아닌",
+              "use": "부분 부정을 통해 과도한 성급한 추론을 피할 때 사용합니다.",
+              "example": "A named Smith is not necessarily a blacksmith."
+            },
+            {
+              "chunk": "just as someone ... might",
+              "meaning": "~인 누군가가 ~할 수도 있는 것처럼",
+              "use": "유사한 반대 예시를 들어 원리를 명확히 설명할 때 쓰입니다.",
+              "example": "Just as someone named Hill might live by the sea."
+            }
+          ],
+          "mustKnowGrammar": "과거분사구 'named Smith'와 'named Hill'이 각각 주어를 수식하며, 접속사 'just as'가 비유적 비교절을 이끕니다.",
+          "feynmanExplanation": "'not necessarily'는 성씨가 과거의 힌트는 될지언정, 오늘날 그 사람의 직업이나 거주지를 보장하는 것은 아니라는 점을 분명하게 말해 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Not necessarily' is a vital qualifying phrase to prevent stereotyping.",
+              "korean": "'Not necessarily'는 고정관념을 방지하기 위한 필수적인 신중 표현입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Naming traditions around the world developed along very different historical timelines and cultural logic.",
+          "chunkReading": "Naming traditions around the world / developed / along very different historical timelines / and cultural logic.",
+          "directKorean": "전 세계의 이름 전통들은 / 발달했다 / 매우 다른 역사적 타임라인과 / 문화적 논리에 따라.",
+          "naturalKorean": "전 세계의 이름 전통은 매우 다른 역사적 시기와 문화적 논리에 따라 발전했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "naming traditions around the world",
+              "meaning": "전 세계의 이름 전통들",
+              "use": "글의 시야를 글로벌 맥락으로 확장합니다.",
+              "example": "We study naming traditions around the world."
+            },
+            {
+              "chunk": "historical timelines",
+              "meaning": "역사적 타임라인/발전 시기",
+              "use": "역사적 정착 시기의 차이를 나타냅니다.",
+              "example": "Traditions developed along different timelines."
+            }
+          ],
+          "mustKnowGrammar": "전치사 'along'이 방향이나 발전 경로를 나타내며, 명사구 'very different historical timelines and cultural logic'을 목적으로 취합니다.",
+          "feynmanExplanation": "'cultural logic'이란 각 문화가 성씨나 이름을 만드는 나름의 합리적인 이유와 원리를 가지고 있다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Cultural logic' reminds us that every naming system has its own sensible background.",
+              "korean": "'Cultural logic'은 모든 이름 체계가 나름의 합리적인 배경을 가지고 있음을 일깨워 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Documented Chinese surname traditions, for instance, are more than 3,000 years old—far older than hereditary family names in many parts of Europe.",
+          "chunkReading": "Documented Chinese surname traditions, / for instance, / are more than 3,000 years old— / far older than / hereditary family names / in many parts of Europe.",
+          "directKorean": "문서로 기록된 중국 성씨 전통들은, / 예를 들어, / 3,000년 이상 되었다— / 훨씬 더 오래되었다 / 세습 가문 이름들보다 / 유럽의 많은 지역에서의.",
+          "naturalKorean": "예를 들어 문헌으로 기록된 중국의 성씨 전통은 3,000년이 넘는 역사를 지니고 있으며, 이는 유럽 여러 지역의 세습 가문 이름보다 훨씬 더 오래되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "documented traditions",
+              "meaning": "문헌으로 기록된 전통들",
+              "use": "역사적 기록에 의해 확인된 전통을 뜻합니다.",
+              "example": "Documented Chinese surnames date back millennia."
+            },
+            {
+              "chunk": "far older than",
+              "meaning": "~보다 훨씬 더 오래된",
+              "use": "비교급(older)을 강조하는 부사 far가 사용되었습니다.",
+              "example": "Chinese surnames are far older than European ones."
+            }
+          ],
+          "mustKnowGrammar": "삽입구 'for instance'가 쓰였으며, 대시(—) 뒤에 비교급 강조 부사 'far'를 사용한 형용사구 'far older than...'이 앞 명사절의 보충 설명을 제공합니다.",
+          "feynmanExplanation": "'far older than'에서 far는 '멀리'가 아니라 '훨씬'이라는 뜻으로 비교급 older를 강하게 꾸며줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'far older than.' Chinese surname traditions predate European hereditary names by many centuries.",
+              "korean": "'far older than'에 주의하세요. 중국 성씨 전통은 유럽 세습 성씨보다 수세기 앞섭니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "Furthermore, marriage and family naming practices vary widely across cultures and historical eras.",
+          "chunkReading": "Furthermore, / marriage and family naming practices / vary widely / across cultures / and historical eras.",
+          "directKorean": "뿐만 아니라, / 결혼과 가문 이름 관습들은 / 다양하게 차이가 난다 / 문화권들과 / 역사적 시대들에 걸쳐.",
+          "naturalKorean": "뿐만 아니라 결혼과 가문 이름에 관한 관습도 문화권과 역사적 시대에 따라 매우 다양합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "naming practices",
+              "meaning": "이름 관련 관습/실행",
+              "use": "사회적으로 이루어지는 작명 관행을 뜻합니다.",
+              "example": "Family naming practices vary across regions."
+            },
+            {
+              "chunk": "across cultures and historical eras",
+              "meaning": "문화권들과 역사적 시대들에 걸쳐",
+              "use": "시간적·공간적 다양성을 함께 강조합니다.",
+              "example": "Practices vary across cultures and eras."
+            }
+          ],
+          "mustKnowGrammar": "연결부사 'Furthermore'로 시작하며, 주어 'marriage and family naming practices'에 자동사 'vary'와 부사구 'widely across...'가 결합했습니다.",
+          "feynmanExplanation": "'vary widely'는 '하나로 정해진 규칙이 없고 아주 다양하게 나타난다'는 점을 말해 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "'Vary widely' is an essential topic sentence marker introducing diverse marriage naming customs.",
+              "korean": "'Vary widely'는 다양한 결혼 작명 관습을 소개하는 핵심 주제문 표현입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "In English common law, the historical legal doctrine of coverture treated much of a married woman’s legal identity as joined with her husband’s.",
+          "chunkReading": "In English common law, / the historical legal doctrine of coverture / treated much of a married woman’s legal identity / as joined with her husband’s.",
+          "directKorean": "영국 관습법에서, / 커버처(coverture)라는 역사적 법 교리는 / 기혼 여성의 법적 정체성의 상당 부분을 취급했다 / 그녀 남편의 것과 결합된 것으로.",
+          "naturalKorean": "영국 관습법에서 커버처(coverture)라는 역사적 법 교리는 기혼 여성의 법적 정체성의 상당 부분을 남편의 정체성과 하나로 결합된 것으로 취급했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "doctrine of coverture",
+              "meaning": "커버처(coverture) 법 교리",
+              "use": "기혼 여성의 법적 권리가 남편에게 속했던 영미법상의 역사적 제도입니다.",
+              "example": "Coverture was a doctrine in English common law."
+            },
+            {
+              "chunk": "treat A as joined with B",
+              "meaning": "A를 B와 결합된 것으로 취급하다",
+              "use": "법적·사회적 지위가 하나로 간주됨을 설명합니다.",
+              "example": "The law treated her legal identity as joined with his."
+            }
+          ],
+          "mustKnowGrammar": "'treat A as B' 구문이 사용되었으며, 'her husband's' 뒤에는 'legal identity'가 생략된 소유대명사 형태입니다.",
+          "feynmanExplanation": "'coverture'는 단순히 '성씨 바꾸기'가 아니라, 기혼 여성의 법적 권리와 지위가 남편에게 귀속되던 역사적 법률 개념입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Coverture was a legal doctrine affecting financial and legal status, not just a surname habit.",
+              "korean": "커버처는 단순한 성씨 습관이 아니라 재산 및 법적 지위에 영향을 미친 법 교리였습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "This legal concept became strongly associated with the custom of women adopting a husband’s surname in parts of the English-speaking world.",
+          "chunkReading": "This legal concept / became strongly associated with / the custom / of women adopting a husband’s surname / in parts of the English-speaking world.",
+          "directKorean": "이 법적 개념은 / 강하게 연관되게 되었다 / 관습과 / 여성이 남편의 성씨를 채택하는 / 영어권 세계의 일부 지역에서.",
+          "naturalKorean": "이 법적 개념은 영어권 일부 지역에서 여성이 남편의 성씨를 따르는 관습과 강하게 연결되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "become associated with",
+              "meaning": "~와 연관되게 되다",
+              "use": "개념과 관습 사이의 연결고리를 설명합니다.",
+              "example": "Coverture became associated with married names."
+            },
+            {
+              "chunk": "adopt a husband's surname",
+              "meaning": "남편의 성씨를 따르다/채택하다",
+              "use": "결혼 후 성씨를 바꾸는 행위를 나타냅니다.",
+              "example": "Some women chose to adopt a husband's surname."
+            }
+          ],
+          "mustKnowGrammar": "수동형 형용사구 'became strongly associated with' 뒤에 동명사의 의미상 주어를 포함한 'women adopting...' 구문이 전치사의 목적어로 결합되었습니다.",
+          "feynmanExplanation": "'associated with'는 법적 제도(coverture)가 사회적 관습(남편 성씨 따르기)과 깊은 관련을 맺게 되었다는 연결 관계를 나타냅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how legal concepts and social customs influenced each other in English-speaking societies.",
+              "korean": "영어권 사회에서 법적 개념과 사회적 관습이 어떻게 서로 영향을 미쳤는지 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "original": "Nevertheless, coverture was not the single cause of all married-name customs, and social practices have always involved a mix of law, custom, and personal choice.",
+          "chunkReading": "Nevertheless, / coverture was not the single cause / of all married-name customs, / and social practices have always involved / a mix of law, custom, and personal choice.",
+          "directKorean": "그럼에도 불구하고, / 커버처가 유일한 원인은 아니었다 / 모든 기혼자 이름 관습의, / 그리고 사회적 관행들은 항상 포함해 왔다 / 법, 관습, 그리고 개인적 선택의 혼합을.",
+          "naturalKorean": "그럼에도 불구하고 커버처가 모든 기혼자 성씨 관습의 유일한 원인은 아니었으며, 사회적 관행에는 항상 법, 관습, 개인의 선택이 복합적으로 작용해 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "not the single cause",
+              "meaning": "유일한 원인이 아닌",
+              "use": "단일 원인론을 반박하고 복합성을 설명할 때 씁니다.",
+              "example": "Coverture was not the single cause of naming customs."
+            },
+            {
+              "chunk": "a mix of law, custom, and personal choice",
+              "meaning": "법, 관습, 그리고 개인적 선택의 혼합",
+              "use": "제도적·문화적·개인적 요인의 복합적 작용을 표현합니다.",
+              "example": "Naming involves a mix of law, custom, and choice."
+            }
+          ],
+          "mustKnowGrammar": "역접의 양보 부사 'Nevertheless'로 시작하며, 주절과 현재완료 시제('have always involved')를 가진 등이절이 결합되었습니다.",
+          "feynmanExplanation": "'not the single cause'는 특정 역사적 제도 하나만으로 세상 모든 관습을 다 설명하려고 해서는 안 된다는 신중한 접근법을 보여줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Remember that social customs develop from multiple causes, including law, tradition, and personal choice.",
+              "korean": "사회적 관습은 법, 전통, 개인의 선택을 포함한 다양한 원인에서 발전한다는 점을 기억하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "original": "In 1855, American reformer Lucy Stone famously chose to retain her birth surname after marrying Henry Blackwell, leading women who made similar decisions to be known as \"Lucy Stoners.\"",
+          "chunkReading": "In 1855, / American reformer Lucy Stone / famously chose to retain / her birth surname / after marrying Henry Blackwell, / leading women / who made similar decisions / to be known as \"Lucy Stoners.\"",
+          "directKorean": "1855년에, / 미국의 개혁가 루시 스톤은 / 유명하게 유지하는 것을 선택했다 / 그녀의 출생 성씨를 / 헨리 블랙웰과 결혼한 후에, / 여성들을 이끌면서 / 비슷한 결정을 했던 / \"루시 스토너\"로 알려지도록.",
+          "naturalKorean": "1855년 미국의 개혁가 루시 스톤(Lucy Stone)은 헨리 블랙웰과 결혼한 후 자신의 출생 성씨를 유지하기로 선택했고, 이로 인해 비슷한 결정을 한 여성들이 '루시 스토너(Lucy Stoners)'로 불리게 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "chose to retain her birth surname",
+              "meaning": "자신의 출생 성씨를 유지하는 것을 선택했다",
+              "use": "결혼 후 본래 성씨를 유지하는 결정을 설명합니다.",
+              "example": "Lucy Stone chose to retain her birth surname."
+            },
+            {
+              "chunk": "leading women to be known as",
+              "meaning": "여성들이 ~로 알려지도록 이끌다",
+              "use": "분사구문(leading...)으로 결과를 나타냅니다.",
+              "example": "Her action led similar women to be called Lucy Stoners."
+            }
+          ],
+          "mustKnowGrammar": "과거동사 'chose to retain' 구문 뒤에 접속사 없는 분사구문 'leading + object + to be verb-ed'가 쓰여 역사적 인물의 행위와 그 결과를 연결합니다.",
+          "feynmanExplanation": "'retain her birth surname'은 결혼해서 남편 성으로 바꾸지 않고 태어났을 때의 성씨를 그대로 유지했다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Lucy Stone is a famous historical figure associated with choosing to keep one's birth surname.",
+              "korean": "루시 스톤은 자신의 출생 성씨를 유지하기로 선택한 대표적인 역사적 인물입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "original": "Across the globe, diverse naming structures reflect different cultural values rather than one standard universal rule.",
+          "chunkReading": "Across the globe, / diverse naming structures / reflect different cultural values / rather than one standard universal rule.",
+          "directKorean": "전 세계적으로, / 다양한 이름 구조들은 / 서로 다른 문화적 가치들을 반영한다 / 하나의 표준 보편적 규칙이라기보다는.",
+          "naturalKorean": "전 세계적으로 다양한 이름 구조는 하나의 표준 보편적 규칙이라기보다는 서로 다른 문화적 가치를 반영합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "diverse naming structures",
+              "meaning": "다양한 이름 구조들",
+              "use": "다양한 성씨 및 명칭 체계를 표현합니다.",
+              "example": "Different countries have diverse naming structures."
+            },
+            {
+              "chunk": "reflect cultural values",
+              "meaning": "문화적 가치를 반영하다",
+              "use": "제도가 가치관과 연결되어 있음을 밝힙니다.",
+              "example": "Naming rules reflect shared cultural values."
+            }
+          ],
+          "mustKnowGrammar": "전치사구 'Across the globe'로 시작하며, 'reflect A rather than B' 구문이 가치관 반영과 단일 규칙의 부정을 대조합니다.",
+          "feynmanExplanation": "'rather than one standard universal rule'은 세상에 모든 사람에게 똑같이 적용되는 단 하나의 표준 이름 규칙이란 존재하지 않는다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "This statement summarizes our core inquiry: global naming patterns reflect values, not one universal law.",
+              "korean": "이 문장은 우리의 핵심 탐구 내용을 요약합니다. 세계의 이름 패턴은 하나의 법칙이 아닌 가치를 반영합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "original": "In Spain, people traditionally use two surnames, inheriting one from each parent, while in China and Korea, married women generally retain their birth surnames.",
+          "chunkReading": "In Spain, / people traditionally use two surnames, / inheriting one from each parent, / while in China and Korea, / married women generally retain their birth surnames.",
+          "directKorean": "스페인에서, / 사람들은 전통적으로 두 개의 성씨를 사용한다, / 각 부모로부터 하나씩 물려받으면서, / 반면에 중국과 한국에서, / 기혼 여성들은 일반적으로 그들의 출생 성씨를 유지한다.",
+          "naturalKorean": "스페인에서는 사람들이 양부모로부터 하나씩 성씨를 물려받아 전통적으로 두 개의 성씨를 사용하는 반면, 중국과 한국에서는 기혼 여성이 일반적으로 출생 성씨를 그대로 유지합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "inheriting one from each parent",
+              "meaning": "각 부모로부터 하나씩 물려받으면서",
+              "use": "분사구문으로 부모 양쪽 성씨를 다 쓰는 전통을 설명합니다.",
+              "example": "Spanish names involve inheriting one from each parent."
+            },
+            {
+              "chunk": "retain their birth surnames",
+              "meaning": "출생 성씨를 유지하다",
+              "use": "결혼 후에도 원래 성씨를 바꾸지 않는 관습입니다.",
+              "example": "Korean women generally retain their birth surnames."
+            }
+          ],
+          "mustKnowGrammar": "분사구문 'inheriting...'이 앞절을 부연 설명하며, 대조 접속사 'while'이 스페인 관습과 한·중 관습을 대비시킵니다.",
+          "feynmanExplanation": "'inheriting one from each parent'는 아버지 성만 따르는 것이 아니라 어머니 성도 함께 병기하는 스페인식 전통을 설명합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how Spain, China, and Korea present distinct alternatives to single-surname English customs.",
+              "korean": "스페인, 중국, 한국이 어떻게 영미권의 단일 성씨 관습과 다른 대안들을 보여주는지 보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "original": "Meanwhile, Icelandic naming traditions frequently use patronymics or matronymics, creating last names from a parent’s first name with suffixes such as -son, -dóttir, or gender-neutral -bur.",
+          "chunkReading": "Meanwhile, / Icelandic naming traditions / frequently use patronymics or matronymics, / creating last names / from a parent’s first name / with suffixes such as -son, -dóttir, or gender-neutral -bur.",
+          "directKorean": "한편, / 아이슬란드의 이름 전통들은 / 자주 부칭이나 모칭을 사용한다, / 성씨들을 만들면서 / 부모의 이름으로부터 / -son, -dóttir, 또는 성중립적인 -bur와 같은 접미사를 사용하여.",
+          "naturalKorean": "한편 아이슬란드의 이름 전통은 부모의 이름에 -son, -dóttir, 또는 성중립적인 -bur와 같은 접미사를 붙여 성씨를 만드는 부칭이나 모칭을 자주 사용합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "use patronymics or matronymics",
+              "meaning": "부칭이나 모칭을 사용하다",
+              "use": "부모의 첫 이름에서 성씨를 따오는 규칙입니다.",
+              "example": "Icelandic naming uses patronymics or matronymics."
+            },
+            {
+              "chunk": "gender-neutral -bur",
+              "meaning": "성중립적 접미사 -bur",
+              "use": "현대 아이슬란드에서 아들(-son), 딸(-dóttir) 외에 쓰이는 성중립 표현입니다.",
+              "example": "Some modern Icelanders choose the suffix -bur."
+            }
+          ],
+          "mustKnowGrammar": "부사 'Meanwhile'로 다른 사례를 도입하며, 분사구문 'creating last names...' 및 예시를 들 때 쓰는 'such as' 구문이 결합되었습니다.",
+          "feynmanExplanation": "아이슬란드에서는 가문 성씨가 대대로 내려가는 게 아니라, 부모 이름 뒤에 아들(-son), 딸(-dóttir), 자녀(-bur)를 붙여서 매 세대 이름이 새로 만들어집니다.",
+          "teachingTranscript": [
+            {
+              "english": "Icelandic patronymics and matronymics change every generation based on a parent's first name.",
+              "korean": "아이슬란드의 부칭과 모칭은 부모의 첫 이름을 바탕으로 매 세대마다 새로 바뀌게 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 22,
+          "original": "In many Ethiopian traditions, a person’s name is followed by the personal names of their father and grandfather instead of a single family name passed down across generations.",
+          "chunkReading": "In many Ethiopian traditions, / a person’s name is followed / by the personal names of their father and grandfather / instead of a single family name / passed down across generations.",
+          "directKorean": "많은 에티오피아 전통에서, / 한 사람의 이름은 뒤따라진다 / 그들 아버지와 할아버지의 개인 이름들에 의해 / 단일 가문 이름 대신에 / 세대들을 거쳐 내려오는.",
+          "naturalKorean": "에티오피아의 많은 전통에서는 여러 세대에 걸쳐 내려오는 단일 가문 성씨 대신, 본인의 이름 뒤에 아버지와 할아버지의 이름이 순서대로 이어집니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "followed by the personal names",
+              "meaning": "개인 이름들이 뒤따르는",
+              "use": "본인 이름 뒤에 연결되는 친족의 이름을 표현합니다.",
+              "example": "A person's name is followed by the father's name."
+            },
+            {
+              "chunk": "instead of a single family name",
+              "meaning": "단일 가문 성씨 대신에",
+              "use": "고정된 세습 성씨 방식과의 차이점을 보여줍니다.",
+              "example": "They use a chain of names instead of one family name."
+            }
+          ],
+          "mustKnowGrammar": "수동태 'is followed by' 구문과 전치사구 'instead of', 그리고 과거분사구 'passed down across generations'가 앞 명사 'family name'을 수식합니다.",
+          "feynmanExplanation": "에티오피아에서는 '내 이름 + 아버지 이름 + 할아버지 이름'으로 이어지기 때문에 가문 전체가 하나로 공유하는 고정 성씨와는 개념이 다릅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Ethiopian name chains show that family history can be preserved without a fixed inherited surname.",
+              "korean": "에티오피아의 이름 사슬은 고정된 세습 성씨 없이도 가족의 역사가 보존될 수 있음을 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 23,
+          "original": "These varied customs demonstrate that no single naming structure is superior or more natural than another.",
+          "chunkReading": "These varied customs / demonstrate that / no single naming structure / is superior or more natural / than another.",
+          "directKorean": "이러한 다양한 관습들은 / 증명한다 / 어떤 단일한 이름 구조도 / 우월하거나 더 자연스럽지 않다는 것을 / 다른 것보다.",
+          "naturalKorean": "이러한 다양한 관습은 어떤 단하나의 이름 구조도 다른 구조보다 우월하거나 더 자연스럽지는 않다는 점을 증명합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "varied customs",
+              "meaning": "다양한 관습들",
+              "use": "세계 각지의 다채로운 전통을 뜻합니다.",
+              "example": "These varied customs show global diversity."
+            },
+            {
+              "chunk": "superior or more natural than",
+              "meaning": "~보다 우월하거나 더 자연스러운",
+              "use": "문화적 서열화나 우열 판단을 부정하는 표현입니다.",
+              "example": "No structure is superior to another."
+            }
+          ],
+          "mustKnowGrammar": "명사절 접속사 'that' 절 내부에 부정주어 'no single naming structure'와 형용사 보어 'superior' 및 비교급 'more natural than'이 쓰였습니다.",
+          "feynmanExplanation": "'no single naming structure is superior'는 서구식 성씨 체계나 특정 국가의 규칙이 다른 나라의 작명 관습보다 '더 우월하거나 정상'이라고 볼 수 없다는 문화 상대주의적 시각을 보여줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice 'no single naming structure is superior.' Every culture's tradition deserves respect.",
+              "korean": "'no single naming structure is superior'를 보세요. 모든 문화의 전통은 존중받아 마땅합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 24,
+          "original": "Ultimately, naming systems show that while a last name may offer a fascinating historical clue, it can never tell a person’s complete story.",
+          "chunkReading": "Ultimately, / naming systems show / that while a last name may offer / a fascinating historical clue, / it can never tell / a person’s complete story.",
+          "directKorean": "궁극적으로, / 이름 체계들은 보여준다 / 성씨가 제공할 수도 있지만 / 흥미로운 역사적 단서를, / 그것은 결코 말해줄 수 없다는 것을 / 한 사람의 완전한 이야기를.",
+          "naturalKorean": "궁극적으로 이름 체계는 성씨가 흥미로운 역사적 단서를 제공할 수는 있지만, 한 사람의 전체 이야기를 결코 다 말해줄 수는 없다는 점을 보여줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "offer a historical clue",
+              "meaning": "역사적 단서를 제공하다",
+              "use": "성씨가 지닌 정보의 성격을 '단서(clue)'로 규정합니다.",
+              "example": "A surname offers a historical clue about origin."
+            },
+            {
+              "chunk": "tell a person's complete story",
+              "meaning": "한 사람의 완전한 이야기를 말해주다",
+              "use": "성씨 하나로 그 사람 전체를 규정할 수 없음을 강조합니다.",
+              "example": "A name cannot tell a person's complete story."
+            }
+          ],
+          "mustKnowGrammar": "문두 부사 'Ultimately'로 결론을 이끌며, 명사절 접속사 'that' 내부에 양보 부사절('while a last name may offer...')과 주절('it can never tell...')이 쓰였습니다.",
+          "feynmanExplanation": "'a historical clue, not a complete story'는 본 단원의 핵심 메시지입니다. 이름은 역사의 힌트일 뿐, 그 사람 개인의 전체 정체성을 결정짓지 못합니다.",
+          "teachingTranscript": [
+            {
+              "english": "This conclusion strikes a balanced view: appreciate history, but respect individual identity.",
+              "korean": "이 결론은 균형 잡힌 시각을 제공합니다. 역사는 감상하되 개인의 정체성을 존중하세요."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "The surname __________ may be derived from ...",
+          "One possible historical origin is ...",
+          "In some cultures, married women commonly ..., while in other cultures ...",
+          "Unlike __________, where ..., __________ traditions ...",
+          "This pattern may show historical evidence; however, it does not mean that ...",
+          "Therefore, a surname provides a useful clue, but it cannot tell ..."
+        ],
+        "usefulConnectors": [
+          "come from",
+          "be derived from",
+          "be based on",
+          "be passed down",
+          "be associated with",
+          "unlike",
+          "while",
+          "whereas",
+          "however",
+          "in some cultures",
+          "many / often / generally",
+          "may / might / can",
+          "not necessarily",
+          "This does not mean that ...",
+          "In conclusion, ..."
+        ],
+        "usefulVocabulary": [
+          "surname",
+          "distinguish",
+          "occupation",
+          "ancestor",
+          "hereditary",
+          "patronymic",
+          "matronymic",
+          "custom",
+          "coverture",
+          "identity",
+          "generation",
+          "tradition",
+          "stereotype",
+          "historical clue"
+        ],
+        "paragraphOutline": [
+          "1. Topic sentence: State that last names reveal history and culture, but cannot tell a person's whole story.",
+          "2. Surname origin example 1: Explain an occupational or parent-based origin (e.g., Taylor or Johnson).",
+          "3. Surname origin example 2: Explain a location-based or descriptive origin (e.g., Hill or Brown).",
+          "4. Cultural comparison 1: Describe one non-English tradition (e.g., Spain's two-surname tradition).",
+          "5. Cultural comparison 2: Contrast with another tradition (e.g., Korean/Chinese retention of birth names or Icelandic patronymics).",
+          "6. Limitation & Power: Mention legal/social context (e.g., coverture) and warn against stereotyping or making absolute assumptions.",
+          "7. Concluding insight: Reiterate that a surname is historical evidence, not a complete biography."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "The name Taylor is came from a job.",
+            "correction": "The name Taylor may come from an occupation. (Or: The name Taylor is derived from an occupation.)",
+            "explanation": "Do not combine 'is' and 'came'. Use active 'comes from' or passive 'is derived from'."
+          },
+          {
+            "mistake": "Johnson means John's son, so all Johnsons are family.",
+            "correction": "Johnson historically developed as a parent-based surname, but people with that surname are not necessarily members of one family.",
+            "explanation": "A shared surname does not prove a close family relationship."
+          },
+          {
+            "mistake": "All married woman takes husband's last name.",
+            "correction": "In some cultures, married women commonly adopt their husband's surname, while in other cultures they generally retain their birth surname.",
+            "explanation": "Use plural agreement ('women take') and avoid 'all' because naming practices vary globally."
+          },
+          {
+            "mistake": "Unlike Korea keeps own surname, England women change it.",
+            "correction": "While many Korean women retain their birth surnames, many women in English-speaking societies have traditionally adopted a spouse's surname.",
+            "explanation": "Both sides of a comparison need complete clauses, and careful frequency words are necessary."
+          },
+          {
+            "mistake": "Surname is identity of people.",
+            "correction": "A surname is one part of a person's identity.",
+            "explanation": "Use articles ('a'), possessive forms ('person's'), and avoid claiming that a surname is the whole identity."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check word count target (100–140 words).",
+          "Verify a clear central idea about names, history, and identity.",
+          "Ensure at least two accurate surname-origin examples are explained.",
+          "Ensure at least two cultural naming traditions are accurately compared.",
+          "Check for careful frequency words (may, generally, often) instead of overgeneralizations (all, always).",
+          "Confirm one caution against stereotyping based on surnames.",
+          "Check correct contrast connectors (while, whereas, however).",
+          "Ensure logical paragraph organization with a concluding thought.",
+          "Verify complete sentence structures and correct mechanics (spelling, capitalization, punctuation)."
+        ]
+      }
+    }
+  }
+}
