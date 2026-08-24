@@ -1,28 +1,28 @@
 {
-  "lessonTitle": "Nurabot: A Nursing Robot Designed to Support Hospital Staff",
+  "lessonTitle": "Not Enough Nurses: Can Nurabot Help Solve a Worldwide Healthcare Puzzle?",
   "ofsUnit": "Unit 3 — Innovation, Healthcare & Society",
-  "textType": "Informational News Report / Balanced Evidence-Based Recommendation Paragraph",
-  "lessonGoal": "Students will identify the main idea and supporting evidence in a news report about Nurabot, evaluate how nursing robots can support healthcare workers without replacing them, and write a balanced evidence-based recommendation paragraph.",
+  "textType": "Problem–Solution Informational Report / Balanced Evidence-Based Recommendation Paragraph",
+  "lessonGoal": "Students will explain the causes and effects of the global nursing shortage, evaluate Nurabot as one possible response, and write a balanced recommendation combining workforce policies with responsible technology use.",
   "warmUp": {
     "title": "Warm-up",
     "instructions": "Read and discuss the warm-up questions with a partner. There are no right or wrong answers.",
     "questions": [
-      "What repetitive tasks do nurses perform in hospitals?",
-      "Which hospital tasks could robots safely help with?",
-      "What parts of nursing should always require human judgment and care?"
+      "Why might a country have a nursing shortage even if it trains many nurses?",
+      "How can a nursing shortage affect both patients and healthcare workers?",
+      "Which solutions require more human workers, and which tasks could technology support?"
     ]
   },
   "article": {
-    "title": "Nurabot: A Nursing Robot Designed to Support Hospital Staff",
-    "source": "Source: Adapted from a teacher-provided source image and updated using official information from Foxconn and the World Health Organization.",
+    "title": "Not Enough Nurses: Can Nurabot Help Solve a Worldwide Healthcare Puzzle?",
+    "source": "Source: Adapted from teacher-provided source materials and updated using official 2025 report data from the World Health Organization, NCSBN, and Foxconn.",
     "note": "OFS Grade 9 International English — Unit 3",
     "paragraphs": [
-      "Across the globe, modern healthcare systems face an urgent crisis caused by a severe shortage of qualified medical staff. According to updated estimates from the World Health Organization, the global nursing shortage reached approximately 5.8 million in 2023 and is projected to remain around 4.1 million by 2030. In busy hospital wards, nurses often spend several hours each day walking long distances to deliver routine supplies and move paperwork. To solve this problem, technology developers are creating automated machines designed to handle repetitive physical tasks.",
-      "One leading innovation is Nurabot, an artificial intelligence nursing robot developed by Foxconn. The robot features movable robotic arms, multi-directional wheels, and advanced environmental sensors that allow it to navigate crowded hospital hallways safely. Rather than attempting to replace professional healthcare workers, Nurabot is designed to work alongside human staff as a collaborative assistant. Representatives from Foxconn emphasize that the machine operates under human supervision to complete shared medical missions.",
-      "In clinical environments, Nurabot assists by performing routine transport duties across different hospital departments. The robot can move items such as prescription medications, lab specimens, linen, and heavy equipment between storage rooms and nursing stations. By using special cameras and autonomous navigation software, Nurabot avoids obstacles and travels efficiently without disrupting patient care. Because these repetitive transport duties consume valuable time, delegating them to robots helps keep hospital workflows organized.",
-      "Recent field tests provide early evidence of Nurabot's potential impact on hospital efficiency. During validation testing at Taichung Veterans General Hospital in Taiwan, deployment data indicated that Nurabot completed approximately 75 to 80 transport tasks per day. According to Foxconn's trial report, this automated assistance reduced the overall daily workload of participating nurses by up to 30 percent. Hospital administrators note that these hours saved from walking allows staff to focus on direct clinical responsibilities.",
-      "The primary benefit of nursing robots lies in freeing human nurses for tasks that require complex clinical judgment and emotional care. While a robot can transport medical supplies, it cannot evaluate a patient's physical pain or offer comforting words to an anxious family member. By reducing physical exhaustion, collaborative robots may help decrease staff burnout and improve overall job satisfaction. Consequently, nurses can spend more time conducting clinical observations and communicating directly with patients.",
-      "Despite these promising results, experts caution that hospitals must expand robot use carefully. Technical failures, software errors, and patient privacy risks require continuous human oversight and strict safety guidelines. Furthermore, deployment data from initial hospital tests does not guarantee identical results for every medical facility. Ultimately, nursing robots offer a valuable solution when used to assist human nurses, proving that the strongest healthcare model balances technological innovation with human empathy."
+      "Across the globe, modern healthcare systems face an urgent challenge caused by a severe shortage of qualified medical staff. According to updated report data from the World Health Organization, the global nursing workforce reached approximately 29.8 million in 2023, yet hospitals faced an estimated global shortage of 5.8 million nurses. Furthermore, total global numbers hide deep regional inequalities because approximately 78 percent of the world's nurses serve countries containing only 49 percent of the global population. If current healthcare trends continue, the WHO projects that the global deficit may still remain around 4.1 million by 2030, with 70 percent of that shortage concentrated in the African and Eastern Mediterranean Regions.",
+      "Understanding why nursing shortages occur requires examining several interconnected social, economic, and workplace factors. In many countries, expanding aging populations increase patient demand for complex medical care while nearly 19 percent of the active nursing workforce is projected to retire within the next decade. Additionally, inadequate training capacity, unequal pay, and poor working conditions compel many qualified nurses to migrate to higher-paying locations or leave the profession entirely. Severe workplace stress and heavy daily workloads further worsen staff exhaustion, proving that no single cause explains the staffing shortage in every nation.",
+      "Geographic and economic disparities create additional friction in the global distribution of healthcare workers. High-income nations often attempt to fill local vacancies by recruiting foreign-trained professionals, creating a complex tension between a nurse's right to international migration and the severe loss of staff in developing countries. In at least 20 wealthier nations, expected retirements are projected to outpace the entry of newly graduated nurses. Consequently, less-resourced healthcare systems struggle to maintain stable staffing levels in rural clinics and emergency departments.",
+      "When hospitals operate without adequate staff, the consequences impact both healthcare workers and patient care. Understaffed wards experience longer patient waiting times, crowded emergency rooms, and reduced time for nurses to communicate with anxious families. This situation creates a damaging feedback loop in which heavy workloads increase physical fatigue, leading to higher rates of staff burnout. As burnout drives more nurses to leave their positions, the remaining staff face even heavier burdens, threatening hospital stability over time.",
+      "To help address these workplace pressures, technology developers are introducing collaborative nursing assistants like Nurabot. Manufactured by Foxconn, Nurabot uses autonomous navigation software and multi-directional wheels to transport prescription medications, lab specimens, and heavy supplies between ward stations. According to Foxconn's field deployment data from Taichung Veterans General Hospital, Nurabot completed approximately 75 to 80 transport tasks per day, reducing participating nurses' daily workload by up to 30 percent. By handling repetitive physical transport duties, nursing robots can free human nurses to spend more time conducting clinical observations and providing emotional care.",
+      "Despite these operational benefits, healthcare experts caution that robots cannot solve the global nursing shortage on their own. Automated machines cannot train new nurses, eliminate unequal global distribution, repair workplace environments, or replace human empathy and clinical judgment. Furthermore, deployment data from initial hospital trials provides valuable evidence, but it does not guarantee identical workload reductions for every medical facility. Ultimately, the most effective response must combine investments in nursing education, mental-health support, and fair retention policies with carefully supervised technological tools."
     ]
   },
   "vocabularyInContext": {
@@ -32,62 +32,62 @@
       {
         "word": "nursing shortage",
         "partOfSpeech": "noun phrase",
-        "definition": "a severe lack of qualified nurses needed to meet healthcare demands",
-        "sentence": "According to the World Health Organization, the global nursing shortage remains a critical challenge for hospitals worldwide."
+        "definition": "a severe lack of qualified nurses needed to meet healthcare demands in hospitals and clinics",
+        "sentence": "According to the World Health Organization, the global nursing shortage reached 5.8 million in 2023."
       },
       {
-        "word": "repetitive",
-        "partOfSpeech": "adjective",
-        "definition": "done over and over again in the same way, often consuming valuable time",
-        "sentence": "Nurses often spend hours performing repetitive tasks such as carrying medical supplies between departments."
+        "word": "workforce",
+        "partOfSpeech": "noun",
+        "definition": "the total number of qualified people employed or available for work within an industry or country",
+        "sentence": "The global nursing workforce reached approximately 29.8 million in 2023."
       },
       {
-        "word": "collaborate",
+        "word": "burnout",
+        "partOfSpeech": "noun",
+        "definition": "a state of physical, emotional, and mental exhaustion caused by prolonged workplace stress and overwork",
+        "sentence": "Heavy daily workloads lead to higher rates of staff burnout among hospital nurses."
+      },
+      {
+        "word": "retire",
         "partOfSpeech": "verb",
-        "definition": "to work jointly with others toward a shared goal or mission",
-        "sentence": "Nurabot is designed to collaborate with human healthcare workers rather than work independently."
+        "definition": "to stop working permanently, usually after reaching a specific age or length of service",
+        "sentence": "Nearly 19 percent of the active global nursing workforce is projected to retire within the next decade."
+      },
+      {
+        "word": "retain",
+        "partOfSpeech": "verb",
+        "definition": "to keep or continue to employ qualified workers within an organization over time",
+        "sentence": "Hospitals must improve working conditions to retain experienced nurses."
+      },
+      {
+        "word": "unequal distribution",
+        "partOfSpeech": "noun phrase",
+        "definition": "an unbalanced or unfair geographic spread of resources or healthcare workers across regions",
+        "sentence": "An unequal distribution means 78 percent of nurses serve countries with only 49 percent of global population."
+      },
+      {
+        "word": "migrate",
+        "partOfSpeech": "verb",
+        "definition": "to move from one country or region to another to find better employment or living conditions",
+        "sentence": "Poor pay in developing countries compels many nurses to migrate to higher-paying nations."
       },
       {
         "word": "workload",
         "partOfSpeech": "noun",
-        "definition": "the amount of work or duties that a person or organization has to perform",
-        "sentence": "Automating routine transport tasks can significantly decrease a nurse's daily workload."
+        "definition": "the amount of work, tasks, or clinical duties assigned to a worker within a specific period",
+        "sentence": "Automating routine transport tasks reduced nurses' daily workload by up to 30 percent in trial deployment."
       },
       {
-        "word": "transport",
-        "partOfSpeech": "verb",
-        "definition": "to carry or move items from one place to another within a facility",
-        "sentence": "The nursing robot can transport prescription medications and lab specimens between hospital wards."
-      },
-      {
-        "word": "specimen",
-        "partOfSpeech": "noun",
-        "definition": "a sample of blood, tissue, or urine taken for medical testing and analysis",
-        "sentence": "Safe transport of a clinical specimen to the laboratory is essential for accurate diagnosis."
-      },
-      {
-        "word": "navigate",
-        "partOfSpeech": "verb",
-        "definition": "to plan, direct, and move along a path through an environment",
-        "sentence": "Advanced cameras and sensors allow the robot to navigate busy hospital hallways safely."
-      },
-      {
-        "word": "deployment",
-        "partOfSpeech": "noun",
-        "definition": "the placement and active use of technology or resources in an operational setting",
-        "sentence": "Field deployment data from hospital trials showed that the robot completed dozens of daily tasks."
+        "word": "collaborative",
+        "partOfSpeech": "adjective",
+        "definition": "involving two or more parties working jointly together toward a shared goal",
+        "sentence": "Nurabot functions as a collaborative assistant designed to support human healthcare workers."
       },
       {
         "word": "supervision",
         "partOfSpeech": "noun",
-        "definition": "the act of watching, directing, and overseeing a process or machine to ensure safety",
-        "sentence": "Robotic assistants operate under human supervision to protect patient safety and privacy."
-      },
-      {
-        "word": "empathy",
-        "partOfSpeech": "noun",
-        "definition": "the ability to understand and share the feelings and emotions of another person",
-        "sentence": "While robots can handle physical items, human nurses provide essential empathy and emotional support."
+        "definition": "the act of directing, overseeing, and monitoring a process or machine to ensure safety and quality",
+        "sentence": "Robotic assistants must operate under human supervision to protect patient safety and privacy."
       }
     ]
   },
@@ -95,88 +95,88 @@
     "title": "Main Idea",
     "question": "What is the main idea of the article?",
     "options": [
-      "A. Nurabot is designed to perform repetitive transport work to reduce nurses' workload, but it serves as a collaborative assistant under human supervision rather than replacing human care.",
-      "B. Nurabot has already replaced human nurses in all major hospitals across Taiwan and handles all patient care independently.",
-      "C. Nursing robots can administer complex medical treatments directly to patients without any human supervision.",
-      "D. Technological innovation will soon eliminate the need for human nurses completely by 2030."
+      "A. The worldwide nursing shortage results from several connected causes and unequal workforce distribution, so hospitals and governments need both human-centered workforce policies and carefully supervised technologies such as Nurabot.",
+      "B. Nurabot is an AI-powered robot that can completely eliminate the global nursing shortage by replacing all human nurses in hospitals by 2030.",
+      "C. Nursing shortages exist only in developing countries because high-income nations have more than enough nurses to meet all patient needs.",
+      "D. Technological innovation is the only effective way to solve healthcare challenges because human workforce policies cannot improve working conditions."
     ],
     "correctIndex": 0,
-    "explanation": "The article explains that Nurabot supports nurses by carrying out repetitive transport duties, which reduces workload (by up to 30% in deployment trials) and allows nurses more time for human-centered care, but it requires human supervision and cannot replace human empathy or judgment."
+    "explanation": "The article explains that global nursing shortages stem from multiple factors like retirement, burnout, and unequal distribution, meaning that technology like Nurabot can support routine work, but human-centered policies (education, retention, mental health) are essential for a complete solution."
   },
   "readingComprehension": {
     "title": "Reading Comprehension",
     "questions": [
       {
         "id": "rc1",
-        "question": "What global healthcare issue is described in the article?",
+        "question": "According to 2023 report figures from the World Health Organization, what is the status of the global nursing workforce and shortage?",
         "options": [
-          "A. Hospitals have too many nurses and cannot afford to pay them.",
-          "B. A severe global nursing shortage is projected to leave hospitals understaffed by approximately 4.1 million nurses by 2030.",
-          "C. Patient demand for medical care has dropped significantly worldwide.",
-          "D. Governments have banned technology in all public hospital wards."
+          "A. The global workforce has zero nurses, creating a 100% collapse in medical care.",
+          "B. The global workforce reached approximately 29.8 million nurses, yet hospitals faced an estimated global shortage of 5.8 million.",
+          "C. The global nursing shortage was completely solved in 2023 by high-income nations.",
+          "D. The global workforce reached 50 million nurses with a shortage of only 10,000 workers worldwide."
         ],
         "correctIndex": 1,
-        "explanation": "The WHO projects a global shortage of approximately 4.1 million nurses by 2030, creating high daily workloads in hospitals."
+        "explanation": "WHO data shows that despite a 29.8 million global nursing workforce in 2023, an estimated shortage of 5.8 million nurses persisted."
       },
       {
         "id": "rc2",
-        "question": "Who developed Nurabot, and what is its intended role?",
+        "question": "Which combination of factors contributes to the global nursing shortage?",
         "options": [
-          "A. Foxconn developed Nurabot to replace human nurses entirely.",
-          "B. A group of hospital patients developed Nurabot to clean operating rooms independently.",
-          "C. Foxconn developed Nurabot as an AI-powered collaborative assistant to support human nurses.",
-          "D. Taichung Veterans General Hospital manufactured Nurabot to manufacture prescription drugs."
+          "A. Expanding aging populations, expected retirements (~19% in 10 years), burnout, low pay, inadequate training capacity, and international migration.",
+          "B. Excessive nursing salaries and a total lack of interest in medical careers among young people.",
+          "C. A global government ban on training new nurses in university programs.",
+          "D. Robots taking away all nursing jobs in Europe and North America."
         ],
-        "correctIndex": 2,
-        "explanation": "Foxconn developed Nurabot as a collaborative AI nursing assistant designed to work alongside human healthcare staff under supervision."
+        "correctIndex": 0,
+        "explanation": "The text explains that multiple interconnected causes—aging populations, upcoming retirements, burnout, inadequate training, unequal pay, and migration—drive the shortage."
       },
       {
         "id": "rc3",
-        "question": "Which specific tasks can Nurabot perform to support hospital staff?",
+        "question": "What evidence from the article demonstrates that the nursing shortage is an unequal distribution problem?",
         "options": [
-          "A. Transporting medications, moving lab specimens, carrying heavy equipment, and navigating ward halls.",
-          "B. Diagnosing complex diseases and performing emergency surgery.",
-          "C. Providing emotional counseling and making ethical care decisions.",
-          "D. Operating hospital pharmacies without any human oversight."
+          "A. All countries have the exact same number of nurses per 1,000 citizens.",
+          "B. Approximately 78% of the world's nurses serve countries with only 49% of global population, and 70% of the 2030 shortage is projected for Africa and Eastern Mediterranean regions.",
+          "C. Developing nations have 95% of the world's nurses while high-income countries have none.",
+          "D. Nursing distribution is equal across all rural clinics and emergency rooms worldwide."
         ],
-        "correctIndex": 0,
-        "explanation": "The text states Nurabot moves items like prescription medications, lab specimens, linen, and equipment between hospital locations."
+        "correctIndex": 1,
+        "explanation": "78% of nurses serve 49% of the world's population in wealthier regions, leaving 70% of future shortages concentrated in Africa and the Eastern Mediterranean."
       },
       {
         "id": "rc4",
-        "question": "What do the deployment figures from Taichung Veterans General Hospital demonstrate?",
+        "question": "How does the article describe the feedback loop between understaffing and burnout?",
         "options": [
-          "A. Nurabot guarantees an immediate 100% reduction in hospital operating costs for all facilities worldwide.",
-          "B. Deployment data showed Nurabot completed 75–80 daily tasks, reducing nurses' workload by up to 30% during field testing.",
-          "C. The robot proved that human nurses spend zero time walking or transporting items.",
-          "D. The trial proved that nursing robots make more clinical errors than human staff."
+          "A. Understaffing reduces daily workload, which makes nurses feel well-rested and happy.",
+          "B. Understaffing increases heavy workloads and physical fatigue, leading to burnout; as burnout causes nurses to leave, understaffing worsens for remaining staff.",
+          "C. Burnout forces hospitals to hire twice as many nurses, immediately eliminating the shortage.",
+          "D. Staff burnout has no connection to hospital workloads or nurse resignations."
         ],
         "correctIndex": 1,
-        "explanation": "Foxconn's deployment data indicated Nurabot handled 75–80 daily tasks, resulting in a workload reduction of up to 30% for participating nurses during the trial."
+        "explanation": "Understaffing increases workload fatigue, causing burnout, which drives resignations, further worsening understaffing in a continuous feedback loop."
       },
       {
         "id": "rc5",
-        "question": "Why does the article emphasize that robots cannot replace professional human nurses?",
+        "question": "What can Nurabot realistically support in hospital wards based on deployment data?",
         "options": [
-          "A. Robots move too quickly through hospital hallways.",
-          "B. Robots are unable to carry heavy medical items or navigate autonomously.",
-          "C. Robots lack human clinical judgment, emotional empathy, complex observation skills, and social communication.",
-          "D. Human nurses prefer performing repetitive physical transport work all day."
+          "A. It can perform complex emergency surgeries and make ethical medical decisions independently.",
+          "B. It can train new student nurses and manage university nursing programs.",
+          "C. It can perform routine transport of prescription medications, lab specimens, and supplies, completing 75–80 daily tasks and reducing workload by up to 30% in trials.",
+          "D. It can replace human empathy and provide psychological counseling to anxious families."
         ],
         "correctIndex": 2,
-        "explanation": "Human nursing requires emotional empathy, physical pain assessment, and complex clinical judgment that automated machines cannot replicate."
+        "explanation": "Foxconn's deployment data indicates Nurabot carries out routine transport tasks (medication, specimens, supplies), saving walking time for human staff."
       },
       {
         "id": "rc6",
-        "question": "What is the author's overall conclusion regarding nursing robots?",
+        "question": "Why does the article conclude that technology alone cannot solve the worldwide nursing shortage?",
         "options": [
-          "A. Hospitals should rely entirely on robots and eliminate human nursing positions to save money.",
-          "B. Robotic technology is too dangerous to ever use in healthcare environments.",
-          "C. The best healthcare approach is a balanced human–robot collaboration where technology handles routine tasks under human supervision.",
-          "D. Robots should only be used in administrative offices, not in hospital wards."
+          "A. Robots are too expensive for any hospital to purchase.",
+          "B. Automated machines cannot train new nurses, fix unequal global distribution, repair poor working conditions, or replace human clinical judgment and empathy.",
+          "C. Governments have passed laws forbidding the use of robots in all medical facilities.",
+          "D. Developers have canceled all nursing robot deployment projects permanently."
         ],
-        "correctIndex": 2,
-        "explanation": "The author concludes that combining automated assistance for routine work with human clinical oversight and empathy creates the strongest healthcare model."
+        "correctIndex": 1,
+        "explanation": "Technology cannot fix structural workforce problems like education capacity, unfair distribution, poor pay, or the need for human clinical judgment and empathy."
       }
     ]
   },
@@ -186,44 +186,45 @@
     "prompts": [
       {
         "id": "ev1",
-        "statement": "What evidence suggests that Nurabot may reduce repetitive work?",
-        "modelAnswer": "Deployment data from field validation at Taichung Veterans General Hospital showed that Nurabot completed approximately 75 to 80 transport tasks per day, which reduced participating nurses' daily workload by up to 30 percent.",
-        "compareTip": "Your answer should mention the 75–80 daily tasks and the 30% workload reduction from Foxconn's hospital deployment data.",
+        "statement": "What evidence shows that the nursing shortage is also a distribution problem?",
+        "modelAnswer": "According to the World Health Organization, 78 percent of the world's nurses serve countries containing only 49 percent of the global population. Furthermore, 70 percent of the projected 2030 shortage is expected to be concentrated in the African and Eastern Mediterranean Regions.",
+        "compareTip": "Your answer should mention the 78% of nurses serving 49% of the population, and the 70% projected concentration in African and Eastern Mediterranean regions.",
         "checkType": "evidence"
       },
       {
         "id": "ev2",
-        "statement": "Why does the article argue that Nurabot should not replace nurses?",
-        "modelAnswer": "The article argues that nursing requires complex clinical judgment, emotional care, and empathy when evaluating patient pain or comforting families. Robots can transport items, but they cannot provide human observation or emotional support.",
-        "compareTip": "Your answer should explain that robots lack human clinical judgment, empathy, and emotional care.",
+        "statement": "How can nursing shortages and burnout strengthen each other?",
+        "modelAnswer": "A nursing shortage increases the daily workload and physical fatigue of remaining staff, leading to stress and burnout. When burnout causes nurses to resign or retire, understaffing becomes even worse, creating a continuous feedback loop.",
+        "compareTip": "Your answer should explain how understaffing increases workload fatigue leading to burnout, which causes resignations that make understaffing worse.",
         "checkType": "evidence"
       },
       {
         "id": "ev3",
-        "statement": "What limitations should hospitals consider before expanding robot use?",
-        "modelAnswer": "Hospitals must consider risks such as technical software failures, system errors, patient privacy concerns, and the requirement for constant human supervision. Additionally, trial data from one hospital does not guarantee universal results for every facility.",
-        "compareTip": "Your answer should mention technical failures, patient privacy, the need for human supervision, or trial data limitations.",
+        "statement": "What evidence suggests that Nurabot may help, and why is that evidence not enough to prove that robots can solve the entire shortage?",
+        "modelAnswer": "Deployment data from Foxconn showed Nurabot completed 75 to 80 daily transport tasks, reducing workload by up to 30 percent in a trial. However, this early trial data from one hospital does not prove universal results, and robots cannot train nurses, fix low pay, or provide human empathy.",
+        "compareTip": "Your answer should contrast Foxconn's trial data (75-80 tasks, 30% reduction) with the limitation that robots cannot train nurses, fix distribution, or replace human judgment.",
         "checkType": "evidence"
       }
     ]
   },
   "languageFocus": {
-    "title": "Language Focus",
-    "topic": "Evidence-Based Reporting, Cautious Claims, and Contrast Connectors",
-    "explanation": "When writing about new technology, objective writers use evidence reporting phrases (According to + source, Deployment data suggests that), cautious modal verbs (may help, can support, does not necessarily prove), and contrast connectors (although, while, however, rather than) to avoid overgeneralization. For example, instead of claiming 'Robots solve all hospital problems,' careful writers write 'Deployment data suggests that nursing robots may reduce routine workload; however, human supervision remains essential.'",
+    "title": "Language Focus & Source Analysis",
+    "topic": "Cause, Effect, Cautious Evaluation, and Source Analysis",
+    "explanation": "When writing about complex global issues and new technology, effective writers use cause-and-effect connectors (One factor contributing to..., This can lead to..., As a result..., This creates a feedback loop in which...), evidence reporting (According to WHO..., The data suggests that..., but it does not prove that...), and contrast connectors (Although technology may..., it cannot...). Writers must also evaluate sources carefully: distinguishing global facts (WHO) from regional survey data (such as US NCSBN 39.9%/41.3% intention-to-leave surveys), recognizing that intention to leave is not actual departure, and identifying historical map dates (such as 2018 or 2022 maps) rather than presenting them as current 2026 conditions.",
     "examples": [
-      "According to updated WHO estimates, the global nursing shortage will reach 4.1 million by 2030.",
-      "Deployment data indicates that Nurabot completed 75 to 80 transport tasks per day.",
-      "Nursing robots may help nurses by carrying out repetitive supply transport.",
-      "Although robots can move items efficiently, they cannot provide emotional empathy.",
-      "This initial result does not necessarily prove that every hospital will save 30% of work.",
-      "Rather than replacing nurses, robots serve as collaborative assistants."
+      "One factor contributing to the shortage is that 19 percent of nurses are projected to retire within ten years.",
+      "Heavy daily workloads increase fatigue, creating a feedback loop in which burnout causes staff resignations.",
+      "According to WHO, 78 percent of nurses serve countries with only 49 percent of the global population.",
+      "Deployment data suggests that Nurabot reduced workload by up to 30 percent, but it does not prove universal results for all hospitals.",
+      "Although technology may assist with routine supply transport, it cannot train new nurses or replace human clinical judgment.",
+      "A more effective solution would combine human workforce policies with carefully supervised technological tools.",
+      "Media Literacy Note: A 2024 United States survey reporting a 40% intention to leave shows workplace stress in one country, but it cannot be presented as a global fact or an actual departure count."
     ],
     "practice": [
-      "1. Rewrite using cautious language: 'Nurabot will completely replace hospital nurses in 2026.'",
-      "2. Combine with 'although': Nurabot can transport heavy equipment. Robots cannot evaluate patient pain.",
-      "3. Complete with a reporting phrase: __________ Foxconn's report, Nurabot reduced nurse workload by up to 30 percent.",
-      "4. Complete with 'rather than': __________ replacing healthcare workers, nursing robots operate under human supervision."
+      "1. Complete with cause-and-effect: One factor contributing to staff burnout is __________.",
+      "2. Rewrite the overgeneralization using cautious language: 'The 2024 US survey proves that 40% of nurses worldwide will quit tomorrow.'",
+      "3. Combine a policy solution and a tech solution using 'A more effective solution would combine...'",
+      "4. Complete with 'feedback loop': Heavy workloads cause fatigue, creating a feedback loop in which __________."
     ]
   },
   "writingPractice": {
@@ -232,1050 +233,1057 @@
     "prompts": [
       {
         "id": "wp1",
-        "question": "Rewrite the exaggerated claim 'Nurabot will completely replace nurses in 2026' using cautious evidence-based language.",
+        "question": "Write a cause-and-effect sentence explaining how understaffing leads to a burnout feedback loop.",
         "placeholder": "Write 2–4 complete sentences here...",
-        "modelAnswer": "Rather than replacing nurses, deployment data suggests that Nurabot may help healthcare staff by handling repetitive transport tasks under human supervision.",
-        "compareTip": "Did your rewrite use cautious language (such as may help or deployment data suggests) and clarify that robots assist rather than replace nurses?"
+        "modelAnswer": "When hospitals operate understaffed, remaining nurses face heavier workloads and physical fatigue. This situation leads to severe workplace burnout, which compels more nurses to resign and further worsens hospital understaffing.",
+        "compareTip": "Did your response explain how understaffing causes heavy workloads, fatigue, and burnout, which in turn causes more nurse resignations?"
       },
       {
         "id": "wp2",
-        "question": "Combine a benefit of Nurabot and a limitation using the connector 'although.'",
+        "question": "Rewrite the claim 'Nurabot will solve the entire global nursing shortage by 2030' using cautious evidence-based language.",
         "placeholder": "Write 2–4 complete sentences here...",
-        "modelAnswer": "Although Nurabot can reduce nurses' daily transport work by up to 30 percent, it cannot provide the human empathy and clinical judgment essential for patient care.",
-        "compareTip": "Did your sentence start with or include 'although' to contrast a transport benefit with a human judgment/empathy limitation?"
+        "modelAnswer": "Deployment data from Foxconn suggests that Nurabot may help reduce nurses' routine transport workload; however, technology alone cannot solve the global nursing shortage because robots cannot train new nurses or fix unequal distribution.",
+        "compareTip": "Did your rewrite use cautious language (such as deployment data suggests or may help) and clarify that technology is only a partial support?"
       },
       {
         "id": "wp3",
-        "question": "Write one evidence sentence using a specific numerical detail from the article.",
+        "question": "Compare one human-workforce policy solution with one technological support solution.",
         "placeholder": "Write 2–4 complete sentences here...",
-        "modelAnswer": "According to deployment data from Foxconn, Nurabot completed approximately 75 to 80 transport tasks per day during hospital validation testing. This automated assistance reduced participating nurses' daily workload by up to 30 percent.",
-        "compareTip": "Did your sentence include specific numbers from the text (such as 75–80 tasks or 30%) alongside an evidence reporting phrase?"
+        "modelAnswer": "Investing in nursing university programs increases the long-term supply of qualified human nurses across regions. In contrast, deploying nursing robots like Nurabot provides immediate short-term support by automating routine medication and specimen transport within hospital wards.",
+        "compareTip": "Did your answer contrast a long-term human workforce policy (e.g. education/retention) with a short-term tech solution (e.g. robot transport) using contrast words?"
       },
       {
         "id": "wp4",
-        "question": "Write a recommendation sentence explaining how nurses and robots should work together.",
+        "question": "Write a recommendation sentence combining workforce policy reforms with responsible technology use.",
         "placeholder": "Write 2–4 complete sentences here...",
-        "modelAnswer": "Hospitals should deploy nursing robots for routine supply and specimen transport while reserving direct patient care and medical decisions for human nurses. This collaborative approach protects patient safety while improving hospital efficiency.",
-        "compareTip": "Did your recommendation clearly divide responsibilities between routine transport for robots and direct care for human nurses?"
+        "modelAnswer": "Governments and hospital administrators should combine increased funding for nursing education and mental-health support with the deployment of supervised collaborative robots like Nurabot for routine supply transport. This dual strategy addresses root workforce causes while protecting nurse wellbeing and patient safety.",
+        "compareTip": "Did your recommendation explicitly combine human workforce policies (education, mental health, retention) with supervised technology?"
       }
     ]
   },
   "writingTask": {
     "title": "Writing Task",
-    "prompt": "Should hospitals expand the use of nursing robots such as Nurabot? Write a balanced evidence-based recommendation paragraph of 100–140 words. State your position, use at least two facts from the article, explain one benefit and one limitation, and recommend how hospitals should divide responsibilities between nurses and robots.",
+    "prompt": "What combination of solutions should governments and hospitals use to respond to nursing shortages? Write a balanced evidence-based recommendation paragraph of 100–140 words. Explain at least two causes of the shortage, use at least two facts from the article, evaluate one benefit and one limitation of nursing robots, and recommend a combination of human-workforce policies and technology.",
     "wordTarget": {
       "min": 100,
       "max": 140
     },
     "checklist": [
-      "State a clear position or recommendation on expanding nursing robots.",
-      "Use at least two numerical or factual details from the article.",
-      "Explain one specific benefit for nurses or patient care.",
-      "Explain one limitation, technical risk, or ethical concern.",
-      "Use cautious evidence language (e.g. according to, deployment data suggests, may help).",
-      "Use at least one contrast connector (e.g. although, while, however, rather than).",
-      "Recommend a practical division of responsibilities between nurses and robots.",
-      "Include a clear concluding sentence.",
-      "Write between 100 and 140 words.",
-      "Check spelling, punctuation, and capitalization."
+      "State a clear position or recommendation combining human policies and technology.",
+      "Explain at least two causes of the nursing shortage (e.g., retirements, burnout, low pay, migration).",
+      "Use at least two numerical or factual details from the article (e.g., 5.8M shortage, 78%/49% distribution, 30% trial workload reduction).",
+      "Evaluate one specific benefit of nursing robots (e.g., medication transport, saving walking time).",
+      "Evaluate one limitation of nursing robots (e.g., cannot train nurses, lack of empathy, trial limitations).",
+      "Recommend at least one human-workforce policy (e.g., education funding, retention, mental-health support).",
+      "Use cautious evidence language (e.g. according to WHO, deployment data suggests, may help).",
+      "Use at least one cause-and-effect connector (e.g. as a result, leading to, because, this causes).",
+      "Use at least one contrast connector (e.g. although, while, however, in contrast).",
+      "End with a clear concluding sentence and write 100–140 words."
     ],
-    "modelAnswer": "Hospitals should cautiously expand the use of nursing robots such as Nurabot to support healthcare staff. According to updated estimates from the World Health Organization, the global nursing shortage is projected to reach 4.1 million by 2030. In field trials at Taichung Veterans General Hospital, Foxconn reported that Nurabot completed 75 to 80 daily tasks, reducing nurses' workload by up to 30 percent. This automated assistance provides a key benefit by giving nurses more time for direct patient observation and clinical care. However, robots carry limitations including technical system errors, privacy risks, and a complete lack of human empathy. Therefore, hospitals should delegate routine medication and specimen transport to robots while reserving all clinical decisions and patient support for human nurses."
+    "modelAnswer": "Governments and hospitals should respond to the global nursing shortage by combining human workforce policies with carefully supervised technology. According to the World Health Organization, the global nursing shortage reached 5.8 million in 2023, driven by causes such as staff burnout, low pay, and expected retirements of nearly 19 percent of nurses over the next decade. In hospital trials, Foxconn reported that Nurabot completed 75 to 80 daily tasks, reducing nurse workload by up to 30 percent by automating medication transport. This technological assistance provides a key benefit by saving nurses' time for patient observation. However, robots cannot train new nurses, solve unequal global distribution, or offer human empathy. Therefore, health leaders must invest in nurse training and retention while deploying robots strictly for routine support."
   },
   "selfCheck": {
     "title": "Self-check",
     "instructions": "Before you submit, review your work using the checklist below.",
     "items": [
-      "I stated a clear position on expanding nursing robots.",
+      "I stated a clear recommendation combining workforce policies and technology.",
+      "I explained at least two causes of the global nursing shortage.",
       "I included at least two numerical or factual details from the article.",
-      "I explained at least one specific benefit for nurses or patients.",
-      "I explained at least one limitation, technical risk, or ethical concern.",
-      "I used cautious language (e.g., deployment data suggests, may help, does not prove).",
-      "I used contrast connectors (e.g., although, while, however, rather than).",
-      "I recommended a clear division of responsibilities between nurses and robots.",
+      "I evaluated one benefit and one limitation of nursing robots like Nurabot.",
+      "I recommended specific human workforce policies (education, retention, mental health).",
+      "I used cautious language (e.g., WHO reports, deployment data suggests, may help).",
+      "I used cause-and-effect connectors and contrast connectors.",
       "I wrote between 100 and 140 words.",
       "I compared my paragraph with the Model Answer and reviewed feedback."
     ]
   },
   "teacher": {
     "answerKey": {
-      "mainIdea": "A. Nurabot is designed to perform repetitive transport work to reduce nurses' workload, but it serves as a collaborative assistant under human supervision rather than replacing human care.",
+      "mainIdea": "A. The worldwide nursing shortage results from several connected causes and unequal workforce distribution, so hospitals and governments need both human-centered workforce policies and carefully supervised technologies such as Nurabot.",
       "readingComprehension": {
-        "rc1": "B. A severe global nursing shortage is projected to leave hospitals understaffed by approximately 4.1 million nurses by 2030.",
-        "rc2": "C. Foxconn developed Nurabot as an AI-powered collaborative assistant to support human nurses.",
-        "rc3": "A. Transporting medications, moving lab specimens, carrying heavy equipment, and navigating ward halls.",
-        "rc4": "B. Deployment data showed Nurabot completed 75–80 daily tasks, reducing nurses' workload by up to 30% during field testing.",
-        "rc5": "C. Robots lack human clinical judgment, emotional empathy, complex observation skills, and social communication.",
-        "rc6": "C. The best healthcare approach is a balanced human–robot collaboration where technology handles routine tasks under human supervision."
+        "rc1": "B. The global workforce reached approximately 29.8 million nurses, yet hospitals faced an estimated global shortage of 5.8 million.",
+        "rc2": "A. Expanding aging populations, expected retirements (~19% in 10 years), burnout, low pay, inadequate training capacity, and international migration.",
+        "rc3": "B. Approximately 78% of the world's nurses serve countries with only 49% of global population, and 70% of the 2030 shortage is projected for Africa and Eastern Mediterranean regions.",
+        "rc4": "B. Understaffing increases heavy workloads and physical fatigue, leading to burnout; as burnout causes nurses to leave, understaffing worsens for remaining staff.",
+        "rc5": "C. It can perform routine transport of prescription medications, lab specimens, and supplies, completing 75–80 daily tasks and reducing workload by up to 30% in trials.",
+        "rc6": "B. Automated machines cannot train new nurses, fix unequal global distribution, repair poor working conditions, or replace human clinical judgment and empathy."
       },
       "evidenceFromText": {
-        "ev1": "Deployment data from field validation at Taichung Veterans General Hospital showed that Nurabot completed approximately 75 to 80 transport tasks per day, which reduced participating nurses' daily workload by up to 30 percent.",
-        "ev2": "The article argues that nursing requires complex clinical judgment, emotional care, and empathy when evaluating patient pain or comforting families. Robots can transport items, but they cannot provide human observation or emotional support.",
-        "ev3": "Hospitals must consider risks such as technical software failures, system errors, patient privacy concerns, and the requirement for constant human supervision. Additionally, trial data from one hospital does not guarantee universal results for every facility."
+        "ev1": "According to the World Health Organization, 78 percent of the world's nurses serve countries containing only 49 percent of the global population. Furthermore, 70 percent of the projected 2030 shortage is expected to be concentrated in the African and Eastern Mediterranean Regions.",
+        "ev2": "A nursing shortage increases the daily workload and physical fatigue of remaining staff, leading to stress and burnout. When burnout causes nurses to resign or retire, understaffing becomes even worse, creating a continuous feedback loop.",
+        "ev3": "Deployment data from Foxconn showed Nurabot completed 75 to 80 daily transport tasks, reducing workload by up to 30 percent in a trial. However, this early trial data from one hospital does not prove universal results, and robots cannot train nurses, fix low pay, or provide human empathy."
       },
       "languageFocus": {
-        "lf1": "Rather than replacing nurses, deployment data suggests that Nurabot may help healthcare workers by performing routine transport tasks under human supervision.",
-        "lf2": "Although Nurabot can transport heavy equipment, robots cannot evaluate patient physical pain or offer emotional empathy.",
-        "lf3": "According to Foxconn's report, Nurabot reduced nurse workload by up to 30 percent.",
-        "lf4": "Rather than replacing healthcare workers, nursing robots operate under human supervision."
+        "lf1": "One factor contributing to staff burnout is heavy daily workloads in understaffed hospital wards.",
+        "lf2": "A 2024 United States survey indicated that nearly 40 percent of responding nurses expressed an intention to leave, but this regional survey data does not prove that 40 percent of nurses worldwide will resign.",
+        "lf3": "A more effective solution would combine investments in university nursing education with the deployment of supervised collaborative robots for routine supply transport.",
+        "lf4": "Heavy workloads cause fatigue, creating a feedback loop in which burnout drives nurse resignations and worsens understaffing."
       },
       "writingPractice": {
-        "wp1": "Rather than replacing nurses, deployment data suggests that Nurabot may help healthcare staff by handling repetitive transport tasks under human supervision.",
-        "wp2": "Although Nurabot can reduce nurses' daily transport work by up to 30 percent, it cannot provide the human empathy and clinical judgment essential for patient care.",
-        "wp3": "According to deployment data from Foxconn, Nurabot completed approximately 75 to 80 transport tasks per day during hospital validation testing. This automated assistance reduced participating nurses' daily workload by up to 30 percent.",
-        "wp4": "Hospitals should deploy nursing robots for routine supply and specimen transport while reserving direct patient care and medical decisions for human nurses. This collaborative approach protects patient safety while improving hospital efficiency."
+        "wp1": "When hospitals operate understaffed, remaining nurses face heavier workloads and physical fatigue. This situation leads to severe workplace burnout, which compels more nurses to resign and further worsens hospital understaffing.",
+        "wp2": "Deployment data from Foxconn suggests that Nurabot may help reduce nurses' routine transport workload; however, technology alone cannot solve the global nursing shortage because robots cannot train new nurses or fix unequal distribution.",
+        "wp3": "Investing in nursing university programs increases the long-term supply of qualified human nurses across regions. In contrast, deploying nursing robots like Nurabot provides immediate short-term support by automating routine medication and specimen transport within hospital wards.",
+        "wp4": "Governments and hospital administrators should combine increased funding for nursing education and mental-health support with the deployment of supervised collaborative robots like Nurabot for routine supply transport. This dual strategy addresses root workforce causes while protecting nurse wellbeing and patient safety."
       }
     },
-    "modelAnswer": "Hospitals should cautiously expand the use of nursing robots such as Nurabot to support healthcare staff. According to updated estimates from the World Health Organization, the global nursing shortage is projected to reach 4.1 million by 2030. In field trials at Taichung Veterans General Hospital, Foxconn reported that Nurabot completed 75 to 80 daily tasks, reducing nurses' workload by up to 30 percent. This automated assistance provides a key benefit by giving nurses more time for direct patient observation and clinical care. However, robots carry limitations including technical system errors, privacy risks, and a complete lack of human empathy. Therefore, hospitals should delegate routine medication and specimen transport to robots while reserving all clinical decisions and patient support for human nurses.",
+    "modelAnswer": "Governments and hospitals should respond to the global nursing shortage by combining human workforce policies with carefully supervised technology. According to the World Health Organization, the global nursing shortage reached 5.8 million in 2023, driven by causes such as staff burnout, low pay, and expected retirements of nearly 19 percent of nurses over the next decade. In hospital trials, Foxconn reported that Nurabot completed 75 to 80 daily tasks, reducing nurse workload by up to 30 percent by automating medication transport. This technological assistance provides a key benefit by saving nurses' time for patient observation. However, robots cannot train new nurses, solve unequal global distribution, or offer human empathy. Therefore, health leaders must invest in nurse training and retention while deploying robots strictly for routine support.",
     "rubric": [
       {
-        "category": "Position and Recommendation",
-        "excellent": "States a clear, nuanced position on expanding nursing robots and provides a practical recommendation dividing duties between robots and nurses.",
-        "developing": "States a position on robot expansion, but recommendation lacks clarity on specific job division.",
-        "beginning": "Fails to state a position or recommendation regarding nursing robot expansion."
+        "category": "Position and Policy Recommendation",
+        "excellent": "States a clear position recommending a dual strategy combining human workforce policies (education, retention, mental health) with carefully supervised technology.",
+        "developing": "Recommends combining policies and technology, but details on workforce policies or job division are vague.",
+        "beginning": "Fails to state a recommendation or focuses solely on one narrow solution."
       },
       {
-        "category": "Use of Evidence",
-        "excellent": "Integrates at least two precise numerical/factual details from the text (e.g. 4.1 million WHO shortage, 75–80 tasks, 30% reduction) using attribution phrases.",
-        "developing": "Includes one factual detail from the text, but lacks precise numbers or clear source attribution.",
-        "beginning": "Uses no article evidence or relies entirely on general unverified claims."
+        "category": "Use of Evidence & Source Attribution",
+        "excellent": "Integrates at least two precise numerical/factual details from the text (e.g. 5.8M shortage, 78%/49% distribution, ~19% retirement, 30% trial workload reduction) using clear source attribution.",
+        "developing": "Uses one factual detail, but lacks precise numbers or source attribution (e.g. WHO, Foxconn).",
+        "beginning": "Uses no article evidence or relies on unverified global claims."
       },
       {
-        "category": "Balance of Benefits and Limitations",
-        "excellent": "Thoroughly explains both a operational benefit (e.g. routine transport, fatigue reduction) and a critical limitation (e.g. privacy, software error, lack of empathy).",
-        "developing": "Mentions a benefit and a limitation, but one side lacks explanation or depth.",
-        "beginning": "Focuses exclusively on benefits or limitations without providing a balanced view."
+        "category": "Cause Explanation & Feedback Loop",
+        "excellent": "Clearly explains multiple causes of the shortage (e.g., retirement, low pay, migration, burnout) and articulates the shortage–burnout feedback loop.",
+        "developing": "Mentions one or two causes, but does not explain how shortage and burnout reinforce each other.",
+        "beginning": "Omits causes or presents the shortage as having a single simple cause."
       },
       {
-        "category": "Organization and Cohesion",
-        "excellent": "Paragraph is logically structured with a topic sentence, evidence, contrast connectors (although, while, however), and a strong concluding recommendation.",
-        "developing": "Structure is recognizable, but transitions between benefits and limitations feel abrupt.",
-        "beginning": "Lacks paragraph organization, topic sentence, or logical sentence progression."
+        "category": "Technology Evaluation (Benefits & Limits)",
+        "excellent": "Thoroughly evaluates both a specific benefit of Nurabot (routine transport, saving walking time) and its structural limitations (cannot train nurses, fix distribution, or provide empathy).",
+        "developing": "Evaluates a benefit and a limitation, but lacks explanation of structural limitations.",
+        "beginning": "Presents technology as a complete cure-all or completely useless without balanced evaluation."
       },
       {
-        "category": "Language Accuracy and Academic Style",
-        "excellent": "Meets 100–140 word target, uses cautious modal language, and exhibits minimal mechanical or grammatical errors.",
-        "developing": "Slightly outside word count range or contains occasional grammatical errors that interrupt flow.",
+        "category": "Language Accuracy, Connectors & Style",
+        "excellent": "Meets 100–140 word target, uses cautious modal language, incorporates cause-and-effect and contrast connectors, and exhibits minimal mechanical errors.",
+        "developing": "Slightly outside word count range or contains occasional grammatical errors that disrupt flow.",
         "beginning": "Significantly under or over word count with frequent mechanical errors."
       }
     ],
     "teacherNotes": [
-      "Source Adaptation: Explain that the teacher-provided source image introduced Nurabot's 2026 launch and trial at Taichung Veterans General Hospital.",
-      "Corrected WHO Figure: Clarify that while older source materials cited 4.5M, updated 2023 WHO data estimates global nurse shortages will fall to approximately 4.1 million by 2030.",
-      "Transport vs. Administration: Emphasize that Nurabot TRANSPORTS medication and specimens between hospital locations; it does NOT independently administer medications to patients.",
-      "Corporate Deployment Data: Teach students to evaluate corporate trial claims cautiously (e.g. 'according to Foxconn's report') rather than accepting 30% workload reduction as universal scientific proof.",
-      "Avoiding Technological Determinism: Guide students to understand that technology alone does not solve healthcare crises; human staffing policy, fair pay, and education remain crucial.",
-      "Robot Support vs. Nurse Replacement: Reinforce that nursing involves complex human judgment and emotional empathy that automated machines cannot replicate.",
-      "Privacy and Safety Concerns: Discuss operational risks including software glitches, sensor failure in crowded wards, battery depletion, and patient data privacy.",
-      "Discussion Management: Encourage respectful debate during warm-up regarding which hospital tasks are suitable for automation versus human-only care.",
-      "ESL Scaffolding: Provide sentence frames and connector lists for G1/G2 students attempting balanced recommendation paragraphs.",
-      "Writing Correction Priorities: Focus feedback on clear position statements, cautious evidence reporting, and contrast connectors rather than minor spelling mistakes.",
-      "Human-Centered Tech Extension: For advanced students, prompt discussion on how hospital design can integrate robotics without reducing human warmth in care."
+      "1. Historical Maps Context: Explain that the 2018 global nursing-density map and March 2022 US staffing map in teacher visual materials represent historical snapshots, not current 2026 facts.",
+      "2. Evaluating Survey Percentages: Clarify that visual survey percentages (such as US NCSBN 39.9%/41.3% intention to leave) represent regional survey samples, not global facts.",
+      "3. Total Workforce vs. Shortage: Distinguish between the global nursing workforce size (29.8M in 2023) and the global shortage (5.8M in 2023; projected 4.1M in 2030).",
+      "4. Unequal Global Distribution: Emphasize the core distribution inequality: 78% of nurses serve 49% of the world's population, with 70% of future shortages in Africa and the Eastern Mediterranean.",
+      "5. Global vs. Regional Survey Data: Teach students to distinguish global WHO epidemiological data from single-country workforce surveys (like the US NCSBN study).",
+      "6. Intention to Leave vs. Departure: Remind students that an 'intention to leave' in a survey does not equal actual departure; retention policies can change nurse decisions.",
+      "7. Migration Rights vs. Workforce Loss: Facilitate ethical discussion on the tension between a nurse's right to international migration and the severe loss of healthcare workers in developing source nations.",
+      "8. Burnout Feedback Loop: Explain how understaffing causes fatigue and burnout, which causes resignations, making understaffing worse in a continuous cycle.",
+      "9. Developer Data vs. Independent Proof: Remind students that Foxconn's 75-80 task count and 30% workload reduction represent developer deployment data, not universal independent scientific proof.",
+      "10. Technology as Partial Support: Reinforce that robots like Nurabot provide routine transport support, but cannot solve root workforce causes like education, pay, or working conditions.",
+      "11. Avoiding Technological Determinism: Guide students to see that technology is a tool within a broader system; human policy reforms remain essential.",
+      "12. Recommended ESL Scaffolding: Provide sentence frames for G1/G2 students attempting cause-and-effect and comparative policy recommendations."
     ],
     "teachingScript": [
       {
         "phase": "A. Opening and Goal — 5 minutes",
         "duration": "5 min",
-        "objective": "Set the context of global hospital staffing pressures and introduce Nurabot as a collaborative nursing assistant.",
-        "actions": "Welcome the class, write 'NURABOT: NURSING ROBOTS IN HOSPITALS' on the board, and introduce the central inquiry question.",
+        "objective": "Set the context of the global nursing shortage and introduce the central inquiry question.",
+        "actions": "Welcome the class, write 'NOT ENOUGH NURSES: CAN NURABOT HELP?' on the board, and present the lesson goal.",
         "script": [
-          "Teacher: \"Good morning, class! Today we are exploring innovation in healthcare: nursing robots like Nurabot.\"",
-          "Teacher: \"Our goal today is to read an informational news report, evaluate how robots can support nurses without replacing them, and write a balanced recommendation paragraph.\"",
-          "Teacher: \"As we read, keep our central inquiry question in mind: How can hospitals use robots to reduce nurses' workload while protecting safety and human care?\""
+          "Teacher: \"Good morning, class! Today we are examining a major worldwide healthcare puzzle: the global nursing shortage.\"",
+          "Teacher: \"Our goal is to understand why shortages happen, explore how Nurabot can assist with routine tasks, and evaluate why complete solutions require human workforce policies alongside technology.\"",
+          "Teacher: \"Keep our inquiry question in mind: Can nursing robots help solve the worldwide nursing shortage, or do hospitals need broader human-centered solutions?\""
         ],
-        "studentAction": "Students listen, review the lesson goal, and copy the central inquiry question into their notebooks.",
+        "studentAction": "Students review the lesson goal and record the central inquiry question.",
         "transition": "Let's begin with our warm-up discussion questions."
       },
       {
         "phase": "B. Warm-up Discussion — 10 minutes",
         "duration": "10 min",
-        "objective": "Activate background knowledge on hospital routines, repetitive work, and human-only nursing responsibilities.",
-        "actions": "Pair students up to discuss the 3 warm-up questions. Conduct a 5-minute whole-class share out.",
+        "objective": "Activate background knowledge on nurse migration, shortage impacts, and human vs. tech solutions.",
+        "actions": "Pair students to discuss the 3 warm-up questions. Lead a brief whole-class share out.",
         "script": [
-          "Teacher: \"Turn to your partner and discuss Question 1: What repetitive tasks do nurses perform in hospitals every day?\"",
-          "Teacher: \"Now look at Question 2 and 3: Which tasks could robots safely handle, and what parts of nursing MUST require human judgment?\"",
-          "Teacher: \"Great responses! Carrying medicine or linens is physical transport work, but comforting a frightened patient requires human empathy.\""
+          "Teacher: \"Discuss Question 1 with your partner: Why might a country have a nursing shortage even if it trains many nurses?\"",
+          "Teacher: \"Think about international migration, low pay, and burnout.\"",
+          "Teacher: \"Now look at Question 3: Which solutions require human workers, and which tasks can robots handle?\"",
+          "Teacher: \"Great points! Training nurses requires human faculty, but transporting medications can be delegated to robots.\""
         ],
-        "studentAction": "Students discuss in pairs, share examples (e.g. carrying meals, delivering blood samples, talking with patients), and record ideas.",
-        "transition": "Now let's preview key vocabulary from the news report."
+        "studentAction": "Students discuss in pairs and share ideas regarding migration, burnout, university capacity, and robot transport.",
+        "transition": "Now let's preview key vocabulary from the report."
       },
       {
         "phase": "C. Vocabulary Preview — 12 minutes",
         "duration": "12 min",
         "objective": "Pre-teach 10 target vocabulary items with concept checks and context sentences.",
-        "actions": "Present the 10 target words: nursing shortage, repetitive, collaborate, workload, transport, specimen, navigate, deployment, supervision, empathy.",
+        "actions": "Present the 10 terms: nursing shortage, workforce, burnout, retire, retain, unequal distribution, migrate, workload, collaborative, supervision.",
         "script": [
-          "Teacher: \"Let's examine three critical terms: 'nursing shortage,' 'deployment,' and 'empathy.'\"",
-          "Teacher: \"If a hospital faces a nursing shortage, does it have enough nurses? No, there are not enough qualified nurses available.\"",
-          "Teacher: \"When we speak of robot deployment, we mean putting the technology into active use in real hospital wards.\"",
-          "Teacher: \"Finally, can a robot feel empathy for a patient? No, empathy is the human ability to feel and share another's emotions.\""
+          "Teacher: \"Let's check three key terms: 'unequal distribution,' 'migrate,' and 'burnout.'\"",
+          "Teacher: \"If healthcare has an unequal distribution, are nurses spread evenly across all countries? No, 78% are in wealthy nations with only 49% of population.\"",
+          "Teacher: \"When nurses migrate, do they move to another country for better pay? Yes.\"",
+          "Teacher: \"And what causes burnout? Heavy workloads and prolonged stress.\""
         ],
-        "studentAction": "Students read definitions, examine context sentences, and answer concept-check questions.",
-        "transition": "Let's read the article silently for the first time to identify the main idea."
+        "studentAction": "Students read definitions, examine context sentences, and complete concept checks.",
+        "transition": "Let's read the article silently to find the main idea."
       },
       {
         "phase": "D. First Reading and Main Idea — 10 minutes",
         "duration": "10 min",
-        "objective": "Guide students through first reading for gist and answer the Main Idea MCQ.",
-        "actions": "Direct students to read the 6-paragraph article silently. Then guide them to complete the Main Idea MCQ.",
+        "objective": "Guide first reading for gist and answer the Main Idea MCQ.",
+        "actions": "Direct silent reading of the 6-paragraph report. Guide students to select the Main Idea answer.",
         "script": [
-          "Teacher: \"Read the article quietly. Pay attention to what Nurabot does, what the trial data showed, and what it CANNOT do.\"",
-          "Teacher: \"Now look at the Main Idea question. Option A highlights that Nurabot performs repetitive transport work to reduce workload under supervision, but does not replace nurses. Option B incorrectly claims it replaced all nurses. Option A is correct!\""
+          "Teacher: \"Read the article quietly. Look for multiple causes, geographic distribution, Nurabot deployment data, and policy recommendations.\"",
+          "Teacher: \"Now look at the Main Idea question. Option A explains that the shortage results from several connected causes and unequal distribution, requiring both workforce policies and supervised technology. Option A is correct!\""
         ],
-        "studentAction": "Students complete silent reading and select Option A for Main Idea MCQ.",
-        "transition": "Now let's analyze the text in detail to answer reading comprehension questions."
+        "studentAction": "Students read silently and select Option A for the Main Idea MCQ.",
+        "transition": "Let's analyze the text in detail to complete reading comprehension questions."
       },
       {
         "phase": "E. Detailed Reading and Evidence — 20 minutes",
         "duration": "20 min",
-        "objective": "Deepen passage comprehension and guide students in extracting specific article evidence.",
-        "actions": "Guide students through the 6 comprehension MCQs and 3 Evidence written responses.",
+        "objective": "Deepen text comprehension and guide evidence extraction.",
+        "actions": "Guide students through the 6 MCQs and 3 Evidence written responses.",
         "script": [
-          "Teacher: \"Let's check Comprehension Question 4: What do the trial numbers from Taichung Hospital show?\"",
-          "Teacher: \"Option B is correct: 75 to 80 daily tasks completed, reducing nurse workload by up to 30 percent during the field test.\"",
-          "Teacher: \"Now for Evidence Question 1: Make sure your answer quotes or references the exact numbers: 75 to 80 tasks and up to 30% reduction from Foxconn's deployment data.\""
+          "Teacher: \"Look at Comprehension Question 3: What evidence shows unequal distribution?\"",
+          "Teacher: \"Option B is correct: 78% of nurses serve 49% of population, and 70% of future shortages will be in Africa and the Eastern Mediterranean.\"",
+          "Teacher: \"For Evidence Question 2: Explain the feedback loop—understaffing increases workload fatigue, causing burnout, which drives resignations, making understaffing worse.\""
         ],
-        "studentAction": "Students complete the 6 MCQs, review O/X feedback, and write evidence responses using Check & Compare.",
-        "transition": "Let's examine how careful writers use evidence reporting and cautious language."
+        "studentAction": "Students complete MCQs, review O/X feedback, and write evidence responses using Check & Compare.",
+        "transition": "Let's examine cause-and-effect language and source analysis in Language Focus."
       },
       {
         "phase": "F. Comprehension and Language Focus — 13 minutes",
         "duration": "13 min",
-        "objective": "Teach cautious modal language, evidence reporting phrases, and contrast connectors.",
-        "actions": "Explain the Language Focus box, model examples on the board, and guide the 4 practice activities.",
+        "objective": "Teach cause-and-effect connectors, cautious evidence evaluation, and source analysis skills.",
+        "actions": "Explain Language Focus patterns, model source analysis (distinguishing global facts from regional US survey data and historical 2018/2022 maps), and guide practice.",
         "script": [
-          "Teacher: \"Notice how academic writers avoid overgeneralization. Instead of saying 'Robots replace nurses,' we write 'Deployment data suggests robots may reduce workload.'\"",
-          "Teacher: \"We also use contrast words like 'although' or 'while' to balance benefits with limitations.\"",
-          "Teacher: \"Let's rewrite Exercise 1 together using 'rather than' and 'may help.'\""
+          "Teacher: \"In academic writing, we use cause-and-effect phrases like 'One factor contributing to...' and 'This creates a feedback loop in which...'.\"",
+          "Teacher: \"We also analyze sources carefully: A US survey showing 40% intention to leave shows stress in one country, but it is NOT a global fact or an actual departure count.\"",
+          "Teacher: \"Let's complete Practice Exercise 2 together using cautious language.\""
         ],
-        "studentAction": "Students review language patterns, complete practice exercises 1–4, and check responses.",
+        "studentAction": "Students complete Language Focus practice exercises 1–4 and review source analysis notes.",
         "transition": "Now you are ready to write your final recommendation paragraph."
       },
       {
         "phase": "G. Writing Practice and Final Task — 15 minutes",
         "duration": "15 min",
-        "objective": "Guide students in drafting a 100–140 word balanced evidence-based recommendation paragraph.",
-        "actions": "Review the Writing Task prompt, rubric criteria, and 10-point checklist. Monitor student writing.",
+        "objective": "Guide students in drafting a 100–140 word recommendation paragraph combining workforce policies and technology.",
+        "actions": "Review prompt, rubric criteria, and 10-point checklist. Monitor student drafting.",
         "script": [
-          "Teacher: \"Your prompt asks: Should hospitals expand the use of nursing robots such as Nurabot?\"",
-          "Teacher: \"Aim for 100 to 140 words. State your position, include two numerical facts from the article, explain one benefit and one limitation, and recommend a clear division of duties between nurses and robots.\"",
-          "Teacher: \"Use cautious words like 'deployment data suggests' and contrast connectors like 'however' or 'although.'\""
+          "Teacher: \"Your prompt asks: What combination of solutions should governments and hospitals use to respond to nursing shortages?\"",
+          "Teacher: \"Aim for 100 to 140 words. State your position, explain two causes, include two article facts, evaluate one benefit and one limitation of Nurabot, and recommend combining human workforce policies with technology.\"",
+          "Teacher: \"Use cause connectors like 'as a result' and contrast connectors like 'however' or 'although.'\""
         ],
-        "studentAction": "Students draft their recommendation paragraphs while tracking live word count.",
+        "studentAction": "Students draft their recommendation paragraphs while monitoring live word count.",
         "transition": "Finish your draft and complete the Self-check checklist before submitting."
       },
       {
         "phase": "H. Review and Exit Reflection — 5 minutes",
         "duration": "5 min",
-        "objective": "Guide self-check completion, model answer comparison, and final student submission.",
+        "objective": "Guide self-check, model answer comparison, and student submission.",
         "actions": "Direct students to click 'Check & Compare', review feedback tips, complete Self-check items, enter name/code, and submit.",
         "script": [
-          "Teacher: \"Click 'Check & Compare' on your writing task to see rule-based feedback and compare your text with the Model Answer.\"",
-          "Teacher: \"Check off all 9 items on your Self-check checklist, enter your student name and code, and click 'Submit Lesson.' Excellent work today!\""
+          "Teacher: \"Click 'Check & Compare' on your writing task to see rule-based feedback and compare your paragraph with the Model Answer.\"",
+          "Teacher: \"Check off all 9 items on your Self-check checklist, enter your student name and code, and click 'Submit Lesson.' Outstanding work today!\""
         ],
         "studentAction": "Students inspect model answer, complete self-check items, enter student details, and submit.",
-        "transition": "Your submissions are now saved and available on the Teacher Submissions Monitor."
+        "transition": "Your submissions are now saved and visible on the Teacher Submissions Monitor."
       }
     ],
     "detailedReadingGuide": {
       "openingScript": [
         {
-          "english": "Today we’re going to explore / how nursing robots like Nurabot / are being tested in hospitals / to support medical staff.",
-          "korean": "오늘 우리는 탐구할 겁니다 / 누라봇과 같은 간호 로봇이 / 병원에서 어떻게 시험되고 있는지를 / 의료진을 지원하기 위해."
+          "english": "Today we’re going to explore / a worldwide healthcare puzzle: / the global nursing shortage / and whether technology like Nurabot can help.",
+          "korean": "오늘 우리는 탐구할 겁니다 / 전 세계적인 보건의료 과제를: / 전 세계 간호사 부족 현상과 / 누라봇과 같은 기술이 도움이 될 수 있는지를."
         },
         {
-          "english": "With a global nursing shortage / projected to reach 4.1 million by 2030, / hospitals are looking for ways / to reduce physical workload.",
-          "korean": "전 세계 간호사 부족이 / 2030년까지 410만 명에 달할 것으로 예측되는 상황에서, / 병원들은 방법을 찾고 있습니다 / 육체적 업무량을 줄이기 위한."
+          "english": "While WHO projects a shortage of 4.1 million by 2030, / total global numbers hide / deep regional inequalities / across different countries.",
+          "korean": "WHO가 2030년까지 410만 명의 부족을 예측하고 있지만, / 전체 전 세계 수치는 감추고 있습니다 / 깊은 지역적 불평등을 / 서로 다른 국가들 사이의."
         },
         {
-          "english": "Nurabot carries out routine transport tasks, / but it operates under human supervision / and cannot replace human empathy.",
-          "korean": "누라봇은 일상적인 수송 업무를 수행합니다, / 하지만 이것은 인간의 감독 하에 작동하며 / 인간의 공감을 대체할 수는 없습니다."
+          "english": "Nurabot can reduce daily transport workload, / but it cannot train new nurses, / fix low pay, / or replace human clinical judgment.",
+          "korean": "누라봇은 일일 수송 업무량을 줄일 수 있지만, / 신규 간호사를 양성하거나, / 낮은 임금을 해결하거나, / 인간의 임상적 판단을 대체할 수는 없습니다."
         },
         {
-          "english": "As we read, / evaluate both the operational benefits / and the essential human limits of healthcare technology.",
-          "korean": "우리가 읽으면서, / 운용상의 이점과 / 보건의료 기술의 필수적인 인간적 한계를 모두 평가해 봅시다."
+          "english": "As we read, / evaluate how hospitals can combine / human workforce policies / with carefully supervised technology.",
+          "korean": "우리가 읽으면서, / 병원들이 어떻게 결합할 수 있는지를 평가해 봅시다 / 인간 인력 정책과 / 신중하게 감독되는 기술을."
         }
       ],
       "warmUpDiscussion": [
         {
-          "question": "What repetitive tasks / do nurses perform / in hospitals?",
-          "translation": "간호사들은 병원에서 어떤 반복적인 업무를 수행하나요?",
-          "followUp": "How much time / do you think walking and moving items / takes away from patients?",
-          "teacherFollowUpKorean": "물품을 옮기고 걷는 것이 환자 케어 시간을 얼마나 빼앗는다고 생각하나요?",
-          "teachingPurpose": "Activates student understanding of routine transport work vs. direct patient care."
+          "question": "Why might a country / have a nursing shortage / even if it trains many nurses?",
+          "translation": "왜 어떤 국가는 많은 간호사를 교육함에도 불구하고 간호사 부족을 겪을 수 있을까요?",
+          "followUp": "Consider factors / such as international migration, / low pay, burnout, and career changes.",
+          "teacherFollowUpKorean": "국제 이주, 낮은 임금, 번아웃, 직업 변경과 같은 요인들을 고려해 보세요.",
+          "teachingPurpose": "Helps students understand that training capacity alone does not guarantee workforce retention."
         },
         {
-          "question": "Which hospital tasks / could robots / safely help with?",
-          "translation": "어떤 병원 업무를 로봇이 안전하게 도울 수 있을까요?",
-          "followUp": "Why is transporting supplies / safer for a robot / than administering medication directly?",
-          "teacherFollowUpKorean": "왜 약품 수송이 환자에게 직접 약을 투여하는 것보다 로봇에게 더 안전할까요?",
-          "teachingPurpose": "Helps students distinguish routine delivery from high-risk medical procedures."
+          "question": "How can a nursing shortage / affect both patients / and healthcare workers?",
+          "translation": "간호사 부족은 환자와 의료 노동자 모두에게 어떤 영향을 미치나요?",
+          "followUp": "How does understaffing / lead to longer waiting times / and higher staff burnout?",
+          "teacherFollowUpKorean": "인력 부족이 어떻게 더 긴 대기 시간과 더 높은 직원 번아웃으로 이어지나요?",
+          "teachingPurpose": "Guides students to analyze the real-world consequences and feedback loops of understaffing."
         },
         {
-          "question": "What parts of nursing / should always require / human judgment and care?",
-          "translation": "간호의 어떤 부분이 항상 인간의 판단과 케어를 필요로 할까요?",
-          "followUp": "Can a robot / feel empathy or evaluate emotional distress? / Why not?",
-          "teacherFollowUpKorean": "로봇이 공감을 느끼거나 정서적 고통을 평가할 수 있을까요? 왜 아닐까요?",
-          "teachingPurpose": "Prepares students to explain the indispensable role of human empathy and clinical judgment."
+          "question": "Which solutions / require more human workers, / and which tasks could technology support?",
+          "translation": "어떤 해결책이 더 많은 인간 인력을 필요로 하며, 어떤 업무를 기술이 지원할 수 있나요?",
+          "followUp": "Can a robot / train university students / or provide emotional empathy to families?",
+          "teacherFollowUpKorean": "로봇이 대학생을 가르치거나 가족들에게 정서적 공감을 제공할 수 있을까요?",
+          "teachingPurpose": "Prepares students to distinguish human workforce policy needs from routine automation."
         }
       ],
       "sentences": [
         {
           "sentenceNumber": 1,
-          "original": "Across the globe, modern healthcare systems face an urgent crisis caused by a severe shortage of qualified medical staff.",
-          "chunkReading": "Across the globe, / modern healthcare systems face / an urgent crisis / caused by a severe shortage / of qualified medical staff.",
-          "directKorean": "전 세계적으로, / 현대 보건의료 체계는 직면해 있다 / 긴급한 위기에 / 심각한 부족으로 인해 발생한 / 자격을 갖춘 의료진의.",
-          "naturalKorean": "전 세계적으로 현대 보건의료 체계는 자격을 갖춘 의료진의 심각한 부족으로 인한 긴급한 위기에 직면해 있습니다.",
+          "original": "Across the globe, modern healthcare systems face an urgent challenge caused by a severe shortage of qualified medical staff.",
+          "chunkReading": "Across the globe, / modern healthcare systems face / an urgent challenge / caused by a severe shortage / of qualified medical staff.",
+          "directKorean": "전 세계적으로, / 현대 보건의료 체계는 직면해 있다 / 긴급한 과제에 / 심각한 부족으로 인해 발생한 / 자격을 갖춘 의료진의.",
+          "naturalKorean": "전 세계적으로 현대 보건의료 체계는 자격을 갖춘 의료진의 심각한 부족으로 인한 긴급한 과제에 직면해 있습니다.",
           "mustKnowChunks": [
             {
               "chunk": "across the globe",
               "meaning": "전 세계적으로",
-              "use": "지구 전역에서 일어나는 현상을 설명할 때 쓰입니다.",
-              "example": "Across the globe, hospitals need more nurses."
+              "use": "전 지구적 규모에서 나타나는 현상을 설명합니다.",
+              "example": "Across the globe, healthcare demand is rising."
             },
             {
-              "chunk": "an urgent crisis",
-              "meaning": "긴급한 위기",
-              "use": "즉각적인 대응이 필요한 심각한 문제를 나타냅니다.",
-              "example": "The staffing shortage has created an urgent crisis."
+              "chunk": "an urgent challenge",
+              "meaning": "긴급한 과제/도전",
+              "use": "즉각적인 대책이 필요한 중대한 문제입니다.",
+              "example": "The nursing shortage is an urgent challenge."
             },
             {
               "chunk": "qualified medical staff",
               "meaning": "자격을 갖춘 의료진",
-              "use": "정식 교육과 면허를 보유한 전문 인력을 뜻합니다.",
-              "example": "Hospitals require qualified medical staff to ensure safety."
+              "use": "정식 면허와 전문 교육을 받은 인력을 의미합니다.",
+              "example": "Hospitals require qualified medical staff for patient safety."
             }
           ],
-          "mustKnowGrammar": "주어 'modern healthcare systems' 뒤에 타동사 'face'와 목적어 'an urgent crisis'가 오고, 과거분사구 'caused by...'가 위기를 수식합니다.",
-          "feynmanExplanation": "'urgent crisis'는 당장 해결하지 않으면 위험해지는 아주 큰 문제를 뜻하고, 'qualified medical staff'는 면허가 있는 진짜 간호사와 의사 선생님들을 의미해요.",
+          "mustKnowGrammar": "주어 'modern healthcare systems'에 타동사 'face'와 목적어 'an urgent challenge'가 오고, 과거분사구 'caused by...'가 수식합니다.",
+          "feynmanExplanation": "전 세계 병원들이 간호사 선생님들이 부족해서 큰 어려움을 겪고 있다는 도입 문장입니다.",
           "teachingTranscript": [
             {
-              "english": "Look at sentence 1: 'modern healthcare systems face an urgent crisis.' What is causing this crisis?",
-              "korean": "1번 문장을 보세요: '현대 보건의료 체계는 긴급한 위기에 직면해 있습니다.' 이 위기의 원인은 무엇인가요?"
+              "english": "Sentence 1 sets the scene: 'modern healthcare systems face an urgent challenge.' What is this challenge?",
+              "korean": "1번 문장이 상황을 설명합니다: '현대 보건의료 체계는 긴급한 과제에 직면해 있습니다.' 이 과제는 무엇인가요?"
             },
             {
-              "english": "It is caused by a severe shortage of qualified nurses.",
-              "korean": "자격을 갖춘 간호사의 심각한 부족 때문입니다."
+              "english": "It is a global shortage of qualified nurses and medical staff.",
+              "korean": "자격을 갖춘 간호사와 의료진의 전 세계적인 부족 문제입니다."
             }
           ]
         },
         {
           "sentenceNumber": 2,
-          "original": "According to updated estimates from the World Health Organization, the global nursing shortage reached approximately 5.8 million in 2023 and is projected to remain around 4.1 million by 2030.",
-          "chunkReading": "According to updated estimates / from the World Health Organization, / the global nursing shortage / reached approximately 5.8 million in 2023 / and is projected to remain / around 4.1 million by 2030.",
-          "directKorean": "최신 추정치에 따르면 / 세계보건기구로부터의, / 전 세계 간호사 부족은 / 2023년에 약 580만 명에 달했다 / 그리고 남아있을 것으로 예측된다 / 2030년까지 약 410만 명으로.",
-          "naturalKorean": "세계보건기구(WHO)의 최신 추정치에 따르면, 전 세계 간호사 부족 인원은 2023년에 약 580만 명에 달했으며 2030년까지도 약 410만 명 수준을 유지할 것으로 전망됩니다.",
+          "original": "According to updated report data from the World Health Organization, the global nursing workforce reached approximately 29.8 million in 2023, yet hospitals faced an estimated global shortage of 5.8 million nurses.",
+          "chunkReading": "According to updated report data / from the World Health Organization, / the global nursing workforce reached / approximately 29.8 million in 2023, / yet hospitals faced / an estimated global shortage of 5.8 million nurses.",
+          "directKorean": "최신 보고서 데이터에 따르면 / 세계보건기구로부터의, / 전 세계 간호 인력은 달했다 / 2023년에 약 2,980만 명에, / 그러나 병원들은 직면했다 / 약 580만 명의 간호사 부족에.",
+          "naturalKorean": "세계보건기구(WHO)의 최신 보고서 데이터에 따르면, 2023년 전 세계 간호 인력은 약 2,980만 명에 달했으나 병원들은 여전히 약 580만 명의 간호사 부족에 직면해 있었습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "according to updated estimates",
-              "meaning": "최신 추정치에 따르면",
-              "use": "공식 출처의 검증된 통계 수치를 인용할 때 사용합니다.",
-              "example": "According to updated estimates, nurse shortages will persist."
+              "chunk": "global nursing workforce",
+              "meaning": "전 세계 간호 인력",
+              "use": "지구상에 활성화되어 있는 전체 간호 인력 수입니다.",
+              "example": "The global nursing workforce reached 29.8 million."
             },
             {
-              "chunk": "is projected to remain",
-              "meaning": "~로 유지될 것으로 예측된다",
-              "use": "수동태 미래 추정(be projected to) 표현입니다.",
-              "example": "The deficit is projected to remain high until 2030."
+              "chunk": "estimated global shortage",
+              "meaning": "추정된 전 세계 부족 수치",
+              "use": "공식 기구가 계산한 부족한 간호사 수입니다.",
+              "example": "WHO reported an estimated global shortage of 5.8 million."
             }
           ],
-          "mustKnowGrammar": "전치사구 'According to...'로 시작하고, 주어 'the global nursing shortage'에 동사 'reached'와 'is projected'가 병렬 구조로 연결되어 있습니다.",
-          "feynmanExplanation": "WHO 통계에 따르면 2023년에 간호사가 580만 명이나 부족했고, 2030년이 되어도 여전히 410만 명이나 부족할 것이라는 예측입니다.",
+          "mustKnowGrammar": "출처 인용구 'According to...', 주어 'the global nursing workforce', 접속사 'yet'에 의해 연결된 절 'hospitals faced...' 구조입니다.",
+          "feynmanExplanation": "WHO 조사에 따르면 전 세계 간호사가 2,980만 명이나 있지만, 여전히 580만 명이나 부족하다는 통계입니다.",
           "teachingTranscript": [
             {
-              "english": "Notice the updated number: 4.1 million by 2030. We use cautious evidence phrases like 'according to updated estimates.'",
-              "korean": "업데이트된 수치인 2030년 410만 명을 주목하세요. 우리는 '최신 추정치에 따르면'과 같은 신중한 근거 표현을 사용합니다."
+              "english": "Compare the total workforce (29.8M) with the shortage (5.8M). Total numbers do not mean every country has enough nurses.",
+              "korean": "전체 인력(2,980만)과 부족분(580만)을 비교해 보세요. 전체 숫자가 많다고 해서 모든 국가에 간호사가 충분하다는 뜻은 아닙니다."
             }
           ]
         },
         {
           "sentenceNumber": 3,
-          "original": "In busy hospital wards, nurses often spend several hours each day walking long distances to deliver routine supplies and move paperwork.",
-          "chunkReading": "In busy hospital wards, / nurses often spend several hours each day / walking long distances / to deliver routine supplies / and move paperwork.",
-          "directKorean": "바쁜 병동에서, / 간호사들은 흔히 매일 몇 시간을 보낸다 / 긴 거리를 걷는 데 / 일상적인 물품을 전달하고 / 서류를 옮기기 위해.",
-          "naturalKorean": "바쁜 병동에서 간호사들은 일상적인 물품을 전달하고 서류를 옮기기 위해 매일 먼 거리를 걸어 다니느라 수시간을 보내곤 합니다.",
+          "original": "Furthermore, total global numbers hide deep regional inequalities because approximately 78 percent of the world's nurses serve countries containing only 49 percent of the global population.",
+          "chunkReading": "Furthermore, / total global numbers hide / deep regional inequalities / because approximately 78 percent of the world's nurses / serve countries / containing only 49 percent of the global population.",
+          "directKorean": "게다가, / 전체 전 세계 수치는 감춘다 / 깊은 지역적 불평등을 / 왜냐하면 전 세계 간호사의 약 78퍼센트가 / 국가들에서 일하기 때문에 / 세계 인구의 단 49퍼센트만을 포함하는.",
+          "naturalKorean": "게다가 전체 세계 수치는 심각한 지역적 불평등을 가리는데, 전 세계 간호사의 약 78%가 세계 인구의 49%만을 차지하는 일부 국가에서 일하고 있기 때문입니다.",
           "mustKnowChunks": [
             {
-              "chunk": "spend several hours walking",
-              "meaning": "걷는 데 몇 시간을 보내다",
-              "use": "'spend + 시간 + -ing' 구문으로 특정 활동에 소모되는 시간을 나타냅니다.",
-              "example": "Nurses spend several hours walking each day."
+              "chunk": "deep regional inequalities",
+              "meaning": "깊은 지역적 불평등",
+              "use": "국가 간 인력 배치의 심각한 불균형을 뜻합니다.",
+              "example": "Total workforce figures hide deep regional inequalities."
             },
             {
-              "chunk": "routine supplies",
-              "meaning": "일상적인 물품들",
-              "use": "매일 반복적으로 쓰이는 의료/소모품을 뜻합니다.",
-              "example": "Delivering routine supplies consumes nursing time."
+              "chunk": "containing only 49 percent",
+              "meaning": "단지 49퍼센트만을 포함하는",
+              "use": "현재분사구 수식으로 인구 비율의 불균형을 드러냅니다.",
+              "example": "These countries serve a smaller percentage of global population."
             }
           ],
-          "mustKnowGrammar": "'spend + 시간(several hours) + 동명사(walking)' 구문이 사용되었으며, 목적을 나타내는 to부정사절 'to deliver... and move...'가 이어집니다.",
-          "feynmanExplanation": "간호사 선생님들이 환자를 케어하는 대신 물건이나 서류를 전달하느라 하루에 몇 시간씩 복도를 걸어 다녀야 한다는 내용입니다.",
+          "mustKnowGrammar": "첨가 부사 'Furthermore', 주어 'total global numbers', 동사 'hide', 이유 접속사 'because'절 내부의 수치 비교 구조입니다.",
+          "feynmanExplanation": "전 세계 간호사 10명 중 8명이 인구가 적은 부유한 나라들에 집중되어 있어서, 나머지 나라들은 간호사가 훨씬 더 부족합니다.",
           "teachingTranscript": [
             {
-              "english": "The phrase 'spend several hours walking' highlights how physical transportation drains time from patient care.",
-              "korean": "'spend several hours walking' 구문은 물품 수송이 어떻게 환자 케어 시간을 빼앗는지를 강조합니다."
+              "english": "78% of nurses serve only 49% of the population. This proves that the nursing shortage is also a distribution problem.",
+              "korean": "간호사의 78%가 인구의 49%만을 담당합니다. 이는 간호사 부족이 불균등한 분배 문제이기도 하다는 점을 증명합니다."
             }
           ]
         },
         {
           "sentenceNumber": 4,
-          "original": "To solve this problem, technology developers are creating automated machines designed to handle repetitive physical tasks.",
-          "chunkReading": "To solve this problem, / technology developers are creating / automated machines / designed to handle / repetitive physical tasks.",
-          "directKorean": "이 문제를 해결하기 위해, / 기술 개발자들은 자동화된 기계를 만들고 있다 / 처리하도록 설계된 / 반복적인 육체적 업무를.",
-          "naturalKorean": "이 문제를 해결하기 위해 기술 개발자들은 반복적인 육체적 업무를 처리하도록 설계된 자동화 로봇을 개발하고 있습니다.",
+          "original": "If current healthcare trends continue, the WHO projects that the global deficit may still remain around 4.1 million by 2030, with 70 percent of that shortage concentrated in the African and Eastern Mediterranean Regions.",
+          "chunkReading": "If current healthcare trends continue, / the WHO projects / that the global deficit / may still remain around 4.1 million by 2030, / with 70 percent of that shortage / concentrated in the African and Eastern Mediterranean Regions.",
+          "directKorean": "만약 현재의 보건의료 추세가 지속된다면, / WHO는 예측한다 / 전 세계적 부족이 / 2030년까지 여전히 약 410만 명으로 남아있을 수 있다고, / 그 부족의 70퍼센트가 / 아프리카 및 동메디터레이니언 지역에 집중된 채로.",
+          "naturalKorean": "현재의 보건의료 추세가 지속될 경우, WHO는 2030년까지도 전 세계 간호사 부족 인원이 약 410만 명 수준으로 남을 것이며, 그 부족분의 70%가 아프리카 및 동지중해 지역에 집중될 것으로 전망합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "to solve this problem",
-              "meaning": "이 문제를 해결하기 위해",
-              "use": "해결책 제시를 위한 목적의 to부정사 문두 표현입니다.",
-              "example": "To solve this problem, hospitals test automation."
+              "chunk": "if current healthcare trends continue",
+              "meaning": "현재의 보건의료 추세가 지속된다면",
+              "use": "조건절을 통한 신중한 미래 전망 표현입니다.",
+              "example": "If current trends continue, shortages will persist."
             },
             {
-              "chunk": "repetitive physical tasks",
-              "meaning": "반복적인 육체적 업무",
-              "use": "단순히 되풀이되는 몸을 쓰는 일을 가리킵니다.",
-              "example": "Robots can carry out repetitive physical tasks."
+              "chunk": "concentrated in",
+              "meaning": "~에 집중된",
+              "use": "'with + 명사 + 과거분사(concentrated)' 부대상황 구문입니다.",
+              "example": "The deficit will be concentrated in developing regions."
             }
           ],
-          "mustKnowGrammar": "부사적 용법의 'To solve this problem'으로 시작하며, 주어 'technology developers', 현재진행형 'are creating', 과거분사구 'designed to handle...'이 명사를 수식합니다.",
-          "feynmanExplanation": "반복적이고 힘든 운반 일을 대신해 줄 자동화 로봇을 만들어 간호사 부족 문제를 돕고자 하는 노력입니다.",
+          "mustKnowGrammar": "조건절 'If...', 주어 'the WHO', 동사 'projects', 명사절 'that...', 부대상황 구문 'with 70 percent... concentrated in...' 구조입니다.",
+          "feynmanExplanation": "지금처럼 가면 2030년에도 410만 명이 부족한데, 그중 70%가 아프리카와 동지중해 같은 특정 지역에 몰릴 것이라는 WHO의 전망입니다.",
           "teachingTranscript": [
             {
-              "english": "'Designed to handle' shows the specific function these automated machines are built for.",
-              "korean": "'Designed to handle'은 이 자동화 기계들이 수행하도록 만들어진 구체적 기능을 보여줍니다."
+              "english": "Notice the cautious projection: 'if current trends continue.' Predictions are not guaranteed facts.",
+              "korean": "신중한 전망을 보세요: '현재 추세가 지속된다면.' 예측은 확정된 사실이 아닌 시나리오입니다."
             }
           ]
         },
         {
           "sentenceNumber": 5,
-          "original": "One leading innovation is Nurabot, an artificial intelligence nursing robot developed by Foxconn.",
-          "chunkReading": "One leading innovation is Nurabot, / an artificial intelligence nursing robot / developed by Foxconn.",
-          "directKorean": "한 가지 선도적인 혁신은 누라봇이다, / 인공지능 간호 로봇인 / 폭스콘에 의해 개발된.",
-          "naturalKorean": "대표적인 혁신 사례 중 하나는 폭스콘(Foxconn)이 개발한 인공지능 간호 로봇인 '누라봇(Nurabot)'입니다.",
+          "original": "Understanding why nursing shortages occur requires examining several interconnected social, economic, and workplace factors.",
+          "chunkReading": "Understanding / why nursing shortages occur / requires examining / several interconnected social, economic, and workplace factors.",
+          "directKorean": "이해하는 것은 / 왜 간호사 부족이 발생하는지 / 검토하는 것을 요구한다 / 여러 상호 연결된 사회적, 경제적, 그리고 직장 요인들을.",
+          "naturalKorean": "간호사 부족이 발생하는 원인을 이해하기 위해서는 상호 연결된 다양한 사회적, 경제적, 직장 환경적 요인들을 함께 검토해야 합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "leading innovation",
-              "meaning": "선도적인 혁신",
-              "use": "업계를 이끄는 뛰어난 기술적 성과를 가리킵니다.",
-              "example": "Nurabot represents a leading innovation in healthcare."
+              "chunk": "interconnected social, economic, and workplace factors",
+              "meaning": "상호 연결된 사회적, 경제적, 직장 요인들",
+              "use": "단일 원인이 아닌 복합 원인을 나타냅니다.",
+              "example": "Shortages stem from interconnected social and workplace factors."
             },
             {
-              "chunk": "developed by Foxconn",
-              "meaning": "폭스콘에 의해 개발된",
-              "use": "과거분사구 수식으로 제조사/개발사를 명시합니다.",
-              "example": "The nursing assistant was developed by Foxconn."
+              "chunk": "requires examining",
+              "meaning": "검토하는 것을 요구한다",
+              "use": "동명사를 목적어로 취하는 동사 구문입니다.",
+              "example": "Solving the puzzle requires examining root causes."
             }
           ],
-          "mustKnowGrammar": "동격 구조: 'Nurabot' 뒤에 명사구 'an artificial intelligence nursing robot'이 쉼표로 연결되고, 과거분사구 'developed by Foxconn'이 수식합니다.",
-          "feynmanExplanation": "누라봇은 폭스콘이라는 유명 기술 기업이 병원 간호사를 돕기 위해 만든 AI 로봇 이름이에요.",
+          "mustKnowGrammar": "동명사 주어 'Understanding...', 간접의문문 'why nursing shortages occur', 동사 'requires', 동명사 목적어 'examining...' 구조입니다.",
+          "feynmanExplanation": "간호사가 왜 부족한지 알기 위해서는 돈, 사회적 변화, 일터 환경처럼 서로 얽혀 있는 여러 이유들을 살펴봐야 합니다.",
           "teachingTranscript": [
             {
-              "english": "Notice how the sentence introduces Nurabot and its developer, Foxconn.",
-              "korean": "이 문장이 누라봇과 개발사인 폭스콘을 어떻게 소개하는지 보세요."
+              "english": "Shortages have multiple causes: retirement, burnout, migration, low pay, and aging populations.",
+              "korean": "부족에는 은퇴, 번아웃, 이주, 낮은 임가, 인구 고령화 등 여러 원인이 복합적으로 작용합니다."
             }
           ]
         },
         {
           "sentenceNumber": 6,
-          "original": "The robot features movable robotic arms, multi-directional wheels, and advanced environmental sensors that allow it to navigate crowded hospital hallways safely.",
-          "chunkReading": "The robot features / movable robotic arms, / multi-directional wheels, / and advanced environmental sensors / that allow it to navigate / crowded hospital hallways safely.",
-          "directKorean": "그 로봇은 특징으로 한다 / 움직이는 로봇 팔, / 다방향 바퀴, / 그리고 첨단 환경 센서들을 / 그것이 이동할 수 있게 해주는 / 붐비는 병원 복도를 안전하게.",
-          "naturalKorean": "이 로봇은 움직이는 로봇 팔, 다방향 바퀴, 그리고 붐비는 병원 복도를 안전하게 자율 주행할 수 있게 해주는 첨단 환경 센서를 탑재하고 있습니다.",
+          "original": "In many countries, expanding aging populations increase patient demand for complex medical care while nearly 19 percent of the active nursing workforce is projected to retire within the next decade.",
+          "chunkReading": "In many countries, / expanding aging populations / increase patient demand / for complex medical care / while nearly 19 percent of the active nursing workforce / is projected to retire / within the next decade.",
+          "directKorean": "많은 국가에서, / 고령화되는 인구의 확대는 / 환자의 수요를 증가시킨다 / 복잡한 의료 케어에 대한 / 반면에 활동 중인 간호 인력의 거의 19퍼센트가 / 은퇴할 것으로 예측된다 / 향후 10년 이내에.",
+          "naturalKorean": "많은 국가에서 고령화 인구의 증가로 복잡한 의료 케어에 대한 환자 수요가 늘어나는 반면, 현재 활동 중인 간호 인력의 거의 19%가 향후 10년 이내에 은퇴할 것으로 전망됩니다.",
           "mustKnowChunks": [
             {
-              "chunk": "multi-directional wheels",
-              "meaning": "다방향 바퀴",
-              "use": "모든 방향으로 자유롭게 이동할 수 있는 바퀴 체계입니다.",
-              "example": "Multi-directional wheels help the robot turn smoothly."
+              "chunk": "expanding aging populations",
+              "meaning": "고령화되는 인구의 확대",
+              "use": "의료 수요 증가의 주원인을 뜻합니다.",
+              "example": "Expanding aging populations increase hospital load."
             },
             {
-              "chunk": "navigate crowded hospital hallways",
-              "meaning": "붐비는 병원 복도를 이동/주행하다",
-              "use": "복잡한 공간을 스스로 찾아다니는 능력을 뜻합니다.",
-              "example": "Sensors enable Nurabot to navigate crowded hospital hallways."
+              "chunk": "projected to retire",
+              "meaning": "은퇴할 것으로 예측되는",
+              "use": "수동태 'be projected to + 동사원형' 추정 구문입니다.",
+              "example": "19 percent of nurses are projected to retire soon."
             }
           ],
-          "mustKnowGrammar": "주어 'The robot'과 타동사 'features', 병렬 연결된 세 개의 목적어, 주격 관계대명사 'that'과 'allow + 목적어 + to부정사' 구문이 결합되었습니다.",
-          "feynmanExplanation": "바퀴와 팔, 센서와 카메라가 달려있어서 복잡한 병원 복도에서 사람이나 장애물을 요리조리 피하며 안전하게 다닐 수 있습니다.",
+          "mustKnowGrammar": "주절 주어 'expanding aging populations', 동사 'increase', 대조 접속사 'while'절 내부의 주어 'nearly 19 percent...'와 수동태 'is projected to retire' 구조입니다.",
+          "feynmanExplanation": "돌봐야 할 할머니, 할아버지 환자는 늘어나는데, 일하던 간호사 선생님 5명 중 1명(19%)은 10년 안에 은퇴한다는 뜻입니다.",
           "teachingTranscript": [
             {
-              "english": "The expression 'allow it to navigate' explains how sensors give the robot self-driving abilities.",
-              "korean": "'allow it to navigate' 표현은 센서가 로봇에게 어떻게 자율주행 능력을 부여하는지 설명합니다."
+              "english": "Look at the double pressure: demand goes UP because of aging, while supply goes DOWN because 19% will retire.",
+              "korean": "이중 압박을 보세요: 고령화로 수요는 올라가는데, 19%가 은퇴 예정이어서 공급은 내려갑니다."
             }
           ]
         },
         {
           "sentenceNumber": 7,
-          "original": "Rather than attempting to replace professional healthcare workers, Nurabot is designed to work alongside human staff as a collaborative assistant.",
-          "chunkReading": "Rather than attempting to replace / professional healthcare workers, / Nurabot is designed to work / alongside human staff / as a collaborative assistant.",
-          "directKorean": "대체하려고 시도하기보다 / 전문 보건의료 노동자들을, / 누라봇은 작동하도록 설계되었다 / 인간 의료진 곁에서 / 협력적인 보조자로서.",
-          "naturalKorean": "누라봇은 전문 의료진을 대체하려는 것이 아니라, 인간 의료진 곁에서 협력 보조자로 함께 일하도록 설계되었습니다.",
+          "original": "Additionally, inadequate training capacity, unequal pay, and poor working conditions compel many qualified nurses to migrate to higher-paying locations or leave the profession entirely.",
+          "chunkReading": "Additionally, / inadequate training capacity, unequal pay, and poor working conditions / compel many qualified nurses / to migrate to higher-paying locations / or leave the profession entirely.",
+          "directKorean": "게다가, / 부적절한 교육 용량, 불평등한 임금, 그리고 열악한 근무 조건은 / 많은 자격을 갖춘 간호사들이 ~하게 강요한다 / 더 임금이 높은 지역으로 이주하거나 / 또는 직업을 완전히 떠나도록.",
+          "naturalKorean": "게다가 부족한 교육 시설, 불평등한 임금, 열악한 근무 조건은 많은 전문 간호사들이 임금이 더 높은 지역으로 이주하거나 직업을 아예 포기하도록 몰아넣고 있습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "rather than attempting to replace",
-              "meaning": "~를 대체하려 시도하기보다",
-              "use": "대체(replacement)가 아닌 협력(collaboration)임을 강조하는 대조 구문입니다.",
-              "example": "Rather than attempting to replace nurses, robots assist them."
+              "chunk": "inadequate training capacity",
+              "meaning": "부족한/부적절한 교육 용량",
+              "use": "신규 간호사를 충분히 양성하지 못하는 학교/시설 부족입니다.",
+              "example": "Inadequate training capacity limits new nurse supply."
             },
             {
-              "chunk": "collaborative assistant",
-              "meaning": "협력적인 보조자",
-              "use": "사람과 팀을 이루어 일하는 조력자를 의미합니다.",
-              "example": "Nurabot functions as a collaborative assistant."
+              "chunk": "compel someone to migrate",
+              "meaning": "누군가가 이주하도록 강요하다/몰아넣다",
+              "use": "'compel + 목적어 + to부정사' 구문입니다.",
+              "example": "Poor pay compels nurses to migrate abroad."
             }
           ],
-          "mustKnowGrammar": "전치사구 'Rather than + -ing'로 시작하며, 주절에서 수동태 'is designed to work' 및 전치사 'alongside'와 'as'가 사용되었습니다.",
-          "feynmanExplanation": "로봇이 간호사를 쫓아내고 일자리를 빼앗는 게 아니라, 간호사 선생님 옆에서 도우미 역할을 하도록 만든 것이 핵심입니다.",
+          "mustKnowGrammar": "세 개의 주어 병렬(inadequate training capacity, unequal pay, and poor working conditions), 동사 'compel', 목적어 'many qualified nurses', 목적격보어 to부정사 병렬(to migrate... or leave...) 구조입니다.",
+          "feynmanExplanation": "월급이 적고 일하기 힘들며 학교 자리가 부족하니까, 간호사 선생님들이 더 돈을 많이 주는 다른 나라로 떠나거나 일을 그만두게 됩니다.",
           "teachingTranscript": [
             {
-              "english": "Pay close attention: Nurabot is a 'collaborative assistant,' NOT a replacement for human nurses.",
-              "korean": "주의 깊게 보세요: 누라봇은 '협력 보조자'이지 인간 간호사의 대체품이 아닙니다."
+              "english": "'Compel' means pushed by hard conditions. Low pay and bad conditions force nurses to move or quit.",
+              "korean": "'Compel'은 힘든 조건에 떠밀린다는 뜻입니다. 낮은 임금과 나쁜 조건이 간호사들이 이직하거나 그만두도록 만듭니다."
             }
           ]
         },
         {
           "sentenceNumber": 8,
-          "original": "Representatives from Foxconn emphasize that the machine operates under human supervision to complete shared medical missions.",
-          "chunkReading": "Representatives from Foxconn emphasize / that the machine operates / under human supervision / to complete shared medical missions.",
-          "directKorean": "폭스콘의 관계자들은 강조한다 / 그 기계가 작동한다는 것을 / 인간의 감독 하에 / 공유된 의료 임무를 완료하기 위해.",
-          "naturalKorean": "폭스콘 관계자들은 이 로봇이 공동의 의료 임무를 완수하기 위해 항상 인간의 감독 하에 작동한다는 점을 강조합니다.",
+          "original": "Severe workplace stress and heavy daily workloads further worsen staff exhaustion, proving that no single cause explains the staffing shortage in every nation.",
+          "chunkReading": "Severe workplace stress and heavy daily workloads / further worsen staff exhaustion, / proving that / no single cause explains / the staffing shortage in every nation.",
+          "directKorean": "심각한 직장 스트레스와 무거운 일일 업무량은 / 직원들의 피로를 더욱 악화시킨다, / ~임을 증명하면서 / 어떤 단 하나의 원인도 설명하지 못한다는 것을 / 모든 국가의 인력 부족을.",
+          "naturalKorean": "심각한 직장 스트레스와 과도한 일일 업무량은 의료진의 피로를 더욱 악화시키며, 단 하나의 원인만으로는 모든 국가의 간호사 부족 현상을 설명할 수 없음을 증명합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "under human supervision",
-              "meaning": "인간의 감독 하에",
-              "use": "안전과 책임 소재를 위해 사람이 지켜보고 지휘함을 뜻합니다.",
-              "example": "Medical robots must operate under human supervision."
+              "chunk": "heavy daily workloads",
+              "meaning": "무거운 일일 업무량",
+              "use": "매일 과도하게 부여되는 과업을 가리킵니다.",
+              "example": "Heavy daily workloads lead to severe stress."
             },
             {
-              "chunk": "shared medical missions",
-              "meaning": "공유된 의료 임무",
-              "use": "사람과 로봇이 함께 수행하는 병원 과업을 의미합니다.",
-              "example": "Staff and robots complete shared medical missions together."
+              "chunk": "no single cause explains",
+              "meaning": "단 하나의 원인도 설명하지 못한다",
+              "use": "복합적 원인을 강조하는 부정주어/부정동사 구문입니다.",
+              "example": "No single cause explains the shortage in every nation."
             }
           ],
-          "mustKnowGrammar": "주어 'Representatives...', 동사 'emphasize', 명사절 접속사 'that'이 이끄는 목적어절 구조입니다.",
-          "feynmanExplanation": "로봇 혼자 마음대로 결정해서 일하는 것이 아니라, 간호사 선생님의 지시와 감독 아래에서 안전하게 움직입니다.",
+          "mustKnowGrammar": "주어 병렬(Severe workplace stress and heavy daily workloads), 동사 'further worsen', 목적어 'staff exhaustion', 분사구문 'proving that...' 구조입니다.",
+          "feynmanExplanation": "매일 일이 너무 많고 스트레스가 크다 보니 피곤이 쌓입니다. 즉, 어떤 한 가지 이유 때문이 아니라 여러 이유가 복합적으로 얽혀 있습니다.",
           "teachingTranscript": [
             {
-              "english": "'Under human supervision' is a key critical detail showing that control always stays with human healthcare professionals.",
-              "korean": "'Under human supervision'은 통제권이 항상 인간 의료 전문가에게 있음을 보여주는 핵심 세부사항입니다."
+              "english": "Notice 'no single cause explains the staffing shortage.' We must examine social, economic, and workplace factors together.",
+              "korean": "'단 하나의 원인도 인력 부족을 설명하지 못한다'에 주목하세요. 우리는 사회적, 경제적, 직장 요인을 함께 검토해야 합니다."
             }
           ]
         },
         {
           "sentenceNumber": 9,
-          "original": "In clinical environments, Nurabot assists by performing routine transport duties across different hospital departments.",
-          "chunkReading": "In clinical environments, / Nurabot assists / by performing routine transport duties / across different hospital departments.",
-          "directKorean": "임상 환경에서, / 누라봇은 보조한다 / 일상적인 수송 업무를 수행함으로써 / 여러 다른 병원 부서들 사이에서.",
-          "naturalKorean": "실제 임상 현장에서 누라봇은 여러 병원 부서를 오가며 일상적인 물품 수송 업무를 수행함으로써 의료진을 돕습니다.",
+          "original": "Geographic and economic disparities create additional friction in the global distribution of healthcare workers.",
+          "chunkReading": "Geographic and economic disparities / create additional friction / in the global distribution / of healthcare workers.",
+          "directKorean": "지리적 및 경제적 격차는 / 추가적인 마찰을 만들어낸다 / 전 세계적인 분배에 있어서 / 보건의료 노동자들의.",
+          "naturalKorean": "지리적, 경제적 격차는 전 세계 의료 인력의 균형 있는 분배에 추가적인 마찰과 갈등을 유발합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "in clinical environments",
-              "meaning": "임상 환경/현장에서",
-              "use": "실제 환자를 치료하는 병원 현장을 뜻합니다.",
-              "example": "In clinical environments, reliability is essential."
+              "chunk": "geographic and economic disparities",
+              "meaning": "지리적 및 경제적 격차",
+              "use": "지역과 국가 간의 소득/환경 차이를 뜻합니다.",
+              "example": "Economic disparities affect nurse migration."
             },
             {
-              "chunk": "routine transport duties",
-              "meaning": "일상적인 수송 업무",
-              "use": "약품이나 검체 등을 옮기는 반복적 운반 일을 가리킵니다.",
-              "example": "Nurabot assists by performing routine transport duties."
+              "chunk": "create additional friction",
+              "meaning": "추가적인 마찰을 일으키다",
+              "use": "문제나 갈등을 가중시키는 상황입니다.",
+              "example": "Migration policies create additional friction."
             }
           ],
-          "mustKnowGrammar": "전치사구 'In clinical environments', 주어 'Nurabot', 동사 'assists', 수단을 나타내는 'by + -ing(performing)' 구조입니다.",
-          "feynmanExplanation": "병원 안에서 약이나 물품을 이 방에서 저 방으로 날라주는 수송 일을 로봇이 맡아서 해줍니다.",
+          "mustKnowGrammar": "주어 'Geographic and economic disparities', 동사 'create', 목적어 'additional friction', 전치사구 'in the global distribution...' 구조입니다.",
+          "feynmanExplanation": "잘사는 나라와 가난한 나라, 도시와 시골 사이의 경제적 격차가 간호사 선생님들이 한쪽으로 몰리게 만드는 원인이 됩니다.",
           "teachingTranscript": [
             {
-              "english": "Notice 'by performing routine transport duties.' This tells us the exact mechanism of how Nurabot assists staff.",
-              "korean": "'by performing routine transport duties'를 보세요. 이는 누라봇이 의료진을 돕는 정확한 방식을 알려줍니다."
+              "english": "Disparities mean unequal differences between rich and developing regions.",
+              "korean": "Disparities는 부유한 지역과 개발도상국 사이의 불균등한 차이를 의미합니다."
             }
           ]
         },
         {
           "sentenceNumber": 10,
-          "original": "The robot can move items such as prescription medications, lab specimens, linen, and heavy equipment between storage rooms and nursing stations.",
-          "chunkReading": "The robot can move items / such as prescription medications, / lab specimens, linen, and heavy equipment / between storage rooms and nursing stations.",
-          "directKorean": "그 로봇은 물품들을 옮길 수 있다 / 처방 약품, / 검체, 침구류, 그리고 무거운 장비와 같은 / 창고와 간호 스테이션 사이에서.",
-          "naturalKorean": "이 로봇은 창고와 간호 스테이션 사이를 오가며 처방 약품, 혈액/조직 검체, 침구류, 무거운 의료 장비 등을 운반할 수 있습니다.",
+          "original": "High-income nations often attempt to fill local vacancies by recruiting foreign-trained professionals, creating a complex tension between a nurse's right to international migration and the severe loss of staff in developing countries.",
+          "chunkReading": "High-income nations often attempt / to fill local vacancies / by recruiting foreign-trained professionals, / creating a complex tension / between a nurse's right to international migration / and the severe loss of staff in developing countries.",
+          "directKorean": "고소득 국가들은 흔히 시도한다 / 지역의 빈자리를 채우려고 / 해외에서 훈련받은 전문가들을 채용함으로써, / 복잡한 긴장을 만들어내면서 / 국제 이주에 대한 간호사의 권리와 / 개발도상국에서의 심각한 인력 손실 사이에.",
+          "naturalKorean": "고소득 국가들은 흔히 해외 출신 의료진을 채용하여 자국의 빈자리를 채우려 하는데, 이는 간호사 개인의 해외 이주 권리와 개발도상국의 심각한 의료 인력 유출 사이에 복잡한 긴장을 형성합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "prescription medications",
-              "meaning": "처방 약품",
-              "use": "의사 처방에 따라 전달되는 전문 의약품입니다.",
-              "example": "Nurabot transports prescription medications to ward stations."
+              "chunk": "recruiting foreign-trained professionals",
+              "meaning": "해외에서 훈련받은 전문가들을 채용하는 것",
+              "use": "국제적 인력 수급 행위를 나타냅니다.",
+              "example": "Wealthy nations rely on recruiting foreign-trained professionals."
             },
             {
-              "chunk": "lab specimens",
-              "meaning": "실험실/임상 검체",
-              "use": "검사를 위해 채취한 혈액이나 소변 등의 샘플입니다.",
-              "example": "Prompt delivery of lab specimens is crucial for diagnosis."
+              "chunk": "complex tension between A and B",
+              "meaning": "A와 B 사이의 복잡한 긴장/갈등",
+              "use": "상충하는 두 가치 사이의 마찰을 뜻합니다.",
+              "example": "There is tension between migration rights and local healthcare loss."
             }
           ],
-          "mustKnowGrammar": "조동사 'can move'의 목적어 'items' 뒤에 'such as'를 통한 4가지 명사 병렬 예시와 'between A and B' 전치사구가 연결되어 있습니다.",
-          "feynmanExplanation": "약, 혈액 검체, 이불, 무거운 장비처럼 사람이 들고 왔다 갔다 해야 하는 물건들을 로봇이 대신 실어 나릅니다. (주의: 환자에게 약을 직접 먹이는 게 아니라 간호 스테이션으로 운반해 줍니다!)",
+          "mustKnowGrammar": "주어 'High-income nations', 동사 'attempt to fill', 수단의 'by recruiting...', 분사구문 'creating a complex tension between A and B' 구조입니다.",
+          "feynmanExplanation": "부자 나라들이 부족한 간호사를 채우려고 가난한 나라 간호사를 스카우트하면, 개인에게는 좋은 기회지만 원래 나라에는 큰 의료 인력 손실이 생깁니다.",
           "teachingTranscript": [
             {
-              "english": "Fact-check distinction: Nurabot TRANSPORTS medications to hospital stations—it does NOT administer drugs directly to patients.",
-              "korean": "팩트 체크 구분: 누라봇은 약품을 병동 스테이션으로 '수송'하는 것이지, 환자에게 직접 약을 '투여'하는 것이 아닙니다."
+              "english": "Notice the tension: A nurse has a personal right to migrate for better pay, BUT source countries lose vital medical workers.",
+              "korean": "갈등 요소를 보세요: 간호사 개인은 더 나은 임금을 위해 이주할 권리가 있지만, 출신 국가들은 귀중한 의료 인력을 잃게 됩니다."
             }
           ]
         },
         {
           "sentenceNumber": 11,
-          "original": "By using special cameras and autonomous navigation software, Nurabot avoids obstacles and travels efficiently without disrupting patient care.",
-          "chunkReading": "By using special cameras / and autonomous navigation software, / Nurabot avoids obstacles / and travels efficiently / without disrupting patient care.",
-          "directKorean": "특수 카메라를 사용함으로써 / 그리고 자율 주행 소프트웨어를, / 누라봇은 장애물을 피한다 / 그리고 효율적으로 이동한다 / 환자 케어를 방해하지 않고.",
-          "naturalKorean": "특수 카메라와 자율 주행 소프트웨어를 사용하는 누라봇은 장애물을 피하며 환자 진료를 방해하지 않고 효율적으로 이동합니다.",
+          "original": "In at least 20 wealthier nations, expected retirements are projected to outpace the entry of newly graduated nurses.",
+          "chunkReading": "In at least 20 wealthier nations, / expected retirements are projected / to outpace the entry / of newly graduated nurses.",
+          "directKorean": "최소 20개 부유한 국가에서, / 예상되는 은퇴는 예측된다 / 진입을 앞지를 것으로 / 신규 졸업한 간호사들의.",
+          "naturalKorean": "최소 20개 이상의 부유한 국가에서는 예상 은퇴자 수가 신규 졸업 간호사의 유입 속도를 앞지를 것으로 전망됩니다.",
           "mustKnowChunks": [
             {
-              "chunk": "autonomous navigation software",
-              "meaning": "자율 주행 소프트웨어",
-              "use": "사람 조종 없이 스스로 길을 찾는 프로그램입니다.",
-              "example": "Autonomous navigation software helps the robot move safely."
+              "chunk": "expected retirements",
+              "meaning": "예상되는 은퇴자 수",
+              "use": "퇴직을 앞둔 고령 인력입니다.",
+              "example": "Expected retirements will shrink the active workforce."
             },
             {
-              "chunk": "without disrupting patient care",
-              "meaning": "환자 케어를 방해하지 않고",
-              "use": "전치사 'without + -ing' 구문으로 부작용이 없음을 밝힙니다.",
-              "example": "The robot delivers supplies without disrupting patient care."
+              "chunk": "outpace the entry of",
+              "meaning": "~의 유입/진입을 앞지르다",
+              "use": "증가 속도가 유입 속도보다 빠름을 뜻하는 비교 동사입니다.",
+              "example": "Retirements will outpace newly graduated nurses."
             }
           ],
-          "mustKnowGrammar": "수단의 'By using...', 주어 'Nurabot' 뒤에 병렬 동사 'avoids'와 'travels', 양태 부사 'efficiently', 전치사구 'without disrupting...'이 이어집니다.",
-          "feynmanExplanation": "카메라와 자율주행 프로그램 덕분에 사람이나 휠체어를 부딪치지 않고 환자 치료에 방해가 되지 않게 조용히 다닙니다.",
+          "mustKnowGrammar": "전치사구 'In at least 20 wealthier nations', 주어 'expected retirements', 수동태 'are projected to outpace...', 목적어 'the entry of...' 구조입니다.",
+          "feynmanExplanation": "선진국 20개국 이상에서 은퇴해서 나가는 간호사 선생님 수가 대학을 졸업해서 새로 들어오는 간호사 수보다 더 많아진다는 뜻입니다.",
           "teachingTranscript": [
             {
-              "english": "'Without disrupting patient care' shows that safety and hospital environment standards are strictly maintained.",
-              "korean": "'Without disrupting patient care'는 안전과 병원 환경 기준이 엄격히 유지됨을 보여줍니다."
+              "english": "'Outpace' means retiring faster than new nurses can graduate and replace them.",
+              "korean": "'Outpace'는 신규 간호사들이 졸업해서 이들을 대체하는 것보다 은퇴가 더 빠르게 일어난다는 뜻입니다."
             }
           ]
         },
         {
           "sentenceNumber": 12,
-          "original": "Because these repetitive transport duties consume valuable time, delegating them to robots helps keep hospital workflows organized.",
-          "chunkReading": "Because these repetitive transport duties / consume valuable time, / delegating them to robots / helps keep hospital workflows organized.",
-          "directKorean": "이러한 반복적인 수송 업무가 / 귀중한 시간을 소비하기 때문에, / 그것들을 로봇에게 위임하는 것은 / 병원 업무 흐름을 정돈되게 유지하도록 돕는다.",
-          "naturalKorean": "이러한 반복적인 수송 업무는 귀중한 시간을 소모하기 때문에, 이를 로봇에게 위임하면 병원의 업무 흐름을 한층 효율적이고 체계적으로 유지하는 데 도움이 됩니다.",
+          "original": "Consequently, less-resourced healthcare systems struggle to maintain stable staffing levels in rural clinics and emergency departments.",
+          "chunkReading": "Consequently, / less-resourced healthcare systems struggle / to maintain stable staffing levels / in rural clinics and emergency departments.",
+          "directKorean": "결과적으로, / 자원이 부족한 보건의료 체계는 고군분투한다 / 안정적인 인력 수준을 유지하기 위해 / 시골 클리닉과 응급실에서.",
+          "naturalKorean": "결과적으로 자원이 부족한 의료 체계는 시골 의원과 응급실에서 안정적인 인력 수준을 유지하는 데 큰 어려움을 겪고 있습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "consume valuable time",
-              "meaning": "귀중한 시간을 소모하다",
-              "use": "시간 낭비를 가져오는 상황을 나타냅니다.",
-              "example": "Manual delivery duties consume valuable time."
+              "chunk": "less-resourced healthcare systems",
+              "meaning": "자원이 부족한 보건의료 체계",
+              "use": "예산과 인력이 열악한 의료 환경입니다.",
+              "example": "Less-resourced healthcare systems face severe staffing shortages."
             },
             {
-              "chunk": "delegating them to robots",
-              "meaning": "그것들을 로봇에게 위임하는 것",
-              "use": "동명사 주어로 일을 기계에 맡기는 행위를 가리킵니다.",
-              "example": "Delegating transport to robots saves nurse energy."
+              "chunk": "maintain stable staffing levels",
+              "meaning": "안정적인 인력 수준을 유지하다",
+              "use": "필요한 인원수를 지속 확보하는 일입니다.",
+              "example": "Clinics struggle to maintain stable staffing levels."
             }
           ],
-          "mustKnowGrammar": "이유의 접속사 'Because'절 뒤에, 동명사 주어 'delegating them to robots', 준사역동사 'helps + (to) keep + 목적어 + 형용사(organized)' 구문이 사용되었습니다.",
-          "feynmanExplanation": "단순 운반에 들던 시간을 로봇에게 맡기면(delegate), 병원 일이 훨씬 더 차근차근 잘 돌아가게 됩니다.",
+          "mustKnowGrammar": "결과 부사 'Consequently', 주어 'less-resourced healthcare systems', 동사 'struggle + to부정사(to maintain)', 목적어 'stable staffing levels' 구조입니다.",
+          "feynmanExplanation": "결과적으로 돈과 자원이 모자란 시골 병원이나 응급실은 간호사 선생님을 구하지 못해 늘 인력 부족에 시달립니다.",
           "teachingTranscript": [
             {
-              "english": "Notice the cause-and-effect relationship: Delegating simple tasks leads to better organized workflows.",
-              "korean": "원인과 결과 관계를 보세요: 단순 업무를 위임하면 더 잘 정돈된 업무 흐름으로 이어집니다."
+              "english": "'Consequently' shows the result of unequal global distribution on smaller and less-funded clinics.",
+              "korean": "'Consequently'는 불균등한 전 세계 분배가 작고 예산이 부족한 의원들에 미치는 결과를 보여줍니다."
             }
           ]
         },
         {
           "sentenceNumber": 13,
-          "original": "Recent field tests provide early evidence of Nurabot's potential impact on hospital efficiency.",
-          "chunkReading": "Recent field tests / provide early evidence / of Nurabot's potential impact / on hospital efficiency.",
-          "directKorean": "최근의 현장 시험들은 / 초기 근거를 제공한다 / 누라봇의 잠재적 영향에 대한 / 병원 효율성에 미치는.",
-          "naturalKorean": "최근 진행된 현장 실증 시험들은 누라봇이 병원 효율성에 미칠 수 있는 잠재적 영향에 대한 초기 근거를 보여줍니다.",
+          "original": "When hospitals operate without adequate staff, the consequences impact both healthcare workers and patient care.",
+          "chunkReading": "When hospitals operate / without adequate staff, / the consequences impact / both healthcare workers and patient care.",
+          "directKorean": "병원들이 운영될 때 / 적절한 인력 없이, / 그 결과는 영향을 미친다 / 의료 노동자들과 환자 케어 모두에.",
+          "naturalKorean": "병원들이 적절한 인력 없이 운영될 때, 그 여파는 의료진과 환자 케어 모두에게 심각한 영향을 미칩니다.",
           "mustKnowChunks": [
             {
-              "chunk": "recent field tests",
-              "meaning": "최근 현장 실증 시험들",
-              "use": "실제 환경에서 수행된 검증 테스트를 뜻합니다.",
-              "example": "Recent field tests confirmed robot reliability."
+              "chunk": "operate without adequate staff",
+              "meaning": "적절한 인력 없이 운영되다",
+              "use": "인력 부족 상태에서의 병원 가동입니다.",
+              "example": "Operating without adequate staff creates severe stress."
             },
             {
-              "chunk": "provide early evidence of",
-              "meaning": "~에 대한 초기 근거를 제공하다",
-              "use": "확증이 아닌 신중한 초기 증거 제시 표현입니다.",
-              "example": "The trial data provides early evidence of workload reduction."
+              "chunk": "both A and B",
+              "meaning": "A와 B 둘 다",
+              "use": "의료진과 환자 모두 피해를 입음을 강조하는 상관접속사입니다.",
+              "example": "Understaffing affects both nurses and patients."
             }
           ],
-          "mustKnowGrammar": "주어 'Recent field tests', 동사 'provide', 목적어 'early evidence', 전치사구 'of... on...'의 결합입니다.",
-          "feynmanExplanation": "'early evidence'는 확정된 진리가 아니라 병원에서 실제 시험해보니 효과가 나타나고 있다는 '초기 증거'라는 뜻이에요.",
+          "mustKnowGrammar": "접속사 'When'절(operate without...), 주절 주어 'the consequences', 동사 'impact', 목적어 'both A and B' 구조입니다.",
+          "feynmanExplanation": "병원에 간호사 선생님이 부족하면 환자도 제때 치료를 못 받고, 남아있는 의료진도 지치게 된다는 내용입니다.",
           "teachingTranscript": [
             {
-              "english": "We use 'early evidence' because field trials show initial promise, not absolute universal proof.",
-              "korean": "현장 시험이 절대적인 보편적 증거가 아닌 초기 가능성을 보여주기 때문에 우리는 'early evidence'라는 신중한 표현을 씁니다."
+              "english": "Understaffing harms both sides: nurses get exhausted, and patients face delays.",
+              "korean": "인력 부족은 양쪽 모두에게 피해를 줍니다: 간호사는 지치고, 환자는 치료 지연을 겪습니다."
             }
           ]
         },
         {
           "sentenceNumber": 14,
-          "original": "During validation testing at Taichung Veterans General Hospital in Taiwan, deployment data indicated that Nurabot completed approximately 75 to 80 transport tasks per day.",
-          "chunkReading": "During validation testing / at Taichung Veterans General Hospital in Taiwan, / deployment data indicated / that Nurabot completed / approximately 75 to 80 transport tasks per day.",
-          "directKorean": "검증 시험 동안 / 대만의 타이중 보훈총병원에서의, / 배치 데이터는 나타냈다 / 누라봇이 완료했음을 / 하루에 약 75개에서 80개의 수송 업무를.",
-          "naturalKorean": "대만 타이중 보훈총병원에서 진행된 실증 시험 동안, 현장 배치 데이터에 따르면 누라봇은 하루 평균 약 75~80건의 수송 업무를 성공적으로 완료했습니다.",
+          "original": "Understaffed wards experience longer patient waiting times, crowded emergency rooms, and reduced time for nurses to communicate with anxious families.",
+          "chunkReading": "Understaffed wards experience / longer patient waiting times, / crowded emergency rooms, / and reduced time / for nurses to communicate / with anxious families.",
+          "directKorean": "인력이 부족한 병동은 겪는다 / 더 긴 환자 대기 시간을, / 붐비는 응급실을, / 그리고 줄어든 시간을 / 간호사들이 소통할 / 불안해하는 가족들과.",
+          "naturalKorean": "인력이 부족한 병동은 환자 대기 시간 증가, 응급실 혼잡, 간호사가 불안해하는 보호자와 소통할 시간의 감소를 겪게 됩니다.",
           "mustKnowChunks": [
             {
-              "chunk": "validation testing",
-              "meaning": "실증/검증 시험",
-              "use": "기술이 실제로 잘 작동하는지 테스트하는 과정입니다.",
-              "example": "Validation testing took place in Taiwan."
+              "chunk": "longer patient waiting times",
+              "meaning": "더 긴 환자 대기 시간",
+              "use": "의료 서비스 지연 결과를 뜻합니다.",
+              "example": "Understaffed wards suffer from longer patient waiting times."
             },
             {
-              "chunk": "deployment data indicated that",
-              "meaning": "현장 배치 데이터는 ~라는 점을 보여주었다",
-              "use": "데이터에 기반한 사실 보고 구문입니다.",
-              "example": "Deployment data indicated that the robot completed 80 tasks per day."
+              "chunk": "reduced time to communicate",
+              "meaning": "소통할 줄어든 시간",
+              "use": "환자 및 보호자 상담 시간 부족을 가리킵니다.",
+              "example": "Nurses have reduced time to communicate with anxious families."
             }
           ],
-          "mustKnowGrammar": "전치사구 'During validation testing...', 주어 'deployment data', 동사 'indicated', 접속사 'that'절 내부의 수치 데이터 표현입니다.",
-          "feynmanExplanation": "타이중 병원에서 실제 테스트해보니 누라봇이 하루에 75번에서 80번이나 물건을 날라다 주었다는 실제 조사 데이터입니다.",
+          "mustKnowGrammar": "주어 'Understaffed wards', 동사 'experience', 병렬 연결된 세 개의 목적어(longer patient waiting times, crowded emergency rooms, and reduced time...) 구조입니다.",
+          "feynmanExplanation": "간호사가 부족하면 병원 대기 시간이 길어지고 응급실이 북새통이 되며, 걱정하는 가족들에게 설명해 줄 시간도 줄어듭니다.",
           "teachingTranscript": [
             {
-              "english": "Look at the numbers: 75 to 80 tasks per day. This is concrete deployment evidence from Foxconn's hospital trial.",
-              "korean": "수치를 보세요: 하루 75~80건. 이것은 폭스콘의 병원 시험에서 나온 구체적인 현장 데이터입니다."
+              "english": "Notice the real-world effects: long waiting times, crowded rooms, and less emotional communication.",
+              "korean": "실제 현장 영향을 보세요: 긴 대기 시간, 붐비는 응급실, 줄어든 정서적 소통."
             }
           ]
         },
         {
           "sentenceNumber": 15,
-          "original": "According to Foxconn's trial report, this automated assistance reduced the overall daily workload of participating nurses by up to 30 percent.",
-          "chunkReading": "According to Foxconn's trial report, / this automated assistance reduced / the overall daily workload / of participating nurses / by up to 30 percent.",
-          "directKorean": "폭스콘의 시험 보고서에 따르면, / 이 자동화된 보주는 줄였다 / 전반적인 일일 업무량을 / 참여한 간호사들의 / 최대 30퍼센트까지.",
-          "naturalKorean": "폭스콘의 임상 시험 보고서에 따르면, 이러한 자동화 보조를 통해 참여 간호사들의 일일 전체 업무량이 최대 30%까지 감소한 것으로 나타났습니다.",
+          "original": "This situation creates a damaging feedback loop in which heavy workloads increase physical fatigue, leading to higher rates of staff burnout.",
+          "chunkReading": "This situation creates / a damaging feedback loop / in which heavy workloads / increase physical fatigue, / leading to higher rates / of staff burnout.",
+          "directKorean": "이러한 상황은 만들어낸다 / 손상을 주는 피드백 루프(악순환)를 / 과도한 업무량이 / 육체적 피로를 증가시키는, / 더 높은 비율로 이어지면서 / 직원 번아웃의.",
+          "naturalKorean": "이러한 상황은 과도한 업무량이 육체적 피로를 가중시키고 이것이 다시 높은 수준의 직무 탈진(번아웃)으로 이어지는 위험한 악순환을 형성합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "according to Foxconn's trial report",
-              "meaning": "폭스콘의 시험 보고서에 따르면",
-              "use": "보고서 출처를 명확히 밝히는 인용 표현입니다.",
-              "example": "According to Foxconn's trial report, workload dropped."
+              "chunk": "damaging feedback loop",
+              "meaning": "손상을 주는 피드백 루프 (악순환)",
+              "use": "원인과 결과가 서로를 계속 악화시키는 현상입니다.",
+              "example": "Understaffing causes a damaging feedback loop."
             },
             {
-              "chunk": "by up to 30 percent",
-              "meaning": "최대 30퍼센트까지",
-              "use": "'up to'를 통해 최대치를 신중하게 표현합니다.",
-              "example": "Workload was reduced by up to 30 percent."
+              "chunk": "leading to higher rates of burnout",
+              "meaning": "더 높은 번아웃 비율로 이어지는",
+              "use": "현재분사구(leading to...) 결과 표현입니다.",
+              "example": "Heavy fatigue leads to higher rates of staff burnout."
             }
           ],
-          "mustKnowGrammar": "'According to...' 인용구, 주어 'this automated assistance', 동사 'reduced', 목적어 'the overall daily workload', 수량의 전치사 'by up to 30 percent' 구조입니다.",
-          "feynmanExplanation": "로봇이 일을 도와주니까 참여한 간호사 선생님들의 하루 일거리가 최대 30%까지 줄어들었다고 폭스콘 보고서에 기록되어 있어요.",
+          "mustKnowGrammar": "주어 'This situation', 동사 'creates', 목적어 'a damaging feedback loop', 전치사+관계대명사 'in which...'절, 결과 분사구문 'leading to...' 구조입니다.",
+          "feynmanExplanation": "일이 많아서 피곤함 ➡️ 피곤해서 번아웃 생김 ➡️ 번아웃 때문에 퇴직함 ➡️ 남은 사람 일이 더 많아짐. 이 쳇바퀴 같은 악순환을 말합니다.",
           "teachingTranscript": [
             {
-              "english": "Notice 'up to 30 percent.' We attribute this result to Foxconn's deployment report rather than presenting it as a universal guarantee.",
-              "korean": "'최대 30%' 표현을 보세요. 우리는 이 결과를 보편적 보증이 아닌 폭스콘의 현장 보고서로 출처를 밝힙니다."
+              "english": "'Feedback loop' is a crucial concept: shortage causes burnout, and burnout causes more shortage.",
+              "korean": "'피드백 루프(악순환)'는 핵심 개념입니다: 부족이 번아웃을 부르고, 번아웃이 더 큰 부족을 부릅니다."
             }
           ]
         },
         {
           "sentenceNumber": 16,
-          "original": "Hospital administrators note that these hours saved from walking allows staff to focus on direct clinical responsibilities.",
-          "chunkReading": "Hospital administrators note / that these hours saved from walking / allows staff to focus / on direct clinical responsibilities.",
-          "directKorean": "병원 관리자들은 언급한다 / 걷기에서 절약된 이 시간들이 / 직원들이 집중할 수 있게 해준다고 / 직접적인 임무/임상 책임에.",
-          "naturalKorean": "병원 관리자들은 이처럼 이동 시간에서 절약된 시간 덕분에 의료진이 직접적인 임상 환자 케어 업무에 더욱 집중할 수 있게 되었다고 설명합니다.",
+          "original": "As burnout drives more nurses to leave their positions, the remaining staff face even heavier burdens, threatening hospital stability over time.",
+          "chunkReading": "As burnout drives / more nurses to leave their positions, / the remaining staff face / even heavier burdens, / threatening hospital stability over time.",
+          "directKorean": "번아웃이 몰아넣음에 따라 / 더 많은 간호사들이 직책을 떠나도록, / 남아있는 직원들은 직면한다 / 훨씬 더 무거운 부담에, / 병원 안정을 위협하면서 / 시간이 흐름에 따라.",
+          "naturalKorean": "번아웃으로 인해 더 많은 간호사들이 병원을 떠나면서 남아있는 직원들은 훨씬 더 중대한 부담을 안게 되고, 이는 시간이 흐름에 따라 병원의 안정적 운영마저 위협합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "hours saved from walking",
-              "meaning": "걷기(이동)에서 절약된 시간들",
-              "use": "물품 수송 시간 절약 효과를 의미합니다.",
-              "example": "Hours saved from walking are redirected to patients."
+              "chunk": "drive someone to leave",
+              "meaning": "누군가가 떠나도록 몰아넣다",
+              "use": "'drive + 목적어 + to부정사' 원인-결과 구문입니다.",
+              "example": "Burnout drives nurses to leave their jobs."
             },
             {
-              "chunk": "focus on direct clinical responsibilities",
-              "meaning": "직접적인 임상 책임에 집중하다",
-              "use": "환자 진료 및 치료 업무에 주력함을 뜻합니다.",
-              "example": "Nurses can focus on direct clinical responsibilities."
+              "chunk": "threatening hospital stability",
+              "meaning": "병원 안정을 위협하면서",
+              "use": "현재분사구로 최종적 위험 결과를 나타냅니다.",
+              "example": "Staff departures threaten hospital stability over time."
             }
           ],
-          "mustKnowGrammar": "주어 'Hospital administrators', 동사 'note', 접속사 'that'절 내부의 주어 'these hours saved from walking'과 'allow + 목적어 + to부정사' 구조입니다.",
-          "feynmanExplanation": "복도를 걷느라 버리던 시간을 아껴서, 간호사 선생님들이 환자의 상태를 살피고 치료하는 본래 일에 더 집중할 수 있게 되었습니다.",
+          "mustKnowGrammar": "접속사 'As'절(drives more nurses to leave...), 주절 주어 'the remaining staff', 동사 'face', 목적어 'even heavier burdens', 분사구문 'threatening...' 구조입니다.",
+          "feynmanExplanation": "동료들이 지쳐서 나가면 남아있는 간호사 선생님들의 일이 훨씬 더 늘어나서 결국 병원 전체가 휘청거리게 됩니다.",
           "teachingTranscript": [
             {
-              "english": "'Focus on direct clinical responsibilities' means spending time with real patients instead of empty hallways.",
-              "korean": "'Focus on direct clinical responsibilities'는 텅 빈 복도가 아닌 실제 환자들과 시간을 보내는 것을 의미합니다."
+              "english": "Notice how the feedback loop closes: departures increase burdens on remaining staff, threatening stability.",
+              "korean": "악순환이 어떻게 완성되는지 보세요: 퇴직이 남은 인력의 부담을 늘리고 병원 안정을 위협합니다."
             }
           ]
         },
         {
           "sentenceNumber": 17,
-          "original": "The primary benefit of nursing robots lies in freeing human nurses for tasks that require complex clinical judgment and emotional care.",
-          "chunkReading": "The primary benefit / of nursing robots / lies in freeing human nurses / for tasks that require / complex clinical judgment and emotional care.",
-          "directKorean": "주요한 이점은 / 간호 로봇의 / 인간 간호사들을 자유롭게 하는 데 있다 / 과업들을 위해 / 복잡한 임상적 판단과 감정적 케어를 요구하는.",
-          "naturalKorean": "간호 로봇의 가장 큰 이점은 복잡한 임상적 판단과 감정적 케어가 필요한 업무에 인간 간호사가 전념할 수 있도록 시간을 확보해 준다는 점에 있습니다.",
+          "original": "To help address these workplace pressures, technology developers are introducing collaborative nursing assistants like Nurabot.",
+          "chunkReading": "To help address / these workplace pressures, / technology developers are introducing / collaborative nursing assistants / like Nurabot.",
+          "directKorean": "대처하는 것을 돕기 위해 / 이러한 직장 압박들에, / 기술 개발자들은 도입하고 있다 / 협력적인 간호 보조자들을 / 누라봇과 같은.",
+          "naturalKorean": "이러한 직장 내 업무 압박을 완화하는 데 도움을 주기 위해 기술 개발자들은 '누라봇'과 같은 협력형 간호 보조 로봇을 도입하고 있습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "the primary benefit lies in",
-              "meaning": "주요 이점은 ~에 있다",
-              "use": "가장 핵심적인 장점을 짚어낼 때 사용하는 관용 구문입니다.",
-              "example": "The primary benefit lies in saving nurse energy."
+              "chunk": "to help address",
+              "meaning": "~에 대처/해결하는 것을 돕기 위해",
+              "use": "해결책 제시용 to부정사 구문입니다.",
+              "example": "To help address workload, hospitals test robotics."
             },
             {
-              "chunk": "complex clinical judgment",
-              "meaning": "복잡한 임상적 판단",
-              "use": "의학 지식과 경험에 근거한 전문적 결정을 뜻합니다.",
-              "example": "Robots cannot replace complex clinical judgment."
+              "chunk": "collaborative nursing assistants",
+              "meaning": "협력형 간호 보조자/로봇",
+              "use": "사람과 함께 일하는 로봇 조력자입니다.",
+              "example": "Nurabot acts as a collaborative nursing assistant."
             }
           ],
-          "mustKnowGrammar": "주어 'The primary benefit of nursing robots', 동사 'lies in + -ing(freeing)', 목적어 'human nurses', 관계대명사 'that'절 수식 구조입니다.",
-          "feynmanExplanation": "로봇의 가장 큰 장점은 간호사 선생님들이 로봇 덕분에 시간에 쫓기지 않고 복잡한 판단과 마음을 다스려주는 따뜻한 케어를 할 수 있다는 점입니다.",
+          "mustKnowGrammar": "목적의 to부정사구 'To help address...', 주어 'technology developers', 현재진행형 'are introducing', 목적어 'collaborative nursing assistants...' 구조입니다.",
+          "feynmanExplanation": "이런 업무 부담을 덜어주고자 폭스콘 같은 회사들이 간호사를 옆에서 도와주는 누라봇 로봇을 개발했습니다.",
           "teachingTranscript": [
             {
-              "english": "Highlight 'complex clinical judgment and emotional care.' These are uniquely human abilities.",
-              "korean": "'복잡한 임상적 판단과 감정적 케어'를 강조하세요. 이것들은 오직 인간만이 가진 능력입니다."
+              "english": "The article now turns to technology: Can robots like Nurabot help relieve workplace pressures?",
+              "korean": "기사는 이제 기술적 대안을 다룹니다: 누라봇 같은 로봇이 직장 압박을 덜어주는 데 도움이 될 수 있을까요?"
             }
           ]
         },
         {
           "sentenceNumber": 18,
-          "original": "While a robot can transport medical supplies, it cannot evaluate a patient's physical pain or offer comforting words to an anxious family member.",
-          "chunkReading": "While a robot can transport medical supplies, / it cannot evaluate / a patient's physical pain / or offer comforting words / to an anxious family member.",
-          "directKorean": "로봇이 의료 물품을 수송할 수는 있지만, / 그것은 평가할 수 없다 / 환자의 육체적 통증을 / 또는 위로의 말을 건넬 수 없다 / 불안해하는 가족 구성원에게.",
-          "naturalKorean": "로봇이 의료 물품을 운반할 수는 있지만, 환자의 통증 상태를 평가하거나 불안해하는 보호자에게 따뜻한 위로의 말을 건넬 수는 없습니다.",
+          "original": "Manufactured by Foxconn, Nurabot uses autonomous navigation software and multi-directional wheels to transport prescription medications, lab specimens, and heavy supplies between ward stations.",
+          "chunkReading": "Manufactured by Foxconn, / Nurabot uses autonomous navigation software / and multi-directional wheels / to transport prescription medications, lab specimens, and heavy supplies / between ward stations.",
+          "directKorean": "폭스콘에 의해 제조된, / 누라봇은 자율 주행 소프트웨어를 사용한다 / 그리고 다방향 바퀴를 / 처방 약품, 임상 검체, 그리고 무거운 물품을 수송하기 위해 / 병동 스테이션들 사이에서.",
+          "naturalKorean": "폭스콘이 제조한 누라봇은 자율 주행 소프트웨어와 다방향 바퀴를 이용해 병동 스테이션 간에 처방 약품, 임상 검체, 무거운 물품 등을 수송합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "evaluate a patient's physical pain",
-              "meaning": "환자의 육체적 통증을 평가하다",
-              "use": "의료적 관찰과 진단 행위를 나타냅니다.",
-              "example": "Only trained nurses can evaluate a patient's physical pain."
+              "chunk": "manufactured by Foxconn",
+              "meaning": "폭스콘에 의해 제조된",
+              "use": "과거분사 수식으로 제조사를 명시합니다.",
+              "example": "Manufactured by Foxconn, Nurabot undergoes testing."
             },
             {
-              "chunk": "offer comforting words",
-              "meaning": "위로의 말을 건네다",
-              "use": "정서적 공감과 안도를 주는 대화입니다.",
-              "example": "Nurses offer comforting words to anxious families."
+              "chunk": "transport prescription medications",
+              "meaning": "처방 약품을 수송하다",
+              "use": "로봇의 수송 역할을 나타냅니다.",
+              "example": "Nurabot can transport prescription medications safely."
             }
           ],
-          "mustKnowGrammar": "양보의 접속사 'While'절(can transport)과 주절의 부정이 병렬 연결된 'cannot evaluate... or offer...' 구조입니다.",
-          "feynmanExplanation": "로봇이 약 상자를 나를 수는 있어도 환자가 어디가 얼마나 아픈지 공감해주거나 불안한 가족을 위로해 줄 수는 없습니다.",
+          "mustKnowGrammar": "과거분사구 'Manufactured by Foxconn', 주어 'Nurabot', 동사 'uses', 목적어 병렬, 목적의 to부정사 'to transport...' 구조입니다.",
+          "feynmanExplanation": "폭스콘이 만든 누라봇은 바퀴와 자율주행 프로그램으로 약, 혈액 검체, 짐을 병동으로 날라다 줍니다.",
           "teachingTranscript": [
             {
-              "english": "Notice the contrast: 'While a robot can transport supplies, it cannot offer comforting words.' This is perfect balance language.",
-              "korean": "대조를 보세요: '로봇이 물품을 운반할 수 있지만, 위로의 말을 건넬 수는 없다.' 이것이 완벽한 균형 잡힌 언어입니다."
+              "english": "Fact reminder: Nurabot TRANSPORTS medications between stations. It does NOT give drugs directly to patients.",
+              "korean": "팩트 재확인: 누라봇은 약품을 스테이션 사이로 '수송'합니다. 환자에게 직접 약을 투여하지 않습니다."
             }
           ]
         },
         {
           "sentenceNumber": 19,
-          "original": "By reducing physical exhaustion, collaborative robots may help decrease staff burnout and improve overall job satisfaction.",
-          "chunkReading": "By reducing physical exhaustion, / collaborative robots may help / decrease staff burnout / and improve overall job satisfaction.",
-          "directKorean": "육체적 피로를 줄임으로써, / 협력 로봇은 도울 수 있다 / 직원들의 번아웃을 줄이고 / 전반적인 직무 만족도를 향상시키는 것을.",
-          "naturalKorean": "협력 로봇은 육체적 피로를 줄여줌으로써 의료진의 번아웃(직무 탈진)을 완화하고 전반적인 직무 만족도를 높이는 데 기여할 수 있습니다.",
+          "original": "According to Foxconn's field deployment data from Taichung Veterans General Hospital, Nurabot completed approximately 75 to 80 transport tasks per day, reducing participating nurses' daily workload by up to 30 percent.",
+          "chunkReading": "According to Foxconn's field deployment data / from Taichung Veterans General Hospital, / Nurabot completed / approximately 75 to 80 transport tasks per day, / reducing participating nurses' daily workload / by up to 30 percent.",
+          "directKorean": "폭스콘의 현장 배치 데이터에 따르면 / 타이중 보훈총병원으로부터의, / 누라봇은 완료했다 / 하루에 약 75개에서 80개의 수송 업무를, / 참여한 간호사들의 일일 업무량을 줄이면서 / 최대 30퍼센트까지.",
+          "naturalKorean": "타이중 보훈총병원에서 수집된 폭스콘의 현장 배치 데이터에 따르면, 누라봇은 하루 평균 약 75~80건의 수송 업무를 처리하여 참여 간호사의 일일 업무량을 최대 30%까지 줄였습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "reduce physical exhaustion",
-              "meaning": "육체적 피로를 줄이다",
-              "use": "몸의 지침과 피로를 낮추는 효과를 뜻합니다.",
-              "example": "Automation helps reduce physical exhaustion."
+              "chunk": "field deployment data",
+              "meaning": "현장 배치/실증 데이터",
+              "use": "실제 적용 현장에서 수집된 데이터입니다.",
+              "example": "Field deployment data shows promising results."
             },
             {
-              "chunk": "decrease staff burnout",
-              "meaning": "직원 번아웃(탈진)을 줄이다",
-              "use": "과도한 업무로 인한 정신적/육체적 쇠진을 감소시키는 것입니다.",
-              "example": "Robots may help decrease staff burnout."
+              "chunk": "by up to 30 percent",
+              "meaning": "최대 30퍼센트까지",
+              "use": "최대 수치를 신중히 표현하는 전치사구입니다.",
+              "example": "Workload was reduced by up to 30 percent."
             }
           ],
-          "mustKnowGrammar": "수단의 'By + -ing', 조동사 'may help + 원형동사 병렬(decrease... and improve...)' 구조로 신중한 추측을 나타냅니다.",
-          "feynmanExplanation": "다리 아프고 피곤한 일을 로봇이 덜어주면 간호사 선생님들이 너무 지쳐서 일을 그만두는 '번아웃' 현상을 막는 데 도움이 됩니다.",
+          "mustKnowGrammar": "출처 인용 'According to...', 주어 'Nurabot', 동사 'completed', 수량 목적어, 결과 분사구문 'reducing... by up to 30 percent' 구조입니다.",
+          "feynmanExplanation": "타이중 병원에서 시험해보니 하루에 75~80번 일해서 간호사 선생님들 일거리를 최대 30%까지 덜어주었다는 데이터입니다.",
           "teachingTranscript": [
             {
-              "english": "'May help decrease staff burnout' shows a probable benefit while using cautious modal language ('may').",
-              "korean": "'May help decrease staff burnout'은 신중한 조동사('may')를 사용하여 개연성 있는 이점을 보여줍니다."
+              "english": "Notice attribution: 'According to Foxconn's field deployment data.' This is developer trial evidence, not universal proof.",
+              "korean": "출처 명시를 보세요: '폭스콘의 현장 배치 데이터에 따르면.' 이것은 개발사의 시험 근거이지 보편적 증명이 아닙니다."
             }
           ]
         },
         {
           "sentenceNumber": 20,
-          "original": "Consequently, nurses can spend more time conducting clinical observations and communicating directly with patients.",
-          "chunkReading": "Consequently, / nurses can spend more time / conducting clinical observations / and communicating directly with patients.",
-          "directKorean": "결과적으로, / 간호사들은 더 많은 시간을 보낼 수 있다 / 임상 관찰을 실시하고 / 환자들과 직접 소통하는 데.",
-          "naturalKorean": "결과적으로 간호사들은 환자 상태를 다각도로 관찰하고 환자와 직접 소통하는 데 더 많은 시간을 할애할 수 있게 됩니다.",
+          "original": "By handling repetitive physical transport duties, nursing robots can free human nurses to spend more time conducting clinical observations and providing emotional care.",
+          "chunkReading": "By handling repetitive physical transport duties, / nursing robots can free human nurses / to spend more time / conducting clinical observations / and providing emotional care.",
+          "directKorean": "반복적인 육체적 수송 업무를 처리함으로써, / 간호 로봇은 인간 간호사들을 자유롭게 할 수 있다 / 더 많은 시간을 보내도록 / 임상 관찰을 실시하고 / 정서적 케어를 제공하는 데.",
+          "naturalKorean": "간호 로봇은 반복적인 육체적 수송 업무를 맡음으로써 인간 간호사가 임상 관찰과 정서적 케어에 더 많은 시간을 할애할 수 있도록 여유를 제공합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "conducting clinical observations",
-              "meaning": "임상 관찰을 실시하는 것",
-              "use": "환자의 생체 징후와 상태 변화를 살피는 일입니다.",
-              "example": "Nurses spend time conducting clinical observations."
+              "chunk": "free human nurses to spend time",
+              "meaning": "인간 간호사가 시간을 쓸 수 있도록 자유롭게 해주다",
+              "use": "'free + 목적어 + to부정사' 구문입니다.",
+              "example": "Robots free human nurses to focus on complex care."
             },
             {
-              "chunk": "communicating directly with patients",
-              "meaning": "환자들과 직접 소통하는 것",
-              "use": "얼굴을 맞대고 이야기 나누는 인간 중심 케어입니다.",
-              "example": "Direct communication builds trust with patients."
+              "chunk": "providing emotional care",
+              "meaning": "정서적 케어를 제공하는 것",
+              "use": "인간만이 할 수 있는 따뜻한 돌봄입니다.",
+              "example": "Nurses excel at providing emotional care."
             }
           ],
-          "mustKnowGrammar": "결과의 부사 'Consequently', 주어 'nurses', 조동사 'can spend', 시간 목적어 'more time', 동명사 병렬 'conducting... and communicating...' 구조입니다.",
-          "feynmanExplanation": "결과적으로 간호사 선생님이 환자 옆에 더 오래 머물면서 상태를 살피고 따뜻하게 이야기할 수 시간이 생깁니다.",
+          "mustKnowGrammar": "수단의 'By + -ing', 주어 'nursing robots', 동사 'can free', 목적어 'human nurses', 목적격보어 'to spend...', 동명사 병렬 'conducting... and providing...' 구조입니다.",
+          "feynmanExplanation": "로봇이 단순 짐 나르기를 대신해 주면, 간호사 선생님이 환자를 관찰하고 따뜻하게 보살필 수 있는 진짜 중요한 시간이 생깁니다.",
           "teachingTranscript": [
             {
-              "english": "'Consequently' introduces the logical positive outcome of saving routine walking time.",
-              "korean": "'Consequently'는 단순 이동 시간을 아낀 논리적인 긍정적 결과를 이끌어냅니다."
+              "english": "This highlights the main benefit of robots: saving physical transport time for high-value human care.",
+              "korean": "이는 로봇의 주요 이점을 강조합니다: 고가치의 인간 케어를 위해 육체적 이동 시간을 아껴주는 것입니다."
             }
           ]
         },
         {
           "sentenceNumber": 21,
-          "original": "Despite these promising results, experts caution that hospitals must expand robot use carefully.",
-          "chunkReading": "Despite these promising results, / experts caution / that hospitals must expand robot use carefully.",
-          "directKorean": "이러한 유망한 결과에도 불구하고, / 전문가들은 경고/주의를 준다 / 병원들이 로봇 사용을 신중하게 확대해야 한다고.",
-          "naturalKorean": "이러한 긍정적인 성과에도 불구하고, 전문가들은 병원이 로봇 도입을 확대할 때 반드시 신중을 기해야 한다고 경고합니다.",
+          "original": "Despite these operational benefits, healthcare experts caution that robots cannot solve the global nursing shortage on their own.",
+          "chunkReading": "Despite these operational benefits, / healthcare experts caution / that robots cannot solve / the global nursing shortage / on their own.",
+          "directKorean": "이러한 운용상의 이점에도 불구하고, / 보건의료 전문가들은 경고한다 / 로봇이 해결할 수는 없다고 / 전 세계 간호사 부족을 / 스스로 독자적으로.",
+          "naturalKorean": "이러한 운용상의 이점에도 불구하고, 보건의료 전문가들은 로봇 단독으로는 전 세계 간호사 부족 문제를 해결할 수 없다고 경고합니다.",
           "mustKnowChunks": [
             {
-              "chunk": "despite these promising results",
-              "meaning": "이러한 유망한 결과에도 불구하고",
-              "use": "전치사 'despite'를 통한 반전 및 신중함 환기 표현입니다.",
-              "example": "Despite these promising results, cautions remain."
+              "chunk": "despite these operational benefits",
+              "meaning": "이러한 운용상의 이점에도 불구하고",
+              "use": "전치사 'despite'를 통한 반전과 신중함 표현입니다.",
+              "example": "Despite operational benefits, robots have limits."
             },
             {
-              "chunk": "expand robot use carefully",
-              "meaning": "로봇 사용을 신중히 확대하다",
-              "use": "무분별한 도입이 아닌 단계적/신중한 확대를 당부합니다.",
-              "example": "Hospitals should expand robot use carefully."
+              "chunk": "on their own",
+              "meaning": "스스로 독자적으로",
+              "use": "다른 조치 없이 기계 혼자 힘으로라는 뜻입니다.",
+              "example": "Robots cannot solve the crisis on their own."
             }
           ],
-          "mustKnowGrammar": "전치사구 'Despite...', 주어 'experts', 동사 'caution', 접속사 'that'절 내부의 의무 조동사 'must expand... carefully' 구조입니다.",
-          "feynmanExplanation": "결과가 좋다고 해서 무작정 모든 병원에 로봇을 막 들여놓으면 안 되고, 위험 요소가 있으니 신중해야 한다는 경고입니다.",
+          "mustKnowGrammar": "전치사구 'Despite...', 주어 'healthcare experts', 동사 'caution', 명사절 접속사 'that'절 구조입니다.",
+          "feynmanExplanation": "로봇이 아무리 유용해도 로봇 혼자서 전 세계 간호사 부족이라는 커다란 문제를 다 해결할 수는 없다는 전문가들의 지적입니다.",
           "teachingTranscript": [
             {
-              "english": "'Despite these promising results' transitions the article into critical limitations and safety considerations.",
-              "korean": "'Despite these promising results'는 기사의 흐름을 비판적 한계점과 안전 고려사항으로 전환시킵니다."
+              "english": "Pay attention to the transition: 'Robots cannot solve the shortage on their own.' Why not?",
+              "korean": "전환 문장에 주의하세요: '로봇은 인력 부족을 독자적으로 해결할 수 없습니다.' 왜 그럴까요?"
             }
           ]
         },
         {
           "sentenceNumber": 22,
-          "original": "Technical failures, software errors, and patient privacy risks require continuous human oversight and strict safety guidelines.",
-          "chunkReading": "Technical failures, software errors, / and patient privacy risks / require continuous human oversight / and strict safety guidelines.",
-          "directKorean": "기술적 고장, 소프트웨어 오류, / 그리고 환자 사생활 위험은 / 지속적인 인간의 감독을 요구한다 / 그리고 엄격한 안전 지침을.",
-          "naturalKorean": "기술적 고장, 소프트웨어 오류, 환자 개인정보 유출 위험 등이 존재하므로 지속적인 인간의 감독과 엄격한 안전 가이드라인이 필수적입니다.",
+          "original": "Automated machines cannot train new nurses, eliminate unequal global distribution, repair workplace environments, or replace human empathy and clinical judgment.",
+          "chunkReading": "Automated machines cannot train new nurses, / eliminate unequal global distribution, / repair workplace environments, / or replace human empathy and clinical judgment.",
+          "directKorean": "자동화된 기계는 신규 간호사를 교육할 수 없고, / 불평등한 전 세계 분배를 없앨 수 없으며, / 직장 환경을 개선할 수 없고, / 또는 인간의 공감과 임상적 판단을 대체할 수 없다.",
+          "naturalKorean": "자동화된 기계는 신규 간호사를 양성하거나, 불평등한 전 세계 인력 분배를 해소하거나, 직장 환경을 개선하거나, 인간의 공감과 임상적 판단을 대체할 수 없습니다.",
           "mustKnowChunks": [
             {
-              "chunk": "technical failures and software errors",
-              "meaning": "기술적 고장과 소프트웨어 오류",
-              "use": "기계 및 디지털 시스템의 예상치 못한 장애입니다.",
-              "example": "Robots can suffer from technical failures and software errors."
+              "chunk": "eliminate unequal global distribution",
+              "meaning": "불평등한 전 세계 분배를 없애다",
+              "use": "구조적 인력 불균형 해소를 뜻합니다.",
+              "example": "Technology cannot eliminate unequal global distribution."
             },
             {
-              "chunk": "continuous human oversight",
-              "meaning": "지속적인 인간의 감독",
-              "use": "끊임없는 사람의 모니터링과 통제를 뜻합니다.",
-              "example": "Privacy risks require continuous human oversight."
+              "chunk": "replace human empathy and clinical judgment",
+              "meaning": "인간의 공감과 임상적 판단을 대체하다",
+              "use": "기계의 본질적 한계를 짚는 핵심 구문입니다.",
+              "example": "Robots cannot replace human empathy and judgment."
             }
           ],
-          "mustKnowGrammar": "세 개의 주어(Technical failures, software errors, and patient privacy risks) 병렬, 동사 'require', 목적어 병렬 'continuous human oversight and strict safety guidelines' 구조입니다.",
-          "feynmanExplanation": "로봇도 기계라 고장 나거나 컴퓨터 에러가 날 수 있고 환자 비밀이 새어나갈 수도 있으니, 사람이 늘 지켜보고 엄격한 규칙을 세워야 합니다.",
+          "mustKnowGrammar": "주어 'Automated machines', 부정 조동사 'cannot' 뒤에 4개의 원형동사 병렬(train..., eliminate..., repair..., or replace...) 구조입니다.",
+          "feynmanExplanation": "로봇은 학생 간호사를 가르치지도 못하고, 월급이나 병원 환경을 바꿔주지도 못하며, 사람의 따뜻한 마음이나 의료적 판단을 대신할 수 없습니다.",
           "teachingTranscript": [
             {
-              "english": "Always address technical risks: software errors, battery failures, and privacy risks mean humans must remain in charge.",
-              "korean": "항상 기술적 위험을 다루세요: 소프트웨어 오류, 배터리 고장, 사생활 위험은 인간이 계속 통제해야 함을 의미합니다."
+              "english": "List the 4 key limitations of robots: cannot train nurses, cannot fix distribution, cannot repair conditions, cannot replace empathy.",
+              "korean": "로봇의 4가지 주요 한계를 정리하세요: 간호사 양성 불가, 분배 개선 불가, 환경 수선 불가, 공감 대체 불가."
             }
           ]
         },
         {
           "sentenceNumber": 23,
-          "original": "Furthermore, deployment data from initial hospital tests does not guarantee identical results for every medical facility.",
-          "chunkReading": "Furthermore, / deployment data from initial hospital tests / does not guarantee identical results / for every medical facility.",
-          "directKorean": "게다가, / 초기 병원 시험으로부터의 배치 데이터는 / 동일한 결과를 보장하지 않는다 / 모든 의료 시설에 대해.",
-          "naturalKorean": "게다가 초기 병원 시험에서 얻은 현장 데이터가 모든 의료 시설에서 똑같은 결과를 보장하는 것은 아닙니다.",
+          "original": "Furthermore, deployment data from initial hospital trials provides valuable evidence, but it does not guarantee identical workload reductions for every medical facility.",
+          "chunkReading": "Furthermore, / deployment data from initial hospital trials / provides valuable evidence, / but it does not guarantee / identical workload reductions / for every medical facility.",
+          "directKorean": "게다가, / 초기 병원 시험으로부터의 배치 데이터는 / 가치 있는 근거를 제공한다, / 그러나 그것이 보장하지는 않는다 / 동일한 업무량 감소를 / 모든 의료 시설에 대해.",
+          "naturalKorean": "게다가 초기 병원 실증 데이터가 유용한 근거를 제공하기는 하지만, 이것이 모든 의료 시설에서 동일한 업무량 감소를 보장하는 것은 아닙니다.",
           "mustKnowChunks": [
             {
-              "chunk": "initial hospital tests",
-              "meaning": "초기 병원 시험들",
-              "use": "일부 시범 병원에서 먼저 시행된 초기 테스트입니다.",
-              "example": "Data comes from initial hospital tests."
+              "chunk": "valuable evidence",
+              "meaning": "가치 있는 근거",
+              "use": "초기 가능성을 보여주는 유용한 데이터입니다.",
+              "example": "Trials provide valuable evidence of potential benefits."
             },
             {
-              "chunk": "does not guarantee identical results",
-              "meaning": "동일한 결과를 보장하지는 않는다",
-              "use": "일반화의 오류를 경계하는 신중한 학술적 검토 표현입니다.",
-              "example": "One trial does not guarantee identical results everywhere."
+              "chunk": "does not guarantee identical workload reductions",
+              "meaning": "동일한 업무량 감소를 보장하지는 않는다",
+              "use": "일반화의 오류를 막는 신중한 평가 표현입니다.",
+              "example": "One trial does not guarantee identical workload reductions everywhere."
             }
           ],
-          "mustKnowGrammar": "첨가의 부사 'Furthermore', 주어 'deployment data...', 부정 동사구 'does not guarantee', 목적어 'identical results', 전치사구 'for every medical facility' 구조입니다.",
-          "feynmanExplanation": "한 병원에서 성공했다고 해서 세상의 모든 병원에서 똑같이 30%나 업무가 줄어든다고 장담할 수는 없습니다.",
+          "mustKnowGrammar": "주절 1(deployment data... provides...), 접속사 'but', 주절 2(it does not guarantee identical workload reductions...) 구조입니다.",
+          "feynmanExplanation": "한 병원에서 업무가 30% 줄었다고 해서, 세대 모든 병원에서 다 똑같이 30%가 줄어든다고 장담할 수는 없습니다.",
           "teachingTranscript": [
             {
-              "english": "'Does not guarantee identical results' reminds students not to treat one trial as universal proof for all hospitals.",
-              "korean": "'Does not guarantee identical results'는 학생들에게 단 하나의 시험을 모든 병원에 적용되는 보편적 증거로 다루지 말 것을 일깨워 줍니다."
+              "english": "'Does not guarantee identical reductions' is key evidence evaluation: trial data is limited evidence, not universal proof.",
+              "korean": "'동일한 감소를 보장하지는 않는다'는 핵심 근거 평가입니다: 시범 데이터는 한정된 근거이지 보편적 증명이 아닙니다."
             }
           ]
         },
         {
           "sentenceNumber": 24,
-          "original": "Ultimately, nursing robots offer a valuable solution when used to assist human nurses, proving that the strongest healthcare model balances technological innovation with human empathy.",
-          "chunkReading": "Ultimately, / nursing robots offer a valuable solution / when used to assist human nurses, / proving that the strongest healthcare model / balances technological innovation with human empathy.",
-          "directKorean": "궁극적으로, / 간호 로봇은 가치 있는 해결책을 제공한다 / 인간 간호사를 보조하는 데 사용될 때, / 가장 강력한 보건의료 모델은 / 기술적 혁신과 인간의 공감을 균형 있게 맞춘다는 것을 증명하며.",
-          "naturalKorean": "궁극적으로 간호 로봇은 인간 간호사를 보조하는 용도로 활용될 때 가치 있는 해결책이 되며, 가장 이상적인 의료 모델은 기술적 혁신과 인간의 따뜻한 공감을 결합하는 것임을 증명해 줍니다.",
+          "original": "Ultimately, the most effective response must combine investments in nursing education, mental-health support, and fair retention policies with carefully supervised technological tools.",
+          "chunkReading": "Ultimately, / the most effective response / must combine investments / in nursing education, mental-health support, and fair retention policies / with carefully supervised technological tools.",
+          "directKorean": "궁극적으로, / 가장 효과적인 대응은 / 투자를 결합해야 한다 / 간호 교육, 정신 건강 지원, 그리고 공정한 유지 정책에 대한 / 신중하게 감독되는 기술적 도구들과.",
+          "naturalKorean": "궁극적으로 가장 효과적인 해결책은 간호 교육 투자, 정신 건강 지원, 공정한 인력 유지 정책이라는 인간 중심적 정책에 신중하게 감독되는 기술적 도구를 결합하는 것입니다.",
           "mustKnowChunks": [
             {
-              "chunk": "offer a valuable solution",
-              "meaning": "가치 있는 해결책을 제공하다",
-              "use": "실용적 도움이 됨을 정리하는 결론 구문입니다.",
-              "example": "Robots offer a valuable solution to workload pressure."
+              "chunk": "the most effective response",
+              "meaning": "가장 효과적인 대응/해결책",
+              "use": "최선의 종합 대안을 제시하는 결론 표현입니다.",
+              "example": "The most effective response combines workforce policy and technology."
             },
             {
-              "chunk": "balances technological innovation with human empathy",
-              "meaning": "기술적 혁신과 인간의 공감을 균형 있게 결합하다",
-              "use": "본 기사의 핵심 주제를 담은 결론 문장입니다.",
-              "example": "The best model balances technological innovation with human empathy."
+              "chunk": "combine A with B",
+              "meaning": "A와 B를 결합하다",
+              "use": "인간 중심 정책(A)과 기술적 도구(B)의 결합을 나타냅니다.",
+              "example": "Hospitals must combine policy reforms with supervised tools."
             }
           ],
-          "mustKnowGrammar": "결론 부사 'Ultimately', 주어 'nursing robots', 동사 'offer', 접속사 생략 분사구문 'when used to assist...', 현재분사 구문 'proving that...' 이 결합된 복합문입니다.",
-          "feynmanExplanation": "결론적으로, 로봇이 간호사를 잘 돕고 인간의 따뜻한 마음과 첨단 기술이 손을 잡을 때 병원이 가장 건강하고 안전해집니다.",
+          "mustKnowGrammar": "결론 부사 'Ultimately', 주어 'the most effective response', 의무 조동사 'must combine A with B' 구문입니다.",
+          "feynmanExplanation": "결론적으로 간호사 학교를 늘리고, 정신건강을 돕고, 오래 일할 수 있게 환경을 바꾸는 '사람 중심 정책'과 누라봇 같은 '안전한 기술'을 함께 써야 최고의 해결책이 됩니다.",
           "teachingTranscript": [
             {
-              "english": "This final sentence brings everything together: the strongest healthcare model balances technological innovation with human empathy.",
-              "korean": "이 마지막 문장이 모든 것을 하나로 모아줍니다: 가장 강력한 보건의료 모델은 기술적 혁신과 인간의 공감을 균형 있게 결합하는 것입니다."
+              "english": "This final sentence gives the core recommendation: combine human workforce policies (education, retention, mental health) with supervised technology.",
+              "korean": "이 마지막 문장이 핵심 권고를 제공합니다: 인간 인력 정책(교육, 유지, 정신건강)과 감독받는 기술을 결합하는 것입니다."
             }
           ]
         }
       ],
       "finalWritingSupport": {
         "sentenceFrames": [
-          "Hospitals should (cautiously expand / limit) the deployment of nursing robots because...",
-          "According to updated estimates from the World Health Organization, the global nursing shortage will reach...",
-          "Deployment data from Foxconn indicates that Nurabot completed... which reduced nurse workload by up to...",
-          "Although robots can efficiently transport prescription medications and specimens, they cannot...",
-          "Therefore, hospitals should delegate routine transport to robots while reserving... for human nurses."
+          "Governments and hospitals should respond to the global nursing shortage by combining...",
+          "According to report data from the World Health Organization, the global nursing shortage reached 5.8 million in 2023, driven by causes such as...",
+          "Deployment data from Foxconn indicates that Nurabot completed 75 to 80 daily tasks, reducing nurse workload by up to 30 percent by...",
+          "Although nursing robots provide valuable assistance with routine supply transport, they cannot...",
+          "Therefore, health leaders must invest in nursing education and retention policies while deploying robots strictly for..."
         ],
         "usefulConnectors": [
           "According to",
+          "One factor contributing to",
+          "This can lead to",
+          "As a result",
+          "This creates a feedback loop in which",
           "Deployment data suggests that",
           "Although",
           "While",
           "However",
-          "Rather than",
-          "Consequently",
+          "In contrast",
           "Therefore",
           "Ultimately"
         ],
         "usefulVocabulary": [
           "nursing shortage",
-          "collaborative assistant",
-          "repetitive transport duties",
+          "global workforce",
+          "burnout",
+          "retire",
+          "retain",
+          "unequal distribution",
+          "international migration",
           "workload reduction",
-          "human supervision",
-          "clinical judgment",
-          "emotional empathy",
-          "privacy risks"
+          "collaborative assistant",
+          "human supervision"
         ],
         "paragraphOutline": [
-          "Sentence 1: Clear position statement on expanding nursing robots.",
-          "Sentence 2: WHO nursing shortage background statistic.",
-          "Sentence 3: Foxconn trial deployment facts (75-80 tasks, 30% reduction).",
-          "Sentence 4: Key benefit (saves walking time for direct patient observation).",
-          "Sentence 5: Key limitation (privacy, software errors, lack of empathy).",
-          "Sentence 6: Concluding recommendation on job division between nurses and robots."
+          "Sentence 1: Clear position recommendation combining human workforce policies and technology.",
+          "Sentence 2: WHO global shortage statistic (5.8M in 2023) and two root causes (retirement, burnout, low pay).",
+          "Sentence 3: Foxconn trial deployment facts (75-80 tasks, 30% workload reduction).",
+          "Sentence 4: Evaluation of technology benefit (saving walking time for patient observation).",
+          "Sentence 5: Evaluation of technology limitation (cannot train nurses, fix distribution, or provide empathy).",
+          "Sentence 6: Concluding recommendation on human policy reforms (education, retention) combined with supervised technology."
         ],
         "commonESLMistakes": [
-          "Mistake 1: Claiming Nurabot replaces nurses completely. Fix: Use 'collaborate' or 'assist' rather than 'replace.'",
-          "Mistake 2: Claiming Nurabot gives medication to patients. Fix: Clarify that Nurabot 'transports' medication to stations.",
-          "Mistake 3: Treating 30% reduction as universal proof. Fix: Add 'according to deployment data' or 'up to 30%.'",
-          "Mistake 4: Missing contrast connectors when switching from benefits to limitations. Fix: Insert 'However' or 'Although.'"
+          "Mistake 1: Presenting Nurabot as a complete cure for the global nursing shortage. Fix: Use 'partial support' or 'collaborative assistant' and highlight human policy needs.",
+          "Mistake 2: Conflating US survey data (~40% intention to leave) with global departure facts. Fix: Identify US survey data as regional intention, not global fact.",
+          "Mistake 3: Presenting 2018 or 2022 visual maps as current 2026 conditions. Fix: Attribute maps as historical visual snapshots.",
+          "Mistake 4: Omitting cause-and-effect or contrast connectors when transitioning between policy and technology. Fix: Use 'As a result' and 'However.'"
         ],
         "correctionPriorities": [
-          "Priority 1: Ensure student paragraph states a clear position on robot expansion.",
+          "Priority 1: Ensure paragraph states a clear position combining workforce policies with technology.",
           "Priority 2: Verify inclusion of at least two accurate numerical/factual details from the text.",
-          "Priority 3: Check that both a benefit and a limitation are addressed with a contrast connector.",
+          "Priority 3: Check that both causes of the shortage and robot benefits/limitations are addressed.",
           "Priority 4: Check word count (100-140 words) and sentence punctuation."
         ],
-        "extensionPrompt": "For Advanced Students: 'If a nursing robot experiences a software glitch that delays urgent blood specimen transport, who should be held legally and ethically responsible—the robot manufacturer, the hospital administrator, or the supervising nurse? Write a 3-sentence justification.'"
+        "extensionPrompt": "For Advanced Students: 'If a high-income nation active recruits foreign nurses from a developing country experiencing a severe local shortage, should international agreements limit recruitment, or should nurses have an unrestricted right to migrate? Write a 3-sentence justification balancing migration rights and global health equity.'"
       }
     }
   }
