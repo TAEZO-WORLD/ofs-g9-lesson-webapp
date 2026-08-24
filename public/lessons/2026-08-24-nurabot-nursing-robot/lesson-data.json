@@ -210,7 +210,7 @@
   "languageFocus": {
     "title": "Language Focus & Source Analysis",
     "topic": "Cause, Effect, Cautious Evaluation, and Source Analysis",
-    "explanation": "When writing about complex global issues and new technology, effective writers use cause-and-effect connectors (One factor contributing to..., This can lead to..., As a result..., This creates a feedback loop in which...), evidence reporting (According to WHO..., The data suggests that..., but it does not prove that...), and contrast connectors (Although technology may..., it cannot...). Writers must also evaluate sources carefully: distinguishing global facts (WHO) from regional survey data (such as US NCSBN 39.9%/41.3% intention-to-leave surveys), recognizing that intention to leave is not actual departure, and identifying historical map dates (such as 2018 or 2022 maps) rather than presenting them as current 2026 conditions.",
+    "explanation": "When writing about complex global issues and new technology, effective writers use cause-and-effect connectors (One factor contributing to..., This can lead to..., As a result..., This creates a feedback loop in which...), evidence reporting (According to WHO..., The data suggests that..., but it does not prove that...), and contrast connectors (Although technology may..., it cannot...). Writers must also evaluate sources carefully: distinguishing global facts (WHO) from regional survey data (such as US NCSBN 39.9%/41.3% intention-to-leave surveys), recognizing that an intention to leave is not an actual departure, identifying historical map dates (such as a 2018 global nursing-density map or a March 2022 US staffing map) rather than presenting them as current 2026 conditions, and using cautious projection language (may, could, is projected to, if current trends continue) for future estimates.",
     "examples": [
       "One factor contributing to the shortage is that 19 percent of nurses are projected to retire within ten years.",
       "Heavy daily workloads increase fatigue, creating a feedback loop in which burnout causes staff resignations.",
@@ -218,12 +218,14 @@
       "Deployment data suggests that Nurabot reduced workload by up to 30 percent, but it does not prove universal results for all hospitals.",
       "Although technology may assist with routine supply transport, it cannot train new nurses or replace human clinical judgment.",
       "A more effective solution would combine human workforce policies with carefully supervised technological tools.",
-      "Media Literacy Note: A 2024 United States survey reporting a 40% intention to leave shows workplace stress in one country, but it cannot be presented as a global fact or an actual departure count."
+      "Source Analysis Note 1 (Historical Maps): The 2018 global nursing-density map and March 2022 US staffing map serve as historical visual context; old maps cannot automatically describe current 2026 conditions.",
+      "Source Analysis Note 2 (Survey Data & Population): The 2024 NCSBN US survey reporting 39.9% RN / 41.3% LPN intention to leave specifies one country's workforce stress; an intention to leave is not an actual departure and cannot be converted into a global fact.",
+      "Source Analysis Note 3 (Projection Language): Future estimates should use cautious framing (e.g., 'If current trends continue, the shortage is projected to fall to 4.1 million by 2030')."
     ],
     "practice": [
       "1. Complete with cause-and-effect: One factor contributing to staff burnout is __________.",
       "2. Rewrite the overgeneralization using cautious language: 'The 2024 US survey proves that 40% of nurses worldwide will quit tomorrow.'",
-      "3. Combine a policy solution and a tech solution using 'A more effective solution would combine...'",
+      "3. Source Analysis Practice: Explain why a 2018 global map or a March 2022 US map cannot automatically describe 2026 conditions, and why any percentage claim requires naming the specific survey and population.",
       "4. Complete with 'feedback loop': Heavy workloads cause fatigue, creating a feedback loop in which __________."
     ]
   },
@@ -316,7 +318,7 @@
       "languageFocus": {
         "lf1": "One factor contributing to staff burnout is heavy daily workloads in understaffed hospital wards.",
         "lf2": "A 2024 United States survey indicated that nearly 40 percent of responding nurses expressed an intention to leave, but this regional survey data does not prove that 40 percent of nurses worldwide will resign.",
-        "lf3": "A more effective solution would combine investments in university nursing education with the deployment of supervised collaborative robots for routine supply transport.",
+        "lf3": "Historical maps from 2018 or March 2022 represent past visual snapshots, not current 2026 conditions; furthermore, percentage claims require a named survey (e.g., 2024 NCSBN study) and specific population (US registered nurses) to prevent unverified global generalizations.",
         "lf4": "Heavy workloads cause fatigue, creating a feedback loop in which burnout drives nurse resignations and worsens understaffing."
       },
       "writingPractice": {
