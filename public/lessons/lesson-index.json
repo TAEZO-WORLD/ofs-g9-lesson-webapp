@@ -1,6 +1,13 @@
 {
-  "latest": "2026-08-19-journey-of-your-last-name",
+  "latest": "2026-08-24-nurabot-nursing-robot",
   "lessons": [
+    {
+      "slug": "2026-08-24-nurabot-nursing-robot",
+      "title": "Nurabot: A Nursing Robot Designed to Support Hospital Staff",
+      "ofsUnit": "Unit 3 — Innovation, Healthcare & Society",
+      "textType": "Informational News Report / Balanced Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-24"
+    },
     {
       "slug": "2026-08-19-journey-of-your-last-name",
       "title": "The Journey of Your Last Name",
