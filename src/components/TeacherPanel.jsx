@@ -33,7 +33,12 @@ function ScriptBody({ phase }) {
 // ─── component ───────────────────────────────────────────────────────────────
 
 export default function TeacherPanel({ teacher, lessonData }) {
-  const { answerKey, modelAnswer, rubric, teacherNotes, teachingScript } = teacher;
+  if (!teacher) return null;
+  const answerKey = teacher.answerKey || {};
+  const modelAnswer = teacher.modelAnswer || '';
+  const rubric = Array.isArray(teacher.rubric) ? teacher.rubric : [];
+  const teacherNotes = Array.isArray(teacher.teacherNotes) ? teacher.teacherNotes : [];
+  const teachingScript = Array.isArray(teacher.teachingScript) ? teacher.teachingScript : [];
 
   // Accept either "teacherReadingGuide" (old lessons) or "detailedReadingGuide" (Cubism+)
   const readingGuide = teacher.teacherReadingGuide ?? teacher.detailedReadingGuide ?? null;
@@ -47,13 +52,13 @@ export default function TeacherPanel({ teacher, lessonData }) {
             <div className="answer-key-item__label">Main idea</div>
             <div className="answer-key-item__value">{answerKey.mainIdea}</div>
           </div>
-          {Object.entries(answerKey.readingComprehension).map(([id, value]) => (
+          {answerKey.readingComprehension && Object.entries(answerKey.readingComprehension).map(([id, value]) => (
             <div key={id} className="answer-key-item">
               <div className="answer-key-item__label">Comprehension — {id}</div>
               <div className="answer-key-item__value">{value}</div>
             </div>
           ))}
-          {Object.entries(answerKey.evidenceFromText).map(([id, value]) => (
+          {answerKey.evidenceFromText && Object.entries(answerKey.evidenceFromText).map(([id, value]) => (
             <div key={id} className="answer-key-item">
               <div className="answer-key-item__label">Evidence — {id}</div>
               <div className="answer-key-item__value">{value}</div>
@@ -91,7 +96,7 @@ export default function TeacherPanel({ teacher, lessonData }) {
             ))}
           </ul>
 
-          {(lessonData?.writingPractice || lessonData?.speakingPractice) && (
+          {(lessonData?.writingPractice || lessonData?.speakingPractice)?.prompts?.length > 0 && (
             <>
               <h4 style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.5rem', textTransform: 'uppercase', letterSpacing: '0.04em' }}>
                 Writing Practice Model Answers

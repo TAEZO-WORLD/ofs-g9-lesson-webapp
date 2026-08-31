@@ -223,6 +223,21 @@
   },
   "languageFocus": {
     "title": "Language Focus: Grammar & Textual Patterns",
+    "topic": "Fewer vs. Less, Embedded Questions, and Concession",
+    "explanation": "In feature writing, writers use precise grammar structures to compare quantities, embed question clauses, report disappointing outcomes, and balance progress with ongoing challenges.",
+    "examples": [
+      "Countable: Women’s clothes often have fewer pockets than men’s clothes.",
+      "Uncountable: Tiny pockets provide less space for daily essentials.",
+      "Embedded Question: Have you ever wondered why women’s clothes have fewer pockets?",
+      "Only to + Verb: She picked up clothing in a store, only to put it back because it lacked real pockets.",
+      "Concession: Although there has been progress, the battle for pocket equality continues. (Do not write: Although... but...)"
+    ],
+    "practice": [
+      "WP1: Write one sentence comparing pocket design using fewer and another using less.",
+      "WP2: Combine these ideas using although: \"Designers are beginning to respond\" and \"The pocket problem continues.\"",
+      "WP3: Write a sentence using \"only to\" to describe the shopping situation in the article.",
+      "WP4: Write a two-sentence recommendation: explain a problem and suggest a practical improvement using should."
+    ],
     "sections": [
       {
         "heading": "1. Fewer vs. Less with Nouns",
