@@ -1,13 +1,37 @@
 {
-  "latest": "2026-08-31-mars-leopard-spots-evidence",
-  "lessons": [
-    {
-      "slug": "2026-08-31-mars-leopard-spots-evidence",
-      "title": "Ancient Life on Mars? Reading the Evidence",
-      "ofsUnit": "Unit 3 — Science, Discovery & Evidence",
-      "textType": "Explanatory Science Report / Evidence-Based Evaluation Paragraph",
-      "date": "2026-08-31"
-    },
+  "taskId": "OFS-20260831-MARS-EVIDENCE-01",
+  "operation": "CREATE_NEW_LESSON",
+  "lessonSlug": "2026-08-31-mars-leopard-spots-evidence",
+  "title": "Ancient Life on Mars? Reading the Evidence",
+  "unit": "Unit 3 — Science, Discovery & Evidence",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "readingType": "Explanatory Science Report",
+  "writingType": "Evidence-Based Evaluation Paragraph",
+  "duration": "90 minutes",
+  "createdAt": "2026-08-31T03:25:36.151Z",
+  "baselineLessonCount": 18,
+  "baselineSlugs": [
+    "2026-06-21-minimalism",
+    "2026-06-22-evolution-of-locks",
+    "2026-06-22-japan-heatwave-elderly",
+    "2026-07-01-meta-ai-smart-glasses",
+    "2026-07-01-saudi-pakistan-defense-deal",
+    "2026-07-04-spain-wildfire-disaster",
+    "2026-07-13-cubism-seeing-differently",
+    "2026-07-20-big-industries-of-the-world",
+    "2026-07-21-guyana-oil-boom-money",
+    "2026-07-22-ancient-greeks-personality",
+    "2026-07-23-myers-briggs-personality-type",
+    "2026-08-04-farming-under-solar-panels",
+    "2026-08-05-whats-a-sim-card",
+    "2026-08-10-gold-shiny-metal-changed-world",
+    "2026-08-10-illegal-gold-mining-mercury-mexico",
+    "2026-08-10-teens-try-tech-free-bedrooms",
+    "2026-08-19-journey-of-your-last-name",
+    "2026-08-24-nurabot-nursing-robot"
+  ],
+  "priorIndexLatest": "2026-08-24-nurabot-nursing-robot",
+  "priorIndexEntries": [
     {
       "slug": "2026-08-24-nurabot-nursing-robot",
       "title": "Not Enough Nurses: Can Nurabot Help Solve a Worldwide Healthcare Puzzle?",
@@ -133,6 +157,52 @@
       "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
       "textType": "Opinion Paragraph",
       "date": "2026-06-21"
+    }
+  ],
+  "preExistingLessonHashes": {
+    "2026-06-21-minimalism": "d44233654a79c6f3ef79b64bc16ab2906e332a2e36b1e3fde0eb2560f7903b26",
+    "2026-06-22-evolution-of-locks": "97b5ea76b9022a916d5b3ecff5a07ee359269bdb3390b31f18bedc446a06f411",
+    "2026-06-22-japan-heatwave-elderly": "d37923d1c647e7b04f07f6e925513c6245c0bf9adb25ee1feb3e940c9cfecb43",
+    "2026-07-01-meta-ai-smart-glasses": "a7212685cef2e948a5d7c644b3529a0fe7a1144c48502b9bc766c73d7689cb6e",
+    "2026-07-01-saudi-pakistan-defense-deal": "7ee4f1fda1e459f403980426b5bfac3fdcab0e4c749dfdaa2f4ea7d3db1c23ea",
+    "2026-07-04-spain-wildfire-disaster": "a33e11c1a91a7cab123762d80ca4ae8b562c0aef3ccd371ba4d875dc7ac4e608",
+    "2026-07-13-cubism-seeing-differently": "7d0945435b603acde4b78ac608fe520e9198445aaf293ce95ff4f24a01a3cfa2",
+    "2026-07-20-big-industries-of-the-world": "d8e1f84518f3d1eaa21d8d3ec28283b1e6705c25560d7c7c65563b3bd0cdfcbf",
+    "2026-07-21-guyana-oil-boom-money": "0373363bf1fc2d427284d5ce67b6f6563119181c0286234d7977bd18e5d00751",
+    "2026-07-22-ancient-greeks-personality": "2cde07f18d23e7e48aa7379654fe2e6318e018c8970fa5a69d8cac2fadf8482c",
+    "2026-07-23-myers-briggs-personality-type": "c08c7dc7d10f8767fc86e88f575e65dca28d7ba6de78c3e5b44e598f89c0bfa2",
+    "2026-08-04-farming-under-solar-panels": "fe5f9a3dfa971a3ef16f532b66cebf1ce24aae54bc74c8bd891822b9da8784fc",
+    "2026-08-05-whats-a-sim-card": "2c30ddef67cc6adc05afe847d4226e83030a247e09e8e511c4a63da628d28d76",
+    "2026-08-10-gold-shiny-metal-changed-world": "e1dc270ca69ea0f48f489f856874aef4967f84495cd25313c0a8e77f27e92887",
+    "2026-08-10-illegal-gold-mining-mercury-mexico": "e3725e371a676baeb09b23f769f59c522267edbb1ef2b60b2e902d9ac247d35d",
+    "2026-08-10-teens-try-tech-free-bedrooms": "c8c6ab907833478b44f11fd03634709bf1dcbe8704a2564f86b322191a3df8ce",
+    "2026-08-19-journey-of-your-last-name": "237382d555a427602152f38f49264b5fb8d689b6bb3ca5d3e19034190b7837e7",
+    "2026-08-24-nurabot-nursing-robot": "71f99a1ea7f4032ba573d37b34ab8f86c0e7aff5ceb326033807e3f0f17e1896"
+  },
+  "sourceInventory": [
+    {
+      "source": "Teacher Illustrated Article",
+      "title": "Exciting Discovery: Signs of Ancient Life on Mars",
+      "labels": [
+        "Olivine",
+        "Leopard Spot"
+      ],
+      "note": "Teacher-provided source image context"
+    },
+    {
+      "source": "NASA Mission Press Release (July 25, 2024)",
+      "title": "NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scientists-find-intriguing-mars-rock/"
+    },
+    {
+      "source": "NASA News Release (September 10, 2025)",
+      "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
+      "url": "https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/"
+    },
+    {
+      "source": "Nature Article (September 10, 2025)",
+      "title": "Redox-driven mineral and organic associations in Jezero Crater, Mars",
+      "authors": "Hurowitz et al."
     }
   ]
 }

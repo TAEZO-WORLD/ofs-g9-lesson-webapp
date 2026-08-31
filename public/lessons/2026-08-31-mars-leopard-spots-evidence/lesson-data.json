@@ -1,0 +1,1190 @@
+{
+  "lessonTitle": "Ancient Life on Mars? Reading the Evidence",
+  "ofsUnit": "Unit 3 — Science, Discovery & Evidence",
+  "textType": "Explanatory Science Report / Evidence-Based Evaluation Paragraph",
+  "lessonGoal": "Students will distinguish direct scientific observations from interpretations, analyze potential biosignatures in Martian rock samples, explain sources of scientific uncertainty, and write an evidence-based evaluation paragraph using cautious scientific language.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. There are no right or wrong answers.",
+    "questions": [
+      "If you discover unusual circular spots on a rock, how can you tell if they were formed by living organisms or non-living chemistry?",
+      "Why is it important for scientists to separate what they directly observe from what they interpret?",
+      "What is the difference between saying 'this proves life existed' and 'this suggests a potential biosignature'?"
+    ]
+  },
+  "article": {
+    "title": "Ancient Life on Mars? Reading the Evidence",
+    "source": "Source: Adapted from teacher-provided source materials and updated using 2024–2025 reporting from NASA Perseverance mission data and Hurowitz et al. in Nature.",
+    "note": "OFS Grade 9 International English — Unit 3",
+    "paragraphs": [
+      "In July 2024, NASA's Perseverance rover made an extraordinary discovery while exploring an ancient river valley on Mars called Neretva Vallis. Inside Jezero Crater, the rover drilled into an arrowhead-shaped rock nicknamed Cheyava Falls, measuring approximately one meter by 0.6 meters. Scientists were fascinated because the rock was located in a channel where liquid water once flowed billions of years ago. Initial instrument scans revealed that Cheyava Falls contains chemical compounds and physical structures that could represent the clearest clues yet about whether microscopic life ever existed on the Red Planet.",
+      "Close-up visual examination of the rock revealed distinctive millimeter-scale off-white spots surrounded by narrow dark rings, creating patterns that scientists nicknamed 'leopard spots.' Detailed chemical analysis using Perseverance's SHERLOC and PIXL instruments showed that these dark rims contain iron phosphate minerals, specifically similar to vivianite, as well as hematite (an iron oxide mineral). The surrounding rock matrix is rich in olivine, a volcanic mineral commonly found in basaltic crust. In Earth geology, similar off-white spots and iron phosphate rings frequently form when chemical reactions reduce iron in sedimentary rocks.",
+      "In addition to mineral rings, Perseverance detected organic molecules—carbon-based chemical compounds that serve as the fundamental building blocks of terrestrial life. The co-occurrence of organic compounds, iron phosphate, and hematite in an ancient water-carved riverbed provides strong evidence of past chemical activity. Millions of years ago, liquid water carried dissolved minerals through pores in the rock, creating an environment where chemical reactions could take place over long periods. Scientists emphasize that these combined observations represent a significant milestone in Martian exploration.",
+      "Based on these findings, scientists hypothesize that the leopard spots could represent a potential biosignature—a substance or structure that provides evidence of past life. On Earth, microbes in aquatic environments often gain energy through redox (reduction-oxidation) reactions, where organic matter donates electrons to reduce ferric iron. This microbial metabolism produces distinctive dark mineral rings containing reduced iron and phosphate. Therefore, the leopard spots on Cheyava Falls may reflect ancient microbial chemical reactions that occurred when Mars was warmer and wetter.",
+      "However, planetary scientists urge strong caution because non-biological (abiotic) processes can also create similar mineral patterns. High-temperature volcanic fluids, hydrothermal heating, or non-living chemical reactions involving olivine and iron-rich water can produce iron phosphate rings and organic molecules without any living organisms involved. Furthermore, instrument measurements from a robotic rover millions of miles away cannot measure microscopic cell structures directly. Consequently, current observations indicate potential evidence, but they do not definitively prove that life once existed on Mars.",
+      "To resolve this scientific uncertainty, NASA and international space agencies are planning the Mars Sample Return mission to bring the Cheyava Falls rock core to Earth. Only advanced laboratories on Earth possess the powerful electron microscopes and isotopic measurement tools needed to confirm whether the leopard spots were formed by ancient microbes or abiotic chemistry. Until laboratory testing on Earth is complete, scientists must communicate their findings using cautious language, balancing exciting observations with rigorous scientific evidence."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Read the key terms from the text and their definitions below.",
+    "items": [
+      {
+        "word": "potential biosignature",
+        "partOfSpeech": "noun phrase",
+        "definition": "a physical feature or chemical compound that suggests past or present life, but requires further testing to confirm",
+        "sentence": "The leopard spots on the Cheyava Falls rock represent a potential biosignature on Mars."
+      },
+      {
+        "word": "observation",
+        "partOfSpeech": "noun",
+        "definition": "direct measurement, visual detail, or data gathered directly by scientific instruments",
+        "sentence": "Detecting dark rings containing iron phosphate is a direct instrument observation."
+      },
+      {
+        "word": "interpretation",
+        "partOfSpeech": "noun",
+        "definition": "an explanation or hypothesis proposed by scientists to explain what observed data might mean",
+        "sentence": "Claiming that spots were caused by ancient microbes is a scientific interpretation."
+      },
+      {
+        "word": "organic molecule",
+        "partOfSpeech": "noun phrase",
+        "definition": "a chemical compound containing carbon, often associated with life but also formable by non-living processes",
+        "sentence": "Perseverance detected organic molecules alongside iron phosphate in the Martian rock."
+      },
+      {
+        "word": "leopard spot",
+        "partOfSpeech": "noun phrase",
+        "definition": "a millimeter-scale pattern featuring an off-white center surrounded by a dark mineral ring",
+        "sentence": "Close-up scans revealed leopard spots measuring a few millimeters across on the rock surface."
+      },
+      {
+        "word": "redox reaction",
+        "partOfSpeech": "noun phrase",
+        "definition": "a chemical process involving the transfer of electrons between substances (reduction and oxidation)",
+        "sentence": "Microbes on Earth use redox reactions between organic matter and iron to produce energy."
+      },
+      {
+        "word": "abiotic",
+        "partOfSpeech": "adjective",
+        "definition": "relating to non-living physical or chemical processes rather than living organisms",
+        "sentence": "Abiotic volcanic reactions can also create iron phosphate minerals without living microbes."
+      },
+      {
+        "word": "hematite",
+        "partOfSpeech": "noun",
+        "definition": "a common iron oxide mineral that often forms in the presence of water or secondary chemical reactions",
+        "sentence": "SHERLOC instruments confirmed that the dark rings contained both hematite and iron phosphate."
+      },
+      {
+        "word": "cautious language",
+        "partOfSpeech": "noun phrase",
+        "definition": "words like 'suggests', 'may', or 'could' used by scientists to avoid making unproven claims",
+        "sentence": "Scientists use cautious language because rover instruments cannot confirm microbial cells directly."
+      },
+      {
+        "word": "sample return",
+        "partOfSpeech": "noun phrase",
+        "definition": "a space mission designed to collect rock samples from another planet and bring them back to Earth",
+        "sentence": "The Mars Sample Return mission will allow Earth laboratories to test the Cheyava Falls rock core."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "A. Perseverance's discovery of leopard spots containing organic compounds and iron phosphate on Cheyava Falls provides exciting potential evidence of ancient Martian microbial life, but because non-living abiotic processes could also form these patterns, scientists must use cautious language until Earth laboratories test returned samples.",
+      "B. NASA's Perseverance rover found fossilized alien animals inside Jezero Crater, proving that Mars currently has active living ecosystems in Neretva Vallis.",
+      "C. The Cheyava Falls rock contains no interesting chemical compounds because all olivine rocks on Mars are created by simple dry wind erosion.",
+      "D. Scientists have definitively confirmed ancient life on Mars because organic molecules can only be formed by living biological cells."
+    ],
+    "correctIndex": 0,
+    "explanation": "The article explains that while the combination of leopard spots, organic molecules, and iron phosphate in an ancient riverbed is a potential biosignature, abiotic processes could also explain the findings, making cautious evaluation and Earth laboratory sample return necessary."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "Where was the Cheyava Falls rock sample discovered, and why is its location scientifically significant?",
+        "options": [
+          "A. It was found on the moon, proving liquid water flowed across lunar craters.",
+          "B. It was drilled in Neretva Vallis inside Jezero Crater, an ancient Martian river channel where liquid water once flowed billions of years ago.",
+          "C. It was discovered in an active volcano that currently erupts hot lava on Mars.",
+          "D. It was found inside a modern underground lake created by human astronauts."
+        ],
+        "correctIndex": 1,
+        "explanation": "Cheyava Falls was found in Neretva Vallis, an ancient river channel feeding Jezero Crater, proving the rock formed in an environment with past liquid water."
+      },
+      {
+        "id": "rc2",
+        "question": "Which specific physical and chemical features define the 'leopard spots' observed by Perseverance?",
+        "options": [
+          "A. Large green stripes formed by pure copper metal.",
+          "B. Millimeter-scale off-white centers surrounded by dark rings containing iron phosphate minerals and hematite.",
+          "C. Glowing blue crystals created by atmospheric electricity.",
+          "D. Square black holes carved by robotic laser drills."
+        ],
+        "correctIndex": 1,
+        "explanation": "Close-up scans revealed off-white centers with dark rims containing iron phosphate (similar to vivianite) and hematite."
+      },
+      {
+        "id": "rc3",
+        "question": "How do Earth microbes create mineral patterns similar to the leopard spots on Cheyava Falls?",
+        "options": [
+          "A. Microbes build artificial stone walls to protect themselves from ocean waves.",
+          "B. Microbes carry out redox reactions, using organic matter to reduce iron and producing dark mineral rings containing iron and phosphate.",
+          "C. Microbes freeze liquid water into solid ice crystals containing pure carbon.",
+          "D. Earth microbes produce volcanic lava during underwater eruptions."
+        ],
+        "correctIndex": 1,
+        "explanation": "On Earth, aquatic microbes use redox reactions where organic matter donates electrons to reduce ferric iron, generating iron phosphate rings."
+      },
+      {
+        "id": "rc4",
+        "question": "Why do scientists emphasize that organic molecules alone do not prove past biological life?",
+        "options": [
+          "A. Organic molecules contain no carbon atoms.",
+          "B. Organic compounds can be synthesized through non-biological (abiotic) chemical reactions like hydrothermal processes or space radiation.",
+          "C. Perseverance instruments cannot detect carbon compounds on Mars.",
+          "D. Organic molecules are poisonous to all living organisms on Earth."
+        ],
+        "correctIndex": 1,
+        "explanation": "Organic compounds are carbon-based building blocks, but non-living abiotic chemical reactions can also synthesize them without any living organisms."
+      },
+      {
+        "id": "rc5",
+        "question": "Which abiotic alternative explanation could account for the leopard spots on Cheyava Falls?",
+        "options": [
+          "A. High-temperature volcanic fluids or hydrothermal reactions with olivine and iron-rich water.",
+          "B. Modern alien spaceships dropping artificial paint on the rocks.",
+          "C. Solar winds freezing atmospheric nitrogen into hard rocks.",
+          "D. Earth scientists accidentally contaminating Mars with ocean mud."
+        ],
+        "correctIndex": 0,
+        "explanation": "Abiotic processes such as high-temperature volcanic or hydrothermal fluid reactions with olivine can produce iron phosphate rings non-biologically."
+      },
+      {
+        "id": "rc6",
+        "question": "Why is the Mars Sample Return mission necessary to resolve scientific uncertainty about Cheyava Falls?",
+        "options": [
+          "A. Rover instruments have run out of battery power permanently.",
+          "B. Definitive verification requires advanced Earth laboratories with high-powered electron microscopes and precise isotopic instruments that cannot fit on a rover.",
+          "C. NASA plans to keep the rock in a museum without testing it.",
+          "D. Earth laboratories have already proven that Mars never had water."
+        ],
+        "correctIndex": 1,
+        "explanation": "Robotic rovers cannot observe microscopic cellular structures directly; testing returned samples in Earth labs is required for definitive proof."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Find and type the exact detail or sentence from the article that supports each statement.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "What direct instrument observation shows the presence of iron phosphate minerals and hematite on Cheyava Falls?",
+        "modelAnswer": "Detailed chemical analysis using Perseverance's SHERLOC and PIXL instruments showed that these dark rims contain iron phosphate minerals, specifically similar to vivianite, as well as hematite.",
+        "compareTip": "Your answer should mention Perseverance's SHERLOC and PIXL instruments detecting dark rims with iron phosphate (vivianite-like) and hematite.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "How does the article describe the Earth microbe redox reaction process that forms similar spots?",
+        "modelAnswer": "On Earth, microbes in aquatic environments often gain energy through redox (reduction-oxidation) reactions, where organic matter donates electrons to reduce ferric iron, producing distinctive dark mineral rings containing reduced iron and phosphate.",
+        "compareTip": "Your answer should explain how Earth aquatic microbes gain energy through redox reactions reducing ferric iron to form dark iron phosphate rings.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "What abiotic processes are listed as non-biological alternative explanations for the leopard spots?",
+        "modelAnswer": "High-temperature volcanic fluids, hydrothermal heating, or non-living chemical reactions involving olivine and iron-rich water can produce iron phosphate rings and organic molecules without any living organisms involved.",
+        "compareTip": "Your answer should list volcanic fluids, hydrothermal heating, or non-living chemical reactions with olivine and iron-rich water.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev4",
+        "statement": "Why are Earth laboratory facilities required to confirm whether Cheyava Falls contains a true biosignature?",
+        "modelAnswer": "Only advanced laboratories on Earth possess the powerful electron microscopes and isotopic measurement tools needed to confirm whether the leopard spots were formed by ancient microbes or abiotic chemistry.",
+        "compareTip": "Your answer should specify that only Earth labs have the advanced electron microscopes and isotopic tools needed for confirmation.",
+        "checkType": "evidence"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Cautious Scientific Hedging & Evidence Phrases",
+    "explanation": "In scientific reporting, writers carefully distinguish direct observations (facts) from interpretations (hypotheses). Because incomplete evidence cannot prove a claim definitively, scientists use hedging verbs (suggests, indicates potential, may reflect) and cautious phrasing to maintain precision.",
+    "examples": [
+      "Observation (Direct Fact): Perseverance detected organic compounds and dark iron phosphate rings on the rock.",
+      "Interpretation (Cautious Hedging): This chemical pattern suggests a potential biosignature, but it does not definitively prove ancient life.",
+      "Cautious Verb Phrases: 'may reflect microbial metabolism', 'could represent past chemical activity', 'indicates potential evidence'."
+    ],
+    "practice": [
+      "Rewrite: 'The leopard spots prove that aliens lived on Mars.' -> 'The leopard spots suggest a potential biosignature, but they do not prove past life.'",
+      "Identify whether this sentence is an observation or interpretation: 'SHERLOC instruments detected hematite and iron phosphate in the dark rings.' (Answer: Direct Observation).",
+      "Complete with cautious language: 'These mineral rings _____ (indicate / prove) potential past microbial activity, but abiotic reactions _____ (could also / definitely) create them.'"
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Write short responses using cautious hedging language and evidence connectors.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Explain the difference between Perseverance's direct observations and scientists' interpretations regarding Cheyava Falls.",
+        "placeholder": "Write 2–4 sentences using 'observation', 'interpretation', and 'suggests that'...",
+        "modelAnswer": "Perseverance directly observed physical leopard spots containing iron phosphate and organic molecules. In contrast, claiming that these spots were created by ancient microbial metabolism is an interpretation. Scientists use cautious language like 'suggests a potential biosignature' because non-biological reactions could also explain the data.",
+        "compareTip": "Check that you contrasted direct instrument observations (spots, minerals, organics) with cautious interpretations (microbial biosignature).",
+        "targetWords": 30,
+        "targetVocabulary": [
+          "observation",
+          "interpretation",
+          "potential biosignature",
+          "organic molecule"
+        ],
+        "targetConnectors": [
+          "In contrast",
+          "because",
+          "such as"
+        ]
+      },
+      {
+        "id": "wp2",
+        "question": "Why must scientists consider abiotic alternatives before declaring that Mars once had life?",
+        "placeholder": "Write 2–4 sentences using 'abiotic', 'hydrothermal', and 'cautious language'...",
+        "modelAnswer": "Scientists must consider abiotic alternatives because non-living processes can also create iron phosphate rings and organic molecules. For instance, high-temperature volcanic fluids or hydrothermal reactions with olivine produce similar mineral signatures without living cells. Therefore, researchers must avoid hasty conclusions and wait for Earth laboratory testing.",
+        "compareTip": "Check that your explanation mentions non-biological causes like volcanic or hydrothermal reactions with olivine.",
+        "targetWords": 30,
+        "targetVocabulary": [
+          "abiotic",
+          "olivine",
+          "cautious language",
+          "sample return"
+        ],
+        "targetConnectors": [
+          "because",
+          "For instance",
+          "Therefore"
+        ]
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Evidence-Based Evaluation Paragraph",
+    "prompt": "Write a structured evaluation paragraph (100–140 words) evaluating the scientific evidence discovered on Mars. In your paragraph, state whether Cheyava Falls provides strong evidence of ancient life, distinguish direct observations from interpretations, explain abiotic alternatives, and conclude with a recommendation for cautious evaluation and sample return.",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "State a clear evaluation sentence distinguishing potential evidence from definitive proof.",
+      "Cite specific direct observations (leopard spots, iron phosphate, hematite, organic molecules).",
+      "Explain the scientific interpretation (redox reactions similar to Earth microbial metabolism).",
+      "Address scientific uncertainty by explaining abiotic alternative possibilities (volcanic/hydrothermal reactions).",
+      "Use cautious scientific language (suggests that, indicates potential, does not definitively prove).",
+      "Conclude with a recommendation for sample return and Earth laboratory testing."
+    ],
+    "compareGuide": "Check whether your paragraph uses cautious hedging verbs ('suggests', 'may reflect'), includes specific mineral facts (iron phosphate, hematite, organics), mentions abiotic risks, and stays within 100–140 words.",
+    "revisionTips": [
+      "Ensure you do not use overconfident words like 'definitely proves' or '100% alien proof'.",
+      "Check that you include both direct observations (minerals/spots) and abiotic alternatives (volcanic/hydrothermal).",
+      "Verify that your word count is between 100 and 140 words."
+    ],
+    "targetVocabulary": [
+      "potential biosignature",
+      "observation",
+      "interpretation",
+      "organic molecule",
+      "redox reaction",
+      "abiotic",
+      "sample return"
+    ],
+    "targetConnectors": [
+      "According to",
+      "However",
+      "In addition",
+      "Therefore",
+      "Ultimately"
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "items": [
+      "I can distinguish direct scientific observations from scientific interpretations in the text.",
+      "I can name the key chemical and mineral features of the leopard spots on Cheyava Falls.",
+      "I can explain why non-biological (abiotic) alternatives create scientific uncertainty.",
+      "I used cautious scientific language (suggests, indicates potential, may reflect) in my evaluation paragraph."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": 0,
+      "readingComprehension": {
+        "rc1": 1,
+        "rc2": 1,
+        "rc3": 1,
+        "rc4": 1,
+        "rc5": 0,
+        "rc6": 1
+      },
+      "evidenceFromText": {
+        "ev1": "Detailed chemical analysis using Perseverance's SHERLOC and PIXL instruments showed that these dark rims contain iron phosphate minerals, specifically similar to vivianite, as well as hematite.",
+        "ev2": "On Earth, microbes in aquatic environments often gain energy through redox (reduction-oxidation) reactions, where organic matter donates electrons to reduce ferric iron, producing distinctive dark mineral rings containing reduced iron and phosphate.",
+        "ev3": "High-temperature volcanic fluids, hydrothermal heating, or non-living chemical reactions involving olivine and iron-rich water can produce iron phosphate rings and organic molecules without any living organisms involved.",
+        "ev4": "Only advanced laboratories on Earth possess the powerful electron microscopes and isotopic measurement tools needed to confirm whether the leopard spots were formed by ancient microbes or abiotic chemistry."
+      }
+    },
+    "modelAnswer": "The discovery of leopard spots on the Cheyava Falls rock sample represents an intriguing potential biosignature, but it requires cautious evaluation. Instrument scans by NASA's Perseverance rover directly observed off-white spots surrounded by dark rings containing iron phosphate, hematite, and organic molecules in an ancient riverbed. Scientists interpret these features as possible evidence of ancient microbial redox reactions similar to cellular energy production on Earth. However, non-biological abiotic processes, such as high-temperature volcanic fluids or hydrothermal reactions with olivine, could also form identical mineral signatures. Because remote rover instruments cannot observe microscopic cellular structures directly, current findings suggest strong possibilities rather than definitive proof. Therefore, international space agencies must complete the Mars Sample Return mission to confirm ancient Martian life through advanced Earth laboratory testing.",
+    "teacherOverview": {
+      "pedagogicalFocus": "Unit 3 focuses on Science, Discovery & Evidence. This lesson trains Grade 9 ESL students to evaluate scientific evidence rigorously by distinguishing empirical observations (instrument data) from scientific interpretations (hypotheses) and practicing cautious language (hedging).",
+      "suggestedTiming": "90 Minutes Total: Warm-up (10m), Article Reading & Vocab (25m), Reading Comprehension & Evidence (20m), Language Focus & Writing Practice (15m), Evaluation Paragraph Writing & Self-Check (20m)."
+    },
+    "paragraphBreakdown": [
+      {
+        "paragraphNumber": 1,
+        "mainPoint": "Perseverance discovered the Cheyava Falls rock sample in Jezero Crater's ancient Neretva Vallis river channel.",
+        "vocabularyUsed": [
+          "Jezero Crater",
+          "Neretva Vallis",
+          "Cheyava Falls",
+          "rover"
+        ],
+        "sentenceStructures": [
+          "Complex temporal clause ('while exploring...')",
+          "Adjective clause ('where liquid water once flowed...')"
+        ],
+        "keyEvidence": "Arrowhead-shaped rock measuring 1m x 0.6m in ancient water channel."
+      },
+      {
+        "paragraphNumber": 2,
+        "mainPoint": "Close-up chemical instruments identified leopard spots with iron phosphate, hematite, and olivine.",
+        "vocabularyUsed": [
+          "leopard spots",
+          "iron phosphate",
+          "vivianite",
+          "hematite",
+          "olivine"
+        ],
+        "sentenceStructures": [
+          "Participial modifier ('creating patterns that...')",
+          "Prepositional phrases for mineral composition"
+        ],
+        "keyEvidence": "SHERLOC/PIXL scans of millimeter-scale spots with dark iron phosphate rims."
+      },
+      {
+        "paragraphNumber": 3,
+        "mainPoint": "Detection of organic molecules in an ancient riverbed indicates long-term past chemical activity.",
+        "vocabularyUsed": [
+          "organic molecules",
+          "co-occurrence",
+          "building blocks"
+        ],
+        "sentenceStructures": [
+          "Appositive noun phrase ('carbon-based chemical compounds...')",
+          "Causal transition ('Millions of years ago...')"
+        ],
+        "keyEvidence": "Co-occurrence of organic molecules with iron phosphate in water-formed riverbed."
+      },
+      {
+        "paragraphNumber": 4,
+        "mainPoint": "Scientists hypothesize that leopard spots may reflect ancient microbial redox reactions.",
+        "vocabularyUsed": [
+          "potential biosignature",
+          "redox reaction",
+          "microbial metabolism"
+        ],
+        "sentenceStructures": [
+          "Hypothetical modal verb ('could represent...')",
+          "Relative clause ('where organic matter donates electrons...')"
+        ],
+        "keyEvidence": "Earth aquatic microbes produce iron phosphate rings during redox iron reduction."
+      },
+      {
+        "paragraphNumber": 5,
+        "mainPoint": "Abiotic alternative explanations (volcanic/hydrothermal) necessitate strong scientific caution.",
+        "vocabularyUsed": [
+          "abiotic",
+          "hydrothermal",
+          "cautious language"
+        ],
+        "sentenceStructures": [
+          "Adversative contrast ('However, planetary scientists urge...')",
+          "Conclusive sentence with contrast ('Consequently, current observations indicate...')"
+        ],
+        "keyEvidence": "Volcanic/hydrothermal olivine reactions create identical minerals non-biologically."
+      },
+      {
+        "paragraphNumber": 6,
+        "mainPoint": "The Mars Sample Return mission is essential for Earth laboratories to confirm or refute past life.",
+        "vocabularyUsed": [
+          "sample return",
+          "scientific uncertainty",
+          "electron microscopes"
+        ],
+        "sentenceStructures": [
+          "Infinitive purpose clause ('To resolve this scientific uncertainty...')",
+          "Conditional temporal clause ('Until laboratory testing... is complete...')"
+        ],
+        "keyEvidence": "Only Earth labs possess high-powered electron microscopes and isotopic tools."
+      }
+    ],
+    "sentenceAnalysis": [
+      {
+        "sentenceNumber": 1,
+        "original": "In July 2024, NASA's Perseverance rover made an extraordinary discovery while exploring an ancient river valley on Mars called Neretva Vallis.",
+        "chunkReading": "In July 2024, / NASA's Perseverance rover made an extraordinary discovery / while exploring an ancient river valley on Mars / called Neretva Vallis.",
+        "directKorean": "2024년 7월, / NASA의 퍼서비어런스 탐사선은 놀라운 발견을 했다 / 화성의 구강 유곡을 탐사하는 동안 / 네르트바 계곡이라 불리는.",
+        "naturalKorean": "2024년 7월, NASA의 퍼서비어런스 로버는 네르트바 계곡이라 불리는 화성의 고대 강 줄기를 탐사하던 중 놀라운 발견을 했습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "made an extraordinary discovery",
+            "meaning": "놀라운 발견을 했다",
+            "use": "중요한 과학적 탐사 성과를 나타내는 표현입니다.",
+            "example": "Scientists made an extraordinary discovery in Jezero Crater."
+          },
+          {
+            "chunk": "while exploring an ancient river valley",
+            "meaning": "고대 강 계곡을 탐사하는 동안",
+            "use": "'while + v-ing' 접속사 생략 분사구문입니다.",
+            "example": "The rover scanned rocks while exploring Neretva Vallis."
+          }
+        ],
+        "mustKnowGrammar": "시간 부사구 'In July 2024', 주어 'Perseverance rover', 동사 'made', 목적어 'discovery', 접속사 분사구문 'while exploring...' 구조입니다.",
+        "feynmanExplanation": "2024년 7월에 퍼서비어런스라는 화성 로봇이 옛날에 물이 흐르던 네르트바 계곡을 돌아다니다가 엄청난 걸 찾아냈습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Notice the setting: July 2024, Perseverance rover, and Neretva Vallis ancient river valley.",
+            "korean": "배경 설정을 확인하세요: 2024년 7월, 퍼서비어런스 로버, 그리고 네르트바 계곡 고대 강 줄기입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 2,
+        "original": "Inside Jezero Crater, the rover drilled into an arrowhead-shaped rock nicknamed Cheyava Falls, measuring approximately one meter by 0.6 meters.",
+        "chunkReading": "Inside Jezero Crater, / the rover drilled into an arrowhead-shaped rock / nicknamed Cheyava Falls, / measuring approximately one meter by 0.6 meters.",
+        "directKorean": "제제로 크레이터 내부에서, / 로버는 화살촉 모양의 암석에 구멍을 뚫었다 / 체야바 폭포라는 별명이 붙은, / 대략 1미터 곱하기 0.6미터 크기인.",
+        "naturalKorean": "제제로 크레이터 내부에서 로버는 체야바 폭포라는 별명이 붙은 가로 1미터, 세로 0.6미터 크기의 화살촉 모양 암석에 시추 구멍을 뚫었습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "arrowhead-shaped rock",
+            "meaning": "화살촉 모양의 암석",
+            "use": "암석의 독특한 외형을 묘사하는 합성형용사입니다.",
+            "example": "Cheyava Falls is an arrowhead-shaped rock."
+          },
+          {
+            "chunk": "measuring approximately",
+            "meaning": "대략 ~의 크기/치수인",
+            "use": "치수를 나타내는 현재분사 구문입니다.",
+            "example": "The sample core is small, measuring a few centimeters."
+          }
+        ],
+        "mustKnowGrammar": "장소 부사구 'Inside Jezero Crater', 주어 'the rover', 동사 'drilled into', 과거분사 수식어 'nicknamed...', 현재분사 수식어 'measuring...' 구조입니다.",
+        "feynmanExplanation": "제제로 분지 안에서 로버가 화살촉처럼 생긴 '체야바 폭포'라는 돌에 드릴로 구멍을 뚫어 샘플을 채취했습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Pay attention to the modifiers: 'nicknamed Cheyava Falls' and 'measuring 1m by 0.6m'.",
+            "korean": "수식어에 주의하세요: '체야바 폭포라는 별명이 붙은'과 '1미터 곱하기 0.6미터 크기인'입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 3,
+        "original": "Scientists were fascinated because the rock was located in a channel where liquid water once flowed billions of years ago.",
+        "chunkReading": "Scientists were fascinated / because the rock was located in a channel / where liquid water once flowed / billions of years ago.",
+        "directKorean": "과학자들은 매료되었다 / 그 암석이 수로에 위치해 있었기 때문에 / 액체 상태의 물이 한때 흘렀던 / 수십억 년 전에.",
+        "naturalKorean": "그 암석이 수십억 년 전 액체 상태의 물이 흘렀던 수로에 위치해 있었기 때문에 과학자들은 매우 매료되었습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "where liquid water once flowed",
+            "meaning": "액체 상태의 물이 한때 흘렀던",
+            "use": "장소 관계부사 'where'가 이끄는 형용사절입니다.",
+            "example": "Jezero Crater is a site where liquid water once flowed."
+          },
+          {
+            "chunk": "billions of years ago",
+            "meaning": "수십억 년 전에",
+            "use": "지질학적 시간을 나타내는 부사구입니다.",
+            "example": "Mars had rivers billions of years ago."
+          }
+        ],
+        "mustKnowGrammar": "주절 'Scientists were fascinated', 이유 접속사 'because', 관계부사 'where'절 구문입니다.",
+        "feynmanExplanation": "과학자들이 흥분한 이유는 그 돌이 수십억 년 전에 진짜 물이 콸콸 흐르던 옛날 강바닥에 있었기 때문입니다.",
+        "teachingTranscript": [
+          {
+            "english": "Water is essential for life: that's why an ancient river channel makes this rock so significant.",
+            "korean": "물은 생명에 필수적입니다: 그것이 고대 강 수로가 이 암석을 그토록 중요하게 만드는 이유입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 4,
+        "original": "Initial instrument scans revealed that Cheyava Falls contains chemical compounds and physical structures that could represent the clearest clues yet about whether microscopic life ever existed on the Red Planet.",
+        "chunkReading": "Initial instrument scans revealed / that Cheyava Falls contains chemical compounds and physical structures / that could represent the clearest clues yet / about whether microscopic life ever existed on the Red Planet.",
+        "directKorean": "초기 장비 스캔은 밝혔다 / 체야바 폭포가 화학 화합물과 물리적 구조를 포함한다는 것을 / 지금까지 가장 명확한 단서를 나타낼 수 있는 / 미생물이 붉은 행성에 존재했었는지 여부에 대한.",
+        "naturalKorean": "초기 정밀 장비 스캔 결과, 체야바 폭포 암석에는 붉은 행성에 미생물이 존재했었는지 여부를 밝혀줄 지금까지 가장 명확한 단서가 될 수 있는 화학 화합물과 물리적 구조가 포함된 것으로 밝혀졌습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "the clearest clues yet",
+            "meaning": "지금까지 가장 명확한 단서들",
+            "use": "최상급과 'yet'이 결합된 강조 표현입니다.",
+            "example": "These spots provide the clearest clues yet about Mars."
+          },
+          {
+            "chunk": "whether microscopic life ever existed",
+            "meaning": "미생물이 존재했었는지 여부",
+            "use": "전치사 'about'의 목적어로 쓰인 명사절 접속사 'whether' 구문입니다.",
+            "example": "Scientists investigate whether microscopic life ever existed."
+          }
+        ],
+        "mustKnowGrammar": "주어 'Initial instrument scans', 동사 'revealed', 명사절 접속사 'that', 주격 관계대명사 'that could represent...', 전치사 목적어절 'whether...' 구조입니다.",
+        "feynmanExplanation": "로봇의 측정 장비가 암석을 훑어보았더니, 화성에 아주 먼 옛날 미생물이 살았었는지 알아낼 수 있는 가장 중요한 힌트들이 나왔습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Notice the double embedded clauses: 'revealed that...' and 'clues about whether...'.",
+            "korean": "이중 내포 절 구조를 관찰하세요: '~라는 것을 밝혔다'와 '~인지 여부에 대한 단서'입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 5,
+        "original": "Close-up visual examination of the rock revealed distinctive millimeter-scale off-white spots surrounded by narrow dark rings, creating patterns that scientists nicknamed 'leopard spots.'",
+        "chunkReading": "Close-up visual examination of the rock revealed / distinctive millimeter-scale off-white spots / surrounded by narrow dark rings, / creating patterns that scientists nicknamed 'leopard spots.'",
+        "directKorean": "암석에 대한 근접 시각 검사는 밝혔다 / 독특한 밀리미터 규모의 회백색 반점들을 / 좁은 어두운 고리에 의해 둘러싸인, / 과학자들이 '표범 반점'이라는 별명을 붙인 패턴을 만들며.",
+        "naturalKorean": "암석을 근접 정밀 촬영한 결과, 좁은 어두운 고리로 둘러싸인 밀리미터 크기의 독특한 회백색 반점들이 확인되었으며, 과학자들은 이 패턴에 '표범 반점'이라는 별명을 붙였습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "millimeter-scale off-white spots",
+            "meaning": "밀리미터 규모의 회백색 반점들",
+            "use": "암석 표면의 직접적 시각 관찰 데이터입니다.",
+            "example": "The rock displays millimeter-scale off-white spots."
+          },
+          {
+            "chunk": "surrounded by narrow dark rings",
+            "meaning": "좁은 어두운 고리에 둘러싸인",
+            "use": "과거분사구 'surrounded by' 수식 구조입니다.",
+            "example": "Off-white centers are surrounded by narrow dark rings."
+          }
+        ],
+        "mustKnowGrammar": "주어 'Close-up visual examination', 동사 'revealed', 과거분사 수식 'surrounded by...', 결과 분사구문 'creating patterns that...' 구조입니다.",
+        "feynmanExplanation": "돌을 아주 가까이서 찍어보니까 밝은 회색 점 주위에 검은 테두리가 둘러져 있어서 표범 가죽 모양처럼 생긴 무늬가 보였습니다.",
+        "teachingTranscript": [
+          {
+            "english": "This describes direct physical observation: off-white centers with dark rims nicknamed 'leopard spots'.",
+            "korean": "이것은 직접적인 물리적 관찰을 묘사합니다: '표범 반점'이라는 별명이 붙은 검은 테두리의 회백색 중심부입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 6,
+        "original": "Detailed chemical analysis using Perseverance's SHERLOC and PIXL instruments showed that these dark rims contain iron phosphate minerals, specifically similar to vivianite, as well as hematite (an iron oxide mineral).",
+        "chunkReading": "Detailed chemical analysis using Perseverance's SHERLOC and PIXL instruments showed / that these dark rims contain iron phosphate minerals, / specifically similar to vivianite, / as well as hematite (an iron oxide mineral).",
+        "directKorean": "퍼서비어런스의 SHERLOC과 PIXL 장비를 사용한 상세한 화학 분석은 보여주었다 / 이 어두운 테두리가 인산철 광물을 포함한다는 것을, / 특히 비비아나이트와 유사한, / 적철석(산화철 광물)뿐만 아니라.",
+        "naturalKorean": "퍼서비어런스의 SHERLOC 및 PIXL 분석 장비를 통한 상세한 화학 분석 결과, 이 어두운 테두리에는 비비아나이트와 유사한 인산철 광물과 적철석(산화철 광물)이 포함되어 있음이 드러났습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "iron phosphate minerals",
+            "meaning": "인산철 광물",
+            "use": "화학 정밀 스캔으로 검출된 무기 광물 물질입니다.",
+            "example": "SHERLOC identified iron phosphate minerals in the rings."
+          },
+          {
+            "chunk": "as well as hematite",
+            "meaning": "적철석뿐만 아니라",
+            "use": "병렬 상관접속사 'B as well as A' 구문입니다.",
+            "example": "The dark rims contain iron phosphate as well as hematite."
+          }
+        ],
+        "mustKnowGrammar": "주어 'Detailed chemical analysis', 현재분사 수식 'using...', 동사 'showed', 명사절 접속사 'that', 상관접속사 'A as well as B' 구조입니다.",
+        "feynmanExplanation": "첨단 로봇 분석기가 검은 테두리를 성분 검사해봤더니, 비비아나이트 같은 인산철 광물과 적철석이라는 쇠 성분이 들어있었습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Key chemical data: SHERLOC and PIXL identified iron phosphate (vivianite-like) and hematite in dark rims.",
+            "korean": "핵심 화학 데이터: SHERLOC과 PIXL 장비가 어두운 테두리에서 인산철과 적철석을 확인했습니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 7,
+        "original": "The surrounding rock matrix is rich in olivine, a volcanic mineral commonly found in basaltic crust.",
+        "chunkReading": "The surrounding rock matrix is rich in olivine, / a volcanic mineral commonly found in basaltic crust.",
+        "directKorean": "주변 암석 기질은 감람석이 풍부하다, / 현무암질 지각에서 흔히 발견되는 화산 광물인.",
+        "naturalKorean": "주변 암석 바탕(기질)은 현무암질 지각에서 흔히 발견되는 화산 광물인 감람석(올리빈)이 풍부하게 함유되어 있습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "is rich in olivine",
+            "meaning": "감람석(올리빈)이 풍부하다",
+            "use": "형용사 구문 'be rich in + 광물/영양소'입니다.",
+            "example": "The Martian rock matrix is rich in olivine."
+          },
+          {
+            "chunk": "commonly found in basaltic crust",
+            "meaning": "현무암질 지각에서 흔히 발견되는",
+            "use": "과거분사 수식어 'commonly found in...'입니다.",
+            "example": "Olivine is a volcanic mineral commonly found in crust."
+          }
+        ],
+        "mustKnowGrammar": "주어 'The surrounding rock matrix', 동사 'is', 형용사 보어 'rich in olivine', 동격 명사구 'a volcanic mineral...' 구조입니다.",
+        "feynmanExplanation": "이 반점 주변의 돌 바탕은 화산이 분출할 때 생기는 '감람석(올리빈)'이라는 붉은/초록빛 화산 돌 성분으로 채워져 있었습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Geological context: Olivine is volcanic rock. Its presence provides clues about abiotic reactions.",
+            "korean": "지질학적 배경: 올리빈은 화산 암석입니다. 이것의 존재는 비생물학적 반응에 대한 단서를 제공합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 8,
+        "original": "In Earth geology, similar off-white spots and iron phosphate rings frequently form when chemical reactions reduce iron in sedimentary rocks.",
+        "chunkReading": "In Earth geology, / similar off-white spots and iron phosphate rings frequently form / when chemical reactions reduce iron / in sedimentary rocks.",
+        "directKorean": "지구 지질학에서, / 유사한 회백색 반점과 인산철 고리는 자주 형성된다 / 화학 반응이 철을 환원시킬 때 / 퇴적암 속에서.",
+        "naturalKorean": "지구 지질학에서 유사한 회백색 반점과 인산철 고리는 퇴적암 내부의 화학 반응이 철 성분을 환원시킬 때 자주 형성됩니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "frequently form when",
+            "meaning": "~할 때 자주 형성된다",
+            "use": "지구 지질학적 비교 현상을 설명하는 일반적 진술입니다.",
+            "example": "These rings frequently form when iron is reduced."
+          },
+          {
+            "chunk": "reduce iron in sedimentary rocks",
+            "meaning": "퇴적암 속 철을 환원시키다",
+            "use": "화학적 환원 반응(reduction of iron)을 뜻합니다.",
+            "example": "Chemical reactions reduce iron to form spots."
+          }
+        ],
+        "mustKnowGrammar": "전치사구 'In Earth geology', 주어 'similar spots and rings', 부사 'frequently', 동사 'form', 시간 접속사 'when'절 구조입니다.",
+        "feynmanExplanation": "지구에서도 퇴적암 속에서 화학 반응이 일어나 철이 환원되면 똑같이 회색 점과 검은 인산철 테두리가 만들어지곤 합니다.",
+        "teachingTranscript": [
+          {
+            "english": "Earth analogy: On Earth, chemical iron reduction creates identical off-white spots and rings.",
+            "korean": "지구와의 비교: 지구에서 철의 화학적 환원이 동일한 회백색 반점과 고리를 만듭니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 9,
+        "original": "In addition to mineral rings, Perseverance detected organic molecules—carbon-based chemical compounds that serve as the fundamental building blocks of terrestrial life.",
+        "chunkReading": "In addition to mineral rings, / Perseverance detected organic molecules— / carbon-based chemical compounds / that serve as the fundamental building blocks / of terrestrial life.",
+        "directKorean": "광물 고리에 더하여, / 퍼서비어런스는 유기 분자를 검출했다— / 탄소 기반 화학 화합물인 / 근본적인 구성 요소 역할을 하는 / 지구 생명체의.",
+        "naturalKorean": "광물 고리 외에도 퍼서비어런스는 지구 생명체의 근본적인 구성 요소 역할을 하는 탄소 기반 화학 화합물인 유기 분자를 검출했습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "In addition to mineral rings",
+            "meaning": "광물 고리에 더하여",
+            "use": "추가 정보를 도입하는 전치사구입니다.",
+            "example": "In addition to minerals, organic molecules were found."
+          },
+          {
+            "chunk": "fundamental building blocks of life",
+            "meaning": "생명체의 근본적인 구성 요소",
+            "use": "유기 분자의 핵심 역할을 묘사하는 관용 표현입니다.",
+            "example": "Organic molecules are building blocks of life."
+          }
+        ],
+        "mustKnowGrammar": "전치사구 'In addition to...', 주어 'Perseverance', 동사 'detected', 목적어 'organic molecules', 대시 동격구, 주격 관계대명사 'that serve as...' 구조입니다.",
+        "feynmanExplanation": "광물 테두리뿐만 아니라, 로봇은 지구 생명체를 만드는 데 꼭 필요한 탄소 덩어리인 '유기 분자'도 발견했습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Organics detection: Organic molecules are carbon-based compounds, essential building blocks of life.",
+            "korean": "유기물 검출: 유기 분자는 생명체의 필수 구성 요소인 탄소 기반 화합물입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 10,
+        "original": "The co-occurrence of organic compounds, iron phosphate, and hematite in an ancient water-carved riverbed provides strong evidence of past chemical activity.",
+        "chunkReading": "The co-occurrence of organic compounds, iron phosphate, and hematite / in an ancient water-carved riverbed / provides strong evidence / of past chemical activity.",
+        "directKorean": "유기 화합물, 인산철, 그리고 적철석의 동시 출현은 / 고대 물이 깎아 만든 강바닥에서의 / 강력한 근거를 제공한다 / 과거 화학 활동의.",
+        "naturalKorean": "고대 물이 깎아 만든 강바닥에서 유기 화합물, 인산철, 적철석이 함께 출현한 것은 과거 화학 활동에 대한 강력한 근거를 제공합니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "The co-occurrence of",
+            "meaning": "~의 동시 출현 / 함께 존재함",
+            "use": "여러 요소가 한곳에서 함께 발견됨을 뜻하는 학술 명사구입니다.",
+            "example": "The co-occurrence of organics and iron phosphate is key."
+          },
+          {
+            "chunk": "provides strong evidence of",
+            "meaning": "~에 대한 강력한 근거를 제공한다",
+            "use": "증거력을 설명하는 핵심 구문입니다.",
+            "example": "This discovery provides strong evidence of water activity."
+          }
+        ],
+        "mustKnowGrammar": "주어 'The co-occurrence of A, B, and C in D', 동사 'provides', 목적어 'strong evidence of past chemical activity' 구조입니다.",
+        "feynmanExplanation": "유기물, 인산철, 적철석이라는 세 가지가 물이 흐르던 옛 강바닥에서 동시에 발견되었다는 건, 여기서 화학 작용이 왕성했다는 확실한 증거입니다.",
+        "teachingTranscript": [
+          {
+            "english": "Notice the academic term: 'co-occurrence' means multiple key indicators found in the exact same spot.",
+            "korean": "학술 용어에 주의하세요: 'co-occurrence(동시 출현)'는 여러 핵심 지표가 같은 장소에서 발견됨을 의미합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 11,
+        "original": "Millions of years ago, liquid water carried dissolved minerals through pores in the rock, creating an environment where chemical reactions could take place over long periods.",
+        "chunkReading": "Millions of years ago, / liquid water carried dissolved minerals / through pores in the rock, / creating an environment / where chemical reactions could take place / over long periods.",
+        "directKorean": "수백만 년 전에, / 액체 상태의 물이 용해된 광물을 운반했다 / 암석 속의 기공을 통해, / 환경을 조성하면서 / 화학 반응이 일어날 수 있는 / 오랜 기간 동안.",
+        "naturalKorean": "수백만 년 전, 액체 상태의 물이 암석의 미세한 구멍(기공)을 통해 녹아있는 광물을 운반하면서 오랜 기간 동안 화학 반응이 일어날 수 있는 환경을 조성했습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "carried dissolved minerals through pores",
+            "meaning": "기공을 통해 용해된 광물을 운반했다",
+            "use": "지하수 이동 및 침투 지질 작용을 설명합니다.",
+            "example": "Water carried dissolved minerals into rock pores."
+          },
+          {
+            "chunk": "take place over long periods",
+            "meaning": "오랜 기간 동안 일어나다",
+            "use": "지속적 반응 발생을 뜻하는 숙어 구문입니다.",
+            "example": "Chemical reactions can take place over long periods."
+          }
+        ],
+        "mustKnowGrammar": "시간 부사구 'Millions of years ago', 주어 'liquid water', 동사 'carried', 목적어 'dissolved minerals', 결과 분사구문 'creating...', 관계부사절 'where...' 구조입니다.",
+        "feynmanExplanation": "오래전에는 물이 돌 속에 뚫린 미세한 구멍들 사이로 광물질을 싣고 흘러다니면서 오랜 세월 동안 화학 반응을 일어나게 만들었습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Environmental process: Water transported minerals through porous rock over millions of years.",
+            "korean": "환경적 과정: 물이 수백만 년에 걸쳐 다공성 암석을 통해 광물을 수송했습니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 12,
+        "original": "Scientists emphasize that these combined observations represent a significant milestone in Martian exploration.",
+        "chunkReading": "Scientists emphasize / that these combined observations represent / a significant milestone / in Martian exploration.",
+        "directKorean": "과학자들은 강조한다 / 이러한 결합된 관찰들이 나타낸다는 것을 / 중요한 이정표를 / 화성 탐사에 있어서.",
+        "naturalKorean": "과학자들은 이러한 복합적인 관찰 결과들이 화성 탐사의 역사에서 매우 중요한 이정표가 된다고 강조합니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "combined observations",
+            "meaning": "결합된 관찰들 / 종합적 데이터",
+            "use": "단일 데이터가 아닌 다중 관측 자료의 결합입니다.",
+            "example": "These combined observations support the hypothesis."
+          },
+          {
+            "chunk": "represent a significant milestone",
+            "meaning": "중요한 이정표를 나타내다",
+            "use": "학술/탐사적 가치를 입증하는 성과 표현입니다.",
+            "example": "This rock represents a significant milestone in space exploration."
+          }
+        ],
+        "mustKnowGrammar": "주어 'Scientists', 동사 'emphasize', 명사절 접속사 'that', 주어 'these combined observations', 동사 'represent', 목적어 'a significant milestone' 구조입니다.",
+        "feynmanExplanation": "과학자들은 이렇게 여러 장비 데이터가 한데 모인 것이 화성 탐사 역사상 엄청나게 중요한 발자국이 된다고 말합니다.",
+        "teachingTranscript": [
+          {
+            "english": "'Combined observations' summarizes the total evidence: geology, chemistry, and organic compounds.",
+            "korean": "'종합적 관찰'은 지질학, 화학, 유기 화합물이라는 전체 증거를 요약합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 13,
+        "original": "Based on these findings, scientists hypothesize that the leopard spots could represent a potential biosignature—a substance or structure that provides evidence of past life.",
+        "chunkReading": "Based on these findings, / scientists hypothesize / that the leopard spots could represent a potential biosignature— / a substance or structure / that provides evidence of past life.",
+        "directKorean": "이러한 발견에 기반하여, / 과학자들은 가설을 세운다 / 표범 반점이 잠재적 생명체 흔적을 나타낼 수 있다고— / 물질이나 구조인 / 과거 생명체의 근거를 제공하는.",
+        "naturalKorean": "이러한 발견을 바탕으로 과학자들은 표범 반점이 과거 생명체의 근거를 제공하는 물질이나 구조인 '잠재적 생체 시그니처(생명체 흔적)'일 수 있다는 가설을 제시합니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "scientists hypothesize that",
+            "meaning": "과학자들은 ~라는 가설을 세운다",
+            "use": "가설 설정 및 해석을 도입하는 신중한 표현입니다.",
+            "example": "Scientists hypothesize that Mars once held life."
+          },
+          {
+            "chunk": "potential biosignature",
+            "meaning": "잠재적 생명체 흔적 (생체 시그니처)",
+            "use": "확정 전 가능성을 열어둔 핵심 과학 용어입니다.",
+            "example": "The rock represents a potential biosignature."
+          }
+        ],
+        "mustKnowGrammar": "분사구문 'Based on these findings', 주어 'scientists', 동사 'hypothesize', 명사절 'that...', 대시 동격 명사구, 주격 관계대명사 'that provides...' 구조입니다.",
+        "feynmanExplanation": "이 데이터를 바탕으로 과학자들은 '어쩌면 이 표범 점들이 아주 먼 옛날 살았던 생명체가 남긴 자국(생체 시그니처)일지도 몰라' 하고 가설을 세웠습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Crucial distinction: 'hypothesize' means interpretation, not established fact yet.",
+            "korean": "중요한 구별: '가설을 세우다(hypothesize)'는 아직 확정된 사실이 아닌 해석을 의미합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 14,
+        "original": "On Earth, microbes in aquatic environments often gain energy through redox (reduction-oxidation) reactions, where organic matter donates electrons to reduce ferric iron.",
+        "chunkReading": "On Earth, / microbes in aquatic environments often gain energy / through redox (reduction-oxidation) reactions, / where organic matter donates electrons / to reduce ferric iron.",
+        "directKorean": "지구에서, / 수생 환경의 미생물은 자주 에너지를 얻는다 / 산화환원 반응을 통해, / 그 반응에서 유기물이 전자를 기부한다 / 3가 철을 환원시키기 위해.",
+        "naturalKorean": "지구의 수생 환경에 사는 미생물들은 유기물에서 전자를 내주어 3가 철을 환원시키는 산화환원(레독스) 반응을 통해 에너지를 얻는 경우가 많습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "gain energy through redox reactions",
+            "meaning": "산화환원 반응을 통해 에너지를 얻다",
+            "use": "미생물 대사 작용(microbial metabolism)의 생물학적 기전입니다.",
+            "example": "Earth microbes gain energy through redox reactions."
+          },
+          {
+            "chunk": "donates electrons to reduce ferric iron",
+            "meaning": "3가 철을 환원시키기 위해 전자를 기부하다",
+            "use": "전자 이동 및 철 환원 화학 반응 설명입니다.",
+            "example": "Organic matter donates electrons to reduce iron."
+          }
+        ],
+        "mustKnowGrammar": "장소구 'On Earth', 주어 'microbes', 동사 'gain', 목적어 'energy', 전치사구 'through redox reactions', 관계부사절 'where...' 구조입니다.",
+        "feynmanExplanation": "지구 물속에 사는 미생물들은 밥(유기물)을 먹고 전자를 철에 줘서 에너지를 만들어 내며 살아갑니다.",
+        "teachingTranscript": [
+          {
+            "english": "Biological mechanism: Earth microbes use redox reactions to turn ferric iron into reduced iron phosphate.",
+            "korean": "생물학적 기전: 지구 미생물은 산화환원 반응을 사용해 3가 철을 환원된 인산철로 바꿉니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 15,
+        "original": "This microbial metabolism produces distinctive dark mineral rings containing reduced iron and phosphate.",
+        "chunkReading": "This microbial metabolism produces / distinctive dark mineral rings / containing reduced iron and phosphate.",
+        "directKorean": "이러한 미생물 대사는 만들어낸다 / 독특한 어두운 광물 고리를 / 환원된 철과 인산염을 포함하는.",
+        "naturalKorean": "이러한 미생물의 대사 작용은 환원된 철과 인산염을 포함하는 독특한 어두운 광물 고리를 만들어냅니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "microbial metabolism",
+            "meaning": "미생물 대사 작용",
+            "use": "생명체의 화학적 에너지 합성 과정입니다.",
+            "example": "Microbial metabolism leaves mineral rings."
+          },
+          {
+            "chunk": "containing reduced iron and phosphate",
+            "meaning": "환원된 철과 인산염을 포함하는",
+            "use": "현재분사 수식어 'containing...'입니다.",
+            "example": "The rings are dark mineral patterns containing reduced iron."
+          }
+        ],
+        "mustKnowGrammar": "주어 'This microbial metabolism', 동사 'produces', 목적어 'distinctive dark mineral rings', 현재분사 수식어 'containing...' 구조입니다.",
+        "feynmanExplanation": "미생물이 그렇게 에너지를 만들고 나면 부산물로 검은색 인산철 테두리가 짠 하고 남아있게 됩니다.",
+        "teachingTranscript": [
+          {
+            "english": "Cause and effect: Microbial metabolism (cause) -> dark iron phosphate rings (effect).",
+            "korean": "원인과 결과: 미생물 대사(원인) -> 어두운 인산철 고리(결과)입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 16,
+        "original": "Therefore, the leopard spots on Cheyava Falls may reflect ancient microbial chemical reactions that occurred when Mars was warmer and wetter.",
+        "chunkReading": "Therefore, / the leopard spots on Cheyava Falls / may reflect ancient microbial chemical reactions / that occurred / when Mars was warmer and wetter.",
+        "directKorean": "따라서, / 체야바 폭포의 표범 반점은 / 고대 미생물의 화학 반응을 반영할지도 모른다 / 일어났던 / 화성이 더 따뜻하고 습했을 때.",
+        "naturalKorean": "따라서 체야바 폭포의 표범 반점은 화성이 지금보다 더 따뜻하고 습했던 시절에 일어났던 고대 미생물의 화학 반응을 반영하는 것일 수도 있습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "may reflect ancient microbial reactions",
+            "meaning": "고대 미생물의 화학 반응을 반영할지도 모른다",
+            "use": "추측 조동사 'may'를 통한 신중한 가설 제기입니다.",
+            "example": "The spots may reflect microbial chemistry."
+          },
+          {
+            "chunk": "when Mars was warmer and wetter",
+            "meaning": "화성이 더 따뜻하고 습했을 때",
+            "use": "고대 화성 기후 상태를 설명하는 시간절입니다.",
+            "example": "Life could exist when Mars was warmer and wetter."
+          }
+        ],
+        "mustKnowGrammar": "인과 부사 'Therefore', 주어 'the leopard spots', 서술어 'may reflect', 목적어 'reactions', 관계대명사 'that occurred', 시간절 'when...' 구조입니다.",
+        "feynmanExplanation": "그러니까 체야바 폭포의 이 표범 점들은 옛날 화성에 물이 가득하고 따뜻했을 때 미생물이 살면서 남긴 흔적일 가능성이 있습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Notice hedging verb 'may reflect': indicates potential microbial origin without claiming absolute proof.",
+            "korean": "신중한 동사 'may reflect(~일지도 모른다)'에 주의하세요: 절대적 증명을 주장하지 않고 미생물 기원 가능성을 나타냅니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 17,
+        "original": "However, planetary scientists urge strong caution because non-biological (abiotic) processes can also create similar mineral patterns.",
+        "chunkReading": "However, / planetary scientists urge strong caution / because non-biological (abiotic) processes / can also create similar mineral patterns.",
+        "directKorean": "그러나, / 행성과학자들은 강력한 주의를 당부한다 / 비생물학적(무생물적) 과정 역시 / 유사한 광물 패턴을 만들어낼 수 있기 때문에.",
+        "naturalKorean": "그러나 생명체와 무관한 비생물학적(무생물적) 과정 역시 이와 유사한 광물 패턴을 만들어낼 수 있기 때문에, 행성과학자들은 섣부른 결론을 경계하며 강력한 주의를 당부합니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "urge strong caution",
+            "meaning": "강력한 주의를 당부하다/촉구하다",
+            "use": "과학적 성급함을 경계하는 신중성 표현입니다.",
+            "example": "Scientists urge strong caution when interpreting data."
+          },
+          {
+            "chunk": "non-biological (abiotic) processes",
+            "meaning": "비생물학적 (무생물적) 과정",
+            "use": "생명체 없이 일어나는 물리화학적 작용입니다.",
+            "example": "Abiotic processes can create organic compounds."
+          }
+        ],
+        "mustKnowGrammar": "역접 부사 'However', 주어 'planetary scientists', 동사 'urge', 목적어 'strong caution', 이유 접속사 'because'절 구조입니다.",
+        "feynmanExplanation": "하지만 행성 과학자들은 '너무 일찍 샴페인을 터뜨리지 마세요!'라고 경고합니다. 생물 없이 그냥 자연 화학 작용으로도 똑같은 모양이 만들어질 수 있거든요.",
+        "teachingTranscript": [
+          {
+            "english": "Shift to uncertainty: 'However, scientists urge strong caution' introduces abiotic alternative explanations.",
+            "korean": "불확실성으로의 전환: '그러나 과학자들은 강력한 주의를 당부한다'는 비생물학적 대안 설명을 도입합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 18,
+        "original": "High-temperature volcanic fluids, hydrothermal heating, or non-living chemical reactions involving olivine and iron-rich water can produce iron phosphate rings and organic molecules without any living organisms involved.",
+        "chunkReading": "High-temperature volcanic fluids, hydrothermal heating, or non-living chemical reactions / involving olivine and iron-rich water / can produce iron phosphate rings and organic molecules / without any living organisms involved.",
+        "directKorean": "고온의 화산 유체, 열수 가열, 또는 비생물적 화학 반응은 / 감람석과 철이 풍부한 물을 포함하는 / 인산철 고리와 유기 분자를 만들어낼 수 있다 / 생명체가 전혀 개입하지 않고도.",
+        "naturalKorean": "감람석과 철분이 풍부한 물이 관련된 고온의 화산 유체, 열수 가열, 또는 비생물적 화학 반응은 생명체가 전혀 개입하지 않고도 인산철 고리와 유기 분자를 만들어낼 수 있습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "hydrothermal heating",
+            "meaning": "열수 가열 / 지하 뜨거운 물의 반응",
+            "use": "무생물적 화학 반응을 일으키는 지열 환경입니다.",
+            "example": "Hydrothermal heating can form minerals abiotically."
+          },
+          {
+            "chunk": "without any living organisms involved",
+            "meaning": "생명체가 전혀 개입하지 않고도",
+            "use": "무생물적(abiotic) 조건의 핵심 정의입니다.",
+            "example": "Chemicals can form without living organisms involved."
+          }
+        ],
+        "mustKnowGrammar": "복수 주어 'A, B, or C', 현재분사 수식 'involving...', 조동사 'can produce', 전치사구 'without + 명사 + 과거분사(involved)' 구조입니다.",
+        "feynmanExplanation": "화산의 뜨거운 액체나 뜨거운 지하수가 감람석 돌과 반응하면 미생물이 1도 없어도 똑같은 검은 인산철 테두리와 탄소 분자가 생겨날 수 있습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Specific abiotic mechanisms: Volcanic fluids, hydrothermal heating, and olivine reactions create identical signatures without life.",
+            "korean": "구체적인 비생물학적 기전: 화산 유체, 열수 가열, 감람석 반응은 생명체 없이도 동일한 서명을 만들어냅니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 19,
+        "original": "Furthermore, instrument measurements from a robotic rover millions of miles away cannot measure microscopic cell structures directly.",
+        "chunkReading": "Furthermore, / instrument measurements from a robotic rover millions of miles away / cannot measure microscopic cell structures directly.",
+        "directKorean": "게다가, / 수백만 마일 떨어진 로봇 탐사선으로부터의 장비 측정은 / 미세한 세포 구조를 직접 측정할 수 없다.",
+        "naturalKorean": "게다가 수백만 마일 떨어진 곳에 있는 로봇 탐사선의 장비 측정만으로는 미세한 세포 구조를 직접 관찰하고 측정할 수 없습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "robotic rover millions of miles away",
+            "meaning": "수백만 마일 떨어진 로봇 탐사선",
+            "use": "원격 관측 장비의 거리적 한계를 강조합니다.",
+            "example": "A rover millions of miles away has testing limits."
+          },
+          {
+            "chunk": "measure microscopic cell structures directly",
+            "meaning": "미세한 세포 구조를 직접 측정하다",
+            "use": "생명체 확정에 필요한 직접적 분자/세포 관찰입니다.",
+            "example": "Rovers cannot measure cell structures directly."
+          }
+        ],
+        "mustKnowGrammar": "첨가 부사 'Furthermore', 주어 'instrument measurements from...', 부정 조동사 'cannot measure', 목적어 'structures', 부사 'directly' 구조입니다.",
+        "feynmanExplanation": "게다가 지구에서 수억 키로미터 떨어진 로봇이 찍은 사진만으로는 세포 실물을 눈으로 직접 확인할 수 없습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Technical limitation: Remote rovers lack the ultra-high magnification to image ancient cell walls directly.",
+            "korean": "기술적 한계: 원격 로버는 고대 세포벽을 직접 촬영할 초고배율 장비가 부족합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 20,
+        "original": "Consequently, current observations indicate potential evidence, but they do not definitively prove that life once existed on Mars.",
+        "chunkReading": "Consequently, / current observations indicate potential evidence, / but they do not definitively prove / that life once existed on Mars.",
+        "directKorean": "결과적으로, / 현재의 관찰은 잠재적 근거를 나타내지만, / 그것들이 최종적으로 증명하지는 않는다 / 화성에 한때 생명체가 존재했다는 것을.",
+        "naturalKorean": "결과적으로 현재의 관찰 데이터는 흥미로운 잠재적 가능성을 보여주지만, 이것이 과거 화성에 생명체가 살았다는 사실을 최종적으로 확증해 주는 것은 아닙니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "indicate potential evidence",
+            "meaning": "잠재적 근거/가능성을 나타내다",
+            "use": "신중한 과학적 데이터 평가 표현입니다.",
+            "example": "Observations indicate potential evidence, not proof."
+          },
+          {
+            "chunk": "do not definitively prove that",
+            "meaning": "~라는 것을 최종 확증/증명하지는 않는다",
+            "use": "과도한 주장을 경계하는 핵심 헷징(hedging) 구문입니다.",
+            "example": "These spots do not definitively prove ancient life."
+          }
+        ],
+        "mustKnowGrammar": "결과 부사 'Consequently', 주절 1 'current observations indicate...', 접속사 'but', 주절 2 'they do not definitively prove that...' 구조입니다.",
+        "feynmanExplanation": "결국 지금까지 얻은 데이터는 '가능성이 높다'는 힌트일 뿐, '화성에 100% 생명체가 살았다'고 단정 지어 말할 수는 없습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Core ESL synthesis sentence: 'indicate potential evidence' vs 'do not definitively prove'. Master this contrast!",
+            "korean": "핵심 ESL 합성 문장: '잠재적 근거를 나타낸다' 대 '최종적으로 증명하지는 않는다'. 이 대비를 완벽히 마스터하세요!"
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 21,
+        "original": "To resolve this scientific uncertainty, NASA and international space agencies are planning the Mars Sample Return mission to bring the Cheyava Falls rock core to Earth.",
+        "chunkReading": "To resolve this scientific uncertainty, / NASA and international space agencies / are planning the Mars Sample Return mission / to bring the Cheyava Falls rock core to Earth.",
+        "directKorean": "이 과학적 불확실성을 해결하기 위해, / NASA와 국제 우주 기관들은 / 화성 샘플 귀환 임무를 계획하고 있다 / 체야바 폭포 암석 코어를 지구로 가져오기 위한.",
+        "naturalKorean": "이러한 과학적 불확실성을 해결하기 위해 NASA와 국제 우주 기관들은 체야바 폭포 암석 샘플을 지구로 가져오는 '화성 샘플 귀환(Mars Sample Return)' 임무를 추진하고 있습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "To resolve this scientific uncertainty",
+            "meaning": "이 과학적 불확실성을 해결하기 위해",
+            "use": "목적을 나타내는 to부정사 부사적 용법입니다.",
+            "example": "To resolve scientific uncertainty, sample return is essential."
+          },
+          {
+            "chunk": "bring the rock core to Earth",
+            "meaning": "암석 코어를 지구로 가져오다",
+            "use": "샘플 귀환 프로젝트의 핵심 목표입니다.",
+            "example": "The mission will bring Martian samples to Earth."
+          }
+        ],
+        "mustKnowGrammar": "목적 to부정사구 'To resolve...', 주어 'NASA and international space agencies', 진행형 동사 'are planning', 목적어 'the mission', 형용사적 to부정사구 'to bring...' 구조입니다.",
+        "feynmanExplanation": "이 궁금증과 의문을 확실히 해결하기 위해 과학자들은 그 돌 멩이를 지구 실험실로 직접 갖고 돌아오는 우주 프로젝트를 준비하고 있습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Solution to uncertainty: Mars Sample Return mission will transport physical samples to Earth.",
+            "korean": "불확실성의 해결책: 화성 샘플 귀환 임무가 실물 샘플을 지구로 운송할 것입니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 22,
+        "original": "Only advanced laboratories on Earth possess the powerful electron microscopes and isotopic measurement tools needed to confirm whether the leopard spots were formed by ancient microbes or abiotic chemistry.",
+        "chunkReading": "Only advanced laboratories on Earth / possess the powerful electron microscopes and isotopic measurement tools / needed to confirm / whether the leopard spots were formed by ancient microbes / or abiotic chemistry.",
+        "directKorean": "지구상의 첨단 실험실만이 / 강력한 전자 현미경과 동위원소 측정 도구를 보유하고 있다 / 확인하는 데 필요한 / 표범 반점이 고대 미생물에 의해 형성되었는지 / 아니면 비생물학적 화학작용에 의해 형성되었는지를.",
+        "naturalKorean": "지구상의 첨단 실험실만이 이 표범 반점이 고대 미생물에 의해 만들어진 것인지 아니면 무생물적 화학작용에 의한 것인지를 최종 확인할 수 있는 초고성능 전자 현미경과 동위원소 분석 장비를 갖추고 있습니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "powerful electron microscopes",
+            "meaning": "강력한 전자 현미경",
+            "use": "세포 수준 미세 구조를 관찰하는 지구 실험실 장비입니다.",
+            "example": "Earth labs use electron microscopes to view cell walls."
+          },
+          {
+            "chunk": "formed by ancient microbes or abiotic chemistry",
+            "meaning": "고대 미생물 또는 비생물학적 화학작용에 의해 형성된",
+            "use": "양자택일 검증 과제를 나타냅니다.",
+            "example": "Testing will reveal if spots formed by microbes or abiotic chemistry."
+          }
+        ],
+        "mustKnowGrammar": "한정어구 'Only advanced laboratories...', 주어 'laboratories', 동사 'possess', 목적어 'tools', 과거분사 수식 'needed to confirm', 명사절 'whether A or B' 구조입니다.",
+        "feynmanExplanation": "지구에 있는 최고급 연구소라야 커다란 전자현미경으로 돌을 조각내서 진짜 미생물 자국인지 아니면 그냥 화학물질인지 100% 가려낼 수 있습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Reason for Earth labs: Electron microscopes and isotopic testing tools are too heavy for space rovers.",
+            "korean": "지구 연구소가 필요한 이유: 전자현미경과 동위원소 분석 장비는 탐사선에 탑재하기에 너무 무겁습니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 23,
+        "original": "Until laboratory testing on Earth is complete, scientists must communicate their findings using cautious language, balancing exciting observations with rigorous scientific evidence.",
+        "chunkReading": "Until laboratory testing on Earth is complete, / scientists must communicate their findings / using cautious language, / balancing exciting observations / with rigorous scientific evidence.",
+        "directKorean": "지구에서의 실험실 검사가 완료될 때까지, / 과학자들은 자신들의 발견을 전달해야 한다 / 신중한 언어를 사용하여, / 흥미진진한 관찰과 엄격한 과학적 근거의 균형을 맞추며.",
+        "naturalKorean": "지구 실험실에서의 최종 검증이 완료될 때까지 과학자들은 흥미로운 관찰 결과와 엄격한 과학적 근거 사이의 균형을 유지하며 신중한 언어로 연구 결과를 발표해야 합니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "Until laboratory testing is complete",
+            "meaning": "실험실 검사가 완료될 때까지",
+            "use": "검증 완료 전까지의 시간적 조건절입니다.",
+            "example": "Until testing is complete, we must avoid absolute claims."
+          },
+          {
+            "chunk": "balancing exciting observations with evidence",
+            "meaning": "흥미진진한 관찰과 근거의 균형을 맞추며",
+            "use": "분사구문 'balancing A with B' (과학적 태도)입니다.",
+            "example": "Scientists balance exciting findings with rigorous evidence."
+          }
+        ],
+        "mustKnowGrammar": "시간 접속사절 'Until...', 주어 'scientists', 의무 조동사 'must communicate', 수단 분사구문 'using cautious language', 부대상황 분사구문 'balancing A with B' 구조입니다.",
+        "feynmanExplanation": "지구 연구소에서 검사가 다 끝날 때까지 과학자들은 흥분되는 마음을 가라앉히고 확실한 근거에 기반해서 조심스럽게 말해야 합니다.",
+        "teachingTranscript": [
+          {
+            "english": "Concluding ethos: Science requires patience, cautious language, and balance between excitement and evidence.",
+            "korean": "결론적 태도: 과학은 인내심, 신중한 언어, 그리고 기대감과 근거 사이의 균형을 요구합니다."
+          }
+        ]
+      },
+      {
+        "sentenceNumber": 24,
+        "original": "This balanced scientific approach helps students and researchers evaluate space discoveries objectively without falling into premature hype.",
+        "chunkReading": "This balanced scientific approach / helps students and researchers evaluate space discoveries objectively / without falling into premature hype.",
+        "directKorean": "이러한 균형 잡힌 과학적 접근법은 / 학생들과 연구자들이 우주 발견을 객관적으로 평가하도록 돕는다 / 성급한 과대광고에 빠지지 않고.",
+        "naturalKorean": "이러한 균형 잡힌 과학적 접근 방식은 학생들과 연구자들이 성급한 과대광고에 빠지지 않고 우주 탐사 발견을 객관적으로 평가할 수 있도록 도와줍니다.",
+        "mustKnowChunks": [
+          {
+            "chunk": "evaluate space discoveries objectively",
+            "meaning": "우주 발견을 객관적으로 평가하다",
+            "use": "이 단원의 핵심 비판적 사고 목표입니다.",
+            "example": "Students learn to evaluate space discoveries objectively."
+          },
+          {
+            "chunk": "without falling into premature hype",
+            "meaning": "성급한 과대광고/과장에 빠지지 않고",
+            "use": "전치사 'without + v-ing' 구문입니다.",
+            "example": "Evaluate findings without falling into premature hype."
+          }
+        ],
+        "mustKnowGrammar": "주어 'This balanced scientific approach', 준사역동사 'helps + 목적어 + 원형부정사(evaluate)', 부사 'objectively', 전치사구 'without falling into...' 구조입니다.",
+        "feynmanExplanation": "이렇게 신중하고 객관적으로 따져보는 습관을 들이면, 언론의 오버스러운 뉴스 제목에 속지 않고 과학적 진실을 똑똑하게 판별할 수 있습니다.",
+        "teachingTranscript": [
+          {
+            "english": "Final takeaway: Objective evidence evaluation guards against exaggeration and misleading news headlines.",
+            "korean": "최종 교훈: 객관적인 증거 평가는 과장과 오해를 부르는 뉴스 헤드라인으로부터 우리를 지켜줍니다."
+          }
+        ]
+      }
+    ],
+    "finalWritingSupport": {
+      "sentenceFrames": [
+        "The discovery of leopard spots on Cheyava Falls provides an intriguing potential biosignature, but scientists must evaluate the evidence with caution.",
+        "Perseverance directly observed millimeter-scale off-white spots surrounded by dark rings containing iron phosphate and hematite, alongside organic molecules.",
+        "Scientists interpret these patterns as potential evidence of ancient microbial redox reactions similar to iron reduction processes on Earth.",
+        "However, non-biological abiotic alternatives, such as high-temperature volcanic fluids or hydrothermal reactions with olivine, could also create identical signatures.",
+        "Because remote rover instruments cannot observe microscopic cellular structures directly, these observations suggest strong possibilities rather than definitive proof.",
+        "Therefore, space agencies should proceed with the Mars Sample Return mission to confirm ancient life through rigorous Earth laboratory testing."
+      ],
+      "usefulConnectors": [
+        "According to instrument scans",
+        "Direct observations reveal that",
+        "In contrast, scientists interpret",
+        "On Earth, microbes",
+        "However",
+        "For instance",
+        "In addition",
+        "Consequently",
+        "Therefore",
+        "Ultimately"
+      ],
+      "usefulVocabulary": [
+        "potential biosignature",
+        "direct observation",
+        "scientific interpretation",
+        "organic molecule",
+        "iron phosphate",
+        "hematite",
+        "olivine",
+        "redox reaction",
+        "abiotic",
+        "cautious language",
+        "sample return"
+      ],
+      "paragraphOutline": [
+        "Sentence 1: Clear topic sentence stating the evaluation of Cheyava Falls as a potential biosignature requiring cautious analysis.",
+        "Sentence 2: Citation of direct instrument observations (leopard spots, iron phosphate, hematite, organic molecules).",
+        "Sentence 3: Explanation of scientific interpretation (microbial redox reactions reducing iron).",
+        "Sentence 4: Address scientific uncertainty by explaining abiotic alternative possibilities (volcanic/hydrothermal olivine reactions).",
+        "Sentence 5: Cautious hedging synthesis explaining why current findings do not definitively prove life.",
+        "Sentence 6: Concluding recommendation advocating for Mars Sample Return and Earth laboratory testing."
+      ],
+      "commonESLMistakes": [
+        "Mistake 1: Stating that Perseverance found 100% confirmed alien life on Mars. Fix: Use 'potential biosignature' and 'suggests' rather than 'proves'.",
+        "Mistake 2: Confusing direct observations (minerals/spots) with scientific interpretations (microbial metabolism). Fix: Label physical spots as observations and microbial origin as hypothesis.",
+        "Mistake 3: Omitting abiotic alternatives. Fix: Include volcanic or hydrothermal reactions with olivine as non-living explanations.",
+        "Mistake 4: Writing sentences without cautious hedging verbs. Fix: Replace 'shows life existed' with 'may reflect past chemical activity'."
+      ],
+      "correctionPriorities": [
+        "Priority 1: Ensure paragraph clearly distinguishes direct observations from scientific interpretations.",
+        "Priority 2: Verify inclusion of specific chemical/mineral facts (iron phosphate, hematite, organic molecules, olivine).",
+        "Priority 3: Check that at least one abiotic alternative explanation is explained.",
+        "Priority 4: Check word count (100–140 words) and proper use of cautious scientific language."
+      ],
+      "extensionPrompt": "For Advanced Students: 'If returned Martian samples confirm abiotic hydrothermal chemistry rather than ancient life, why would Cheyava Falls still be considered a monumental scientific milestone for planetary geology? Write a 3-sentence justification.'"
+    }
+  }
+}
