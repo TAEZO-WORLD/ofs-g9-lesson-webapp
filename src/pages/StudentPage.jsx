@@ -9,14 +9,17 @@ import { gradeWritingWithAI } from '../utils/gradeWritingWithAI';
 import { getCorrectAnswer, isAnswerCorrect } from '../utils/questionHelpers';
 
 function buildInitialAnswers(questions) {
+  if (!questions || !Array.isArray(questions)) return {};
   return Object.fromEntries(questions.map((q) => [q.id, '']));
 }
 
 function buildInitialEvidence(prompts) {
+  if (!prompts || !Array.isArray(prompts)) return {};
   return Object.fromEntries(prompts.map((p) => [p.id, '']));
 }
 
 function buildInitialSelfCheck(items) {
+  if (!items || !Array.isArray(items)) return {};
   return Object.fromEntries(items.map((_, index) => [index, false]));
 }
 

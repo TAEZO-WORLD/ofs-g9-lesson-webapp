@@ -11,7 +11,7 @@ export async function fetchLessonIndex() {
 }
 
 export async function fetchLessonData(slug) {
-  const response = await fetch(`/lessons/${slug}/lesson-data.json`);
+  const response = await fetch(`/lessons/${slug}/lesson-data.json?t=${Date.now()}`);
 
   if (!response.ok) {
     throw new Error(`Lesson "${slug}" not found`);
