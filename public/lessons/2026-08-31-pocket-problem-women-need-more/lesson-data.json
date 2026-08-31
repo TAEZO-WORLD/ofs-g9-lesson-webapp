@@ -111,106 +111,116 @@
     "reference": "Paragraphs 1–3",
     "explanation": "Correct: Option B captures the core theme of the article—explaining women’s frustration with impractical pockets, highlighting social media awareness, and describing how designers are starting to respond. Option A incorrectly claims designers stopped making pockets altogether; Option C overstates social media as the sole factor; Option D falsely claims all women prefer one identical style."
   },
-  "comprehensionQuestions": [
-    {
-      "id": "RC1",
-      "question": "RC1. What has helped draw attention to the pocket problem, according to the article?",
-      "options": [
-        "A. A new rule requiring pockets in every garment.",
-        "B. A decline in the use of social media.",
-        "C. The #WeWantPockets trend on social media.",
-        "D. A competition to design the smallest pockets."
-      ],
-      "correctIndex": 2,
-      "reference": "Paragraph 1",
-      "explanation": "Correct: Option C directly matches Paragraph 1, which states that the question is getting attention 'especially with the rise of the #WeWantPockets trend on social media.' Option A, B, and D describe events not mentioned in the text."
-    },
-    {
-      "id": "RC2",
-      "question": "RC2. Why do women in the article feel frustrated with their pockets?",
-      "options": [
-        "A. The pockets are often tiny or fake.",
-        "B. The pockets are always too deep to use.",
-        "C. All shops have stopped selling clothes with pockets.",
-        "D. Designers require everyone to carry the same things."
-      ],
-      "correctIndex": 0,
-      "reference": "Paragraph 2",
-      "explanation": "Correct: Option A aligns with Paragraph 2: 'Women feel frustrated that their pockets are often tiny or even fake!' Options B, C, and D contradict or misstate the text."
-    },
-    {
-      "id": "RC3",
-      "question": "RC3. What does the article report about the 40% figure?",
-      "options": [
-        "A. Forty percent of designers refused to make clothing with pockets.",
-        "B. Forty percent of models put their hands in their pockets.",
-        "C. Forty percent of clothing shops sold only fake pockets.",
-        "D. A study found that 40% of women had put clothing back because it lacked real pockets."
-      ],
-      "correctIndex": 3,
-      "reference": "Paragraph 2",
-      "explanation": "Correct: Option D accurately states that 'A recent study showed that 40% of women have picked up clothing in a store only to put it back because it didn’t have real pockets.' Note: This is the article’s reported survey claim and is not an independently verified global statistic."
-    },
-    {
-      "id": "RC4",
-      "question": "RC4. What detail suggests that designers are beginning to take notice?",
-      "options": [
-        "A. Models stopped appearing in fashion shows.",
-        "B. Models walked down runways confidently with their hands in deep pockets.",
-        "C. Designers removed pockets from all recent collections.",
-        "D. Fashion experts stopped discussing clothing."
-      ],
-      "correctIndex": 1,
-      "reference": "Paragraph 3",
-      "explanation": "Correct: Option B reflects Paragraph 3: 'In recent shows, models strutted down the runway confidently with their hands in deep pockets.' Options A, C, and D contradict the text."
-    },
-    {
-      "id": "RC5",
-      "question": "RC5. What does the article connect with Claire McCardell's use of big pockets?",
-      "options": [
-        "A. Making clothing difficult to wear.",
-        "B. Requiring everyone to follow one fashion trend.",
-        "C. Helping women feel more independent.",
-        "D. Replacing clothing stores with social media."
-      ],
-      "correctIndex": 2,
-      "reference": "Paragraph 3",
-      "explanation": "Correct: Option C directly quotes the textual connection in Paragraph 3: 'Designers like Claire McCardell made big pockets popular in the past, knowing they help women feel more independent.'"
-    },
-    {
-      "id": "RC6",
-      "question": "RC6. What does the final sentence suggest?",
-      "options": [
-        "A. There has been progress, but the issue has not been fully resolved.",
-        "B. Pocket equality has already been achieved everywhere.",
-        "C. Designers have made no changes of any kind.",
-        "D. People no longer expect further change."
-      ],
-      "correctIndex": 0,
-      "reference": "Paragraph 3",
-      "explanation": "Correct: Option A accurately summarizes the concession and ongoing struggle in the final sentence: 'Although there has been progress, the battle for pocket equality continues, and many are hopeful change is on the way!'"
-    }
-  ],
-  "evidenceTasks": [
-    {
-      "id": "E1",
-      "question": "E1. What detail in the article suggests that useful pockets can affect shopping decisions? Explain the connection. Suggested 25–45 words.",
-      "modelAnswer": "The article reports that 40% of women in a study put clothing back because it did not have real pockets. This suggests that practical features can influence whether shoppers decide to buy an item.",
-      "compareTips": "Ensure you include the 40% study detail from Paragraph 2 and explain how the lack of real pockets led women to put clothing back instead of buying it."
-    },
-    {
-      "id": "E2",
-      "question": "E2. How does the article connect pockets with independence or meaning beyond appearance? Use two details. Suggested 30–50 words.",
-      "modelAnswer": "The article connects Claire McCardell’s big pockets with helping women feel more independent. It also reports Caroline Stevenson’s view that pockets have become symbolic. Together, these details suggest that pockets can matter for reasons beyond appearance.",
-      "compareTips": "Identify two distinct details from Paragraph 3: Claire McCardell’s big pockets promoting independence and Caroline Stevenson’s quote that pockets are symbolic."
-    },
-    {
-      "id": "E3",
-      "question": "E3. What evidence shows progress, and what evidence shows that the problem continues? Suggested 25–45 words.",
-      "modelAnswer": "Models appeared on recent runways with their hands in deep pockets, suggesting that designers are responding. However, the final sentence says the battle for pocket equality continues, so the article does not present the problem as solved.",
-      "compareTips": "Contrast runway models showing deep pockets (progress) with the final sentence stating that the battle for pocket equality continues (ongoing issue)."
-    }
-  ],
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "RC1. What has helped draw attention to the pocket problem, according to the article?",
+        "options": [
+          "A. A new rule requiring pockets in every garment.",
+          "B. A decline in the use of social media.",
+          "C. The #WeWantPockets trend on social media.",
+          "D. A competition to design the smallest pockets."
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 1",
+        "explanation": "Correct: Option C directly matches Paragraph 1, which states that the question is getting attention 'especially with the rise of the #WeWantPockets trend on social media.' Option A, B, and D describe events not mentioned in the text."
+      },
+      {
+        "id": "rc2",
+        "question": "RC2. Why do women in the article feel frustrated with their pockets?",
+        "options": [
+          "A. The pockets are often tiny or fake.",
+          "B. The pockets are always too deep to use.",
+          "C. All shops have stopped selling clothes with pockets.",
+          "D. Designers require everyone to carry the same things."
+        ],
+        "correctIndex": 0,
+        "reference": "Paragraph 2",
+        "explanation": "Correct: Option A aligns with Paragraph 2: 'Women feel frustrated that their pockets are often tiny or even fake!' Options B, C, and D contradict or misstate the text."
+      },
+      {
+        "id": "rc3",
+        "question": "RC3. What does the article report about the 40% figure?",
+        "options": [
+          "A. Forty percent of designers refused to make clothing with pockets.",
+          "B. Forty percent of models put their hands in their pockets.",
+          "C. Forty percent of clothing shops sold only fake pockets.",
+          "D. A study found that 40% of women had put clothing back because it lacked real pockets."
+        ],
+        "correctIndex": 3,
+        "reference": "Paragraph 2",
+        "explanation": "Correct: Option D accurately states that 'A recent study showed that 40% of women have picked up clothing in a store only to put it back because it didn’t have real pockets.' Note: This is the article’s reported survey claim and is not an independently verified global statistic."
+      },
+      {
+        "id": "rc4",
+        "question": "RC4. What detail suggests that designers are beginning to take notice?",
+        "options": [
+          "A. Models stopped appearing in fashion shows.",
+          "B. Models walked down runways confidently with their hands in deep pockets.",
+          "C. Designers removed pockets from all recent collections.",
+          "D. Fashion experts stopped discussing clothing."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 3",
+        "explanation": "Correct: Option B reflects Paragraph 3: 'In recent shows, models strutted down the runway confidently with their hands in deep pockets.' Options A, C, and D contradict the text."
+      },
+      {
+        "id": "rc5",
+        "question": "RC5. What does the article connect with Claire McCardell's use of big pockets?",
+        "options": [
+          "A. Making clothing difficult to wear.",
+          "B. Requiring everyone to follow one fashion trend.",
+          "C. Helping women feel more independent.",
+          "D. Replacing clothing stores with social media."
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 3",
+        "explanation": "Correct: Option C directly quotes the textual connection in Paragraph 3: 'Designers like Claire McCardell made big pockets popular in the past, knowing they help women feel more independent.'"
+      },
+      {
+        "id": "rc6",
+        "question": "RC6. What does the final sentence suggest?",
+        "options": [
+          "A. There has been progress, but the issue has not been fully resolved.",
+          "B. Pocket equality has already been achieved everywhere.",
+          "C. Designers have made no changes of any kind.",
+          "D. People no longer expect further change."
+        ],
+        "correctIndex": 0,
+        "reference": "Paragraph 3",
+        "explanation": "Correct: Option A accurately summarizes the concession and ongoing struggle in the final sentence: 'Although there has been progress, the battle for pocket equality continues, and many are hopeful change is on the way!'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer each question using specific evidence from the text.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "E1. What detail in the article suggests that useful pockets can affect shopping decisions? Explain the connection. Suggested 25–45 words.",
+        "modelAnswer": "The article reports that 40% of women in a study put clothing back because it did not have real pockets. This suggests that practical features can influence whether shoppers decide to buy an item.",
+        "compareTip": "Ensure you include the 40% study detail from Paragraph 2 and explain how the lack of real pockets led women to put clothing back instead of buying it.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev2",
+        "statement": "E2. How does the article connect pockets with independence or meaning beyond appearance? Use two details. Suggested 30–50 words.",
+        "modelAnswer": "The article connects Claire McCardell’s big pockets with helping women feel more independent. It also reports Caroline Stevenson’s view that pockets have become symbolic. Together, these details suggest that pockets can matter for reasons beyond appearance.",
+        "compareTip": "Identify two distinct details from Paragraph 3: Claire McCardell’s big pockets promoting independence and Caroline Stevenson’s quote that pockets are symbolic.",
+        "checkType": "evidence"
+      },
+      {
+        "id": "ev3",
+        "statement": "E3. What evidence shows progress, and what evidence shows that the problem continues? Suggested 25–45 words.",
+        "modelAnswer": "Models appeared on recent runways with their hands in deep pockets, suggesting that designers are responding. However, the final sentence says the battle for pocket equality continues, so the article does not present the problem as solved.",
+        "compareTip": "Contrast runway models showing deep pockets (progress) with the final sentence stating that the battle for pocket equality continues (ongoing issue).",
+        "checkType": "evidence"
+      }
+    ]
+  },
   "languageFocus": {
     "title": "Language Focus: Grammar & Textual Patterns",
     "sections": [
@@ -255,32 +265,36 @@
       }
     ]
   },
-  "writingPractice": [
-    {
-      "id": "WP1",
-      "question": "WP1. Write one sentence comparing pocket design using fewer and another using less. Suggested 15–35 words in total.",
-      "modelAnswer": "Some women’s clothes have fewer pockets than men’s clothes. Tiny pockets provide less space for everyday items.",
-      "compareTips": "Check that 'fewer' modifies a plural count noun (pockets) and 'less' modifies an uncountable noun (space, room, fabric)."
-    },
-    {
-      "id": "WP2",
-      "question": "WP2. Combine these ideas using although: \"Designers are beginning to respond\" and \"The pocket problem continues.\" Suggested 10–25 words.",
-      "modelAnswer": "Although designers are beginning to respond, the pocket problem continues.",
-      "compareTips": "Use 'although' at the beginning or middle of the combined sentence without adding 'but'."
-    },
-    {
-      "id": "WP3",
-      "question": "WP3. Write a sentence using \"only to\" to describe the shopping situation in the article. Suggested 15–30 words.",
-      "modelAnswer": "A shopper picked up an attractive jacket, only to put it back because it had no real pockets.",
-      "compareTips": "Ensure 'only to' introduces the unexpected disappointing result (putting the clothing back)."
-    },
-    {
-      "id": "WP4",
-      "question": "WP4. Write a two-sentence recommendation: explain a problem and suggest a practical improvement using should. Suggested 25–45 words.",
-      "modelAnswer": "Tiny or fake pockets can make clothing inconvenient for people who want to carry everyday items. Designers should offer useful pockets alongside attractive styles so that customers have more practical choices.",
-      "compareTips": "Sentence 1 describes the functional problem; Sentence 2 uses 'should' to propose a practical design solution."
-    }
-  ],
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete sentence-level writing practice applying key grammar and text patterns.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "WP1. Write one sentence comparing pocket design using fewer and another using less. Suggested 15–35 words in total.",
+        "modelAnswer": "Some women’s clothes have fewer pockets than men’s clothes. Tiny pockets provide less space for everyday items.",
+        "compareTip": "Check that 'fewer' modifies a plural count noun (pockets) and 'less' modifies an uncountable noun (space, room, fabric)."
+      },
+      {
+        "id": "wp2",
+        "question": "WP2. Combine these ideas using although: \"Designers are beginning to respond\" and \"The pocket problem continues.\" Suggested 10–25 words.",
+        "modelAnswer": "Although designers are beginning to respond, the pocket problem continues.",
+        "compareTip": "Use 'although' at the beginning or middle of the combined sentence without adding 'but'."
+      },
+      {
+        "id": "wp3",
+        "question": "WP3. Write a sentence using \"only to\" to describe the shopping situation in the article. Suggested 15–30 words.",
+        "modelAnswer": "A shopper picked up an attractive jacket, only to put it back because it had no real pockets.",
+        "compareTip": "Ensure 'only to' introduces the unexpected disappointing result (putting the clothing back)."
+      },
+      {
+        "id": "wp4",
+        "question": "WP4. Write a two-sentence recommendation: explain a problem and suggest a practical improvement using should. Suggested 25–45 words.",
+        "modelAnswer": "Tiny or fake pockets can make clothing inconvenient for people who want to carry everyday items. Designers should offer useful pockets alongside attractive styles so that customers have more practical choices.",
+        "compareTip": "Sentence 1 describes the functional problem; Sentence 2 uses 'should' to propose a practical design solution."
+      }
+    ]
+  },
   "writingTask": {
     "title": "Evidence-Based Recommendation Paragraph",
     "prompt": "Should fashion designers give greater priority to useful pockets in women’s clothing? Write a 100–140-word recommendation paragraph. State your position, use at least two details from the article, explain why they matter, acknowledge progress or another consideration, and suggest a practical design improvement.",
@@ -313,128 +327,62 @@
       "I verified my student identity and code before clicking Submit."
     ]
   },
-  "teacherMode": {
+  "teacher": {
     "answerKey": {
-      "mcqs": [
-        {
-          "id": "MI1",
-          "answer": "B",
-          "note": "Captures the full scope: women’s demand for functional pockets and initial designer response."
-        },
-        {
-          "id": "RC1",
-          "answer": "C",
-          "note": "Directly supported by Paragraph 1 (#WeWantPockets trend)."
-        },
-        {
-          "id": "RC2",
-          "answer": "A",
-          "note": "Directly supported by Paragraph 2 (pockets are tiny or fake)."
-        },
-        {
-          "id": "RC3",
-          "answer": "D",
-          "note": "Supported by Paragraph 2 (40% put clothing back in store)."
-        },
-        {
-          "id": "RC4",
-          "answer": "B",
-          "note": "Supported by Paragraph 3 (models on runway with hands in deep pockets)."
-        },
-        {
-          "id": "RC5",
-          "answer": "C",
-          "note": "Supported by Paragraph 3 (Claire McCardell knowing pockets help women feel independent)."
-        },
-        {
-          "id": "RC6",
-          "answer": "A",
-          "note": "Supported by Paragraph 3 (battle for equality continues despite progress)."
-        }
-      ],
-      "evidence": [
-        {
-          "id": "E1",
-          "model": "The article reports that 40% of women in a study put clothing back because it did not have real pockets. This suggests that practical features can influence whether shoppers decide to buy an item."
-        },
-        {
-          "id": "E2",
-          "model": "The article connects Claire McCardell’s big pockets with helping women feel more independent. It also reports Caroline Stevenson’s view that pockets have become symbolic. Together, these details suggest that pockets can matter for reasons beyond appearance."
-        },
-        {
-          "id": "E3",
-          "model": "Models appeared on recent runways with their hands in deep pockets, suggesting that designers are responding. However, the final sentence says the battle for pocket equality continues, so the article does not present the problem as solved."
-        }
-      ],
-      "writingPractice": [
-        {
-          "id": "WP1",
-          "model": "Some women’s clothes have fewer pockets than men’s clothes. Tiny pockets provide less space for everyday items."
-        },
-        {
-          "id": "WP2",
-          "model": "Although designers are beginning to respond, the pocket problem continues."
-        },
-        {
-          "id": "WP3",
-          "model": "A shopper picked up an attractive jacket, only to put it back because it had no real pockets."
-        },
-        {
-          "id": "WP4",
-          "model": "Tiny or fake pockets can make clothing inconvenient for people who want to carry everyday items. Designers should offer useful pockets alongside attractive styles so that customers have more practical choices."
-        }
-      ],
-      "finalTaskModel": "Designers should give greater priority to useful pockets in women’s clothing. According to the article, women feel frustrated when pockets are too small or fake. It also reports that 40% of women in a study put clothing back because it lacked real pockets. This suggests that practical features can influence shopping decisions. The article also connects larger pockets with independence through Claire McCardell’s designs. Although recent runway shows suggest progress, the text says the problem continues. Designers should therefore offer clothing with pockets that can hold everyday items while allowing different styles. Useful pockets would give customers more practical choices. However, the survey’s source and scope should be checked before its percentage is applied to all women."
+      "mainIdea": 1,
+      "readingComprehension": {
+        "rc1": 2,
+        "rc2": 0,
+        "rc3": 3,
+        "rc4": 1,
+        "rc5": 2,
+        "rc6": 0
+      },
+      "evidenceFromText": {
+        "ev1": "The article reports that 40% of women in a study put clothing back because it did not have real pockets. This suggests that practical features can influence whether shoppers decide to buy an item.",
+        "ev2": "The article connects Claire McCardell’s big pockets with helping women feel more independent. It also reports Caroline Stevenson’s view that pockets have become symbolic. Together, these details suggest that pockets can matter for reasons beyond appearance.",
+        "ev3": "Models appeared on recent runways with their hands in deep pockets, suggesting that designers are responding. However, the final sentence says the battle for pocket equality continues, so the article does not present the problem as solved."
+      },
+      "writingPractice": {
+        "wp1": "Some women’s clothes have fewer pockets than men’s clothes. Tiny pockets provide less space for everyday items.",
+        "wp2": "Although designers are beginning to respond, the pocket problem continues.",
+        "wp3": "A shopper picked up an attractive jacket, only to put it back because it had no real pockets.",
+        "wp4": "Tiny or fake pockets can make clothing inconvenient for people who want to carry everyday items. Designers should offer useful pockets alongside attractive styles so that customers have more practical choices."
+      }
     },
-    "rubric": {
-      "criteria": [
-        {
-          "name": "Content & Claim (20%)",
-          "descriptors": {
-            "excellent": "Formulates a precise, highly relevant recommendation on clothing functionality that directly addresses the prompt.",
-            "good": "States a clear recommendation position with relevant focus.",
-            "developing": "Presents a vague or incomplete recommendation stance.",
-            "needsImprovement": "Missing a clear stance or off-topic."
-          }
-        },
-        {
-          "name": "Evidence Integration (25%)",
-          "descriptors": {
-            "excellent": "Seamlessly integrates 2+ accurate details from the text (40% study, runway shows, McCardell) with precise source attribution.",
-            "good": "Includes 2 textual details with basic attribution.",
-            "developing": "Includes 1 detail or relies on unverified personal assertions without text references.",
-            "needsImprovement": "No textual evidence provided."
-          }
-        },
-        {
-          "name": "Language & Contrast (25%)",
-          "descriptors": {
-            "excellent": "Demonstrates flawless command of target patterns (fewer vs. less, although without double-conjunction, embedded questions, modal recommendation).",
-            "good": "Uses target contrast and recommendation structures accurately with minor errors.",
-            "developing": "Attempts contrast structures but shows errors (e.g., using both although and but).",
-            "needsImprovement": "Lacks contrast or recommendation structures."
-          }
-        },
-        {
-          "name": "Organization & Frame (15%)",
-          "descriptors": {
-            "excellent": "Follows a logical progression (Position -> Evidence -> Explanation -> Contrast -> Recommendation -> Conclusion) with effective transitions.",
-            "good": "Well-organized paragraph structure with minor flow gaps.",
-            "developing": "Disorganized sequence making reasoning difficult to follow.",
-            "needsImprovement": "Fragmented sentences without paragraph structure."
-          }
-        },
-        {
-          "name": "Length & Mechanics (15%)",
-          "descriptors": {
-            "excellent": "Strictly within 100–140 words with accurate spelling, punctuation, and capitalization.",
-            "good": "Within 90–150 words with minor mechanical errors.",
-            "developing": "Significantly under or over length (70–89 or 151–170 words).",
-            "needsImprovement": "Extremely brief (<70 words) or unedited draft."
-          }
-        }
-      ]
-    },
+    "modelAnswer": "Designers should give greater priority to useful pockets in women’s clothing. According to the article, women feel frustrated when pockets are too small or fake. It also reports that 40% of women in a study put clothing back because it lacked real pockets. This suggests that practical features can influence shopping decisions. The article also connects larger pockets with independence through Claire McCardell’s designs. Although recent runway shows suggest progress, the text says the problem continues. Designers should therefore offer clothing with pockets that can hold everyday items while allowing different styles. Useful pockets would give customers more practical choices. However, the survey’s source and scope should be checked before its percentage is applied to all women.",
+    "rubric": [
+      {
+        "criterion": "Content & Claim (20%)",
+        "excellent": "Formulates a precise, highly relevant recommendation on clothing functionality that directly addresses the prompt.",
+        "developing": "States a clear recommendation position with relevant focus.",
+        "beginning": "Presents a vague or incomplete recommendation stance."
+      },
+      {
+        "criterion": "Evidence Integration (25%)",
+        "excellent": "Seamlessly integrates 2+ accurate details from the text (40% study, runway shows, McCardell) with precise source attribution.",
+        "developing": "Includes 2 textual details with basic attribution.",
+        "beginning": "Includes 1 detail or relies on unverified personal assertions."
+      },
+      {
+        "criterion": "Language & Contrast (25%)",
+        "excellent": "Demonstrates flawless command of target patterns (fewer vs. less, although without double-conjunction, embedded questions, modal recommendation).",
+        "developing": "Uses target contrast and recommendation structures accurately with minor errors.",
+        "beginning": "Attempts contrast structures but shows errors (e.g., using both although and but)."
+      },
+      {
+        "criterion": "Organization & Frame (15%)",
+        "excellent": "Follows a logical progression (Position -> Evidence -> Explanation -> Contrast -> Recommendation -> Conclusion) with effective transitions.",
+        "developing": "Well-organized paragraph structure with minor flow gaps.",
+        "beginning": "Disorganized sequence making reasoning difficult to follow."
+      },
+      {
+        "criterion": "Length & Mechanics (15%)",
+        "excellent": "Strictly within 100–140 words with accurate spelling, punctuation, and capitalization.",
+        "developing": "Within 90–150 words with minor mechanical errors.",
+        "beginning": "Significantly under or over length."
+      }
+    ],
     "teacherNotes": [
       "Source Literacy & Attribution: Remind students that 'Source: BBC' on classroom printouts represents the image header, but the specific article URL, survey methodology, and sample population for the 40% study figure are not detailed. Teach students to attribute claims to 'the article' or 'a reported study' rather than stating them as absolute global truths.",
       "Practical vs. Symbolic Value: Help students analyze how pockets represent both functional utility (holding items) and social symbolism (independence, equality, freedom from carrying bags). Reference Claire McCardell’s historical contribution in the 1940s.",
@@ -444,139 +392,75 @@
     "teachingScript": [
       {
         "phase": "1. Lead-in / Warm-up",
-        "timeMinutes": 8,
-        "objective": "Activate prior knowledge about pocket design, clothing convenience, and shopping factors.",
-        "steps": [
+        "duration": "8 min",
+        "script": [
           "Greet the class and direct students to Warm-up questions W1–W3.",
           "Pair students to discuss what items they carry daily and what makes a pocket useful or frustrating.",
           "Conduct a quick 2-minute whole-class poll on whether anyone has ever chosen not to buy an item because it lacked pockets."
-        ],
-        "teacherLanguage": {
-          "english": "Welcome everyone! Today we are looking at a design issue that affects millions of shoppers every day: pockets! Turn to Warm-up W1–W3. Discuss with your partner what you usually carry in your pockets and why pocket depth matters.",
-          "korean": "여러분 안녕하세요! 오늘은 매일 수많은 소비자가 겪는 디자인 문제인 주머니에 대해 알아봅니다. 워밍업 Q1~Q3을 짝과 함께 논의해 보세요."
-        },
-        "expectedResponses": "Students will mention phones, keys, and transit cards, noting that shallow or fake pockets lead to dropped items or needing an extra bag.",
-        "misconceptionAlert": "Students might think pockets are purely decorative. Clarify that for many shoppers, pockets are essential functional tools.",
-        "transition": "Now that we have thought about pocket utility, let’s explore our key vocabulary before reading."
+        ]
       },
       {
         "phase": "2. Vocabulary in Context",
-        "timeMinutes": 10,
-        "objective": "Master 10 source-based target vocabulary items and clarify nuances (e.g., dress as general clothing style).",
-        "steps": [
+        "duration": "10 min",
+        "script": [
           "Present vocabulary items 1–10 with pronunciation, definitions, and Korean equivalents.",
           "Emphasize *take notice*, *strut*, *symbolic*, and the distinction between *fewer* (countable) and *less* (uncountable).",
           "Clarify that in Stevenson’s quote, *dress* refers to clothing/fashion in general, not just a one-piece dress."
-        ],
-        "teacherLanguage": {
-          "english": "Let’s check our 10 key words. Notice the word *frustrated*—feeling annoyed because of a problem. Look at *symbolic*—representing a bigger idea. Also, in the article quote, *dress* means general clothing or attire, not only a woman’s dress.",
-          "korean": "어휘 10개를 살펴봅시다. frustrated는 답답함을 느끼는 상태이며, symbolic은 더 큰 의미를 상징함을 나타냅니다. 인용문의 dress는 원피스만을 의미하는 것이 아니라 의복 전반을 뜻합니다."
-        },
-        "expectedResponses": "Students repeat pronunciation and practice constructing short sample sentences with *frustrated* and *take notice*.",
-        "misconceptionAlert": "Students may confuse *fewer* and *less*. Remind them: *fewer pockets* (countable), *less space* (uncountable).",
-        "transition": "With our vocabulary ready, let’s read the article for the main idea."
+        ]
       },
       {
         "phase": "3. Gist Reading (First Pass)",
-        "timeMinutes": 7,
-        "objective": "Read the 147-word article silently and identify the main topic (MI1).",
-        "steps": [
+        "duration": "7 min",
+        "script": [
           "Give students 3 minutes to read the 3-paragraph text silently.",
           "Ask students to complete MI1 (Main Idea MCQ).",
           "Confirm why Option B is correct and review why A, C, and D are incorrect distractors."
-        ],
-        "teacherLanguage": {
-          "english": "Read the text carefully. It is concise—147 words across 3 paragraphs. Focus on what the main problem is and how fashion designers are reacting. Then answer MI1.",
-          "korean": "글을 주의 깊게 읽으세요. 3개 단락 147자의 짧은 글입니다. 주요 문제와 디자이너들의 반응에 집중하며 MI1을 풀어보세요."
-        },
-        "expectedResponses": "Students select Option B (women wanting useful pockets and designers starting to respond).",
-        "misconceptionAlert": "Ensure students do not pick Option A (designers stopped making pockets) by checking Paragraph 3.",
-        "transition": "Great gist understanding! Now let’s analyze specific details with the Comprehension questions."
+        ]
       },
       {
         "phase": "4. Detail / Evidence Reading",
-        "timeMinutes": 15,
-        "objective": "Answer comprehension MCQs RC1–RC6 and complete Evidence tasks E1–E3.",
-        "steps": [
+        "duration": "15 min",
+        "script": [
           "Guide students through RC1–RC6, referencing exact paragraph locations for each answer.",
           "Instruct students to complete Evidence tasks E1–E3 in their textareas.",
           "Model how to attribute reported figures (e.g., 'According to the article, a study found 40%...')."
-        ],
-        "teacherLanguage": {
-          "english": "Now look closely at RC1 through RC6 and Evidence questions E1 to E3. For E1, cite the 40% survey detail and explain how it influences buying decisions.",
-          "korean": "이제 RC1~RC6과 증거 문제 E1~E3를 세밀히 살펴봅시다. E1에서는 40% 조사 결과를 인용하고 구매 결정에 미치는 영향을 설명하세요."
-        },
-        "expectedResponses": "Students write concise evidence responses (25–45 words) identifying survey numbers, runway models, and historical context.",
-        "misconceptionAlert": "Warn students against claiming that 40% of all human beings were surveyed; attribute it as a reported study in the text.",
-        "transition": "Excellent work with textual evidence. Let’s turn to our Language Focus grammar patterns."
+        ]
       },
       {
         "phase": "5. Language Focus",
-        "timeMinutes": 12,
-        "objective": "Examine 5 key linguistic structures from the text (fewer vs. less, embedded questions, only to, with phrases, although).",
-        "steps": [
+        "duration": "12 min",
+        "script": [
           "Explain *fewer* + plural count noun vs. *less* + uncountable noun.",
           "Demonstrate embedded question word order: *wonder why women’s clothes have...*",
           "Highlight *only to + verb* for disappointing results and *although* for concession without *but*."
-        ],
-        "teacherLanguage": {
-          "english": "Look at Language Focus. When we embed a question like \"Why do clothes have fewer pockets?\", we say: \"Have you ever wondered why women’s clothes have fewer pockets?\" Notice we do NOT invert the verb!",
-          "korean": "언어 초점을 봅시다. 간접의문문에서는 동사 주어 위치를 바꾸지 않고 평서문 어순(주어+동사)을 사용합니다."
-        },
-        "expectedResponses": "Students practice converting direct questions to embedded clause order and correcting double-conjunction errors.",
-        "misconceptionAlert": "Remind students never to write *Although... but...* together in a sentence pair.",
-        "transition": "Now let's apply these structures in Writing Practice WP1–WP4."
+        ]
       },
       {
         "phase": "6. Writing Practice",
-        "timeMinutes": 13,
-        "objective": "Complete sentence-level guided writing items WP1–WP4 with live feedback and compareTips.",
-        "steps": [
+        "duration": "13 min",
+        "script": [
           "Have students draft responses for WP1 (fewer/less comparison), WP2 (although combination), WP3 (only to result), and WP4 (two-sentence recommendation).",
           "Use Check & Compare to let students evaluate their sentences against the model answers.",
           "Provide targeted teacher feedback on structural accuracy."
-        ],
-        "teacherLanguage": {
-          "english": "Complete WP1 through WP4. For WP2, combine the two ideas using *although* at the start. Make sure you don’t accidentally insert *but*!",
-          "korean": "WP1부터 WP4까지 작성하세요. WP2에서는 문두에 although를 사용하여 두 문장을 연결하되 but을 중복 사용하지 마세요."
-        },
-        "expectedResponses": "Students produce grammatically accurate comparative and recommendation sentences matching model patterns.",
-        "misconceptionAlert": "If a student writes *Although... but...*, prompt them to remove *but*.",
-        "transition": "You are now ready to construct your full Evidence-Based Recommendation Paragraph!"
+        ]
       },
       {
         "phase": "7. Final Writing Task",
-        "timeMinutes": 20,
-        "objective": "Draft a 100–140 word recommendation paragraph using the 6-part paragraph frame and textual evidence.",
-        "steps": [
+        "duration": "20 min",
+        "script": [
           "Review the prompt and 6-step paragraph frame (Position -> Evidence 1 -> Explanation -> Evidence 2/Contrast -> Recommendation -> Conclusion).",
           "Students write their recommendation paragraph in the interactive textarea.",
           "Encourage students to use live word count and run the built-in Writing Check for instant feedback."
-        ],
-        "teacherLanguage": {
-          "english": "You have 20 minutes to write your 100–140-word recommendation paragraph. State your recommendation clearly, include two details from the text, use concession (*although*), and suggest a practical design fix.",
-          "korean": "20분 동안 100~140자 추천 단락을 작성합니다. 명확한 입장을 밝히고, 본문 세부사항 2가지를 인용하며, 양보 구문(although)과 실용적 디자인 제안을 포함하세요."
-        },
-        "expectedResponses": "Students compose structured 100–140-word paragraphs incorporating textual details and recommendations.",
-        "misconceptionAlert": "Remind students that agreeing or disagreeing with the model is fine as long as their argument is supported with evidence.",
-        "transition": "Time for self-check and submission!"
+        ]
       },
       {
         "phase": "8. Self-Check & Submission",
-        "timeMinutes": 5,
-        "objective": "Complete the 6-point checklist, review writing metrics, and submit student work.",
-        "steps": [
+        "duration": "5 min",
+        "script": [
           "Students review Self-Check items 1–6.",
           "Verify student code and name in submission header.",
           "Click Submit to send responses to D1 database / local storage fallback."
-        ],
-        "teacherLanguage": {
-          "english": "Check all 6 items on your Self-Check list. Verify your student name and code, then click Submit to finalize your work. Excellent effort today!",
-          "korean": "Self-Check 6개 항목을 확인하고 학생 이름과 코드를 검증한 후 Submit 버튼을 눌러 제출을 완료하세요."
-        },
-        "expectedResponses": "Students complete the self-check, confirm submission status, and receive confirmation feedback.",
-        "misconceptionAlert": "Ensure students do not leave required fields blank before submitting.",
-        "transition": "Lesson completed successfully."
+        ]
       }
     ],
     "detailedSentenceAnalysis": [
