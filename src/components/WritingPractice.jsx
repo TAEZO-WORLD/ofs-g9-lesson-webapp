@@ -20,9 +20,10 @@ export default function WritingPractice({
         placeholder: 'Write 2–4 sentences here...',
       };
     }
+    const questionText = p.question || p.instruction || p.statement || p.text || '';
     return {
       id: p.id || `wp${index + 1}`,
-      question: p.question,
+      question: questionText,
       placeholder: p.placeholder || 'Write 2–4 sentences here...',
       modelAnswer: p.modelAnswer,
       compareTip: p.compareTip,
@@ -42,11 +43,14 @@ export default function WritingPractice({
     <SectionCard icon="📝" title={title} instructions={instructions}>
       {normalizedPrompts.map((prompt, index) => {
         const value = answers[prompt.id] ?? '';
+        const displayQuestion = /^\d+\.\s*/.test(prompt.question)
+          ? prompt.question
+          : `${index + 1}. ${prompt.question}`;
 
         return (
           <div key={prompt.id} className="question-block">
             <p className="question-block__label">
-              {index + 1}. {prompt.question}
+              {displayQuestion}
             </p>
             <WrittenResponseWithCheck
               id={prompt.id}

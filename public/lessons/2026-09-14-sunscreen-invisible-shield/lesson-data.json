@@ -335,25 +335,25 @@
     "prompts": [
       {
         "id": "wp1",
-        "instruction": "1. Combine one physical- and one chemical-sunscreen fact using whereas.",
+        "question": "Combine one physical- and one chemical-sunscreen fact using whereas.",
         "compareTip": "Use whereas to contrast physical sunscreen (reflects rays) with chemical sunscreen (absorbs rays).",
         "modelAnswer": "Physical sunscreen sits on top of the skin and reflects UV rays away, whereas chemical sunscreen soaks into the skin and absorbs UV rays."
       },
       {
         "id": "wp2",
-        "instruction": "2. Write a sentence explaining UVA or UVB with a which clause.",
+        "question": "Write a sentence explaining UVA or UVB with a which clause.",
         "compareTip": "Use a which clause (e.g. which causes aging / which causes sunburns) to explain UVA or UVB.",
         "modelAnswer": "Sunscreen protects against UVA rays, which penetrate deeply and cause premature aging and wrinkles."
       },
       {
         "id": "wp3",
-        "instruction": "3. Put Blake, Greiter, and Green into one chronological mini-summary using sequence markers.",
+        "question": "Put Blake, Greiter, and Green into one chronological mini-summary using sequence markers.",
         "compareTip": "Use chronological markers like In the 1930s, In 1938, and Then in the 1940s to summarize all three inventors.",
         "modelAnswer": "In the 1930s, Milton Blake mixed early sunscreen in his kitchen; later, in 1938, Franz Greiter developed lotion after a mountain climb; then, in the 1940s, Benjamin Green invented a thick sunscreen for troops."
       },
       {
         "id": "wp4",
-        "instruction": "4. Explain the difference between SPF and PA in two connected sentences.",
+        "question": "Explain the difference between SPF and PA in two connected sentences.",
         "compareTip": "State what SPF measures (UVB / sunburn) in sentence 1 and what PA ratings measure (UVA / plus signs) in sentence 2.",
         "modelAnswer": "SPF measures how effectively a sunscreen protects your skin against UVB rays that cause sunburns. In contrast, PA ratings indicate the level of protection against UVA rays, with more plus signs representing stronger defense against skin aging."
       }
