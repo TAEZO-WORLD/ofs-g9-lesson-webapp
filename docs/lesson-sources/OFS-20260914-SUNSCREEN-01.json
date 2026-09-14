@@ -1,0 +1,59 @@
+{
+  "taskId": "OFS-20260914-SUNSCREEN-01",
+  "slug": "2026-09-14-sunscreen-invisible-shield",
+  "title": "Sunscreen: Your Skin’s Invisible Shield",
+  "sourceNote": "Original text transcribed from two teacher-provided classroom images.",
+  "intro": "Before you run outside to play, someone probably reminds you to “put on sunscreen!” But why? Sunscreen is like a force field for your skin. Let’s dive into how it works, what it protects you from, and why it matters.",
+  "sections": [
+    {
+      "heading": "What Is Sunscreen, Really?",
+      "paragraphs": [
+        "Sunscreen is a lotion, spray, or stick you put on your skin to protect it from the sun’s ultraviolet (UV) rays. These rays are invisible, but they can still cause sunburns, wrinkles, and even skin cancer if you get too much of them.",
+        "Ultraviolet (UV) radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns). Both can damage your skin cells and increase the risk of skin cancer.",
+        "There are two main types of sunscreen:"
+      ],
+      "table": {
+        "headers": [
+          "Type",
+          "How It Works",
+          "Example Ingredients"
+        ],
+        "rows": [
+          [
+            "Physical (mineral)",
+            "Sits on top of your skin and reflects UV rays away",
+            "Zinc oxide, titanium dioxide"
+          ],
+          [
+            "Chemical",
+            "Soaks into your skin and absorbs UV rays, turning them into heat",
+            "Avobenzone, oxybenzone"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How Was Sunscreen First Made?",
+      "paragraphs": [
+        "In the 1930s, Australian chemist Milton Blake mixed sunscreen by hand in his kitchen using pots and a kerosene heater. He went through a lot of trial and error until he created one of the first real sunscreens!",
+        "In 1938, Swiss student Franz Greiter made his own lotion after getting sunburned while mountain climbing. Then in the 1940s, U.S. soldier Benjamin Green created a thicker sunscreen for troops using red veterinary jelly."
+      ]
+    },
+    {
+      "heading": "What Do SPF and “+” Signs Mean?",
+      "paragraphs": [
+        "SPF stands for Sun Protection Factor. It tells you how well sunscreen protects against UVB rays (the ones that cause sunburn)."
+      ],
+      "bullets": [
+        "SPF 30 means you can stay in the sun 30 times longer without burning than if you wore no sunscreen.",
+        "SPF 50+ gives even more protection, but no sunscreen blocks 100% of rays."
+      ],
+      "paragraphsAfterBullets": [
+        "Some bottles also show PA+ to PA++++. This is about UVA rays, which can cause wrinkles and deeper skin damage."
+      ],
+      "secondaryBullets": [
+        "More plus signs = more UVA protection."
+      ]
+    }
+  ]
+}

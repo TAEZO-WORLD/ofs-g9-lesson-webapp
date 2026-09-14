@@ -1,0 +1,900 @@
+{
+  "lessonTitle": "Sunscreen: Your Skin’s Invisible Shield",
+  "ofsUnit": "Unit 3 — Science, Health & Everyday Life",
+  "textType": "Informational Explanation / Compare-and-Explain Paragraph",
+  "lessonGoal": "Students explain what sunscreen protects against, compare the two sunscreen types described in the source, interpret the source’s SPF/PA labels, and write a clear evidence-based explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. Share your initial thoughts on sunscreen, UV rays, and how you choose skin protection.",
+    "questions": [
+      "When and why do people use sunscreen?",
+      "What do you think UVA, UVB, and SPF mean?",
+      "What information do you check before choosing a sunscreen?"
+    ]
+  },
+  "article": {
+    "title": "Sunscreen: Your Skin’s Invisible Shield",
+    "sourceNote": "Original text transcribed from two teacher-provided classroom images.",
+    "intro": "Before you run outside to play, someone probably reminds you to “put on sunscreen!” But why? Sunscreen is like a force field for your skin. Let’s dive into how it works, what it protects you from, and why it matters.",
+    "sections": [
+      {
+        "heading": "What Is Sunscreen, Really?",
+        "paragraphs": [
+          "Sunscreen is a lotion, spray, or stick you put on your skin to protect it from the sun’s ultraviolet (UV) rays. These rays are invisible, but they can still cause sunburns, wrinkles, and even skin cancer if you get too much of them.",
+          "Ultraviolet (UV) radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns). Both can damage your skin cells and increase the risk of skin cancer.",
+          "There are two main types of sunscreen:"
+        ],
+        "table": {
+          "headers": [
+            "Type",
+            "How It Works",
+            "Example Ingredients"
+          ],
+          "rows": [
+            [
+              "Physical (mineral)",
+              "Sits on top of your skin and reflects UV rays away",
+              "Zinc oxide, titanium dioxide"
+            ],
+            [
+              "Chemical",
+              "Soaks into your skin and absorbs UV rays, turning them into heat",
+              "Avobenzone, oxybenzone"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "How Was Sunscreen First Made?",
+        "paragraphs": [
+          "In the 1930s, Australian chemist Milton Blake mixed sunscreen by hand in his kitchen using pots and a kerosene heater. He went through a lot of trial and error until he created one of the first real sunscreens!",
+          "In 1938, Swiss student Franz Greiter made his own lotion after getting sunburned while mountain climbing. Then in the 1940s, U.S. soldier Benjamin Green created a thicker sunscreen for troops using red veterinary jelly."
+        ]
+      },
+      {
+        "heading": "What Do SPF and “+” Signs Mean?",
+        "paragraphs": [
+          "SPF stands for Sun Protection Factor. It tells you how well sunscreen protects against UVB rays (the ones that cause sunburn)."
+        ],
+        "bullets": [
+          "SPF 30 means you can stay in the sun 30 times longer without burning than if you wore no sunscreen.",
+          "SPF 50+ gives even more protection, but no sunscreen blocks 100% of rays."
+        ],
+        "paragraphsAfterBullets": [
+          "Some bottles also show PA+ to PA++++. This is about UVA rays, which can cause wrinkles and deeper skin damage."
+        ],
+        "secondaryBullets": [
+          "More plus signs = more UVA protection."
+        ]
+      }
+    ],
+    "paragraphs": [
+      "Before you run outside to play, someone probably reminds you to “put on sunscreen!” But why? Sunscreen is like a force field for your skin. Let’s dive into how it works, what it protects you from, and why it matters.",
+      "What Is Sunscreen, Really?",
+      "Sunscreen is a lotion, spray, or stick you put on your skin to protect it from the sun’s ultraviolet (UV) rays. These rays are invisible, but they can still cause sunburns, wrinkles, and even skin cancer if you get too much of them.",
+      "Ultraviolet (UV) radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns). Both can damage your skin cells and increase the risk of skin cancer.",
+      "There are two main types of sunscreen:",
+      "Type | How It Works | Example Ingredients",
+      "Physical (mineral) | Sits on top of your skin and reflects UV rays away | Zinc oxide, titanium dioxide",
+      "Chemical | Soaks into your skin and absorbs UV rays, turning them into heat | Avobenzone, oxybenzone",
+      "How Was Sunscreen First Made?",
+      "In the 1930s, Australian chemist Milton Blake mixed sunscreen by hand in his kitchen using pots and a kerosene heater. He went through a lot of trial and error until he created one of the first real sunscreens!",
+      "In 1938, Swiss student Franz Greiter made his own lotion after getting sunburned while mountain climbing. Then in the 1940s, U.S. soldier Benjamin Green created a thicker sunscreen for troops using red veterinary jelly.",
+      "What Do SPF and “+” Signs Mean?",
+      "SPF stands for Sun Protection Factor. It tells you how well sunscreen protects against UVB rays (the ones that cause sunburn).",
+      "• SPF 30 means you can stay in the sun 30 times longer without burning than if you wore no sunscreen.",
+      "• SPF 50+ gives even more protection, but no sunscreen blocks 100% of rays.",
+      "Some bottles also show PA+ to PA++++. This is about UVA rays, which can cause wrinkles and deeper skin damage.",
+      "• More plus signs = more UVA protection."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms from the text below. Note the part of speech, definition, Korean meaning, and example sentence.",
+    "items": [
+      {
+        "word": "ultraviolet",
+        "partOfSpeech": "adjective / noun",
+        "definition": "having a wavelength shorter than visible violet light but longer than X-rays; invisible high-energy rays from the sun",
+        "korean": "자외선의, 자외선",
+        "sentence": "Ultraviolet radiation from the sun can pass through clouds and damage unprotected skin."
+      },
+      {
+        "word": "radiation",
+        "partOfSpeech": "noun",
+        "definition": "energy that travels in the form of waves or high-speed particles, such as light, heat, or X-rays",
+        "korean": "방사선, (에너지) 방사",
+        "sentence": "Solar radiation reaches the Earth every day in the form of heat, visible light, and UV rays."
+      },
+      {
+        "word": "invisible",
+        "partOfSpeech": "adjective",
+        "definition": "impossible to see with human eyes",
+        "korean": "보이지 않는, 눈에 보이지 않는",
+        "sentence": "Ultraviolet rays are invisible to human eyes, but their effects can easily be felt on the skin."
+      },
+      {
+        "word": "reflect",
+        "partOfSpeech": "verb",
+        "definition": "to throw back or bounce light, heat, or rays off a surface without absorbing them",
+        "korean": "반사하다, 튕겨 내다",
+        "sentence": "Physical sunscreen minerals reflect sunlight away from the skin surface."
+      },
+      {
+        "word": "absorb",
+        "partOfSpeech": "verb",
+        "definition": "to take in or soak up energy, liquid, or light",
+        "korean": "흡수하다, 받아들이다",
+        "sentence": "Chemical sunscreen ingredients absorb ultraviolet radiation and convert it into heat energy."
+      },
+      {
+        "word": "ingredient",
+        "partOfSpeech": "noun",
+        "definition": "one of the component substances or active chemicals that make up a mixture or formula",
+        "korean": "성분, 재료",
+        "sentence": "Zinc oxide is a common mineral ingredient used in physical sunscreen formulations."
+      },
+      {
+        "word": "trial and error",
+        "partOfSpeech": "noun phrase",
+        "definition": "a process of solving problems or making discoveries through repeated experiments and learning from mistakes",
+        "korean": "시행착오",
+        "sentence": "Milton Blake went through a lot of trial and error before creating an effective sunscreen formula in his kitchen."
+      },
+      {
+        "word": "Sun Protection Factor",
+        "partOfSpeech": "noun phrase",
+        "definition": "a standardized rating system (SPF) that measures how effectively sunscreen guards against UVB rays",
+        "korean": "자외선 차단 지수 (SPF)",
+        "sentence": "The Sun Protection Factor rating helps consumers determine how much UVB defense a lotion provides."
+      },
+      {
+        "word": "sunburn",
+        "partOfSpeech": "noun",
+        "definition": "painful skin reddening and damage caused by overexposure to ultraviolet radiation, mainly UVB rays",
+        "korean": "일광 화상, 햇볕에 데임",
+        "sentence": "Applying sunscreen before outdoor sports prevents painful sunburn on exposed skin."
+      },
+      {
+        "word": "protection",
+        "partOfSpeech": "noun",
+        "definition": "the act of guarding someone or something against harm, injury, or damage",
+        "korean": "보호, 방어",
+        "sentence": "Wearing broad-spectrum sunscreen provides vital protection against skin cell damage."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main purpose of the source?",
+    "options": [
+      "A. To explain how sunscreen works, how it developed, and what SPF and PA signs mean.",
+      "B. To argue that people should use only physical sunscreen.",
+      "C. To describe one person’s experience of getting sunburned.",
+      "D. To prove that sunscreen blocks every UV ray."
+    ],
+    "correctIndex": 0,
+    "reference": "Full Source (Paragraphs 1–7 & Table)",
+    "explanation": "Correct: Option A accurately synthesizes the full text—explaining the function of sunscreen, contrasting physical and chemical types, tracing early historical development (Blake, Greiter, Green), and clarifying SPF and PA ratings. Option B incorrectly claims the text advocates only physical sunscreen; Option C focuses on just one minor historical detail; Option D contradicts the text, which explicitly notes that no sunscreen blocks 100% of rays."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "1. What two types of UV radiation does the source describe?",
+        "options": [
+          "A. UVA and UVB.",
+          "B. UVC and UVD.",
+          "C. Physical and chemical radiation.",
+          "D. Red veterinary radiation and infrared."
+        ],
+        "correctIndex": 0,
+        "reference": "Paragraph 2",
+        "explanation": "Correct: Option A directly matches the text: \"Ultraviolet (UV) radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns).\" Options B, C, and D list terms not identified in the text as the two main UV types."
+      },
+      {
+        "id": "rc2",
+        "question": "2. According to the table, how does physical sunscreen work?",
+        "options": [
+          "A. It soaks into your skin and turns UV rays into heat.",
+          "B. It sits on top of your skin and reflects UV rays away.",
+          "C. It dissolves skin cells to block sunlight.",
+          "D. It creates a chemical reaction that removes wrinkles."
+        ],
+        "correctIndex": 1,
+        "reference": "Table (Row 1)",
+        "explanation": "Correct: Option B matches the table entry for Physical (mineral) sunscreen: \"Sits on top of your skin and reflects UV rays away.\" Option A describes chemical sunscreen, while C and D are inaccurate."
+      },
+      {
+        "id": "rc3",
+        "question": "3. According to the table, how does chemical sunscreen work?",
+        "options": [
+          "A. It reflects all UV rays like a mirror.",
+          "B. It stays on top of clothing to block heat.",
+          "C. It soaks into your skin and absorbs UV rays, turning them into heat.",
+          "D. It mixes with kerosene to stop sunburns."
+        ],
+        "correctIndex": 2,
+        "reference": "Table (Row 2)",
+        "explanation": "Correct: Option C directly quotes the table cell for Chemical sunscreen: \"Soaks into your skin and absorbs UV rays, turning them into heat.\" Option A describes physical sunscreen, and B and D misrepresent the text."
+      },
+      {
+        "id": "rc4",
+        "question": "4. What sequence accurately describes the source’s early sunscreen history?",
+        "options": [
+          "A. Benjamin Green in the 1940s → Franz Greiter in 1938 → Milton Blake in the 1930s.",
+          "B. Milton Blake in the 1930s → Franz Greiter in 1938 → Benjamin Green in the 1940s.",
+          "C. Franz Greiter in the 1930s → Milton Blake in 1938 → Benjamin Green in 1950.",
+          "D. Milton Blake in 1938 → Benjamin Green in the 1930s → Franz Greiter in the 1940s."
+        ],
+        "correctIndex": 1,
+        "reference": "How Was Sunscreen First Made?",
+        "explanation": "Correct: Option B accurately presents the chronological sequence given in the text: Australian chemist Milton Blake in the 1930s, Swiss student Franz Greiter in 1938, and U.S. soldier Benjamin Green in the 1940s."
+      },
+      {
+        "id": "rc5",
+        "question": "5. What does SPF describe in the source?",
+        "options": [
+          "A. Protection against UVA rays (wrinkles and aging).",
+          "B. Protection against UVB rays (the ones that cause sunburn).",
+          "C. The amount of heat generated inside skin cells.",
+          "D. The number of active chemical ingredients in a bottle."
+        ],
+        "correctIndex": 1,
+        "reference": "What Do SPF and “+” Signs Mean?",
+        "explanation": "Correct: Option B aligns with the text: \"SPF stands for Sun Protection Factor. It tells you how well sunscreen protects against UVB rays (the ones that cause sunburn).\" Option A describes PA ratings, while C and D are incorrect."
+      },
+      {
+        "id": "rc6",
+        "question": "6. What do more plus signs in a PA rating indicate?",
+        "options": [
+          "A. More UVA protection.",
+          "B. More UVB protection.",
+          "C. That the sunscreen blocks 100% of all rays.",
+          "D. That the lotion was made by Milton Blake."
+        ],
+        "correctIndex": 0,
+        "reference": "What Do SPF and “+” Signs Mean?",
+        "explanation": "Correct: Option A directly quotes the bullet explanation under PA ratings: \"More plus signs = more UVA protection.\" Option B refers to SPF, Option C contradicts the text, and Option D is irrelevant."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer each prompt using clear facts and details directly from the source text.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Compare physical and chemical sunscreen using the table. Cite how each works and one example ingredient for each.",
+        "compareTip": "Make sure your answer states how physical sunscreen works (reflects rays) and chemical works (absorbs/turns to heat), and includes one ingredient for each (e.g., zinc oxide / avobenzone).",
+        "modelAnswer": "According to the source table, physical sunscreen sits on top of the skin and reflects UV rays away, using ingredients like zinc oxide or titanium dioxide. In contrast, chemical sunscreen soaks into the skin and absorbs UV rays, turning them into heat, using ingredients such as avobenzone or oxybenzone."
+      },
+      {
+        "id": "ev2",
+        "statement": "Explain how the source presents the early development of sunscreen in chronological order. Use at least two dates or time periods and names.",
+        "compareTip": "Check that your explanation lists key historical pioneers in chronological order with dates, such as Milton Blake in the 1930s, Franz Greiter in 1938, or Benjamin Green in the 1940s.",
+        "modelAnswer": "The source explains early sunscreen history in chronological order. First, in the 1930s, Australian chemist Milton Blake mixed early sunscreen in his kitchen using pots and a kerosene heater. Next, in 1938, Swiss student Franz Greiter created his own lotion after getting sunburned. Finally, in the 1940s, U.S. soldier Benjamin Green made a thicker sunscreen for troops using red veterinary jelly."
+      },
+      {
+        "id": "ev3",
+        "statement": "Explain the different information provided by SPF and PA ratings according to the source.",
+        "compareTip": "Verify that you clearly distinguish SPF (which measures protection against UVB rays that cause sunburn) from PA ratings (which use plus signs to show UVA protection against aging and wrinkles).",
+        "modelAnswer": "According to the source, SPF (Sun Protection Factor) tells how well a sunscreen protects against UVB rays, which cause sunburns. For example, SPF 30 allows a person to stay outside 30 times longer without burning. On the other hand, PA ratings (PA+ to PA++++) indicate protection against UVA rays, which cause wrinkles and deeper skin damage, with more plus signs showing higher UVA protection."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus: Comparison & Explanation Structures",
+    "instructions": "Study the target sentence structures below used for comparing sunscreen types and explaining scientific cause and effect.",
+    "sections": [
+      {
+        "heading": "1. Comparison & Contrast: while vs. whereas",
+        "explanation": "Use while or whereas to connect two contrasting facts in a single smooth sentence.",
+        "examples": [
+          "Physical sunscreen reflects UV rays away, whereas chemical sunscreen absorbs them.",
+          "Physical formulas sit on top of skin, while chemical formulas soak into skin layers."
+        ]
+      },
+      {
+        "heading": "2. Relative Clauses for Explanations (which clauses)",
+        "explanation": "Use non-defining which clauses (preceded by a comma or inside parentheses) to give extra detail about a key term.",
+        "examples": [
+          "Ultraviolet radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns)."
+        ]
+      },
+      {
+        "heading": "3. Participial Result Clauses (-ing clauses)",
+        "explanation": "Use a present participle (-ing) to describe an automatic result or secondary action.",
+        "examples": [
+          "Chemical sunscreen absorbs UV rays, turning them into heat."
+        ]
+      },
+      {
+        "heading": "4. Chronological Sequence Markers",
+        "explanation": "Use precise dates and sequence phrases to explain historical development clearly.",
+        "examples": [
+          "In the 1930s, Milton Blake mixed early sunscreen.",
+          "In 1938, Franz Greiter made lotion after getting sunburned.",
+          "Then in the 1940s, Benjamin Green created a thicker formula for troops."
+        ]
+      },
+      {
+        "heading": "5. Preposition Precision: protect from vs. protect against",
+        "explanation": "Distinguish between protect [something] from [harm] (object + source) and protect against [harm] (direct threat).",
+        "examples": [
+          "Sunscreen protects your skin from the sun’s UV rays.",
+          "SPF tells you how well sunscreen protects against UVB rays."
+        ]
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each writing exercise using the target language structures.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "instruction": "1. Combine one physical- and one chemical-sunscreen fact using whereas.",
+        "compareTip": "Use whereas to contrast physical sunscreen (reflects rays) with chemical sunscreen (absorbs rays).",
+        "modelAnswer": "Physical sunscreen sits on top of the skin and reflects UV rays away, whereas chemical sunscreen soaks into the skin and absorbs UV rays."
+      },
+      {
+        "id": "wp2",
+        "instruction": "2. Write a sentence explaining UVA or UVB with a which clause.",
+        "compareTip": "Use a which clause (e.g. which causes aging / which causes sunburns) to explain UVA or UVB.",
+        "modelAnswer": "Sunscreen protects against UVA rays, which penetrate deeply and cause premature aging and wrinkles."
+      },
+      {
+        "id": "wp3",
+        "instruction": "3. Put Blake, Greiter, and Green into one chronological mini-summary using sequence markers.",
+        "compareTip": "Use chronological markers like In the 1930s, In 1938, and Then in the 1940s to summarize all three inventors.",
+        "modelAnswer": "In the 1930s, Milton Blake mixed early sunscreen in his kitchen; later, in 1938, Franz Greiter developed lotion after a mountain climb; then, in the 1940s, Benjamin Green invented a thick sunscreen for troops."
+      },
+      {
+        "id": "wp4",
+        "instruction": "4. Explain the difference between SPF and PA in two connected sentences.",
+        "compareTip": "State what SPF measures (UVB / sunburn) in sentence 1 and what PA ratings measure (UVA / plus signs) in sentence 2.",
+        "modelAnswer": "SPF measures how effectively a sunscreen protects your skin against UVB rays that cause sunburns. In contrast, PA ratings indicate the level of protection against UVA rays, with more plus signs representing stronger defense against skin aging."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "prompt": "How does the source explain sunscreen as a form of protection? Write a 100–140-word compare-and-explain paragraph. Explain UVA and UVB, compare physical and chemical sunscreen, and explain what SPF and PA ratings show. Use at least three accurate details from the source, one comparison connector, and a clear concluding sentence.",
+    "instructions": "Write your compare-and-explain paragraph below. Follow the checklist guidelines and check your word count before submitting.",
+    "checklist": [
+      "Include a clear topic sentence introducing sunscreen as skin protection.",
+      "Explain the difference between UVA and UVB rays.",
+      "Compare physical and chemical sunscreen using a contrast connector (e.g., whereas, while, in contrast).",
+      "Explain what SPF and PA ratings indicate according to the source.",
+      "Include at least three accurate supporting details from the source.",
+      "End with a strong concluding sentence.",
+      "Maintain a word count between 100 and 140 words."
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check & Final Submission",
+    "instructions": "Review your work against the self-check criteria before submitting your lesson.",
+    "items": [
+      "I answered all warm-up questions and studied all 10 vocabulary terms.",
+      "I selected the main idea and completed all 6 reading comprehension questions.",
+      "I provided text-based evidence comparing sunscreen types, history, and ratings.",
+      "I practiced using comparison connectors (whereas/while), which clauses, and sequence markers.",
+      "My final paragraph meets the 100–140 word requirement and includes a clear conclusion.",
+      "I reviewed my answers for spelling, grammar, and source accuracy."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": 0,
+      "readingComprehension": {
+        "rc1": 0,
+        "rc2": 1,
+        "rc3": 2,
+        "rc4": 1,
+        "rc5": 1,
+        "rc6": 0
+      },
+      "evidenceFromText": {
+        "ev1": "According to the source table, physical sunscreen sits on top of the skin and reflects UV rays away (using zinc oxide or titanium dioxide), whereas chemical sunscreen soaks into the skin and absorbs UV rays, turning them into heat (using avobenzone or oxybenzone).",
+        "ev2": "The text presents sunscreen history chronologically: first, Australian chemist Milton Blake mixed sunscreen by hand in the 1930s using pots and a kerosene heater; next, Swiss student Franz Greiter created lotion in 1938 after getting sunburned; finally, U.S. soldier Benjamin Green made a thicker formula for troops in the 1940s using red veterinary jelly.",
+        "ev3": "SPF (Sun Protection Factor) measures protection against UVB rays that cause sunburns (e.g., SPF 30 allowing 30 times longer outside without burning), while PA ratings (PA+ to PA++++) measure protection against UVA rays that cause aging and wrinkles, with more plus signs indicating higher UVA defense."
+      },
+      "writingPractice": {
+        "wp1": "Physical sunscreen sits on top of the skin and reflects UV rays away, whereas chemical sunscreen soaks into the skin and absorbs UV rays.",
+        "wp2": "Sunscreen protects against UVA rays, which penetrate deeply and cause premature aging and wrinkles.",
+        "wp3": "In the 1930s, Milton Blake mixed early sunscreen in his kitchen; later, in 1938, Franz Greiter developed lotion after a mountain climb; then, in the 1940s, Benjamin Green invented a thick sunscreen for troops.",
+        "wp4": "SPF measures how effectively a sunscreen protects your skin against UVB rays that cause sunburns. In contrast, PA ratings indicate the level of protection against UVA rays, with more plus signs representing stronger defense against skin aging."
+      },
+      "finalWritingTask": "Sunscreen serves as an invisible shield that guards skin against harmful ultraviolet radiation. According to the source, sunlight contains UVA rays, which cause aging and wrinkles, and UVB rays, which cause sunburns. To combat these threats, sunscreens operate in two distinct ways. Physical sunscreen sits on top of the skin and reflects UV rays away using minerals like zinc oxide, whereas chemical sunscreen soaks into the skin to absorb UV rays and convert them into heat. Product labels guide consumers using SPF ratings for UVB sunburn defense and PA plus signs for UVA aging defense. In conclusion, understanding how these formulas and rating systems work helps individuals choose proper protection to keep their skin safe outdoors."
+    },
+    "modelAnswer": "Sunscreen serves as an invisible shield that guards skin against harmful ultraviolet radiation. According to the source, sunlight contains UVA rays, which cause aging and wrinkles, and UVB rays, which cause sunburns. To combat these threats, sunscreens operate in two distinct ways. Physical sunscreen sits on top of the skin and reflects UV rays away using minerals like zinc oxide, whereas chemical sunscreen soaks into the skin to absorb UV rays and convert them into heat. Product labels guide consumers using SPF ratings for UVB sunburn defense and PA plus signs for UVA aging defense. In conclusion, understanding how these formulas and rating systems work helps individuals choose proper protection to keep their skin safe outdoors.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "weight": "25%",
+        "levels": {
+          "excellent": "Exemplary understanding: Accurately explains UVA/UVB differences, physical vs. chemical mechanisms, and SPF/PA ratings with rich source context.",
+          "proficient": "Solid understanding: Accurately covers UVA/UVB, physical vs. chemical comparison, and SPF/PA ratings with minor missing detail.",
+          "developing": "Partial understanding: Mentions sunscreen types or ratings but confuses UVA/UVB or omits key mechanisms.",
+          "beginning": "Minimal understanding: Fails to explain UV types or sunscreen mechanisms accurately."
+        }
+      },
+      {
+        "category": "Evidence Use",
+        "weight": "25%",
+        "levels": {
+          "excellent": "Integrates 3+ explicit details from the source (e.g., reflect/absorb, mineral/chemical ingredients, SPF/PA meanings) seamlessly.",
+          "proficient": "Includes at least 3 source details with accurate factual backing.",
+          "developing": "Uses 1–2 details or misinterprets source facts (e.g. confusing SPF with UVA).",
+          "beginning": "Lacks text evidence or cites incorrect details not present in the source."
+        }
+      },
+      {
+        "category": "Target Language & Structure",
+        "weight": "20%",
+        "levels": {
+          "excellent": "Flawlessly uses contrast connectors (whereas/while), relative clauses (which), sequence markers, and correct prepositions (protect from/against).",
+          "proficient": "Uses target contrast connectors and relative clauses accurately with minimal errors.",
+          "developing": "Attempts comparison connectors or which clauses but with awkward syntax or incorrect preposition usage.",
+          "beginning": "No use of comparison connectors or target grammar structures."
+        }
+      },
+      {
+        "category": "Organization",
+        "weight": "15%",
+        "levels": {
+          "excellent": "Well-structured paragraph with a strong topic sentence, logical flow from UV types → mechanisms → ratings, and a clear conclusion.",
+          "proficient": "Clear organization with topic sentence, supporting points, and concluding statement.",
+          "developing": "Disorganized flow or missing topic/concluding sentence.",
+          "beginning": "Unstructured list of sentences without logical connection."
+        }
+      },
+      {
+        "category": "Accuracy & Mechanics",
+        "weight": "15%",
+        "levels": {
+          "excellent": "High precision in grammar, spelling, punctuation, capitalization, and accurate 100–140 word length.",
+          "proficient": "Minor grammatical or mechanical errors that do not impair readability; within 100–140 words.",
+          "developing": "Frequent mechanical errors or falls slightly outside the 100–140 word range.",
+          "beginning": "Severe mechanical errors or word count significantly below 100 words."
+        }
+      }
+    ],
+    "teacherNotes": [
+      "1. Original Text Preservation: The Student Reading strictly preserves every word, heading, table cell, bullet point, and punctuation mark from the two teacher-provided source pages.",
+      "2. Continuous Source Continuity: The two source images represent ONE continuous reading selection. Do not split them into separate lessons or alter their combined structure.",
+      "3. UVA vs. UVB Distinction: Reinforce that UVA causes aging/wrinkles while UVB causes sunburns. Remind students that both contribute to skin cancer risk.",
+      "4. Table Reading Strategies: Guide students to read table rows horizontally (comparing Physical reflect vs. Chemical absorb) and vertically (comparing ingredients).",
+      "5. Physical vs. Chemical Comparison: Highlight key mechanism verbs: physical = 'reflects away' (sits on top); chemical = 'absorbs' and 'turns into heat' (soaks in).",
+      "6. Chronological Sequencing: Emphasize time markers (1930s → 1938 → 1940s) and pioneer names (Milton Blake → Franz Greiter → Benjamin Green) for historical summary.",
+      "7. SPF vs. PA Rating Systems: Emphasize that SPF is for UVB (sunburn), while PA+ to PA++++ is for UVA (aging/wrinkles). Note that plus signs indicate higher UVA defense.",
+      "8. Simplified SPF Explanation Note: In the source, 'SPF 30 means you can stay in the sun 30 times longer' is a simplified classroom concept. Clarify to students that real-world protection varies due to UV intensity, application thickness, sweating, and water exposure.",
+      "9. Supplemental EPA Health Citation: For official health guidelines outside the locked text, refer to EPA RadTown: https://www.epa.gov/radtown/ultraviolet-uv-radiation-and-sun-exposure. The EPA recommends broad-spectrum sunscreen (SPF 30+), reapplication every 2 hours, and after swimming, exercising, or sweating.",
+      "10. Avoiding Personal Medical Advice: Maintain an academic classroom boundary. Teach the reading as scientific and informational reading comprehension without prescribing individual medical advice.",
+      "11. Scaffolding for G1/G2 ESL Learners: Support G1 students with sentence starters for whereas and which clauses; challenge G2 students to integrate multiple source facts into complex compound-complex sentences."
+    ],
+    "teachingPhases": [
+      {
+        "phase": 1,
+        "name": "Lead-in & Warm-up",
+        "durationMinutes": 8,
+        "objective": "Activate prior knowledge about sun protection, outdoor habits, and key terms like SPF and UV rays.",
+        "steps": [
+          "Display the title and ask students when they usually apply sunscreen.",
+          "Have students turn to a partner and discuss Warm-up questions 1–3.",
+          "Elicit student guesses about what UVA, UVB, and SPF stand for, recording ideas on the board."
+        ],
+        "teacherScript": {
+          "english": "Welcome class! Today we are exploring an invisible shield we use every summer / sunscreen! Turn to your partner and discuss: When do you put on sunscreen, and what do SPF numbers mean to you?",
+          "koreanDirect": "환영합니다 여러분! 오늘 우리는 매 여름마다 사용하는 보이지 않는 보호막인 선크림에 대해 알아볼 것입니다. 짝과 함께 논의해 보세요: 여러분은 언제 선크림을 바르고, SPF 숫자는 무엇을 의미한다고 생각하나요?",
+          "koreanNatural": "여러분 안녕하세요! 오늘은 여름철 필수품인 선크림의 원리와 역사, 표기법에 대해 알아보겠습니다. 짝과 함께 선크림을 언제 바르고 SPF 숫자가 무엇을 뜻하는지 자유롭게 이야기해 보세요."
+        },
+        "expectedStudentResponse": "Students state they wear sunscreen at the beach or sports games to avoid sunburn, and guess that SPF relates to how strong the protection is.",
+        "likelyMisconception": "Students may think higher SPF means 100% protection or total immunity from sun damage.",
+        "transition": "Now let's examine the key scientific vocabulary we will encounter in the reading text."
+      },
+      {
+        "phase": 2,
+        "name": "Vocabulary in Context",
+        "durationMinutes": 10,
+        "objective": "Pre-teach 10 critical academic and scientific terms, emphasizing part of speech, Korean meanings, and context sentences.",
+        "steps": [
+          "Introduce the 10 vocabulary terms: ultraviolet, radiation, invisible, reflect, absorb, ingredient, trial and error, Sun Protection Factor, sunburn, protection.",
+          "Focus on the verb contrast: reflect (bounce off) vs. absorb (soak in), and the idiom chunk 'trial and error'.",
+          "Have students read example sentences aloud and practice pronunciation."
+        ],
+        "teacherScript": {
+          "english": "Look at our key vocabulary list. Notice the contrast between 'reflect' / which means bouncing rays away / and 'absorb' / which means soaking them in! Also notice 'trial and error' / trying many times until you succeed.",
+          "koreanDirect": "주요 어휘 목록을 보세요. 자외선을 튕겨 내는 'reflect'와 흡수하는 'absorb'의 대비에 주목하세요! 또한 성공할 때까지 반복해서 시도하는 'trial and error(시행착오)'라는 표현도 기억하세요.",
+          "koreanNatural": "어휘 목록에서 물리적 차단제의 'reflect(반사하다)'와 화학적 차단제의 'absorb(흡수하다)'의 차이를 꼭 기억하세요. 또한 발명 과정에 나온 'trial and error(시행착오)' 표현도 잘 익혀 둡시다."
+        },
+        "expectedStudentResponse": "Students correctly repeat words, identify parts of speech, and explain that physical sunscreens reflect light while chemical ones absorb it.",
+        "likelyMisconception": "Students might confuse 'radiation' with nuclear danger rather than solar electromagnetic wave energy.",
+        "transition": "With these key terms ready, let's read the full source text together."
+      },
+      {
+        "phase": 3,
+        "name": "Gist Reading & Main Idea",
+        "durationMinutes": 8,
+        "objective": "Guide students through first-pass reading to identify the overall purpose of the article.",
+        "steps": [
+          "Have students read the full article silently or follow along as the teacher reads.",
+          "Direct attention to the main headings: What Is Sunscreen, How Was It Made, and What Do SPF/PA Mean.",
+          "Present the Main Idea MCQ and guide students to eliminate overly narrow or inaccurate options."
+        ],
+        "teacherScript": {
+          "english": "As you read through the text / notice how it is divided into three clear sections / explaining what sunscreen is, how it was invented, and how to read SPF and PA labels. What is the overall main purpose?",
+          "koreanDirect": "글을 읽으면서 / 세 개의 명확한 구역으로 나뉘어 있음을 확인하세요 / 선크림의 정의, 발명 역사, SPF와 PA 읽는 법을 설명합니다. 전체적인 주된 목적은 무엇일까요?",
+          "koreanNatural": "본문을 읽으며 선크림의 원리, 역사, 그리고 라벨 표기법까지 전체 내용을 종합적으로 다루고 있음을 파악하세요. 이를 바탕으로 주제 질문의 정답을 찾아봅시다."
+        },
+        "expectedStudentResponse": "Students select Option A, explaining that the text covers how sunscreen works, its historical origins, and SPF/PA ratings.",
+        "likelyMisconception": "Students might choose Option B (arguing for physical only) or Option D (blocks 100%), misreading author intent.",
+        "transition": "Great job! Now let's analyze specific details and historical facts in the Comprehension section."
+      },
+      {
+        "phase": 4,
+        "name": "Detailed Reading & Textual Evidence",
+        "durationMinutes": 16,
+        "objective": "Deepen comprehension of UV types, sunscreen mechanisms, historical timeline, and SPF/PA definitions through 6 MCQs and 3 Evidence prompts.",
+        "steps": [
+          "Guide students through Reading Comprehension questions 1–6, checking answers with text evidence.",
+          "Examine the comparison table: Physical (reflects, zinc oxide) vs. Chemical (absorbs, avobenzone).",
+          "Have students write text-based evidence responses for EV1 (table comparison), EV2 (chronological history), and EV3 (SPF vs. PA)."
+        ],
+        "teacherScript": {
+          "english": "Let's examine the table and history section! Notice the order of inventors: Milton Blake in the 1930s, Franz Greiter in 1938, and Benjamin Green in the 1940s. Use these exact details in your Evidence responses!",
+          "koreanDirect": "표와 역사 세션을 살펴봅시다! 발명가들의 순서를 확인하세요: 1930년대 밀턴 블레이크, 1938년 프란츠 그라이터, 1940년대 벤저민 그린. 이 정확한 정보들을 여러분의 증거 작성 답변에 활용하세요!",
+          "koreanNatural": "표의 물리적/화학적 차단제 비교와 역사 속 세 명의 발명가 연도를 꼼꼼히 확인하세요. 증거 기반 쓰기 작성 시 연도와 이름, 작동 원리를 정확히 서술해야 합니다."
+        },
+        "expectedStudentResponse": "Students complete all 6 MCQs accurately and write detailed evidence paragraphs citing exact dates, names, mechanisms, and rating types.",
+        "likelyMisconception": "Students might confuse SPF (UVB protection) with PA (UVA protection).",
+        "transition": "Now let's examine the target grammatical structures needed to compare and explain these facts."
+      },
+      {
+        "phase": 5,
+        "name": "Language Focus: Comparison & Explanation",
+        "durationMinutes": 13,
+        "objective": "Explicitly teach target sentence structures: while/whereas contrast, non-defining which clauses, participial result clauses, sequence markers, and protect from/against prepositions.",
+        "steps": [
+          "Model 'whereas' and 'while' contrast sentences comparing physical and chemical sunscreens.",
+          "Explain relative 'which' clauses for introducing non-essential explanatory detail: 'UVA (which causes aging...)'",
+          "Demonstrate preposition usage: 'protect skin from UV rays' (from + threat source) vs. 'protect against UVB rays' (against + specific harm)."
+        ],
+        "teacherScript": {
+          "english": "Look closely at Language Focus! We use 'whereas' to contrast two opposite facts in one sentence. We also use 'which' clauses to explain UV types / like 'UVA, which causes wrinkles'.",
+          "koreanDirect": "언어 집중 코너를 자세히 보세요! 한 문장에서 두 상반된 사실을 대조할 때 'whereas'를 사용합니다. 또한 자외선 유형을 설명할 때 'UVA, which causes wrinkles'처럼 'which' 절을 활용합니다.",
+          "koreanNatural": "문법 코너에서는 두 대상을 대조하는 'whereas' 접속사와 부연 설명을 더하는 'which' 관계대명사 절, 그리고 protect from/against 전치사 쓰임새를 확실히 익힙니다."
+        },
+        "expectedStudentResponse": "Students successfully identify contrast connectors, relative clauses, and proper prepositions in sample sentences.",
+        "likelyMisconception": "Students may omit the comma before non-defining 'which' or mix up 'protect from' and 'protect against'.",
+        "transition": "Let's put these sentence structures into practice in Writing Practice."
+      },
+      {
+        "phase": 6,
+        "name": "Writing Practice",
+        "durationMinutes": 12,
+        "objective": "Scaffold sentence-level writing by having students construct 4 target sentences using whereas, which clauses, sequence markers, and SPF/PA comparison.",
+        "steps": [
+          "Have students write response 1 using 'whereas' to combine physical and chemical sunscreen facts.",
+          "Prompt response 2 for a 'which' clause explaining UVA/UVB.",
+          "Guide response 3 for a 3-part chronological mini-summary (Blake → Greiter → Green).",
+          "Check response 4 explaining SPF vs. PA in two connected sentences."
+        ],
+        "teacherScript": {
+          "english": "Now write your four practice sentences! For item 1, make sure you join physical and chemical facts with 'whereas'. For item 3, include 1930s, 1938, and 1940s in chronological order!",
+          "koreanDirect": "이제 4개의 연습 문장을 작성해 보세요! 1번에서는 'whereas'를 사용하여 물리적/화학적 사실을 연결하세요. 3번에서는 1930년대, 1938년, 1940년대를 순서대로 포함하세요!",
+          "koreanNatural": "작성 연습 4문항을 완성해 봅시다. whereas 접속사, which 절, 그리고 연도별 순서 표현을 빠짐없이 사용하여 문장을 구성해 보세요."
+        },
+        "expectedStudentResponse": "Students produce grammatically correct sentences combining contrasting facts, relative clauses, and accurate historical timeline markers.",
+        "likelyMisconception": "Students might write fragment sentences when using 'whereas' or omit time markers in item 3.",
+        "transition": "Excellent! You are now ready for the Final Writing Task."
+      },
+      {
+        "phase": 7,
+        "name": "Final Writing Task",
+        "durationMinutes": 18,
+        "objective": "Synthesize reading evidence into a coherent 100–140-word compare-and-explain paragraph with a clear topic sentence, UVA/UVB explanation, physical/chemical comparison, SPF/PA details, contrast connector, and concluding sentence.",
+        "steps": [
+          "Review the prompt and 7-item checklist with the class.",
+          "Emphasize word count management (100–140 words) and topic/conclusion structure.",
+          "Allow independent writing time while monitoring student progress and word counts."
+        ],
+        "teacherScript": {
+          "english": "It's time for the Final Writing Task! Write a 100–140-word paragraph explaining how sunscreen protects skin. Include UVA/UVB, physical vs. chemical with 'whereas', SPF/PA ratings, and a strong conclusion!",
+          "koreanDirect": "최종 쓰기 과제 시간입니다! 선크림이 피부를 보호하는 원리를 설명하는 100-140단어 단락을 작성하세요. UVA/UVB, 'whereas'를 쓴 비교, SPF/PA 설명, 강한 결론을 포함하세요!",
+          "koreanNatural": "본문에서 배운 내용을 바탕으로 100~140단어 분량의 비교-설명 단락을 써봅시다. 체크리스트 요소를 하나씩 확인하며 완성도 높은 단락을 구성해 보세요."
+        },
+        "expectedStudentResponse": "Students draft well-structured 100–140-word paragraphs incorporating accurate text evidence, contrast connectors, and proper sentence flow.",
+        "likelyMisconception": "Students may write under 100 words or omit either the physical/chemical contrast or the SPF/PA explanation.",
+        "transition": "Once finished writing, move to Self-Check and submit your completed lesson."
+      },
+      {
+        "phase": 8,
+        "name": "Self-Check & Submission",
+        "durationMinutes": 5,
+        "objective": "Verify completion of all lesson requirements, run automated checks, and submit student work.",
+        "steps": [
+          "Guide students through the 6 self-check items.",
+          "Ensure student name and student code are filled in.",
+          "Confirm final submission and review summary feedback."
+        ],
+        "teacherScript": {
+          "english": "Check all six self-check boxes, enter your name and student code, and click Submit! Excellent work today learning the science and history behind sunscreen protection!",
+          "koreanDirect": "6개 자가 점검 항목을 모두 확인하고, 이름과 학생 코드를 입력한 후 제출 버튼을 누르세요! 선크림 자외선 차단의 과학과 역사를 배운 오늘 수고 많았습니다!",
+          "koreanNatural": "마지막으로 6가지 점검 항목을 체크한 뒤 이름과 학번을 작성하고 제출하세요. 오늘 수업에 적극적으로 참여해 준 여러분 수고하셨습니다."
+        },
+        "expectedStudentResponse": "Students complete self-check toggles, verify their submission parameters, and submit successfully.",
+        "likelyMisconception": "Students might forget to fill in their name or student code before submitting."
+      }
+    ],
+    "openingScript": {
+      "english": "Good morning class! Today we are learning about an invisible shield / that protects your skin every day / sunscreen! We will explore how it works / how it was invented / and what SPF and PA mean.",
+      "koreanDirect": "좋은 아침입니다 여러분! 오늘 우리는 보이지 않는 보호막에 대해 배울 것입니다 / 매일 여러분의 피부를 보호하는 / 선크림! 우리는 선크림이 어떻게 작동하는지 / 어떻게 발명되었는지 / 그리고 SPF와 PA가 무엇을 의미하는지 알아볼 것입니다.",
+      "koreanNatural": "안녕하세요 여러분! 오늘은 매일 우리 피부를 보호해 주는 보이지 않는 보호막, 선크림에 대해 배웁니다. 선크림의 차단 원리와 역사, 그리고 패키지에 적힌 SPF와 PA 표기의 진짜 의미를 함께 살펴봅시다.",
+      "purpose": "To hook student interest, set learning objectives, and establish the scientific focus of the lesson."
+    },
+    "warmUpGuide": [
+      {
+        "question": "1. When and why do people use sunscreen?",
+        "english": "When and why do people use sunscreen?",
+        "koreanDirect": "사람들은 언제 그리고 왜 선크림을 사용하나요?",
+        "koreanNatural": "사람들은 어떤 경우에, 무엇 때문에 선크림을 바르나요?",
+        "possibleAnswers": [
+          "People use sunscreen when playing sports, going to the beach, or spending time outdoors under strong sunlight to prevent sunburns and skin damage."
+        ],
+        "followUp": "Ask students if they wear sunscreen on cloudy days and why UV rays can still reach the skin.",
+        "caution": "Ensure students focus on sun exposure and skin protection rather than cosmetic appearance alone."
+      },
+      {
+        "question": "2. What do you think UVA, UVB, and SPF mean?",
+        "english": "What do you think UVA, UVB, and SPF mean?",
+        "koreanDirect": "UVA, UVB, 그리고 SPF가 무엇을 의미한다고 생각하나요?",
+        "koreanNatural": "UVA, UVB, SPF라는 표기를 보면 어떤 의미가 떠오르나요?",
+        "possibleAnswers": [
+          "UVA and UVB are types of solar radiation, while SPF stands for Sun Protection Factor, showing how strong the sunburn protection is."
+        ],
+        "followUp": "Write student guesses on the whiteboard under separate headings for UVA, UVB, and SPF.",
+        "caution": "Do not correct all guesses immediately; let the reading text clarify exact scientific definitions."
+      },
+      {
+        "question": "3. What information do you check before choosing a sunscreen?",
+        "english": "What information do you check before choosing a sunscreen?",
+        "koreanDirect": "선크림을 고르기 전에 어떤 정보를 확인하나요?",
+        "koreanNatural": "선크림 제품을 살 때 어떤 정보나 표시를 제일 먼저 확인하나요?",
+        "possibleAnswers": [
+          "People check the SPF number, PA plus signs, whether it is physical or chemical, and the ingredient list."
+        ],
+        "followUp": "Ask if students prefer light lotions or thicker waterproof sticks and why.",
+        "caution": "Keep focus on product labels and ingredients described in the lesson."
+      }
+    ],
+    "detailedReadingGuide": [
+      {
+        "unitType": "prose",
+        "proseId": "p1",
+        "english": "Before you run outside to play, someone probably reminds you to “put on sunscreen!” But why? Sunscreen is like a force field for your skin. Let’s dive into how it works, what it protects you from, and why it matters.",
+        "koreanDirect": "밖으로 나가 놀기 전에, 누군가 여러분에게 “선크림 발라라!”라고 상기시켜 줄 것입니다. 하지만 왜일까요? 선크림은 여러분 피부를 위한 포스 필드(보호막)와 같습니다. 선크림이 어떻게 작동하는지, 무엇으로부터 보호해 주는지, 왜 중요한지 뛰어들어 알아봅시다.",
+        "koreanNatural": "야외로 나가 놀기 전, “선크림 꼭 발라라!”라는 말을 자주 듣죠. 왜일까요? 선크림은 마치 피부를 지켜주는 방어막과 같습니다. 선크림의 작동 원리와 차단 대상, 그리고 이것이 왜 중요한지 알아봅시다.",
+        "mustKnowChunks": [
+          "put on sunscreen (선크림을 바르다)",
+          "force field for your skin (피부를 위한 방어막)",
+          "dive into (깊이 알아보다, 뛰어들다)",
+          "protect A from B (B로부터 A를 보호하다)"
+        ],
+        "grammar": "Simile ('like a force field') for intuitive visualization; indirect question structure ('how it works, what it protects you from, and why it matters').",
+        "keynmanExplanation": "선크림은 눈에 보이지 않는 에너지 보호막처럼 햇빛의 해로운 레이저(자외선)가 피부 세포를 때리는 것을 막아줍니다.",
+        "teachingTranscript": "Class, notice the metaphor 'a force field for your skin'! Just as a superhero force field stops incoming attacks, sunscreen stops invisible solar rays from damaging skin cells."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p2",
+        "english": "Sunscreen is a lotion, spray, or stick you put on your skin to protect it from the sun’s ultraviolet (UV) rays. These rays are invisible, but they can still cause sunburns, wrinkles, and even skin cancer if you get too much of them.",
+        "koreanDirect": "선크림은 태양의 자외선(UV)으로부터 피부를 보호하기 위해 피부에 바르는 로션, 스프레이, 또는 스틱입니다. 이 광선들은 보이지 않지만, 너무 많이 쬐면 일광 화상, 주름, 심지어 피부암까지 일으킬 수 있습니다.",
+        "koreanNatural": "선크림은 자외선(UV)으로부터 피부를 보호하기 위해 바르는 로션, 스프레이, 스틱 형태의 제품입니다. 자외선은 눈에 보이지 않지만 과도하게 노출되면 화상, 주름, 피부암을 유발할 수 있습니다.",
+        "mustKnowChunks": [
+          "ultraviolet (UV) rays (자외선)",
+          "invisible (보이지 않는)",
+          "cause sunburns, wrinkles, and skin cancer (화상, 주름, 피부암을 유발하다)"
+        ],
+        "grammar": "Relative clause with omitted object relative pronoun ('a lotion... [that/which] you put on your skin'); conditional clause ('if you get too much of them').",
+        "keynmanExplanation": "자외선은 투명해서 눈에는 안 보이지만, 피부 표면과 깊은 곳을 공격해 불그스름한 화상이나 주름을 만드는 손님입니다.",
+        "teachingTranscript": "Look at the list of forms: lotion, spray, or stick. Even though UV rays are invisible, their damage—sunburns, wrinkles, and skin cancer—is very real."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p3",
+        "english": "Ultraviolet (UV) radiation has two main types: UVA (which causes aging and wrinkles) and UVB (which causes sunburns). Both can damage your skin cells and increase the risk of skin cancer.",
+        "koreanDirect": "자외선(UV) 방사는 두 가지 주요 유형이 있습니다: UVA(노화와 주름을 유발함)와 UVB(일광 화상을 유발함). 둘 다 피부 세포를 손상시키고 피부암 위험을 증가시킬 수 있습니다.",
+        "koreanNatural": "자외선은 크게 UVA와 UVB 두 가지로 나뉩니다. UVA는 주름과 노화를 일으키고, UVB는 햇볕 화상을 유발합니다. 두 종류 모두 피부 세포를 손상시키고 피부암 위험을 높입니다.",
+        "mustKnowChunks": [
+          "two main types (두 가지 주요 유형)",
+          "UVA (aging and wrinkles) (UVA - 노화 및 주름)",
+          "UVB (sunburns) (UVB - 화상)",
+          "increase the risk of (위험을 증가시키다)"
+        ],
+        "grammar": "Non-defining relative clauses in parentheses: 'UVA (which causes aging...)' and 'UVB (which causes sunburns)'. Memory hook: UVA = Aging, UVB = Burning.",
+        "keynmanExplanation": "UVA의 A는 Aging(노화), UVB의 B는 Burning(화상)으로 기억하면 아주 쉬워요!",
+        "teachingTranscript": "Here is a useful memory trick for ESL students: Remind yourself that 'A' in UVA stands for Aging, while 'B' in UVB stands for Burning!"
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p4",
+        "english": "There are two main types of sunscreen:",
+        "koreanDirect": "선크림에는 두 가지 주요 유형이 있습니다:",
+        "koreanNatural": "선크림은 크게 두 가지 유형으로 구분됩니다:",
+        "mustKnowChunks": [
+          "two main types of sunscreen (선크림의 두 가지 주요 유형)"
+        ],
+        "grammar": "Introductory 'There are' sentence setting up tabular comparative visual data.",
+        "keynmanExplanation": "이제 다음 표에서 자외선과 싸우는 두 가지 서로 다른 방식(반사 vs 흡수)을 비교해 볼 거라는 신호입니다.",
+        "teachingTranscript": "This sentence introduces the central comparative feature of our lesson: Physical vs. Chemical sunscreens presented in the table below."
+      },
+      {
+        "unitType": "table",
+        "proseId": "table1",
+        "english": "Type | How It Works | Example Ingredients\nPhysical (mineral) | Sits on top of your skin and reflects UV rays away | Zinc oxide, titanium dioxide\nChemical | Soaks into your skin and absorbs UV rays, turning them into heat | Avobenzone, oxybenzone",
+        "koreanDirect": "유형 | 작동 방식 | 성분 예시\n물리적(미네랄) | 피부 위에 올려져 자외선을 반사해 튕겨 냄 | 산화아연(Zinc oxide), 이산화티타늄(Titanium dioxide)\n화학적 | 피부에 스며들어 자외선을 흡수해 열로 전환함 | 아보벤존(Avobenzone), 옥시벤존(Oxybenzone)",
+        "koreanNatural": "유형 | 원리 | 대표 성분\n물리적(무기자차) | 피부 표면에 층을 형성해 자외선을 거울처럼 반사함 | 징크옥사이드, 티타늄디옥사이드\n화학적(유기자차) | 피부 속으로 흡수되어 자외선을 흡수한 뒤 열로 변환해 방출함 | 아보벤존, 옥시벤존",
+        "mustKnowChunks": [
+          "Sits on top of your skin (피부 표면에 얹혀 있다)",
+          "reflects UV rays away (자외선을 반사해 튕겨 내다)",
+          "Soaks into your skin (피부 속으로 스며들다)",
+          "absorbs UV rays, turning them into heat (자외선을 흡수하여 열로 바꾸다)"
+        ],
+        "grammar": "Parallel action structures; participial result clause ('turning them into heat'); precise contrast verbs (reflects vs. absorbs).",
+        "keynmanExplanation": "물리적 자외선 차단제는 피부에 쓴 거울 모자이고, 화학적 자외선 차단제는 자외선을 먹어서 열로 소화시키는 펀치 백입니다.",
+        "teachingTranscript": "Pay close attention to how each type functions: Physical is like a mirror on your skin (reflects), while Chemical is like a sponge that absorbs UV rays and safely releases them as heat."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p5",
+        "english": "In the 1930s, Australian chemist Milton Blake mixed sunscreen by hand in his kitchen using pots and a kerosene heater. He went through a lot of trial and error until he created one of the first real sunscreens!",
+        "koreanDirect": "1930년대에 호주 화학자 밀턴 블레이크는 냄비와 등유 히터를 사용하여 주방에서 손으로 선크림을 섞었습니다. 그는 최초의 진짜 선크림 중 하나를 만들어 낼 때까지 많은 시행착오를 겪었습니다!",
+        "koreanNatural": "1930년대 호주의 화학자 밀턴 블레이크는 주방에서 냄비와 등유 난로를 이용해 직접 선크림을 조제했습니다. 그는 수많은 시행착오 끝에 최초의 실용적인 선크림을 개발했습니다.",
+        "mustKnowChunks": [
+          "In the 1930s (1930년대에)",
+          "mixed sunscreen by hand (손으로 직접 선크림을 섞다)",
+          "trial and error (시행착오)",
+          "one of the first real sunscreens (최초의 진짜 선크림 중 하나)"
+        ],
+        "grammar": "Past tense narrative; prepositional phrase of time ('In the 1930s'); 'until' clause indicating result after persistent trial.",
+        "keynmanExplanation": "옛날 1930년대에 주방 냄비로 차단제를 만들려고 수없이 실패하고 다시 시도했던 조상 발명가의 이야기입니다.",
+        "teachingTranscript": "Notice the timeline starting point: 1930s with Milton Blake. The key idiom here is 'trial and error'—trying many formulations before getting it right."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p6",
+        "english": "In 1938, Swiss student Franz Greiter made his own lotion after getting sunburned while mountain climbing. Then in the 1940s, U.S. soldier Benjamin Green created a thicker sunscreen for troops using red veterinary jelly.",
+        "koreanDirect": "1938년, 스위스 학생 프란츠 그라이터는 등산을 하다가 화상을 입은 후 자신만의 로션을 만들었습니다. 그 후 1940년대에 미국 군인 벤저민 그린은 붉은 수의용 젤리를 사용하여 군인들을 위한 더 두꺼운 선크림을 만들었습니다.",
+        "koreanNatural": "1938년 스위스의 학생 프란츠 그라이터는 등산 중 화상을 입은 경험을 바탕으로 자신만의 로션을 만들었습니다. 이어 1940년대에는 미군 벤저민 그린이 붉은 바셀린계 젤리를 이용해 병사들을 위한 두꺼운 선크림을 개발했습니다.",
+        "mustKnowChunks": [
+          "In 1938 (1938년에)",
+          "after getting sunburned (화상을 입은 후에)",
+          "while mountain climbing (등산하는 동안)",
+          "Then in the 1940s (이어서 1940년대에는)",
+          "red veterinary jelly (붉은 수의용 젤리)"
+        ],
+        "grammar": "Chronological sequence markers ('In 1938', 'Then in the 1940s'); reduced time clause ('while mountain climbing'); comparative adjective ('thicker').",
+        "keynmanExplanation": "1938년 등산 후 화상을 입고 로션을 만든 그라이터, 그리고 1940년대 군인들을 위해 끈적한 젤리로 차단제를 만든 그린까지 역사가 이어집니다.",
+        "teachingTranscript": "Trace the progression of dates: 1930s (Blake) -> 1938 (Greiter) -> 1940s (Green). Notice how personal need and military demand drove early sunscreen innovations."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p7",
+        "english": "SPF stands for Sun Protection Factor. It tells you how well sunscreen protects against UVB rays (the ones that cause sunburn).",
+        "koreanDirect": "SPF는 자외선 차단 지수(Sun Protection Factor)를 의미합니다. 그것은 선크림이 UVB 광선(화상을 유발하는 광선)을 얼마나 잘 막아주는지 알려줍니다.",
+        "koreanNatural": "SPF는 자외선 차단 지수(Sun Protection Factor)의 약자입니다. 선크림이 화상을 유발하는 UVB를 얼마나 효과적으로 차단하는지 나타냅니다.",
+        "mustKnowChunks": [
+          "stands for (의미하다, 약자이다)",
+          "Sun Protection Factor (자외선 차단 지수)",
+          "protects against UVB rays (UVB 자외선을 막아주다)"
+        ],
+        "grammar": "Definition phrasing ('stands for'); indirect question object clause ('how well sunscreen protects against UVB rays').",
+        "keynmanExplanation": "SPF는 햇볕 화상을 일으키는 UVB만을 방어하는 방패 수치입니다.",
+        "teachingTranscript": "Make sure students understand that SPF is specifically linked to UVB rays, which are the rays responsible for sunburn."
+      },
+      {
+        "unitType": "bullets",
+        "proseId": "bullets1",
+        "english": "• SPF 30 means you can stay in the sun 30 times longer without burning than if you wore no sunscreen.\n• SPF 50+ gives even more protection, but no sunscreen blocks 100% of rays.",
+        "koreanDirect": "• SPF 30은 선크림을 바르지 않았을 때보다 화상을 입지 않고 30배 더 오래 햇볕 아래 머물 수 있음을 의미합니다.\n• SPF 50+는 훨씬 더 많은 보호를 제공하지만, 어떤 선크림도 자외선을 100% 막아주지는 못합니다.",
+        "koreanNatural": "• SPF 30은 차단제를 바르지 않았을 때보다 화상 없이 30배 더 오래 햇볕을 견딜 수 있다는 의미입니다.\n• SPF 50+는 더 강력한 차단력을 제공하지만, 자외선을 100% 완벽히 막아내는 선크림은 없습니다.",
+        "mustKnowChunks": [
+          "30 times longer without burning (화상 없이 30배 더 오래)",
+          "than if you wore no sunscreen (선크림을 바르지 않았을 때보다)",
+          "SPF 50+ gives even more protection (SPF 50+는 더 많은 보호를 제공함)",
+          "no sunscreen blocks 100% of rays (어떤 선크림도 100% 차단하지는 못함)"
+        ],
+        "grammar": "Comparative expression with multiplier ('30 times longer... than if...'); negative subject emphasizing limits ('no sunscreen blocks...').",
+        "keynmanExplanation": "숫자가 커질수록 더 오랫동안 화상을 막아주지만, 100% 완전 무결한 방패는 없다는 점을 명심하세요!",
+        "teachingTranscript": "Highlight two key points from these bullets: First, SPF 30 multiplies protection duration by 30; second, no sunscreen offers 100% total blockage."
+      },
+      {
+        "unitType": "prose",
+        "proseId": "p8",
+        "english": "Some bottles also show PA+ to PA++++. This is about UVA rays, which can cause wrinkles and deeper skin damage.",
+        "koreanDirect": "일부 병에는 PA+에서 PA++++까지 표시되어 있기도 합니다. 이것은 주름과 더 깊은 피부 손상을 유발할 수 있는 UVA 광선에 관한 것입니다.",
+        "koreanNatural": "어떤 제품에는 PA+부터 PA++++까지 표시되어 있습니다. 이는 주름과 피부 깊은 곳의 손상을 유발하는 UVA 차단 등급을 나타냅니다.",
+        "mustKnowChunks": [
+          "show PA+ to PA++++ (PA+부터 PA++++까지 표시되다)",
+          "This is about UVA rays (이것은 UVA 광선에 관한 것이다)",
+          "cause wrinkles and deeper skin damage (주름과 더 깊은 피부 손상을 유발하다)"
+        ],
+        "grammar": "Non-defining relative clause ('UVA rays, which can cause wrinkles...').",
+        "keynmanExplanation": "PA 표시는 피부 노화와 주름을 만드는 UVA를 차단하는 지표입니다.",
+        "teachingTranscript": "Transition from SPF to PA: While SPF targets UVB, PA plus signs target UVA rays, which cause premature skin aging."
+      },
+      {
+        "unitType": "bullets",
+        "proseId": "bullets2",
+        "english": "• More plus signs = more UVA protection.",
+        "koreanDirect": "• 플러스 기호가 많을수록 = 더 많은 UVA 보호.",
+        "koreanNatural": "• + 기호가 많을수록 = UVA 차단 효과가 더 높음.",
+        "mustKnowChunks": [
+          "More plus signs = more UVA protection (+ 기호가 많을수록 더 높은 UVA 차단)"
+        ],
+        "grammar": "Proportional comparative equation format ('More A = more B').",
+        "keynmanExplanation": "+ 개수가 많아질수록 피부 주름을 막아주는 방어막이 촘촘해진다고 생각하면 됩니다.",
+        "teachingTranscript": "Simple visual rule to memorize: Each additional plus sign represents stronger defense against UVA-induced skin aging."
+      }
+    ],
+    "finalWritingSupport": {
+      "vocabulary": [
+        "ultraviolet radiation (자외선 방사)",
+        "UVA / UVB rays (UVA / UVB 자외선)",
+        "physical / chemical sunscreen (물리적 / 화학적 선크림)",
+        "reflect / absorb (반사하다 / 흡수하다)",
+        "zinc oxide / avobenzone (징크옥사이드 / 아보벤존)",
+        "SPF rating / PA plus signs (SPF 지수 / PA 플러스 표시)"
+      ],
+      "connectors": [
+        "whereas",
+        "while",
+        "in contrast",
+        "on the other hand",
+        "according to the source",
+        "in conclusion"
+      ],
+      "outline": [
+        "1. Topic Sentence: Introduce sunscreen as an invisible shield against ultraviolet radiation.",
+        "2. UV Ray Types: Explain UVA (aging/wrinkles) vs. UVB (sunburns).",
+        "3. Sunscreen Types Comparison: Contrast physical (reflects, zinc oxide) and chemical (absorbs, avobenzone) using whereas.",
+        "4. Label Ratings: Explain SPF (UVB protection) and PA plus signs (UVA protection).",
+        "5. Concluding Sentence: Summarize why understanding these mechanisms helps maintain healthy skin."
+      ],
+      "sentenceStarters": [
+        "Sunscreen acts as an invisible shield that protects skin from...",
+        "According to the source, ultraviolet radiation consists of UVA rays, which..., and UVB rays, which...",
+        "Physical sunscreen sits on top of the skin and reflects UV rays, whereas chemical sunscreen...",
+        "On product labels, SPF measures protection against UVB sunburns, while PA plus signs show...",
+        "In conclusion, understanding sunscreen mechanisms helps individuals..."
+      ],
+      "g1Scaffold": "Provide G1 students with fill-in sentence frames for the contrast sentence: 'Physical sunscreen reflects UV rays using [ingredient], whereas chemical sunscreen absorbs UV rays using [ingredient].'",
+      "g2Extension": "Challenge G2 students to integrate historical context (Blake, Greiter, Green) or evaluate why broad-spectrum protection requires both SPF and PA ratings.",
+      "errorCorrections": [
+        {
+          "error": "Incorrect preposition: 'Sunscreen protects skin against the sun rays.'",
+          "correction": "Use 'protects skin from the sun’s rays' or 'protects against UVB rays'.",
+          "explanation": "Use 'protect [object] from [source]' for general protection, and 'protect against [harm/disease]' for specific threats."
+        },
+        {
+          "error": "Confusing UVA and UVB: 'SPF measures UVA rays which cause sunburns.'",
+          "correction": "SPF measures UVB rays which cause sunburns, while PA measures UVA rays.",
+          "explanation": "SPF specifically guards against UVB (burning), whereas PA guards against UVA (aging)."
+        },
+        {
+          "error": "Missing comma with whereas: 'Physical sunscreen reflects rays whereas chemical sunscreen absorbs them.'",
+          "correction": "Physical sunscreen reflects rays, whereas chemical sunscreen absorbs them.",
+          "explanation": "Place a comma before contrasting conjunctions like whereas or while when linking independent clauses."
+        },
+        {
+          "error": "Tense shift in chronological summary: 'Milton Blake mixes sunscreen in 1930s and Green made jelly sunscreen.'",
+          "correction": "Milton Blake mixed sunscreen in the 1930s, and later Benjamin Green created a thicker sunscreen in the 1940s.",
+          "explanation": "Maintain consistent past tense when writing historical timeline summaries."
+        }
+      ]
+    }
+  }
+}

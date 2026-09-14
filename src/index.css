@@ -250,6 +250,66 @@ p:last-child {
   text-align: justify;
 }
 
+.article__section {
+  margin-top: 1.5rem;
+}
+
+.article__heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.article__table-wrapper {
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+}
+
+.article__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.article__table th {
+  background: var(--color-sage-light);
+  color: var(--color-navy);
+  font-weight: 700;
+  padding: 0.75rem 1rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.article__table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: top;
+}
+
+.article__table tr:last-child td {
+  border-bottom: none;
+}
+
+.article__table tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+.article__list {
+  margin: 0.75rem 0 1.25rem 1.5rem;
+  padding: 0;
+  list-style-type: disc;
+}
+
+.article__list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+
 .vocab-grid {
   display: grid;
   gap: 1rem;
