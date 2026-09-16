@@ -1,0 +1,1089 @@
+{
+  "lessonTitle": "Bamboo Scaffolding: A Hong Kong Tradition at Risk",
+  "ofsUnit": "Unit 2 — Communities, Heritage & Change",
+  "textType": "Informational News Feature",
+  "writingType": "Balanced Evidence-Based Recommendation Paragraph",
+  "lessonGoal": "Students explain why bamboo scaffolding matters to Hong Kong, identify the safety and heritage perspectives in the source, and write a balanced recommendation supported by textual evidence.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. Share your thoughts on traditional building methods, safety regulations, and cultural preservation.",
+    "questions": [
+      "What traditional building methods or crafts are important in your community?",
+      "When safety rules and cultural traditions conflict, what should governments consider?",
+      "Why might young people decide not to enter an old trade?"
+    ]
+  },
+  "article": {
+    "title": "Bamboo Scaffolding: A Hong Kong Tradition at Risk",
+    "titleLines": [
+      "Bamboo Scaffolding:",
+      "A Hong Kong Tradition at Risk"
+    ],
+    "source": "Source: NYT",
+    "sourceNote": "Original text transcribed from a teacher-provided classroom image. The image credits NYT but does not identify the article or publication date.",
+    "paragraphs": [
+      "Bamboo scaffolding has long been part of Hong Kong’s skyline, wrapping buildings like woven cages in midair.",
+      "For over 2,000 years, workers have used this technique for construction, festivals, and even theater stages. It’s fast, flexible, and uniquely tied to the city’s identity.",
+      "But that tradition may be fading. A new government rule now requires metal scaffolding for public housing projects over 15 meters tall, citing safety concerns after a rise in fatal falls and accidents in recent years. Officials say metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+      "For many, though, the rule feels like the beginning of the end for bamboo. With fewer young workers entering the trade, and stricter requirements for inspections, training, and certification, some fear the centuries-old craft will slowly disappear from the city’s skyline. As one scaffolder put it: “It’s not just about building. It’s about passing on something that belongs to Hong Kong.”"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms below from the reading. Pay attention to the part of speech, definition, Korean meaning, and example sentence.",
+    "items": [
+      {
+        "word": "scaffolding",
+        "partOfSpeech": "noun",
+        "definition": "a temporary structure of poles and boards used by workers to stand on while building or repairing a height",
+        "korean": "비계, 임시 가설물",
+        "sentence": "Bamboo scaffolding has been used across Hong Kong to construct and repair buildings for decades."
+      },
+      {
+        "word": "skyline",
+        "partOfSpeech": "noun",
+        "definition": "the outline of buildings and structures seen against the sky",
+        "korean": "스카이라인, 도시 윤곽선",
+        "sentence": "Modern skyscrapers and bamboo frameworks create a unique skyline in Hong Kong."
+      },
+      {
+        "word": "woven",
+        "partOfSpeech": "adjective",
+        "definition": "made by lacing threads, strips, or flexible poles together in a crisscross pattern",
+        "korean": "엮은, 짜인",
+        "sentence": "Workers create strong woven structures out of flexible bamboo poles in midair."
+      },
+      {
+        "word": "technique",
+        "partOfSpeech": "noun",
+        "definition": "a practical skill or method used to complete a specific task or craft",
+        "korean": "기술, 기법",
+        "sentence": "Scaffolders master the traditional technique of tying bamboo poles together with plastic strips."
+      },
+      {
+        "word": "flexible",
+        "partOfSpeech": "adjective",
+        "definition": "able to bend easily without breaking under force or pressure",
+        "korean": "유연한, 잘 휘어지는",
+        "sentence": "Bamboo is remarkably flexible, allowing it to withstand strong winds during storms."
+      },
+      {
+        "word": "safety concerns",
+        "partOfSpeech": "noun phrase",
+        "definition": "worries or considerations about potential danger, injury, or harm",
+        "korean": "안전 우려",
+        "sentence": "Rising accidents on construction sites led officials to raise serious safety concerns."
+      },
+      {
+        "word": "inspect",
+        "partOfSpeech": "verb",
+        "definition": "to examine something closely and officially to check its quality or safety",
+        "korean": "점검하다, 검사하다",
+        "sentence": "Safety inspectors visit building sites to inspect metal frameworks and safety harnesses."
+      },
+      {
+        "word": "stable",
+        "partOfSpeech": "adjective",
+        "definition": "firm, steady, and not easily moved, tipped, or collapsed",
+        "korean": "안정한, 견고한",
+        "sentence": "Metal scaffolding provides a stable structure during heavy monsoon storms."
+      },
+      {
+        "word": "certification",
+        "partOfSpeech": "noun",
+        "definition": "official documentation or approval showing that a person or material meets safety standards",
+        "korean": "자격증, 공식 인증",
+        "sentence": "Scaffolders must complete formal training to earn their professional certification."
+      },
+      {
+        "word": "pass on",
+        "partOfSpeech": "verb phrase",
+        "definition": "to transfer knowledge, skills, or traditions to the next generation",
+        "korean": "(전통·지식 등을) 전수하다, 물려주다",
+        "sentence": "Master craftspeople hope to pass on their traditional skills to younger apprentices."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "What is the main idea of the source?",
+    "options": [
+      "A. Bamboo scaffolding remains popular because no safety concerns have been raised.",
+      "B. Hong Kong has completely banned bamboo scaffolding in every type of project.",
+      "C. A new metal-scaffolding rule has intensified concerns about balancing safety with the future of a Hong Kong tradition.",
+      "D. Young workers are entering the bamboo-scaffolding trade in increasing numbers."
+    ],
+    "correctIndex": 2,
+    "reference": "Paragraphs 1–4",
+    "explanation": "Correct: Option C accurately synthesizes the main conflict of the passage—a new government rule requiring metal scaffolding for high public housing projects, introduced for safety reasons, has sparked fears that a centuries-old Hong Kong tradition may disappear. Option A incorrectly claims no safety concerns exist; Option B overstates the rule as an absolute ban on all projects; Option D directly contradicts the text's note about fewer young workers entering the trade."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "1. For what activities has bamboo scaffolding been used?",
+        "options": [
+          "A. Only for constructing residential high-rise buildings.",
+          "B. Construction, festivals, and theater stages.",
+          "C. Building metal towers and international safety stations.",
+          "D. Inspecting public housing projects over 15 meters tall."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 2",
+        "explanation": "Correct: Option B directly matches Paragraph 2, which states that workers have used this technique for 'construction, festivals, and even theater stages.' Option A is too narrow, while C and D misstate facts from other paragraphs."
+      },
+      {
+        "id": "rc2",
+        "question": "2. What projects does the source say the new rule applies to?",
+        "options": [
+          "A. All private construction projects regardless of height.",
+          "B. Temporary theater stages built for cultural festivals.",
+          "C. Public housing projects over 15 meters tall.",
+          "D. Historic buildings under two meters in height."
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 3",
+        "explanation": "Correct: Option C directly aligns with Paragraph 3: 'A new government rule now requires metal scaffolding for public housing projects over 15 meters tall...' Options A, B, and D misstate the height threshold or scope of the rule."
+      },
+      {
+        "id": "rc3",
+        "question": "3. Why do officials favor metal structures, according to the source?",
+        "options": [
+          "A. They are cheaper to purchase and lighter to carry than bamboo.",
+          "B. Metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+          "C. They require no certification or safety inspection.",
+          "D. Metal scaffolding can be built without any trained construction workers."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 3",
+        "explanation": "Correct: Option B directly quotes the three official reasons in Paragraph 3: 'metal structures are easier to inspect, more stable in storms, and closer to international safety standards.' Options A, C, and D state points not mentioned in the source."
+      },
+      {
+        "id": "rc4",
+        "question": "4. What other pressure threatens the craft besides the rule?",
+        "options": [
+          "A. A total shortage of metal materials across Hong Kong.",
+          "B. Fewer young workers entering the trade and stricter requirements for inspections, training, and certification.",
+          "C. An increase in the number of public housing projects built each year.",
+          "D. A decision by scaffolders to stop working on high-rise buildings."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 4",
+        "explanation": "Correct: Option B matches Paragraph 4: 'With fewer young workers entering the trade, and stricter requirements for inspections, training, and certification, some fear the centuries-old craft will slowly disappear...' Options A, C, and D are unsupported by the text."
+      },
+      {
+        "id": "rc5",
+        "question": "5. What does “the beginning of the end for bamboo” express?",
+        "options": [
+          "A. Certainty that metal scaffolding will be banned next year.",
+          "B. Fear that the traditional craft may gradually disappear.",
+          "C. Confidence that bamboo scaffolding will expand to all buildings.",
+          "D. Pride that young workers are taking over the trade."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 4",
+        "explanation": "Correct: Option B explains the figurative meaning in context—the idiom expresses the fear that new regulations and workforce decline mark the initial phase of bamboo scaffolding gradually fading away. Options A, C, and D contradict the tone and meaning."
+      },
+      {
+        "id": "rc6",
+        "question": "6. What does the scaffolder’s final quotation emphasize?",
+        "options": [
+          "A. That building quickly is the most important goal of construction.",
+          "B. That metal scaffolding is easier to tie than bamboo.",
+          "C. That bamboo scaffolding is about passing on a tradition belonging to Hong Kong, not merely constructing buildings.",
+          "D. That public housing projects should be taller than 15 meters."
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 4",
+        "explanation": "Correct: Option C accurately interprets the quote: 'It’s not just about building. It’s about passing on something that belongs to Hong Kong.' It highlights cultural identity and transmission over purely physical construction."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer the questions below using specific details from the source text. Write in complete sentences.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "1. What reasons do officials give for requiring metal scaffolding in certain projects? Use at least two details.",
+        "instructions": "Identify at least two specific justifications provided by government officials in Paragraph 3.",
+        "compareTips": "Ensure you mention safety concerns after fatal falls/accidents, and at least two of: easier inspection, storm stability, or international safety standards.",
+        "modelAnswer": "According to the source, government officials cite safety concerns following a rise in fatal falls and accidents in recent years. Specifically, officials state that metal structures are easier to inspect, more stable during severe storms, and closer to international safety standards."
+      },
+      {
+        "id": "ev2",
+        "statement": "2. What details show that bamboo scaffolding is part of Hong Kong’s cultural identity?",
+        "instructions": "Cite historical timeframe, traditional uses, and visual/cultural significance from Paragraphs 1, 2, and 4.",
+        "compareTips": "Mention its 2,000-year history, use in festivals and theater stages, wrapping buildings like woven cages on the skyline, and the scaffolder's statement about passing on something belonging to Hong Kong.",
+        "modelAnswer": "The text shows that bamboo scaffolding has wrapped Hong Kong's skyline like woven cages for over 2,000 years. Beyond construction, workers have used it for cultural festivals and theater stages, making it uniquely tied to the city's identity. As one scaffolder emphasized, the trade is about passing on a tradition that belongs to Hong Kong."
+      },
+      {
+        "id": "ev3",
+        "statement": "3. Why do some people fear that the craft may disappear? Explain how the rule and workforce pressures connect.",
+        "instructions": "Connect the government policy change in Paragraph 3 with workforce and certification challenges in Paragraph 4.",
+        "compareTips": "Explain how requiring metal on public housing over 15m reduces demand for bamboo, while fewer young recruits and stricter inspection, training, and certification requirements threaten the craft's survival.",
+        "modelAnswer": "People fear the craft will disappear because new rules require metal scaffolding on public housing over 15 meters tall, reducing major work opportunities for bamboo scaffolders. At the same time, fewer young workers are entering the trade, and stricter requirements for inspections, training, and certification make it harder for the centuries-old craft to survive."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus: Balanced Reporting, Concession & Cause/Effect",
+    "instructions": "Study the target language structures used in the news feature below.",
+    "structures": [
+      {
+        "name": "Present Perfect for Continuing History",
+        "example": "Bamboo scaffolding has long been part of Hong Kong’s skyline... workers have used this technique for over 2,000 years.",
+        "explanation": "Use 'has/have + past participle' to describe actions or traditions that began in the past and continue into the present."
+      },
+      {
+        "name": "Participle Clauses for Descriptive & Causal Detail",
+        "example": "...wrapping buildings like woven cages in midair. / ...citing safety concerns after a rise in fatal falls...",
+        "explanation": "Use '-ing' participle clauses to add vivid background description or give reasons without starting a new sentence."
+      },
+      {
+        "name": "Concession & Contrast Connectors",
+        "example": "But that tradition may be fading. / For many, though, the rule feels like the beginning of the end...",
+        "explanation": "Use 'but', 'though', 'however', or 'although' to contrast official safety arguments with community heritage concerns."
+      },
+      {
+        "name": "Comparative Forms for Safety Justification",
+        "example": "Officials say metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+        "explanation": "Use comparative adjectives ('easier', 'more stable', 'closer to') when contrasting two systems."
+      },
+      {
+        "name": "With + Noun Phrase + -ing (Cause & Effect)",
+        "example": "With fewer young workers entering the trade, and stricter requirements..., some fear the craft will disappear.",
+        "explanation": "Use 'With + noun + -ing' to explain background conditions that cause a specific effect or reaction."
+      },
+      {
+        "name": "Neutral Reporting & Attribution Phrases",
+        "example": "Officials say... / some fear... / As one scaffolder put it: “...”",
+        "explanation": "Use reporting verbs and attribution structures to present policy decisions and community viewpoints objectively."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Construct four target sentences applying the language structures taught in the Language Focus section.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "prompt": "1. Rewrite two official reasons as one sentence using comparative forms.",
+        "instructions": "Combine two justifications for metal scaffolding using comparative adjectives like 'easier' or 'more stable'.",
+        "compareTips": "Ensure your sentence uses comparative forms (e.g. easier to inspect, more stable in storms) to present official claims.",
+        "modelAnswer": "Government officials argue that metal scaffolding is easier to inspect and more stable during storms than traditional bamboo structures."
+      },
+      {
+        "id": "wp2",
+        "prompt": "2. Combine a safety concern and a heritage concern using although or while.",
+        "instructions": "Use 'although' or 'while' to connect official safety concerns with the cultural value of bamboo scaffolding.",
+        "compareTips": "Check that you use 'although' or 'while' at the start or middle of the sentence to show concession between safety and tradition.",
+        "modelAnswer": "While officials mandate metal scaffolding to address safety concerns, many citizens worry about losing a 2,000-year-old cultural tradition."
+      },
+      {
+        "id": "wp3",
+        "prompt": "3. Write a cause-and-effect sentence using With + noun + -ing about the declining workforce.",
+        "instructions": "Start your sentence with 'With fewer young workers entering...' to explain why people fear the craft will fade.",
+        "compareTips": "Ensure the sentence starts with 'With + noun phrase + -ing' followed by a comma and a main clause about the craft fading.",
+        "modelAnswer": "With fewer young workers entering the trade, some fear that traditional bamboo scaffolding will slowly disappear from Hong Kong's skyline."
+      },
+      {
+        "id": "wp4",
+        "prompt": "4. Write one neutral reporting sentence using According to the source or The source reports that.",
+        "instructions": "State an official policy detail using neutral attribution language.",
+        "compareTips": "Use 'According to the source' or 'The source reports that' followed by an accurate detail about the new government rule.",
+        "modelAnswer": "According to the source, a new government rule requires metal scaffolding for public housing projects over 15 meters tall."
+      }
+    ]
+  },
+  "finalWritingTask": {
+    "title": "Final Writing Task: Balanced Evidence-Based Recommendation",
+    "prompt": "How should Hong Kong balance scaffolding safety with the preservation of its bamboo-scaffolding tradition? Write a balanced evidence-based recommendation paragraph of 100–140 words. Use at least three accurate details from the source, explain both the safety and heritage perspectives, and recommend a practical way forward. Include one contrast connector and a clear concluding sentence.",
+    "wordRange": [
+      100,
+      140
+    ],
+    "targetWords": 120,
+    "checklist": [
+      "I stated a clear position on balancing safety and heritage.",
+      "I explained the safety perspective using official reasons from the text.",
+      "I explained the heritage perspective using historical and cultural details.",
+      "I included at least three accurate details from the source.",
+      "I used at least one contrast connector (such as however, although, or while).",
+      "My paragraph is between 100 and 140 words long and ends with a concluding sentence."
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "items": [
+      "I stated a clear position on balancing safety and heritage.",
+      "I explained the safety perspective using official reasons from the text.",
+      "I explained the heritage perspective using historical and cultural details.",
+      "I included at least three accurate details from the source.",
+      "I used at least one contrast connector (such as however, although, or while).",
+      "My paragraph is between 100 and 140 words long and ends with a concluding sentence."
+    ]
+  },
+  "teacher": {
+    "modelAnswer": "Hong Kong faces a difficult decision in balancing worker safety with cultural heritage. According to the source, officials require metal scaffolding on public housing over 15 meters tall because metal is easier to inspect, more stable during storms, and reduces fatal falls. However, bamboo scaffolding has wrapped the city’s skyline for over 2,000 years and forms a key part of Hong Kong’s identity. While safety standards must protect construction workers, government policy should not completely eliminate traditional craftsmanship. Instead, officials could permit certified bamboo scaffolders to work on lower-rise buildings and cultural structures while enforcing strict safety training. In conclusion, preserving Hong Kong’s unique heritage requires combining modern safety regulations with targeted support for traditional trades.",
+    "answerKey": {
+      "mainIdea": "C. A new metal-scaffolding rule has intensified concerns about balancing safety with the future of a Hong Kong tradition.",
+      "readingComprehension": {
+        "rc1": "B. Construction, festivals, and theater stages.",
+        "rc2": "C. Public housing projects over 15 meters tall.",
+        "rc3": "B. Metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+        "rc4": "B. Fewer young workers entering the trade and stricter requirements for inspections, training, and certification.",
+        "rc5": "B. Fear that the traditional craft may gradually disappear.",
+        "rc6": "C. That bamboo scaffolding is about passing on a tradition belonging to Hong Kong, not merely constructing buildings."
+      },
+      "evidenceFromText": {
+        "ev1": "Officials cite safety concerns after fatal falls, noting metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+        "ev2": "Bamboo scaffolding has wrapped Hong Kong's skyline for over 2,000 years, used for construction, festivals, and theater stages, uniquely tied to city identity.",
+        "ev3": "The new rule mandates metal on public housing over 15m, while fewer young workers and stricter inspection/certification requirements threaten craft survival."
+      },
+      "languageFocus": {
+        "lf1": "Present perfect: has long been, have used; Participle clauses: wrapping buildings, citing safety concerns.",
+        "lf2": "Concession: But that tradition may be fading / For many, though...; Comparatives: easier, more stable, closer to.",
+        "lf3": "With + noun + -ing: With fewer young workers entering...; Attribution: Officials say, some fear, As one scaffolder put it."
+      },
+      "writingPractice": {
+        "wp1": "Officials argue that metal structures are easier to inspect and more stable in storms than bamboo.",
+        "wp2": "While government rules mandate metal scaffolding for safety, citizens treasure bamboo as a 2,000-year-old tradition.",
+        "wp3": "With fewer young workers entering the trade, some fear bamboo scaffolding will slowly disappear from Hong Kong's skyline.",
+        "wp4": "According to the source, a new rule requires metal scaffolding on public housing projects over 15 meters tall."
+      }
+    },
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "excellent": "Presents a nuanced, well-reasoned position balancing safety regulations with cultural heritage preservation; thoroughly addresses both perspectives.",
+        "developing": "States a clear position on safety or heritage, but may overweight one side or present a simplified solution without full balance.",
+        "beginning": "States a vague opinion without clearly addressing how safety and heritage should be balanced; missing key perspectives."
+      },
+      {
+        "category": "Evidence Use",
+        "excellent": "Integrates at least three precise, accurate details from the source (e.g., 15m public housing rule, 2,000-year history, inspection/storm stability) with accurate attribution.",
+        "developing": "Includes two details from the text, but may paraphrase loosely or omit specific numerical/policy figures.",
+        "beginning": "Includes fewer than two details or misinterprets text facts; relies on unsupported personal assumptions."
+      },
+      {
+        "category": "Target Language & Structure",
+        "excellent": "Correctly employs target structures including contrast connectors (however, while), comparative forms, and neutral reporting verbs.",
+        "developing": "Uses contrast connectors or comparative forms with minor errors in punctuation or clause structure.",
+        "beginning": "Fails to use target contrast structures; sentence structures are repetitive or grammatically incomplete."
+      },
+      {
+        "category": "Organization",
+        "excellent": "Logical flow from clear position/topic sentence to safety and heritage evidence, followed by a practical recommendation and strong concluding sentence.",
+        "developing": "Generally organized paragraph with clear idea progression, but transitions between safety and heritage points feel abrupt.",
+        "beginning": "Lacks clear paragraph structure; ideas jump between safety and heritage without logical ordering or concluding wrap-up."
+      },
+      {
+        "category": "Accuracy",
+        "excellent": "Demonstrates high grammatical control with negligible minor errors; vocabulary choice is accurate and academic.",
+        "developing": "Contains noticeable grammatical or spelling errors that do not impede overall comprehension.",
+        "beginning": "Frequent errors in sentence structure, verb tenses, or word choices hinder clear communication."
+      }
+    ],
+    "teacherNotes": [
+      "1. Cultural Identity: Frame bamboo scaffolding not just as construction material, but as a living art form tied to Hong Kong's skyline, cultural festivals, and 2,000-year history.",
+      "2. Source Attribution: Remind students that policy details and safety claims are reported by the NYT source and should be attributed as official statements rather than universal facts.",
+      "3. Safety vs. Heritage Framing: Encourage students to explore how modern safety standards can coexist with heritage preservation rather than treating the issue as a simple binary choice.",
+      "4. Workforce & Certification Pressures: Highlight that the craft faces dual threats—new metal mandates and a shrinking workforce due to rigorous certification and lack of young apprentices.",
+      "5. Exact Figures: Ensure students quote numerical details accurately ('over 2,000 years', 'over 15 meters') as given in the source text without rounding or altering figures.",
+      "6. Unidentified NYT Source: Note to students that the text is transcribed from a classroom image citing NYT, but specific publication dates or article links are omitted in the original material.",
+      "7. Unnamed Scaffolder Quote: Discuss the emotional resonance of the final quotation ('It's not just about building...') and how direct quotes enhance news feature writing.",
+      "8. Direct Evidence vs. Inference: Guide G1/G2 ESL students to distinguish between explicit text facts (e.g. 15m rule) and authorial tone expressing fear of craft extinction.",
+      "9. Respectful Discussion: Maintain an open classroom dialogue where students weigh worker protection against intangible cultural heritage without dismissing safety concerns.",
+      "10. G1/G2 Scaffolding: Provide sentence starters for G1 students struggling with concession clauses, while challenging G2 students to integrate complex participle clauses."
+    ],
+    "teachingPhases": [
+      {
+        "phase": 1,
+        "name": "Lead-in / Warm-up Discussion",
+        "durationMinutes": 8,
+        "objective": "Activate prior knowledge regarding traditional crafts, safety rules, and heritage preservation through three warm-up questions.",
+        "steps": [
+          "Display photos or project the title: Bamboo Scaffolding: A Hong Kong Tradition at Risk.",
+          "Pair students to discuss warm-up questions 1–3 for 4 minutes.",
+          "Conduct a quick whole-class share-out on traditional crafts and safety conflicts."
+        ],
+        "teacherScript": {
+          "english": "Welcome everyone! Today we are exploring a fascinating topic / bamboo scaffolding in Hong Kong. Look at Warm-up Question 1 / What traditional building crafts are important in your community? Talk with your partner for two minutes!",
+          "koreanDirect": "환영합니다 여러분! 오늘 우리는 매우 흥미로운 주제인 / 홍콩의 대나무 비계를 탐구합니다. 워밍업 1번 질문을 보세요 / 여러분의 지역사회에서 중요한 전통 건축 기법은 무엇인가요? 2분 동안 짝과 이야기해 보세요!",
+          "koreanNatural": "안녕하세요 여러분! 오늘은 홍콩의 상징적인 대나무 비계와 문화유산에 대해 배웁니다. 짝과 함께 워밍업 질문 1~3번을 읽고 전통 기술과 안전 규정에 대해 생각해보세요."
+        },
+        "expectedStudentResponse": "Students share examples of traditional crafts and express initial opinions on whether safety or tradition should take priority.",
+        "likelyMisconception": "Students might assume bamboo is weak or outdated, unaware of its immense strength and flexibility.",
+        "transition": "Now let's examine the key vocabulary words we will meet in the reading."
+      },
+      {
+        "phase": 2,
+        "name": "Vocabulary in Context",
+        "durationMinutes": 10,
+        "objective": "Pre-teach 10 key terms (scaffolding, skyline, woven, technique, flexible, safety concerns, inspect, stable, certification, pass on).",
+        "steps": [
+          "Introduce the 10 vocabulary terms with parts of speech, definitions, and Korean meanings.",
+          "Emphasize 'pass on' as transferring knowledge/traditions across generations, not dying.",
+          "Have students read example sentences aloud to reinforce correct context usage."
+        ],
+        "teacherScript": {
+          "english": "Let's review our ten vocabulary words! Pay special attention to 'pass on' / which means transferring skills to the next generation. Also notice 'flexible' / meaning able to bend without breaking.",
+          "koreanDirect": "우리의 10개 어휘 단어를 검토해 봅시다! 'pass on'에 특별히 주의를 기울이세요 / 다음 세대에 기술을 전수한다는 의미입니다. 또한 'flexible'에도 주목하세요 / 부러지지 않고 구부러질 수 있다는 뜻입니다.",
+          "koreanNatural": "핵심 어휘 10개를 살펴봅시다. 특히 'pass on'은 전통이나 기술을 후대에 물려준다는 핵심 표현입니다. 예문과 함께 각 단어의 정확한 쓰임을 확인하세요."
+        },
+        "expectedStudentResponse": "Students correctly pronounce vocabulary words, state definitions, and distinguish 'pass on' from non-academic idioms.",
+        "likelyMisconception": "Students might confuse 'pass on' with passing away or passing an exam.",
+        "transition": "With our vocabulary prepared, let's read the text to capture the main idea."
+      },
+      {
+        "phase": 3,
+        "name": "Gist Reading & Main Idea",
+        "durationMinutes": 8,
+        "objective": "Read the 4-paragraph source feature and identify its central theme through 1 MCQ.",
+        "steps": [
+          "Have students read the article text independently or follow along in silent reading.",
+          "Direct attention to the contrast between government safety rules and heritage concerns.",
+          "Guide students to answer the Main Idea MCQ and discuss why Option C is correct."
+        ],
+        "teacherScript": {
+          "english": "As you read the passage / notice how Paragraph 3 introduces the new safety rule / while Paragraph 4 describes fears about losing tradition. What is the central message connecting both sides?",
+          "koreanDirect": "글을 읽으면서 / 3단락이 어떻게 새로운 안전 규칙을 소개하는지 / 반면 4단락은 전통 상실에 대한 우려를 설명하는지 확인하세요. 두 측면을 연결하는 중심 메시지는 무엇인가요?",
+          "koreanNatural": "본문을 읽으면서 정부의 안전 규제 발표와 전통 보존의 우려가 어떻게 맞물려 있는지 파악해보세요. 이를 바탕으로 주제 문제의 정답을 찾아봅시다."
+        },
+        "expectedStudentResponse": "Students select Option C, explaining that the new rule intensifies debates over safety and cultural preservation.",
+        "likelyMisconception": "Students might select Option B (total ban), misinterpreting the specific 15m public housing scope.",
+        "transition": "Great job! Now let's dive deeper into specific paragraph details."
+      },
+      {
+        "phase": 4,
+        "name": "Detail Reading & Textual Evidence",
+        "durationMinutes": 17,
+        "objective": "Analyze specific details through 6 Reading Comprehension MCQs and write 3 evidence-based text responses.",
+        "steps": [
+          "Work through RC questions 1–6, confirming paragraph locations for each answer.",
+          "Review the three Evidence prompts (EV1: official reasons, EV2: cultural identity, EV3: disappearance fears).",
+          "Ensure students write complete sentences using exact source figures ('2,000 years', '15 meters')."
+        ],
+        "teacherScript": {
+          "english": "Now let's examine the detailed evidence! For Evidence Prompt 1 / list at least two specific official reasons from Paragraph 3. Make sure you quote exact numbers like 15 meters!",
+          "koreanDirect": "이제 세부 증거를 살펴봅시다! 증거 질문 1번의 경우 / 3단락에서 최소 두 가지 공식적인 이유를 나열하세요. 15미터와 같은 정확한 숫자를 인용해야 합니다!",
+          "koreanNatural": "세부 독해 문제와 증거 작성 코너를 진행합니다. 본문에 나온 2,000년 역사, 15미터 기준, 검사 편의성 등의 수치와 사실을 정확히 근거로 제시하세요."
+        },
+        "expectedStudentResponse": "Students complete all MCQs and write thorough evidence responses citing paragraph details.",
+        "likelyMisconception": "Students might write vague general statements instead of citing specific source details.",
+        "transition": "Now let's look at the grammatical structures we need for our writing task."
+      },
+      {
+        "phase": 5,
+        "name": "Language Focus: Contrast & Reporting",
+        "durationMinutes": 12,
+        "objective": "Explicitly teach target sentence structures: present perfect, participle clauses, concession connectors, comparative forms, With + noun + -ing, and neutral reporting.",
+        "steps": [
+          "Examine present perfect ('has long been') and participle clauses ('wrapping buildings...') in Paragraph 1.",
+          "Model concession connectors ('while', 'although', 'however') to link safety and heritage.",
+          "Demonstrate 'With + noun + -ing' structure for cause-and-effect writing."
+        ],
+        "teacherScript": {
+          "english": "Look at Language Focus! Notice how 'With fewer young workers entering...' / creates a cause-and-effect relationship. We will use 'while' and 'although' / to connect safety arguments with heritage preservation.",
+          "koreanDirect": "언어 집중 코너를 보세요! 'With fewer young workers entering...' 구조가 / 어떻게 원인과 결과 관계를 만들어내는지 확인하세요. 우리는 'while'과 'although'를 사용하여 / 안전 주장과 유산 보존을 연결할 것입니다.",
+          "koreanNatural": "문법 코너에서는 양보 접속사(while, although), 비교급 표현, 원인을 나타내는 With 분사구문, 그리고 객관적 인용 표현을 학습합니다."
+        },
+        "expectedStudentResponse": "Students identify contrast connectors and construct sample sentences using the target grammar patterns.",
+        "likelyMisconception": "Students might forget the comma when using introductory 'With + noun + -ing' clauses.",
+        "transition": "Let's practice these sentence structures in Writing Practice."
+      },
+      {
+        "phase": 6,
+        "name": "Writing Practice",
+        "durationMinutes": 12,
+        "objective": "Scaffold writing skills through 4 targeted sentence-building prompts.",
+        "steps": [
+          "Guide students through WP1 (comparatives), WP2 (although/while), WP3 (With + noun + -ing), and WP4 (neutral reporting).",
+          "Provide immediate feedback using Check & Compare and model answer comparison.",
+          "Circulate to assist G1 ESL students with sentence framing."
+        ],
+        "teacherScript": {
+          "english": "Complete the four Writing Practice items! In item 3, start your sentence with 'With fewer young workers entering...' / and make sure item 4 uses neutral reporting phrases like 'According to the source'.",
+          "koreanDirect": "4개의 쓰기 연습 문항을 완성하세요! 3번에서는 'With fewer young workers entering...'으로 문장을 시작하고 / 4번에서는 'According to the source'와 같은 중립적 인용 표현을 사용하는지 확인하세요.",
+          "koreanNatural": "쓰기 연습 4문항을 완성해 보세요. 비교급, 양보 접속사, With 구문, 그리고 인용 문구를 활용하여 완결된 문장을 작성합니다."
+        },
+        "expectedStudentResponse": "Students write accurate sentences incorporating all required grammar targets.",
+        "likelyMisconception": "Students might confuse 'although' (subordinating conjunction) with 'however' (adverb).",
+        "transition": "You are now ready to write your final balanced recommendation paragraph!"
+      },
+      {
+        "phase": 7,
+        "name": "Final Writing Task",
+        "durationMinutes": 18,
+        "objective": "Synthesize reading evidence into a 100–140-word balanced recommendation paragraph.",
+        "steps": [
+          "Review the prompt and 6-item checklist with the class.",
+          "Emphasize presenting both safety and heritage viewpoints before proposing a practical solution.",
+          "Monitor live word counts to ensure paragraphs meet the 100–140 word requirement."
+        ],
+        "teacherScript": {
+          "english": "Now write your final recommendation paragraph! Aim for 100 to 140 words. State your position, present official safety reasons, explain cultural heritage, and offer a practical recommendation!",
+          "koreanDirect": "이제 최종 추천 단락을 작성하세요! 100자에서 140단어를 목표로 하세요. 입장을 밝히고, 공식 안전 이유를 제시하며, 문화유산을 설명하고, 실용적인 제안을 제시하세요!",
+          "koreanNatural": "최종 글쓰기 단계입니다. 100~140단어 분량으로 안전과 전통의 가치를 균형 있게 다루고, 실현 가능한 절충안과 결론 문장을 작성하세요."
+        },
+        "expectedStudentResponse": "Students compose balanced, evidence-supported paragraphs meeting all prompt criteria and word length limits.",
+        "likelyMisconception": "Students might write a one-sided argument ignoring either safety or heritage.",
+        "transition": "Let's complete our Self-Check and submit our work."
+      },
+      {
+        "phase": 8,
+        "name": "Self-Check & Submission",
+        "durationMinutes": 5,
+        "objective": "Review submission checklist and submit completed lesson responses.",
+        "steps": [
+          "Guide students through the 6 self-check checkboxes.",
+          "Have students enter their student code and click Submit.",
+          "Verify submission storage in local state / D1 database."
+        ],
+        "teacherScript": {
+          "english": "Review the six self-check items carefully! Make sure your paragraph word count is between 100 and 140 words, enter your name and student code, and press Submit.",
+          "koreanDirect": "6개 자체 점검 항목을 주의 깊게 검토하세요! 단락 단어 수가 100단어에서 140단어 사이인지 확인하고, 이름과 학생 코드를 입력한 후 제출 버튼을 누르세요.",
+          "koreanNatural": "자체 점검표를 확인하며 부족한 부분이 없는지 살펴본 후, 학생 정보를 입력하고 성공적으로 제출을 완료하세요."
+        },
+        "expectedStudentResponse": "Students complete the self-check list and submit their work without error.",
+        "likelyMisconception": "Students might forget to check their word count before submitting.",
+        "transition": "Great job today! You have analyzed a complex cultural debate with evidence and balanced reasoning."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": 1,
+        "name": "Lead-in / Warm-up Discussion",
+        "durationMinutes": 8,
+        "objective": "Activate prior knowledge regarding traditional crafts, safety rules, and heritage preservation through three warm-up questions.",
+        "steps": [
+          "Display photos or project the title: Bamboo Scaffolding: A Hong Kong Tradition at Risk.",
+          "Pair students to discuss warm-up questions 1–3 for 4 minutes.",
+          "Conduct a quick whole-class share-out on traditional crafts and safety conflicts."
+        ],
+        "teacherScript": {
+          "english": "Welcome everyone! Today we are exploring a fascinating topic / bamboo scaffolding in Hong Kong. Look at Warm-up Question 1 / What traditional building crafts are important in your community? Talk with your partner for two minutes!",
+          "koreanDirect": "환영합니다 여러분! 오늘 우리는 매우 흥미로운 주제인 / 홍콩의 대나무 비계를 탐구합니다. 워밍업 1번 질문을 보세요 / 여러분의 지역사회에서 중요한 전통 건축 기법은 무엇인가요? 2분 동안 짝과 이야기해 보세요!",
+          "koreanNatural": "안녕하세요 여러분! 오늘은 홍콩의 상징적인 대나무 비계와 문화유산에 대해 배웁니다. 짝과 함께 워밍업 질문 1~3번을 읽고 전통 기술과 안전 규정에 대해 생각해보세요."
+        },
+        "expectedStudentResponse": "Students share examples of traditional crafts and express initial opinions on whether safety or tradition should take priority.",
+        "likelyMisconception": "Students might assume bamboo is weak or outdated, unaware of its immense strength and flexibility.",
+        "transition": "Now let's examine the key vocabulary words we will meet in the reading."
+      },
+      {
+        "phase": 2,
+        "name": "Vocabulary in Context",
+        "durationMinutes": 10,
+        "objective": "Pre-teach 10 key terms (scaffolding, skyline, woven, technique, flexible, safety concerns, inspect, stable, certification, pass on).",
+        "steps": [
+          "Introduce the 10 vocabulary terms with parts of speech, definitions, and Korean meanings.",
+          "Emphasize 'pass on' as transferring knowledge/traditions across generations, not dying.",
+          "Have students read example sentences aloud to reinforce correct context usage."
+        ],
+        "teacherScript": {
+          "english": "Let's review our ten vocabulary words! Pay special attention to 'pass on' / which means transferring skills to the next generation. Also notice 'flexible' / meaning able to bend without breaking.",
+          "koreanDirect": "우리의 10개 어휘 단어를 검토해 봅시다! 'pass on'에 특별히 주의를 기울이세요 / 다음 세대에 기술을 전수한다는 의미입니다. 또한 'flexible'에도 주목하세요 / 부러지지 않고 구부러질 수 있다는 뜻입니다.",
+          "koreanNatural": "핵심 어휘 10개를 살펴봅시다. 특히 'pass on'은 전통이나 기술을 후대에 물려준다는 핵심 표현입니다. 예문과 함께 각 단어의 정확한 쓰임을 확인하세요."
+        },
+        "expectedStudentResponse": "Students correctly pronounce vocabulary words, state definitions, and distinguish 'pass on' from non-academic idioms.",
+        "likelyMisconception": "Students might confuse 'pass on' with passing away or passing an exam.",
+        "transition": "With our vocabulary prepared, let's read the text to capture the main idea."
+      },
+      {
+        "phase": 3,
+        "name": "Gist Reading & Main Idea",
+        "durationMinutes": 8,
+        "objective": "Read the 4-paragraph source feature and identify its central theme through 1 MCQ.",
+        "steps": [
+          "Have students read the article text independently or follow along in silent reading.",
+          "Direct attention to the contrast between government safety rules and heritage concerns.",
+          "Guide students to answer the Main Idea MCQ and discuss why Option C is correct."
+        ],
+        "teacherScript": {
+          "english": "As you read the passage / notice how Paragraph 3 introduces the new safety rule / while Paragraph 4 describes fears about losing tradition. What is the central message connecting both sides?",
+          "koreanDirect": "글을 읽으면서 / 3단락이 어떻게 새로운 안전 규칙을 소개하는지 / 반면 4단락은 전통 상실에 대한 우려를 설명하는지 확인하세요. 두 측면을 연결하는 중심 메시지는 무엇인가요?",
+          "koreanNatural": "본문을 읽으면서 정부의 안전 규제 발표와 전통 보존의 우려가 어떻게 맞물려 있는지 파악해보세요. 이를 바탕으로 주제 문제의 정답을 찾아봅시다."
+        },
+        "expectedStudentResponse": "Students select Option C, explaining that the new rule intensifies debates over safety and cultural preservation.",
+        "likelyMisconception": "Students might select Option B (total ban), misinterpreting the specific 15m public housing scope.",
+        "transition": "Great job! Now let's dive deeper into specific paragraph details."
+      },
+      {
+        "phase": 4,
+        "name": "Detail Reading & Textual Evidence",
+        "durationMinutes": 17,
+        "objective": "Analyze specific details through 6 Reading Comprehension MCQs and write 3 evidence-based text responses.",
+        "steps": [
+          "Work through RC questions 1–6, confirming paragraph locations for each answer.",
+          "Review the three Evidence prompts (EV1: official reasons, EV2: cultural identity, EV3: disappearance fears).",
+          "Ensure students write complete sentences using exact source figures ('2,000 years', '15 meters')."
+        ],
+        "teacherScript": {
+          "english": "Now let's examine the detailed evidence! For Evidence Prompt 1 / list at least two specific official reasons from Paragraph 3. Make sure you quote exact numbers like 15 meters!",
+          "koreanDirect": "이제 세부 증거를 살펴봅시다! 증거 질문 1번의 경우 / 3단락에서 최소 두 가지 공식적인 이유를 나열하세요. 15미터와 같은 정확한 숫자를 인용해야 합니다!",
+          "koreanNatural": "세부 독해 문제와 증거 작성 코너를 진행합니다. 본문에 나온 2,000년 역사, 15미터 기준, 검사 편의성 등의 수치와 사실을 정확히 근거로 제시하세요."
+        },
+        "expectedStudentResponse": "Students complete all MCQs and write thorough evidence responses citing paragraph details.",
+        "likelyMisconception": "Students might write vague general statements instead of citing specific source details.",
+        "transition": "Now let's look at the grammatical structures we need for our writing task."
+      },
+      {
+        "phase": 5,
+        "name": "Language Focus: Contrast & Reporting",
+        "durationMinutes": 12,
+        "objective": "Explicitly teach target sentence structures: present perfect, participle clauses, concession connectors, comparative forms, With + noun + -ing, and neutral reporting.",
+        "steps": [
+          "Examine present perfect ('has long been') and participle clauses ('wrapping buildings...') in Paragraph 1.",
+          "Model concession connectors ('while', 'although', 'however') to link safety and heritage.",
+          "Demonstrate 'With + noun + -ing' structure for cause-and-effect writing."
+        ],
+        "teacherScript": {
+          "english": "Look at Language Focus! Notice how 'With fewer young workers entering...' / creates a cause-and-effect relationship. We will use 'while' and 'although' / to connect safety arguments with heritage preservation.",
+          "koreanDirect": "언어 집중 코너를 보세요! 'With fewer young workers entering...' 구조가 / 어떻게 원인과 결과 관계를 만들어내는지 확인하세요. 우리는 'while'과 'although'를 사용하여 / 안전 주장과 유산 보존을 연결할 것입니다.",
+          "koreanNatural": "문법 코너에서는 양보 접속사(while, although), 비교급 표현, 원인을 나타내는 With 분사구문, 그리고 객관적 인용 표현을 학습합니다."
+        },
+        "expectedStudentResponse": "Students identify contrast connectors and construct sample sentences using the target grammar patterns.",
+        "likelyMisconception": "Students might forget the comma when using introductory 'With + noun + -ing' clauses.",
+        "transition": "Let's practice these sentence structures in Writing Practice."
+      },
+      {
+        "phase": 6,
+        "name": "Writing Practice",
+        "durationMinutes": 12,
+        "objective": "Scaffold writing skills through 4 targeted sentence-building prompts.",
+        "steps": [
+          "Guide students through WP1 (comparatives), WP2 (although/while), WP3 (With + noun + -ing), and WP4 (neutral reporting).",
+          "Provide immediate feedback using Check & Compare and model answer comparison.",
+          "Circulate to assist G1 ESL students with sentence framing."
+        ],
+        "teacherScript": {
+          "english": "Complete the four Writing Practice items! In item 3, start your sentence with 'With fewer young workers entering...' / and make sure item 4 uses neutral reporting phrases like 'According to the source'.",
+          "koreanDirect": "4개의 쓰기 연습 문항을 완성하세요! 3번에서는 'With fewer young workers entering...'으로 문장을 시작하고 / 4번에서는 'According to the source'와 같은 중립적 인용 표현을 사용하는지 확인하세요.",
+          "koreanNatural": "쓰기 연습 4문항을 완성해 보세요. 비교급, 양보 접속사, With 구문, 그리고 인용 문구를 활용하여 완결된 문장을 작성합니다."
+        },
+        "expectedStudentResponse": "Students write accurate sentences incorporating all required grammar targets.",
+        "likelyMisconception": "Students might confuse 'although' (subordinating conjunction) with 'however' (adverb).",
+        "transition": "You are now ready to write your final balanced recommendation paragraph!"
+      },
+      {
+        "phase": 7,
+        "name": "Final Writing Task",
+        "durationMinutes": 18,
+        "objective": "Synthesize reading evidence into a 100–140-word balanced recommendation paragraph.",
+        "steps": [
+          "Review the prompt and 6-item checklist with the class.",
+          "Emphasize presenting both safety and heritage viewpoints before proposing a practical solution.",
+          "Monitor live word counts to ensure paragraphs meet the 100–140 word requirement."
+        ],
+        "teacherScript": {
+          "english": "Now write your final recommendation paragraph! Aim for 100 to 140 words. State your position, present official safety reasons, explain cultural heritage, and offer a practical recommendation!",
+          "koreanDirect": "이제 최종 추천 단락을 작성하세요! 100자에서 140단어를 목표로 하세요. 입장을 밝히고, 공식 안전 이유를 제시하며, 문화유산을 설명하고, 실용적인 제안을 제시하세요!",
+          "koreanNatural": "최종 글쓰기 단계입니다. 100~140단어 분량으로 안전과 전통의 가치를 균형 있게 다루고, 실현 가능한 절충안과 결론 문장을 작성하세요."
+        },
+        "expectedStudentResponse": "Students compose balanced, evidence-supported paragraphs meeting all prompt criteria and word length limits.",
+        "likelyMisconception": "Students might write a one-sided argument ignoring either safety or heritage.",
+        "transition": "Let's complete our Self-Check and submit our work."
+      },
+      {
+        "phase": 8,
+        "name": "Self-Check & Submission",
+        "durationMinutes": 5,
+        "objective": "Review submission checklist and submit completed lesson responses.",
+        "steps": [
+          "Guide students through the 6 self-check checkboxes.",
+          "Have students enter their student code and click Submit.",
+          "Verify submission storage in local state / D1 database."
+        ],
+        "teacherScript": {
+          "english": "Review the six self-check items carefully! Make sure your paragraph word count is between 100 and 140 words, enter your name and student code, and press Submit.",
+          "koreanDirect": "6개 자체 점검 항목을 주의 깊게 검토하세요! 단락 단어 수가 100단어에서 140단어 사이인지 확인하고, 이름과 학생 코드를 입력한 후 제출 버튼을 누르세요.",
+          "koreanNatural": "자체 점검표를 확인하며 부족한 부분이 없는지 살펴본 후, 학생 정보를 입력하고 성공적으로 제출을 완료하세요."
+        },
+        "expectedStudentResponse": "Students complete the self-check list and submit their work without error.",
+        "likelyMisconception": "Students might forget to check their word count before submitting.",
+        "transition": "Great job today! You have analyzed a complex cultural debate with evidence and balanced reasoning."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Good morning, class! Today we are analyzing a news feature about an iconic Hong Kong tradition / bamboo scaffolding. As we read, pay close attention to how the author balances official safety concerns / with cultural heritage preservation.",
+          "korean": "좋은 아침입니다, 여러분! 오늘 우리는 홍콩의 상징적인 전통인 대나무 비계에 대한 뉴스 피처를 분석합니다. 읽으면서 저자가 공식적인 안전 우려와 문화유산 보존을 어떻게 균형 있게 다루는지 잘 살펴보세요."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "question": "What traditional building methods or crafts are important in your community?",
+          "english": "What traditional building methods or crafts are important in your community?",
+          "koreanDirect": "여러분 지역사회에서 중요한 전통 건축 기법이나 공예는 무엇인가요?",
+          "koreanNatural": "우리 주변이나 고향에서 찾아볼 수 있는 고유한 전통 건축 방식이나 공예 기술에는 어떤 것들이 있나요?",
+          "possibleAnswers": [
+            "Traditional wooden joinery without nails, Hanok clay tile roofing, or hand-carved stone structures."
+          ],
+          "followUp": "Ask how these traditional methods compare to modern concrete and steel construction.",
+          "caution": "Keep discussion focused on building techniques and cultural identity."
+        },
+        {
+          "question": "When safety rules and cultural traditions conflict, what should governments consider?",
+          "english": "When safety rules and cultural traditions conflict, what should governments consider?",
+          "koreanDirect": "안전 규칙과 문화적 전통이 충돌할 때, 정부는 무엇을 고려해야 하나요?",
+          "koreanNatural": "국민의 안전을 지키는 행정 규제와 소중한 문화유산을 지키는 일 사이에서 정부는 어떤 점들을 신중하게 균형 맞춰야 할까요?",
+          "possibleAnswers": [
+            "Governments should consider worker safety first, but also seek training or certified exceptions to preserve traditional skills."
+          ],
+          "followUp": "Prompt students to evaluate whether compromise solutions are possible.",
+          "caution": "Ensure students treat both safety and heritage with seriousness."
+        },
+        {
+          "question": "Why might young people decide not to enter an old trade?",
+          "english": "Why might young people decide not to enter an old trade?",
+          "koreanDirect": "젊은이들이 오래된 직종에 진입하지 않기로 결정하는 이유는 무엇인가요?",
+          "koreanNatural": "젊은 세대가 전통적인 기술이나 오래된 직업을 꺼리는 이유는 무엇일까요? (예: 물리적 위험, 낮은 임금, 엄격한 자격증 과정)",
+          "possibleAnswers": [
+            "Young people may fear physical danger, lower pay, hard manual labor, or lengthy certification requirements."
+          ],
+          "followUp": "Ask how training programs or higher pay could encourage new apprentices.",
+          "caution": "Avoid generalizing young workers; focus on structural career barriers."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "Bamboo scaffolding has long been part of Hong Kong’s skyline, wrapping buildings like woven cages in midair.",
+          "chunkReading": "Bamboo scaffolding / has long been part / of Hong Kong’s skyline, / wrapping buildings / like woven cages / in midair.",
+          "directKorean": "대나무 비계는 / 오랜 기간 일부였습니다 / 홍콩 스카이라인의 / 건물들을 감싸며 / 엮인 새장처럼 / 공중에서.",
+          "naturalKorean": "대나무 비계는 공중에 엮인 새장처럼 건물을 감싸며 오랫동안 홍콩 스카이라인의 풍경으로 자리 잡아 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "has long been part of",
+              "meaning": "~의 오랫동안 일부였다",
+              "use": "present perfect for continuing historical tradition",
+              "example": "Bamboo scaffolding has long been part of the city's architectural culture."
+            },
+            {
+              "chunk": "wrapping buildings like woven cages",
+              "meaning": "엮은 새장처럼 건물을 감싸며",
+              "use": "participle clause showing descriptive visual simile",
+              "example": "Scaffolders worked high above, wrapping buildings like woven cages."
+            }
+          ],
+          "mustKnowGrammar": "Present perfect tense ('has long been') connects past tradition to present reality; participle clause ('wrapping...') adds vivid imagery.",
+          "feynmanExplanation": "Imagine looking up at high buildings in Hong Kong and seeing bamboo poles wrapped all around them. / For decades, workers have built these lightweight grids to work on skyscrapers safely. / The poles overlap like a giant woven basket hanging in the air. / This distinctive look has become a famous symbol of the city.",
+          "feynmanKorean": "홍콩의 높은 빌딩들을 올려다볼 때 대나무 봉들이 격자 형태로 건물을 감싸고 있는 모습을 떠올려 보세요. / 작업자들은 수십 년 동안 이 가벼운 대나무틀을 만들고 공중에서 안전하게 작업해 왔습니다. / 대나무가 엮인 모습은 마치 공중에 떠 있는 커다란 새장 같으며, 홍콩을 상징하는 독특한 풍경이 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the vivid visual image in Sentence 1: 'wrapping buildings like woven cages in midair'.",
+              "korean": "1번 문장의 생생한 시각적 비유 표현인 'wrapping buildings like woven cages in midair'를 주의 깊게 보세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "For over 2,000 years, workers have used this technique for construction, festivals, and even theater stages.",
+          "chunkReading": "For over 2,000 years, / workers have used this technique / for construction, / festivals, / and even theater stages.",
+          "directKorean": "2,000년이 넘는 시간 동안 / 작업자들은 이 기술을 사용해 왔습니다 / 건설, / 축제, / 그리고 심지어 연극 무대를 위해.",
+          "naturalKorean": "2,000년이 넘는 세월 동안 작업자들은 건축은 물론 축제와 연극 무대를 만드는 데도 이 기술을 활용해 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "for over 2,000 years",
+              "meaning": "2,000년이 넘는 동안",
+              "use": "historical time duration preposition phrase",
+              "example": "Workers have practiced this craft for over 2,000 years."
+            }
+          ],
+          "mustKnowGrammar": "Preposition 'for' with a specific duration ('over 2,000 years') paired with present perfect ('have used').",
+          "feynmanExplanation": "This isn't a brand new invention that started yesterday. / Craftspeople have used bamboo scaffolding for more than two thousand years across Chinese history. / They don't just use it to build regular houses or offices. / They also construct temporary event stages and festival structures with it.",
+          "feynmanKorean": "이것은 어제 오늘 시작된 최신 발명이 아닙니다. / 장인들은 중국 역사 속에서 2천 년이 넘는 세월 동안 대나무 비계를 활용해 왔습니다. / 이들은 단순한 건물 공사뿐만 아니라 축제용 구조물이나 임시 연극 무대를 만드는 데도 대나무를 사용했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Highlight the exact number '2,000 years'. This historical depth emphasizes why bamboo is considered ancient heritage.",
+              "korean": "2,000년이라는 정확한 숫자에 하이라이트를 하세요. 이 깊은 역사는 왜 대나무 비계가 귀중한 문화유산인지 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "It’s fast, flexible, and uniquely tied to the city’s identity.",
+          "chunkReading": "It’s fast, flexible, / and uniquely tied / to the city’s identity.",
+          "directKorean": "이것은 빠르고, 유연하며, / 독특하게 연결되어 있습니다 / 도시의 정체성과.",
+          "naturalKorean": "이 기법은 빠르고 유연하며, 홍콩이라는 도시의 정체성과 독특하게 결합되어 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "uniquely tied to",
+              "meaning": "~에 독특하게 연결된/결합된",
+              "use": "adverb + participle phrase indicating unique cultural connection",
+              "example": "Bamboo craftsmanship is uniquely tied to Hong Kong's cultural heritage."
+            }
+          ],
+          "mustKnowGrammar": "Parallel adjective structure ('fast, flexible') followed by passive participle combination ('uniquely tied to').",
+          "feynmanExplanation": "Bamboo is special because workers can assemble it very quickly without heavy machinery. / It can bend during windy weather instead of breaking easily. / Most importantly, it connects deeply to Hong Kong's cultural personality and history. / Seeing bamboo frameworks reminds people of local pride and craftsmanship.",
+          "feynmanKorean": "대나무는 중장비 없이도 작업자들이 매우 빠르게 조립할 수 있어 특별합니다. / 또한 강풍이 불 때 쉽게 부러지지 않고 유연하게 휘어집니다. / 무엇보다 홍콩의 역사 및 문화적 정체성과 깊이 연결되어 있어 지역적 자부심을 상징합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the key adjective 'flexible'. Bamboo bends during strong winds, making it ideal for tropical weather.",
+              "korean": "'flexible(유연한)'이라는 핵심 형용사에 주목하세요. 대나무는 태풍 바람에도 잘 튕겨내며 휘어집니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "But that tradition may be fading.",
+          "chunkReading": "But / that tradition / may be fading.",
+          "directKorean": "하지만 / 그 전통은 / 희미해지고(사라지고) 있을지도 모릅니다.",
+          "naturalKorean": "하지만 오랜 전통이 이제 사라질 위기에 처해 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "may be fading",
+              "meaning": "점차 희미해지고/사라지고 있을지도 모른다",
+              "use": "modal auxiliary showing uncertainty / reported threat",
+              "example": "Without new apprentices, the tradition may be fading."
+            }
+          ],
+          "mustKnowGrammar": "Modal verb 'may' expressing possibility/uncertainty, combined with progressive form 'be fading'.",
+          "feynmanExplanation": "Even though bamboo scaffolding has a long history, things are starting to change. / The word 'fading' means that this practice might slowly disappear over time. / New government rules and changes in the workforce are threatening its future. / The tradition is at risk of being replaced by modern alternatives.",
+          "feynmanKorean": "대나무 비계가 오랜 역사를 가지고 있음에도 불구하고 상황이 변하기 시작했습니다. / 'fading'이라는 단어는 이 전통이 시간이 지남에 따라 점차 사라질 수 있음을 의미합니다. / 새로운 정부 규제와 인력 변화가 이 전통의 미래를 위협하고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Sentence 4 serves as the turning point of the article, introducing the central conflict.",
+              "korean": "4번 문장은 글의 전환점 역할을 하며, 전통과 규제 사이의 핵심 갈등을 도입합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "A new government rule now requires metal scaffolding for public housing projects over 15 meters tall, citing safety concerns after a rise in fatal falls and accidents in recent years.",
+          "chunkReading": "A new government rule / now requires metal scaffolding / for public housing projects / over 15 meters tall, / citing safety concerns / after a rise in fatal falls and accidents / in recent years.",
+          "directKorean": "새로운 정부 규칙은 / 이제 금속 비계를 요구합니다 / 공공 주택 프로젝트에 대해 / 15미터가 넘는 높이의, / 안전 우려를 인용하면서 / 치명적인 추락과 사고의 증가 이후 / 최근 몇 년간의.",
+          "naturalKorean": "최근 몇 년 동안 치명적인 추락 사고가 증가하자, 정부는 안전을 이유로 15미터가 넘는 공공 주택 공사에 금속 비계 사용을 의무화하는 새 규칙을 도입했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "over 15 meters tall",
+              "meaning": "높이 15미터가 넘는",
+              "use": "prepositional phrase specifying exact legal height limit",
+              "example": "The safety rule applies only to buildings over 15 meters tall."
+            },
+            {
+              "chunk": "citing safety concerns",
+              "meaning": "안전 우려를 인용하며/이유로 들며",
+              "use": "participle clause providing official justification",
+              "example": "Officials banned the material, citing safety concerns."
+            }
+          ],
+          "mustKnowGrammar": "Participle clause ('citing safety concerns...') explains the official motivation behind the new regulation.",
+          "feynmanExplanation": "The Hong Kong government recently created a strict new safety policy. / For public housing buildings taller than 15 meters, workers must now use metal tubes instead of bamboo. / Officials made this choice because there were too many dangerous falls and fatal accidents. / They want to protect construction workers from getting hurt on the job.",
+          "feynmanKorean": "홍콩 정부는 최근 엄격한 새 안전 정책을 마련했습니다. / 15미터가 넘는 공공 주택 건물 공사에서는 대나무 대신 금속 관을 써야 합니다. / 치명적인 추락 사고가 잇따라 발생하자 작업자의 생명을 보호하기 위해 이 같은 결정을 내렸습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Pay close attention to the specific scope: 'public housing projects over 15 meters tall'. It is not a ban on all buildings!",
+              "korean": "규제의 정확한 적용 범위인 '15미터 초과 공공주택 프로젝트'라는 표현에 주의하세요. 모든 건물 전체에 대한 전면 금지는 아닙니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Officials say metal structures are easier to inspect, more stable in storms, and closer to international safety standards.",
+          "chunkReading": "Officials say / metal structures / are easier to inspect, / more stable in storms, / and closer to international safety standards.",
+          "directKorean": "당국자들은 말합니다 / 금속 구조물이 / 검사하기 더 쉽고, / 폭풍 속에 더 안정적이며, / 국제 안전 기준에 더 가깝다고.",
+          "naturalKorean": "당국자들은 금속 구조물이 검사하기 쉽고, 폭풍에도 더 견고하며, 국제 안전 기준에 부합한다고 설명합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "easier to inspect",
+              "meaning": "검사하기 더 쉬운",
+              "use": "comparative adjective + infinitive phrase",
+              "example": "Metal joints are easier to inspect during regular safety checks."
+            },
+            {
+              "chunk": "more stable in storms",
+              "meaning": "폭풍 속에서 더 안정한",
+              "use": "comparative adjective for environmental durability",
+              "example": "Steel frames are more stable in storms than wooden scaffolding."
+            }
+          ],
+          "mustKnowGrammar": "Three parallel comparative structures ('easier to inspect', 'more stable in storms', 'closer to...') attribute official arguments.",
+          "feynmanExplanation": "Government leaders give three main reasons why metal scaffolding is better. / First, inspectors can check metal joints more easily for defects. / Second, heavy metal frames stay steady during powerful typhoon storms. / Third, metal scaffolding matches the safety rules used by major countries around the world.",
+          "feynmanKorean": "정부 관계자들은 금속 비계가 더 나은 세 가지 주요 이유를 제시합니다. / 첫째, 검사관이 결함을 더 쉽게 점검할 수 있습니다. / 둘째, 무거운 금속 프레임은 강력한 태풍 폭풍 속에서도 더 안정적으로 버팁니다. / 셋째, 전 세계 표준 안전 기준에 더 잘 부합합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Identify the three comparative justifications: 'easier to inspect', 'more stable in storms', and 'closer to international standards'.",
+              "korean": "정부가 제시한 세 가지 비교급 당위성을 정리하세요: '검사의 용이성', '폭풍 속 안정성', '국제 기준 부합'."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "For many, though, the rule feels like the beginning of the end for bamboo.",
+          "chunkReading": "For many, though, / the rule feels like / the beginning of the end / for bamboo.",
+          "directKorean": "많은 사람들에게는, 하지만, / 그 규칙이 ~처럼 느껴집니다 / 종말의 시작처럼 / 대나무에게.",
+          "naturalKorean": "하지만 많은 사람들에게 이 규칙은 대나무 비계의 종말을 알리는 신호처럼 느껴집니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "the beginning of the end",
+              "meaning": "종말의 시작 (몰락의 서막)",
+              "use": "idiomatic phrase indicating the initial phase of decline",
+              "example": "Many fear this rule is the beginning of the end for traditional craftsmanship."
+            }
+          ],
+          "mustKnowGrammar": "Parenthetical adverb 'though' creates subtle concession; simile with 'feels like' expresses public emotion.",
+          "feynmanExplanation": "However, local citizens and scaffolders feel very worried about this change. / They feel this new requirement marks the start of bamboo's complete disappearance. / Once metal becomes mandatory for large projects, bamboo may disappear from major construction entirely. / People fear losing a cherished piece of their city's history.",
+          "feynmanKorean": "하지만 지역 주민들과 비계 작업자들은 이 변화에 대해 매우 우려하고 있습니다. / 이들은 새 규제가 대나무의 완벽한 퇴출로 이어지는 첫걸음이라고 느낍니다. / 대형 공사에서 금속이 의무화되면 대나무는 결국 도시에서 자취를 감출 수 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the idiom 'the beginning of the end'. It summarizes community anxiety about cultural loss.",
+              "korean": "'the beginning of the end(몰락의 서막)'라는 관용 표현에 주목하세요. 문화적 상실에 대한 지역 사회의 불안감을 담고 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "With fewer young workers entering the trade, and stricter requirements for inspections, training, and certification, some fear the centuries-old craft will slowly disappear from the city’s skyline.",
+          "chunkReading": "With fewer young workers / entering the trade, / and stricter requirements / for inspections, training, and certification, / some fear / the centuries-old craft / will slowly disappear / from the city’s skyline.",
+          "directKorean": "더 적은 젊은 노동자들이 / 업계에 진입함에 따라, / 그리고 더 엄격한 요건들 때문에 / 점검, 훈련, 자격증에 대한, / 일부는 두려워합니다 / 이 수세기 된 공예가 / 천천히 사라질 것이라고 / 도시의 스카이라인에서.",
+          "naturalKorean": "업계로 들어오는 젊은 일꾼이 줄어들고 점검과 교육, 자격증 요건이 한층 엄격해지면서, 수세기 동안 이어져 온 이 기술이 도시의 스카이라인에서 천천히 사라질 것이라는 우려가 커지고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "with fewer young workers entering the trade",
+              "meaning": "더 적은 젊은 노동자들이 업계에 진입함에 따라",
+              "use": "With + noun phrase + -ing structure showing cause/background",
+              "example": "With fewer young workers entering the trade, master craftspeople lack apprentices."
+            },
+            {
+              "chunk": "stricter requirements for certification",
+              "meaning": "자격증 취득을 위한 더 엄격한 요건들",
+              "use": "comparative noun phrase showing regulatory burden",
+              "example": "New safety laws introduce stricter requirements for certification."
+            }
+          ],
+          "mustKnowGrammar": "'With + noun phrase + -ing' expresses compounding background factors that lead to the main clause fear.",
+          "feynmanExplanation": "Two major problems are threatening bamboo scaffolding at the same time. / Young people are not choosing this job, so there are fewer scaffolders to carry on the tradition. / Also, new rules require longer training courses and tougher official certificates. / Together, these pressures make people fear the ancient craft will die out.",
+          "feynmanKorean": "두 가지 큰 문제가 대나무 비계를 동시에 위협하고 있습니다. / 젊은이들이 이 직업을 선택하지 않아 전통을 이어갈 작업자가 줄어들고 있습니다. / 또한 새 규칙은 더 엄격한 검사와 긴 교육 과정, 자격증을 요구합니다. / 이 두 가지 부담 때문에 오래된 기술이 완전히 사라질까 우려하고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Examine how 'With fewer young workers entering...' combines workforce issues with regulation pressures in one sentence.",
+              "korean": "'With fewer young workers entering...' 구문이 젊은 일꾼 감소 문제와 법적 규제 강화를 한 문장으로 어떻게 매끄럽게 연결하는지 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "As one scaffolder put it: “It’s not just about building.",
+          "chunkReading": "As one scaffolder put it: / “It’s not just about building.",
+          "directKorean": "한 비계 작업자가 말했듯이: / “이것은 단지 짓는 것에 대한 것이 아닙니다.",
+          "naturalKorean": "한 비계 작업자가 말했듯, “이것은 단순히 건물을 짓는 일에 그치지 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "As one scaffolder put it",
+              "meaning": "한 비계 작업자가 말했듯이 / 표현했듯이",
+              "use": "attribution phrase introducing direct quotation frame",
+              "example": "As one local expert put it, heritage belongs to everyone."
+            }
+          ],
+          "mustKnowGrammar": "Attribution phrase 'As someone put it' followed by colon and opening direct quotation marks.",
+          "feynmanExplanation": "A veteran worker explained why this trade matters so much. / He emphasized that tying bamboo poles isn't just a physical job to construct walls. / It involves heritage, community pride, and personal dedication. / Scaffolding carries cultural meaning far beyond simple construction work.",
+          "feynmanKorean": "현장의 숙련 작업자가 이 직업이 왜 중요한지 직접 설명했습니다. / 그는 대나무를 묶는 일이 단순히 벽을 쌓는 육체 노동에 그치지 않는다고 강조했습니다. / 거기에는 지역사회의 자부심과 헌신, 유산이 담겨 있습니다. / 비계 기술은 단순한 건물을 짓는 행위 그 이상의 가치를 지닙니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the direct quote frame 'As one scaffolder put it:'. Keep the colon and initial quotation mark intact.",
+              "korean": "직접 인용틀인 'As one scaffolder put it:' 표현을 확인하세요. 따옴표와 콜론 구두점을 정확히 유지해야 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "It’s about passing on something that belongs to Hong Kong.”",
+          "chunkReading": "It’s about passing on / something / that belongs to Hong Kong.”",
+          "directKorean": "이것은 전수하는 것에 대한 것입니다 / 무언가를 / 홍콩에 속한.”",
+          "naturalKorean": "홍콩만의 소중한 유산을 다음 세대에 물려주는 일입니다.”",
+          "mustKnowChunks": [
+            {
+              "chunk": "passing on something",
+              "meaning": "무언가를 후대에 전수하는 것",
+              "use": "gerund phrase for cultural transmission",
+              "example": "Craftsmanship is about passing on something valuable to the youth."
+            },
+            {
+              "chunk": "that belongs to Hong Kong",
+              "meaning": "홍콩에 속한 / 홍콩 고유의",
+              "use": "relative clause modifying intangible cultural heritage",
+              "example": "We must protect traditions that belong to our city."
+            }
+          ],
+          "mustKnowGrammar": "Gerund 'passing on' followed by relative clause 'that belongs to Hong Kong' completing the direct quote.",
+          "feynmanExplanation": "The scaffolder concluded that their craft is a living piece of Hong Kong's identity. / Passing on a trade means teaching traditional skills to the next generation of workers. / Bamboo scaffolding belongs uniquely to the culture and history of Hong Kong. / If the craft disappears, a unique part of the city's spirit is lost forever.",
+          "feynmanKorean": "작업자는 대나무 비계 기술이 홍콩 정체성의 살아있는 한 부분이라고 결론짓습니다. / 기술을 전수한다는 것은 다음 세대에게 전통적 노하우를 가르치는 것입니다. / 대나무 비계는 홍콩의 역사와 문화에 독특하게 속해 있습니다. / 이 기술이 사라지면 도시의 특별한 영혼도 함께 사라지게 됩니다.",
+          "teachingTranscript": [
+            {
+              "english": "Conclude reading by emphasizing the definition of 'pass on'—transferring cultural tradition to future generations.",
+              "korean": "'pass on'의 정제된 의미인 '문화적 전통을 미래 세대에 전수하기'를 강조하며 독해를 마무리하세요."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "usefulVocabulary": [
+          "bamboo scaffolding (대나무 비계)",
+          "metal scaffolding (금속 비계)",
+          "public housing projects (공공 주택 공사)",
+          "safety concerns (안전 우려)",
+          "fatal falls (치명적 추락 사고)",
+          "cultural heritage (문화유산)",
+          "tradition at risk (위기에 처한 전통)",
+          "certification & training (자격증 및 교육)"
+        ],
+        "sentenceFrames": [
+          "According to the source, officials require metal scaffolding because...",
+          "While safety standards must protect construction workers, bamboo scaffolding represents...",
+          "With fewer young workers entering the trade, Hong Kong faces...",
+          "To balance safety with heritage, the government should consider..."
+        ],
+        "usefulConnectors": [
+          "However (하지만)",
+          "Although / While (비록 ~이지만)",
+          "According to the source (출처에 따르면)",
+          "In addition (게다가)",
+          "In conclusion (결론적으로)"
+        ],
+        "paragraphOutline": [
+          "1. Clear Topic Sentence / Position Statement (Safety vs. Heritage balance)",
+          "2. Safety Perspective & Official Reasons (15m rule, fall prevention, storm stability)",
+          "3. Heritage Perspective & Cultural Value (2,000-year history, city identity)",
+          "4. Practical Recommendation / Way Forward (Certified low-rise use, special training)",
+          "5. Strong Concluding Sentence (Synthesizing protection and preservation)"
+        ],
+        "sentenceStarters": [
+          "Hong Kong faces a critical debate over...",
+          "Official reports state that metal structures provide...",
+          "On the other hand, bamboo scaffolding has long been...",
+          "A practical compromise would involve..."
+        ],
+        "g1Scaffold": "Provide G1 students with structured fill-in frames: 'Although metal scaffolding is safer for tall buildings, bamboo scaffolding is important because...'",
+        "g2Extension": "Challenge G2 students to integrate complex participle clauses and comparative phrases into their recommendation.",
+        "commonMistakes": [
+          {
+            "mistake": "Writing 'pass on' as meaning 'pass away' or 'die'.",
+            "correction": "Use 'pass on' to mean transferring traditional skills and knowledge to the next generation."
+          },
+          {
+            "mistake": "Claiming that the government banned bamboo scaffolding on all buildings in Hong Kong.",
+            "correction": "Specify that the rule applies only to public housing projects over 15 meters tall."
+          },
+          {
+            "mistake": "Using 'however' directly as a conjunction joining two clauses without proper punctuation.",
+            "correction": "Use 'However,' with a comma at the start of a sentence, or use 'while / although' to connect clauses."
+          },
+          {
+            "mistake": "Omitting a clear concluding sentence or exceeding the 140-word limit.",
+            "correction": "End with a summarizing sentence that synthesizes both perspectives within 100–140 words."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Verify accurate use of text evidence (15m rule, 2,000-year history).",
+          "Ensure balanced presentation of both official safety reasons and community heritage concerns.",
+          "Check proper contrast connector usage (however, while, although).",
+          "Confirm paragraph stays within 100–140 words and ends with a concluding sentence."
+        ]
+      }
+    }
+  }
+}
