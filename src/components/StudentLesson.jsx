@@ -84,8 +84,8 @@ export default function StudentLesson({
         vocabularyList={lessonData.vocabularyInContext?.items?.map(i => i.word) || []}
       />
       <WritingTask
-        data={lessonData.writingTask}
-        modelAnswer={lessonData.teacher.modelAnswer || ''}
+        data={lessonData.writingTask || lessonData.finalWritingTask || {}}
+        modelAnswer={lessonData.teacher?.modelAnswer || ''}
         writingAnswer={writingAnswer}
         onWritingChange={onWritingChange}
         submitted={submitted}

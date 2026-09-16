@@ -208,6 +208,7 @@
         "id": "ev1",
         "statement": "1. What reasons do officials give for requiring metal scaffolding in certain projects? Use at least two details.",
         "instructions": "Identify at least two specific justifications provided by government officials in Paragraph 3.",
+        "compareTip": "Ensure you mention safety concerns after fatal falls/accidents, and at least two of: easier inspection, storm stability, or international safety standards.",
         "compareTips": "Ensure you mention safety concerns after fatal falls/accidents, and at least two of: easier inspection, storm stability, or international safety standards.",
         "modelAnswer": "According to the source, government officials cite safety concerns following a rise in fatal falls and accidents in recent years. Specifically, officials state that metal structures are easier to inspect, more stable during severe storms, and closer to international safety standards."
       },
@@ -215,6 +216,7 @@
         "id": "ev2",
         "statement": "2. What details show that bamboo scaffolding is part of Hong Kong’s cultural identity?",
         "instructions": "Cite historical timeframe, traditional uses, and visual/cultural significance from Paragraphs 1, 2, and 4.",
+        "compareTip": "Mention its 2,000-year history, use in festivals and theater stages, wrapping buildings like woven cages on the skyline, and the scaffolder's statement about passing on something belonging to Hong Kong.",
         "compareTips": "Mention its 2,000-year history, use in festivals and theater stages, wrapping buildings like woven cages on the skyline, and the scaffolder's statement about passing on something belonging to Hong Kong.",
         "modelAnswer": "The text shows that bamboo scaffolding has wrapped Hong Kong's skyline like woven cages for over 2,000 years. Beyond construction, workers have used it for cultural festivals and theater stages, making it uniquely tied to the city's identity. As one scaffolder emphasized, the trade is about passing on a tradition that belongs to Hong Kong."
       },
@@ -222,6 +224,7 @@
         "id": "ev3",
         "statement": "3. Why do some people fear that the craft may disappear? Explain how the rule and workforce pressures connect.",
         "instructions": "Connect the government policy change in Paragraph 3 with workforce and certification challenges in Paragraph 4.",
+        "compareTip": "Explain how requiring metal on public housing over 15m reduces demand for bamboo, while fewer young recruits and stricter inspection, training, and certification requirements threaten the craft's survival.",
         "compareTips": "Explain how requiring metal on public housing over 15m reduces demand for bamboo, while fewer young recruits and stricter inspection, training, and certification requirements threaten the craft's survival.",
         "modelAnswer": "People fear the craft will disappear because new rules require metal scaffolding on public housing over 15 meters tall, reducing major work opportunities for bamboo scaffolders. At the same time, fewer young workers are entering the trade, and stricter requirements for inspections, training, and certification make it harder for the centuries-old craft to survive."
       }
@@ -230,6 +233,53 @@
   "languageFocus": {
     "title": "Language Focus: Balanced Reporting, Concession & Cause/Effect",
     "instructions": "Study the target language structures used in the news feature below.",
+    "sections": [
+      {
+        "heading": "1. Present Perfect for Continuing History",
+        "explanation": "Use 'has/have + past participle' to describe actions or traditions that began in the past and continue into the present.",
+        "examples": [
+          "Bamboo scaffolding has long been part of Hong Kong’s skyline...",
+          "Workers have used this technique for over 2,000 years."
+        ]
+      },
+      {
+        "heading": "2. Participle Clauses for Descriptive & Causal Detail",
+        "explanation": "Use '-ing' participle clauses to add vivid background description or give reasons without starting a new sentence.",
+        "examples": [
+          "...wrapping buildings like woven cages in midair.",
+          "...citing safety concerns after a rise in fatal falls..."
+        ]
+      },
+      {
+        "heading": "3. Concession & Contrast Connectors",
+        "explanation": "Use 'but', 'though', 'however', or 'although' to contrast official safety arguments with community heritage concerns.",
+        "examples": [
+          "But that tradition may be fading.",
+          "For many, though, the rule feels like the beginning of the end..."
+        ]
+      },
+      {
+        "heading": "4. Comparative Forms for Safety Justification",
+        "explanation": "Use comparative adjectives ('easier', 'more stable', 'closer to') when contrasting two systems.",
+        "examples": [
+          "Officials say metal structures are easier to inspect, more stable in storms, and closer to international safety standards."
+        ]
+      },
+      {
+        "heading": "5. With + Noun Phrase + -ing (Cause & Effect)",
+        "explanation": "Use 'With + noun + -ing' to explain background conditions that cause a specific effect or reaction.",
+        "examples": [
+          "With fewer young workers entering the trade, and stricter requirements..., some fear the craft will disappear."
+        ]
+      },
+      {
+        "heading": "6. Neutral Reporting & Attribution Phrases",
+        "explanation": "Use reporting verbs and attribution structures to present policy decisions and community viewpoints objectively.",
+        "examples": [
+          "Officials say... / some fear... / As one scaffolder put it: “...”"
+        ]
+      }
+    ],
     "structures": [
       {
         "name": "Present Perfect for Continuing History",
@@ -269,32 +319,58 @@
     "prompts": [
       {
         "id": "wp1",
-        "prompt": "1. Rewrite two official reasons as one sentence using comparative forms.",
-        "instructions": "Combine two justifications for metal scaffolding using comparative adjectives like 'easier' or 'more stable'.",
+        "question": "1. Rewrite two official reasons as one sentence using comparative forms.",
+        "statement": "1. Rewrite two official reasons as one sentence using comparative forms.",
+        "compareTip": "Ensure your sentence uses comparative forms (e.g. easier to inspect, more stable in storms) to present official claims.",
         "compareTips": "Ensure your sentence uses comparative forms (e.g. easier to inspect, more stable in storms) to present official claims.",
         "modelAnswer": "Government officials argue that metal scaffolding is easier to inspect and more stable during storms than traditional bamboo structures."
       },
       {
         "id": "wp2",
-        "prompt": "2. Combine a safety concern and a heritage concern using although or while.",
-        "instructions": "Use 'although' or 'while' to connect official safety concerns with the cultural value of bamboo scaffolding.",
+        "question": "2. Combine a safety concern and a heritage concern using although or while.",
+        "statement": "2. Combine a safety concern and a heritage concern using although or while.",
+        "compareTip": "Check that you use 'although' or 'while' at the start or middle of the sentence to show concession between safety and tradition.",
         "compareTips": "Check that you use 'although' or 'while' at the start or middle of the sentence to show concession between safety and tradition.",
         "modelAnswer": "While officials mandate metal scaffolding to address safety concerns, many citizens worry about losing a 2,000-year-old cultural tradition."
       },
       {
         "id": "wp3",
-        "prompt": "3. Write a cause-and-effect sentence using With + noun + -ing about the declining workforce.",
-        "instructions": "Start your sentence with 'With fewer young workers entering...' to explain why people fear the craft will fade.",
+        "question": "3. Write a cause-and-effect sentence using With + noun + -ing about the declining workforce.",
+        "statement": "3. Write a cause-and-effect sentence using With + noun + -ing about the declining workforce.",
+        "compareTip": "Ensure the sentence starts with 'With + noun phrase + -ing' followed by a comma and a main clause about the craft fading.",
         "compareTips": "Ensure the sentence starts with 'With + noun phrase + -ing' followed by a comma and a main clause about the craft fading.",
         "modelAnswer": "With fewer young workers entering the trade, some fear that traditional bamboo scaffolding will slowly disappear from Hong Kong's skyline."
       },
       {
         "id": "wp4",
-        "prompt": "4. Write one neutral reporting sentence using According to the source or The source reports that.",
-        "instructions": "State an official policy detail using neutral attribution language.",
+        "question": "4. Write one neutral reporting sentence using According to the source or The source reports that.",
+        "statement": "4. Write one neutral reporting sentence using According to the source or The source reports that.",
+        "compareTip": "Use 'According to the source' or 'The source reports that' followed by an accurate detail about the new government rule.",
         "compareTips": "Use 'According to the source' or 'The source reports that' followed by an accurate detail about the new government rule.",
         "modelAnswer": "According to the source, a new government rule requires metal scaffolding for public housing projects over 15 meters tall."
       }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task: Balanced Evidence-Based Recommendation",
+    "prompt": "How should Hong Kong balance scaffolding safety with the preservation of its bamboo-scaffolding tradition? Write a balanced evidence-based recommendation paragraph of 100–140 words. Use at least three accurate details from the source, explain both the safety and heritage perspectives, and recommend a practical way forward. Include one contrast connector and a clear concluding sentence.",
+    "wordRange": [
+      100,
+      140
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "targetWords": 120,
+    "compareGuide": "Check whether your paragraph presents both safety and heritage viewpoints, uses contrast connectors (however, while, although), includes 3+ source details, and stays within 100–140 words.",
+    "checklist": [
+      "I stated a clear position on balancing safety and heritage.",
+      "I explained the safety perspective using official reasons from the text.",
+      "I explained the heritage perspective using historical and cultural details.",
+      "I included at least three accurate details from the source.",
+      "I used at least one contrast connector (such as however, although, or while).",
+      "My paragraph is between 100 and 140 words long and ends with a concluding sentence."
     ]
   },
   "finalWritingTask": {
@@ -304,7 +380,12 @@
       100,
       140
     ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
     "targetWords": 120,
+    "compareGuide": "Check whether your paragraph presents both safety and heritage viewpoints, uses contrast connectors (however, while, although), includes 3+ source details, and stays within 100–140 words.",
     "checklist": [
       "I stated a clear position on balancing safety and heritage.",
       "I explained the safety perspective using official reasons from the text.",
