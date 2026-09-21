@@ -1,0 +1,68 @@
+{
+  "taskId": "OFS-20260921-SWEDEN-FORESTS-FIKA-01",
+  "slug": "2026-09-21-sweden-forests-fika",
+  "title": "Sweden: Forests, Fika, and Fantastic Ideas",
+  "sourceNote": "Original text transcribed from three teacher-provided classroom images. No publication credit, article URL, date, or named source is shown in the images; statements should be treated as claims of the provided visual text, not as independently verified current facts.",
+  "page1": {
+    "epigraph": "Keep your face always toward the sunshine—and shadows will fall behind you. - Walt Whitman",
+    "titleLines": [
+      "Sweden: Forests, Fika,",
+      "and Fantastic Ideas"
+    ],
+    "paragraph": "Sweden is a long, skinny country in Northern Europe, part of a group of countries called Scandinavia. It borders Norway to the west, Finland to the east, and has a long coastline on the Baltic Sea. Its capital is Stockholm, a city built on 14 islands!",
+    "factBox": [
+      "Population: About 10.5 million",
+      "Size: 450,000 km² (about the size of California)",
+      "Currency: Swedish krona (SEK)",
+      "Language: Swedish"
+    ]
+  },
+  "page2": {
+    "heading1": "What shaped its identity?",
+    "intro": "Sweden’s identity was shaped by Viking explorers, peaceful traditions, and a strong focus on fairness and nature.",
+    "historicalBullets": [
+      "Over 1,000 years ago, people from what is now Sweden were part of the Viking world. These Swedish Vikings traveled mostly east, trading along rivers in Russia and even reaching the Middle East.",
+      "In the 1600s, Sweden was a powerful kingdom in Europe, but over time it chose peace over war. It hasn’t fought in a war for more than 200 years.",
+      "In the 1900s, Sweden built a society based on education, equality, and care for all."
+    ],
+    "heading2": "What Is Sweden Dealing With Today?",
+    "todayParagraphs": [
+      "Like many countries, Sweden is facing big questions about how to keep people safe and included.",
+      "In recent years, there have been worries about rising crime in some cities, and leaders are working on how to make neighborhoods feel safer for everyone.",
+      "Sweden is also thinking hard about how many refugees and immigrants it can help. Some people want stricter rules, while others want to keep helping more."
+    ]
+  },
+  "page3": {
+    "heading": "What is daily life like?",
+    "intro": "Life in Sweden is calm, cozy, and closely connected to nature, with simple routines that focus on balance:",
+    "dailyLifeCards": [
+      "Kids usually go to school from around 8 AM to 2 PM, and everyone gets a free hot lunch — no lunchboxes needed!",
+      "Most people take a break in the day for “fika”: a cozy snack time with coffee or juice and something sweet like cinnamon buns.",
+      "Swedes love to bike, walk, or take public buses and trains, even in the snow. Cities are built for easy travel without a car.",
+      "Whether it’s summer or snowy winter, families often spend time outdoors. Kids might go sledding, or visit a forest!"
+    ]
+  },
+  "sentenceUnits": [
+    "Keep your face always toward the sunshine—and shadows will fall behind you. - Walt Whitman",
+    "Sweden is a long, skinny country in Northern Europe, part of a group of countries called Scandinavia.",
+    "It borders Norway to the west, Finland to the east, and has a long coastline on the Baltic Sea.",
+    "Its capital is Stockholm, a city built on 14 islands!",
+    "Sweden’s identity was shaped by Viking explorers, peaceful traditions, and a strong focus on fairness and nature.",
+    "Over 1,000 years ago, people from what is now Sweden were part of the Viking world.",
+    "These Swedish Vikings traveled mostly east, trading along rivers in Russia and even reaching the Middle East.",
+    "In the 1600s, Sweden was a powerful kingdom in Europe, but over time it chose peace over war.",
+    "It hasn’t fought in a war for more than 200 years.",
+    "In the 1900s, Sweden built a society based on education, equality, and care for all.",
+    "Like many countries, Sweden is facing big questions about how to keep people safe and included.",
+    "In recent years, there have been worries about rising crime in some cities, and leaders are working on how to make neighborhoods feel safer for everyone.",
+    "Sweden is also thinking hard about how many refugees and immigrants it can help.",
+    "Some people want stricter rules, while others want to keep helping more.",
+    "Life in Sweden is calm, cozy, and closely connected to nature, with simple routines that focus on balance:",
+    "Kids usually go to school from around 8 AM to 2 PM, and everyone gets a free hot lunch — no lunchboxes needed!",
+    "Most people take a break in the day for “fika”: a cozy snack time with coffee or juice and something sweet like cinnamon buns.",
+    "Swedes love to bike, walk, or take public buses and trains, even in the snow.",
+    "Cities are built for easy travel without a car.",
+    "Whether it’s summer or snowy winter, families often spend time outdoors.",
+    "Kids might go sledding, or visit a forest!"
+  ]
+}

@@ -9,8 +9,54 @@ export default function ArticleReading({ data }) {
     <SectionCard icon="📖" title={data.title}>
       {sourceText && <p className="article__source">{sourceText}</p>}
 
-      {data.sections ? (
-        <div className="article__content">
+      {data.pages ? (
+        <div className="article__content" data-reading-container="true">
+          {data.pages.map((page, pIdx) => (
+            <div key={pIdx} className="article__page" data-page={page.pageNumber || (pIdx + 1)}>
+              {page.epigraph && (
+                <blockquote className="article__epigraph">
+                  {page.epigraph}
+                </blockquote>
+              )}
+              {page.title && <h3 className="article__page-title">{page.title}</h3>}
+              {page.paragraphs?.map((p, idx) => (
+                <p key={idx} className="article__paragraph">{p}</p>
+              ))}
+              {page.factBox && (
+                <div className="article__fact-box">
+                  {page.factBox.map((item, fIdx) => (
+                    <div key={fIdx} className="article__fact-line">{item}</div>
+                  ))}
+                </div>
+              )}
+              {page.sections?.map((section, sIdx) => (
+                <div key={sIdx} className="article__section">
+                  {section.heading && <h3 className="article__heading">{section.heading}</h3>}
+                  {section.intro && <p className="article__paragraph">{section.intro}</p>}
+                  {section.bullets && (
+                    <ul className="article__list">
+                      {section.bullets.map((b, bIdx) => (
+                        <li key={bIdx}>{b}</li>
+                      ))}
+                    </ul>
+                  )}
+                  {section.paragraphs?.map((p, pIdx) => (
+                    <p key={pIdx} className="article__paragraph">{p}</p>
+                  ))}
+                  {section.cards && (
+                    <div className="article__cards">
+                      {section.cards.map((card, cIdx) => (
+                        <p key={cIdx} className="article__card-paragraph article__paragraph">{card}</p>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
+      ) : data.sections ? (
+        <div className="article__content" data-reading-container="true">
           {data.intro && <p className="article__paragraph">{data.intro}</p>}
           {data.sections.map((section, sIdx) => (
             <div key={sIdx} className="article__section">
@@ -61,11 +107,13 @@ export default function ArticleReading({ data }) {
           ))}
         </div>
       ) : (
-        data.paragraphs?.map((paragraph, index) => (
-          <p key={index} className="article__paragraph">
-            {paragraph}
-          </p>
-        ))
+        <div className="article__content" data-reading-container="true">
+          {data.paragraphs?.map((paragraph, index) => (
+            <p key={index} className="article__paragraph">
+              {paragraph}
+            </p>
+          ))}
+        </div>
       )}
     </SectionCard>
   );

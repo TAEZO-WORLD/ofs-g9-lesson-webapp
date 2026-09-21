@@ -309,6 +309,73 @@ p:last-child {
   line-height: 1.6;
 }
 
+.article__page {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px dashed var(--color-border);
+}
+
+.article__page:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.article__epigraph {
+  font-style: italic;
+  color: var(--color-navy);
+  border-left: 3px solid var(--color-terracotta);
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0 1.25rem 0;
+  background: var(--color-cream);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.article__page-title {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--color-navy);
+  margin: 1rem 0 0.75rem 0;
+}
+
+.article__fact-box {
+  background: var(--color-cream);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-navy);
+  border-radius: 6px;
+  padding: 0.85rem 1.15rem;
+  margin: 1.25rem 0;
+}
+
+.article__fact-line {
+  font-weight: 600;
+  color: var(--color-navy);
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.article__fact-line:last-child {
+  margin-bottom: 0;
+}
+
+.article__cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.article__card-paragraph {
+  background: var(--color-cream);
+  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-sage);
+  padding: 0.85rem 1.15rem;
+  border-radius: 6px;
+  margin-bottom: 0;
+}
+
 
 .vocab-grid {
   display: grid;
