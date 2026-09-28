@@ -11,7 +11,7 @@ export default function WritingPractice({
 }) {
   if (!data) return null;
 
-  const rawPrompts = data.prompts ?? [];
+  const rawPrompts = data.prompts || data.questions || data.items || [];
   const normalizedPrompts = rawPrompts.map((p, index) => {
     if (typeof p === 'string') {
       return {
@@ -20,13 +20,14 @@ export default function WritingPractice({
         placeholder: 'Write 2–4 sentences here...',
       };
     }
-    const questionText = p.question || p.instruction || p.statement || p.text || '';
+    const questionText = p.prompt || p.question || p.instruction || p.statement || p.text || '';
+    const compareTip = p.compareTip || (Array.isArray(p.compareTips) ? p.compareTips.join(' ') : p.compareTips);
     return {
       id: p.id || `wp${index + 1}`,
       question: questionText,
       placeholder: p.placeholder || 'Write 2–4 sentences here...',
       modelAnswer: p.modelAnswer,
-      compareTip: p.compareTip,
+      compareTip: compareTip,
       targetWords: p.targetWords,
       targetVocabulary: p.targetVocabulary,
       targetConnectors: p.targetConnectors
