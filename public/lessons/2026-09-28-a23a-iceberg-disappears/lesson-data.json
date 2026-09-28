@@ -1,0 +1,840 @@
+{
+  "lessonTitle": "World’s Biggest Iceberg Disappears After 40 Years",
+  "ofsUnit": "Unit 2 — Earth, Climate & Change",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational News Report",
+  "writingType": "Evidence-Based Environmental Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students identify the timeline, evidence and cautious predictions in a short report about the A23a iceberg, distinguish observation from interpretation, and write a balanced evidence-based explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. Share your initial ideas before reading the news report.",
+    "questions": [
+      "What do you already know about icebergs or Antarctica?",
+      "Why might a very large iceberg take many years to change or disappear?",
+      "Why should a news report separate what scientists observe from what they predict?"
+    ]
+  },
+  "article": {
+    "title": "World’s Biggest Iceberg Disappears After 40 Years",
+    "source": "Source: AP",
+    "sourceNote": "Original text transcribed from a teacher-provided classroom image. The image credits AP but does not identify an article URL or publication date. Claims and predictions should be taught as statements in the provided source.",
+    "paragraphs": [
+      "The A23a iceberg, which is the world’s largest iceberg, is breaking apart after almost 40 years of floating in the ocean.",
+      "Weighing nearly a trillion tonnes and larger than Greater London, A23a has shrunk to about half its original size since it began to melt in warmer waters. Scientists, like Andrew Meijers from the British Antarctic Survey, remarked, “It’s basically rotting underneath... I expect that it won’t be really identifiable within a few weeks.”",
+      "Originally Breaking off from Antarctica in 1986, A23a spent most of its time grounded on the ocean floor before escaping in 2020. It is now floating in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off.",
+      "This massive iceberg used to threaten penguin habitats, but now it’s simply drifting toward its final disappearance, leaving scientists amazed at how long it lasted in the warmer ocean."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms below from the news report. Pay attention to the part of speech, English definition, Korean meaning, and example sentence outside the reading.",
+    "items": [
+      {
+        "word": "iceberg",
+        "partOfSpeech": "noun",
+        "definition": "a very large mass of ice floating in the ocean, having broken off from a glacier or ice shelf",
+        "korean": "빙산",
+        "sentence": "The huge iceberg floated in open ocean waters for almost forty years."
+      },
+      {
+        "word": "break apart",
+        "partOfSpeech": "verb phrase",
+        "definition": "to divide, separate, or fragment into smaller pieces due to physical pressure or melting",
+        "korean": "해체되다, 조각나다",
+        "sentence": "After moving into warmer waters, the iceberg began to break apart into smaller chunks."
+      },
+      {
+        "word": "shrink",
+        "partOfSpeech": "verb",
+        "definition": "to become smaller in size, amount, volume, or extent",
+        "korean": "줄어들다, 축소되다",
+        "sentence": "Scientists observed that the massive ice structure had shrunk to half its original area."
+      },
+      {
+        "word": "melt",
+        "partOfSpeech": "verb",
+        "definition": "to turn from a solid state into liquid because of heat",
+        "korean": "녹다",
+        "sentence": "Warmer ocean currents caused the frozen ice to melt continuously underneath."
+      },
+      {
+        "word": "grounded",
+        "partOfSpeech": "adjective",
+        "definition": "resting firmly on the ocean floor or seabed, preventing movement",
+        "korean": "(해저에) 좌초된, 걸린",
+        "sentence": "The iceberg remained grounded on the seabed off Antarctica for decades before moving."
+      },
+      {
+        "word": "escape",
+        "partOfSpeech": "verb",
+        "definition": "to break free from a confined position, obstacle, or fixed location",
+        "korean": "탈출하다, 벗어나다",
+        "sentence": "In 2020, the iceberg finally escaped its grounded location and drifted northward."
+      },
+      {
+        "word": "chunk",
+        "partOfSpeech": "noun",
+        "definition": "a large, thick piece or section of a solid material",
+        "korean": "덩어리, 거대한 조각",
+        "sentence": "Massive chunks of ice were seen floating away from the main iceberg structure."
+      },
+      {
+        "word": "habitat",
+        "partOfSpeech": "noun",
+        "definition": "the natural environment or home where a specific animal or plant species lives",
+        "korean": "서식지",
+        "sentence": "The drifting iceberg originally posed a potential threat to local penguin habitats."
+      },
+      {
+        "word": "drift",
+        "partOfSpeech": "verb",
+        "definition": "to be carried along slowly by water currents or air without control",
+        "korean": "떠돌다, 표류하다",
+        "sentence": "The remaining ice mass continues to drift slowly toward warmer equatorial waters."
+      },
+      {
+        "word": "identifiable",
+        "partOfSpeech": "adjective",
+        "definition": "recognizable or able to be clearly identified and distinguished",
+        "korean": "알아볼 수 있는, 식별 가능한",
+        "sentence": "Within a few weeks, the shrinking iceberg may no longer be identifiable as a single structure."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of the report?",
+    "options": [
+      "A23a disappeared immediately after it broke away from Antarctica.",
+      "A23a survived for decades but is now breaking apart, and scientists use evidence and cautious prediction to describe its final disappearance.",
+      "A23a is still growing because the South Atlantic Ocean is becoming colder.",
+      "The report mainly explains how to build an iceberg in Antarctica."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "Correct! Option B accurately captures the main focus of the report: A23a's 40-year history, current melting in warmer waters, and cautious predictions of its eventual disappearance.",
+      "incorrect": "Incorrect. Re-read paragraphs 1–4. The report explains that A23a spent decades floating/grounded before currently breaking apart in warmer waters, using evidence and scientist statements to describe its disappearance."
+    },
+    "explanation": "Option B accurately summarizes all four paragraphs: A23a's 1986 origin, its multi-decade survival, its current melting and breakup in warmer waters, and the cautious prediction from scientist Andrew Meijers regarding its final disappearance."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Read each question carefully and select the best answer based strictly on the provided text.",
+    "questions": [
+      {
+        "question": "What is A23a described as in the opening sentence of the report?",
+        "options": [
+          "The smallest iceberg in the Southern Hemisphere",
+          "The world’s largest iceberg",
+          "An artificial floating ice station built in 1986",
+          "A newly formed glacier near Greater London"
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! Paragraph 1 explicitly states that A23a is 'the world’s largest iceberg.'",
+          "incorrect": "Incorrect. Check Paragraph 1 (Sentence S01), which identifies A23a as 'the world’s largest iceberg.'"
+        },
+        "explanation": "Paragraph 1 (Sentence S01) states: 'The A23a iceberg, which is the world’s largest iceberg, is breaking apart...'"
+      },
+      {
+        "question": "How much has A23a shrunk since it began to melt in warmer waters?",
+        "options": [
+          "To about half its original size",
+          "By only five percent of its total weight",
+          "It has doubled in overall area",
+          "Exactly ten square kilometers"
+        ],
+        "correctIndex": 0,
+        "feedback": {
+          "correct": "Correct! Paragraph 2 states that A23a 'has shrunk to about half its original size.'",
+          "incorrect": "Incorrect. Check Paragraph 2 (Sentence S02). The source notes it has shrunk to about half its original size."
+        },
+        "explanation": "Paragraph 2 (Sentence S02) states: '...A23a has shrunk to about half its original size since it began to melt in warmer waters.'"
+      },
+      {
+        "question": "What did British Antarctic Survey scientist Andrew Meijers state about A23a?",
+        "options": [
+          "He predicted it will remain stable on the ocean floor for another fifty years.",
+          "He claimed it is growing larger due to freezing ocean winds.",
+          "He remarked that it is basically rotting underneath and expects it won't be really identifiable within a few weeks.",
+          "He recommended towing the iceberg back to Antarctica immediately."
+        ],
+        "correctIndex": 2,
+        "feedback": {
+          "correct": "Correct! Paragraph 2 quotes Andrew Meijers: 'It’s basically rotting underneath... I expect that it won’t be really identifiable within a few weeks.'",
+          "incorrect": "Incorrect. Check Paragraph 2 (Sentence S03). Meijers remarked that it is 'rotting underneath' and expected it won't be identifiable within a few weeks."
+        },
+        "explanation": "Paragraph 2 (Sentence S03) quotes Andrew Meijers: '“It’s basically rotting underneath... I expect that it won’t be really identifiable within a few weeks.”'"
+      },
+      {
+        "question": "What timeline does the report provide for A23a’s movement?",
+        "options": [
+          "It broke off in 2020 and completely melted by 1986.",
+          "It broke off from Antarctica in 1986, spent most of its time grounded on the ocean floor, and escaped in 2020.",
+          "It originated in Greater London in 1986 and floated to South America.",
+          "It floated freely in open water from 1986 without ever resting on the ocean floor."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! Paragraph 3 explains it broke off in 1986, was grounded for most of its time, and escaped in 2020.",
+          "incorrect": "Incorrect. Check Paragraph 3 (Sentence S04). A23a broke off in 1986, remained grounded for most of its time, and escaped in 2020."
+        },
+        "explanation": "Paragraph 3 (Sentence S04) states: 'Originally Breaking off from Antarctica in 1986, A23a spent most of its time grounded on the ocean floor before escaping in 2020.'"
+      },
+      {
+        "question": "Where is A23a currently floating, and what physical change is occurring there?",
+        "options": [
+          "In the Arctic Ocean, where it is freezing into larger glaciers",
+          "In the Pacific Ocean, where scientists lost track of it",
+          "In the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off",
+          "In a freshwater river near Greater London"
+        ],
+        "correctIndex": 2,
+        "feedback": {
+          "correct": "Correct! Paragraph 3 states it is floating in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off.",
+          "incorrect": "Incorrect. Check Paragraph 3 (Sentence S05), which specifies the South Atlantic Ocean and chunks around 400 square kilometers."
+        },
+        "explanation": "Paragraph 3 (Sentence S05) states: 'It is now floating in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off.'"
+      },
+      {
+        "question": "How does the final paragraph contrast A23a’s past impact with its present state?",
+        "options": [
+          "It used to threaten penguin habitats, but now it’s simply drifting toward its final disappearance.",
+          "It used to help penguins build nests, but now it is blocking ships.",
+          "It was once tiny, but now it threatens major coastal cities.",
+          "It was studied by penguins, but now scientists have abandoned it."
+        ],
+        "correctIndex": 0,
+        "feedback": {
+          "correct": "Correct! Paragraph 4 contrasts its former threat to penguin habitats with its current drifting toward disappearance.",
+          "incorrect": "Incorrect. Check Paragraph 4 (Sentence S06), which contrasts how it used to threaten penguin habitats with its present drift toward disappearance."
+        },
+        "explanation": "Paragraph 4 (Sentence S06) states: 'This massive iceberg used to threaten penguin habitats, but now it’s simply drifting toward its final disappearance...'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer the following questions using specific evidence from the text. Click 'Check & Compare' to view helpful feedback and a model response.",
+    "prompts": [
+      {
+        "id": "evidence-1",
+        "question": "What details show that A23a was unusually large and has changed substantially?",
+        "compareTips": [
+          "Mention its initial weight (nearly a trillion tonnes) and size comparison (larger than Greater London).",
+          "Include current measurement changes (shrunk to about half its original size, chunks around 400 square kilometers breaking off)."
+        ],
+        "modelAnswer": "The text demonstrates A23a's massive size by describing it as 'weighing nearly a trillion tonnes' and being 'larger than Greater London.' It shows substantial change by stating that the iceberg has 'shrunk to about half its original size' as it melts in warmer waters and that large 'chunks weighing around 400 square kilometers are breaking off' in the South Atlantic Ocean."
+      },
+      {
+        "id": "evidence-2",
+        "question": "How does the 1986–2020 timeline show that A23a lasted for a long time?",
+        "compareTips": [
+          "State the year A23a originally broke off from Antarctica (1986).",
+          "Explain that it spent most of its time grounded on the ocean floor until escaping in 2020 (34 years grounded), floating for almost 40 years total."
+        ],
+        "modelAnswer": "The report notes that A23a originally broke off from Antarctica in 1986. It then spent 'most of its time grounded on the ocean floor before escaping in 2020.' This 34-year period of grounding, followed by its release into open ocean waters, explains how it survived floating and drifting for almost 40 years before finally breaking apart."
+      },
+      {
+        "id": "evidence-3",
+        "question": "What evidence supports the report’s prediction that A23a may soon become unidentifiable or disappear?",
+        "compareTips": [
+          "Cite scientist Andrew Meijers' reported remark ('rotting underneath', expect it won't be identifiable within a few weeks).",
+          "Include physical evidence of breakup (chunks around 400 sq km breaking off, melting in warmer waters, drifting toward disappearance)."
+        ],
+        "modelAnswer": "The prediction of disappearance is supported by scientist Andrew Meijers' observation that the iceberg is 'basically rotting underneath' and his expectation that 'it won’t be really identifiable within a few weeks.' Additionally, physical evidence shows it has shrunk to half its original size, is drifting in warmer South Atlantic waters, and is losing massive chunks weighing around 400 square kilometers."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Review the key language patterns used in science reporting to distinguish observations, reported quotes, and cautious predictions.",
+    "patterns": [
+      {
+        "name": "Reduced Participial Openings",
+        "explanation": "Sentences often start with a participial clause (-ing / -ed) to provide background measurements or historical context before the main subject.",
+        "example": "Weighing nearly a trillion tonnes and larger than Greater London, A23a has shrunk...",
+        "sourceExample": "Originally Breaking off from Antarctica in 1986, A23a spent most of its time grounded..."
+      },
+      {
+        "name": "Non-Defining Relative Clauses",
+        "explanation": "Extra descriptive details are added using relative pronouns (which, who) set off by commas.",
+        "example": "The A23a iceberg, which is the world’s largest iceberg, is breaking apart...",
+        "sourceExample": "...in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off."
+      },
+      {
+        "name": "Present Perfect for Change Over Time",
+        "explanation": "The present perfect tense (has/have + past participle) links past actions to current results.",
+        "example": "A23a has shrunk to about half its original size since it began to melt in warmer waters.",
+        "sourceExample": "...leaving scientists amazed at how long it lasted in the warmer ocean."
+      },
+      {
+        "name": "Reporting Verbs & Cautious Predictions",
+        "explanation": "Scientists use reporting verbs (remarked, expect) and qualifying words (nearly, about, around, within a few weeks) to signal limits of precision and differentiate predictions from verified facts.",
+        "example": "Scientists... remarked, 'It’s basically rotting underneath... I expect that it won’t be really identifiable...'",
+        "sourceExample": "...chunks weighing around 400 square kilometers are breaking off."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each sentence task below applying the target language patterns. Click 'Check & Compare' to evaluate your work.",
+    "prompts": [
+      {
+        "id": "wp-1",
+        "prompt": "Write one sentence using about, around or nearly to report a source measurement accurately.",
+        "compareTips": [
+          "Use a qualifying term (about, around, nearly).",
+          "Report a specific measurement from the text (e.g. nearly a trillion tonnes, about half its size, around 400 square kilometers)."
+        ],
+        "modelAnswer": "According to the report, A23a weighed nearly a trillion tonnes before shrinking to about half its original size in warmer waters."
+      },
+      {
+        "id": "wp-2",
+        "prompt": "Combine two timeline details using before or since.",
+        "compareTips": [
+          "Connect two historical milestones (1986 breakaway, grounding on ocean floor, 2020 escape, current melting).",
+          "Use 'before' or 'since' correctly to show order in time."
+        ],
+        "modelAnswer": "A23a remained grounded on the ocean floor for over thirty years before it finally escaped in 2020 and floated into the South Atlantic Ocean."
+      },
+      {
+        "id": "wp-3",
+        "prompt": "Report the scientist’s quotation without presenting the prediction as guaranteed.",
+        "compareTips": [
+          "Use cautious reporting verbs (remarked, expected, stated).",
+          "Reflect uncertainty (e.g. expected it might not be identifiable within weeks, rather than stating it definitely disappeared)."
+        ],
+        "modelAnswer": "Scientist Andrew Meijers remarked that the iceberg was rotting underneath and expressed his expectation that it might no longer be identifiable within a few weeks."
+      },
+      {
+        "id": "wp-4",
+        "prompt": "Write a recommendation for explaining environmental change with a clear distinction between observation and prediction.",
+        "compareTips": [
+          "Provide a clear advice or recommendation statement.",
+          "Explicitly distinguish between verified physical data (observations) and future forecasts (predictions)."
+        ],
+        "modelAnswer": "Environmental reports should present measured physical data like ice loss as direct observations while using cautious language to label scientist forecasts as predictions."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write an evidence-based environmental explanation paragraph following the prompt and checklist below.",
+    "prompt": "Should environmental news reports clearly separate observations from predictions? Write a balanced evidence-based paragraph of 100–140 words. Use at least three accurate details from the A23a report, explain one observed change and one prediction, use cautious language, and end with a practical recommendation for responsible science reporting.",
+    "checklist": [
+      "Clear position statement on separating observations from predictions",
+      "At least three accurate source details (e.g., 1986 breakaway, 2020 escape, nearly 1 trillion tonnes, 400 sq km chunks)",
+      "Explanation of one direct observation (e.g., shrinking to half its original size, losing 400 sq km chunks)",
+      "Explanation of one prediction or forecast (e.g., Andrew Meijers' expectation of disappearance within weeks)",
+      "Use of evidence-reporting phrases (e.g., 'The AP report indicates', 'According to scientists')",
+      "Use of cautious qualifying language ('about', 'around', 'nearly', 'expects', 'may')",
+      "Practical recommendation for responsible science reporting",
+      "Clear concluding sentence",
+      "Word count strictly between 100 and 140 words"
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your completed work against these core criteria before submitting.",
+    "items": [
+      "I preserved all exact text details from the source report without introducing unmentioned external facts.",
+      "I identified key timeline milestones (1986 breakaway, 2020 escape, current floating in the South Atlantic).",
+      "I distinguished direct physical observations (shrinking, chunk loss) from scientific predictions (unidentifiable within weeks).",
+      "I used qualifying words ('nearly', 'about', 'around', 'expects') to reflect appropriate scientific caution.",
+      "My paragraph is between 100 and 140 words and follows a clear organizational structure.",
+      "I included a practical recommendation for responsible environmental news reporting."
+    ]
+  },
+  "teacher": {
+    "modelAnswer": "Environmental news reports must clearly separate direct physical observations from scientific predictions to maintain credibility and public trust. The AP report on iceberg A23a illustrates this distinction effectively. Direct observations show that A23a originally broke off from Antarctica in 1986, remained grounded for decades, and escaped in 2020. Currently floating in the South Atlantic Ocean, it has shrunk to about half its original size as chunks weighing around 400 square kilometers break off. In contrast, scientist Andrew Meijers provides a prediction when he expects the melting mass won’t be identifiable within a few weeks. To report environmental change responsibly, journalists should clearly label measured physical evidence as observations while framing future forecasts with cautious qualifying language.",
+    "answerKey": {
+      "mainIdea": "Option B (A23a survived for decades but is now breaking apart, and scientists use evidence and cautious prediction to describe its final disappearance.)",
+      "comprehension": [
+        "1. Option B (The world’s largest iceberg)",
+        "2. Option A (To about half its original size)",
+        "3. Option C (It is basically rotting underneath and may not be really identifiable within a few weeks)",
+        "4. Option B (It broke off from Antarctica in 1986, spent most of its time grounded, and escaped in 2020)",
+        "5. Option C (In the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off)",
+        "6. Option A (It used to threaten penguin habitats, but now it is simply drifting toward its final disappearance)"
+      ],
+      "evidence": [
+        "1. Size & change: Weighed nearly a trillion tonnes, larger than Greater London; shrunk to half its size, 400 sq km chunks breaking off.",
+        "2. Timeline: Broke off in 1986, grounded on seabed until 2020 (34 years), floated for almost 40 years total.",
+        "3. Prediction evidence: Andrew Meijers' quote ('rotting underneath', expect unidentifiable in weeks), supported by warmer waters and massive chunk loss."
+      ],
+      "writingPractice": [
+        "1. Uses about/around/nearly with source numbers accurately.",
+        "2. Combines 1986 breakaway / 2020 escape using before or since.",
+        "3. Reports Meijers' quote using cautious reporting verbs without framing prediction as guaranteed fact.",
+        "4. Provides clear recommendation distinguishing observation from prediction in environmental reporting."
+      ],
+      "finalTask": "Evaluated using the 5-category rubric. Must be 100–140 words, include 3+ source details, 1 observation, 1 prediction, cautious language, and a recommendation."
+    },
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "descriptors": {
+          "1": "Demonstrates minimal understanding; fails to separate observation from prediction or lacks a recommendation.",
+          "2": "Demonstrates partial understanding; confuses some observations with predictions or provides an incomplete recommendation.",
+          "3": "Demonstrates clear understanding; distinguishes observations from predictions; provides a logical recommendation.",
+          "4": "Demonstrates thorough understanding of the source text; clearly separates physical observations from predictions; offers a highly compelling recommendation."
+        }
+      },
+      {
+        "category": "Evidence Use",
+        "descriptors": {
+          "1": "Lacks specific text evidence or relies on ungrounded external claims.",
+          "2": "Includes 1–2 source details, or references text details vaguely.",
+          "3": "Includes at least 3 source details with clear reporting phrases.",
+          "4": "Integrates 3 or more exact source details (dates, measurements, locations) seamlessly with precise reporting phrases."
+        }
+      },
+      {
+        "category": "Target Language/Structure",
+        "descriptors": {
+          "1": "Lacks cautious qualifying language; uses simple or repetitive sentence structures.",
+          "2": "Uses cautious language inconsistently; presents some predictions as absolute facts.",
+          "3": "Uses cautious language and target sentence structures accurately throughout the paragraph.",
+          "4": "Masterfully employs cautious language ('about', 'around', 'nearly', 'expects'), participial structures, and relative clauses."
+        }
+      },
+      {
+        "category": "Organization",
+        "descriptors": {
+          "1": "Lacks clear paragraph structure or topic sentence.",
+          "2": "Somewhat disorganized; transitions between observations, predictions, and recommendations are abrupt.",
+          "3": "Well-organized with clear topic sentence, supporting evidence, and concluding recommendation.",
+          "4": "Exceptionally well-structured paragraph with a strong topic sentence, logical evidence progression, and a smooth concluding recommendation."
+        }
+      },
+      {
+        "category": "Accuracy",
+        "descriptors": {
+          "1": "Pervasive errors that hinder comprehension; word count significantly outside 100–140 words.",
+          "2": "Frequent errors in grammar or punctuation; word count slightly outside 100–140 words.",
+          "3": "Minor grammatical or mechanics errors that do not impair clarity; word count is within 100–140 words.",
+          "4": "Free of grammatical, spelling, or punctuation errors; word count is strictly within 100–140 words."
+        }
+      }
+    ],
+    "teacherNotes": [
+      "1. SOURCE TRANSCRIPTION FIDELITY: The Student Reading is locked to the original AP image text. Do not correct spelling, modernize terms, or insert external 2026 satellite updates into the reading text.",
+      "2. PRESERVATION OF 'TONNES': Note that the source spells 'tonnes' (metric tons). Point out this British/international spelling variant to students without altering the locked reading.",
+      "3. PRESERVATION OF 'KILOMETERS': Note that the source spells 'kilometers'. Highlight spelling variations in international English sources.",
+      "4. CAPITALIZATION OF 'Breaking': Note the capitalization in 'Originally Breaking off' from Paragraph 3. Explain to students that source transcription preserves original text artifacts.",
+      "5. AP SOURCE CREDIT: The image credits 'Source: AP' without providing a specific article URL or date. Teach students to evaluate source credits as presented.",
+      "6. REPORTED QUOTATIONS VS. FACTUAL EVIDENCE: Andrew Meijers' statement ('rotting underneath... I expect...') represents a scientist's expert opinion and prediction, not a measured historical fact.",
+      "7. APPROXIMATE NUMBERS IN SCIENCE: Words like 'nearly a trillion', 'about half', and 'around 400 square kilometers' reflect necessary scientific approximation when measuring massive natural phenomena.",
+      "8. HANDLING UNCERTAINTY ('I expect'): Emphasize how 'I expect that it won't be really identifiable' signals a forecast based on current rates of decay, not an absolute guarantee.",
+      "9. ECOLOGICAL CONTEXT: The text mentions that A23a 'used to threaten penguin habitats.' Discuss how grounded icebergs can block access to feeding grounds, while melting ice changes local ecosystems.",
+      "10. ESL SCAFFOLDING STRATEGIES: For G1/G2 ESL students, break down complex reduced participial clauses ('Weighing nearly a trillion tonnes...') into simple subject-verb-object structures before analyzing paragraph organization."
+    ],
+    "teachingPhases": [
+      {
+        "phaseNumber": 1,
+        "phaseName": "Phase A: Opening & Goal Setting",
+        "durationMinutes": 5,
+        "objective": "Introduce the lesson focus on A23a iceberg, set learning objectives, and establish expectations for distinguishing observations from predictions.",
+        "teacherActions": [
+          "Display lesson title: 'World’s Biggest Iceberg Disappears After 40 Years'.",
+          "Explain the key distinction between what scientists directly observe and what they predict.",
+          "Outline the 90-minute agenda culminating in an evidence-based explanation paragraph."
+        ],
+        "scriptEn": "Welcome class! Today we are looking at a fascinating news report from AP about A23a, the world's largest iceberg. / As we read, our goal is to separate direct observations—what scientists can measure—from predictions—what they expect to happen. / By the end of class, you will write a balanced paragraph using cautious scientific language.",
+        "scriptKo": "환영합니다! 오늘 우리는 세계에서 가장 큰 빙산인 A23a에 관한 AP 뉴스 리포트를 살펴볼 것입니다. / 읽으면서 우리의 목표는 과학자들이 직접 측정하는 '직접 관찰'과 앞으로 일어날 일에 대한 '예측'을 구분하는 것입니다. / 수업이 끝날 때 신중한 과학적 언어를 사용하여 균형 잡힌 글을 쓰게 됩니다.",
+        "studentActions": [
+          "Listen attentively and note the lesson goals.",
+          "Open student page and locate the lesson header and warm-up section."
+        ],
+        "misconception": "Students might assume all statements in a science news article are proven facts.",
+        "correctiveFeedback": "Remind students that scientists frequently combine observed measurements with predictions about the future.",
+        "transition": "Let's begin with our warm-up questions to activate your prior knowledge about icebergs."
+      },
+      {
+        "phaseNumber": 2,
+        "phaseName": "Phase B: Warm-up Discussion",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding polar environments, iceberg longevity, and responsible science reporting.",
+        "teacherActions": [
+          "Form student pairs and assign the 3 warm-up questions.",
+          "Monitor pair conversations and prompt students to consider why huge ice masses melt slowly.",
+          "Conduct a brief whole-class check-in sharing student responses."
+        ],
+        "scriptEn": "Turn to your partner and discuss questions 1 through 3. / Think about why an iceberg as big as a major city takes decades to melt. / Also, discuss why journalists must be careful not to present predictions as guaranteed facts.",
+        "scriptKo": "짝과 함께 1번부터 3번 질문을 토론해 보세요. / 왜 대도시만 한 빙산이 녹는 데 수십 년이 걸리는지 생각해 보세요. / 또한 기자가 왜 예측을 확정된 사실처럼 제시하지 않도록 주의해야 하는지도 이야기해 봅시다.",
+        "studentActions": [
+          "Discuss warm-up questions in pairs.",
+          "Share initial ideas about iceberg size, ocean currents, and news reporting."
+        ],
+        "misconception": "Students might think an iceberg melts instantly once it hits warmer water.",
+        "correctiveFeedback": "Point out that immense volume means thermal transfer takes years or decades.",
+        "transition": "Great discussions! Now let's build our key vocabulary before reading the report."
+      },
+      {
+        "phaseNumber": 3,
+        "phaseName": "Phase C: Vocabulary in Context",
+        "durationMinutes": 12,
+        "objective": "Master 10 key vocabulary terms in context, focusing on exact definitions, Korean equivalents, and usage.",
+        "teacherActions": [
+          "Present the 10 vocabulary terms: iceberg, break apart, shrink, melt, grounded, escape, chunk, habitat, drift, identifiable.",
+          "Highlight 'grounded' (resting on seabed) and 'identifiable' (recognizable).",
+          "Have students read example sentences aloud."
+        ],
+        "scriptEn": "Let's examine our 10 key terms. / Pay close attention to 'grounded.' In oceanography, 'grounded' means the bottom of the iceberg is touching the ocean floor, so it cannot move. / Also note 'identifiable'—able to be recognized as a distinct structure.",
+        "scriptKo": "10가지 핵심 어휘를 살펴봅시다. / 'grounded'에 특히 주의하세요. 해양학에서 'grounded'는 빙산의 밑부분이 해저에 닿아 움직일 수 없음을 의미합니다. / 또한 'identifiable'(하나의 구조물로 알아볼 수 있는)도 기억해 두세요.",
+        "studentActions": [
+          "Repeat vocabulary words and practice pronunciation.",
+          "Review definitions, Korean translations, and example sentences."
+        ],
+        "misconception": "Students might confuse 'grounded' with emotional calmness or punishment.",
+        "correctiveFeedback": "Clarify that in this marine context, 'grounded' specifically means stuck on the seabed floor.",
+        "transition": "Now that we know the key vocabulary, let's read the AP news report for the first time."
+      },
+      {
+        "phaseNumber": 4,
+        "phaseName": "Phase D: First Reading & Gist (Main Idea)",
+        "durationMinutes": 10,
+        "objective": "Read the locked source text for global comprehension and identify the main idea.",
+        "teacherActions": [
+          "Direct students to read the 4 paragraphs of the locked Reading.",
+          "Emphasize that the source text is preserved exactly as published by AP.",
+          "Guide students to complete the Main Idea MCQ and discuss the feedback."
+        ],
+        "scriptEn": "Read the 4 paragraphs of our report quietly. / Notice how the article tracks A23a from 1986 to its current state in the South Atlantic. / After reading, answer the Main Idea question and check why Option B is correct.",
+        "scriptKo": "기사의 4개 단락을 조용히 읽어보세요. / 기사가 1986년부터 남대서양에서의 현재 상태까지 A23a를 어떻게 추적하는지 살피세요. / 읽은 후 주제 질문에 답하고 왜 B번이 정답인지 확인하세요.",
+        "studentActions": [
+          "Read the locked article text independently.",
+          "Select the answer for the Main Idea question and review feedback."
+        ],
+        "misconception": "Students might choose Option A thinking A23a melted instantly.",
+        "correctiveFeedback": "Guide students back to Paragraph 3 to see that it spent over 30 years grounded before escaping in 2020.",
+        "transition": "With the main idea clear, let's analyze the text in detail, sentence by sentence."
+      },
+      {
+        "phaseNumber": 5,
+        "phaseName": "Phase E: Detailed Evidence Reading & Sentence Analysis",
+        "durationMinutes": 18,
+        "objective": "Analyze the 6 exact sentence units of the text, completing comprehension questions and Feynman explanations.",
+        "teacherActions": [
+          "Walk through sentence units S01 to S06 in order.",
+          "Model chunk reading, direct translation, and natural translation for each sentence.",
+          "Lead students through Comprehension MCQs 1–6 and Evidence Questions 1–3."
+        ],
+        "scriptEn": "Now we will analyze all 6 sentence units in detail. / We will break down each sentence into meaningful chunks, examine the grammar, and answer our 6 comprehension questions based strictly on textual evidence.",
+        "scriptKo": "이제 6개 문장 단위를 상세히 분석하겠습니다. / 각 문장을 의미 있는 의미구(chunk)로 나누고, 문법을 살피며, 오직 텍스트 증거에 기반해 6개 이해력 질문에 답할 것입니다.",
+        "studentActions": [
+          "Follow along with sentence chunking and Korean translations.",
+          "Complete Comprehension MCQs 1–6 and Evidence written responses 1–3."
+        ],
+        "misconception": "Students might confuse reported quotes (S03) with independent physical measurements.",
+        "correctiveFeedback": "Highlight that S03 quotes Dr. Andrew Meijers, which conveys his expert evaluation and expectation.",
+        "transition": "Now let's examine the target language patterns that make science reporting precise and cautious."
+      },
+      {
+        "phaseNumber": 6,
+        "phaseName": "Phase F: Language Focus & Guided Practice",
+        "durationMinutes": 12,
+        "objective": "Examine 4 target language patterns: reduced participial openings, non-defining clauses, present perfect, and cautious reporting language.",
+        "teacherActions": [
+          "Explain the 4 language focus patterns using examples from the text.",
+          "Focus on cautious qualifiers ('nearly', 'about', 'around', 'expects') that prevent overstatement.",
+          "Guide students through Writing Practice activities 1–4."
+        ],
+        "scriptEn": "Notice how science writers use words like 'nearly a trillion', 'about half', and 'around 400 square kilometers.' / These words show that measurements are estimations. / Practice using these patterns in Writing Practice tasks 1 through 4.",
+        "scriptKo": "과학 글쓰기에서 'nearly a trillion', 'about half', 'around 400 square kilometers'와 같은 단어가 어떻게 쓰이는지 보세요. / 이 단어들은 측정이 추정치임을 보여줍니다. / 쓰기 연습 1번부터 4번까지 이 패턴들을 적용해 보세요.",
+        "studentActions": [
+          "Study language focus patterns and example sentences.",
+          "Complete Writing Practice tasks 1–4 using Check & Compare."
+        ],
+        "misconception": "Students might think cautious words like 'about' make writing weak.",
+        "correctiveFeedback": "Explain that in science, qualifying words show accuracy and respect for measurement limits.",
+        "transition": "You are now ready to write your final evidence-based paragraph!"
+      },
+      {
+        "phaseNumber": 7,
+        "phaseName": "Phase G: Writing Practice & Final Task Execution",
+        "durationMinutes": 18,
+        "objective": "Draft a 100–140 word evidence-based environmental explanation paragraph incorporating source details, observations, predictions, and recommendations.",
+        "teacherActions": [
+          "Review the Final Writing Task prompt and the 9-item checklist.",
+          "Remind students to include 3+ source details, 1 observation, 1 prediction, cautious language, and a concluding recommendation.",
+          "Monitor drafting and offer live feedback using word count tools."
+        ],
+        "scriptEn": "Read your prompt carefully. / Your task is to write 100 to 140 words addressing whether news reports should separate observations from predictions. / Make sure to include 3 exact details from A23a, use cautious words like 'around' or 'expects', and end with a clear recommendation.",
+        "scriptKo": "프롬프트를 주의 깊게 읽으세요. / 뉴스가 관찰과 예측을 구분해야 하는지에 대해 100~140 단어로 작성하는 것입니다. / A23a의 정확한 세부 정보 3가지, 'around'나 'expects' 같은 신중한 어휘, 그리고 명확한 권고 사항으로 마무리를 포함하세요.",
+        "studentActions": [
+          "Draft the final paragraph in the text area.",
+          "Use the live word counter and run the rule-based Writing Check."
+        ],
+        "misconception": "Students might write fewer than 100 words or omit the final recommendation.",
+        "correctiveFeedback": "Check word count and remind students that the recommendation is a required checklist item.",
+        "transition": "Time for our final self-check and submission."
+      },
+      {
+        "phaseNumber": 8,
+        "phaseName": "Phase H: Review, Exit & Student Submission",
+        "durationMinutes": 5,
+        "objective": "Complete the 6-item Self-Check, review final responses, and submit student work.",
+        "teacherActions": [
+          "Guide students through the Self-Check checklist.",
+          "Ensure student name, code, and attempt details are entered.",
+          "Confirm successful submission to local storage / D1 fallback."
+        ],
+        "scriptEn": "Go through your 6-item Self-Check. / Once verified, enter your name and code, and click Submit. / Excellent work analyzing real-world scientific evidence today!",
+        "scriptKo": "6개 항목의 자가 진단을 확인하세요. / 확인이 끝나면 이름과 코드를 입력하고 제출을 누르세요. / 오늘 실제 과학적 증거를 훌륭하게 분석했습니다!",
+        "studentActions": [
+          "Complete the 6 Self-Check items.",
+          "Submit work and view confirmation details."
+        ],
+        "misconception": "Students might forget to check their word count before submitting.",
+        "correctiveFeedback": "Prompt students to confirm 100–140 words before clicking submit.",
+        "transition": "Lesson complete! Thank you for your active participation."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "optionNumber": 1,
+          "title": "Standard Direct Approach (표준 직접 교수법)",
+          "chunkedEnglish": "Good morning, class! / Today we will read an official AP news report / about the A23a iceberg, / which is currently melting in the South Atlantic Ocean. / Our key goal / is to separate direct scientific observations / from scientist predictions.",
+          "directKorean": "좋은 아침입니다, 여러분! / 오늘 우리는 AP 공식 뉴스 리포트를 읽을 것입니다 / A23a 빙산에 관한, / 현재 남대서양에서 녹고 있는. / 우리의 핵심 목표는 / 직접적인 과학적 관찰을 구분하는 것입니다 / 과학자들의 예측과.",
+          "naturalKorean": "좋은 아침입니다! 오늘 우리는 현재 남대서양에서 녹고 있는 A23a 빙산에 관한 AP 공식 뉴스 리포트를 읽을 것입니다. 우리의 핵심 목표는 직접적인 과학적 관찰과 과학자들의 예측을 구분하는 것입니다.",
+          "purpose": "Provides a clean, direct introduction ideal for starting the 90-minute lesson with clear academic focus."
+        },
+        {
+          "optionNumber": 2,
+          "title": "Interactive Inquiry Approach (상호작용 질문 유도법)",
+          "chunkedEnglish": "Have you ever wondered / how an iceberg larger than Greater London / can float in the ocean / for nearly 40 years? / Today we will examine the physical evidence / behind A23a's final days / and practice using cautious language / in environmental reporting.",
+          "directKorean": "궁금했던 적이 있나요 / 그레이터 런던보다 큰 빙산이 / 어떻게 바다에 떠 있을 수 있는지 / 거의 40년 동안? / 오늘 우리는 물리적 증거를 조사할 것입니다 / A23a의 마지막 날들 뒤에 있는 / 그리고 신중한 언어를 사용하는 연습을 할 것입니다 / 환경 리포팅에서.",
+          "naturalKorean": "그레이터 런던보다 큰 빙산이 어떻게 40년 가깝게 바다에 떠 있을 수 있는지 궁금했던 적이 있나요? 오늘 우리는 A23a의 마지막 순간들에 담긴 물리적 증거를 조사하고 환경 리포팅에서 신중한 언어를 사용하는 연습을 할 것입니다.",
+          "purpose": "Engages students through curiosity and visual scale comparisons."
+        },
+        {
+          "optionNumber": 3,
+          "title": "Critical Media Literacy Approach (비판적 미디어 문해력 접근법)",
+          "chunkedEnglish": "When you read environmental news, / how can you tell the difference / between what is already measured / and what might happen in the future? / We will analyze an AP article on iceberg A23a / to evaluate how journalists present data / and scientist forecasts.",
+          "directKorean": "환경 뉴스를 읽을 때, / 차이점을 어떻게 알 수 있나요 / 이미 측정된 것과 / 미래에 일어날 수 있는 것 사이의? / 우리는 A23a 빙산에 관한 AP 기사를 분석할 것입니다 / 기자가 데이터를 어떻게 제시하는지 평가하기 위해 / 그리고 과학자의 예보를.",
+          "naturalKorean": "환경 뉴스를 읽을 때 이미 측정된 결과와 미래에 일어날 예측의 차이를 어떻게 구별할 수 있을까요? 우리는 AP의 A23a 빙산 기사를 분석하면서 기자들이 데이터와 과학자의 예보를 어떻게 전달하는지 평가해 볼 것입니다.",
+          "purpose": "Fosters critical thinking and media literacy skills before reading."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "questionNumber": 1,
+          "question": "What do you already know about icebergs or Antarctica?",
+          "likelyResponses": [
+            "Icebergs are huge pieces of ice in cold oceans.",
+            "Most of an iceberg is underwater.",
+            "Antarctica is very cold and covered in glaciers."
+          ],
+          "followUpPrompts": [
+            "Why is so much of an iceberg hidden below the surface?",
+            "How do icebergs break away from Antarctica in the first place?"
+          ],
+          "usefulLanguage": "glacier, ice shelf, floating, density, frozen mass",
+          "cautionNote": "Students might confuse icebergs with sea ice (frozen ocean water). Clarify that icebergs originate from land-based glaciers.",
+          "teachingPurpose": "Activates background knowledge regarding polar geography and physical ice characteristics."
+        },
+        {
+          "questionNumber": 2,
+          "question": "Why might a very large iceberg take many years to change or disappear?",
+          "likelyResponses": [
+            "Because it is extremely big and heavy.",
+            "It takes a long time for heat to melt such a huge amount of ice.",
+            "Cold ocean water keeps it frozen for a long time."
+          ],
+          "followUpPrompts": [
+            "What happens when an iceberg drifts into warmer ocean currents?",
+            "Does an iceberg melt only from the top or from underneath as well?"
+          ],
+          "usefulLanguage": "immense volume, thermal mass, ocean currents, gradual decay",
+          "cautionNote": "Ensure students understand that large ice mass acts as thermal insulation, slowing down total melting.",
+          "teachingPurpose": "Builds scientific intuition about scale, heat transfer, and physical change over time."
+        },
+        {
+          "questionNumber": 3,
+          "question": "Why should a news report separate what scientists observe from what they predict?",
+          "likelyResponses": [
+            "Because observations are facts, but predictions might change.",
+            "To avoid scaring people with unproven forecasts.",
+            "So readers know what is already measured versus what is a guess."
+          ],
+          "followUpPrompts": [
+            "What could happen if a newspaper presented a prediction as a 100% certainty?",
+            "What words do scientists use when they make predictions?"
+          ],
+          "usefulLanguage": "measured data, empirical observation, forecast, degree of certainty, scientific caution",
+          "cautionNote": "Explain that prediction in science is based on evidence, but still carries inherent uncertainty.",
+          "teachingPurpose": "Establishes the central analytical focus of the lesson: media literacy and scientific uncertainty."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "The A23a iceberg, which is the world’s largest iceberg, is breaking apart after almost 40 years of floating in the ocean.",
+          "chunkReading": "The A23a iceberg, / which is the world’s largest iceberg, / is breaking apart / after almost 40 years / of floating in the ocean.",
+          "directKorean": "A23a 빙산은, / 세계에서 가장 큰 빙산인, / 해체되고 있습니다 / 거의 40년 후에 / 바다에 떠다닌 지.",
+          "naturalKorean": "세계에서 가장 큰 빙산인 A23a 빙산이 바다를 떠다닌 지 거의 40년 만에 해체되고 있습니다.",
+          "mustKnowChunks": [
+            "the world's largest iceberg (세계에서 가장 큰 빙산)",
+            "is breaking apart (해체되고 있다, 조각나고 있다)",
+            "after almost 40 years (거의 40년 후에)",
+            "floating in the ocean (바다에 떠다니는)"
+          ],
+          "mustKnowGrammar": "Non-defining relative clause with 'which' adding non-essential descriptive details; present continuous 'is breaking apart' for ongoing action; preposition 'after' + gerund 'floating'.",
+          "feynmanExplanation": "Imagine a giant ice mountain / floating in the cold sea. / It has been floating there / for nearly 40 years. / Now, it is starting / to split into smaller pieces. / This is what scientists call / breaking apart.",
+          "feynmanExplanationKo": "차가운 바다에 떠 있는 거대한 얼음산을 생각해 보세요. / 그 얼음산은 거의 40년 동안 그곳에 있었습니다. / 이제 그 얼음산이 여러 조각으로 쪼개지기 시작하고 있습니다. / 이것을 과학자들은 해체되고 있다고 말합니다."
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Weighing nearly a trillion tonnes and larger than Greater London, A23a has shrunk to about half its original size since it began to melt in warmer waters.",
+          "chunkReading": "Weighing nearly a trillion tonnes / and larger than Greater London, / A23a has shrunk / to about half its original size / since it began to melt / in warmer waters.",
+          "directKorean": "거의 1조 톤에 달하고 / 그레이터 런던보다 더 큰, / A23a는 줄어들었습니다 / 원래 크기의 약 절반으로 / 녹기 시작한 이래로 / 더 따뜻한 물에서.",
+          "naturalKorean": "무게가 거의 1조 톤에 달하고 그레이터 런던보다 컸던 A23a는 더 따뜻한 바다에서 녹기 시작한 이후 원래 크기의 약 절반으로 줄어들었습니다.",
+          "mustKnowChunks": [
+            "weighing nearly a trillion tonnes (무게가 거의 1조 톤에 달하는)",
+            "larger than Greater London (그레이터 런던보다 더 큰)",
+            "has shrunk to about half (약 절반으로 줄어들었다)",
+            "since it began to melt (녹기 시작한 이래로)"
+          ],
+          "mustKnowGrammar": "Reduced participial phrase 'Weighing... and larger than...' modifying A23a; Present perfect 'has shrunk' paired with time conjunction 'since' + simple past verb 'began'.",
+          "feynmanExplanation": "This iceberg was heavier / than a trillion tonnes. / It was also bigger / than a major city like London. / Warm ocean water has now melted it / down to half its original size. / This demonstrates how warmer seas / cause giant ice masses to shrink.",
+          "feynmanExplanationKo": "이 빙산은 1조 톤보다 더 무거웠습니다. / 또한 런던과 같은 거대한 도시보다 더 컸습니다. / 따뜻한 바닷물이 이제 이 빙산을 녹여 / 원래 크기의 절반으로 줄였습니다. / 이는 따뜻해진 바다가 / 거대한 얼음 덩어리를 어떻게 축소시키는지 보여줍니다."
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Scientists, like Andrew Meijers from the British Antarctic Survey, remarked, “It’s basically rotting underneath... I expect that it won’t be really identifiable within a few weeks.”",
+          "chunkReading": "Scientists, / like Andrew Meijers / from the British Antarctic Survey, / remarked, / “It’s basically rotting underneath... / I expect that it won’t be really identifiable / within a few weeks.”",
+          "directKorean": "과학자들은, / 영국 남극 조사국의 앤드루 메이저스와 같은, / 언급했습니다, / “그것은 기본적으로 밑에서부터 썩어가고 있습니다... / 나는 그것이 알아볼 수 없게 될 것이라고 예상합니다 / 몇 주 안에.”",
+          "naturalKorean": "영국 남극 조사국의 앤드루 메이저스와 같은 과학자들은 “빙산이 기본적으로 밑에서부터 썩어가고 있다... 몇 주 안에 형태를 알아볼 수 없게 될 것으로 예상한다”고 언급했습니다.",
+          "mustKnowChunks": [
+            "British Antarctic Survey (영국 남극 조사국)",
+            "rotting underneath (밑에서부터 썩어가고 있는)",
+            "I expect that (나는 ~라고 예상한다)",
+            "won't be really identifiable (정말 알아볼 수 없게 될 것이다)",
+            "within a few weeks (몇 주 안에)"
+          ],
+          "mustKnowGrammar": "Direct quotation introduced by reporting verb 'remarked'; Present continuous 'is rotting' describing present physical state; Scientific prediction using 'I expect' + future modal 'won't be'.",
+          "feynmanExplanation": "A scientist named Andrew Meijers / explained what is happening. / Warm ocean water is destroying the ice / from deep underneath. / He expects that in a few weeks, / it will no longer look like an iceberg. / This forecast is a scientific prediction.",
+          "feynmanExplanationKo": "앤드루 메이저스라는 과학자가 / 무슨 일이 일어나고 있는지 설명했습니다. / 따뜻한 바닷물이 깊은 바닷속 아래에서부터 얼음을 파괴하고 있습니다. / 그는 몇 주 안에 이 얼음이 / 더 이상 하나의 빙산으로 보이지 않을 것이라고 예상합니다. / 이것이 그의 과학적 예측입니다."
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Originally Breaking off from Antarctica in 1986, A23a spent most of its time grounded on the ocean floor before escaping in 2020.",
+          "chunkReading": "Originally Breaking off / from Antarctica in 1986, / A23a spent most of its time / grounded on the ocean floor / before escaping in 2020.",
+          "directKorean": "원래 떨어져 나온 후 / 1986년에 남극 대륙에서, / A23a는 대부분의 시간을 보냈습니다 / 해저에 걸린 채로 / 2020년에 탈출하기 전에.",
+          "naturalKorean": "원래 1986년 남극 대륙에서 떨어져 나온 A23a는 2020년 탈출하기 전까지 대부분의 시간을 해저에 걸린 채 보냈습니다.",
+          "mustKnowChunks": [
+            "originally Breaking off (원래 떨어져 나온)",
+            "from Antarctica in 1986 (1986년 남극 대륙에서)",
+            "spent most of its time (대부분의 시간을 보냈다)",
+            "grounded on the ocean floor (해저에 걸린, 좌초된)",
+            "before escaping in 2020 (2020년에 탈출하기 전에)"
+          ],
+          "mustKnowGrammar": "Participial clause opening 'Originally Breaking off...' (preserving source capital B); Past participle 'grounded' acting as predicate adjective; Preposition 'before' + gerund 'escaping'.",
+          "feynmanExplanation": "The iceberg broke off from Antarctica / in the year 1986. / It got stuck on the ocean seabed / for more than thirty years. / Finally, in 2020, / it broke free and started to float away. / That is how it survived for so long.",
+          "feynmanExplanationKo": "그 빙산은 1986년에 / 남극 대륙에서 떨어져 나왔습니다. / 얼음산은 30년 넘게 / 해저 바닥에 꽉 걸려 있었습니다. / 마침내 2020년에 / 얼음산은 풀려나 떠다니기 시작했습니다. / 그것이 빙산이 그렇게 오래 버틴 이유입니다."
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "It is now floating in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off.",
+          "chunkReading": "It is now floating / in the South Atlantic Ocean, / where chunks / weighing around 400 square kilometers / are breaking off.",
+          "directKorean": "그것은 현재 떠다니고 있습니다 / 남대서양에서, / 그곳에서는 조각들이 / 약 400제곱킬로미터 크기의 / 떨어져 나가고 있습니다.",
+          "naturalKorean": "이 빙산은 현재 남대서양을 떠다니고 있으며, 그곳에서 약 400제곱킬로미터 크기의 얼음 덩어리들이 떨어져 나가고 있습니다.",
+          "mustKnowChunks": [
+            "floating in the South Atlantic Ocean (남대서양에 떠다니는)",
+            "where chunks... are breaking off (그곳에서 조각들이 떨어져 나가고 있는)",
+            "weighing around 400 square kilometers (약 400제곱킬로미터 크기/무게의)"
+          ],
+          "mustKnowGrammar": "Present continuous 'is floating'; Relative adverb 'where' introducing non-defining place clause; Present participial phrase 'weighing around...' with qualifying word 'around'.",
+          "feynmanExplanation": "Right now, the iceberg / is drifting in the South Atlantic Ocean. / The water in this area is warmer, / so huge pieces of ice are snapping off. / Some of these broken chunks / measure around 400 square kilometers. / This shows that it is dissolving rapidly.",
+          "feynmanExplanationKo": "지금 그 빙산은 / 남대서양을 떠다니고 있습니다. / 이 지역의 바닷물은 더 따뜻해서 / 거대한 얼음 조각들이 부러져 나가고 있습니다. / 깨어진 조각 중 일부는 / 약 400제곱킬로미터에 달합니다. / 이는 빙산이 빠르게 해체되고 있음을 보여줍니다."
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "This massive iceberg used to threaten penguin habitats, but now it’s simply drifting toward its final disappearance, leaving scientists amazed at how long it lasted in the warmer ocean.",
+          "chunkReading": "This massive iceberg / used to threaten penguin habitats, / but now it’s simply drifting / toward its final disappearance, / leaving scientists amazed / at how long it lasted / in the warmer ocean.",
+          "directKorean": "이 거대한 빙산은 / 펭귄 서식지를 위협하곤 했습니다, / 하지만 지금은 그저 떠돌고 있습니다 / 그것의 최종 소멸을 향해, / 과학자들을 놀라게 남겨두면서 / 그것이 얼마나 오래 버텼는지에 / 더 따뜻한 바다에서.",
+          "naturalKorean": "이 거대한 빙산은 한때 펭귄 서식지를 위협하곤 했지만, 지금은 그저 최종 소멸을 향해 떠돌고 있을 뿐이며, 과학자들은 이 빙산이 더 따뜻한 바다에서 얼마나 오래 버텼는지에 놀라워하고 있습니다.",
+          "mustKnowChunks": [
+            "used to threaten penguin habitats (펭귄 서식지를 위협하곤 했다)",
+            "drifting toward its final disappearance (최종 소멸을 향해 떠돌고 있는)",
+            "leaving scientists amazed (과학자들을 놀라게 만들면서)",
+            "how long it lasted in the warmer ocean (더 따뜻한 바다에서 얼마나 오래 버텼는지)"
+          ],
+          "mustKnowGrammar": "Contrastive structure with modal 'used to' vs present continuous 'is simply drifting'; Participial clause of result 'leaving scientists amazed at...'; Noun clause 'how long it lasted'.",
+          "feynmanExplanation": "In the past, this giant iceberg / blocked paths to penguin homes. / Now, it is harmlessly melting away / in the open ocean. / Scientists are amazed / that such a huge ice mass / lasted nearly forty years in warm water. / It is a remarkable environmental event.",
+          "feynmanExplanationKo": "과거에 이 거대한 빙산은 / 펭귄 집으로 가는 길을 막았습니다. / 이제 빙산은 해없이 바다 속으로 녹아 사라지고 있습니다. / 과학자들은 이렇게 거대한 빙산이 / 따뜻한 바닷속에서 거의 40년을 버텼다는 사실에 감탄하고 있습니다. / 이것은 놀라운 환경적 사건입니다."
+        }
+      ],
+      "finalWritingSupport": {
+        "vocabularyList": [
+          "observation (직접 관찰/측정 데이터)",
+          "prediction (과학적 예측/추정)",
+          "weighing nearly (무게가 거의 ~에 달하는)",
+          "shrunk to about (약 ~로 줄어든)",
+          "rotting underneath (밑에서부터 썩어가는)",
+          "grounded on the seabed (해저에 좌초된)",
+          "drifting toward disappearance (소멸을 향해 표류하는)"
+        ],
+        "evidenceReportingPhrases": [
+          "According to the AP news report...",
+          "Direct measurements show that A23a...",
+          "The text notes that in 2020...",
+          "Scientist Andrew Meijers remarked that...",
+          "Physical evidence indicates that..."
+        ],
+        "approximateNumberLanguage": [
+          "nearly a trillion tonnes (거의 1조 톤)",
+          "about half its original size (약 절반 크기)",
+          "around 400 square kilometers (약 400제곱킬로미터)",
+          "almost 40 years (거의 40년)"
+        ],
+        "observationPredictionConnectors": [
+          "While direct evidence demonstrates [observation], scientists predict that...",
+          "On one hand, measured data shows... On the other hand, forecasts suggest...",
+          "Although physical observations confirm [data], future predictions carry uncertainty."
+        ],
+        "paragraphOutline": [
+          "Sentence 1 (Topic/Position): State clearly whether news reports should separate observations from predictions.",
+          "Sentence 2–3 (Direct Observations): Present 2 exact measured details from the text (1986 breakaway, 2020 escape, shrinking to half size).",
+          "Sentence 4 (Prediction/Forecast): Explain Dr. Andrew Meijers' reported prediction regarding disappearance within weeks.",
+          "Sentence 5 (Cautious Language & Distinction): Analyze why using words like 'about' or 'expects' keeps reporting accurate.",
+          "Sentence 6 (Recommendation/Conclusion): Provide a practical recommendation for responsible science journalism."
+        ],
+        "sentenceStarters": [
+          "News reports must clearly distinguish between observed scientific data and future predictions...",
+          "For instance, physical observations confirm that iceberg A23a shrank to about half its original size after...",
+          "In contrast, forecasts by scientists like Andrew Meijers represent predictions rather than proven facts...",
+          "Therefore, journalists should always report measured evidence with precision while framing predictions using cautious language..."
+        ],
+        "commonMistakes": [
+          {
+            "incorrect": "The article proves that A23a will definitely vanish in exactly 14 days.",
+            "correct": "The report notes that scientists expect A23a may no longer be identifiable within a few weeks.",
+            "explanation": "Do not treat scientist predictions as absolute guaranteed dates; preserve scientific uncertainty."
+          },
+          {
+            "incorrect": "A23a was 400 square kilometers big when it broke off from Antarctica in 1986.",
+            "correct": "A23a was larger than Greater London in 1986, while current breaking chunks weigh around 400 square kilometers.",
+            "explanation": "Do not mix up historical size comparisons with current chunk breaking measurements."
+          },
+          {
+            "incorrect": "Scientists observed that penguins were killed by the iceberg in 2020.",
+            "correct": "The text states that the iceberg used to threaten penguin habitats during its past movement.",
+            "explanation": "Do not invent dramatic outcomes not present in the locked source text."
+          },
+          {
+            "incorrect": "The report says A23a melted because of human factory pollution.",
+            "correct": "The report notes A23a began to melt in warmer ocean waters after floating for almost 40 years.",
+            "explanation": "Stick strictly to the causes mentioned in the text without inserting unmentioned global warming details."
+          }
+        ],
+        "g1Scaffold": "For G1 (Emerging) ESL students: Provide fill-in-the-blank sentence frames for evidence reporting and ensure student identifies at least two exact numbers from the text.",
+        "g2Extension": "For G2 (Expanding) ESL students: Require students to contrast the passive physical decay ('rotting underneath') with the active scientific forecast ('I expect that...').",
+        "teacherPriorities": "Focus assessment on whether the student accurately quotes source numbers using cautious qualifiers ('about', 'around') and includes a clear concluding recommendation."
+      }
+    }
+  }
+}
