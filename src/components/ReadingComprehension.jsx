@@ -14,22 +14,25 @@ export default function ReadingComprehension({
   return (
     <SectionCard icon="🔍" title={data.title}>
       {data.questions.map((q, index) => {
-        const answerKeyValue = answerKey?.[q.id];
+        const qId = q.id || `rc${index + 1}`;
+        const answerKeyValue = Array.isArray(answerKey)
+          ? answerKey[index]
+          : (answerKey?.[qId] ?? answerKey?.[q.id]);
         const correctAnswer = getCorrectAnswer(q, answerKeyValue);
         const explanation = getExplanation(q, null);
-        const selected = answers[q.id] ?? '';
+        const selected = answers[qId] ?? answers[q.id] ?? '';
         const isCorrect = submitted && isAnswerCorrect(selected, correctAnswer);
 
         return (
-          <div key={q.id} className="question-block">
+          <div key={qId} className="question-block">
             <p className="question-block__label">
               {index + 1}. {q.question}
             </p>
             <QuestionOptions
-              name={q.id}
+              name={qId}
               options={q.options}
               value={selected}
-              onChange={(value) => onAnswerChange(q.id, value)}
+              onChange={(value) => onAnswerChange(qId, value)}
               disabled={disabled}
               submitted={submitted}
               correctAnswer={correctAnswer}

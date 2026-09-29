@@ -122,6 +122,7 @@
     "instructions": "Read each question carefully and select the best answer based strictly on the provided text.",
     "questions": [
       {
+        "id": "rc1",
         "question": "What is A23a described as in the opening sentence of the report?",
         "options": [
           "The smallest iceberg in the Southern Hemisphere",
@@ -137,6 +138,7 @@
         "explanation": "Paragraph 1 (Sentence S01) states: 'The A23a iceberg, which is the world’s largest iceberg, is breaking apart...'"
       },
       {
+        "id": "rc2",
         "question": "How much has A23a shrunk since it began to melt in warmer waters?",
         "options": [
           "To about half its original size",
@@ -152,6 +154,7 @@
         "explanation": "Paragraph 2 (Sentence S02) states: '...A23a has shrunk to about half its original size since it began to melt in warmer waters.'"
       },
       {
+        "id": "rc3",
         "question": "What did British Antarctic Survey scientist Andrew Meijers state about A23a?",
         "options": [
           "He predicted it will remain stable on the ocean floor for another fifty years.",
@@ -167,6 +170,7 @@
         "explanation": "Paragraph 2 (Sentence S03) quotes Andrew Meijers: '“It’s basically rotting underneath... I expect that it won’t be really identifiable within a few weeks.”'"
       },
       {
+        "id": "rc4",
         "question": "What timeline does the report provide for A23a’s movement?",
         "options": [
           "It broke off in 2020 and completely melted by 1986.",
@@ -182,6 +186,7 @@
         "explanation": "Paragraph 3 (Sentence S04) states: 'Originally Breaking off from Antarctica in 1986, A23a spent most of its time grounded on the ocean floor before escaping in 2020.'"
       },
       {
+        "id": "rc5",
         "question": "Where is A23a currently floating, and what physical change is occurring there?",
         "options": [
           "In the Arctic Ocean, where it is freezing into larger glaciers",
@@ -197,6 +202,7 @@
         "explanation": "Paragraph 3 (Sentence S05) states: 'It is now floating in the South Atlantic Ocean, where chunks weighing around 400 square kilometers are breaking off.'"
       },
       {
+        "id": "rc6",
         "question": "How does the final paragraph contrast A23a’s past impact with its present state?",
         "options": [
           "It used to threaten penguin habitats, but now it’s simply drifting toward its final disappearance.",

@@ -209,13 +209,15 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
 
     // Reading comprehension
     if (lessonData.readingComprehension?.questions) {
-      lessonData.readingComprehension.questions.forEach((q) => {
+      lessonData.readingComprehension.questions.forEach((q, index) => {
         totalCount++;
+        const qId = q.id || `rc${index + 1}`;
         const correctAnswer = getCorrectAnswer(
           q,
+          lessonData.teacher?.answerKey?.readingComprehension?.[qId] ??
           lessonData.teacher?.answerKey?.readingComprehension?.[q.id]
         );
-        const studentAns = payload.comprehensionAnswers?.[q.id];
+        const studentAns = payload.comprehensionAnswers?.[qId] ?? payload.comprehensionAnswers?.[q.id];
         if (isAnswerCorrect(studentAns, correctAnswer)) {
           correctCount++;
         }
@@ -552,12 +554,13 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                           </h5>
                           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
                             {lessonData.readingComprehension.questions.map((q, idx) => {
-                              const studentAns = payload.comprehensionAnswers?.[q.id] || payload.readingComprehensionAnswers?.[q.id];
-                              const correctAns = getCorrectAnswer(q, lessonData.teacher?.answerKey?.readingComprehension?.[q.id]);
+                              const qId = q.id || `rc${idx + 1}`;
+                              const studentAns = payload.comprehensionAnswers?.[qId] || payload.readingComprehensionAnswers?.[qId] || payload.comprehensionAnswers?.[q.id] || payload.readingComprehensionAnswers?.[q.id];
+                              const correctAns = getCorrectAnswer(q, lessonData.teacher?.answerKey?.readingComprehension?.[qId] || lessonData.teacher?.answerKey?.readingComprehension?.[q.id]);
                               const isCorrect = isAnswerCorrect(studentAns, correctAns);
 
                               return (
-                                <div key={q.id} style={{ fontSize: '0.9rem', padding: '0.5rem', borderRadius: '6px', backgroundColor: 'var(--color-cream)' }}>
+                                <div key={qId} style={{ fontSize: '0.9rem', padding: '0.5rem', borderRadius: '6px', backgroundColor: 'var(--color-cream)' }}>
                                   <p style={{ margin: '0 0 4px', fontWeight: 600 }}>
                                     {idx + 1}. {q.question}
                                   </p>

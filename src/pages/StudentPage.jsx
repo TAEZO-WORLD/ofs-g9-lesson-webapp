@@ -10,12 +10,12 @@ import { getCorrectAnswer, isAnswerCorrect } from '../utils/questionHelpers';
 
 function buildInitialAnswers(questions) {
   if (!questions || !Array.isArray(questions)) return {};
-  return Object.fromEntries(questions.map((q) => [q.id, '']));
+  return Object.fromEntries(questions.map((q, index) => [q.id || `rc${index + 1}`, '']));
 }
 
 function buildInitialEvidence(prompts) {
   if (!prompts || !Array.isArray(prompts)) return {};
-  return Object.fromEntries(prompts.map((p) => [p.id, '']));
+  return Object.fromEntries(prompts.map((p, index) => [p.id || `evidence-${index + 1}`, '']));
 }
 
 function buildInitialSelfCheck(items) {
@@ -102,13 +102,15 @@ function StudentLessonContent({ lessonData, lessonSlug }) {
 
       const readingComprehensionResults = {};
       if (lessonData.readingComprehension?.questions) {
-        lessonData.readingComprehension.questions.forEach((q) => {
+        lessonData.readingComprehension.questions.forEach((q, index) => {
+          const qId = q.id || `rc${index + 1}`;
           const correctAns = getCorrectAnswer(
             q,
+            lessonData.teacher?.answerKey?.readingComprehension?.[qId] ??
             lessonData.teacher?.answerKey?.readingComprehension?.[q.id]
           );
-          const studentAns = comprehensionAnswers[q.id];
-          readingComprehensionResults[q.id] = isAnswerCorrect(studentAns, correctAns) ? 'O' : 'X';
+          const studentAns = comprehensionAnswers[qId] ?? comprehensionAnswers[q.id];
+          readingComprehensionResults[qId] = isAnswerCorrect(studentAns, correctAns) ? 'O' : 'X';
         });
       }
 
