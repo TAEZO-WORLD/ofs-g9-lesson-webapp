@@ -1,0 +1,1635 @@
+{
+  "lessonTitle": "Icebergs: Frozen Giants with Stories to Tell",
+  "ofsUnit": "Unit 2 — Earth, Climate & Change",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational Science Feature",
+  "writingType": "Evidence-Based Science Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students explain how icebergs form, how ice cores preserve evidence about the past, and how scientists use that evidence to understand Earth’s climate, then write a cautious evidence-based science explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Read and discuss the warm-up questions with a partner. Share your initial thoughts and prior knowledge before reading the visual text.",
+    "questions": [
+      "What do you already know about icebergs, glaciers or Antarctica?",
+      "Why might ice contain information about the past?",
+      "How can scientists use evidence to learn about changes on Earth?"
+    ]
+  },
+  "article": {
+    "title": "Icebergs: Frozen Giants with Stories to Tell",
+    "sourceNote": "Original text transcribed from two teacher-provided classroom images. No publication credit, article URL, date or named author is shown in the images; statements should be taught as claims in the provided visual source.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "pageLabel": "Image 1 — Iceberg Formation & Ice Core Records",
+        "title": "Icebergs: Frozen Giants with Stories to Tell",
+        "visualLabels": [
+          "New iceberg forming",
+          "Fracture",
+          "Iceberg",
+          "Ice shelf",
+          "Ocean",
+          "Youngest layers",
+          "Individual ice layer",
+          "Oldest layers",
+          "10 000 years (250 m)",
+          "130 000 years (2 000 m)",
+          "Loose Snow (90% Air)",
+          "Granular Snow (50% Air)",
+          "Firn (20-30% Air)",
+          "Fine-grained Ice (<20% Air in bubbles)"
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "They may look like just big blocks of ice, but icebergs are full of surprises! These frozen giants float across oceans and hide most of their size underwater. Ready to dive into the chilly world of icebergs?"
+            ]
+          },
+          {
+            "heading": "How Do Icebergs Form?",
+            "paragraphs": [
+              "Icebergs begin as tiny snowflakes! Over hundreds or even thousands of years, snow builds up pressing down into thick, heavy glaciers. When a piece of that glacier breaks off and crashes into the sea, it becomes an iceberg: a giant chunk of floating ice!",
+              "But here’s the wild part: only about 10% of the iceberg floats above the water. The other 90% is hidden below, like a frozen secret!"
+            ]
+          },
+          {
+            "heading": "What Can We Learn From Icebergs?",
+            "paragraphs": [
+              "Icebergs aren’t just frozen water. They’re frozen history.",
+              "Some icebergs break off from glaciers that are thousands of years old. As snow built up long ago, it trapped tiny bubbles of air, dust, and even ash from volcanoes. Over time, that snow turned into tightly packed ice.",
+              "Scientists drill deep into glaciers to collect long tubes called ice cores: rods made of ice. These icy layers are like pages in a history book:"
+            ],
+            "bullets": [
+              "The deeper the layer, the older the air inside.",
+              "Scientists can measure gases like carbon dioxide (CO₂) to see how clean or polluted the air was.",
+              "They can even spot layers with volcanic ash, which helps them know when volcanoes erupted — even ones from thousands of years ago!"
+            ],
+            "paragraphsAfterBullets": [
+              "By studying these layers, scientists can:"
+            ],
+            "secondaryBullets": [
+              "See how Earth’s climate has changed",
+              "Compare ancient air to today’s air",
+              "Understand how fast the planet is warming"
+            ]
+          }
+        ]
+      },
+      {
+        "pageNumber": 2,
+        "pageLabel": "Image 2 — Global Distribution & Massive Scale",
+        "sections": [
+          {
+            "heading": "How Many Icebergs Are Out There?",
+            "paragraphs": [
+              "There are tens of thousands of icebergs floating in the oceans and many are bigger than cities! Most come from the icy lands of Antarctica and Greenland.",
+              "Every year, around 15,000 to 30,000 icebergs break off just from Greenland’s glaciers. In Antarctica, some icebergs are so massive they’re named and tracked by satellite. One iceberg, called A-76, was over 4,300 square kilometers (that’s bigger than Rhode Island!)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms from the visual text below. Review the part of speech, English definition, concise Korean meaning, and example sentence outside the reading.",
+    "items": [
+      {
+        "word": "iceberg",
+        "partOfSpeech": "noun",
+        "definition": "a giant chunk of floating ice that broke off from a glacier or ice shelf and floats in the sea",
+        "korean": "빙산",
+        "sentence": "A massive iceberg was spotted drifting slowly along the polar shipping route."
+      },
+      {
+        "word": "glacier",
+        "partOfSpeech": "noun",
+        "definition": "a thick, heavy mass of ice formed from snow compressed over hundreds or thousands of years",
+        "korean": "빙하",
+        "sentence": "The mountain glacier flows gradually downward, carving steep valleys into the bedrock."
+      },
+      {
+        "word": "press down",
+        "partOfSpeech": "verb phrase",
+        "definition": "to push downward with continuous, heavy weight or pressure",
+        "korean": "짓누르다, 내리누르다",
+        "sentence": "Layers of fresh winter snow press down upon the older snow beneath them."
+      },
+      {
+        "word": "break off",
+        "partOfSpeech": "verb phrase",
+        "definition": "to separate or detach from a larger main body or structure",
+        "korean": "떨어져 나가다, 분리되다",
+        "sentence": "Huge slabs of ice frequently break off from the edge of the shelf into the ocean."
+      },
+      {
+        "word": "float",
+        "partOfSpeech": "verb",
+        "definition": "to rest or move on the surface of a liquid without sinking",
+        "korean": "떠가다, 물에 뜨다",
+        "sentence": "Because solid ice is less dense than liquid sea water, frozen blocks float on the ocean."
+      },
+      {
+        "word": "hidden",
+        "partOfSpeech": "adjective",
+        "definition": "kept out of sight, concealed, or submerged underneath",
+        "korean": "숨겨진, 가려진",
+        "sentence": "A large portion of the sunken reef remained hidden just beneath the choppy waves."
+      },
+      {
+        "word": "ice core",
+        "partOfSpeech": "noun",
+        "definition": "a long tube or rod of ice collected by drilling deep into glaciers to study historical layers",
+        "korean": "빙하 코어 (얼음 기둥)",
+        "sentence": "The research team carefully stored each ice core in refrigerated containers for chemical analysis."
+      },
+      {
+        "word": "layer",
+        "partOfSpeech": "noun",
+        "definition": "a distinct sheet, band, or stratum of material lying over or under another",
+        "korean": "층, 겹",
+        "sentence": "Each visible layer in the ice sample corresponds to a distinct period of annual snowfall."
+      },
+      {
+        "word": "volcanic ash",
+        "partOfSpeech": "noun",
+        "definition": "tiny particles of pulverized rock and glass thrown into the air by an erupting volcano",
+        "korean": "화산재",
+        "sentence": "Dark volcanic ash settled onto the snowfield after the explosive eruption thousands of miles away."
+      },
+      {
+        "word": "climate",
+        "partOfSpeech": "noun",
+        "definition": "the long-term pattern of weather and atmospheric conditions of Earth or a region over many years",
+        "korean": "기후",
+        "sentence": "Studying gas concentrations in ancient ice helps scientists analyze historical shifts in Earth's climate."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of the two-page visual text?",
+    "options": [
+      "Icebergs are only beautiful objects and cannot tell scientists anything.",
+      "Icebergs form from glaciers, preserve evidence in their layers, and help scientists study Earth’s history and climate.",
+      "Every iceberg is exactly the same size and comes from Greenland.",
+      "Scientists can learn about the future only by measuring ocean waves."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "Correct! Option B accurately captures the main idea across both pages: icebergs originate from compressed glacier ice, trap historical air and particles in their layers, and enable scientists to examine past climate conditions.",
+      "incorrect": "Incorrect. Re-read both pages of the visual text. The text highlights how icebergs form from glaciers, contain historical bubbles and ash, and allow scientists to analyze Earth's climate history."
+    },
+    "explanation": "Option B is correct because the visual text combines two key themes across both pages: the physical formation, submerged nature, and scale of icebergs (glaciers, 10% visible, Greenland/Antarctica) and the scientific value of ice layers and ice cores in revealing Earth's climate history."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Read each question carefully and select the best answer based strictly on the provided visual text.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to the text, how does an iceberg form?",
+        "options": [
+          "Ocean waves freeze together overnight on the open sea surface.",
+          "Snow builds up into a glacier over hundreds or thousands of years, and a piece breaks off into the sea.",
+          "Volcanic ash mixes with saltwater and instantly solidifies into floating ice.",
+          "Satellites drop compressed cylinders of snow into polar oceans."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! Paragraph 2 explains that snow builds up over hundreds or thousands of years into thick glaciers, and when a piece breaks off and crashes into the sea, it becomes an iceberg.",
+          "incorrect": "Incorrect. Check the section 'How Do Icebergs Form?' on Page 1."
+        },
+        "explanation": "Page 1 explicitly states: 'Over hundreds or even thousands of years, snow builds up pressing down into thick, heavy glaciers. When a piece of that glacier breaks off and crashes into the sea, it becomes an iceberg: a giant chunk of floating ice!'"
+      },
+      {
+        "id": "rc2",
+        "question": "What percentage of an iceberg is said to be hidden below the water?",
+        "options": [
+          "Only about 10%",
+          "About 50%",
+          "About 90%",
+          "Exactly 100%"
+        ],
+        "correctIndex": 2,
+        "feedback": {
+          "correct": "Correct! The text states that only about 10% floats above the water while the other 90% is hidden below.",
+          "incorrect": "Incorrect. Review the paragraph discussing the 'wild part' under 'How Do Icebergs Form?' on Page 1."
+        },
+        "explanation": "Paragraph 3 states: 'only about 10% of the iceberg floats above the water. The other 90% is hidden below, like a frozen secret!'"
+      },
+      {
+        "id": "rc3",
+        "question": "What can become trapped in old glacier snow as it builds up over long periods?",
+        "options": [
+          "Tiny bubbles of air, dust, and even ash from volcanoes",
+          "Modern electronic tracking devices and metal probes",
+          "Only liquid saltwater without any atmospheric gases",
+          "Large sea creatures and coastal sediments"
+        ],
+        "correctIndex": 0,
+        "feedback": {
+          "correct": "Correct! Paragraph 5 explains that as snow built up long ago, it trapped tiny bubbles of air, dust, and even ash from volcanoes.",
+          "incorrect": "Incorrect. Check the second paragraph under 'What Can We Learn From Icebergs?' on Page 1."
+        },
+        "explanation": "The text states: 'As snow built up long ago, it trapped tiny bubbles of air, dust, and even ash from volcanoes. Over time, that snow turned into tightly packed ice.'"
+      },
+      {
+        "id": "rc4",
+        "question": "What are ice cores in this source?",
+        "options": [
+          "Floating ice chunks drifting near city harbors",
+          "Long tubes or rods of ice collected by drilling deep into glaciers",
+          "Deep ocean trenches underneath the polar ice shelves",
+          "Solid blocks of artificial ice tested in laboratories"
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! The text explicitly defines ice cores as long tubes or rods made of ice collected by drilling deep into glaciers.",
+          "incorrect": "Incorrect. Look at the definition in Paragraph 6 on Page 1."
+        },
+        "explanation": "Paragraph 6 states: 'Scientists drill deep into glaciers to collect long tubes called ice cores: rods made of ice.'"
+      },
+      {
+        "id": "rc5",
+        "question": "What can scientists learn from layers and gases like carbon dioxide (CO₂) in ice cores?",
+        "options": [
+          "The exact depth of the ocean floor under moving ships",
+          "How clean or polluted the air was and how Earth’s climate has changed",
+          "The names of prehistoric marine animals swimming in the ocean",
+          "How to prevent icebergs from breaking away from glaciers"
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! Measuring trapped gases like CO₂ allows scientists to see how clean or polluted the air was and understand how Earth's climate has changed over time.",
+          "incorrect": "Incorrect. Review the bullet points under 'What Can We Learn From Icebergs?' on Page 1."
+        },
+        "explanation": "The text states: 'Scientists can measure gases like carbon dioxide (CO₂) to see how clean or polluted the air was' and 'By studying these layers, scientists can: See how Earth’s climate has changed... Understand how fast the planet is warming.'"
+      },
+      {
+        "id": "rc6",
+        "question": "What does the second image say about iceberg numbers and size?",
+        "options": [
+          "Fewer than fifty icebergs exist in polar waters today.",
+          "Tens of thousands float in oceans, and Greenland alone produces around 15,000 to 30,000 break-offs each year.",
+          "All icebergs are smaller than city buses and melt within hours.",
+          "Icebergs only exist in Antarctica and never reach sizes larger than Rhode Island."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "Correct! Page 2 states that tens of thousands of icebergs float in oceans, with around 15,000 to 30,000 breaking off from Greenland yearly, and some Antarctic icebergs being larger than Rhode Island.",
+          "incorrect": "Incorrect. Review both paragraphs under 'How Many Icebergs Are Out There?' on Page 2."
+        },
+        "explanation": "Paragraphs 7–8 state: 'There are tens of thousands of icebergs floating in the oceans and many are bigger than cities!... Every year, around 15,000 to 30,000 icebergs break off just from Greenland’s glaciers... One iceberg, called A-76, was over 4,300 square kilometers (that’s bigger than Rhode Island!).'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer each question thoroughly using specific facts and details from the visual text. Check your response and compare it with the model answer.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "What details explain how an iceberg forms and why most of it is hidden underwater?",
+        "modelAnswer": "According to the visual text, icebergs begin as tiny snowflakes that accumulate over hundreds or thousands of years, pressing down into thick, heavy glaciers. When a section of the glacier breaks off and crashes into the sea, it becomes a floating iceberg. The source notes that only about 10% floats above the surface, while the remaining 90% is hidden beneath the water.",
+        "compareTips": "Check that your response mentions: (1) snowflakes compressing over hundreds/thousands of years into glaciers, (2) a piece breaking off into the ocean, and (3) the 10% visible / 90% underwater ratio."
+      },
+      {
+        "id": "ev2",
+        "statement": "What evidence shows that ice layers can preserve information about the past?",
+        "modelAnswer": "The text explains that ancient snow trapped tiny bubbles of air, dust, and volcanic ash as it turned into tightly packed ice. When scientists extract ice cores—long rods of ice drilled from deep inside glaciers—they can examine these distinct layers. The deeper layers hold older air, allowing researchers to measure trapped carbon dioxide (CO₂) and identify volcanic eruptions from thousands of years ago.",
+        "compareTips": "Verify that your answer cites: (1) trapped air bubbles, dust, or volcanic ash, (2) ice cores collected from glaciers, and (3) deeper layers preserving older air and historical CO₂ levels."
+      },
+      {
+        "id": "ev3",
+        "statement": "How does the second image show that icebergs can vary greatly in number and size?",
+        "modelAnswer": "The second page reports that tens of thousands of icebergs float across the oceans, many being larger than cities. Greenland alone produces approximately 15,000 to 30,000 new icebergs each year. Furthermore, in Antarctica, some are massive enough to be tracked by satellite, such as iceberg A-76, which measured over 4,300 square kilometers—an area larger than Rhode Island.",
+        "compareTips": "Ensure your answer includes: (1) tens of thousands in the oceans, (2) 15,000 to 30,000 breaking off from Greenland yearly, and (3) massive satellite-tracked icebergs like A-76 exceeding 4,300 square kilometers."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine the grammatical structures and analytical patterns below to improve your science explanation writing.",
+    "patterns": [
+      {
+        "name": "Time and Process",
+        "pattern": "Over hundreds or even thousands of years, [Subject] + [Verb] ...",
+        "explanation": "Used to describe gradual geological and atmospheric changes that unfold over extensive eras.",
+        "example": "Over hundreds or even thousands of years, snow builds up pressing down into thick, heavy glaciers."
+      },
+      {
+        "name": "Cause and Result Clauses",
+        "pattern": "When [Cause event], [Subject] becomes [Result] ...",
+        "explanation": "Connects an environmental trigger directly to its physical outcome.",
+        "example": "When a piece of that glacier breaks off and crashes into the sea, it becomes an iceberg."
+      },
+      {
+        "name": "Quantity and Approximation",
+        "pattern": "about [Number]% / around [Number] to [Number] / tens of thousands",
+        "explanation": "Enables cautious reporting of scientific estimates rather than presenting approximations as absolute figures.",
+        "example": "Around 15,000 to 30,000 icebergs break off just from Greenland’s glaciers every year."
+      },
+      {
+        "name": "Proportional Comparative Pattern",
+        "pattern": "The [Comparative adjective] the [Noun], the [Comparative adjective] the [Noun] ...",
+        "explanation": "Shows how two environmental variables change in direct relationship to each other.",
+        "example": "The deeper the layer, the older the air inside."
+      },
+      {
+        "name": "Purpose Infinitives",
+        "pattern": "[Verb phrase] + to see / to understand [Noun clause / Question word clause]",
+        "explanation": "Expresses the scientific objective or research goal behind an observational method.",
+        "example": "Scientists can measure gases like carbon dioxide (CO₂) to see how clean or polluted the air was."
+      },
+      {
+        "name": "Source Attribution & Cautious Claims",
+        "pattern": "According to the visual source, ... / The text states that ...",
+        "explanation": "Accurately attributes data to the classroom visual document rather than claiming personal certainty.",
+        "example": "According to the visual source, only about 10% of an iceberg floats above the water."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each guided writing exercise using the target language patterns and source details. Check and compare your answer with the model response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write a process sentence explaining how a glacier can become an iceberg.",
+        "modelAnswer": "Over hundreds or thousands of years, accumulated snow presses down into a thick glacier until a piece breaks off and crashes into the sea as a floating iceberg.",
+        "compareTips": "Include process markers (such as 'over thousands of years', 'presses down', or 'when... breaks off') to describe the transition from snow/glacier to iceberg."
+      },
+      {
+        "id": "wp2",
+        "question": "Combine the 10% and 90% information using while or whereas.",
+        "modelAnswer": "While only about 10% of an iceberg floats visibly above the ocean surface, approximately 90% remains hidden beneath the water.",
+        "compareTips": "Use 'while' or 'whereas' to contrast the small visible portion (about 10%) with the submerged majority (about 90%)."
+      },
+      {
+        "id": "wp3",
+        "question": "Write an evidence sentence about air, dust or volcanic ash in ice layers.",
+        "modelAnswer": "As ancient snow turned into tightly packed ice, it trapped bubbles of air, dust, and volcanic ash that reveal when historical eruptions occurred.",
+        "compareTips": "Mention what is trapped (air bubbles, dust, or volcanic ash) and how it preserves historical evidence."
+      },
+      {
+        "id": "wp4",
+        "question": "Write a cautious conclusion explaining why ice cores can help scientists understand climate change.",
+        "modelAnswer": "By measuring ancient gases like carbon dioxide in ice cores, scientists can cautiously evaluate how Earth’s climate changed over time and how fast the planet is currently warming.",
+        "compareTips": "Use cautious language (such as 'can help', 'evaluate', or 'suggest') connecting ice-core gas measurements to climate change."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "prompt": "How can icebergs and ice cores help us understand Earth’s history and climate? Write an evidence-based explanation paragraph of 100–140 words. Explain how icebergs form, use at least three accurate details from the visual source, describe one kind of evidence preserved in ice, and end with a cautious statement about what scientists can learn.",
+    "checklist": [
+      "Clear controlling idea introducing icebergs and historical climate evidence",
+      "Accurate formation explanation describing snow compression and breaking off",
+      "At least three exact details from the visual source (e.g., 10%/90%, timeframes, Greenland/Antarctica figures)",
+      "At least one specific kind of evidence preserved in ice (air bubbles, CO₂, or volcanic ash)",
+      "Clear connection between ice-core layers and Earth's climate history",
+      "Accurate evidence-reporting phrase (e.g., 'According to the visual source...')",
+      "Cautious language for interpretation (e.g., 'suggests', 'helps evaluate', 'can indicate')",
+      "Logical concluding sentence summarizing scientific learning",
+      "Word count strictly between 100 and 140 words"
+    ],
+    "modelAnswer": "Icebergs begin as tiny snowflakes that compress over hundreds or thousands of years into thick, heavy glaciers. When a section of a glacier breaks off and crashes into the ocean, it becomes a floating iceberg with only about 10% visible above water while 90% remains hidden. According to the visual source, these frozen giants preserve valuable history because ancient ice trapped tiny bubbles of air, dust, and volcanic ash. By drilling cylindrical ice cores deep into glaciers, scientists can measure historical gases such as carbon dioxide (CO₂) within the sequential layers. Consequently, these preserved samples enable researchers to cautiously evaluate historical atmospheric patterns, compare ancient air with modern conditions, and better understand how rapidly the global climate is warming."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your written paragraph against the checklist below before submitting your work.",
+    "items": [
+      "I explained how snow compresses into a glacier and breaks off into an iceberg.",
+      "I cited at least three specific details from the visual source (e.g., 10%/90%, timeframes, Greenland/Antarctica).",
+      "I clearly described one type of evidence preserved in ice (air bubbles, CO₂, or volcanic ash).",
+      "I explained how ice cores connect to understanding Earth's climate history.",
+      "I used cautious reporting expressions (such as 'suggests', 'indicates', or 'can help evaluate').",
+      "My paragraph is organized with a clear topic sentence, supporting evidence, and a conclusion within 100–140 words."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "B — Icebergs form from glaciers, preserve evidence in their layers, and help scientists study Earth’s history and climate.",
+      "readingComprehension": {
+        "rc1": "B — Snow builds up into a glacier over hundreds or thousands of years, and a piece breaks off into the sea.",
+        "rc2": "C — About 90%",
+        "rc3": "A — Tiny bubbles of air, dust, and even ash from volcanoes",
+        "rc4": "B — Long tubes or rods of ice collected by drilling deep into glaciers",
+        "rc5": "B — How clean or polluted the air was and how Earth’s climate has changed",
+        "rc6": "B — Tens of thousands float in oceans, and Greenland alone produces around 15,000 to 30,000 break-offs each year."
+      },
+      "evidenceFromText": {
+        "ev1": "Snowflakes accumulate over hundreds or thousands of years to form thick glaciers, which calve into the sea; only about 10% floats above water while 90% is submerged.",
+        "ev2": "Ancient snow trapped air bubbles, dust, and volcanic ash; drilling ice cores allows measurement of past CO₂ levels and dating of volcanic eruptions.",
+        "ev3": "Tens of thousands of icebergs float in oceans, Greenland produces 15,000–30,000 annually, and satellite-tracked icebergs like A-76 exceed 4,300 km²."
+      },
+      "writingPractice": {
+        "wp1": "Over hundreds or thousands of years, accumulated snow presses down into a thick glacier until a piece breaks off and crashes into the sea as a floating iceberg.",
+        "wp2": "While only about 10% of an iceberg floats visibly above the ocean surface, approximately 90% remains hidden beneath the water.",
+        "wp3": "As ancient snow turned into tightly packed ice, it trapped bubbles of air, dust, and volcanic ash that reveal when historical eruptions occurred.",
+        "wp4": "By measuring ancient gases like carbon dioxide in ice cores, scientists can cautiously evaluate how Earth’s climate changed over time and how fast the planet is currently warming."
+      }
+    },
+    "modelAnswer": "Icebergs begin as tiny snowflakes that compress over hundreds or thousands of years into thick, heavy glaciers. When a section of a glacier breaks off and crashes into the ocean, it becomes a floating iceberg with only about 10% visible above water while 90% remains hidden. According to the visual source, these frozen giants preserve valuable history because ancient ice trapped tiny bubbles of air, dust, and volcanic ash. By drilling cylindrical ice cores deep into glaciers, scientists can measure historical gases such as carbon dioxide (CO₂) within the sequential layers. Consequently, these preserved samples enable researchers to cautiously evaluate historical atmospheric patterns, compare ancient air with modern conditions, and better understand how rapidly the global climate is warming.",
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "criterion": "Content & Ideas",
+        "excellent": "Thoroughly explains iceberg formation, identifies trapped atmospheric evidence, and makes a cautious, thoughtful connection to climate science using rich source details.",
+        "developing": "Explains iceberg formation and mentions ice core evidence, but details may be general or the climate connection partially developed.",
+        "beginning": "Struggles to clearly explain formation or historical evidence; relies on incomplete or inaccurate source details."
+      },
+      {
+        "category": "Evidence Use",
+        "criterion": "Evidence Use",
+        "excellent": "Accurately integrates at least three specific source details (e.g., 10%/90%, timeframes, Greenland/Antarctica scale) and describes ice-core evidence with precision.",
+        "developing": "Includes two accurate source details; references evidence but may describe it somewhat vaguely without citing specific gases or particles.",
+        "beginning": "Cites fewer than two source details or misstates numbers and percentages from the visual text."
+      },
+      {
+        "category": "Target Language/Structure",
+        "criterion": "Target Language/Structure",
+        "excellent": "Skillfully employs process clauses ('Over hundreds of years...', 'When... breaks off'), contrast markers ('while/whereas'), and cautious attribution phrases ('According to the visual...').",
+        "developing": "Attempts process and comparative patterns with minor grammatical slips; attribution or cautious language is present but repetitive.",
+        "beginning": "Lacks clear process or comparative structures; writes fragmented sentences without appropriate scientific reporting markers."
+      },
+      {
+        "category": "Organization",
+        "criterion": "Organization",
+        "excellent": "Exhibits a seamless logical progression from formation to preserved evidence and scientific conclusions; transitions are smooth and natural.",
+        "developing": "Follows a recognizable paragraph structure with topic, body, and conclusion, though transitions between formation and evidence may be abrupt.",
+        "beginning": "Lacks paragraph coherence; ideas jump randomly between iceberg size, formation, and climate without a logical sequence."
+      },
+      {
+        "category": "Accuracy",
+        "criterion": "Accuracy",
+        "excellent": "Maintains high grammatical and lexical accuracy; correctly reproduces chemical notations (CO₂) and numerical figures within 100–140 words.",
+        "developing": "Minor errors in verb tenses, prepositions, or singular/plural agreements that do not impede overall comprehension.",
+        "beginning": "Frequent errors in sentence boundaries, word order, or numerical data that obscure scientific meaning."
+      }
+    ],
+    "teacherNotes": [
+      "1. Visual Source Layout: The lesson is based on two teacher-provided classroom visual text images. Image 1 covers iceberg formation, submerged volume, and ice core evidence. Image 2 covers global distribution and massive scale.",
+      "2. Locked Source Fidelity: All 320 main prose and list words, 3 headings, and 14 visual labels are preserved verbatim. No external publications, URLs, or invented authors are added.",
+      "3. The 10% / 90% Principle: Emphasize the physical reality of iceberg buoyancy—roughly 10% above water and 90% submerged—which illustrates why icebergs are described as 'hiding most of their size underwater.'",
+      "4. Glacial Time Scales: Highlight the immense duration ('hundreds or even thousands of years') required for fluffy snowflakes to compress under pressure into solid glacial ice.",
+      "5. Ice Cores as Historical Archives: Teach students the metaphor 'pages in a history book'—each annual layer represents a snapshot of past atmospheric conditions and volcanic activity.",
+      "6. Chemical Notation CO₂: Ensure students understand that carbon dioxide is denoted as CO₂, representing ancient atmospheric gas trapped in pressurized ice bubbles.",
+      "7. Volcanic Ash Layers: Explain that distinct dark ash bands serve as geological time markers, enabling scientists to date major eruptions thousands of years ago.",
+      "8. Geographic Origins: Reinforce that the primary sources of ocean icebergs are Antarctica and Greenland, with Greenland releasing 15,000–30,000 icebergs annually.",
+      "9. Distinguishing Source Claims from Universal Truths: Students should recognize that figures like 'A-76 was over 4,300 square kilometers' are specific historical observations reported in the source.",
+      "10. ESL Scaffolding for G1/G2 Learners: Provide sentence frames for process explanation and contrast ('While X floats, Y is hidden') to support developing bilingual writers.",
+      "11. Respectful Climate Discourse: Encourage cautious scientific interpretations—highlighting that ice cores allow scientists to 'understand how fast the planet is warming' without sensationalism."
+    ],
+    "teachingScript": [
+      {
+        "phase": "A. Opening & Lesson Goal",
+        "duration": "5 minutes",
+        "objective": "Activate curiosity about icebergs and establish the 90-minute learning target.",
+        "actions": [
+          "Display the title 'Icebergs: Frozen Giants with Stories to Tell' on the board.",
+          "State the lesson goal clearly in English and Korean.",
+          "Check students' readiness to explore polar science concepts."
+        ],
+        "teacherTalk": "Welcome class! Today we explore 'Icebergs: Frozen Giants with Stories to Tell.' Our goal today is to explain how icebergs form, how ice cores preserve ancient Earth history, and write an evidence-based paragraph.",
+        "script": "Teacher: 'Good morning everyone! Take a look at our title today: Icebergs: Frozen Giants with Stories to Tell. (안녕하세요 여러분! 오늘 우리는 '빙산: 이야기를 간직한 얼음 거인들'을 공부합니다.) Today we will discover how snowflakes turn into giant floating icebergs and how ancient air bubbles help scientists study Earth's climate history. By the end of our 90 minutes, you will write a complete science explanation paragraph.'",
+        "studentActions": "Listen attentively, open their student interface, and write down the lesson goal.",
+        "misconception": "Students might assume icebergs are just frozen seawater formed directly from freezing waves.",
+        "feedback": "Remind students that icebergs originate from compressed land snow on glaciers, not frozen salty seawater.",
+        "transition": "Now, let's explore what you already know in our Warm-up discussion."
+      },
+      {
+        "phase": "B. Warm-up Discussion",
+        "duration": "10 minutes",
+        "objective": "Engage prior knowledge on polar environments, glaciers, and historical evidence.",
+        "actions": [
+          "Direct students to the 3 warm-up prompts.",
+          "Facilitate pair sharing for 4 minutes.",
+          "Elicit responses from 3–4 student volunteers."
+        ],
+        "teacherTalk": "Look at the three warm-up questions. Turn to your partner and share what you know about Antarctica, why ice might trap old information, and how scientists use evidence.",
+        "script": "Teacher: 'Let's look at Warm-up Question 2: Why might ice contain information about the past? (왜 얼음이 과거에 대한 정보를 담고 있을 수 있을까요?) Think about what falls from the sky and gets trapped under heavy snow. Partner A, share with Partner B for two minutes!'",
+        "studentActions": "Discuss the three questions in pairs and formulate brief verbal responses.",
+        "misconception": "Students may think ice melts and refreezes every year, destroying any historical records.",
+        "feedback": "Explain that in polar glaciers, cold temperatures allow ice layers to accumulate continuously without melting for thousands of years.",
+        "transition": "Let's master the 10 essential scientific vocabulary words we will encounter in the text."
+      },
+      {
+        "phase": "C. Vocabulary in Context",
+        "duration": "12 minutes",
+        "objective": "Build precise scientific vocabulary needed for comprehension and writing.",
+        "actions": [
+          "Present the 10 target vocabulary words with definitions and Korean meanings.",
+          "Model correct pronunciation and intonation.",
+          "Have students read example sentences aloud."
+        ],
+        "teacherTalk": "We have 10 key terms today: iceberg, glacier, press down, break off, float, hidden, ice core, layer, volcanic ash, and climate. Notice that 'ice core' is a long rod of ice collected by drilling deep into a glacier.",
+        "script": "Teacher: 'Repeat after me: ice core / a long tube of ice / drilled from a glacier. (빙하 코어는 빙하 깊은 곳을 시추하여 수집한 긴 얼음 원통입니다.) When snow presses down over thousands of years, it traps air bubbles. This is how ice cores become frozen history books.'",
+        "studentActions": "Chant vocabulary terms, highlight key affixes, and review sample sentences.",
+        "misconception": "Students might confuse 'iceberg' (floating chunk) with 'glacier' (massive land ice sheet).",
+        "feedback": "Clarify that a glacier rests on land, whereas an iceberg has broken off and floats in the ocean.",
+        "transition": "Now we are ready for our first reading of the visual text to grasp the main idea."
+      },
+      {
+        "phase": "D. First Reading & Main Idea",
+        "duration": "10 minutes",
+        "objective": "Read the visual text for overall gist and complete the Main Idea MCQ.",
+        "actions": [
+          "Guide students through a silent reading of Page 1 and Page 2.",
+          "Prompt students to complete the Main Idea question independently.",
+          "Review the correct answer and discuss why distractors are incorrect."
+        ],
+        "teacherTalk": "Read both pages silently. Look at the headings: 'How Do Icebergs Form?', 'What Can We Learn From Icebergs?', and 'How Many Icebergs Are Out There?'. Then select the best main idea.",
+        "script": "Teacher: 'What is the controlling message of this two-page text? Look at Option B: It connects formation, ice core evidence, and climate study. That matches both pages perfectly!'",
+        "studentActions": "Read the two pages silently, select option B for the Main Idea, and read the explanatory feedback.",
+        "misconception": "Students might select Option C thinking all icebergs originate solely from Greenland.",
+        "feedback": "Point out Page 2, which clearly states icebergs also come from Antarctica and vary greatly in size.",
+        "transition": "Let's examine each section in depth to extract precise scientific evidence."
+      },
+      {
+        "phase": "E. Detailed Evidence Reading",
+        "duration": "18 minutes",
+        "objective": "Complete 6 Reading Comprehension MCQs and formulate 3 Evidence written responses.",
+        "actions": [
+          "Guide students through the 6 comprehension questions with precise text references.",
+          "Instruct students to draft written answers for Evidence Prompts 1, 2, and 3.",
+          "Demonstrate using 'Check & Compare' to evaluate draft responses."
+        ],
+        "teacherTalk": "Now answer the 6 comprehension questions. For the Evidence section, write complete sentences quoting or paraphrasing details like the 10%/90% ratio, trapped CO₂, and iceberg A-76.",
+        "script": "Teacher: 'For Evidence Question 1, make sure you mention two things: how snow turns into a glacier over hundreds or thousands of years, and the 10%/90% floating proportion. Use the Check & Compare button to see the model answer!'",
+        "studentActions": "Complete RC1–RC6, draft written responses for EV1–EV3, and compare their answers with model tips.",
+        "misconception": "Students might forget to include the underwater 90% portion when explaining iceberg size.",
+        "feedback": "Prompt students to re-check the 'wild part' paragraph on Page 1.",
+        "transition": "Let's turn to Language Focus to master sentence structures that elevate our scientific writing."
+      },
+      {
+        "phase": "F. Language Focus",
+        "duration": "12 minutes",
+        "objective": "Analyze and practice key syntactic patterns: time/process, contrast, and cautious attribution.",
+        "actions": [
+          "Deconstruct the 6 target language patterns on the board.",
+          "Model how to combine clauses using 'while/whereas'.",
+          "Conduct quick choral drills on proportional comparative: 'The deeper the layer, the older the air.'"
+        ],
+        "teacherTalk": "Notice how scientists express proportional relationships: 'The deeper the layer, the older the air inside.' Notice also how we report numbers cautiously using 'around' and 'about.'",
+        "script": "Teacher: 'Let's practice the proportional comparative: The deeper the layer / the older the air inside. (층이 더 깊을수록 / 그 안의 공기는 더 오래되었습니다.) This pattern shows a direct cause-and-effect relationship in ice core stratigraphy.'",
+        "studentActions": "Identify patterns in the text, take notes on sentence frames, and practice oral transformations.",
+        "misconception": "Students often write 'The deeper layer is older' instead of using the paired correlative 'The deeper..., the older...'.",
+        "feedback": "Reinforce the double comparative structure: 'The + comparative, the + comparative.'",
+        "transition": "Now let's apply these sentence patterns in our guided Writing Practice."
+      },
+      {
+        "phase": "G. Writing Practice & Final Task",
+        "duration": "18 minutes",
+        "objective": "Complete 4 Writing Practice items and construct a 100–140 word evidence-based science explanation paragraph.",
+        "actions": [
+          "Monitor students as they complete Writing Practice 1–4.",
+          "Review the Final Writing Task checklist and prompt criteria.",
+          "Provide individual feedback and enforce the 100–140 word requirement."
+        ],
+        "teacherTalk": "Complete Writing Practice 1 through 4. Then begin your Final Writing Task. Your paragraph must be 100 to 140 words, explain formation, cite three source details, describe ice evidence, and conclude cautiously.",
+        "script": "Teacher: 'Keep your eye on the live word count! Aim for about 120 words. Make sure you use cautious language like 'helps scientists understand' rather than declaring absolute certainty.'",
+        "studentActions": "Draft WP1–WP4, write their final explanation paragraph, check word count, and run the Writing Check tool.",
+        "misconception": "Students might write fewer than 100 words or omit the connection between ice cores and climate change.",
+        "feedback": "Encourage students to expand by explaining what trapped CO₂ and volcanic ash tell researchers about ancient air.",
+        "transition": "Let's finalize our work with Self-Check and submit our responses."
+      },
+      {
+        "phase": "H. Review, Exit & Submission",
+        "duration": "5 minutes",
+        "objective": "Review the 6-point checklist, confirm complete work, and submit the lesson.",
+        "actions": [
+          "Direct students to check off all 6 Self-Check items.",
+          "Ensure student name and student code are filled in.",
+          "Verify successful submission status in the system."
+        ],
+        "teacherTalk": "Check all six items in your Self-Check list. When ready, enter your name and student code, and click Submit. Excellent job exploring Earth's frozen giants today!",
+        "script": "Teacher: 'Before clicking submit, confirm: Did you explain formation? Did you mention CO₂ or ash? Is your word count between 100 and 140? Click submit now! (제출 버튼을 누르기 전 6가지 자가 점검 항목을 확인하세요.) Great work today, class!'",
+        "studentActions": "Check off the 6 Self-Check criteria, input their identification, and submit their lesson work.",
+        "misconception": "Students might submit without reviewing the checklist or checking their word count.",
+        "feedback": "Remind students that the rule-based writing check gives immediate feedback on paragraph structure.",
+        "transition": "Class dismissed! Next lesson we will explore another exciting environmental science feature."
+      }
+    ],
+    "teacherReadingGuide": {
+      "openingScript": [
+        {
+          "english": "Good morning class! / Today we are going to explore / one of nature’s most mysterious wonders: / icebergs and ice cores.",
+          "korean": "좋은 아침입니다 여러분! / 오늘 우리는 / 자연의 가장 신비로운 경이 중 하나인 / 빙산과 빙하 코어를 탐구할 것입니다.",
+          "teachingPurpose": "Warmly welcome students and establish the polar science theme."
+        },
+        {
+          "english": "Did you know / that these giant floating blocks of ice / actually hold ancient secrets / about Earth’s climate history?",
+          "korean": "여러분은 알고 계셨나요 / 이 거대한 떠다니는 얼음 덩어리들이 / 실제로는 지구의 기후 역사에 대한 / 고대의 비밀들을 간직하고 있다는 것을?",
+          "teachingPurpose": "Pique student curiosity by framing icebergs as carriers of historical secrets."
+        },
+        {
+          "english": "By studying tiny trapped air bubbles / from thousands of years ago, / scientists can see / how our planet is changing today.",
+          "korean": "수천 년 전의 / 갇힌 미세한 공기 방울들을 연구함으로써, / 과학자들은 / 오늘날 우리 지구가 어떻게 변하고 있는지 알 수 있습니다.",
+          "teachingPurpose": "Explicitly connect the visual reading to modern climate science and analysis."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "question": "What do you already know about icebergs, glaciers or Antarctica?",
+          "korean": "빙산, 빙하 또는 남극에 대해 이미 알고 있는 것은 무엇인가요?",
+          "teacherFollowUp": "Can anyone describe where icebergs come from? Do they freeze directly on the ocean surface, or do they start somewhere else?",
+          "teacherFollowUpKorean": "빙산이 어디에서 오는지 설명해 줄 사람 있나요? 바다 표면에서 바로 얼어붙는 것일까요, 아니면 다른 곳에서 시작되는 것일까요?",
+          "usefulLanguage": "ice shelf, polar region, freezing temperatures, massive ice sheet",
+          "caution": "Do not require advanced technical geography; accept all observations about cold temperatures and floating ice.",
+          "purpose": "Activate prior schemata regarding polar environments and glacial formations."
+        },
+        {
+          "question": "Why might ice contain information about the past?",
+          "korean": "왜 얼음이 과거에 대한 정보를 담고 있을 수 있을까요?",
+          "teacherFollowUp": "When snow falls year after year without melting, what happens to the air and particles between the snowflakes?",
+          "teacherFollowUpKorean": "눈이 녹지 않고 해마다 계속 쌓이면, 눈송이 사이의 공기와 입자들에는 어떤 일이 일어날까요?",
+          "usefulLanguage": "trapped bubbles, compressed layers, preserved evidence, time capsule",
+          "caution": "Ensure students distinguish temporary winter snow from multi-thousand-year glacial ice.",
+          "purpose": "Guide students toward understanding ice layers as stratified chronological archives."
+        },
+        {
+          "question": "How can scientists use evidence to learn about changes on Earth?",
+          "korean": "과학자들은 지구의 변화에 대해 배우기 위해 어떻게 증거를 활용할 수 있을까요?",
+          "teacherFollowUp": "If scientists find ancient air trapped in ice, how can comparing it to today’s air help us understand climate change?",
+          "teacherFollowUpKorean": "만약 과학자들이 얼음 속에 갇힌 고대 공기를 발견한다면, 그것을 오늘날의 공기와 비교하는 것이 기후 변화를 이해하는 데 어떻게 도움이 될까요?",
+          "usefulLanguage": "compare and contrast, chemical analysis, carbon dioxide, global warming",
+          "caution": "Keep discussion grounded in empirical observation rather than emotional debate.",
+          "purpose": "Establish evidence-based reasoning as the core methodology for the writing task."
+        }
+      ],
+      "sentences": [
+        {
+          "sentenceNumber": 1,
+          "original": "They may look like just big blocks of ice, but icebergs are full of surprises!",
+          "chunkReading": "They may look like / just big blocks of ice, / but icebergs / are full of surprises!",
+          "directKorean": "그것들은 단지 거대한 얼음 덩어리처럼 보일지도 모르지만, / 그러나 빙산들은 / 놀라움으로 가득 차 있습니다!",
+          "naturalKorean": "빙산은 그저 거대한 얼음 덩어리처럼 보일지 모르지만, 사실 놀라운 비밀들로 가득 차 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "look like",
+              "meaning": "~처럼 보이다",
+              "use": "describing external appearance",
+              "example": "The distant cloud looked like a mountain peak."
+            },
+            {
+              "chunk": "full of surprises",
+              "meaning": "놀라움으로 가득 찬",
+              "use": "highlighting unexpected facts",
+              "example": "Nature is always full of surprises."
+            }
+          ],
+          "mustKnowGrammar": "Modal of concession 'may look like' followed by the coordinating contrast conjunction 'but'.",
+          "feynmanExplanation": "Icebergs seem simple from far away. / They look like plain frozen rocks in water. / But scientists discover amazing hidden facts inside them! / They are not just frozen cubes.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the opening sentence: 'They may look like just big blocks of ice...'",
+              "korean": "첫 문장을 보세요: '그것들은 그저 큰 얼음 덩어리처럼 보일지 모르지만...'"
+            },
+            {
+              "english": "What word signals the contrast here? Yes, 'but' introduces that icebergs are full of surprises!",
+              "korean": "여기서 대조를 나타내는 단어는 무엇일까요? 맞습니다, 'but'이 빙산이 놀라움으로 가득하다는 점을 소개합니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "These frozen giants float across oceans and hide most of their size underwater.",
+          "chunkReading": "These frozen giants / float across oceans / and hide / most of their size / underwater.",
+          "directKorean": "이 얼어붙은 거인들은 / 대양을 건너 떠다니며 / 숨깁니다 / 그들 크기의 대부분을 / 물속에.",
+          "naturalKorean": "이 얼어붙은 거인들은 바다를 가로질러 떠다니며 크기의 대부분을 물속에 숨기고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "frozen giants",
+              "meaning": "얼어붙은 거인들 (빙산의 비유)",
+              "use": "metaphorical noun phrase",
+              "example": "These frozen giants drift quietly through polar waters."
+            },
+            {
+              "chunk": "float across",
+              "meaning": "~를 가로질러 떠다니다",
+              "use": "directional movement",
+              "example": "Ships watch for ice chunks floating across the sea."
+            }
+          ],
+          "mustKnowGrammar": "Compound predicate with parallel present-tense verbs: 'float across... and hide...'.",
+          "feynmanExplanation": "Think of icebergs as floating giants. / They drift through cold ocean waters. / You only see a tiny part on top. / The huge body stays hidden deep below!",
+          "teachingTranscript": [
+            {
+              "english": "The author calls icebergs 'frozen giants.' That's a vivid metaphor!",
+              "korean": "작가는 빙산을 '얼어붙은 거인들'이라고 부릅니다. 아주 생생한 은유 표현이죠!"
+            },
+            {
+              "english": "Where is most of their size located? Exactly, hidden underwater.",
+              "korean": "빙산 크기의 대부분은 어디에 위치해 있나요? 맞습니다, 물속에 숨겨져 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Ready to dive into the chilly world of icebergs?",
+          "chunkReading": "Ready / to dive into / the chilly world of icebergs?",
+          "directKorean": "준비되셨나요 / 뛰어들 / 빙산의 차가운 세상으로?",
+          "naturalKorean": "빙산의 차가운 세계로 뛰어들 준비가 되셨나요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "dive into",
+              "meaning": "~로 뛰어들다, 본격적으로 탐구하다",
+              "use": "idiomatic engagement",
+              "example": "Let's dive into our science lesson today."
+            },
+            {
+              "chunk": "chilly world",
+              "meaning": "차가운 세계",
+              "use": "descriptive imagery",
+              "example": "Penguins thrive in the chilly world of the Antarctic."
+            }
+          ],
+          "mustKnowGrammar": "Elliptical rhetorical question omitting 'Are you' before the adjective 'Ready'.",
+          "feynmanExplanation": "The author asks an inviting question. / 'Dive into' means to start exploring eagerly. / It encourages readers to learn more about icebergs. / Let's explore together!",
+          "teachingTranscript": [
+            {
+              "english": "Notice this informal conversational question: 'Ready to dive into...'",
+              "korean": "이 대화체 질문에 주목하세요: '뛰어들 준비가 되셨나요...'"
+            },
+            {
+              "english": "It directly hooks the reader before explaining the science of iceberg formation.",
+              "korean": "빙산 형성의 과학을 설명하기 전에 독자의 흥미를 직접적으로 유도합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Icebergs begin as tiny snowflakes!",
+          "chunkReading": "Icebergs begin / as tiny snowflakes!",
+          "directKorean": "빙산은 시작됩니다 / 아주 작은 눈송이들로서!",
+          "naturalKorean": "빙산은 아주 작은 눈송이에서 시작됩니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "begin as",
+              "meaning": "~(으)로서 시작되다",
+              "use": "indicating origins",
+              "example": "Mighty rivers often begin as tiny mountain streams."
+            },
+            {
+              "chunk": "tiny snowflakes",
+              "meaning": "아주 작은 눈송이들",
+              "use": "contrast between tiny start and massive result",
+              "example": "Individual tiny snowflakes gathered to blanket the ground."
+            }
+          ],
+          "mustKnowGrammar": "Simple present statement with preposition 'as' denoting initial form or role.",
+          "feynmanExplanation": "Even huge icebergs start very small. / They do not start as big ice cubes. / They start as light, soft snowflakes falling from the sky. / Each tiny snowflake adds up over time.",
+          "teachingTranscript": [
+            {
+              "english": "This is a surprising contrast: giant icebergs begin as tiny snowflakes!",
+              "korean": "아주 놀라운 대조입니다. 거대한 빙산이 아주 작은 눈송이에서 시작된다니요!"
+            },
+            {
+              "english": "How can tiny, delicate flakes become a giant chunk of rock-hard ice?",
+              "korean": "어떻게 작고 연약한 눈송이가 바위처럼 단단한 거대한 얼음 덩어리가 될 수 있을까요?"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Over hundreds or even thousands of years, snow builds up pressing down into thick, heavy glaciers.",
+          "chunkReading": "Over hundreds / or even thousands of years, / snow builds up / pressing down / into thick, heavy glaciers.",
+          "directKorean": "수백 년 / 혹은 심지어 수천 년에 걸쳐, / 눈이 쌓이고 / 아래로 짓누르며 / 두껍고 무거운 빙하가 됩니다.",
+          "naturalKorean": "수백 년 혹은 수천 년에 걸쳐 눈이 쌓이고 아래로 짓눌리면서 두껍고 무거운 빙하가 됩니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "builds up",
+              "meaning": "점점 쌓이다, 축적되다",
+              "use": "gradual accumulation",
+              "example": "Dust builds up quickly on uncleaned shelves."
+            },
+            {
+              "chunk": "pressing down",
+              "meaning": "아래로 짓누르며 (분사구문)",
+              "use": "compression mechanism",
+              "example": "Heavy weights pressing down squeezed out the liquid."
+            }
+          ],
+          "mustKnowGrammar": "Present participle participial clause 'pressing down into...' expressing the simultaneous compressing action of accumulating snow.",
+          "feynmanExplanation": "Snow falls on top of older snow year after year. / Over hundreds or thousands of years, the weight becomes huge. / This weight presses all the air out. / The fluffy snow turns into solid, heavy glacier ice.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the time phrase: 'Over hundreds or even thousands of years...'",
+              "korean": "시간 표현을 보세요: '수백 년 혹은 심지어 수천 년에 걸쳐...'"
+            },
+            {
+              "english": "The participle 'pressing down' describes how gravity and weight transform soft snow into glaciers.",
+              "korean": "현재분사 'pressing down'은 중력과 무게가 어떻게 부드러운 눈을 빙하로 변형시키는지를 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "When a piece of that glacier breaks off and crashes into the sea, it becomes an iceberg: a giant chunk of floating ice!",
+          "chunkReading": "When a piece of that glacier / breaks off / and crashes into the sea, / it becomes an iceberg: / a giant chunk / of floating ice!",
+          "directKorean": "그 빙하의 한 조각이 / 떨어져 나가 / 바다로 부서져 떨어질 때, / 그것은 빙산이 됩니다: / 거대한 덩어리인 / 떠다니는 얼음의!",
+          "naturalKorean": "그 빙하의 한 조각이 떨어져 나와 바다로 쿵 하고 떨어지면, 물에 떠다니는 거대한 얼음 덩어리인 빙산이 됩니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "breaks off",
+              "meaning": "떨어져 나가다, 분리되다",
+              "use": "calving process",
+              "example": "A huge section of rock broke off from the cliff."
+            },
+            {
+              "chunk": "crashes into",
+              "meaning": "~로 요란하게 떨어지다/충돌하다",
+              "use": "dramatic physical action",
+              "example": "Ocean waves crash into the rocky coastline."
+            }
+          ],
+          "mustKnowGrammar": "Adverbial time clause introduced by 'When' with compound verbs 'breaks off and crashes', followed by colon introducing an appositive noun phrase.",
+          "feynmanExplanation": "The heavy glacier slowly pushes toward the ocean. / Eventually, a huge piece cracks and falls off. / It crashes into the salty ocean water with a splash. / That floating piece is what we call an iceberg!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the colon after 'an iceberg:' what follows explains what an iceberg is: 'a giant chunk of floating ice!'",
+              "korean": "'an iceberg:' 뒤의 콜론에 주목하세요. 뒤따르는 어구가 빙산의 정의인 '떠다니는 거대한 얼음 덩어리'를 설명합니다!"
+            },
+            {
+              "english": "So remember: an iceberg is born when glacier ice breaks off and floats in the sea.",
+              "korean": "따라서 기억하세요: 빙하는 바다로 떨어져 나가 떠다닐 때 비로소 빙산이 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "But here’s the wild part: only about 10% of the iceberg floats above the water.",
+          "chunkReading": "But here’s the wild part: / only about 10% / of the iceberg / floats above the water.",
+          "directKorean": "하지만 여기에 놀라운 부분이 있습니다: / 단지 약 10%만이 / 그 빙산의 / 물 위에 뜹니다.",
+          "naturalKorean": "하지만 놀라운 점은 빙산의 약 10%만이 물 위에 떠 있다는 사실입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "the wild part",
+              "meaning": "놀라운/신기한 부분",
+              "use": "informal emphasis",
+              "example": "Here is the wild part of the experiment."
+            },
+            {
+              "chunk": "floats above",
+              "meaning": "~ 위에 떠 있다",
+              "use": "positional description",
+              "example": "A bright yellow buoy floats above the shallow reef."
+            }
+          ],
+          "mustKnowGrammar": "Catenative presentation 'here’s [Noun]:' followed by percent subject 'only about 10% of the iceberg' taking singular verb 'floats'.",
+          "feynmanExplanation": "Here is the most famous iceberg rule. / Look at a floating iceberg from a boat. / You only see a tiny fraction—about one-tenth of it. / The rest is not in the air.",
+          "teachingTranscript": [
+            {
+              "english": "Why does the author say 'here’s the wild part'?",
+              "korean": "작가는 왜 '여기에 놀라운 부분이 있습니다'라고 말했을까요?"
+            },
+            {
+              "english": "Because seeing only 10% means what you see is just a tiny fraction of reality!",
+              "korean": "10%만 보인다는 것은 우리가 보는 것이 실제의 아주 작은 일부에 불과하다는 뜻이기 때문입니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "The other 90% is hidden below, like a frozen secret!",
+          "chunkReading": "The other 90% / is hidden below, / like a frozen secret!",
+          "directKorean": "나머지 90%는 / 아래에 숨겨져 있습니다, / 얼어붙은 비밀처럼!",
+          "naturalKorean": "나머지 90%는 얼어붙은 비밀처럼 물 아래에 숨겨져 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "the other 90%",
+              "meaning": "나머지 90%",
+              "use": "complementary portion",
+              "example": "One part was finished, but the other 90% needed work."
+            },
+            {
+              "chunk": "is hidden below",
+              "meaning": "아래에 숨겨져 있다 (수동태)",
+              "use": "passive location state",
+              "example": "The treasure chest is hidden below the floorboards."
+            }
+          ],
+          "mustKnowGrammar": "Passive voice 'is hidden' combined with comparative simile preposition 'like a frozen secret!'.",
+          "feynmanExplanation": "Almost all of the iceberg is underwater. / Nine out of ten parts stay submerged. / It hides beneath the waves where you cannot easily see it. / That is why ships must be very cautious!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the simile 'like a frozen secret!' What does it convey?",
+              "korean": "'얼어붙은 비밀처럼'이라는 직유 표현에 주목하세요. 무엇을 전달하나요?"
+            },
+            {
+              "english": "It emphasizes that the underwater part is vast, mysterious, and unseen from the surface.",
+              "korean": "수중 부분이 거대하고 신비로우며 수면 위에서는 보이지 않는다는 점을 강조합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "Icebergs aren’t just frozen water.",
+          "chunkReading": "Icebergs aren’t / just frozen water.",
+          "directKorean": "빙산은 아닙니다 / 단지 얼어붙은 물이.",
+          "naturalKorean": "빙산은 그저 얼어붙은 물에 불과한 것이 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "aren’t just",
+              "meaning": "단지 ~에 불과한 것이 아니다",
+              "use": "rejecting a simplistic view",
+              "example": "Books aren't just paper; they are gateways to new ideas."
+            },
+            {
+              "chunk": "frozen water",
+              "meaning": "얼어붙은 물",
+              "use": "basic physical description",
+              "example": "Ice cubes in your drink are simply frozen water."
+            }
+          ],
+          "mustKnowGrammar": "Negative copular clause with restrictive adverb 'just' setting up the paired affirmative assertion in S10.",
+          "feynmanExplanation": "People think an iceberg is only cold frozen water. / But scientists know that is not the whole story. / Icebergs carry much more than pure frozen liquid. / Let's see what they carry!",
+          "teachingTranscript": [
+            {
+              "english": "Sentence S09 and S10 work together as a powerful rhetorical pair.",
+              "korean": "문장 S09와 S10은 강력한 수사적 짝으로 함께 작동합니다."
+            },
+            {
+              "english": "First: 'Icebergs aren't just frozen water.' Then comes the key insight in the next sentence.",
+              "korean": "먼저 '빙산은 단지 얼어붙은 물이 아닙니다'라고 말한 뒤, 다음 문장에서 핵심 통찰을 제시합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "They’re frozen history.",
+          "chunkReading": "They’re / frozen history.",
+          "directKorean": "그것들은 / 얼어붙은 역사입니다.",
+          "naturalKorean": "그것들은 얼어붙은 역사 그 자체입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "frozen history",
+              "meaning": "얼어붙은 역사",
+              "use": "conceptual metaphor",
+              "example": "Ancient amber contains frozen history from the dinosaur age."
+            }
+          ],
+          "mustKnowGrammar": "Short equative clause asserting metaphorical identity: Subject + Be + Predicate Noun.",
+          "feynmanExplanation": "Icebergs are like time machines made of ice. / They preserve physical evidence from long ago. / Everything inside them was captured in the past. / That is why they are called 'frozen history.'",
+          "teachingTranscript": [
+            {
+              "english": "This three-word sentence is the thematic core of the entire reading: 'They're frozen history.'",
+              "korean": "이 세 단어로 이루어진 문장이 글 전체의 주제적 핵심입니다: '그것들은 얼어붙은 역사입니다.'"
+            },
+            {
+              "english": "How can ice be history? Because it physically traps and preserves ancient air and dust!",
+              "korean": "어떻게 얼음이 역사가 될 수 있을까요? 고대의 공기와 먼지를 물리적으로 가두고 보존하기 때문입니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "Some icebergs break off from glaciers that are thousands of years old.",
+          "chunkReading": "Some icebergs / break off / from glaciers / that are thousands of years old.",
+          "directKorean": "어떤 빙산들은 / 떨어져 나옵니다 / 빙하들로부터 / 수천 년이나 오래된.",
+          "naturalKorean": "어떤 빙산들은 수천 년이나 된 오래된 빙하에서 떨어져 나옵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "thousands of years old",
+              "meaning": "수천 년이나 된",
+              "use": "ancient age specification",
+              "example": "The ancient stone circle is thousands of years old."
+            },
+            {
+              "chunk": "break off from",
+              "meaning": "~로부터 분리되다",
+              "use": "source of detachment",
+              "example": "Chunks break off from the polar ice cap each summer."
+            }
+          ],
+          "mustKnowGrammar": "Defining relative clause 'that are thousands of years old' modifying antecedent noun 'glaciers'.",
+          "feynmanExplanation": "Some icebergs do not come from last winter's snow. / They break away from glaciers that formed long before our grandparents were born. / Some are thousands of years old. / They carry very old material!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the relative clause: 'glaciers that are thousands of years old.'",
+              "korean": "관계대명사절에 주목하세요: '수천 년이나 된 빙하들.'"
+            },
+            {
+              "english": "This tells us that the ice floating today holds atmospheric evidence from millennia ago.",
+              "korean": "이것은 오늘날 떠다니는 얼음이 수천 년 전의 대기 증거를 담고 있음을 알려줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "As snow built up long ago, it trapped tiny bubbles of air, dust, and even ash from volcanoes.",
+          "chunkReading": "As snow built up long ago, / it trapped / tiny bubbles of air, / dust, / and even ash / from volcanoes.",
+          "directKorean": "눈이 오래전에 쌓이면서, / 그것은 가두었습니다 / 미세한 공기 방울들과, / 먼지, / 그리고 심지어 화산재까지 / 화산에서 나온.",
+          "naturalKorean": "오래전에 눈이 쌓이면서, 공기 방울, 먼지, 심지어 화산에서 나온 화산재까지 그 속에 가두었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "built up long ago",
+              "meaning": "오래전에 축적되다",
+              "use": "historical background action",
+              "example": "Layers of silt built up long ago in the ancient riverbed."
+            },
+            {
+              "chunk": "trapped tiny bubbles",
+              "meaning": "미세한 방울들을 가두었다",
+              "use": "preservation mechanism",
+              "example": "The hardening tree resin trapped tiny bubbles of gas."
+            }
+          ],
+          "mustKnowGrammar": "Subordinating temporal conjunction 'As' introducing past action, followed by transitive verb 'trapped' taking a three-part compound direct object.",
+          "feynmanExplanation": "When snow fell thousands of years ago, air was caught between the snowflakes. / Dust from the wind also landed on the snow. / When volcanoes erupted, their ash fell too. / All of these became locked inside the ice!",
+          "teachingTranscript": [
+            {
+              "english": "What three things were trapped in the snow? Air bubbles, dust, and volcanic ash!",
+              "korean": "눈 속에 갇힌 세 가지는 무엇인가요? 공기 방울, 먼지, 그리고 화산재입니다!"
+            },
+            {
+              "english": "These trapped items act as scientific time capsules preserved for thousands of years.",
+              "korean": "이 갇힌 물질들은 수천 년 동안 보존된 과학적 타임캡슐 역할을 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Over time, that snow turned into tightly packed ice.",
+          "chunkReading": "Over time, / that snow / turned into / tightly packed ice.",
+          "directKorean": "시간이 흐르면서, / 그 눈은 / 변했습니다 / 단단히 뭉쳐진 얼음으로.",
+          "naturalKorean": "시간이 지나면서 그 눈은 단단하게 뭉쳐진 얼음으로 변했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "over time",
+              "meaning": "시간이 지남에 따라",
+              "use": "gradual developmental transition",
+              "example": "Over time, small habits create significant results."
+            },
+            {
+              "chunk": "turned into",
+              "meaning": "~(으)로 변하다",
+              "use": "state transformation",
+              "example": "Caterpillars turn into beautiful butterflies."
+            },
+            {
+              "chunk": "tightly packed",
+              "meaning": "단단히 뭉쳐진, 빽빽한",
+              "use": "dense physical state",
+              "example": "The soil was tightly packed under heavy foot traffic."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional time adjunct 'Over time' followed by phrasal verb 'turned into' and compound participial modifier 'tightly packed'.",
+          "feynmanExplanation": "More snow kept falling on top year after year. / The weight squeezed everything hard together. / The soft, powdery snow became dense, solid ice. / And those air bubbles stayed trapped inside.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the phrase 'tightly packed ice.'",
+              "korean": "'단단히 뭉쳐진 얼음'이라는 어구를 보세요."
+            },
+            {
+              "english": "The intense pressure seals the air bubbles so tightly that they cannot escape into the atmosphere.",
+              "korean": "강한 압력이 공기 방울들을 매우 단단히 밀봉하여 대기 중으로 빠져나가지 못하게 만듭니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "Scientists drill deep into glaciers to collect long tubes called ice cores: rods made of ice.",
+          "chunkReading": "Scientists drill deep / into glaciers / to collect long tubes / called ice cores: / rods made of ice.",
+          "directKorean": "과학자들은 깊이 시추합니다 / 빙하 속으로 / 긴 원통들을 수집하기 위해 / 빙하 코어라고 불리는: / 얼음으로 만들어진 막대기들인.",
+          "naturalKorean": "과학자들은 빙하 깊은 곳을 시추하여 얼음 막대기 모양의 '빙하 코어'라고 불리는 긴 원통들을 수집합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "drill deep into",
+              "meaning": "~ 속으로 깊이 시추하다/뚫다",
+              "use": "scientific sampling procedure",
+              "example": "Geologists drill deep into the bedrock to extract rock samples."
+            },
+            {
+              "chunk": "ice cores",
+              "meaning": "빙하 코어 (얼음 원통 시료)",
+              "use": "specialized scientific instrument/sample",
+              "example": "Ice cores reveal atmospheric gas concentrations from past eras."
+            }
+          ],
+          "mustKnowGrammar": "Infinitive of purpose 'to collect' modifying 'drill', past participle 'called ice cores' modifying 'tubes', and appositive phrase after colon 'rods made of ice'.",
+          "feynmanExplanation": "How do scientists reach this old ice? / They use a special hollow drill. / The drill cuts deep into the glacier and pulls out a long cylinder. / We call these long ice rods 'ice cores.'",
+          "teachingTranscript": [
+            {
+              "english": "Here is the exact definition of our vocabulary word 'ice core.'",
+              "korean": "여기에 우리 어휘 '빙하 코어'의 정확한 정의가 나와 있습니다."
+            },
+            {
+              "english": "The text explains: 'long tubes called ice cores: rods made of ice.'",
+              "korean": "본문은 '빙하 코어라 불리는 긴 원통: 얼음으로 만들어진 막대기'라고 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "These icy layers are like pages in a history book:",
+          "chunkReading": "These icy layers / are like pages / in a history book:",
+          "directKorean": "이 얼음 층들은 / 쪽들과 같습니다 / 역사책 속의:",
+          "naturalKorean": "이 얼음 층들은 마치 역사책의 페이지들과 같습니다:",
+          "mustKnowChunks": [
+            {
+              "chunk": "icy layers",
+              "meaning": "얼음 층들",
+              "use": "stratified glacial bands",
+              "example": "The icy layers showed distinct bands of winter and summer snow."
+            },
+            {
+              "chunk": "pages in a history book",
+              "meaning": "역사책 속의 페이지들",
+              "use": "pedagogical simile",
+              "example": "Tree rings are like pages in a history book showing drought years."
+            }
+          ],
+          "mustKnowGrammar": "Simile construction 'are like [Noun Phrase]' ending with a colon that introduces the three bullet points that follow.",
+          "feynmanExplanation": "Imagine reading a history book. / Page 1 is the beginning, and later pages tell newer stories. / An ice core works the same way! / Each layer of ice represents a page recording one period in Earth's history.",
+          "teachingTranscript": [
+            {
+              "english": "What literary device is used here? A simile: 'like pages in a history book.'",
+              "korean": "여기서 사용된 문학적 장치는 무엇인가요? 바로 직유입니다: '역사책 속의 페이지들처럼.'"
+            },
+            {
+              "english": "Notice the colon at the end. It signals that the following three bullets explain how to read these pages!",
+              "korean": "끝부분의 콜론에 주목하세요. 뒤따르는 세 개의 글머리 기호가 이 페이지들을 어떻게 읽는지를 설명한다는 신호입니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "The deeper the layer, the older the air inside.",
+          "chunkReading": "The deeper the layer, / the older the air inside.",
+          "directKorean": "층이 더 깊을수록, / 그 안의 공기는 더 오래되었습니다.",
+          "naturalKorean": "층이 더 깊을수록, 그 안의 공기는 더 오래된 것입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "the deeper..., the older...",
+              "meaning": "더 깊을수록... 더 오래된...",
+              "use": "proportional comparative",
+              "example": "The higher you climb, the colder the air becomes."
+            },
+            {
+              "chunk": "air inside",
+              "meaning": "그 안의 공기",
+              "use": "trapped atmospheric sample",
+              "example": "The air inside ancient amber was tested for oxygen levels."
+            }
+          ],
+          "mustKnowGrammar": "Correlative double comparative structure: 'The + [Comparative], the + [Comparative]' expressing direct proportional relationship.",
+          "feynmanExplanation": "Fresh snow falls on top. / Older snow sits underneath. / So the deeper you dig into the glacier, the older the ice is. / The air trapped deep down is the oldest air of all!",
+          "teachingTranscript": [
+            {
+              "english": "This is one of our target language structures: 'The deeper the layer, the older the air inside.'",
+              "korean": "이것이 우리의 목표 언어 구문 중 하나입니다: '층이 더 깊을수록, 그 안의 공기는 더 오래되었습니다.'"
+            },
+            {
+              "english": "Why is deeper air older? Because new snow always falls on top of older layers.",
+              "korean": "왜 더 깊은 곳의 공기가 더 오래되었을까요? 새로운 눈이 항상 오래된 층 위에 내리기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "original": "Scientists can measure gases like carbon dioxide (CO₂) to see how clean or polluted the air was.",
+          "chunkReading": "Scientists can measure gases / like carbon dioxide (CO₂) / to see / how clean or polluted / the air was.",
+          "directKorean": "과학자들은 기체들을 측정할 수 있습니다 / 이산화탄소(CO₂)와 같은 / 알아보기 위해 / 얼마나 깨끗하거나 오염되었는지를 / 그 공기가.",
+          "naturalKorean": "과학자들은 이산화탄소(CO₂)와 같은 기체들을 측정하여 당시의 공기가 얼마나 깨끗했는지 혹은 오염되었는지를 알아볼 수 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "carbon dioxide (CO₂)",
+              "meaning": "이산화탄소",
+              "use": "greenhouse gas designation",
+              "example": "Plants absorb carbon dioxide (CO₂) during photosynthesis."
+            },
+            {
+              "chunk": "to see how",
+              "meaning": "어떻게/얼마나 ~한지 알아보기 위해",
+              "use": "purpose infinitive with indirect question",
+              "example": "Tests were run to see how effective the medicine was."
+            }
+          ],
+          "mustKnowGrammar": "Infinitive of purpose 'to see' governing an embedded interrogative complement clause 'how clean or polluted the air was'.",
+          "feynmanExplanation": "When scientists melt tiny bits of ice in a vacuum, the trapped air bubbles pop! / They test the air for gases like carbon dioxide (CO₂). / This tells them how much greenhouse gas was in the air thousands of years ago. / They can compare past air with today's air.",
+          "teachingTranscript": [
+            {
+              "english": "Pay close attention to the chemical formula here: CO₂ with a subscript 2.",
+              "korean": "여기의 화학식에 주의를 기울이세요: 아래 첨자 2가 붙은 CO₂입니다."
+            },
+            {
+              "english": "By measuring CO₂, scientists can reconstruct past atmospheres without guessing.",
+              "korean": "CO₂를 측정함으로써 과학자들은 추측하지 않고도 과거의 대기를 재구성할 수 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "original": "They can even spot layers with volcanic ash, which helps them know when volcanoes erupted — even ones from thousands of years ago!",
+          "chunkReading": "They can even spot layers / with volcanic ash, / which helps them know / when volcanoes erupted — / even ones / from thousands of years ago!",
+          "directKorean": "그들은 심지어 층들을 찾아낼 수 있습니다 / 화산재가 있는, / 그리고 그것은 그들이 알도록 돕습니다 / 언제 화산들이 분화했는지를 — / 심지어 화산들까지도 / 수천 년 전의!",
+          "naturalKorean": "심지어 화산재가 섞인 층을 발견할 수도 있는데, 이는 수천 년 전에 일어난 화산 폭발의 시기까지도 파악하는 데 도움을 줍니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "spot layers",
+              "meaning": "층들을 발견하다/알아채다",
+              "use": "observational identification",
+              "example": "Researchers easily spotted layers containing dark soil."
+            },
+            {
+              "chunk": "volcanic ash",
+              "meaning": "화산재",
+              "use": "marker of volcanic eruptions",
+              "example": "Volcanic ash blanketed the surrounding villages after the blast."
+            },
+            {
+              "chunk": "helps them know",
+              "meaning": "그들이 아는 데 도움을 주다",
+              "use": "causal facilitation",
+              "example": "Fossil evidence helps them know how ancient animals moved."
+            }
+          ],
+          "mustKnowGrammar": "Non-defining relative clause 'which helps them know...' with sentential antecedent, governing indirect question 'when volcanoes erupted', followed by parenthetical em-dash expansion.",
+          "feynmanExplanation": "Big volcanic eruptions shoot dark ash high into the atmosphere. / The ash drifts with the wind and lands on polar snowfields. / It leaves a dark line inside the ice layer. / Scientists use that dark line like a date stamp on a calendar!",
+          "teachingTranscript": [
+            {
+              "english": "Notice how volcanic ash functions as an exact geological time marker.",
+              "korean": "화산재가 어떻게 정확한 지질학적 시간 지표 역할을 하는지 주목하세요."
+            },
+            {
+              "english": "The text notes: 'which helps them know when volcanoes erupted — even ones from thousands of years ago!'",
+              "korean": "본문은 '수천 년 전의 화산 폭발 시기까지도 그들이 알 수 있도록 돕는다'고 밝힙니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "original": "By studying these layers, scientists can:",
+          "chunkReading": "By studying these layers, / scientists can:",
+          "directKorean": "이 층들을 연구함으로써, / 과학자들은 할 수 있습니다:",
+          "naturalKorean": "이 층들을 연구함으로써 과학자들은 다음과 같은 일들을 할 수 있습니다:",
+          "mustKnowChunks": [
+            {
+              "chunk": "by studying",
+              "meaning": "연구함으로써",
+              "use": "methodological means",
+              "example": "By studying satellite images, geographers map remote islands."
+            }
+          ],
+          "mustKnowGrammar": "Preposition 'By' + gerund phrase of means, followed by subject + modal verb 'can' with colon introducing a parallel infinitive/base-verb bullet list.",
+          "feynmanExplanation": "This sentence is a signpost. / It introduces the three big scientific benefits of ice cores. / The colon tells us: read the next three lines carefully! / Here is what scientists achieve.",
+          "teachingTranscript": [
+            {
+              "english": "Sentence S19 introduces three bulleted achievements. Notice the colon!",
+              "korean": "문장 S19는 글머리 기호로 된 세 가지 연구 성과를 소개합니다. 콜론에 주목하세요!"
+            },
+            {
+              "english": "Each bullet begins with a base verb: See, Compare, and Understand.",
+              "korean": "각 글머리 기호는 동사원형으로 시작합니다: See, Compare, 그리고 Understand."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "original": "See how Earth’s climate has changed",
+          "chunkReading": "See / how Earth’s climate / has changed",
+          "directKorean": "확인하다 / 어떻게 지구의 기후가 / 변화해 왔는지를",
+          "naturalKorean": "지구의 기후가 어떻게 변화해 왔는지 확인하기",
+          "mustKnowChunks": [
+            {
+              "chunk": "Earth’s climate",
+              "meaning": "지구의 기후",
+              "use": "planetary environmental system",
+              "example": "Earth's climate has experienced both ice ages and warm periods."
+            },
+            {
+              "chunk": "has changed",
+              "meaning": "변화해 왔다 (현재완료)",
+              "use": "ongoing historical progression",
+              "example": "Technology has changed how people communicate."
+            }
+          ],
+          "mustKnowGrammar": "Base verb 'See' governing noun clause object 'how Earth's climate has changed' with present perfect tense.",
+          "feynmanExplanation": "First, scientists look at the long timeline of our planet. / Has Earth been hotter or colder in the past? / The ice layers show real temperature records from long ago. / They can see natural patterns clearly.",
+          "teachingTranscript": [
+            {
+              "english": "Bullet 1: 'See how Earth's climate has changed.'",
+              "korean": "첫 번째 글머리 기호: '지구의 기후가 어떻게 변화해 왔는지 확인하기.'"
+            },
+            {
+              "english": "The present perfect 'has changed' indicates changes that have taken place over historical eras up to now.",
+              "korean": "현재완료 'has changed'는 역사적 시대를 거쳐 지금까지 일어난 변화를 나타냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "original": "Compare ancient air to today’s air",
+          "chunkReading": "Compare / ancient air / to today’s air",
+          "directKorean": "비교하다 / 고대의 공기를 / 오늘날의 공기와",
+          "naturalKorean": "고대의 공기를 오늘날의 공기와 비교하기",
+          "mustKnowChunks": [
+            {
+              "chunk": "compare [A] to [B]",
+              "meaning": "A를 B와 비교하다",
+              "use": "comparative pairing",
+              "example": "Doctors compare current test results to previous records."
+            },
+            {
+              "chunk": "ancient air",
+              "meaning": "고대의 공기",
+              "use": "trapped atmospheric sample",
+              "example": "Ancient air trapped in ice provides a baseline for clean atmosphere."
+            }
+          ],
+          "mustKnowGrammar": "Base verb 'Compare' taking direct object 'ancient air' and prepositional complement 'to today's air'.",
+          "feynmanExplanation": "Second, scientists compare the two kinds of air side by side. / They take pure air from ten thousand years ago. / Then they measure the air we breathe today. / This comparison shows how much human activity has altered the atmosphere.",
+          "teachingTranscript": [
+            {
+              "english": "Bullet 2 uses the structure 'Compare A to B.'",
+              "korean": "두 번째 글머리 기호는 'Compare A to B' 구조를 사용합니다."
+            },
+            {
+              "english": "By comparing ancient air to today's air, scientists establish a baseline of natural atmospheric conditions.",
+              "korean": "고대 공기를 오늘날 공기와 비교함으로써 과학자들은 자연 대기 상태의 기준선을 설정합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 22,
+          "original": "Understand how fast the planet is warming",
+          "chunkReading": "Understand / how fast / the planet is warming",
+          "directKorean": "이해하다 / 얼마나 빠르게 / 지구가 따뜻해지고 있는지를",
+          "naturalKorean": "지구가 얼마나 빠르게 온난화되고 있는지 이해하기",
+          "mustKnowChunks": [
+            {
+              "chunk": "how fast",
+              "meaning": "얼마나 빠르게",
+              "use": "rate of change",
+              "example": "Speedometers measure how fast a vehicle travels."
+            },
+            {
+              "chunk": "the planet is warming",
+              "meaning": "지구가 따뜻해지고 있다",
+              "use": "contemporary global warming",
+              "example": "Scientists monitor how rapidly the planet is warming."
+            }
+          ],
+          "mustKnowGrammar": "Base verb 'Understand' governing indirect degree question clause 'how fast the planet is warming' with present continuous aspect.",
+          "feynmanExplanation": "Third, scientists calculate the speed of climate change. / Is warming happening slowly or very fast right now? / The historical ice layers show that today's warming is happening much faster. / This helps communities plan for the future.",
+          "teachingTranscript": [
+            {
+              "english": "Bullet 3: 'Understand how fast the planet is warming.'",
+              "korean": "세 번째 글머리 기호: '지구가 얼마나 빠르게 온난화되고 있는지 이해하기.'"
+            },
+            {
+              "english": "Notice the present continuous 'is warming'—it describes the active, ongoing reality of modern climate change.",
+              "korean": "현재진행형 'is warming'에 주목하세요. 현대 기후 변화의 활발하고 지속적인 현실을 설명합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 23,
+          "original": "There are tens of thousands of icebergs floating in the oceans and many are bigger than cities!",
+          "chunkReading": "There are / tens of thousands of icebergs / floating in the oceans / and many / are bigger than cities!",
+          "directKorean": "있습니다 / 수만 개의 빙산들이 / 대양에 떠다니는 / 그리고 많은 것들이 / 도시보다 큽니다!",
+          "naturalKorean": "바다에는 수만 개의 빙산들이 떠다니고 있으며, 그중 많은 것들은 웬만한 도시보다 더 큽니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "tens of thousands of",
+              "meaning": "수만 개의",
+              "use": "large approximate quantity",
+              "example": "Tens of thousands of spectators gathered for the championship game."
+            },
+            {
+              "chunk": "bigger than cities",
+              "meaning": "도시들보다 더 큰",
+              "use": "colossal scale comparison",
+              "example": "Some super-icebergs are truly bigger than cities."
+            }
+          ],
+          "mustKnowGrammar": "Existential 'There are' with plural noun phrase and present participle post-modifier 'floating', joined by coordinating conjunction 'and' to comparative clause 'bigger than cities!'.",
+          "feynmanExplanation": "Now we move to Image 2: how many icebergs exist? / The ocean holds not just five or ten icebergs. / There are tens of thousands of them! / And some are so huge they are larger than an entire city.",
+          "teachingTranscript": [
+            {
+              "english": "We now transition to Image 2: 'There are tens of thousands of icebergs floating in the oceans...'",
+              "korean": "이제 이미지 2로 전환합니다: '바다에는 수만 개의 빙산들이 떠다니고 있습니다...'"
+            },
+            {
+              "english": "Think about that scale: 'bigger than cities!' That helps us picture their immense size.",
+              "korean": "그 규모를 생각해 보세요: '도시보다 더 큽니다!' 이것이 그 엄청난 크기를 시각화하는 데 도움을 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 24,
+          "original": "Most come from the icy lands of Antarctica and Greenland.",
+          "chunkReading": "Most come / from the icy lands / of Antarctica and Greenland.",
+          "directKorean": "대부분은 옵니다 / 얼어붙은 땅들로부터 / 남극과 그린란드의.",
+          "naturalKorean": "대부분은 남극과 그린란드의 얼어붙은 땅에서 옵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "most come from",
+              "meaning": "대부분은 ~로부터 오다",
+              "use": "predominant geographical origin",
+              "example": "Most polar research vessels come from northern nations."
+            },
+            {
+              "chunk": "icy lands",
+              "meaning": "얼어붙은 땅들",
+              "use": "polar regional descriptor",
+              "example": "Expeditions explored the icy lands surrounding the South Pole."
+            }
+          ],
+          "mustKnowGrammar": "Pronoun subject 'Most' (referring to icebergs) with simple present verb 'come' and compound prepositional complement 'of Antarctica and Greenland'.",
+          "feynmanExplanation": "Where do all these floating giants come from? / Almost all of them come from two massive frozen regions: / Antarctica at the South Pole, and Greenland in the North. / These are the two biggest ice sheets on Earth.",
+          "teachingTranscript": [
+            {
+              "english": "Remember this key geographical fact: icebergs primarily come from Antarctica and Greenland.",
+              "korean": "이 핵심 지리적 사실을 기억하세요: 빙산은 주로 남극과 그린란드에서 옵니다."
+            },
+            {
+              "english": "Both locations possess massive continental ice sheets capable of producing colossal icebergs.",
+              "korean": "두 지역 모두 거대한 빙산을 만들어낼 수 있는 거대한 대륙 빙상을 지니고 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 25,
+          "original": "Every year, around 15,000 to 30,000 icebergs break off just from Greenland’s glaciers.",
+          "chunkReading": "Every year, / around 15,000 to 30,000 icebergs / break off / just from Greenland’s glaciers.",
+          "directKorean": "매년, / 약 15,000개에서 30,000개의 빙산들이 / 떨어져 나옵니다 / 단지 그린란드의 빙하에서만.",
+          "naturalKorean": "매년 그린란드의 빙하에서만 대략 15,000개에서 30,000개의 빙산이 떨어져 나옵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "every year",
+              "meaning": "매년",
+              "use": "annual frequency adverbial",
+              "example": "Every year, migratory birds fly thousands of miles south."
+            },
+            {
+              "chunk": "around 15,000 to 30,000",
+              "meaning": "대략 15,000에서 30,000개",
+              "use": "numerical approximation range",
+              "example": "Around 15,000 to 30,000 tourists visit the nature reserve annually."
+            },
+            {
+              "chunk": "just from",
+              "meaning": "오직 ~에서만",
+              "use": "focusing adverbial",
+              "example": "She won two gold medals just from track events."
+            }
+          ],
+          "mustKnowGrammar": "Temporal adverbial 'Every year' followed by quantified noun phrase with approximation preposition 'around', with focusing adverb 'just' emphasizing high single-source output.",
+          "feynmanExplanation": "Greenland alone creates a gigantic number of icebergs. / Between 15,000 and 30,000 chunks break off into the ocean every single year! / That is thousands of new floating ice blocks every twelve months.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the numerical range: 'around 15,000 to 30,000 icebergs...'",
+              "korean": "수치 범위에 주목하세요: '약 15,000에서 30,000개의 빙산들...'"
+            },
+            {
+              "english": "The word 'around' indicates this is an estimate, not an exact fixed count.",
+              "korean": "'around'라는 단어는 이것이 고정된 정확한 수가 아니라 추정치임을 나타냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 26,
+          "original": "In Antarctica, some icebergs are so massive they’re named and tracked by satellite.",
+          "chunkReading": "In Antarctica, / some icebergs / are so massive / they’re named / and tracked by satellite.",
+          "directKorean": "남극에서는, / 어떤 빙산들은 / 너무나 거대하여 / 그것들은 이름이 붙여지고 / 인공위성에 의해 추적됩니다.",
+          "naturalKorean": "남극에서는 어떤 빙산들이 너무나 거대해서 고유한 이름이 붙여지고 인공위성으로 추적되기도 합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "so massive they’re...",
+              "meaning": "너무 거대해서 ~되다",
+              "use": "so... that result construction",
+              "example": "The mountain was so massive it blocked the entire valley."
+            },
+            {
+              "chunk": "tracked by satellite",
+              "meaning": "인공위성에 의해 추적되는",
+              "use": "passive surveillance means",
+              "example": "Severe storms are tracked by satellite from space."
+            }
+          ],
+          "mustKnowGrammar": "Result clause 'so [Adjective] (that) [Clause]' with omitted conjunction 'that', containing compound passive predicate 'named and tracked by satellite'.",
+          "feynmanExplanation": "In Antarctica, icebergs can be unbelievably huge. / They are so big that scientists give them special names like code numbers. / Satellites high in space take pictures of them every day. / They monitor where these giants drift!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the cause-and-result structure: 'so massive they're named and tracked by satellite.'",
+              "korean": "인과 구조에 주목하세요: '너무 거대해서 이름이 붙여지고 인공위성으로 추적됩니다.'"
+            },
+            {
+              "english": "Normal icebergs drift unnoticed, but super-icebergs require continuous satellite surveillance.",
+              "korean": "일반 빙산은 눈에 띄지 않고 떠다니지만, 슈퍼 빙산은 지속적인 위성 감시가 필요합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 27,
+          "original": "One iceberg, called A-76, was over 4,300 square kilometers (that’s bigger than Rhode Island!).",
+          "chunkReading": "One iceberg, / called A-76, / was over 4,300 square kilometers / (that’s bigger than Rhode Island!).",
+          "directKorean": "한 빙산은, / A-76이라고 불리는, / 4,300 제곱킬로미터가 넘었습니다 / (그것은 로드아일랜드주보다 더 큽니다!).",
+          "naturalKorean": "A-76이라 불리는 한 빙산은 면적이 4,300 제곱킬로미터가 넘었는데, 이는 미국의 로드아일랜드주보다 더 큰 크기입니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "called A-76",
+              "meaning": "A-76이라 불리는",
+              "use": "proper naming designation",
+              "example": "A huge space telescope, called Hubble, orbited Earth."
+            },
+            {
+              "chunk": "over 4,300 square kilometers",
+              "meaning": "4,300 제곱킬로미터가 넘는",
+              "use": "area measurement",
+              "example": "The national park covers over 4,300 square kilometers of wilderness."
+            },
+            {
+              "chunk": "bigger than Rhode Island",
+              "meaning": "로드아일랜드보다 더 큰",
+              "use": "geographical size benchmark",
+              "example": "The volcanic island was bigger than Rhode Island."
+            }
+          ],
+          "mustKnowGrammar": "Reduced relative past-participle clause 'called A-76' functioning as non-restrictive appositive, followed by preposition 'over' indicating quantity excess, and parenthetical comparative clause.",
+          "feynmanExplanation": "Here is an extreme example from Antarctica: an iceberg named A-76. / It measured over 4,300 square kilometers! / To help you imagine that, the text compares it to Rhode Island, a whole American state. / That is a gigantic block of floating ice!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the concluding sentence: 'One iceberg, called A-76, was over 4,300 square kilometers (that’s bigger than Rhode Island!).'",
+              "korean": "마지막 문장을 보세요: 'A-76이라 불리는 한 빙산은 4,300 제곱킬로미터가 넘었습니다 (그것은 로드아일랜드주보다 더 큽니다!).'"
+            },
+            {
+              "english": "Preserve the exact spelling 'kilometers' and parenthetical punctuation '(that’s bigger than Rhode Island!).' exactly as shown in the source image.",
+              "korean": "원본 이미지에 나타난 대로 'kilometers'라는 철자와 괄호 문장부호 '(that’s bigger than Rhode Island!).'를 정확하게 보존하세요."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "Icebergs originate as tiny snowflakes that compress over hundreds or thousands of years into thick glaciers.",
+          "When a glacier calves into the sea, it becomes a floating iceberg with only about 10% visible while 90% remains submerged.",
+          "According to the visual source, ancient ice trapped tiny bubbles of air, dust, and volcanic ash.",
+          "By extracting cylindrical ice cores from deep within glaciers, scientists can measure historical greenhouse gases such as carbon dioxide (CO₂).",
+          "These sequential ice layers function like pages in a history book, enabling researchers to compare ancient air to modern air.",
+          "Consequently, studying these preserved layers allows scientists to cautiously evaluate how rapidly the planet is warming."
+        ],
+        "usefulConnectors": [
+          "According to the visual source",
+          "Over hundreds or even thousands of years",
+          "When a piece of glacier breaks off",
+          "While only about 10% floats above",
+          "In addition",
+          "By studying these layers",
+          "For example",
+          "Consequently",
+          "This evidence suggests"
+        ],
+        "usefulVocabulary": [
+          "iceberg",
+          "glacier",
+          "press down",
+          "break off",
+          "float",
+          "hidden",
+          "ice core",
+          "layer",
+          "volcanic ash",
+          "carbon dioxide (CO₂)",
+          "climate",
+          "Antarctica",
+          "Greenland"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: Introduce icebergs as frozen giants formed from glaciers that preserve historical climate records.",
+          "2. Formation & Physical Proportion: Explain how snow compresses into glaciers over hundreds/thousands of years and breaks off into floating icebergs (10% visible / 90% submerged).",
+          "3. Preserved Evidence in Ice Cores: Describe how drilling ice cores reveals trapped ancient air bubbles, carbon dioxide (CO₂), and volcanic ash.",
+          "4. Climate Connection & Cautious Conclusion: Explain how comparing ancient air to modern air helps scientists cautiously evaluate global warming trends."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Icebergs are formed by salty ocean water freezing directly in winter.",
+            "correction": "Icebergs originate from land-based snow that compresses into glaciers over hundreds or thousands of years before breaking off into the ocean."
+          },
+          {
+            "mistake": "Almost all of the iceberg floats above the water where we can see it.",
+            "correction": "Only about 10% of an iceberg floats above the surface, while the remaining 90% is hidden beneath the water."
+          },
+          {
+            "mistake": "Ice cores are small ice cubes made in science labs.",
+            "correction": "Ice cores are long cylinders or rods of ice collected by drilling deep into glaciers."
+          },
+          {
+            "mistake": "Scientists prove that all icebergs in the world will disappear next week.",
+            "correction": "Scientists cautiously evaluate historical atmospheric trends to understand how Earth’s climate is changing and how fast the planet is warming."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check for accurate formation explanation (snowflakes -> glacier -> breaks off -> iceberg).",
+          "Verify that the 10% visible / 90% hidden contrast is accurately stated.",
+          "Confirm that trapped evidence (air bubbles, CO₂, or volcanic ash) is clearly cited.",
+          "Ensure cautious scientific reporting language ('suggests', 'helps evaluate', 'according to the visual source').",
+          "Verify the word count is strictly within the 100–140 word requirement."
+        ]
+      }
+    }
+  }
+}

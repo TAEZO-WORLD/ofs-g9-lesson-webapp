@@ -1,0 +1,56 @@
+{
+  "taskId": "OFS-20260928-ICEBERGS-FROZEN-GIANTS-01",
+  "slug": "2026-09-28-icebergs-frozen-giants",
+  "title": "Icebergs: Frozen Giants with Stories to Tell",
+  "sourceNote": "Original text transcribed from two teacher-provided classroom images. No publication credit, article URL, date or named author is shown in the images; statements should be taught as claims in the provided visual source.",
+  "image1": {
+    "title": "Icebergs: Frozen Giants with Stories to Tell",
+    "intro": "They may look like just big blocks of ice, but icebergs are full of surprises! These frozen giants float across oceans and hide most of their size underwater. Ready to dive into the chilly world of icebergs?",
+    "headings": [
+      "How Do Icebergs Form?",
+      "What Can We Learn From Icebergs?"
+    ],
+    "prose": [
+      "Icebergs begin as tiny snowflakes! Over hundreds or even thousands of years, snow builds up pressing down into thick, heavy glaciers. When a piece of that glacier breaks off and crashes into the sea, it becomes an iceberg: a giant chunk of floating ice!",
+      "But here’s the wild part: only about 10% of the iceberg floats above the water. The other 90% is hidden below, like a frozen secret!",
+      "Icebergs aren’t just frozen water. They’re frozen history.",
+      "Some icebergs break off from glaciers that are thousands of years old. As snow built up long ago, it trapped tiny bubbles of air, dust, and even ash from volcanoes. Over time, that snow turned into tightly packed ice.",
+      "Scientists drill deep into glaciers to collect long tubes called ice cores: rods made of ice. These icy layers are like pages in a history book:"
+    ],
+    "evidenceBullets": [
+      "The deeper the layer, the older the air inside.",
+      "Scientists can measure gases like carbon dioxide (CO₂) to see how clean or polluted the air was.",
+      "They can even spot layers with volcanic ash, which helps them know when volcanoes erupted — even ones from thousands of years ago!"
+    ],
+    "climateLearningIntro": "By studying these layers, scientists can:",
+    "climateLearningBullets": [
+      "See how Earth’s climate has changed",
+      "Compare ancient air to today’s air",
+      "Understand how fast the planet is warming"
+    ],
+    "visualLabels": [
+      "New iceberg forming",
+      "Fracture",
+      "Iceberg",
+      "Ice shelf",
+      "Ocean",
+      "Youngest layers",
+      "Individual ice layer",
+      "Oldest layers",
+      "10 000 years (250 m)",
+      "130 000 years (2 000 m)",
+      "Loose Snow (90% Air)",
+      "Granular Snow (50% Air)",
+      "Firn (20-30% Air)",
+      "Fine-grained Ice (<20% Air in bubbles)"
+    ]
+  },
+  "image2": {
+    "heading": "How Many Icebergs Are Out There?",
+    "prose": [
+      "There are tens of thousands of icebergs floating in the oceans and many are bigger than cities! Most come from the icy lands of Antarctica and Greenland.",
+      "Every year, around 15,000 to 30,000 icebergs break off just from Greenland’s glaciers. In Antarctica, some icebergs are so massive they’re named and tracked by satellite. One iceberg, called A-76, was over 4,300 square kilometers (that’s bigger than Rhode Island!)."
+    ]
+  },
+  "mainText320Hash": "1c33b278a6f0f238ea6047f016ba5ba1f2191d01f26ffb31a95b7ea6187cbdb9"
+}
