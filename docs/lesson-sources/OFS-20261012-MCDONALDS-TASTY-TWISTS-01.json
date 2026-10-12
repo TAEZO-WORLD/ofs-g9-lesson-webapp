@@ -1,0 +1,37 @@
+{
+  "taskId": "OFS-20261012-MCDONALDS-TASTY-TWISTS-01",
+  "slug": "2026-10-12-mcdonalds-tasty-twists",
+  "title": "McDonald’s: A World of Tasty Twists",
+  "source": "Source: CNN",
+  "sourceNote": "Original text transcribed from one teacher-provided classroom image. The visible source label is “Source: CNN”; no publication date or article URL is shown in the image.",
+  "paragraphs": [
+    "Did you know that McDonald’s has over 42,000 restaurants serving 65 million people each day? That’s nearly the entire population of the United Kingdom eating McDonald’s on the same day. A new book called McAtlas by photojournalist Gary He shows that McDonald’s actually changes a lot depending on where you are.",
+    "Gary He traveled to more than 55 countries to see these changes for himself. In India, where many people don’t eat beef, McDonald’s created entirely new menu lines, like the Big Spicy McWrap Paneer and the McAloo Tikki burger. In Sweden, one location lets you ski right up to the window to order. It’s called McSki, and it’s the only ski-through McDonald’s on Earth. In Israel, where kosher rules are followed, you won’t find cheeseburgers, but you can order a burger made from prime rib instead!",
+    "According to He, this local creativity is the secret behind the brand’s global success. “Without adjusting to local tastes,” he says, “you couldn’t do business globally.”"
+  ],
+  "sentenceUnits": [
+    "Did you know that McDonald’s has over 42,000 restaurants serving 65 million people each day?",
+    "That’s nearly the entire population of the United Kingdom eating McDonald’s on the same day.",
+    "A new book called McAtlas by photojournalist Gary He shows that McDonald’s actually changes a lot depending on where you are.",
+    "Gary He traveled to more than 55 countries to see these changes for himself.",
+    "In India, where many people don’t eat beef, McDonald’s created entirely new menu lines, like the Big Spicy McWrap Paneer and the McAloo Tikki burger.",
+    "In Sweden, one location lets you ski right up to the window to order.",
+    "It’s called McSki, and it’s the only ski-through McDonald’s on Earth.",
+    "In Israel, where kosher rules are followed, you won’t find cheeseburgers, but you can order a burger made from prime rib instead!",
+    "According to He, this local creativity is the secret behind the brand’s global success.",
+    "“Without adjusting to local tastes,” he says, “you couldn’t do business globally.”"
+  ],
+  "expectedStats": {
+    "titleCount": 1,
+    "paragraphCount": 3,
+    "sourceLabelCount": 1,
+    "sentenceCount": 10,
+    "wordsByParagraph": [
+      51,
+      86,
+      26
+    ],
+    "totalWords": 163,
+    "proseSha256": "2bfdd17a1fc12c36a378db0012b50cb2f1d0200c2ff273efb5d1b62d2f7166da"
+  }
+}

@@ -1,0 +1,1276 @@
+{
+  "lessonTitle": "McDonald’s: A World of Tasty Twists",
+  "ofsUnit": "Unit 2 — Communities, Culture & Globalization",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational Global Culture Article",
+  "writingType": "Evidence-Based Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students identify how a global restaurant brand adapts to local cultures, distinguish source claims from examples, and write an evidence-based explanation of why local adaptation can matter in global business.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these warm-up questions with a partner. Think about your own experiences with international foods and global brands.",
+    "questions": [
+      "What kinds of food or products change from country to country?",
+      "Why might a global restaurant change its menu or service in different places?",
+      "What is the difference between a local idea and a global business?"
+    ]
+  },
+  "article": {
+    "title": "McDonald’s: A World of Tasty Twists",
+    "source": "Source: CNN",
+    "sourceNote": "Original text transcribed from one teacher-provided classroom image. The visible source label is “Source: CNN”; no publication date or article URL is shown in the image.",
+    "paragraphs": [
+      "Did you know that McDonald’s has over 42,000 restaurants serving 65 million people each day? That’s nearly the entire population of the United Kingdom eating McDonald’s on the same day. A new book called McAtlas by photojournalist Gary He shows that McDonald’s actually changes a lot depending on where you are.",
+      "Gary He traveled to more than 55 countries to see these changes for himself. In India, where many people don’t eat beef, McDonald’s created entirely new menu lines, like the Big Spicy McWrap Paneer and the McAloo Tikki burger. In Sweden, one location lets you ski right up to the window to order. It’s called McSki, and it’s the only ski-through McDonald’s on Earth. In Israel, where kosher rules are followed, you won’t find cheeseburgers, but you can order a burger made from prime rib instead!",
+      "According to He, this local creativity is the secret behind the brand’s global success. “Without adjusting to local tastes,” he says, “you couldn’t do business globally.”"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms below from the article. Pay close attention to the part of speech, English definition, Korean translation, and context sentence.",
+    "items": [
+      {
+        "word": "restaurant",
+        "partOfSpeech": "noun",
+        "definition": "a place where people pay to sit, order, and eat meals that are prepared on the premises",
+        "korean": "식당, 레스토랑",
+        "sentence": "Our family visited a traditional Italian restaurant to celebrate my sister's graduation."
+      },
+      {
+        "word": "depending on",
+        "partOfSpeech": "prepositional phrase",
+        "definition": "determined or influenced by specific conditions, locations, or circumstances",
+        "korean": "~에 따라, ~에 좌우되는",
+        "sentence": "Ticket prices for the concert vary depending on how close you sit to the main stage."
+      },
+      {
+        "word": "photojournalist",
+        "partOfSpeech": "noun",
+        "definition": "a journalist who uses photographs to tell news stories and document real-world human events",
+        "korean": "사진기자, 포토저널리스트",
+        "sentence": "The photojournalist traveled across South America documenting traditional farming communities."
+      },
+      {
+        "word": "adapt",
+        "partOfSpeech": "verb",
+        "definition": "to modify or adjust something so that it suits new conditions, different cultures, or specific local needs",
+        "korean": "적응시키다, 맞추다, 조정하다",
+        "sentence": "International companies frequently adapt their marketing campaigns to connect with local audiences."
+      },
+      {
+        "word": "local tastes",
+        "partOfSpeech": "noun phrase",
+        "definition": "the specific food preferences, dietary habits, or flavor expectations of people in a particular region",
+        "korean": "현지인들의 입맛, 지역별 취향",
+        "sentence": "The bakery adjusted its dessert recipes to suit local tastes by reducing the amount of sugar."
+      },
+      {
+        "word": "menu line",
+        "partOfSpeech": "noun phrase",
+        "definition": "a distinct coordinated series or category of related food items offered by a restaurant brand",
+        "korean": "메뉴 라인, 제품군",
+        "sentence": "The cafe launched a new organic breakfast menu line to satisfy health-conscious morning customers."
+      },
+      {
+        "word": "kosher",
+        "partOfSpeech": "adjective",
+        "definition": "conforming to traditional Jewish dietary regulations regarding food preparation and approved ingredients",
+        "korean": "(유대교 율법에 따른) 코셔의, 율법에 맞는",
+        "sentence": "The grocery store opened a dedicated section stocked with certified kosher food products."
+      },
+      {
+        "word": "prime rib",
+        "partOfSpeech": "noun phrase",
+        "definition": "a premium, tender cut of high-quality beef roasted from the primal rib section of cattle",
+        "korean": "프라임 립 (소고기 고급 갈비 부위)",
+        "sentence": "The chef served roasted prime rib with garlic potatoes for the holiday dinner special."
+      },
+      {
+        "word": "creativity",
+        "partOfSpeech": "noun",
+        "definition": "the ability to produce original, imaginative ideas to solve problems or create unique products",
+        "korean": "창의성, 독창성",
+        "sentence": "The design team showed impressive creativity when creating an eco-friendly packaging solution."
+      },
+      {
+        "word": "global success",
+        "partOfSpeech": "noun phrase",
+        "definition": "widespread achievement, high recognition, and profitable operations across multiple countries worldwide",
+        "korean": "세계적인 성공, 글로벌 성공",
+        "sentence": "The technology startup achieved rapid global success by solving a universal language challenge."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of the article?",
+    "options": [
+      "McDonald’s serves exactly the same menu and service in every country.",
+      "McDonald’s changes some menus and experiences to fit local cultures while operating as a global brand.",
+      "Only people in India eat food from McDonald’s.",
+      "A photojournalist can succeed only by visiting one country."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! The article shows that McDonald's operates globally but adapts menus and services—such as vegetarian lines in India, McSki in Sweden, and kosher choices in Israel—to match local cultures.",
+      "incorrect": "X Incorrect. Option B is correct because the article explains how McDonald's combines global reach with local cultural adaptations across different nations."
+    },
+    "explanation": "Paragraph 1 establishes the enormous global scale of McDonald’s with over 42,000 restaurants, Paragraph 2 provides concrete examples of cultural adaptation in India, Sweden, and Israel, and Paragraph 3 quotes Gary He explaining that local creativity and adapting to local tastes are the secret behind the brand's global success."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer each question based strictly on the text provided. Select the best option among the four choices.",
+    "questions": [
+      {
+        "id": "rc-1",
+        "question": "How many restaurants does the article say McDonald’s has?",
+        "options": [
+          "Around 10,000 restaurants",
+          "Over 42,000 restaurants",
+          "Exactly 55 restaurants",
+          "65 million restaurants"
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 explicitly states that McDonald's has over 42,000 restaurants.",
+          "incorrect": "X Incorrect. Paragraph 1 states that McDonald's has over 42,000 restaurants serving 65 million people each day."
+        },
+        "explanation": "Paragraph 1, Sentence 1 notes: 'Did you know that McDonald’s has over 42,000 restaurants serving 65 million people each day?'"
+      },
+      {
+        "id": "rc-2",
+        "question": "How many people does the article say are served each day?",
+        "options": [
+          "65 million people",
+          "42,000 people",
+          "55 million people",
+          "The entire population of Sweden"
+        ],
+        "correctIndex": 0,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 mentions that McDonald's serves 65 million people each day.",
+          "incorrect": "X Incorrect. Paragraph 1 states that the restaurants serve 65 million people each day, nearly the population of the United Kingdom."
+        },
+        "explanation": "Paragraph 1, Sentence 1 confirms that McDonald's serves '65 million people each day,' which Sentence 2 compares to nearly the entire population of the UK."
+      },
+      {
+        "id": "rc-3",
+        "question": "What did Gary He do to see McDonald’s changes for himself?",
+        "options": [
+          "He managed a McDonald's kitchen in the United Kingdom.",
+          "He stopped eating fast food entirely for several years.",
+          "He traveled to more than 55 countries.",
+          "He opened the world's first ski-through restaurant in Sweden."
+        ],
+        "correctIndex": 2,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 begins by stating that Gary He traveled to more than 55 countries to observe these regional changes firsthand.",
+          "incorrect": "X Incorrect. Paragraph 2 explicitly states that photojournalist Gary He traveled to more than 55 countries to see the changes for himself."
+        },
+        "explanation": "Paragraph 2, Sentence 4 says: 'Gary He traveled to more than 55 countries to see these changes for himself.'"
+      },
+      {
+        "id": "rc-4",
+        "question": "What examples of menu adaptation are given for India?",
+        "options": [
+          "Cheeseburgers and prime rib burgers",
+          "The Big Spicy McWrap Paneer and the McAloo Tikki burger",
+          "A ski-through drive-thru ordering window",
+          "Fish and chips matching British menus"
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! In India, where many people do not eat beef, McDonald's created the Big Spicy McWrap Paneer and McAloo Tikki burger.",
+          "incorrect": "X Incorrect. Paragraph 2 cites the Big Spicy McWrap Paneer and the McAloo Tikki burger as entirely new menu lines created in India."
+        },
+        "explanation": "Paragraph 2, Sentence 5 identifies: '...like the Big Spicy McWrap Paneer and the McAloo Tikki burger' as adaptations where many people don't eat beef."
+      },
+      {
+        "id": "rc-5",
+        "question": "What is unusual about the McDonald’s location in Sweden?",
+        "options": [
+          "It serves only vegetarian menu items made from paneer.",
+          "It opens only during summer months.",
+          "Customers can ski right up to the window to order, and it is called McSki.",
+          "It does not charge any money for hot beverages."
+        ],
+        "correctIndex": 2,
+        "feedback": {
+          "correct": "O Correct! Sweden features McSki, where customers can ski right up to the window to order.",
+          "incorrect": "X Incorrect. Paragraph 2 states that in Sweden, one location called McSki lets customers ski right up to the window to order."
+        },
+        "explanation": "Paragraph 2, Sentences 6–7 explain: 'In Sweden, one location lets you ski right up to the window to order. It’s called McSki, and it’s the only ski-through McDonald’s on Earth.'"
+      },
+      {
+        "id": "rc-6",
+        "question": "What does the article say about McDonald’s in Israel?",
+        "options": [
+          "Under kosher rules, cheeseburgers are not found, but customers can order a burger made from prime rib instead.",
+          "It is the only ski-through restaurant in the Middle East.",
+          "It serves only McAloo Tikki burgers imported from India.",
+          "It was closed down because customers refused to eat beef."
+        ],
+        "correctIndex": 0,
+        "feedback": {
+          "correct": "O Correct! Under kosher dietary rules in Israel, cheeseburgers are omitted, but customers can order a burger made from prime rib instead.",
+          "incorrect": "X Incorrect. Paragraph 2 states that where kosher rules are followed in Israel, you won't find cheeseburgers, but you can order a burger made from prime rib instead."
+        },
+        "explanation": "Paragraph 2, Sentence 8 states: 'In Israel, where kosher rules are followed, you won’t find cheeseburgers, but you can order a burger made from prime rib instead!'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each prompt using specific facts and details directly from the article. Click 'Check & Compare' to evaluate your work against model responses.",
+    "prompts": [
+      {
+        "id": "ev-1",
+        "statement": "What evidence shows that McDonald’s changes according to the country or local culture?",
+        "compareTips": [
+          "Identify specific country adaptations from the reading (India, Sweden, Israel).",
+          "Reference Gary He's documentation in his book McAtlas across 55+ countries.",
+          "Note specific menu items or service formats (vegetarian lines, McSki, kosher rules)."
+        ],
+        "modelAnswer": "The article provides concrete evidence that McDonald's alters its offerings depending on geography. In India, where many people do not eat beef, the brand created new vegetarian lines like the Big Spicy McWrap Paneer and McAloo Tikki burger. In Sweden, it opened McSki, the world's only ski-through location. In Israel, it follows kosher dietary rules by omitting cheeseburgers and offering prime rib burgers instead. Photojournalist Gary He observed and documented these variations by visiting more than 55 countries for his book McAtlas."
+      },
+      {
+        "id": "ev-2",
+        "statement": "Compare the India, Sweden and Israel examples from the article. What is different about each one?",
+        "compareTips": [
+          "Contrast the type of adaptation in each location (dietary tradition vs. physical climate vs. religious rules).",
+          "Mention India's beef-free menu additions (paneer wrap, potato burger).",
+          "Mention Sweden's ski-through customer access (McSki).",
+          "Mention Israel's kosher rule compliance (no cheeseburgers, prime rib burger available)."
+        ],
+        "modelAnswer": "The three examples highlight distinct forms of local adaptation. In India, the adaptation is dietary and cultural: because many citizens avoid beef, McDonald's introduced unique vegetarian items such as the Big Spicy McWrap Paneer. In contrast, the Swedish adaptation is architectural and environmental: McSki allows winter sports enthusiasts to ski directly to the ordering window. In Israel, the adaptation is religious and regulatory: locations follow kosher laws by excluding cheeseburgers while introducing a premium prime rib burger."
+      },
+      {
+        "id": "ev-3",
+        "statement": "How does Gary He’s quotation explain the connection between local tastes and global business?",
+        "compareTips": [
+          "Quote or reference Gary He's concluding statement: 'Without adjusting to local tastes, you couldn't do business globally.'",
+          "Explain that local creativity is identified as the secret behind the brand's global success.",
+          "Emphasize that global companies must respect regional cultural preferences to remain viable."
+        ],
+        "modelAnswer": "Gary He's quotation directly connects local cultural awareness with international commercial viability. He states, 'Without adjusting to local tastes, you couldn't do business globally,' and identifies this local creativity as the secret behind McDonald's global success. His statement explains that even a massive global brand cannot rely on a uniform menu; it must respect regional culinary traditions and practical lifestyles to succeed in competitive international markets."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine how global culture articles use specific sentence patterns to report findings, present contrasts, and express cause-and-effect relationships.",
+    "patterns": [
+      {
+        "name": "Source Attribution & Reporting Phrases",
+        "explanation": "Writers use phrases like 'According to He' or 'shows that' to credit specific authors, photojournalists, or sources without presenting claims as universal dogma.",
+        "example": "According to He, this local creativity is the secret behind the brand’s global success.",
+        "sourceExample": "A new book called McAtlas by photojournalist Gary He shows that McDonald’s actually changes a lot..."
+      },
+      {
+        "name": "Relative Clauses of Place & Reason",
+        "explanation": "Clauses beginning with 'where' provide essential cultural or environmental background explaining why an adaptation exists.",
+        "example": "In India, where many people don’t eat beef, McDonald’s created entirely new menu lines...",
+        "sourceExample": "In Israel, where kosher rules are followed, you won’t find cheeseburgers..."
+      },
+      {
+        "name": "Contrast & Concession Connectors",
+        "explanation": "Connectors like 'whereas', 'but', and 'while' contrast different regional practices or show unexpected alternatives.",
+        "example": "...you won’t find cheeseburgers, but you can order a burger made from prime rib instead!",
+        "sourceExample": "In Sweden, customers ski to the window, whereas in Israel, menus accommodate kosher traditions."
+      },
+      {
+        "name": "Negative Condition / Cause & Effect",
+        "explanation": "Prepositional phrases with 'without + -ing' establish a necessary condition or warn of negative consequences.",
+        "example": "“Without adjusting to local tastes,” he says, “you couldn’t do business globally.”",
+        "sourceExample": "Without local creativity, global restaurant brands cannot maintain long-term success."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each sentence task applying the language patterns and source details from the article. Use 'Check & Compare' to review your draft against model answers.",
+    "prompts": [
+      {
+        "id": "wp-1",
+        "question": "Write one sentence explaining how a business can adapt to local tastes.",
+        "compareTips": [
+          "Explain how a company modifies products or services for a specific community.",
+          "Use target vocabulary like 'adapt', 'local tastes', or 'menu lines'."
+        ],
+        "modelAnswer": "A global restaurant can adapt to local tastes by introducing regional menu items that respect cultural traditions and local dietary preferences."
+      },
+      {
+        "id": "wp-2",
+        "question": "Combine the India example with a reason clause using because or where.",
+        "compareTips": [
+          "Mention the Indian menu items (Big Spicy McWrap Paneer or McAloo Tikki burger).",
+          "Use 'where' or 'because' to explain the reason (many people don't eat beef)."
+        ],
+        "modelAnswer": "McDonald’s created the Big Spicy McWrap Paneer in India, where many people don’t eat beef and prefer vegetarian dining options."
+      },
+      {
+        "id": "wp-3",
+        "question": "Compare the Sweden and Israel examples using while, whereas or in contrast.",
+        "compareTips": [
+          "Contrast Sweden's ski-through location (McSki) with Israel's kosher menu adaptation.",
+          "Use a contrast connector ('while', 'whereas', or 'in contrast')."
+        ],
+        "modelAnswer": "In Sweden, customers can ski right up to the McSki order window, whereas in Israel, McDonald’s accommodates kosher dietary rules by offering prime rib instead of cheeseburgers."
+      },
+      {
+        "id": "wp-4",
+        "question": "Write a cautious evidence sentence beginning with According to the article, ... and using one exact source detail.",
+        "compareTips": [
+          "Start your sentence with 'According to the article, ...'.",
+          "Include an exact detail from the text (e.g. over 42,000 restaurants, 65 million people, 55 countries, or Gary He's McAtlas)."
+        ],
+        "modelAnswer": "According to the article, photojournalist Gary He traveled to more than 55 countries to document how McDonald's changes its menus and customer experiences."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Draft an evidence-based explanation paragraph adhering strictly to the prompt, rubric criteria, and 100–140 word count range.",
+    "prompt": "How does McDonald’s adapt to local cultures while remaining a global brand? Write an evidence-based explanation paragraph of 100–140 words. Use at least three accurate details from the article, include examples from at least two countries, explain the connection between local tastes and global business, and end with a clear conclusion.",
+    "checklist": [
+      "clear controlling idea",
+      "at least three accurate details from the original article",
+      "examples from at least two countries",
+      "correct use of the India, Sweden or Israel examples",
+      "one source-reporting phrase such as According to the article, ...",
+      "one contrast or cause-and-effect connector",
+      "explanation of local adaptation and global business",
+      "logical conclusion",
+      "100–140 words; no invented statistics, dates or outside examples presented as article facts"
+    ],
+    "modelAnswer": "A successful multinational brand must balance global scale with localized customer experiences. According to the article, McDonald’s operates over 42,000 restaurants serving 65 million people daily, yet it alters its operations significantly across different regions. In India, where many people avoid beef, the company introduced vegetarian items like the Big Spicy McWrap Paneer and McAloo Tikki burger. Meanwhile, Sweden features McSki, a ski-through location adapted to local snowy conditions. Furthermore, locations in Israel observe kosher rules by omitting cheeseburgers and offering prime rib instead. As photojournalist Gary He concludes, adjusting to local tastes is vital because global business cannot survive without regional flexibility. In conclusion, respecting local culture enables a global corporation to thrive worldwide."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your completed explanation paragraph against each checklist item before submitting your final response.",
+    "items": [
+      "I stated a clear controlling idea about how McDonald’s balances global scale with local adaptation.",
+      "I included at least three accurate facts directly from the article (such as 42,000 restaurants, 65 million people, or Gary He’s McAtlas).",
+      "I accurately described examples from at least two countries (India, Sweden, or Israel).",
+      "I used source-reporting phrases like 'According to the article' and appropriate contrast or cause-and-effect connectors.",
+      "I explained Gary He’s point about why adjusting to local tastes is necessary for global business.",
+      "My paragraph is organized with a logical conclusion and falls strictly within the 100–140 word count limit."
+    ]
+  },
+  "teacher": {
+    "modelAnswer": "A successful multinational brand must balance global scale with localized customer experiences. According to the article, McDonald’s operates over 42,000 restaurants serving 65 million people daily, yet it alters its operations significantly across different regions. In India, where many people avoid beef, the company introduced vegetarian items like the Big Spicy McWrap Paneer and McAloo Tikki burger. Meanwhile, Sweden features McSki, a ski-through location adapted to local snowy conditions. Furthermore, locations in Israel observe kosher rules by omitting cheeseburgers and offering prime rib instead. As photojournalist Gary He concludes, adjusting to local tastes is vital because global business cannot survive without regional flexibility. In conclusion, respecting local culture enables a global corporation to thrive worldwide.",
+    "answerKey": {
+      "mainIdea": "Option B (McDonald’s changes some menus and experiences to fit local cultures while operating as a global brand.)",
+      "readingComprehension": {
+        "rc-1": "Option B (Over 42,000 restaurants)",
+        "rc-2": "Option A (65 million people)",
+        "rc-3": "Option C (He traveled to more than 55 countries)",
+        "rc-4": "Option B (The Big Spicy McWrap Paneer and the McAloo Tikki burger)",
+        "rc-5": "Option C (Customers can ski right up to the window to order, and it is called McSki)",
+        "rc-6": "Option A (Under kosher rules, cheeseburgers are not found, but customers can order a burger made from prime rib instead)"
+      },
+      "evidenceFromText": {
+        "ev-1": "India's vegetarian menu lines (Big Spicy McWrap Paneer, McAloo Tikki burger), Sweden's ski-through McSki location, and Israel's kosher accommodations omitting cheeseburgers and offering prime rib; documented across 55+ countries by Gary He.",
+        "ev-2": "India adapted dietary items for non-beef eaters; Sweden adapted physical access for snowy winter sports; Israel adapted religious/dietary laws by following kosher rules and offering prime rib.",
+        "ev-3": "He's quote ('Without adjusting to local tastes, you couldn't do business globally') shows that understanding regional culture and tastes is essential for international corporate survival."
+      },
+      "languageFocus": {
+        "lf-1": "Source attribution ('According to He', 'shows that')",
+        "lf-2": "Relative clauses of place/reason ('where many people don't eat beef', 'where kosher rules are followed')",
+        "lf-3": "Contrast connectors ('whereas', 'but', 'in contrast')",
+        "lf-4": "Negative conditions ('Without adjusting to local tastes...')"
+      },
+      "writingPractice": {
+        "wp-1": "Defines business adaptation to local tastes with clear action verb and context.",
+        "wp-2": "Combines Indian menu items with reason clause using because or where.",
+        "wp-3": "Contrasts Sweden's McSki with Israel's kosher rules using while, whereas, or in contrast.",
+        "wp-4": "Uses 'According to the article,' with an exact source detail (42,000 restaurants, 65 million people, 55 countries)."
+      },
+      "finalTask": "Evaluated using the 5-category rubric. Must be 100–140 words, contain 3+ source facts, 2+ country examples, explain the adaptation-business link, and conclude logically."
+    },
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "criterion": "Content & Ideas",
+        "excellent": "Presents a nuanced controlling idea showing how global restaurant chains balance international scale with cultural adaptation; integrates examples from at least two countries accurately.",
+        "developing": "Mentions global scale and local adaptation, but explanations may be general or miss the connection between cultural adjustment and business success.",
+        "beginning": "Struggles to identify the relationship between global business and local tastes; relies on incomplete or inaccurate information.",
+        "descriptors": {
+          "1": "Minimal or inaccurate explanation lacking clear controlling idea.",
+          "2": "Basic explanation with limited detail or only one country example.",
+          "3": "Clear explanation of adaptation with at least two accurate country examples.",
+          "4": "Exceptional integration of global-local tension; accurate synthesis of multiple regional examples."
+        }
+      },
+      {
+        "category": "Evidence Use",
+        "criterion": "Evidence Use",
+        "excellent": "Seamlessly incorporates at least three accurate source details (numbers, names, country examples) using precise attribution phrases.",
+        "developing": "Includes 1–2 text details with basic reporting phrases, or cites details without fully connecting them to the argument.",
+        "beginning": "Lacks specific text evidence or introduces unsupported outside assumptions.",
+        "descriptors": {
+          "1": "Fails to provide text evidence or relies on unverified personal opinions.",
+          "2": "Includes 1–2 source details with vague or repetitive attribution.",
+          "3": "Includes 3 source details with clear reporting phrases.",
+          "4": "Integrates 3+ exact source details with elegant attribution and zero factual embellishments."
+        }
+      },
+      {
+        "category": "Target Language/Structure",
+        "criterion": "Target Language/Structure",
+        "excellent": "Skillfully employs source reporting phrases, contrast connectors, and reason clauses (where/because) to structure complex sentences.",
+        "developing": "Uses simple sentences or shows occasional errors when constructing relative clauses and contrast transitions.",
+        "beginning": "Lacks cohesive connectors; demonstrates frequent sentence boundary errors.",
+        "descriptors": {
+          "1": "Persistent sentence structure errors hindering readability.",
+          "2": "Inconsistent use of transition words and relative clauses.",
+          "3": "Accurate use of reporting phrases and contrast connectors.",
+          "4": "Sophisticated use of varied sentence structures, relative clauses, and contrast connectors."
+        }
+      },
+      {
+        "category": "Organization",
+        "criterion": "Organization",
+        "excellent": "Constructs a unified, cohesive paragraph with an engaging topic sentence, smooth transitional bridges between country examples, and an insightful conclusion.",
+        "developing": "Follows a basic chronological or list-like order, but transitions between country examples may feel abrupt.",
+        "beginning": "Lacks clear paragraph organization or topic progression.",
+        "descriptors": {
+          "1": "Disorganized sentences without unified paragraph structure.",
+          "2": "Somewhat disjointed sequence of sentences lacking smooth transitions.",
+          "3": "Well-organized paragraph with clear beginning, middle evidence, and concluding sentence.",
+          "4": "Flawless paragraph progression from controlling idea to evidence to synthesis and concluding reflection."
+        }
+      },
+      {
+        "category": "Accuracy",
+        "criterion": "Accuracy",
+        "excellent": "Demonstrates exceptional control of grammar, spelling, mechanics, and academic tone; word count is strictly within 100–140 words.",
+        "developing": "Contains minor grammatical or punctuation errors that do not impair comprehension; word count slightly outside the 100–140 range.",
+        "beginning": "Pervasive grammatical and mechanical errors that impede understanding; word count significantly outside limits.",
+        "descriptors": {
+          "1": "Severe grammatical errors causing breakdown in meaning; word count far outside range.",
+          "2": "Noticeable grammatical errors; word count marginally outside 100–140 words.",
+          "3": "Minor mechanical errors that do not impede clarity; word count within 100–140 words.",
+          "4": "Virtually error-free grammar and spelling; word count precisely within 100–140 words."
+        }
+      }
+    ],
+    "teacherNotes": [
+      "1. THREE-PARAGRAPH PROGRESSION: Note the macro-structure of the reading text. Paragraph 1 introduces global scale and photojournalist Gary He's thesis; Paragraph 2 presents three concrete country case studies (India, Sweden, Israel); Paragraph 3 synthesizes these examples with Gary He's concluding principle on global business survival.",
+      "2. DISTINCTION BETWEEN GLOBAL SCALE AND LOCAL ADAPTATION: Emphasize to students that McDonald's does not abandon its global identity. Rather, it maintains corporate systems and scale (42,000 restaurants) while innovating locally to respect distinct cultural practices.",
+      "3. SOURCE-BASED EVIDENCE VS. OUTSIDE OPINION: Remind students that all claims and examples must derive strictly from the CNN article text. Do not allow students to invent other national menus (e.g. teriyaki burgers in Japan or bulgogi burgers in Korea) when writing evidence-based paragraphs.",
+      "4. ATTRIBUTION TO GARY HE: Point out that Gary He is the author of McAtlas and the primary investigative source cited by CNN. Teach students how journalists use third-party experts to support news features.",
+      "5. MEANING OF 'LOCAL TASTES': Clarify that 'local tastes' encompasses not only flavor preferences (spiciness, sweetness) but also religious dietary laws (kosher, vegetarian traditions) and geographic lifestyles (skiing culture).",
+      "6. INDIA CASE STUDY (VEGETARIAN INNOVATION): Highlight that cultural dietary restrictions (avoiding beef) prompted positive culinary innovation—creating brand new items like Big Spicy McWrap Paneer and McAloo Tikki—rather than business withdrawal.",
+      "7. SWEDEN CASE STUDY (ENVIRONMENTAL/SERVICE ADAPTATION): Contrast Sweden's McSki with menu adaptations. Here, the adaptation is physical architecture and service delivery tailored to a snowy recreational lifestyle.",
+      "8. ISRAEL CASE STUDY & NEUTRAL TREATMENT OF KOSHER RULES: Present kosher rules respectfully and objectively as traditional Jewish dietary guidelines (e.g. prohibiting the mixing of dairy and meat, which excludes cheeseburgers). Note that McDonald's offered a prime rib alternative instead.",
+      "9. EVALUATING SOURCE NUMBERS CAUTIOUSLY: Emphasize that figures like 'over 42,000 restaurants' and '65 million people' are reported by the source as approximate daily totals. Teach students to use qualifying language ('According to the article', 'The source states') rather than declaring absolute timeless facts.",
+      "10. ESL SCAFFOLDING FOR COMPARISON & EVIDENCE: For G1/G2 ESL learners, provide sentence stems comparing contrasts (e.g. 'While customers in Sweden can ski to the window, customers in Israel select kosher options...'). Break down compound-complex sentences into manageable chunks before drafting."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Phase A: Opening & Lesson Goal",
+        "phaseNumber": 1,
+        "duration": "5 minutes",
+        "durationMinutes": 5,
+        "objective": "Introduce the lesson theme on global branding versus local adaptation, state the 90-minute goal, and establish success criteria.",
+        "actions": [
+          "Display the title 'McDonald’s: A World of Tasty Twists' on the screen.",
+          "Explain the key concept of how global brands modify products for local communities.",
+          "Preview the final writing goal: a 100–140 word evidence-based explanation paragraph."
+        ],
+        "teacherActions": [
+          "Display the title 'McDonald’s: A World of Tasty Twists' on the screen.",
+          "Explain the key concept of how global brands modify products for local communities.",
+          "Preview the final writing goal: a 100–140 word evidence-based explanation paragraph."
+        ],
+        "script": "Teacher: 'Good morning, class! Today we are reading an informational article about how McDonald’s—one of the world’s largest restaurant chains—adapts to local cultures across the globe. (안녕하세요 여러분! 오늘 우리는 세계 최대 패스트푸드 체인 중 하나인 맥도날드가 전 세계 현지 문화에 어떻게 적응하는지에 대한 기사를 읽을 것입니다.) Our goal over the next 90 minutes is to examine real country examples from India, Sweden, and Israel, analyze why local adaptation matters in international business, and write a polished evidence-based paragraph.'",
+        "scriptEn": "Good morning, class! Today we are reading an informational article about how McDonald’s adapts to local cultures across the globe. / Our goal over the next 90 minutes is to examine real country examples from India, Sweden, and Israel, analyze why local adaptation matters in international business, and write a polished evidence-based paragraph.",
+        "scriptKo": "안녕하세요 여러분! 오늘 우리는 맥도날드가 전 세계 현지 문화에 어떻게 적응하는지에 대한 정보 기사를 읽을 것입니다. / 앞으로 90분 동안 인도의 채식 메뉴, 스웨덴의 스키스루, 이스라엘의 코셔 메뉴 등 실제 사례를 살펴보고, 현지화가 왜 글로벌 비즈니스에 필수적인지 분석하여 완성도 높은 근거 기반 단락을 작성할 것입니다.",
+        "teacherTalk": "Welcome class! Today we examine how global companies balance international size with local cultural traditions. By the end of class, you will write a complete 100–140 word evidence-based explanation paragraph.",
+        "studentActions": "Log in to the student interface, view the lesson title and goal, and prepare note-taking materials.",
+        "misconception": "Students might believe global brands sell identical products in every single country.",
+        "correctiveFeedback": "Remind students that international corporations often modify menus and services to respect local religions, tastes, and climates.",
+        "feedback": "Remind students that international corporations often modify menus and services to respect local religions, tastes, and climates.",
+        "transition": "Let’s start with our Warm-up questions to share your own experiences with international foods."
+      },
+      {
+        "phase": "Phase B: Warm-up Discussion",
+        "phaseNumber": 2,
+        "duration": "10 minutes",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding international food varieties, cultural adaptations, and global business concepts.",
+        "actions": [
+          "Organize students into pairs to discuss Warm-up Questions 1, 2, and 3.",
+          "Circulate around the room, listening to student examples of overseas food variations.",
+          "Call on 2–3 pairs to share their initial thoughts with the entire class."
+        ],
+        "teacherActions": [
+          "Organize students into pairs to discuss Warm-up Questions 1, 2, and 3.",
+          "Circulate around the room, listening to student examples of overseas food variations.",
+          "Call on 2–3 pairs to share their initial thoughts with the entire class."
+        ],
+        "script": "Teacher: 'Turn to your partner and discuss Questions 1 to 3. Think about traveling abroad or seeing foreign snacks. Why wouldn't a restaurant sell the exact same menu in every country? (짝과 함께 1번부터 3번 질문을 토론해 보세요. 해외여행을 가거나 외국 과자를 본 경험을 떠올려 보세요. 왜 식당이 모든 나라에서 똑같은 메뉴만 팔지 않을까요?) Share your ideas with each other.'",
+        "scriptEn": "Turn to your partner and discuss Questions 1 to 3. / Think about traveling abroad or seeing foreign snacks. / Why wouldn't a restaurant sell the exact same menu in every country? / Share your ideas with each other.",
+        "scriptKo": "짝과 함께 1번부터 3번 질문을 이야기해 보세요. / 해외여행이나 외국 과자를 보았던 경험을 떠올려 보세요. / 왜 식당이 모든 나라에서 똑같은 메뉴만 고집하지 않을까요? / 서로의 생각을 자유롭게 나눠 보세요.",
+        "teacherTalk": "Discuss the three questions in pairs. Think about how tastes differ between countries and what makes a brand successful globally.",
+        "studentActions": "Discuss the warm-up prompts in pairs and type brief personal notes into the student interface.",
+        "misconception": "Students might confuse simple translation of names with true cultural product adaptation.",
+        "correctiveFeedback": "Guide students to see that adaptation involves creating new recipes, ingredients, and store formats, not just translating words.",
+        "feedback": "Guide students to see that adaptation involves creating new recipes, ingredients, and store formats, not just translating words.",
+        "transition": "Great examples! Now let's master the 10 core vocabulary words before reading the text."
+      },
+      {
+        "phase": "Phase C: Vocabulary in Context",
+        "phaseNumber": 3,
+        "duration": "12 minutes",
+        "durationMinutes": 12,
+        "objective": "Master 10 key vocabulary terms in context, focusing on part of speech, exact English definition, Korean meaning, and sentence usage.",
+        "actions": [
+          "Present the 10 vocabulary terms: restaurant, depending on, photojournalist, adapt, local tastes, menu line, kosher, prime rib, creativity, global success.",
+          "Highlight 'local tastes' and 'kosher' with neutral, precise cultural explanations.",
+          "Have students read example sentences aloud and practice pronunciation."
+        ],
+        "teacherActions": [
+          "Present the 10 vocabulary terms: restaurant, depending on, photojournalist, adapt, local tastes, menu line, kosher, prime rib, creativity, global success.",
+          "Highlight 'local tastes' and 'kosher' with neutral, precise cultural explanations.",
+          "Have students read example sentences aloud and practice pronunciation."
+        ],
+        "script": "Teacher: 'Let’s examine our 10 key vocabulary words. Pay close attention to 'local tastes'—this means the specific food preferences of people living in a particular area. Also look at 'kosher,' which refers to food prepared according to traditional Jewish dietary laws. (10개의 핵심 어휘를 살펴봅시다. 'local tastes'(현지인들의 입맛)와 유대교 전통 식사 규율을 뜻하는 'kosher'를 주목하세요.) Let's pronounce each word together.'",
+        "scriptEn": "Let’s examine our 10 key vocabulary words. / Pay close attention to 'local tastes'—this means the specific food preferences of people living in a particular area. / Also look at 'kosher,' which refers to food prepared according to traditional Jewish dietary laws. / Let's pronounce each word together.",
+        "scriptKo": "10개의 핵심 단어를 살펴봅시다. / 'local tastes'는 특정 지역에 사는 사람들의 음식 선호도를 의미합니다. / 또한 'kosher'는 유대교 전통 식사 규율에 맞게 조리된 음식을 뜻합니다. / 함께 소리 내어 읽어봅시다.",
+        "teacherTalk": "Review the definitions and Korean equivalents carefully. Note how 'adapt' functions as a verb while 'creativity' is the abstract noun.",
+        "studentActions": "Read vocabulary definitions, note Korean translations, and repeat pronunciation chorally.",
+        "misconception": "Students might assume 'kosher' is an exotic flavor or seasoning rather than a set of dietary rules.",
+        "correctiveFeedback": "Explain neutrally that 'kosher' refers to religious dietary rules about what foods can be eaten and how they are prepared, such as not mixing meat with dairy.",
+        "feedback": "Explain neutrally that 'kosher' refers to religious dietary rules about what foods can be eaten and how they are prepared, such as not mixing meat with dairy.",
+        "transition": "Now that we know the key words, let's read the article for global comprehension."
+      },
+      {
+        "phase": "Phase D: First Reading & Gist (Main Idea)",
+        "phaseNumber": 4,
+        "duration": "10 minutes",
+        "durationMinutes": 10,
+        "objective": "Read the locked source text for overall comprehension and identify the central claim in the Main Idea question.",
+        "actions": [
+          "Direct students to read the three locked paragraphs silently.",
+          "Remind students that the text is an original news report credited to CNN.",
+          "Instruct students to answer the Main Idea question and review instant feedback."
+        ],
+        "teacherActions": [
+          "Direct students to read the three locked paragraphs silently.",
+          "Remind students that the text is an original news report credited to CNN.",
+          "Instruct students to answer the Main Idea question and review instant feedback."
+        ],
+        "script": "Teacher: 'Read through the three paragraphs of the article quietly. Notice how Paragraph 1 introduces the huge numbers, Paragraph 2 gives three specific country examples, and Paragraph 3 concludes with Gary He’s insight. (기사의 3개 단락을 조용히 읽어보세요. 1단락의 통계, 2단락의 세 나라 사례, 3단락의 게리 허의 통찰을 주목하세요.) Then complete the Main Idea question.'",
+        "scriptEn": "Read through the three paragraphs of the article quietly. / Notice how Paragraph 1 introduces the huge numbers, / Paragraph 2 gives three specific country examples, / and Paragraph 3 concludes with Gary He’s insight. / Then complete the Main Idea question.",
+        "scriptKo": "기사의 세 개 단락을 조용히 읽어보세요. / 1단락의 방대한 통계 수치, 2단락의 세 국가별 구체적 사례, 3단락의 게리 허의 핵심 통찰을 주의 깊게 살피세요. / 다 읽은 후 주제 질문을 풀어보세요.",
+        "teacherTalk": "Read the locked reading text independently. Identify the overarching message connecting all three paragraphs.",
+        "studentActions": "Read the locked reading text, select an answer for the Main Idea MCQ, and read the feedback.",
+        "misconception": "Students might choose Option A thinking that a global franchise never changes its menu.",
+        "correctiveFeedback": "Guide students to Paragraph 2, which proves that menu lines and services change dramatically from India to Sweden to Israel.",
+        "feedback": "Guide students to Paragraph 2, which proves that menu lines and services change dramatically from India to Sweden to Israel.",
+        "transition": "With the main idea clear, let's explore detailed evidence across all 6 comprehension questions."
+      },
+      {
+        "phase": "Phase E: Detailed Evidence Reading & Sentence Analysis",
+        "phaseNumber": 5,
+        "duration": "18 minutes",
+        "durationMinutes": 18,
+        "objective": "Analyze each of the 10 source sentences in order, answer Comprehension Questions 1–6, and complete the 3 Evidence from Text prompts.",
+        "actions": [
+          "Guide students through sentence units S01 to S10 using chunk reading and Korean translations.",
+          "Have students complete Comprehension Questions 1–6 with immediate feedback.",
+          "Facilitate Evidence Prompts 1, 2, and 3, prompting students to use Check & Compare."
+        ],
+        "teacherActions": [
+          "Guide students through sentence units S01 to S10 using chunk reading and Korean translations.",
+          "Have students complete Comprehension Questions 1–6 with immediate feedback.",
+          "Facilitate Evidence Prompts 1, 2, and 3, prompting students to use Check & Compare."
+        ],
+        "script": "Teacher: 'Now let’s analyze each sentence closely. Look at Sentence 5: 'In India, where many people don't eat beef...' Notice how the relative clause explains the cultural reason behind the new menu lines. (이제 각 문장을 정밀 분석해 봅시다. 5번 문장에서 'where' 관계사절이 새로운 메뉴 라인을 만든 문화적 이유를 어떻게 설명하는지 보세요.) Now complete Comprehension Questions 1 through 6.'",
+        "scriptEn": "Now let’s analyze each sentence closely. / Look at Sentence 5: 'In India, where many people don't eat beef...' / Notice how the relative clause explains the cultural reason behind the new menu lines. / Now complete Comprehension Questions 1 through 6.",
+        "scriptKo": "이제 문장을 하나씩 자세히 분석해 봅시다. / 5번 문장을 보면 'where' 관계사절이 인도에서 채식 메뉴를 개발한 문화적 배경을 설명합니다. / 이해도 질문 1번부터 6번까지 풀고 근거 작성 3문항도 완성해 보세요.",
+        "teacherTalk": "Work through the sentence guide and complete the comprehension questions. Pay attention to how each fact directly supports Gary He's thesis.",
+        "studentActions": "Review chunked sentences, answer comprehension MCQs, draft evidence responses, and compare with model answers.",
+        "misconception": "Students might think Gary He is a McDonald's executive rather than an independent photojournalist.",
+        "correctiveFeedback": "Point out that the text introduces him as a photojournalist who published a book called McAtlas after traveling to 55+ countries.",
+        "feedback": "Point out that the text introduces him as a photojournalist who published a book called McAtlas after traveling to 55+ countries.",
+        "transition": "Next, let's focus on the key language patterns that connect evidence to explanations."
+      },
+      {
+        "phase": "Phase F: Language Focus & Guided Practice",
+        "phaseNumber": 6,
+        "duration": "12 minutes",
+        "durationMinutes": 12,
+        "objective": "Examine 4 target discourse patterns (source attribution, relative clauses of reason, contrast connectors, negative condition) and complete Writing Practice 1–4.",
+        "actions": [
+          "Explain the four language patterns using examples directly from the reading.",
+          "Demonstrate how to combine facts with 'where' and 'whereas'.",
+          "Monitor students as they complete Writing Practice prompts 1 through 4."
+        ],
+        "teacherActions": [
+          "Explain the four language patterns using examples directly from the reading.",
+          "Demonstrate how to combine facts with 'where' and 'whereas'.",
+          "Monitor students as they complete Writing Practice prompts 1 through 4."
+        ],
+        "script": "Teacher: 'Notice how the writer uses 'whereas' and 'while' to highlight contrasts between countries, and 'According to He' to attribute claims properly. (글쓴이가 국가 간 차이를 강조하기 위해 'whereas'와 'while'을 쓰고, 출처 인용을 위해 'According to He'를 어떻게 활용하는지 보세요.) Use these structures in Writing Practice 1 to 4.'",
+        "scriptEn": "Notice how the writer uses 'whereas' and 'while' to highlight contrasts between countries, / and 'According to He' to attribute claims properly. / Use these structures in Writing Practice 1 to 4.",
+        "scriptKo": "글쓴이가 국가 간 차이를 강조할 때 'whereas'와 'while'을 쓰고, 출처 인용을 위해 'According to He'를 쓰는 방식을 주목하세요. / 쓰기 연습 1번부터 4번까지 이 패턴들을 직접 적용해 보세요.",
+        "teacherTalk": "Study the target patterns. Practice writing cautious, evidence-based sentences using the provided compare tips.",
+        "studentActions": "Draft sentences for Writing Practice 1–4, click Check & Compare, and examine model structures.",
+        "misconception": "Students might start a sentence with 'Because' without completing an independent main clause.",
+        "correctiveFeedback": "Remind students that a 'because' or 'where' dependent clause must attach to a complete main clause.",
+        "feedback": "Remind students that a 'because' or 'where' dependent clause must attach to a complete main clause.",
+        "transition": "You are now equipped with the vocabulary, evidence, and grammar to write the final explanation paragraph!"
+      },
+      {
+        "phase": "Phase G: Writing Practice & Final Task Execution",
+        "phaseNumber": 7,
+        "duration": "18 minutes",
+        "durationMinutes": 18,
+        "objective": "Draft a 100–140 word evidence-based explanation paragraph answering the final prompt using at least three article details, two country examples, and clear connectors.",
+        "actions": [
+          "Review the Final Writing Task prompt and the 9-point checklist with the class.",
+          "Remind students to monitor the live word counter (target: 100–140 words).",
+          "Instruct students to run the rule-based Writing Check before comparing with the model answer."
+        ],
+        "teacherActions": [
+          "Review the Final Writing Task prompt and the 9-point checklist with the class.",
+          "Remind students to monitor the live word counter (target: 100–140 words).",
+          "Instruct students to run the rule-based Writing Check before comparing with the model answer."
+        ],
+        "script": "Teacher: 'Now draft your final paragraph. Your prompt asks: How does McDonald’s adapt to local cultures while remaining a global brand? (이제 최종 단락을 작성하세요. 맥도날드가 글로벌 브랜드로 남아 있으면서 어떻게 현지 문화에 적응하는지 설명해야 합니다.) Make sure you include at least 3 source details, reference at least two countries, and write between 100 and 140 words.'",
+        "scriptEn": "Now draft your final paragraph. / Your prompt asks: How does McDonald’s adapt to local cultures while remaining a global brand? / Make sure you include at least 3 source details, / reference at least two countries, / and write between 100 and 140 words.",
+        "scriptKo": "이제 최종 단락을 작성할 시간입니다. / 프롬프트는 맥도날드가 글로벌 브랜드의 위상을 유지하면서 현지 문화에 어떻게 적응하는지 묻고 있습니다. / 반드시 본문의 세부 정보 3가지 이상, 최소 두 개 국가의 사례를 포함하고, 100~140단어 범위 내에서 작성하세요.",
+        "teacherTalk": "Write your paragraph in the text area. Watch the live word counter and run the rule-based check once your draft is ready.",
+        "studentActions": "Draft the 100–140 word paragraph, check the word count, run the writing check, and review feedback.",
+        "misconception": "Students might write fewer than 100 words or introduce outside facts from their personal knowledge.",
+        "correctiveFeedback": "Remind students that the rubric penalizes outside facts and requires strict adherence to the 100–140 word count.",
+        "feedback": "Remind students that the rubric penalizes outside facts and requires strict adherence to the 100–140 word count.",
+        "transition": "Time for our final self-check and submission."
+      },
+      {
+        "phase": "Phase H: Review, Exit & Student Submission",
+        "phaseNumber": 8,
+        "duration": "5 minutes",
+        "durationMinutes": 5,
+        "objective": "Complete the 6-item Self-Check, review work, and submit the completed lesson.",
+        "actions": [
+          "Guide students through the 6 Self-Check items.",
+          "Ensure student names and codes are entered before submission.",
+          "Confirm that submissions are successfully recorded."
+        ],
+        "teacherActions": [
+          "Guide students through the 6 Self-Check items.",
+          "Ensure student names and codes are entered before submission.",
+          "Confirm that submissions are successfully recorded."
+        ],
+        "script": "Teacher: 'Check each item on your Self-Check list. Verify your word count, enter your name and student code, and click Submit. (자가 진단 목록의 항목들을 하나씩 점검하세요. 단어 수를 확인하고 이름과 학생 코드를 입력한 뒤 제출 버튼을 누르세요.) Outstanding work analyzing global cultural adaptation today!'",
+        "scriptEn": "Check each item on your Self-Check list. / Verify your word count, enter your name and student code, / and click Submit. / Outstanding work analyzing global cultural adaptation today!",
+        "scriptKo": "자가 진단 목록의 항목을 꼼꼼히 확인하세요. / 단어 수를 점검하고, 이름과 학생 코드를 입력한 후 제출을 누르세요. / 오늘 글로벌 문화 적응에 대해 훌륭하게 분석했습니다!",
+        "teacherTalk": "Verify your work with the self-check list. Ensure all written sections are complete before final submission.",
+        "studentActions": "Complete the 6 self-check checkboxes, enter student credentials, and click submit.",
+        "misconception": "Students might forget to check their word count before clicking submit.",
+        "correctiveFeedback": "Prompt students to confirm their word counter shows between 100 and 140 words before submission.",
+        "feedback": "Prompt students to confirm their word counter shows between 100 and 140 words before submission.",
+        "transition": "Lesson complete! Thank you for your hard work and thoughtful writing."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "optionNumber": 1,
+          "title": "Direct Academic Introduction (표준 학술 도입)",
+          "english": "Good morning, class! / Today we will read an informational article from CNN / about how McDonald’s adapts to local cultures worldwide. / Our goal is to examine evidence from India, Sweden, and Israel, / and write an explanation of why local adaptation is vital for global success.",
+          "chunkedEnglish": "Good morning, class! / Today we will read an informational article from CNN / about how McDonald’s adapts to local cultures worldwide. / Our goal is to examine evidence from India, Sweden, and Israel, / and write an explanation of why local adaptation is vital for global success.",
+          "korean": "좋은 아침입니다, 여러분! / 오늘 우리는 CNN의 정보 기사를 읽을 것입니다 / 맥도날드가 전 세계 현지 문화에 어떻게 적응하는지에 대한. / 우리의 목표는 인도, 스웨덴, 이스라엘의 증거를 조사하고, / 현지 적응이 글로벌 성공에 왜 중요한지 설명하는 글을 쓰는 것입니다.",
+          "directKorean": "좋은 아침입니다, 여러분! / 오늘 우리는 CNN의 정보 기사를 읽을 것입니다 / 맥도날드가 전 세계 현지 문화에 어떻게 적응하는지에 대한. / 우리의 목표는 인도, 스웨덴, 이스라엘의 증거를 조사하고, / 현지 적응이 글로벌 성공에 왜 중요한지 설명하는 글을 쓰는 것입니다.",
+          "naturalKorean": "좋은 아침입니다, 여러분! 오늘 우리는 맥도날드가 전 세계 현지 문화에 어떻게 적응하는지 다룬 CNN 정보 기사를 읽을 것입니다. 우리의 목표는 인도, 스웨덴, 이스라엘의 실제 증거를 조사하고, 왜 현지화가 글로벌 성공에 필수적인지 설명하는 글을 완성하는 것입니다.",
+          "teachingPurpose": "Directly establishes the academic focus on global business and cultural adaptation for the 90-minute session.",
+          "purpose": "Directly establishes the academic focus on global business and cultural adaptation for the 90-minute session."
+        },
+        {
+          "optionNumber": 2,
+          "title": "Inquiry & Curiosity Hook (질문 기반 호기심 유발)",
+          "english": "Have you ever wondered / why a global fast food restaurant / doesn't serve the exact same menu in every country? / Today we will follow photojournalist Gary He / across more than 55 countries / to see how local creativity shapes international business.",
+          "chunkedEnglish": "Have you ever wondered / why a global fast food restaurant / doesn't serve the exact same menu in every country? / Today we will follow photojournalist Gary He / across more than 55 countries / to see how local creativity shapes international business.",
+          "korean": "궁금했던 적이 있나요 / 왜 글로벌 패스트푸드 식당이 / 모든 나라에서 똑같은 메뉴를 팔지 않는지? / 오늘 우리는 사진기자 게리 허를 따라갈 것입니다 / 55개국 이상을 여행한 / 현지의 창의성이 어떻게 국제 비즈니스를 형성하는지 보기 위해.",
+          "directKorean": "궁금했던 적이 있나요 / 왜 글로벌 패스트푸드 식당이 / 모든 나라에서 똑같은 메뉴를 팔지 않는지? / 오늘 우리는 사진기자 게리 허를 따라갈 것입니다 / 55개국 이상을 여행한 / 현지의 창의성이 어떻게 국제 비즈니스를 형성하는지 보기 위해.",
+          "naturalKorean": "글로벌 패스트푸드 레스토랑이 왜 모든 나라에서 똑같은 메뉴만 팔지 않는지 궁금했던 적이 있나요? 오늘 우리는 55개국 이상을 직접 방문한 사진기자 게리 허의 여정을 따라가며, 현지 창의성이 어떻게 국제 비즈니스를 성공으로 이끄는지 알아볼 것입니다.",
+          "teachingPurpose": "Engages students through real-world travel curiosities and contrasting food traditions.",
+          "purpose": "Engages students through real-world travel curiosities and contrasting food traditions."
+        },
+        {
+          "optionNumber": 3,
+          "title": "Critical Business & Culture Approach (비즈니스-문화 비판적 사고)",
+          "english": "When a company expands across the globe, / can it treat all customers the same way? / As we read today's article, / we will analyze how respecting local dietary traditions and lifestyles / enables a massive corporation to succeed globally.",
+          "chunkedEnglish": "When a company expands across the globe, / can it treat all customers the same way? / As we read today's article, / we will analyze how respecting local dietary traditions and lifestyles / enables a massive corporation to succeed globally.",
+          "korean": "기업이 전 세계로 확장할 때, / 모든 고객을 똑같은 방식으로 대할 수 있을까요? / 오늘 기사를 읽으면서, / 우리는 현지의 식습관 전통과 생활 방식을 존중하는 것이 / 어떻게 거대 기업이 전 세계적으로 성공할 수 있게 돕는지 분석할 것입니다.",
+          "directKorean": "기업이 전 세계로 확장할 때, / 모든 고객을 똑같은 방식으로 대할 수 있을까요? / 오늘 기사를 읽으면서, / 우리는 현지의 식습관 전통과 생활 방식을 존중하는 것이 / 어떻게 거대 기업이 전 세계적으로 성공할 수 있게 돕는지 분석할 것입니다.",
+          "naturalKorean": "한 기업이 전 세계로 사업을 넓힐 때 모든 소비자를 똑같이 대할 수 있을까요? 오늘 기사를 읽으며 현지의 식습관과 생활 방식을 존중하는 태도가 어떻게 거대 기업의 세계적 성공을 이끄는지 비판적으로 분석해 볼 것입니다.",
+          "teachingPurpose": "Frames the lesson around global-local balance and critical business culture.",
+          "purpose": "Frames the lesson around global-local balance and critical business culture."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "questionNumber": 1,
+          "question": "What kinds of food or products change from country to country?",
+          "korean": "나라마다 어떤 종류의 음식이나 제품이 달라지나요?",
+          "translation": "나라마다 어떤 종류의 음식이나 제품이 달라지나요?",
+          "likelyResponses": [
+            "Snack flavors change, like green tea KitKats in Japan.",
+            "Fast food restaurants have spicy items or rice in Asia.",
+            "Portion sizes and drink sizes are different in different countries."
+          ],
+          "followUp": "Why do multinational companies create special regional flavors instead of selling only their original recipes?",
+          "teacherFollowUp": "Why do multinational companies create special regional flavors instead of selling only their original recipes?",
+          "followUpKorean": "왜 다국적 기업은 원래 레시피만 고집하지 않고 특별한 지역 한정 맛을 개발할까요?",
+          "teacherFollowUpKorean": "왜 다국적 기업은 원래 레시피만 고집하지 않고 특별한 지역 한정 맛을 개발할까요?",
+          "followUpPrompts": [
+            "Have you seen foods overseas that surprised you?",
+            "Do beverages and snacks taste sweeter or less sweet depending on where you buy them?"
+          ],
+          "usefulLanguage": "regional flavors, dietary habits, consumer preference, cultural variation",
+          "cautionNote": "Ensure students focus on observable product adaptations rather than personal food dislikes.",
+          "caution": "Ensure students focus on observable product adaptations rather than personal food dislikes.",
+          "teachingPurpose": "Activates schema regarding international consumer product differentiation.",
+          "purpose": "Activates schema regarding international consumer product differentiation."
+        },
+        {
+          "questionNumber": 2,
+          "question": "Why might a global restaurant change its menu or service in different places?",
+          "korean": "왜 글로벌 레스토랑이 장소에 따라 메뉴나 서비스를 바꿀까요?",
+          "translation": "왜 글로벌 레스토랑이 장소에 따라 메뉴나 서비스를 바꿀까요?",
+          "likelyResponses": [
+            "Because people have different religions or dietary rules.",
+            "Because some ingredients are cheaper or fresher locally.",
+            "To attract local customers who prefer familiar flavors."
+          ],
+          "followUp": "What could happen to a restaurant chain if it completely refused to adapt to local customs?",
+          "teacherFollowUp": "What could happen to a restaurant chain if it completely refused to adapt to local customs?",
+          "followUpKorean": "만약 한 레스토랑 체인이 현지 관습에 적응하기를 완전히 거부한다면 어떤 일이 벌어질까요?",
+          "teacherFollowUpKorean": "만약 한 레스토랑 체인이 현지 관습에 적응하기를 완전히 거부한다면 어떤 일이 벌어질까요?",
+          "followUpPrompts": [
+            "Can you think of a food that is very popular in one culture but taboo in another?",
+            "How does respecting religion help a restaurant maintain customer trust?"
+          ],
+          "usefulLanguage": "cultural sensitivity, dietary rules, religious customs, customer satisfaction",
+          "cautionNote": "Guide students to discuss religious and cultural dietary rules neutrally and respectfully.",
+          "caution": "Guide students to discuss religious and cultural dietary rules neutrally and respectfully.",
+          "teachingPurpose": "Deepens understanding of cultural sensitivity and commercial necessity.",
+          "purpose": "Deepens understanding of cultural sensitivity and commercial necessity."
+        },
+        {
+          "questionNumber": 3,
+          "question": "What is the difference between a local idea and a global business?",
+          "korean": "지역적인 아이디어와 글로벌 비즈니스의 차이점은 무엇인가요?",
+          "translation": "지역적인 아이디어와 글로벌 비즈니스의 차이점은 무엇인가요?",
+          "likelyResponses": [
+            "A local idea is made for a small community, while a global business reaches many countries.",
+            "A global business has massive scale, but it needs local ideas to succeed in each city.",
+            "Local ideas understand neighborhood culture better than big corporate headquarters."
+          ],
+          "followUp": "How can a huge global business borrow creative local ideas without losing its brand identity?",
+          "teacherFollowUp": "How can a huge global business borrow creative local ideas without losing its brand identity?",
+          "followUpKorean": "거대한 글로벌 기업이 브랜드 정체성을 잃지 않으면서 어떻게 독창적인 현지 아이디어를 받아들일 수 있을까요?",
+          "teacherFollowUpKorean": "거대한 글로벌 기업이 브랜드 정체성을 잃지 않으면서 어떻게 독창적인 현지 아이디어를 받아들일 수 있을까요?",
+          "followUpPrompts": [
+            "What stays the same in a global franchise (like logos or store design)?",
+            "What can be modified locally without confusing customers?"
+          ],
+          "usefulLanguage": "global scale, local creativity, brand consistency, regional customization",
+          "cautionNote": "Help students realize that 'global' and 'local' are complementary partners, not enemies.",
+          "caution": "Help students realize that 'global' and 'local' are complementary partners, not enemies.",
+          "teachingPurpose": "Prepares students for Gary He's thesis on local creativity fueling global success.",
+          "purpose": "Prepares students for Gary He's thesis on local creativity fueling global success."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "Did you know that McDonald’s has over 42,000 restaurants serving 65 million people each day?",
+          "chunkReading": "Did you know / that McDonald’s has / over 42,000 restaurants / serving 65 million people / each day?",
+          "directKorean": "당신은 알고 있었나요 / 맥도날드가 가지고 있다는 것을 / 42,000개 이상의 레스토랑을 / 6,500만 명의 사람들에게 음식을 제공하는 / 매일?",
+          "naturalKorean": "맥도날드가 매일 6,500만 명의 사람들에게 음식을 제공하는 42,000개 이상의 매장을 운영하고 있다는 사실을 알고 계셨나요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "over 42,000 restaurants",
+              "meaning": "42,000개 이상의 식당",
+              "use": "quantifier indicating massive scale",
+              "example": "The global brand has over 42,000 restaurants across dozens of countries."
+            },
+            {
+              "chunk": "serving 65 million people each day",
+              "meaning": "매일 6,500만 명에게 음식을 제공하는",
+              "use": "participial phrase modifying restaurants",
+              "example": "The transportation system moves millions of commuters each day."
+            }
+          ],
+          "mustKnowGrammar": "Rhetorical introductory question ('Did you know that...') with noun clause; present participial modifier ('serving 65 million people...') providing ongoing descriptive data; preposition 'over' used as a numerical approximation.",
+          "feynmanExplanation": "Think about how big McDonald’s is. / It has more than 42,000 locations worldwide. / Every single day, / 65 million people eat there. / That shows its massive global scale.",
+          "feynmanExplanationKo": "맥도날드가 얼마나 큰지 상상해 보세요. / 전 세계에 42,000개가 넘는 매장이 있습니다. / 매일매일 / 6,500만 명의 사람들이 그곳에서 식사합니다. / 이는 엄청난 세계적 규모를 보여줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how the author opens with a rhetorical question to hook the reader with mind-boggling numbers.",
+              "korean": "작가가 독자의 흥미를 끌기 위해 엄청난 숫자를 담은 수사 의문문으로 글을 시작한다는 점에 주목하세요."
+            },
+            {
+              "english": "What does 'serving' do here? It acts as an active participle describing what those 42,000 restaurants do every day.",
+              "korean": "'serving'은 여기서 무엇을 하나요? 42,000개 매장이 매일 하는 일을 설명하는 능동 분사 역할을 합니다."
+            },
+            {
+              "english": "Check: How many people are served daily? 65 million people.",
+              "korean": "확인: 매일 몇 명에게 음식이 제공되나요? 6,500만 명입니다."
+            },
+            {
+              "english": "Correction: Be careful not to confuse 42,000 restaurants with the 65 million customers who eat there.",
+              "korean": "교정: 42,000개 매장 수와 그곳에서 식사하는 6,500만 명의 고객 수를 혼동하지 않도록 주의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "That’s nearly the entire population of the United Kingdom eating McDonald’s on the same day.",
+          "chunkReading": "That’s nearly / the entire population / of the United Kingdom / eating McDonald’s / on the same day.",
+          "directKorean": "그것은 거의 / 전체 인구입니다 / 영국의 / 맥도날드를 먹는 / 같은 날에.",
+          "naturalKorean": "그것은 영국 전체 인구에 가까운 사람들이 같은 날 맥도날드를 먹는 것과 같은 규모입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "nearly the entire population",
+              "meaning": "거의 전체 인구",
+              "use": "qualifier showing impressive statistical equivalence",
+              "example": "The stadium held nearly the entire population of the small town."
+            },
+            {
+              "chunk": "on the same day",
+              "meaning": "같은 날에",
+              "use": "temporal adverbial emphasizing simultaneous action",
+              "example": "Millions of citizens cast their votes on the same day."
+            }
+          ],
+          "mustKnowGrammar": "Demonstrative pronoun 'That' referring to the 65 million daily customers; adverb 'nearly' qualifying the adjective 'entire'; participial phrase 'eating McDonald’s' modifying the population noun phrase.",
+          "feynmanExplanation": "To picture 65 million people, / think of the whole United Kingdom. / That is like everyone in the UK / having a McDonald’s meal / on the very same day.",
+          "feynmanExplanationKo": "6,500만 명이 얼마나 많은지 상상해 보려면 / 영국 전체를 떠올려 보세요. / 그것은 영국에 사는 모든 사람이 / 정확히 같은 날에 / 맥도날드 식사를 하는 것과 같습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does the writer mention the United Kingdom here? To give readers a familiar mental picture of 65 million people.",
+              "korean": "작가가 왜 여기서 영국을 언급했을까요? 독자들에게 6,500만 명이 얼마나 되는지 친숙한 비교 대상을 주기 위해서입니다."
+            },
+            {
+              "english": "Notice the word 'nearly'—it shows that 65 million is close to, but not exactly, the UK population.",
+              "korean": "'nearly'라는 단어를 보세요—6,500만 명이 영국 인구에 가깝지만 완전히 동일하지는 않다는 신중한 표현입니다."
+            },
+            {
+              "english": "Check: What country's population is compared to daily McDonald's customers? The United Kingdom.",
+              "korean": "확인: 매일 맥도날드 고객 수와 비교된 나라는 어디인가요? 영국입니다."
+            },
+            {
+              "english": "Correction: Note that the article does not claim all UK citizens actually eat McDonald's; it uses them as a scale comparison.",
+              "korean": "교정: 기사가 영국 국민 전체가 실제로 맥도날드를 먹는다고 주장하는 것이 아니라 규모 비교로 사용했음을 주의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "A new book called McAtlas by photojournalist Gary He shows that McDonald’s actually changes a lot depending on where you are.",
+          "chunkReading": "A new book called McAtlas / by photojournalist Gary He / shows that McDonald’s / actually changes a lot / depending on where you are.",
+          "directKorean": "McAtlas라고 불리는 새 책은 / 사진기자 게리 허에 의한 / 보여줍니다 / 맥도날드가 실제로 많이 바뀐다는 것을 / 당신이 어디에 있는지에 따라.",
+          "naturalKorean": "사진기자 게리 허의 신간 'McAtlas'는 맥도날드가 여러분이 어디에 있는지에 따라 실제로 많은 변화를 보인다는 사실을 보여줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "by photojournalist Gary He",
+              "meaning": "사진기자 게리 허에 의한",
+              "use": "agent prepositional phrase identifying the author",
+              "example": "The documentary by photojournalist Gary He won multiple international awards."
+            },
+            {
+              "chunk": "depending on where you are",
+              "meaning": "당신이 어디에 있는지에 따라",
+              "use": "dependent preposition phrase with indirect question clause",
+              "example": "Weather conditions vary greatly depending on where you are in the mountains."
+            }
+          ],
+          "mustKnowGrammar": "Past participle modifier 'called McAtlas'; reporting verb 'shows' taking a that-noun clause; dependent preposition 'depending on' followed by an adverbial relative/interrogative clause ('where you are').",
+          "feynmanExplanation": "A photographer named Gary He / wrote a book called McAtlas. / His book shows something surprising: / McDonald’s is not the same everywhere. / It changes / depending on the country.",
+          "feynmanExplanationKo": "게리 허라는 사진작가가 / 'McAtlas'라는 책을 썼습니다. / 그의 책은 놀라운 사실을 보여줍니다. / 맥도날드는 어디서나 똑같지 않습니다. / 나라에 따라 / 실제로 많은 것이 바뀝니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the title of the book: 'McAtlas.' What does that combine? 'McDonald's' and 'atlas'—a map book of the world!",
+              "korean": "책 제목인 'McAtlas'를 보세요. 무엇이 합쳐진 말일까요? 'McDonald's'와 세계 지도책을 뜻하는 'atlas'입니다!"
+            },
+            {
+              "english": "Notice the phrase 'depending on where you are.' It sets up the central claim that McDonald's adapts locally.",
+              "korean": "'depending on where you are'라는 구문을 보세요. 맥도날드가 지역에 따라 변화한다는 중심 주장을 설정합니다."
+            },
+            {
+              "english": "Check: Who wrote the book McAtlas? Photojournalist Gary He.",
+              "korean": "확인: 책 McAtlas를 쓴 사람은 누구인가요? 사진기자 게리 허입니다."
+            },
+            {
+              "english": "Correction: Gary He is a photojournalist who authored a book, not an official spokesperson for McDonald's.",
+              "korean": "교정: 게리 허는 책을 집필한 사진기자이지 맥도날드의 공식 대변인이 아니라는 점을 분명히 하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Gary He traveled to more than 55 countries to see these changes for himself.",
+          "chunkReading": "Gary He traveled / to more than 55 countries / to see these changes / for himself.",
+          "directKorean": "게리 허는 여행했습니다 / 55개국 이상으로 / 이러한 변화들을 보기 위해 / 직접.",
+          "naturalKorean": "게리 허는 이러한 변화들을 직접 확인하기 위해 55개국 이상을 여행했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "more than 55 countries",
+              "meaning": "55개국 이상",
+              "use": "quantifier indicating extensive international research",
+              "example": "The research team visited more than 55 countries to collect water samples."
+            },
+            {
+              "chunk": "for himself",
+              "meaning": "자신을 위해, 직접, 스스로",
+              "use": "idiomatic reflexive phrase meaning firsthand",
+              "example": "The scientist wanted to observe the glacier melting for himself."
+            }
+          ],
+          "mustKnowGrammar": "Simple past tense 'traveled' indicating completed historical action; infinitive of purpose 'to see these changes'; reflexive idiom 'for himself' expressing firsthand personal observation.",
+          "feynmanExplanation": "Gary He did not just guess / from his office. / He got on planes / and visited over 55 countries. / He wanted to see / every local McDonald’s / with his own eyes.",
+          "feynmanExplanationKo": "게리 허는 사무실에서 / 그냥 짐작만 한 것이 아닙니다. / 그는 비행기를 타고 / 55개국 이상을 직접 방문했습니다. / 그는 각 지역의 맥도날드를 / 자기 눈으로 직접 / 보고 싶었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What does 'for himself' mean here? It means he didn't rely on second-hand internet rumors—he experienced it in person.",
+              "korean": "여기서 'for himself'는 무슨 뜻일까요? 인터넷 소문에 의존하지 않고 그가 직접 현장을 경험했다는 뜻입니다."
+            },
+            {
+              "english": "Look at the number: 'more than 55 countries.' This shows the breadth of evidence behind his conclusions.",
+              "korean": "'more than 55 countries'라는 숫자를 보세요. 그의 결론 뒤에 있는 광범위한 증거를 보여줍니다."
+            },
+            {
+              "english": "Check: Why did Gary He travel to so many countries? To see the changes for himself.",
+              "korean": "확인: 게리 허는 왜 그렇게 많은 나라를 여행했나요? 변화를 직접 확인하기 위해서입니다."
+            },
+            {
+              "english": "Correction: Notice the preposition 'to'—he traveled *to* more than 55 countries, not *for* 55 years.",
+              "korean": "교정: 전치사 'to'를 주목하세요—55년 동안이 아니라 55개국 이상으로 여행했다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "In India, where many people don’t eat beef, McDonald’s created entirely new menu lines, like the Big Spicy McWrap Paneer and the McAloo Tikki burger.",
+          "chunkReading": "In India, / where many people don’t eat beef, / McDonald’s created / entirely new menu lines, / like the Big Spicy McWrap Paneer / and the McAloo Tikki burger.",
+          "directKorean": "인도에서, / 많은 사람들이 소고기를 먹지 않는, / 맥도날드는 만들었습니다 / 완전히 새로운 메뉴 라인들을, / 빅 스파이시 맥랩 파니르와 같은 / 그리고 맥알루 티키 버거와 같은.",
+          "naturalKorean": "많은 사람들이 소고기를 먹지 않는 인도에서, 맥도날드는 빅 스파이시 맥랩 파니르나 맥알루 티키 버거와 같은 완전히 새로운 메뉴 라인을 개발했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "where many people don’t eat beef",
+              "meaning": "많은 사람들이 소고기를 먹지 않는",
+              "use": "non-defining relative clause explaining cultural context",
+              "example": "In cultures where many people don’t eat beef, restaurants offer vegetarian options."
+            },
+            {
+              "chunk": "entirely new menu lines",
+              "meaning": "완전히 새로운 메뉴 라인들",
+              "use": "adverb-adjective-noun combination showing thorough innovation",
+              "example": "The bakery developed entirely new menu lines using gluten-free flour."
+            }
+          ],
+          "mustKnowGrammar": "Non-defining relative clause beginning with relative adverb 'where' providing cultural background; past tense 'created'; adverb 'entirely' modifying adjective 'new'; preposition 'like' introducing specific proper noun examples.",
+          "feynmanExplanation": "In India, many people / do not eat beef / because of their traditions. / So what did McDonald’s do? / They did not give up. / They created brand-new vegetarian foods / made with paneer cheese and potatoes.",
+          "feynmanExplanationKo": "인도에서는 많은 사람들이 / 문화적 전통 때문에 / 소고기를 먹지 않습니다. / 맥도날드는 어떻게 했을까요? / 포기하지 않았습니다. / 파니르 치즈와 감자로 만든 / 완전히 새로운 채식 메뉴를 개발했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the relative clause 'where many people don’t eat beef.' It explains *why* McDonald's had to innovate.",
+              "korean": "'where many people don’t eat beef'라는 관계사절을 보세요. 맥도날드가 왜 혁신해야만 했는지 이유를 설명합니다."
+            },
+            {
+              "english": "Notice the specific menu names: 'Big Spicy McWrap Paneer' and 'McAloo Tikki burger.' Paneer is an Indian cheese, and aloo means potato!",
+              "korean": "구체적 메뉴 이름들을 보세요. 'Big Spicy McWrap Paneer'와 'McAloo Tikki burger'입니다. 파니르는 인도식 치즈이고, 알루는 감자를 뜻합니다!"
+            },
+            {
+              "english": "Check: What menu lines did McDonald's create in India? The Big Spicy McWrap Paneer and McAloo Tikki burger.",
+              "korean": "확인: 맥도날드가 인도에서 개발한 메뉴 라인은 무엇인가요? 빅 스파이시 맥랩 파니르와 맥알루 티키 버거입니다."
+            },
+            {
+              "english": "Correction: Remember that McDonald's created *new* lines rather than just removing items; it actively designed vegetarian alternatives.",
+              "korean": "교정: 단순히 메뉴를 뺀 것이 아니라 적극적으로 새로운 채식 대안을 개발했다는 점을 기억하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "In Sweden, one location lets you ski right up to the window to order.",
+          "chunkReading": "In Sweden, / one location lets you / ski right up / to the window / to order.",
+          "directKorean": "스웨덴에서, / 한 매장은 당신으로 하여금 하게 합니다 / 바로 스키를 타고 오도록 / 창문까지 / 주문하기 위해.",
+          "naturalKorean": "스웨덴에서는 한 매장에서 주문하기 위해 창문 바로 앞까지 스키를 타고 갈 수 있게 해 줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "lets you ski right up to the window",
+              "meaning": "창문 바로 앞까지 스키를 타고 오게 해 주다",
+              "use": "causative verb phrase with directional adverb 'right up'",
+              "example": "The beachfront cafe lets you walk right up to the counter in sandals."
+            },
+            {
+              "chunk": "to order",
+              "meaning": "주문하기 위해",
+              "use": "infinitive of purpose",
+              "example": "Customers line up at the counter to order breakfast."
+            }
+          ],
+          "mustKnowGrammar": "Causative verb 'lets' taking bare infinitive 'ski'; directional intensifier 'right up to'; infinitive of purpose 'to order'.",
+          "feynmanExplanation": "Sweden gets lots of snow. / People there love skiing. / So one McDonald’s / lets customers ski right up / to the ordering window! / You do not even / take off your skis.",
+          "feynmanExplanationKo": "스웨덴에는 눈이 많이 내립니다. / 사람들은 스키 타는 것을 좋아하죠. / 그래서 한 맥도날드 매장은 / 손님들이 주문 창문 바로 앞까지 / 스키를 타고 오게 해 줍니다! / 스키를 벗을 필요조차 없습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how this adaptation is different from India. India adapted the food; Sweden adapted the way customers physically arrive!",
+              "korean": "이 적응이 인도와 어떻게 다른지 보세요. 인도는 음식을 바꿨지만, 스웨덴은 손님이 물리적으로 도착하는 방식을 바꿨습니다!"
+            },
+            {
+              "english": "Look at the structure: 'lets you ski.' The verb 'let' takes an object and a base verb without 'to.'",
+              "korean": "'lets you ski' 구조를 보세요. 사역동사 'let'은 목적어 뒤에 'to' 없는 원형부정사를 취합니다."
+            },
+            {
+              "english": "Check: What can customers do at the Sweden location? Ski right up to the window to order.",
+              "korean": "확인: 스웨덴 매장에서 고객들은 무엇을 할 수 있나요? 주문 창문 바로 앞까지 스키를 타고 갈 수 있습니다."
+            },
+            {
+              "english": "Correction: Notice that it says 'one location' in Sweden, not every single McDonald's in the entire country.",
+              "korean": "교정: 스웨덴 전국 매장이 아니라 '한 매장(one location)'이라고 명시되어 있음에 주의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "It’s called McSki, and it’s the only ski-through McDonald’s on Earth.",
+          "chunkReading": "It’s called McSki, / and it’s the only / ski-through McDonald’s / on Earth.",
+          "directKorean": "그것은 McSki라고 불립니다, / 그리고 그것은 유일한 것입니다 / 스키스루 맥도날드 / 지구상에서.",
+          "naturalKorean": "그곳은 'McSki'라고 불리며, 지구상에서 유일한 스키스루 맥도날드 매장입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "the only ski-through McDonald’s",
+              "meaning": "유일한 스키스루 맥도날드",
+              "use": "noun phrase modeled on 'drive-through'",
+              "example": "The resort opened the only ski-through coffee shop in the region."
+            },
+            {
+              "chunk": "on Earth",
+              "meaning": "지구상에서, 세상에서",
+              "use": "superlative prepositional phrase emphasizing uniqueness",
+              "example": "This national park is the only place on Earth where these trees grow."
+            }
+          ],
+          "mustKnowGrammar": "Passive structure 'is called'; coordinate clause joined by 'and'; unique modifier 'the only' with compound noun 'ski-through McDonald’s'; prepositional phrase 'on Earth'.",
+          "feynmanExplanation": "This special store / has a fun name: McSki. / Instead of a drive-through for cars, / it is a ski-through for skiers. / It is the only one / anywhere in the world.",
+          "feynmanExplanationKo": "이 특별한 매장은 / 'McSki'라는 재미있는 이름을 가지고 있습니다. / 자동차를 위한 드라이브스루 대신 / 스키어를 위한 스키스루입니다. / 전 세계 어디에도 없는 / 유일한 매장입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Where does the word 'ski-through' come from? It's a creative play on 'drive-through'!",
+              "korean": "'ski-through'라는 단어는 어디서 유래했을까요? 'drive-through(드라이브스루)'를 재치 있게 변형한 말입니다!"
+            },
+            {
+              "english": "Notice the phrase 'on Earth.' It emphasizes the complete uniqueness of this Swedish franchise location.",
+              "korean": "'on Earth'라는 표현을 보세요. 이 스웨덴 매장의 독보적인 유일성을 강조합니다."
+            },
+            {
+              "english": "Check: What is the name of the ski-through location? McSki.",
+              "korean": "확인: 스키스루 매장의 이름은 무엇인가요? McSki입니다."
+            },
+            {
+              "english": "Correction: Remember to spell McSki with a capital M and S, exactly as preserved in the text.",
+              "korean": "교정: 원문에 보존된 대로 McSki의 M과 S를 대문자로 정확히 쓰도록 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "In Israel, where kosher rules are followed, you won’t find cheeseburgers, but you can order a burger made from prime rib instead!",
+          "chunkReading": "In Israel, / where kosher rules are followed, / you won’t find cheeseburgers, / but you can order a burger / made from prime rib / instead!",
+          "directKorean": "이스라엘에서, / 코셔 규칙이 지켜지는, / 당신은 치즈버거를 찾을 수 없을 것입니다, / 하지만 버거를 주문할 수 있습니다 / 프라임 립으로 만들어진 / 대신에!",
+          "naturalKorean": "코셔 율법이 지켜지는 이스라엘에서는 치즈버거를 찾아볼 수 없지만, 대신 프라임 립으로 만든 버거를 주문할 수 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "where kosher rules are followed",
+              "meaning": "코셔 규칙이 지켜지는",
+              "use": "passive relative clause explaining religious context",
+              "example": "In bakeries where kosher rules are followed, certified ingredients are required."
+            },
+            {
+              "chunk": "made from prime rib instead",
+              "meaning": "대신에 프라임 립으로 만들어진",
+              "use": "participial phrase showing premium substitution",
+              "example": "The restaurant served a patty made from prime rib instead of regular beef."
+            }
+          ],
+          "mustKnowGrammar": "Passive relative clause 'where kosher rules are followed'; negative future modal 'won’t find'; coordinate conjunction 'but' expressing contrast; past participle modifier 'made from prime rib'; adverb 'instead' marking substitution.",
+          "feynmanExplanation": "In Israel, Jewish dietary laws / are called kosher. / Under kosher rules, / you cannot mix meat and dairy. / So there are no cheeseburgers! / Instead, McDonald’s offers / a fancy burger made from prime rib.",
+          "feynmanExplanationKo": "이스라엘에서는 유대교 식사 율법을 / 코셔라고 부릅니다. / 코셔 율법에 따르면 / 고기와 유제품을 함께 섞어 먹을 수 없습니다. / 그래서 치즈버거가 없습니다! / 대신 맥도날드는 / 프라임 립으로 만든 고급 버거를 제공합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why are cheeseburgers not found in these Israeli locations? Because kosher rules prohibit combining meat and cheese.",
+              "korean": "왜 이스라엘 매장에서는 치즈버거를 찾을 수 없을까요? 코셔 율법이 고기와 치즈(유제품)를 함께 먹는 것을 금지하기 때문입니다."
+            },
+            {
+              "english": "Notice the contrast: 'you won’t find cheeseburgers, but you can order a burger made from prime rib instead!'",
+              "korean": "대조를 보세요. '치즈버거는 없지만, 대신 프라임 립으로 만든 버거를 주문할 수 있다!'라는 점입니다."
+            },
+            {
+              "english": "Check: What kind of burger can customers order in Israel instead of cheeseburgers? A burger made from prime rib.",
+              "korean": "확인: 고객들은 치즈버거 대신 어떤 버거를 주문할 수 있나요? 프라임 립으로 만든 버거입니다."
+            },
+            {
+              "english": "Correction: Teach kosher rules neutrally as traditional dietary regulations without making theological judgments.",
+              "korean": "교정: 코셔 규칙을 종교적 편견 없이 전통적 식사 규율로서 중립적이고 객관적으로 가르치세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "According to He, this local creativity is the secret behind the brand’s global success.",
+          "chunkReading": "According to He, / this local creativity / is the secret / behind the brand’s global success.",
+          "directKorean": "허에 따르면, / 이러한 현지의 창의성은 / 비밀입니다 / 그 브랜드의 세계적인 성공 뒤에 있는.",
+          "naturalKorean": "게리 허에 따르면, 이러한 현지의 창의성이야말로 맥도날드 브랜드가 전 세계적인 성공을 거둔 비결입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "According to He",
+              "meaning": "게리 허에 따르면",
+              "use": "prepositional attribution phrase signaling source voice",
+              "example": "According to He, the exhibition features photographs from every continent."
+            },
+            {
+              "chunk": "the secret behind the brand’s global success",
+              "meaning": "그 브랜드의 세계적인 성공 뒤에 있는 비결",
+              "use": "metaphorical explanation of cause and achievement",
+              "example": "Continuous customer feedback is the secret behind the company’s global success."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional source attribution phrase 'According to He'; demonstrative noun phrase 'this local creativity'; linking verb 'is'; prepositional phrase 'behind the brand's global success' acting as post-modifier for 'the secret'.",
+          "feynmanExplanation": "Gary He shares his big idea here. / Why is McDonald’s so successful / all around the world? / Not because it forces / the same food on everyone. / The secret is / its local creativity.",
+          "feynmanExplanationKo": "게리 허가 여기서 핵심 주장을 전합니다. / 왜 맥도날드가 전 세계에서 / 그렇게 큰 성공을 거두었을까요? / 모든 사람에게 / 똑같은 음식을 강요했기 때문이 아닙니다. / 그 비결은 바로 / 현지화된 창의성에 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the phrase 'According to He.' It clearly marks that this conclusion comes from Gary He's analysis.",
+              "korean": "'According to He' 구문을 보세요. 이 결론이 게리 허의 분석에서 비롯되었음을 명확히 보여줍니다."
+            },
+            {
+              "english": "What does 'this local creativity' refer back to? All the examples from Paragraph 2: paneer wraps, McSki, and prime rib burgers!",
+              "korean": "'this local creativity'는 무엇을 가리킬까요? 2단락에 나온 모든 사례인 파니르 랩, McSki, 프라임 립 버거입니다!"
+            },
+            {
+              "english": "Check: What does He identify as the secret behind McDonald's success? Local creativity.",
+              "korean": "확인: 허가 맥도날드 성공 비결로 꼽은 것은 무엇인가요? 현지의 창의성입니다."
+            },
+            {
+              "english": "Correction: Teach students that 'He' refers to Gary He, the photojournalist introduced in Paragraph 1.",
+              "korean": "교정: 대명사 'He'가 1단락에서 소개된 사진기자 게리 허를 가리킨다는 점을 확인시켜 주세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "“Without adjusting to local tastes,” he says, “you couldn’t do business globally.”",
+          "chunkReading": "“Without adjusting / to local tastes,” / he says, / “you couldn’t do business / globally.”",
+          "directKorean": "“현지 입맛에 맞추지 않고서는,” / 그가 말합니다, / “당신은 비즈니스를 할 수 없을 것입니다 / 전 세계적으로.”",
+          "naturalKorean": "그는 “현지 입맛에 맞추지 않는다면, 세계적인 비즈니스를 할 수 없을 것입니다”라고 말합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Without adjusting to local tastes",
+              "meaning": "현지 입맛에 맞추지 않고서는",
+              "use": "prepositional phrase expressing negative condition",
+              "example": "Without adjusting to local tastes, foreign restaurants often close within a year."
+            },
+            {
+              "chunk": "do business globally",
+              "meaning": "전 세계적으로 비즈니스를 하다",
+              "use": "verb phrase expressing international commerce",
+              "example": "Modern digital companies can do business globally from a small office."
+            }
+          ],
+          "mustKnowGrammar": "Preposition 'without' + gerund 'adjusting'; dependent preposition 'to'; reporting interpolation 'he says'; hypothetical conditional modal 'couldn’t do business'; adverb 'globally'.",
+          "feynmanExplanation": "Gary He finishes with a strong rule. / If you want to sell food / in many countries, / you must listen to the local people. / If you do not adapt to their tastes, / your global business will fail.",
+          "feynmanExplanationKo": "게리 허는 강력한 비즈니스 원칙으로 글을 마칩니다. / 여러 나라에서 음식을 팔고 싶다면 / 현지 사람들의 목소리에 귀 기울여야 합니다. / 그들의 입맛에 맞추지 못한다면 / 글로벌 비즈니스는 실패하고 말 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the quotation structure: 'Without adjusting to local tastes,' he says, 'you couldn't do business globally.'",
+              "korean": "인용문 구조를 보세요. 직접 인용구 중간에 'he says'가 삽입되어 생생한 목소리를 전달합니다."
+            },
+            {
+              "english": "What does 'couldn't' express here? A conditional impossibility: without local adaptation, global business is impossible.",
+              "korean": "여기서 'couldn't'는 무엇을 나타낼까요? 조건부 불가능성입니다. 즉 현지 적응 없이는 글로벌 비즈니스가 불가능하다는 뜻입니다."
+            },
+            {
+              "english": "Check: What happens if a company does not adjust to local tastes according to He? It cannot do business globally.",
+              "korean": "확인: 게리 허에 따르면 현지 입맛에 맞추지 않으면 어떻게 되나요? 전 세계적으로 사업을 할 수 없습니다."
+            },
+            {
+              "english": "Correction: Emphasize the quotation marks and exact attribution: these are Gary He's spoken words recorded by CNN.",
+              "korean": "교정: 큰따옴표와 정확한 인용에 주목하세요. 이는 CNN에 기록된 게리 허의 실제 발언입니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "According to the article, McDonald’s operates over 42,000 restaurants, yet it alters its menus significantly in different nations.",
+          "In India, where many people don't eat beef, the brand created new vegetarian lines such as the Big Spicy McWrap Paneer.",
+          "In Sweden, customers can ski right up to the McSki order window, whereas in Israel, locations observe kosher rules.",
+          "As photojournalist Gary He explains, local creativity is vital because without adjusting to local tastes, a brand cannot do business globally.",
+          "In conclusion, adapting to local cultures enables a global corporation to thrive in competitive international markets."
+        ],
+        "usefulConnectors": [
+          "According to the article,",
+          "In contrast,",
+          "Whereas",
+          "Meanwhile,",
+          "Furthermore,",
+          "Because",
+          "Where",
+          "Without adjusting to...",
+          "In conclusion,"
+        ],
+        "usefulVocabulary": [
+          "multinational brand",
+          "global scale",
+          "local adaptation",
+          "menu lines",
+          "dietary traditions",
+          "kosher rules",
+          "ski-through",
+          "local creativity",
+          "consumer expectations"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State how global brands balance international scale with local cultural adaptation.",
+          "2. Source Evidence (Scale): Cite McDonald's massive reach (over 42,000 restaurants serving 65 million people daily).",
+          "3. Regional Example 1: Detail India's vegetarian menu lines (Big Spicy McWrap Paneer, McAloo Tikki) where beef is avoided.",
+          "4. Regional Example 2 or 3: Contrast Sweden's McSki or Israel's kosher menu accommodations.",
+          "5. Business Connection: Cite Gary He's insight that local creativity and adapting to local tastes are essential for global success.",
+          "6. Concluding Sentence: Summarize why cultural flexibility enables sustainable international commerce."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "McDonalds serve the same beef burgers in India because it is global company.",
+            "correction": "McDonald's created entirely new vegetarian lines in India, where many people do not eat beef."
+          },
+          {
+            "mistake": "Gary He said you can do business without adjusting to local taste.",
+            "correction": "Gary He stated that without adjusting to local tastes, you couldn't do business globally."
+          },
+          {
+            "mistake": "In Sweden everyone ski to work every day.",
+            "correction": "In Sweden, one specific location called McSki lets customers ski right up to the ordering window."
+          },
+          {
+            "mistake": "Because kosher rules are followed so cheeseburgers are banned in all countries.",
+            "correction": "Because kosher rules are followed in Israel, McDonald's does not serve cheeseburgers there, but offers prime rib instead."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Check that students do not invent menus from unmentioned countries (e.g. Korea, Japan, Mexico).",
+          "Verify that at least three accurate source details and two country examples are clearly presented.",
+          "Ensure attribution phrases ('According to the article', 'As Gary He explains') are punctuated correctly.",
+          "Check that the final paragraph word count is strictly between 100 and 140 words."
+        ]
+      }
+    }
+  }
+}

@@ -145,6 +145,11 @@ export default function ArticleReading({ data }) {
           ))}
         </div>
       )}
+      {data.source && !data.pages && !data.sections && (
+        <p className="article__source-footer" data-source-label="true" style={{ marginTop: '0.75rem', fontStyle: 'italic', color: 'var(--color-muted)' }}>
+          {data.source}
+        </p>
+      )}
     </SectionCard>
   );
 }

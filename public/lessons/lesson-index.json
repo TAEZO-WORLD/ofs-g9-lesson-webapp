@@ -1,6 +1,13 @@
 {
-  "latest": "2026-09-28-icebergs-frozen-giants",
+  "latest": "2026-10-12-mcdonalds-tasty-twists",
   "lessons": [
+    {
+      "slug": "2026-10-12-mcdonalds-tasty-twists",
+      "title": "McDonald’s: A World of Tasty Twists",
+      "ofsUnit": "Unit 2 — Communities, Culture & Globalization",
+      "textType": "Informational Global Culture Article / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-12"
+    },
     {
       "slug": "2026-09-28-icebergs-frozen-giants",
       "title": "Icebergs: Frozen Giants with Stories to Tell",
