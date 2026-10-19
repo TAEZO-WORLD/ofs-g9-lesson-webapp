@@ -1,6 +1,13 @@
 {
-  "latest": "2026-10-12-mcdonalds-tasty-twists",
+  "latest": "2026-10-19-name-sharing-statistics",
   "lessons": [
+    {
+      "slug": "2026-10-19-name-sharing-statistics",
+      "title": "How Many People Share Your Name?",
+      "ofsUnit": "Unit 1 — Identity, Names & Communities",
+      "textType": "Informational Data and Culture Feature / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-19"
+    },
     {
       "slug": "2026-10-12-mcdonalds-tasty-twists",
       "title": "McDonald’s: A World of Tasty Twists",

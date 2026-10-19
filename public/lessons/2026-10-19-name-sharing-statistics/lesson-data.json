@@ -1,0 +1,1947 @@
+{
+  "lessonTitle": "How Many People Share Your Name?",
+  "ofsUnit": "Unit 1 — Identity, Names & Communities",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational Data and Culture Feature",
+  "writingType": "Evidence-Based Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students read an informational visual article about name sharing, identify numerical evidence and mathematical relationships, distinguish averages from individual cases, compare the Western Hemisphere and China examples, and write a cautious evidence-based explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. Think about your own experiences with personal names and how numbers can help us understand communities.",
+    "questions": [
+      "Have you ever met someone with the same first name as you?",
+      "What might make a full name common or uncommon?",
+      "Why could numbers help us understand how names are shared?"
+    ],
+    "sentenceStarters": [
+      "In my school (or neighborhood), I have (or have never) met someone who shares my first name, which made me feel...",
+      "A full name might become very common if the culture uses a small set of popular family surnames combined with...",
+      "Looking at mathematical combinations and population sizes helps us understand whether sharing a name is..."
+    ]
+  },
+  "article": {
+    "title": "How Many People Share Your Name?",
+    "sourceNote": "Original text and visual labels transcribed from two teacher-provided classroom images. No publication date, article URL or publication credit is shown in the images.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "pageLabel": "Image 1 — How Many People Share Your Name?",
+        "title": "How Many People Share Your Name?",
+        "paragraphs": [
+          "Have you ever met someone with the same name as you? Maybe even the same first AND last name? You’re not alone. Around the world, millions of people share names! Let’s dive in!"
+        ],
+        "visualLabels": [
+          "Famous Names | Statistics | Random Famous Person",
+          "First Name:",
+          "Last Name:",
+          "Search Names",
+          "John",
+          "Smith",
+          "There are 5,433,882 people in the U.S. with the first name John.",
+          "Statistically the 2nd most popular first name.",
+          "99.63 percent of people with the first name John are male.",
+          "Names similar to John:",
+          "Hans",
+          "Ian",
+          "Ivan",
+          "There are 2,915,899 people in the U.S. with the last name Smith.",
+          "Statistically the 1st most popular last name.",
+          "Famous people with the last name Smith:",
+          "Adam Smith",
+          "Fun Fact! There are many websites trying to guess how many same names exist!"
+        ],
+        "sections": [
+          {
+            "heading": "Do People Really Share the Same Name?",
+            "paragraphs": [
+              "Yes, and it happens a lot!",
+              "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world. In China alone, over 100 million people share the last name Wang!",
+              "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do."
+            ]
+          }
+        ]
+      },
+      {
+        "pageNumber": 2,
+        "pageLabel": "Image 2 — What’s the Chance Someone Has the Same Full Name as You?",
+        "title": "What’s the Chance Someone Has the Same Full Name as You?",
+        "sections": [
+          {
+            "heading": "In the Western Hemisphere (U.S., Canada, UK):",
+            "intro": "Let’s take two real U.S. name lists:",
+            "bullets": [
+              "- Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+              "- Top 100 surnames (like Smith, Johnson, Brown, Garcia...)"
+            ],
+            "paragraphs": [
+              "That gives us 100 × 100 = 10,000 common full-name combinations.",
+              "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)"
+            ]
+          },
+          {
+            "heading": "Researchers say:",
+            "bullets": [
+              "- If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+              "- If your name is less common, you might share it with none or just a few."
+            ]
+          },
+          {
+            "heading": "In Asia (like China):",
+            "intro": "Things are very different here!",
+            "bullets": [
+              "- China has 1.4 billion people",
+              "- Over 85% of people share one of the top 100 surnames",
+              "- Only a few thousand common first names are in regular use"
+            ]
+          },
+          {
+            "heading": "Let’s try the math:",
+            "paragraphs": [
+              "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+              "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name",
+              "And that’s just an average. Some names, like Wang Wei, are shared by hundreds of thousands of people!",
+              "The Most Popular Baby Names for Girls & Boys!"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms below from the article. Pay close attention to the part of speech, English definition, concise Korean translation, and example sentence.",
+    "items": [
+      {
+        "word": "share",
+        "partOfSpeech": "verb",
+        "definition": "to have or possess the same quality, characteristic, or name as someone else",
+        "korean": "공유하다, 함께 가지다, 같은 이름을 쓰다",
+        "sentence": "Several students in our grade share the same first name, so teachers use last initials to distinguish them."
+      },
+      {
+        "word": "exact name",
+        "partOfSpeech": "noun phrase",
+        "definition": "the completely identical full name matching another person letter for letter",
+        "korean": "완전히 일치하는 이름, 정확히 똑같은 성명",
+        "sentence": "He was surprised to discover an international athlete who had his exact name, including both given name and surname."
+      },
+      {
+        "word": "last name",
+        "partOfSpeech": "noun",
+        "definition": "a family name inherited from parents and shared by family members, typically placed after the given name in Western cultures",
+        "korean": "성 (family name)",
+        "sentence": "When filling out your international examination paperwork, please print your last name in clear block letters."
+      },
+      {
+        "word": "surname",
+        "partOfSpeech": "noun",
+        "definition": "a hereditary family name passed down across generations; an alternative formal term for last name",
+        "korean": "성 (姓), 성씨",
+        "sentence": "In many historical records, a person's surname indicated their ancestors' traditional village or trade."
+      },
+      {
+        "word": "combination",
+        "partOfSpeech": "noun",
+        "definition": "the joining or grouping of two or more distinct elements chosen from separate sets",
+        "korean": "조합, 결합",
+        "sentence": "Multiplying ten possible given names by ten possible surnames creates one hundred unique full-name combinations."
+      },
+      {
+        "word": "common",
+        "partOfSpeech": "adjective",
+        "definition": "found frequently, widely used, or shared by many people within a community",
+        "korean": "흔한, 널리 쓰이는, 공통의",
+        "sentence": "Because Emma was a common first name for that birth year, four girls in the class shared it."
+      },
+      {
+        "word": "uncommon",
+        "partOfSpeech": "adjective",
+        "definition": "rare, not frequently occurring, or unusual within a specific language or population",
+        "korean": "흔하지 않은, 드문",
+        "sentence": "He carried an uncommon family surname that only a few hundred households in the country still held."
+      },
+      {
+        "word": "average",
+        "partOfSpeech": "noun",
+        "definition": "a calculated central mathematical value obtained by dividing a total quantity by the number of categories; a statistical benchmark rather than a guarantee for every individual",
+        "korean": "평균, 평균 수치",
+        "sentence": "Although the statistical average shows thousands of people per name combo, an individual with a rare name may have zero namesakes."
+      },
+      {
+        "word": "population",
+        "partOfSpeech": "noun",
+        "definition": "the total number of human inhabitants residing within an entire country, territory, or demographic group",
+        "korean": "인구, 총 주민 수",
+        "sentence": "With a massive national population of over one billion people, large surname groups can encompass tens of millions of citizens."
+      },
+      {
+        "word": "in regular use",
+        "partOfSpeech": "idiomatic adjective phrase",
+        "definition": "habitually, constantly, or routinely employed in everyday practical communication",
+        "korean": "일상적으로 사용되는, 통상적으로 쓰이는",
+        "sentence": "Although historical dictionaries preserve thousands of ancient characters, only a few thousand given names remain in regular use today."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of the two-image article?",
+    "options": [
+      "Everyone in the world has a completely unique full name.",
+      "Because many people share a limited number of first names and surnames, the chance of sharing a name can be high, although the situation varies by region and by name.",
+      "Only people in China share names with other people.",
+      "A name can be studied only by looking at a map."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! The article demonstrates that because millions of people draw from popular pools of first names and surnames, the probability of sharing an identical full name can be surprisingly high, even though mathematical averages and individual chances vary across different regions like the U.S. and China.",
+      "incorrect": "X Incorrect. Option B is correct because the source explains both the global frequency of shared names (Image 1) and the regional mathematical factors that cause name sharing to vary across different countries and naming traditions (Image 2)."
+    },
+    "explanation": "Image 1 establishes the widespread global reality of shared names (with over 150 million Muhammads and 100 million Wangs), while Image 2 provides mathematical models for the Western Hemisphere and China, explaining that while high averages exist, the actual number of namesakes depends heavily on whether a specific name is common or uncommon."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "What does the article say about the number of people named Muhammad?",
+        "options": [
+          "Fewer than 10,000 people have that name worldwide.",
+          "There are over 150 million Muhammads around the world.",
+          "Only people living in one country share that name.",
+          "Exactly 30 million boys are named Muhammad."
+        ],
+        "correctIndex": 1,
+        "reference": "Image 1 — Section 'Do People Really Share the Same Name?'",
+        "feedback": {
+          "correct": "O Correct! Image 1 explicitly reports: 'There are over 150 million Muhammads...around the world.'",
+          "incorrect": "X Incorrect. Option B is correct because the article directly states there are over 150 million Muhammads globally."
+        },
+        "explanation": "Image 1 opens with global demographic examples of common names, highlighting that over 150 million people share the first name Muhammad."
+      },
+      {
+        "id": "rc2",
+        "question": "What does the article say about the surname Wang in China?",
+        "options": [
+          "Only a few thousand people share it.",
+          "In China alone, over 100 million people share the last name Wang.",
+          "It is the only surname used in Asia.",
+          "It is shared by exactly 40,000 people."
+        ],
+        "correctIndex": 1,
+        "reference": "Image 1 — Section 'Do People Really Share the Same Name?'",
+        "feedback": {
+          "correct": "O Correct! Image 1 states: 'In China alone, over 100 million people share the last name Wang!'",
+          "incorrect": "X Incorrect. Option B is correct because the text specifically notes that in China alone, over 100 million people share the surname Wang."
+        },
+        "explanation": "The article highlights the immense concentration of Chinese surnames, noting that over 100 million people share the single last name Wang."
+      },
+      {
+        "id": "rc3",
+        "question": "How many common full-name combinations are made by combining 100 first names and 100 surnames?",
+        "options": [
+          "200 combinations",
+          "3,000 combinations",
+          "10,000 combinations",
+          "330,000 combinations"
+        ],
+        "correctIndex": 2,
+        "reference": "Image 2 — In the Western Hemisphere (U.S., Canada, UK)",
+        "feedback": {
+          "correct": "O Correct! Image 2 calculates: 'That gives us 100 × 100 = 10,000 common full-name combinations.'",
+          "incorrect": "X Incorrect. Option C is correct because multiplying 100 top first names by 100 top surnames produces 10,000 combinations."
+        },
+        "explanation": "Under the Western Hemisphere section, the mathematical formula shows 100 top first names multiplied by 100 surnames yields 10,000 common full-name combinations."
+      },
+      {
+        "id": "rc4",
+        "question": "According to the article’s U.S. calculation, how many people are in each common name combination on average?",
+        "options": [
+          "4,667 people",
+          "10,000 people",
+          "33,000 people",
+          "40,000 people"
+        ],
+        "correctIndex": 2,
+        "reference": "Image 2 — In the Western Hemisphere (U.S., Canada, UK)",
+        "feedback": {
+          "correct": "O Correct! Image 2 shows: '330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)'",
+          "incorrect": "X Incorrect. Option C is correct because dividing 330 million people by 10,000 combinations results in 33,000 people per combo on average."
+        },
+        "explanation": "The text divides the 330 million U.S. population by 10,000 common name combinations, resulting in an average of 33,000 people per combination."
+      },
+      {
+        "id": "rc5",
+        "question": "What does the article say about people with a less common name?",
+        "options": [
+          "They are guaranteed to share their name with at least 33,000 people.",
+          "If your name is less common, you might share it with none or just a few.",
+          "They must change their surname to Wang or Smith.",
+          "They make up over 85% of China's population."
+        ],
+        "correctIndex": 1,
+        "reference": "Image 2 — Researchers say:",
+        "feedback": {
+          "correct": "O Correct! Image 2 notes: 'If your name is less common, you might share it with none or just a few.'",
+          "incorrect": "X Incorrect. Option B is correct because the source explains that people with less common names may share them with nobody or very few people."
+        },
+        "explanation": "Researchers in the article explicitly caution that while common names have thousands of matches, an uncommon name might be shared with none or just a few individuals."
+      },
+      {
+        "id": "rc6",
+        "question": "What result does the China calculation give for the average number of people per full name?",
+        "options": [
+          "Approximately 4,667 people per full name",
+          "Exactly 33,000 people per full name",
+          "Over 40,000 people per full name",
+          "Approximately 300,000 people per full name"
+        ],
+        "correctIndex": 0,
+        "reference": "Image 2 — In Asia (like China) / Let’s try the math:",
+        "feedback": {
+          "correct": "O Correct! Image 2 calculates: '1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name'.",
+          "incorrect": "X Incorrect. Option A is correct because dividing 1.4 billion by 300,000 combinations yields approximately 4,667 people per full name."
+        },
+        "explanation": "Dividing China's population of 1.4 billion (1,400,000,000) by 300,000 full-name combinations produces an average of approximately 4,667 people per full name."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each question using specific evidence and numbers from the locked article. After writing, click 'Check & Compare' to view the model answer and evaluation tips.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "What evidence does the article use to show that many people can share the same name?",
+        "compareTips": "Mention specific global figures from Image 1, such as over 150 million Muhammads, more than 30 million Johns, millions of Marias, and over 100 million people with the surname Wang in China.",
+        "modelAnswer": "The article presents concrete global population figures to demonstrate that name sharing is widespread worldwide. In Image 1, it highlights that there are over 150 million people named Muhammad, more than 30 million named John, and millions of girls named Maria globally. In addition, it emphasizes that in China alone, over 100 million people share the single last name Wang. With 8 billion people on Earth and a limited pool of names, the article concludes that chances are high that someone shares your exact name."
+      },
+      {
+        "id": "ev2",
+        "statement": "How does the article calculate 33,000 people per common name combination in the U.S.?",
+        "compareTips": "Explain the two mathematical operations: multiplying 100 first names by 100 surnames to produce 10,000 combinations, then dividing the 330 million population by 10,000 to get an average of 33,000 people per combo.",
+        "modelAnswer": "The article demonstrates this figure through a two-step mathematical calculation in Image 2. First, it takes lists of the top 100 first names and top 100 surnames in the U.S. and multiplies them together (100 × 100), producing 10,000 common full-name combinations. Second, it takes the total U.S. population of 330 million people and divides it by these 10,000 combinations (330,000,000 ÷ 10,000). This calculation yields an average of 33,000 people for each common name combination."
+      },
+      {
+        "id": "ev3",
+        "statement": "Compare the U.S. and China examples. What numbers and conclusions does the article give for each place?",
+        "compareTips": "Contrast the population sizes (330 million vs. 1.4 billion), the combination counts (10,000 vs. 300,000), the calculated averages (33,000 vs. ~4,667), and note specific common name figures like John Smith (>40,000) or Wang Wei (hundreds of thousands).",
+        "modelAnswer": "For the U.S., the article examines 330 million people with 10,000 common combinations, producing an average of 33,000 people per name combination and noting over 40,000 real John Smiths. For China, it notes 1.4 billion people where over 85% share the top 100 surnames; multiplying these by 3,000 common first names yields 300,000 combinations and an average of approximately 4,667 people per full name. Both examples conclude that these numbers represent mathematical averages, while specific common names like John Smith or Wang Wei are shared by tens or hundreds of thousands of people."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Learn key academic and statistical language patterns used to report demographic data, explain mathematical calculations, and express cautious probability.",
+    "patterns": [
+      {
+        "name": "Quantity and Approximation Phrases",
+        "explanation": "Writers use approximation phrases when demographic data or population counts cannot be counted to the single person, or to highlight massive scale.",
+        "examples": [
+          "There are over 150 million Muhammads around the world.",
+          "Real data says over 40,000 John Smiths live in the U.S. alone.",
+          "Only a few thousand common first names are in regular use."
+        ]
+      },
+      {
+        "name": "Mathematical Calculations & Mathematical Verbs",
+        "explanation": "Use precise mathematical expressions such as 'multiply ... by ...', 'divide ... by ...', and exact symbols (×, ÷, ≈) to explain numerical operations clearly.",
+        "examples": [
+          "That gives us 100 × 100 = 10,000 common full-name combinations.",
+          "Now divide China’s population by that: 1,400,000,000 ÷ 300,000 ≈ 4,667.",
+          "Dividing 330 million by 10,000 gives 33,000 people per combo."
+        ]
+      },
+      {
+        "name": "Probability and Cautious Language",
+        "explanation": "Distinguish calculated statistical averages from guarantees about individual people using cautious modal verbs and probability expressions.",
+        "examples": [
+          "Chances are high that someone else out there has your exact name.",
+          "If your name is very common, you might share it with thousands of people.",
+          "And that’s just an average; an uncommon name might have none or just a few."
+        ]
+      },
+      {
+        "name": "Source Attribution & Contrast Connectors",
+        "explanation": "Attribute claims directly to researchers or the source, and use contrast connectors to compare regional naming patterns.",
+        "examples": [
+          "According to the article, over 100 million people share the last name Wang.",
+          "Researchers say that name frequency depends heavily on popularity.",
+          "While the U.S. has 10,000 common combinations, China's model creates 300,000."
+        ]
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each writing activity below to practice reporting numbers, explaining calculations, comparing regional models, and using cautious language.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write one sentence using 'over', 'more than' or 'millions of' to report a source number.",
+        "compareTips": "Use one of the target phrases ('over 150 million', 'more than 30 million', 'millions of girls') to accurately report a numerical fact from the article.",
+        "modelAnswer": "According to the article, there are over 150 million people named Muhammad and more than 30 million people named John living around the world."
+      },
+      {
+        "id": "wp2",
+        "question": "Explain the U.S. 100 × 100 = 10,000 calculation in one or two sentences.",
+        "compareTips": "Explain that multiplying the top 100 first names by the top 100 surnames creates 10,000 common full-name combinations.",
+        "modelAnswer": "When researchers combine a list of the top 100 first names with the top 100 surnames, they multiply 100 by 100 to produce 10,000 common full-name combinations."
+      },
+      {
+        "id": "wp3",
+        "question": "Compare the U.S. average of 33,000 people per common name combination with the China average of approximately 4,667 people per full name.",
+        "compareTips": "Use comparative language to contrast the two averages (33,000 vs. ~4,667) and mention that both figures represent calculated mathematical averages rather than exact counts for every individual.",
+        "modelAnswer": "While the U.S. model produces an average of 33,000 people per common combination, China's larger pool of 300,000 combinations results in a lower average of approximately 4,667 people per full name, though both figures remain general statistical averages."
+      },
+      {
+        "id": "wp4",
+        "question": "Write a cautious conclusion using 'on average', 'might' or 'chances are high'.",
+        "compareTips": "Use cautious language like 'chances are high', 'might', or 'on average' to distinguish an overall probability from a specific person's individual name.",
+        "modelAnswer": "Although chances are high that someone with a popular name might share it with thousands of others, a person with an uncommon name might share it with only a few people on average."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Why can many people share the same full name? Write an evidence-based explanation paragraph of 100–140 words. Use at least three accurate details from the two-image article, explain one calculation, compare the U.S. and China examples, and use cautious language to distinguish an average from an individual person.",
+    "checklist": [
+      "Clear controlling idea explaining why name sharing happens",
+      "At least three accurate details from the original source",
+      "One correct U.S. or China calculation explained",
+      "Comparison of the two regional examples (U.S. vs. China)",
+      "At least one source-reporting phrase (e.g., 'According to the article, ...')",
+      "Cautious language used to distinguish averages from individual cases (e.g., 'on average', 'might')",
+      "Clear explanation of why names can be shared",
+      "Logical, well-developed concluding sentence",
+      "Word count between 100 and 140 words",
+      "No invented statistics or external facts presented as part of the source article"
+    ],
+    "modelAnswer": "Many people can share the same full name because global populations must draw from a limited number of common names. According to the article, there are over 150 million Muhammads worldwide, and over 100 million people in China share the last name Wang. When researchers analyze the U.S. population of 330 million, multiplying 100 popular first names by 100 surnames creates 10,000 combinations, which gives an average of 33,000 people per combination (330,000,000 ÷ 10,000). In contrast, China’s 1.4 billion people share 300,000 combinations, averaging approximately 4,667 people per name. Crucially, researchers note that this figure is only an average; an individual with a very common name might share it with thousands, while someone with an uncommon name might share it with very few."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your completed explanation paragraph against these six quality standards before final submission.",
+    "items": [
+      "I stated a clear controlling idea explaining why many people can share identical full names.",
+      "I included at least three accurate numerical details directly from the two-image article without inventing outside data.",
+      "I clearly explained one mathematical calculation (such as 100 × 100 = 10,000 or 330,000,000 ÷ 10,000 = 33,000).",
+      "I compared the Western Hemisphere / U.S. calculation with the China calculation.",
+      "I used cautious language (e.g., 'on average', 'might', 'chances are high') to distinguish statistical averages from individual cases.",
+      "My paragraph is logically structured, between 100 and 140 words, and free of demographic overgeneralizations."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "B. Because many people share a limited number of first names and surnames, the chance of sharing a name can be high, although the situation varies by region and by name.",
+      "readingComprehension": {
+        "rc1": "B. There are over 150 million Muhammads around the world.",
+        "rc2": "B. In China alone, over 100 million people share the last name Wang.",
+        "rc3": "C. 10,000 combinations (100 × 100 = 10,000).",
+        "rc4": "C. 33,000 people per common name combo on average (330,000,000 ÷ 10,000).",
+        "rc5": "B. If your name is less common, you might share it with none or just a few.",
+        "rc6": "A. Approximately 4,667 people per full name (1,400,000,000 ÷ 300,000 ≈ 4,667)."
+      },
+      "evidenceFromText": {
+        "ev1": "Image 1 cites over 150 million Muhammads, more than 30 million Johns, millions of Marias globally, and over 100 million Wangs in China.",
+        "ev2": "Image 2 multiplies top 100 first names by top 100 surnames (100 × 100 = 10,000), then divides the 330 million U.S. population by 10,000 (330,000,000 ÷ 10,000 = 33,000 on average).",
+        "ev3": "The U.S. model yields 10,000 combinations and 33,000 people/combo (>40,000 John Smiths); China yields 300,000 combinations and ~4,667 people/name (Wang Wei shared by hundreds of thousands)."
+      },
+      "writingPractice": {
+        "wp1": "According to the article, there are over 150 million people named Muhammad and more than 30 million people named John living around the world.",
+        "wp2": "When researchers combine a list of the top 100 first names with the top 100 surnames, they multiply 100 by 100 to produce 10,000 common full-name combinations.",
+        "wp3": "While the U.S. model produces an average of 33,000 people per common combination, China's larger pool of 300,000 combinations results in a lower average of approximately 4,667 people per full name, though both figures remain general statistical averages.",
+        "wp4": "Although chances are high that someone with a popular name might share it with thousands of others, a person with an uncommon name might share it with only a few people on average."
+      }
+    },
+    "modelAnswer": "Many people can share the same full name because global populations must draw from a limited number of common names. According to the article, there are over 150 million Muhammads worldwide, and over 100 million people in China share the last name Wang. When researchers analyze the U.S. population of 330 million, multiplying 100 popular first names by 100 surnames creates 10,000 combinations, which gives an average of 33,000 people per combination (330,000,000 ÷ 10,000). In contrast, China’s 1.4 billion people share 300,000 combinations, averaging approximately 4,667 people per name. Crucially, researchers note that this figure is only an average; an individual with a very common name might share it with thousands, while someone with an uncommon name might share it with very few.",
+    "rubric": [
+      {
+        "criterion": "Content & Ideas",
+        "category": "Content & Ideas",
+        "excellent": "States a sophisticated controlling idea explaining why name sharing is widespread; incorporates three or more accurate details from both images; clearly explains why global populations must share a limited pool of common names.",
+        "developing": "States an identifiable controlling idea with two accurate source details; explains the basic reason for name sharing but may oversimplify regional differences or confuse examples.",
+        "beginning": "Lacks a clear controlling idea or relies on personal opinion; includes fewer than two source facts; misinterprets key numerical claims."
+      },
+      {
+        "criterion": "Evidence Use",
+        "category": "Evidence Use",
+        "excellent": "Flawlessly integrates numerical evidence from both images (e.g., 150 million Muhammads, 100 million Wangs, 330 million U.S. population, 1.4 billion in China); accurately explains at least one calculation with correct operations.",
+        "developing": "Includes source numbers but may misstate figures or present calculation steps without explaining their meaning; evidence is partially connected to the explanation.",
+        "beginning": "Omits numbers or invents external demographic figures; fails to explain either mathematical calculation."
+      },
+      {
+        "criterion": "Target Language & Mathematical Explanation",
+        "category": "Target Language/Structure",
+        "excellent": "Expertly employs target quantity phrases ('over', 'more than'), calculation language ('100 × 100 = 10,000', 'divided by'), and cautious probability terms ('on average', 'might', 'chances are high') to distinguish averages from individual cases.",
+        "developing": "Uses some target language and comparison words, but occasionally treats an average as an absolute guarantee for every person; minor grammatical inaccuracies in mathematical phrasing.",
+        "beginning": "Fails to use target vocabulary; claims that every person shares their name with thousands; lacks cautious academic language."
+      },
+      {
+        "criterion": "Organization & Comparative Structure",
+        "category": "Organization",
+        "excellent": "Features a seamless logical progression from controlling idea to evidence, regional comparison (U.S. vs. China), average-versus-individual qualification, and an insightful conclusion; stays within 100–140 words.",
+        "developing": "Follows a recognizable paragraph structure with topic sentence and concluding thought, but transitions between the U.S. and China examples may feel abrupt; word count slightly outside 100–140 words.",
+        "beginning": "Disorganized or list-like; jumps between points without transitions; significantly under or over the 100–140 word target range."
+      },
+      {
+        "criterion": "Grammatical Accuracy & Formatting",
+        "category": "Accuracy",
+        "excellent": "Demonstrates high grammatical precision in relative clauses, modal verbs, and numerical reporting; preserves exact source punctuation, quotation marks, and formula symbols without errors.",
+        "developing": "Shows generally clear sentence structure with occasional minor errors in subject-verb agreement or punctuation that do not impede reader comprehension.",
+        "beginning": "Frequent grammatical and punctuation errors obscure meaning; misformats mathematical formulas or misquotes source names."
+      }
+    ],
+    "teacherNotes": [
+      "1. Two-Image Source Structure & Pedagogical Approach: The lesson transcribes two ordered teacher-provided classroom visual images into a single cohesive 90-minute ESL learning experience. Image 1 establishes the widespread global reality of name sharing (featuring Muhammad, John, Maria, and Wang), while Image 2 introduces mathematical permutation models contrasting the Western Hemisphere (U.S., Canada, UK) with East Asia (China). Keep both images in continuous sequence and guide students to see how visual data and text work together.",
+      "2. First Name vs. Last Name / Surname Distinction: Ensure Grade 9 ESL students clearly distinguish given names ('first names' in Western conventions) from hereditary family names ('last names' or 'surnames'). Clarify that naming order varies culturally—for instance, Chinese names place the family surname first (e.g., Wang Wei), whereas English conventions place the surname last (e.g., John Smith).",
+      "3. Analysis of Large Global Numerical Claims: Image 1 cites over 150 million Muhammads, more than 30 million Johns, and millions of Marias worldwide. Remind students that these figures reflect historical, religious, and cultural naming traditions spanning multiple continents and generations, demonstrating that name sharing is a universal global phenomenon.",
+      "4. Embedded Name-Statistics Screenshot & Accessible Fallback: The first image includes an embedded screenshot from a name-statistics lookup tool showing detailed U.S. data for 'John Smith' (5,433,882 Johns; 2,915,899 Smiths; 99.63% male; Adam Smith, etc.). Preserve these clearly readable labels as an accessible visual label fallback without turning exploratory tool values into unverified claims in the core reading.",
+      "5. Western 100 × 100 Full-Name Combination Calculation: In Image 2, researchers model U.S. name combinations by multiplying the top 100 first names by the top 100 surnames, generating 10,000 common full-name combinations. Teach students that multiplying two independent choice sets (n × m) is the fundamental mathematical principle of permutations.",
+      "6. Understanding the 33,000 Average in the U.S. Example: Dividing the 330 million U.S. population by 10,000 common combinations yields an average of 33,000 people per combination. Emphasize the vital qualification '(on average!)'. This number is a theoretical baseline for common combinations, not a demographic promise for every individual.",
+      "7. Common vs. Less Common Names & Individual Variance: Image 2 directly contrasts common names with less common names. For a very popular name like 'John Smith', real data identifies over 40,000 individuals in the U.S. alone. Conversely, a student with an uncommon or unique name may share it with none or only a few individuals, illustrating the extreme skew of real-world name distributions.",
+      "8. Demographic Scale & Surname Concentration in China: Image 2 shifts to China with a population of 1.4 billion people. Highlight the sociological contrast: while Western naming draws from thousands of relatively dispersed surnames, Chinese naming is characterized by intense surname concentration combined with diverse two-character given names.",
+      "9. The 85% Top 100 Surname Claim & Cultural Context: The source notes that over 85% of China's 1.4 billion people share one of the top 100 surnames (the traditional 'Baijiaxing' phenomenon). This means over 1.19 billion citizens share just 100 family names, creating massive namesake clusters like Wang, Li, and Zhang.",
+      "10. The 300,000 Combinations Calculation for China: Multiplying 100 common surnames by 3,000 common given names yields 300,000 full-name combinations in the China model. Note that although China has a much larger population than the U.S., its modeled combination pool is 30 times larger (300,000 vs. 10,000) due to utilizing 3,000 first names.",
+      "11. The ~4,667 Average & The Wang Wei Extreme Example: Dividing 1,400,000,000 by 300,000 yields approximately 4,667 people per full name (using the approximation sign ≈). However, the author immediately notes that this is 'just an average': ultra-common combinations like 'Wang Wei' are shared by hundreds of thousands of people, proving how peak popularity far exceeds the arithmetic mean.",
+      "12. Source-Literacy Caution & Epistemic Humility: The source images provide educational and illustrative mathematical models rather than authoritative demographic census records. Teach students source literacy: we study how the text constructs its argument using numbers and examples, but we maintain epistemic caution and do not present textbook model numbers as independently verified census truths."
+    ],
+    "teachingScript": [
+      {
+        "phase": "Phase A: Opening & Learning Goal",
+        "phaseNumber": 1,
+        "duration": "5 minutes",
+        "durationMinutes": 5,
+        "objective": "Establish the lesson purpose, introduce the title 'How Many People Share Your Name?', and connect personal naming curiosity with mathematical and demographic reasoning.",
+        "actions": [
+          "Display the lesson title and greet students warmly.",
+          "Explain the 90-minute goal: exploring global naming data, analyzing mathematical models, and writing an evidence-based explanation paragraph.",
+          "Introduce the core inquiry question: Why can thousands of people share the exact same full name?"
+        ],
+        "teacherActions": [
+          "Display the lesson title and greet students warmly.",
+          "Explain the 90-minute goal: exploring global naming data, analyzing mathematical models, and writing an evidence-based explanation paragraph.",
+          "Introduce the core inquiry question: Why can thousands of people share the exact same full name?"
+        ],
+        "script": "Teacher: 'Good morning, class! Today we are diving into an intriguing question: How Many People Share Your Name? Have you ever thought about how many other people in the world have your exact first and last name? Today we will read an informational visual article, examine real mathematical calculations for the U.S. and China, and write an evidence-based explanation. (여러분, 좋은 아침입니다! 오늘 우리는 '얼마나 많은 사람이 여러분의 이름을 함께 쓰고 있을까?'라는 흥미로운 질문을 탐구합니다. 전 세계에 여러분과 완전히 똑같은 성명을 가진 사람이 몇 명이나 될지 생각해 본 적이 있나요? 오늘 우리는 시각 자료 기사를 읽고, 미국과 중국의 수학적 계산 모델을 분석한 뒤, 근거 기반 설명 단락을 작성할 것입니다.) Let's get started!'",
+        "scriptEn": "Good morning, class! Today we are diving into an intriguing question: How Many People Share Your Name? / Have you ever thought about how many other people in the world have your exact first and last name? / Today we will read an informational visual article, examine real mathematical calculations for the U.S. and China, / and write an evidence-based explanation paragraph.",
+        "scriptKo": "여러분, 좋은 아침입니다! 오늘 우리는 '얼마나 많은 사람이 여러분의 이름을 함께 쓰고 있을까?'라는 흥미로운 질문을 탐구합니다. / 전 세계에 여러분과 완전히 똑같은 성명을 가진 사람이 몇 명이나 될지 생각해 본 적이 있나요? / 오늘 우리는 시각 자료 기사를 읽고, 미국과 중국의 수학적 계산 모델을 분석한 뒤, / 근거 기반 설명 단락을 작성할 것입니다.",
+        "teacherTalk": "Welcome students and frame the inquiry. Emphasize that we are connecting English reading skills with mathematical and demographic analysis.",
+        "studentActions": "Listen to the opening explanation, view the lesson goal on screen, and consider their own full names.",
+        "misconception": "Students might believe that every person's name is completely unique in modern society.",
+        "correctiveFeedback": "Remind students that with 8 billion people on Earth and popular naming traditions, duplicate names are actually very common.",
+        "transition": "Let's activate our personal experiences with three quick warm-up discussion questions."
+      },
+      {
+        "phase": "Phase B: Warm-up & Schema Activation",
+        "phaseNumber": 2,
+        "duration": "10 minutes",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding common and uncommon names, family surnames, and the role of numbers in understanding human communities.",
+        "actions": [
+          "Assign students into pairs to discuss Warm-up Questions 1, 2, and 3.",
+          "Circulate around the classroom, listening to students share anecdotes about classmates or famous people who share names.",
+          "Elicit 2–3 volunteer responses and write key student observations on the whiteboard."
+        ],
+        "teacherActions": [
+          "Assign students into pairs to discuss Warm-up Questions 1, 2, and 3.",
+          "Circulate around the classroom, listening to students share anecdotes about classmates or famous people who share names.",
+          "Elicit 2–3 volunteer responses and write key student observations on the whiteboard."
+        ],
+        "script": "Teacher: 'Turn to your partner and discuss Questions 1 to 3. Have you ever met someone with the same first name? What makes a name common or uncommon? And how can numbers help us understand this? (짝과 함께 1번부터 3번 질문을 이야기해 보세요. 같은 이름을 가진 사람을 만나본 적이 있나요? 무엇이 이름을 흔하거나 흔하지 않게 만들까요? 숫자가 이를 이해하는 데 어떻게 도움이 될까요?) Take four minutes to discuss in pairs.'",
+        "scriptEn": "Turn to your partner and discuss Questions 1 to 3. / Have you ever met someone with the same first name? / What makes a name common or uncommon? / And how can numbers help us understand this? / Share your thoughts with each other.",
+        "scriptKo": "짝과 함께 1번부터 3번 질문을 이야기해 보세요. / 같은 이름을 가진 사람을 만나본 적이 있나요? / 무엇이 이름을 흔하거나 흔하지 않게 만들까요? / 숫자가 이를 이해하는 데 어떻게 도움이 될까요? / 서로의 생각을 자유롭게 나눠 보세요.",
+        "teacherTalk": "Encourage students to draw on personal experiences, family stories, and school rosters to discuss name frequency.",
+        "studentActions": "Discuss the three warm-up questions with a partner, type brief notes into the student interface, and volunteer ideas.",
+        "misconception": "Students might assume name sharing only happens with simple short names.",
+        "correctiveFeedback": "Explain that cultural naming traditions, religious significance, and family ancestry all concentrate certain names regardless of length.",
+        "transition": "Excellent discussions! Now let's master the 10 essential vocabulary terms that appear in our article."
+      },
+      {
+        "phase": "Phase C: Vocabulary in Context",
+        "phaseNumber": 3,
+        "duration": "12 minutes",
+        "durationMinutes": 12,
+        "objective": "Introduce, define, and practice 10 source-based vocabulary words with accurate parts of speech, English definitions, Korean meanings, and context sentences.",
+        "actions": [
+          "Present the 10 terms: share, exact name, last name, surname, combination, common, uncommon, average, population, in regular use.",
+          "Highlight the mathematical definition of 'average' and explain that 'surname' is synonymous with 'last name'.",
+          "Lead choral pronunciation practice and check comprehension of 'combination' and 'in regular use'."
+        ],
+        "teacherActions": [
+          "Present the 10 terms: share, exact name, last name, surname, combination, common, uncommon, average, population, in regular use.",
+          "Highlight the mathematical definition of 'average' and explain that 'surname' is synonymous with 'last name'.",
+          "Lead choral pronunciation practice and check comprehension of 'combination' and 'in regular use'."
+        ],
+        "script": "Teacher: 'Let's examine our 10 key vocabulary terms. Notice that 'surname' and 'last name' mean the same thing: your inherited family name. Pay special attention to 'average'—in this lesson, an average is a mathematical calculation, not a guarantee that every single person has that number of namesakes! (10개의 핵심 어휘를 살펴봅시다. 'surname'과 'last name'은 같은 의미로 가족에게 물려받은 성씨를 뜻합니다. 특히 'average(평균)'에 주목하세요. 이 수업에서 평균은 수학적 계산값이지 모든 사람이 그만큼의 동명이인을 갖는다는 보장이 아닙니다!) Let's repeat each word together.'",
+        "scriptEn": "Let's examine our 10 key vocabulary terms. / Notice that 'surname' and 'last name' mean the same thing: your inherited family name. / Pay special attention to 'average'—in this lesson, an average is a mathematical calculation, / not a guarantee that every single person has that number of namesakes! / Let's repeat each word together.",
+        "scriptKo": "10개의 핵심 어휘를 살펴봅시다. / 'surname'과 'last name'은 같은 의미로 가족에게 물려받은 성씨를 뜻합니다. / 특히 'average(평균)'에 주목하세요. 이 수업에서 평균은 수학적 계산값이지 / 모든 사람이 그만큼의 동명이인을 갖는다는 보장이 아닙니다! / 함께 소리 내어 읽어봅시다.",
+        "teacherTalk": "Guide students through the definitions, clarifying the distinction between statistical averages and individual cases.",
+        "studentActions": "Read vocabulary cards, practice pronunciation, review Korean meanings, and note example sentences.",
+        "misconception": "Students might confuse 'surname' with given name, or think 'average' implies identical reality for everyone.",
+        "correctiveFeedback": "Clarify that surname = family name, and explicitly teach that averages represent mathematical midpoints that disguise extreme highs and lows.",
+        "transition": "Now that we know the vocabulary, let's read the two-image visual article to grasp the main idea."
+      },
+      {
+        "phase": "Phase D: First Reading & Gist / Main Idea",
+        "phaseNumber": 4,
+        "duration": "10 minutes",
+        "durationMinutes": 10,
+        "objective": "Read through Image 1 and Image 2 silently, identify the overarching claim, and answer the Main Idea question with instant feedback.",
+        "actions": [
+          "Direct students to read the continuous two-image article silently.",
+          "Remind students to observe the visual layout, the name statistics screenshot labels, and the regional calculation headings.",
+          "Instruct students to select their answer for the Main Idea MCQ and read the O/X explanation."
+        ],
+        "teacherActions": [
+          "Direct students to read the continuous two-image article silently.",
+          "Remind students to observe the visual layout, the name statistics screenshot labels, and the regional calculation headings.",
+          "Instruct students to select their answer for the Main Idea MCQ and read the O/X explanation."
+        ],
+        "script": "Teacher: 'Now read the article from Image 1 through Image 2 quietly. Notice how Image 1 starts with global examples like Muhammad and Wang, and Image 2 breaks down the math for the West and China. (기사를 1번 이미지부터 2번 이미지까지 조용히 읽어보세요. 1번 이미지가 무함마드와 왕씨 같은 세계적 사례로 시작하여, 2번 이미지가 서구권과 중국의 수학적 계산으로 전개되는 방식을 주목하세요.) Then complete the Main Idea question.'",
+        "scriptEn": "Now read the article from Image 1 through Image 2 quietly. / Notice how Image 1 starts with global examples like Muhammad and Wang, / and Image 2 breaks down the math for the West and China. / Then complete the Main Idea question.",
+        "scriptKo": "기사를 1번 이미지부터 2번 이미지까지 조용히 읽어보세요. / 1번 이미지가 무함마드와 왕씨 같은 세계적 사례로 시작하여, / 2번 이미지가 서구권과 중국의 수학적 계산으로 전개되는 방식을 주목하세요. / 다 읽은 후 주제 질문을 풀어보세요.",
+        "teacherTalk": "Monitor independent reading. Ensure students read both images without rushing.",
+        "studentActions": "Read the locked reading text independently, answer the Main Idea question, and review the feedback.",
+        "misconception": "Students might choose Option A (everyone has a unique name) or Option C (only China shares names).",
+        "correctiveFeedback": "Guide students to Option B, which balances high overall sharing probability with regional and individual variations.",
+        "transition": "With the main idea clear, let's analyze the exact evidence and calculations across Comprehension and Evidence from Text."
+      },
+      {
+        "phase": "Phase E: Detailed Evidence Reading & Mathematical Analysis",
+        "phaseNumber": 5,
+        "duration": "18 minutes",
+        "durationMinutes": 18,
+        "objective": "Guide students through sentence units S01 to S25, answer Comprehension Questions 1–6, and complete the 3 Evidence from Text prompts using Check & Compare.",
+        "actions": [
+          "Walk students through the 25 sentence units, highlighting the formulas: 100 × 100 = 10,000, 330,000,000 ÷ 10,000 = 33,000, and 1,400,000,000 ÷ 300,000 ≈ 4,667.",
+          "Monitor students as they complete Comprehension Questions 1 to 6.",
+          "Facilitate Evidence Prompts 1, 2, and 3, prompting students to use Check & Compare to examine model responses."
+        ],
+        "teacherActions": [
+          "Walk students through the 25 sentence units, highlighting the formulas: 100 × 100 = 10,000, 330,000,000 ÷ 10,000 = 33,000, and 1,400,000,000 ÷ 300,000 ≈ 4,667.",
+          "Monitor students as they complete Comprehension Questions 1 to 6.",
+          "Facilitate Evidence Prompts 1, 2, and 3, prompting students to use Check & Compare to examine model responses."
+        ],
+        "script": "Teacher: 'Let's examine the mathematical evidence. Look at Sentence 13 and 14: 100 first names times 100 surnames gives 10,000 combinations. When you divide 330 million Americans by 10,000, you get an average of 33,000 people per combination. Now compare that with China in Sentence 22 and 23! (수학적 근거를 자세히 살펴봅시다. 13번과 14번 문장을 보세요: 100개 이름에 100개 성씨를 곱하면 10,000개 조합이 나옵니다. 3억 3천만 미국 인구를 10,000으로 나누면 조합당 평균 33,000명이 됩니다. 이제 이를 22번과 23번 문장의 중국 계산과 비교해 보세요!) Now complete Comprehension Questions 1 to 6 and Evidence Prompts 1 to 3.'",
+        "scriptEn": "Let's examine the mathematical evidence. / Look at Sentence 13 and 14: 100 first names times 100 surnames gives 10,000 combinations. / When you divide 330 million Americans by 10,000, you get an average of 33,000 people per combination. / Now compare that with China in Sentence 22 and 23! / Complete Comprehension Questions 1 to 6 and Evidence Prompts 1 to 3.",
+        "scriptKo": "수학적 근거를 자세히 살펴봅시다. / 13번과 14번 문장을 보세요: 100개 이름에 100개 성씨를 곱하면 10,000개 조합이 나옵니다. / 3억 3천만 미국 인구를 10,000으로 나누면 조합당 평균 33,000명이 됩니다. / 이제 이를 22번과 23번 문장의 중국 계산과 비교해 보세요! / 이해도 질문 1~6번과 근거 질문 1~3번을 완성하세요.",
+        "teacherTalk": "Guide students through both calculations. Ensure they understand how permutations and population divisions work.",
+        "studentActions": "Analyze chunked sentences, solve MCQs 1–6, type written evidence responses, and use Check & Compare.",
+        "misconception": "Students might miscalculate the math or confuse population with combination count.",
+        "correctiveFeedback": "Explicitly point out the units: 10,000 is combinations, 330 million is people, and 33,000 is people per combination.",
+        "transition": "Now let's examine the target language structures that allow us to explain these numbers and calculations with academic caution."
+      },
+      {
+        "phase": "Phase F: Language Focus & Probability / Approximation Patterns",
+        "phaseNumber": 6,
+        "duration": "12 minutes",
+        "durationMinutes": 12,
+        "objective": "Master academic language for reporting large quantities, mathematical calculations, and cautious probability (e.g., 'on average', 'might', 'chances are high').",
+        "actions": [
+          "Present the four language focus patterns: Quantity/Approximation, Mathematical Verbs & Formulas, Probability/Caution, and Source Attribution.",
+          "Contrast absolute claims ('everyone has 33,000 namesakes') with cautious claims ('on average, combinations have 33,000 people, but uncommon names might have none').",
+          "Conduct rapid oral drills with sentence frames."
+        ],
+        "teacherActions": [
+          "Present the four language focus patterns: Quantity/Approximation, Mathematical Verbs & Formulas, Probability/Caution, and Source Attribution.",
+          "Contrast absolute claims ('everyone has 33,000 namesakes') with cautious claims ('on average, combinations have 33,000 people, but uncommon names might have none').",
+          "Conduct rapid oral drills with sentence frames."
+        ],
+        "script": "Teacher: 'In academic writing, how we state numbers matters tremendously. If you say 'Every American shares their name with 33,000 people', that is factually false! Instead, we say 'On average, each common name combo has 33,000 people, but an uncommon name might have none.' Notice how 'on average' and 'might' create accurate, cautious statements. (학술 작문에서는 숫자를 표현하는 방식이 대단히 중요합니다. 만약 '모든 미국인은 33,000명과 이름을 공유한다'고 말한다면 그것은 사실이 아닙니다! 대신 '평균적으로 흔한 이름 조합당 33,000명이 배정되지만, 흔하지 않은 이름은 동명이인이 없을 수도 있다'고 말해야 합니다. 'on average'와 'might'가 어떻게 정확하고 신중한 진술을 만드는지 주목하세요.) Let's practice these patterns.'",
+        "scriptEn": "In academic writing, how we state numbers matters tremendously. / If you say 'Every American shares their name with 33,000 people', that is factually false! / Instead, we say 'On average, each common name combo has 33,000 people, / but an uncommon name might have none.' / Notice how 'on average' and 'might' create accurate, cautious statements.",
+        "scriptKo": "학술 작문에서는 숫자를 표현하는 방식이 대단히 중요합니다. / 만약 '모든 미국인은 33,000명과 이름을 공유한다'고 말한다면 그것은 사실이 아닙니다! / 대신 '평균적으로 흔한 이름 조합당 33,000명이 배정되지만, / 흔하지 않은 이름은 동명이인이 없을 수도 있다'고 말해야 합니다. / 'on average'와 'might'가 어떻게 정확하고 신중한 진술을 만드는지 주목하세요.",
+        "teacherTalk": "Demonstrate how cautious modal verbs prevent false overgeneralizations in evidence-based writing.",
+        "studentActions": "Read grammar explanations, repeat example sentences, and identify probability markers in sample statements.",
+        "misconception": "Students might omit cautious words and make definitive, inaccurate claims.",
+        "correctiveFeedback": "Require students to insert 'on average' or 'might' whenever discussing calculated ratios.",
+        "transition": "Let's put these language tools to work in Writing Practice before drafting our final paragraph."
+      },
+      {
+        "phase": "Phase G: Writing Practice & Final Explanation Task",
+        "phaseNumber": 7,
+        "duration": "18 minutes",
+        "durationMinutes": 18,
+        "objective": "Complete Writing Practice Activities 1–4, draft an evidence-based explanation paragraph of 100–140 words, and evaluate the draft using Rule-Based Writing Check.",
+        "actions": [
+          "Have students complete Writing Practice prompts 1 to 4 with Check & Compare.",
+          "Review the Final Writing Task prompt, rubric criteria, and 10-point checklist.",
+          "Give students dedicated time to draft their 100–140 word explanation paragraph.",
+          "Encourage students to run the Writing Check tool and refine their writing."
+        ],
+        "teacherActions": [
+          "Have students complete Writing Practice prompts 1 to 4 with Check & Compare.",
+          "Review the Final Writing Task prompt, rubric criteria, and 10-point checklist.",
+          "Give students dedicated time to draft their 100–140 word explanation paragraph.",
+          "Encourage students to run the Writing Check tool and refine their writing."
+        ],
+        "script": "Teacher: 'Now it's time for our final writing task! Write an evidence-based explanation paragraph of 100 to 140 words answering: Why can many people share the same full name? Be sure to include at least three accurate details from the text, explain one calculation, compare the U.S. and China examples, and use cautious language to distinguish averages from individuals. (이제 최종 작문 과제 시간입니다! '왜 많은 사람이 똑같은 전체 성명을 공유할 수 있는가?'라는 질문에 답하는 100~140단어의 근거 기반 설명 단락을 작성하세요. 본문의 정확한 세부 정보 3가지 이상, 1가지 이상의 계산 설명, 미국과 중국 사례 비교, 그리고 평균과 개인을 구분하는 신중한 언어 표현을 반드시 포함하세요.) Use your checklist and live word counter!'",
+        "scriptEn": "Now it's time for our final writing task! / Write an evidence-based explanation paragraph of 100 to 140 words answering: Why can many people share the same full name? / Include at least three accurate details from the text, explain one calculation, / compare the U.S. and China examples, and use cautious language. / Use your checklist and live word counter!",
+        "scriptKo": "이제 최종 작문 과제 시간입니다! / '왜 많은 사람이 똑같은 전체 성명을 공유할 수 있는가?'에 답하는 100~140단어의 근거 기반 설명 단락을 작성하세요. / 본문의 정확한 세부 정보 3가지 이상, 1가지 이상의 계산 설명, / 미국과 중국 사례 비교, 그리고 신중한 언어 표현을 반드시 포함하세요. / 체크리스트와 실시간 단어 수 계산기를 활용하세요!",
+        "teacherTalk": "Circulate and support students as they draft. Remind G1 students to use sentence starters and prompt G2 students to compare the combination ratios.",
+        "studentActions": "Complete Writing Practice 1–4, draft their 100–140 word final explanation paragraph, run Writing Check, and compare with the model answer.",
+        "misconception": "Students might write too briefly (<100 words) or omit the regional comparison.",
+        "correctiveFeedback": "Guide students to include both the U.S. 33,000 average and China's ~4,667 average to reach the target length and satisfy the prompt.",
+        "transition": "Once your paragraph is polished, let's complete our Self-Check and submit our work."
+      },
+      {
+        "phase": "Phase H: Review, Self-Check & Submission",
+        "phaseNumber": 8,
+        "duration": "5 minutes",
+        "durationMinutes": 5,
+        "objective": "Guide students through the 6-item Self-Check, review lesson takeaways, and successfully submit student work to the database/local storage.",
+        "actions": [
+          "Direct students to check off each of the 6 Self-Check items.",
+          "Verify student name, code, and submission status in the SubmitBar.",
+          "Summarize key lesson takeaways: mathematical permutations, demographic scale, and statistical literacy."
+        ],
+        "teacherActions": [
+          "Direct students to check off each of the 6 Self-Check items.",
+          "Verify student name, code, and submission status in the SubmitBar.",
+          "Summarize key lesson takeaways: mathematical permutations, demographic scale, and statistical literacy."
+        ],
+        "script": "Teacher: 'Before submitting, review the 6 Self-Check standards: controlling idea, three details, calculation explanation, regional comparison, cautious language, and word count. Once all boxes are checked, enter your name and student code, then click Submit! (제출하기 전에 6가지 자체 점검 기준을 확인하세요: 주제문, 3가지 세부 정보, 계산 설명, 지역 비교, 신중한 언어 표현, 단어 수. 모든 항목을 확인했으면 이름과 학생 코드를 입력하고 제출 버튼을 누르세요!) Excellent work today, everyone!'",
+        "scriptEn": "Before submitting, review the 6 Self-Check standards: / controlling idea, three details, calculation explanation, / regional comparison, cautious language, and word count. / Enter your name and student code, then click Submit! / Excellent work today, everyone!",
+        "scriptKo": "제출하기 전에 6가지 자체 점검 기준을 확인하세요: / 주제문, 3가지 세부 정보, 계산 설명, / 지역 비교, 신중한 언어 표현, 단어 수. / 이름과 학생 코드를 입력하고 제출 버튼을 누르세요! / 오늘 모두 훌륭하게 잘 해냈습니다!",
+        "teacherTalk": "Confirm all student submissions are received and reinforce that statistical models help us understand real-world human diversity.",
+        "studentActions": "Complete the 6 Self-Check items, enter student identification, submit their work, and confirm the submission status.",
+        "misconception": "Students might exit the browser before clicking Submit.",
+        "correctiveFeedback": "Remind students that clicking Submit ensures their responses are saved to the teacher monitor and local backup.",
+        "transition": "Class dismissed! Keep noticing names and numbers in the world around you."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "optionNumber": 1,
+          "focus": "Identity & Curiosity Focus",
+          "english": "Welcome, everyone! / Have you ever wondered / if someone in another corner of the globe / is walking around with your exact full name? / Today, we are going to explore / the fascinating mathematics / behind human names! / Let's discover how numbers and names connect.",
+          "korean": "여러분 환영합니다! / 지구 반대편 어딘가에 / 여러분과 완전히 똑같은 성명을 가지고 / 걸어 다니는 사람이 있을지 궁금했던 적이 있나요? / 오늘 우리는 / 사람들의 이름 뒤에 숨겨진 / 흥미진진한 수학을 탐구할 것입니다! / 숫자와 이름이 어떻게 연결되는지 함께 알아봅시다.",
+          "directKorean": "환영합니다, 여러분! / 궁금해한 적이 있습니까 / 지구의 다른 구석에 있는 누군가가 / 당신의 정확한 전체 성명을 가지고 돌아다니는지? / 오늘, 우리는 탐구할 것입니다 / 매혹적인 수학을 / 인간의 이름 이면에 있는! / 알아봅시다 숫자와 이름이 어떻게 연결되는지.",
+          "purpose": "Engage students' natural curiosity about personal identity and name duplication to hook their interest in the upcoming reading."
+        },
+        {
+          "optionNumber": 2,
+          "focus": "Mathematical & Statistical Wonder Focus",
+          "english": "Good morning, class! / With 8 billion people on Earth, / how many different names do you think exist? / Today we will look at two actual data models: / one from the United States / and one from China. / You will learn how simple multiplication and division / can reveal whether sharing a name / is rare or surprisingly common!",
+          "korean": "좋은 아침입니다, 여러분! / 지구상에 80억 명의 인구가 살고 있는데, / 얼마나 많은 종류의 이름이 존재한다고 생각하나요? / 오늘 우리는 두 개의 실제 데이터 모델을 살펴볼 것입니다: / 하나는 미국에서 온 것이고 / 다른 하나는 중국에서 온 것입니다. / 간단한 곱셈과 나눗셈을 통해 / 이름을 공유하는 것이 드문 일인지 아니면 놀랍도록 흔한 일인지 / 밝혀내는 방법을 배우게 될 것입니다!",
+          "directKorean": "좋은 아침입니다, 반 여러분! / 지구상에 80억 명의 사람이 있는 상황에서, / 얼마나 많은 다른 이름들이 존재한다고 생각합니까? / 오늘 우리는 두 개의 실제 데이터 모델을 볼 것입니다: / 미국에서 온 하나와 / 중국에서 온 하나. / 여러분은 배울 것입니다 어떻게 단순한 곱셈과 나눗셈이 / 밝혀낼 수 있는지 이름을 공유하는 것이 / 드문지 혹은 놀랍도록 흔한지!",
+          "purpose": "Frame the lesson around mathematical discovery and data literacy, showing that permutations explain demographic patterns."
+        },
+        {
+          "optionNumber": 3,
+          "focus": "Cross-Cultural Comparison Focus",
+          "english": "Hello, Grade 9! / Did you know that naming customs / change dramatically depending on culture? / In the West, thousands of surnames exist, / but in China, over 85% of people / share just the top 100 family names! / Today we will compare these two regions / and explain why population size / and surname diversity / create very different name-sharing realities.",
+          "korean": "안녕하세요, 9학년 여러분! / 작명 관습이 문화에 따라 / 극적으로 달라진다는 사실을 알고 계셨나요? / 서구권에는 수천 개의 성씨가 존재하지만, / 중국에서는 인구의 85% 이상이 / 상위 100개의 성씨만을 함께 쓰고 있습니다! / 오늘 우리는 이 두 지역을 비교하고 / 왜 인구 규모와 / 성씨의 다양성이 / 매우 다른 이름 공유의 현실을 만들어내는지 설명해 볼 것입니다.",
+          "directKorean": "안녕하세요, 9학년! / 알고 있었습니까 작명 관습이 / 문화에 따라 극적으로 변한다는 것을? / 서구에서는, 수천 개의 성씨가 존재하지만, / 중국에서는, 인구의 85% 이상이 / 단지 상위 100대 성씨를 공유합니다! / 오늘 우리는 이 두 지역을 비교할 것입니다 / 그리고 설명할 것입니다 왜 인구 규모와 / 성씨 다양성이 / 매우 다른 이름 공유 현실을 만들어내는지.",
+          "purpose": "Highlight the cultural contrast between Western surname dispersion and East Asian surname concentration."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "question": "Have you ever met someone with the same first name as you?",
+          "translation": "자신과 같은 이름을 가진 사람을 만나본 적이 있나요?",
+          "likelyResponses": [
+            "Yes, in elementary school there was another boy named Minjun in my class, so the teacher called us Minjun A and Minjun B.",
+            "No, my name is very traditional and rare, so I have never met anyone with my exact first name.",
+            "I haven't met someone in person, but I saw several famous actors and athletes who share my name."
+          ],
+          "followUp": "How did it feel when someone called your name and another student answered? Did it make you feel less unique, or did you feel an instant connection?",
+          "followUpKorean": "누군가 여러분의 이름을 불렀을 때 다른 학생이 대답했을 때 기분이 어땠나요? 덜 특별하게 느껴졌나요, 아니면 즉각적인 친밀감을 느꼈나요?",
+          "usefulLanguage": "name twin, namesake, share a name, differentiate, last initial, coincidence",
+          "caution": "Ensure students do not tease peers with common or uncommon names; emphasize that every name has rich cultural and familial value.",
+          "purpose": "Establish personal relevance and activate students' emotional and episodic memories regarding their names."
+        },
+        {
+          "question": "What might make a full name common or uncommon?",
+          "translation": "무엇이 전체 성명(full name)을 흔하거나 흔하지 않게 만들까요?",
+          "likelyResponses": [
+            "If a culture has only a few popular family names like Kim or Wang, many people will share that part.",
+            "Parents often choose names from popular trends, movies, or religious figures, making those first names very common.",
+            "An uncommon name might come from blending two languages, using an ancient word, or having an extremely rare family background."
+          ],
+          "followUp": "Can a person have a very common first name but an extremely rare surname, or vice versa? How would that affect the total combination?",
+          "followUpKorean": "이름은 매우 흔하지만 성씨는 아주 희귀하거나, 그 반대인 경우가 있을까요? 그것이 전체 성명 조합에 어떤 영향을 미칠까요?",
+          "usefulLanguage": "popularity trend, cultural heritage, surname concentration, rare combination, historical naming",
+          "caution": "Prevent students from overgeneralizing entire ethnic groups; keep discussions grounded in cultural traditions and data.",
+          "purpose": "Guide students toward understanding that full names result from combining two separate variables: given names and surnames."
+        },
+        {
+          "question": "Why could numbers help us understand how names are shared?",
+          "translation": "숫자가 이름이 어떻게 공유되는지 이해하는 데 왜 도움이 될 수 있을까요?",
+          "likelyResponses": [
+            "Numbers show us the total population and help us calculate how many people fit into each name group.",
+            "Without numbers, we are just guessing, but math lets us test whether sharing a name is statistically likely.",
+            "Percentages and formulas let us compare different countries like the U.S. and China fairly."
+          ],
+          "followUp": "If a country has 1 billion people and only 100 surnames, what does basic division tell you about the average group size?",
+          "followUpKorean": "만약 어떤 나라에 10억 명의 인구가 있고 성씨가 100개뿐이라면, 기본적인 나눗셈은 평균 집단 크기에 대해 무엇을 알려주나요?",
+          "usefulLanguage": "statistical probability, population size, combinations, division, average, demographic modeling",
+          "caution": "Remind students that numbers represent models of reality and that an average is not the same as an individual count.",
+          "purpose": "Bridge the transition from everyday intuition to mathematical reasoning and quantitative evidence."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "Have you ever met someone with the same name as you?",
+          "chunkReading": "Have you ever met / someone / with the same name / as you?",
+          "directKorean": "당신은 만나본 적이 있습니까 / 누군가를 / 같은 이름을 가진 / 당신과?",
+          "naturalKorean": "여러분은 자신과 같은 이름을 가진 사람을 만나본 적이 있나요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "Have you ever met",
+              "meaning": "~를 만나본 적이 있는가 (현재완료 경험)",
+              "use": "Asking about past life experience",
+              "example": "Have you ever met a famous author in person?"
+            },
+            {
+              "chunk": "with the same name as",
+              "meaning": "~와 동일한 이름을 가진",
+              "use": "Showing identical characteristic",
+              "example": "He attends classes with a boy with the same name as his brother."
+            }
+          ],
+          "mustKnowGrammar": "현재완료 경험 용법(have + p.p. + ever)과 전치사구 수식(with the same name as you). 'the same A as B' 구문은 B와 동일한 A를 비교할 때 정관사 the와 함께 사용됩니다.",
+          "feynmanExplanation": "Imagine you walk into a new classroom. / You call out your own name, / and another student turns around! / This sentence asks if you have had that fun experience. / It hooks our curiosity about names. (새 교실에 들어갔다고 상상해 보세요. / 여러분의 이름을 불렀는데, / 다른 학생이 돌아보는 상황입니다! / 이 문장은 여러분이 그런 재미있는 경험을 해본 적이 있는지 묻습니다. / 이름에 대한 호기심을 단번에 불러일으킵니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the opening question. Notice how 'Have you ever met' asks about your personal life experience.",
+              "korean": "선생님: 첫 질문을 보세요. 'Have you ever met'이 여러분의 실제 삶의 경험을 어떻게 묻고 있는지 주목하세요."
+            },
+            {
+              "english": "Student Notice: The sentence ends with a question mark and uses 'the same name as you'.",
+              "korean": "학생 주목점: 문장이 물음표로 끝나며 'the same name as you'라는 비교 표현을 사용합니다."
+            },
+            {
+              "english": "Check: What tense is used here, and what is its purpose?",
+              "korean": "점검 질문: 여기서 어떤 시제가 쓰였으며, 그 목적은 무엇인가요?"
+            },
+            {
+              "english": "Correction: It is present perfect of experience, used to engage the reader's schema before introducing data.",
+              "korean": "교정 지도: 경험을 나타내는 현재완료 시제로, 데이터를 제시하기 전 독자의 배경지식을 자극하기 위해 사용되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Maybe even the same first AND last name?",
+          "chunkReading": "Maybe even / the same first / AND last name?",
+          "directKorean": "어쩌면 심지어 / 똑같은 이름(first name)과 / 그리고 성(last name)까지도?",
+          "naturalKorean": "어쩌면 성과 이름까지 완전히 똑같은 사람일 수도 있을까요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "Maybe even",
+              "meaning": "어쩌면 심지어 ~까지도 (강조 표현)",
+              "use": "Intensifying a possibility",
+              "example": "Maybe even two hundred people will attend the festival."
+            },
+            {
+              "chunk": "first AND last name",
+              "meaning": "성과 이름 (전체 성명)",
+              "use": "Distinguishing given name from surname",
+              "example": "Please write both your first and last name on the exam sheet."
+            }
+          ],
+          "mustKnowGrammar": "말하기체에서 흔히 쓰이는 생략문(Ellipsis)입니다. 앞 문장의 'Have you ever met someone with...'가 생략된 형태로, 'AND'를 대문자로 강조하여 성과 이름 모두 일치하는 극단적인 경우를 부각합니다.",
+          "feynmanExplanation": "Sharing a first name like 'John' is pretty common. / But sharing both first AND last names is much rarer! / This question pushes the idea one step further. / It makes us wonder about full-name twins. (John 같은 이름을 공유하는 것은 꽤 흔합니다. / 하지만 이름과 성을 둘 다 공유하는 것은 훨씬 드뭅니다! / 이 질문은 호기심을 한 단계 더 확장합니다. / 우리로 하여금 완전히 똑같은 이름을 가진 동명이인에 대해 생각해보게 만듭니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Notice the capital letters in 'AND'. Why did the writer capitalize this word?",
+              "korean": "선생님: 'AND'의 대문자 표기를 보세요. 왜 작가는 이 단어를 대문자로 썼을까요?"
+            },
+            {
+              "english": "Student Notice: The writer wants to emphasize that BOTH names match, not just one of them.",
+              "korean": "학생 주목점: 작가는 단지 하나가 아니라 성과 이름 둘 다 일치한다는 점을 강조하고 싶어 합니다."
+            },
+            {
+              "english": "Check: What words are grammatically omitted from this sentence fragment?",
+              "korean": "점검 질문: 이 문장 조각에서 문법적으로 생략된 단어들은 무엇인가요?"
+            },
+            {
+              "english": "Correction: The subject and verb 'Have you ever met someone with...' are understood from the previous sentence.",
+              "korean": "교정 지도: 앞 문장의 주어와 동사구인 'Have you ever met someone with...'가 맥락상 생략되어 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "You’re not alone.",
+          "chunkReading": "You’re / not alone.",
+          "directKorean": "당신은 / 혼자가 아닙니다.",
+          "naturalKorean": "여러분만 그런 것이 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "You’re not alone",
+              "meaning": "당신 혼자가 아니다, 당신만 그런 것이 아니다",
+              "use": "Reassuring the reader of a shared experience",
+              "example": "If you feel nervous before a speech, you're not alone."
+            }
+          ],
+          "mustKnowGrammar": "축약형 'You’re'와 부정 형용사 보어 'not alone'으로 이루어진 2형식 문장입니다. 독자와의 정서적 유대감을 형성하는 관용적 담화 표지입니다.",
+          "feynmanExplanation": "If you thought having a name twin was strange, / do not worry! / Millions of other people experience the exact same thing. / This short sentence reassures the reader. / It tells us that name sharing is completely normal. (동명이인을 만나는 게 이상하다고 생각했다면, / 걱정하지 마세요! / 수백만 명의 다른 사람들도 똑같은 일을 겪고 있습니다. / 이 짧은 문장은 독자를 안심시킵니다. / 이름을 공유하는 것은 지극히 정상적인 일이라고 말해줍니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at this short, punchy sentence: 'You're not alone.' What tone does this create?",
+              "korean": "선생님: 이 짧고 강렬한 문장을 보세요: 'You're not alone.' 이것이 어떤 어조를 만드나요?"
+            },
+            {
+              "english": "Student Notice: It sounds friendly, conversational, and welcoming.",
+              "korean": "학생 주목점: 친근하고 대화체 같으며 편안한 느낌을 줍니다."
+            },
+            {
+              "english": "Check: How does this sentence prepare the reader for the next sentence?",
+              "korean": "점검 질문: 이 문장은 독자가 다음 문장으로 넘어가도록 어떻게 준비시키나요?"
+            },
+            {
+              "english": "Correction: It shifts from personal feeling to universal global facts.",
+              "korean": "교정 지도: 개인적인 느낌에서 보편적인 세계적 사실로 시선을 전환시킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Around the world, millions of people share names!",
+          "chunkReading": "Around the world, / millions of people / share names!",
+          "directKorean": "전 세계적으로 / 수백만 명의 사람들이 / 이름을 공유합니다!",
+          "naturalKorean": "전 세계에서 수백만 명의 사람들이 이름을 함께 쓰고 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Around the world",
+              "meaning": "전 세계에서, 세계 곳곳에서",
+              "use": "Indicating global scope",
+              "example": "Around the world, scientists are studying ocean temperatures."
+            },
+            {
+              "chunk": "millions of people",
+              "meaning": "수백만 명의 사람들 (대규모 수량)",
+              "use": "Expressing large, uncountable magnitude",
+              "example": "Millions of people watch the international sports finals."
+            },
+            {
+              "chunk": "share names",
+              "meaning": "이름을 공유하다, 같은 이름을 가지다",
+              "use": "Core topic verb phrase",
+              "example": "It is common for cousins to share names in that community."
+            }
+          ],
+          "mustKnowGrammar": "장소 부사구(Around the world)가 문두에 위치하고, 복수 명사구 'millions of'는 뒤에 복수 명사(people)를 수반하여 엄청난 규모의 수량을 나타냅니다. 감탄부호(!)는 놀라움을 표현합니다.",
+          "feynmanExplanation": "Think about the whole planet. / In almost every country, / huge crowds of people share the same names. / It is not just two or three people; / it is millions! (지구 전체를 생각해 보세요. / 거의 모든 나라에서 / 수많은 사람들이 같은 이름을 공유합니다. / 두세 사람의 이야기가 아니라 / 수백만 명의 이야기입니다!)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Notice the phrase 'millions of people'. Why doesn't the writer give an exact number here?",
+              "korean": "선생님: 'millions of people'이라는 표현을 보세요. 왜 작가는 여기서 정확한 숫자를 쓰지 않았을까요?"
+            },
+            {
+              "english": "Student Notice: The author is giving a broad, exciting introduction before breaking down specific numbers.",
+              "korean": "학생 주목점: 구체적인 숫자를 나누어 설명하기 전에 광범위하고 흥미진진한 도입을 제시하고 있습니다."
+            },
+            {
+              "english": "Check: What is the grammatical subject and main verb?",
+              "korean": "점검 질문: 이 문장의 문법적 주어와 본동사는 무엇인가요?"
+            },
+            {
+              "english": "Correction: The subject is 'millions of people' and the verb is 'share'.",
+              "korean": "교정 지도: 주어는 'millions of people'이고 동사는 'share'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Let’s dive in!",
+          "chunkReading": "Let’s / dive in!",
+          "directKorean": "우리 함께 / 뛰어들어 봅시다!",
+          "naturalKorean": "함께 본격적으로 알아봅시다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Let’s dive in",
+              "meaning": "본격적으로 시작해보자, 깊이 파고들어 보자",
+              "use": "Engaging call-to-action transition",
+              "example": "We have lots of interesting data, so let's dive in!"
+            }
+          ],
+          "mustKnowGrammar": "권유형 사역동사 구문(Let us + 동사원형)입니다. 'dive in'은 본래 물속으로 다이빙한다는 뜻이지만, 여기서는 주제나 흥미로운 내용 속으로 힘차게 탐구하러 들어간다는 은유적 관용구입니다.",
+          "feynmanExplanation": "Imagine jumping into a swimming pool on a warm day! / Here, we are jumping into interesting facts and numbers. / 'Let's dive in' means let us start learning together right now. / It invites the reader to join the adventure. (따뜻한 날 수영장에 뛰어드는 모습을 상상해 보세요! / 여기서는 흥미로운 사실과 숫자의 바다로 뛰어드는 것입니다. / 'Let's dive in'은 지금 당장 함께 배우기 시작하자는 뜻입니다. / 독자를 탐구의 모험으로 초대합니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the idiom 'dive in'. What literal meaning does it come from?",
+              "korean": "선생님: 'dive in'이라는 숙어를 보세요. 어떤 글자 그대로의 의미에서 유래했을까요?"
+            },
+            {
+              "english": "Student Notice: It comes from diving into water, but here it means starting an exciting study.",
+              "korean": "학생 주목점: 물속으로 다이빙하는 것에서 유래했지만, 여기서는 흥미로운 공부를 시작한다는 뜻입니다."
+            },
+            {
+              "english": "Check: How does this prepare the student for the upcoming section?",
+              "korean": "점검 질문: 이것이 독자로 하여금 이어지는 섹션을 어떻게 준비하게 하나요?"
+            },
+            {
+              "english": "Correction: It acts as an energetic transitional hook ending the introductory paragraph.",
+              "korean": "교정 지도: 도입 단락을 마무리하고 본론으로 이끄는 활기찬 전환 역할을 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Yes, and it happens a lot!",
+          "chunkReading": "Yes, / and it happens / a lot!",
+          "directKorean": "그렇습니다 / 그리고 그것은 일어납니다 / 아주 자주!",
+          "naturalKorean": "네, 그리고 실제로 아주 흔하게 일어나는 일입니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "and it happens a lot",
+              "meaning": "그리고 그것은 자주 일어난다",
+              "use": "Affirming high frequency",
+              "example": "Spilling drinks is an accident, and it happens a lot."
+            }
+          ],
+          "mustKnowGrammar": "앞의 소제목 질문('Do People Really Share the Same Name?')에 대한 직접적인 긍정 응답입니다. 대명사 'it'은 동명사 또는 명사적 개념인 'people sharing names'를 가리키며, 부사구 'a lot'이 빈도를 수식합니다.",
+          "feynmanExplanation": "The heading asked: do people really share names? / This answer is direct and simple: yes! / And not only does it happen, / it happens thousands of times every single day. / It confirms what the data will show. (소제목에서 '사람들이 정말 같은 이름을 쓸까?'라고 물었습니다. / 이 답변은 직설적이고 단순합니다. 바로 '네!'입니다. / 그리고 그런 일이 일어날 뿐만 아니라, / 매일 수천 번씩 일어납니다. / 데이터가 보여줄 사실을 확인해 줍니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Notice how this sentence directly answers the section heading. What does 'it' refer to?",
+              "korean": "선생님: 이 문장이 소제목에 어떻게 직접 대답하는지 보세요. 'it'은 무엇을 가리키나요?"
+            },
+            {
+              "english": "Student Notice: 'It' refers to people sharing the same name from the heading above.",
+              "korean": "학생 주목점: 'It'은 바로 위 소제목의 '사람들이 같은 이름을 공유하는 일'을 가리킵니다."
+            },
+            {
+              "english": "Check: Why did the author put an exclamation mark at the end?",
+              "korean": "점검 질문: 작가는 왜 끝에 느낌표를 붙였을까요?"
+            },
+            {
+              "english": "Correction: To add emphasis and lively enthusiasm to the confirmation.",
+              "korean": "교정 지도: 확인의 말에 강조와 생생한 열정을 더하기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world.",
+          "chunkReading": "There are / over 150 million Muhammads, / more than 30 million Johns, / and millions of girls / named Maria / around the world.",
+          "directKorean": "있습니다 / 1억 5천만 명 이상의 무함마드가, / 3천만 명 이상의 존이, / 그리고 수백만 명의 소녀들이 / 마리아라는 이름을 가진 / 전 세계에.",
+          "naturalKorean": "전 세계에는 1억 5천만 명이 넘는 무함마드, 3천만 명이 넘는 존, 그리고 마리아라는 이름을 가진 수백만 명의 소녀들이 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "over 150 million",
+              "meaning": "1억 5천만 명 이상의",
+              "use": "Reporting large numerical data with approximation",
+              "example": "There are over 150 million speakers of that language."
+            },
+            {
+              "chunk": "more than 30 million",
+              "meaning": "3천만 명 이상의",
+              "use": "Reporting comparative quantity",
+              "example": "The book sold more than 30 million copies worldwide."
+            },
+            {
+              "chunk": "girls named Maria",
+              "meaning": "마리아라는 이름을 가진 소녀들",
+              "use": "Past participle modifier phrase",
+              "example": "Three students named Alex joined our debate team."
+            }
+          ],
+          "mustKnowGrammar": "유도부사 구문(There are + 복수 주어 나열)입니다. 고유명사에 복수형 어미 -s를 붙여(Muhammads, Johns) '그 이름을 가진 사람들'을 뜻하며, 과거분사구(named Maria)가 앞의 명사(girls)를 후치 수식합니다.",
+          "feynmanExplanation": "Imagine calling the name 'Muhammad' / and 150 million people look up! / Call 'John' and 30 million people answer. / These names are so popular / that entire giant cities could be filled with just one name. (여러분이 '무함마드'라는 이름을 불렀을 때 / 1억 5천만 명이 고개를 든다고 상상해 보세요! / '존'이라고 부르면 3천만 명이 대답합니다. / 이 이름들은 너무나 인기가 많아서 / 거대한 도시 전체를 단 하나의 이름으로만 채울 수도 있을 정도입니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the names with '-s': 'Muhammads' and 'Johns'. How can a proper name have an -s?",
+              "korean": "선생님: '-s'가 붙은 이름들인 'Muhammads'와 'Johns'를 보세요. 고유명사에 어떻게 -s가 붙을 수 있을까요?"
+            },
+            {
+              "english": "Student Notice: In English, adding -s to a name means 'people with that name'.",
+              "korean": "학생 주목점: 영어에서는 이름에 -s를 붙이면 '그 이름을 가진 사람들'을 뜻합니다."
+            },
+            {
+              "english": "Check: Which three specific names are cited as evidence in this sentence?",
+              "korean": "점검 질문: 이 문장에서 증거로 인용된 세 개의 구체적인 이름은 무엇인가요?"
+            },
+            {
+              "english": "Correction: Muhammad (>150M), John (>30M), and Maria (millions of girls).",
+              "korean": "교정 지도: 무함마드(1억 5천만 이상), 존(3천만 이상), 마리아(수백만 명)입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "In China alone, over 100 million people share the last name Wang!",
+          "chunkReading": "In China alone, / over 100 million people / share the last name Wang!",
+          "directKorean": "중국에서만 해도 / 1억 명 이상의 사람들이 / 성씨 '왕(Wang)'을 공유합니다!",
+          "naturalKorean": "중국에서만 해도 무려 1억 명이 넘는 사람들이 '왕(Wang)'이라는 성을 함께 쓰고 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "In China alone",
+              "meaning": "중국 한 곳에서만 해도 (강조 부사구)",
+              "use": "Limiting scope to emphasize astonishing scale",
+              "example": "In that province alone, thousands of bridges were constructed."
+            },
+            {
+              "chunk": "over 100 million people",
+              "meaning": "1억 명 이상의 사람들",
+              "use": "Massive demographic figure",
+              "example": "Over 100 million people watched the broadcast."
+            },
+            {
+              "chunk": "the last name Wang",
+              "meaning": "왕이라는 성(surname)",
+              "use": "Specifying the surname in apposition",
+              "example": "She introduced herself with the last name Chen."
+            }
+          ],
+          "mustKnowGrammar": "강조 부사 'alone'이 명사(China) 뒤에 붙어 '중국 한 나라에서만'이라는 의미를 만듭니다. 'over 100 million people'이 주어이고 타동사 'share'와 목적어 'the last name Wang'이 결합된 3형식 문장입니다.",
+          "feynmanExplanation": "One hundred million is a huge number! / It is more people than the entire population of many countries. / Yet in China, all those people share the exact same family name: Wang. / It shows how powerful surname concentration can be. (1억은 어마어마하게 큰 숫자입니다! / 세계 여러 나라의 전체 인구보다 더 많습니다. / 그런데 중국에서는 그 많은 사람들이 모두 '왕'이라는 똑같은 성씨를 쓰고 있습니다. / 성씨 집중 현상이 얼마나 강력한지 보여줍니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Focus on 'In China alone'. What effect does the word 'alone' have here?",
+              "korean": "선생님: 'In China alone'에 주목해 보세요. 여기서 'alone'이라는 단어가 어떤 효과를 내나요?"
+            },
+            {
+              "english": "Student Notice: It emphasizes that we don't even need to look worldwide; just one single country has 100 million Wangs.",
+              "korean": "학생 주목점: 전 세계를 볼 필요도 없이, 단 한 나라에서만 1억 명의 왕씨가 있다는 점을 강력히 강조합니다."
+            },
+            {
+              "english": "Check: What is the surname mentioned, and how many people share it?",
+              "korean": "점검 질문: 언급된 성씨는 무엇이며, 몇 명이 공유하고 있나요?"
+            },
+            {
+              "english": "Correction: The surname is Wang, and over 100 million people share it.",
+              "korean": "교정 지도: 성씨는 Wang이며, 1억 명 이상이 공유하고 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do.",
+          "chunkReading": "With only so many names to go around / and 8 billion people on Earth, / chances are high / that someone else out there / has your exact name... / or even thousands of them do.",
+          "directKorean": "돌아갈 이름은 한정되어 있고 / 지구상에 80억 명의 사람이 있는 상황에서, / 가능성이 높습니다 / 저 바깥 어딘가에 있는 다른 누군가가 / 당신과 정확히 똑같은 이름을 가지고 있을... / 혹은 심지어 수천 명이 그러할.",
+          "naturalKorean": "사람들에게 돌아갈 이름의 수는 한정되어 있는 반면 지구상에는 80억 명의 인구가 살고 있기 때문에, 세상 어딘가에 여러분과 완전히 똑같은 이름을 가진 사람이 존재하거나, 심지어 수천 명이 존재할 가능성도 매우 높습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "only so many ... to go around",
+              "meaning": "돌아가기에 한정된 수의 ~만 있는",
+              "use": "Describing limited resources",
+              "example": "There are only so many seats to go around in the auditorium."
+            },
+            {
+              "chunk": "8 billion people on Earth",
+              "meaning": "지구상의 80억 인구",
+              "use": "Stating global population scale",
+              "example": "There are now more than 8 billion people on Earth."
+            },
+            {
+              "chunk": "chances are high that",
+              "meaning": "~할 가능성이 높다 (확률 표현)",
+              "use": "Expressing strong statistical likelihood",
+              "example": "Chances are high that temperatures will drop this evening."
+            },
+            {
+              "chunk": "has your exact name",
+              "meaning": "너의 정확한 이름을 가지다",
+              "use": "Perfect name duplication",
+              "example": "Someone in the next town has your exact name."
+            }
+          ],
+          "mustKnowGrammar": "'With + 명사구(A and B)'의 부대상황 구문입니다. 관용구 'only so many names to go around'는 '이름의 수가 한정되어 있다'는 뜻이며, 무동사절 'chances are high that ~'은 '(that 이하의) 확률이 높다'는 핵심 학술 확률 표현입니다. 대동사 'do'는 'have your exact name'을 대신합니다.",
+          "feynmanExplanation": "Think of it like a game of musical chairs. / There are 8 billion players, / but only a limited basket of common names! / When you put 8 billion people into that basket, / many people must end up holding the same name tag. (의자 뺏기 놀이처럼 생각해 보세요. / 선수는 80억 명이나 되는데, / 흔히 쓰이는 이름이 담긴 바구니는 한정되어 있습니다! / 80억 명의 사람들을 그 한정된 바구니에 넣다 보면, / 많은 사람들이 필연적으로 똑같은 명찰을 쥐게 될 수밖에 없습니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the mathematical logic in this sentence. What are the two contrasting conditions introduced by 'With'?",
+              "korean": "선생님: 이 문장의 수학적 논리를 보세요. 'With'로 시작하는 두 가지 대조적인 조건은 무엇인가요?"
+            },
+            {
+              "english": "Student Notice: Limited number of names ('only so many names to go around') vs. huge human population ('8 billion people on Earth').",
+              "korean": "학생 주목점: 한정된 이름의 수('only so many names')와 거대한 인구 규모('8 billion people')의 대비입니다."
+            },
+            {
+              "english": "Check: What does the phrase 'chances are high that' express?",
+              "korean": "점검 질문: 'chances are high that'이라는 표현은 무엇을 나타내나요?"
+            },
+            {
+              "english": "Correction: It expresses statistical probability rather than an absolute promise.",
+              "korean": "교정 지도: 절대적인 단언이 아니라 통계적 개연성(확률)을 나타냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "Let’s take two real U.S. name lists:",
+          "chunkReading": "Let’s take / two real / U.S. name lists:",
+          "directKorean": "살펴봅시다 / 두 개의 실제 / 미국 이름 목록을:",
+          "naturalKorean": "실제 미국의 두 가지 이름 목록을 예로 들어봅시다:",
+          "mustKnowChunks": [
+            {
+              "chunk": "Let’s take",
+              "meaning": "~를 예로 들어보자, 살펴보자",
+              "use": "Introducing case evidence",
+              "example": "Let's take a look at the latest climate research."
+            },
+            {
+              "chunk": "two real U.S. name lists",
+              "meaning": "두 개의 실제 미국 이름 목록",
+              "use": "Empirical reference material",
+              "example": "Researchers compared two real U.S. name lists."
+            }
+          ],
+          "mustKnowGrammar": "예시나 수학적 모델을 도입하는 청유형 명령문(Let's + 동사원형)입니다. 콜론(:)은 이어지는 글에서 두 목록의 구체적인 내용이 제시될 것임을 알리는 문장부호입니다.",
+          "feynmanExplanation": "To do real math, we need real data! / Instead of guessing, / the author brings in two actual lists from the United States. / This makes the calculation grounded in reality. / Let's see what these lists are. (진짜 수학을 하려면 진짜 데이터가 필요합니다! / 그냥 추측하는 대신, / 작가는 미국의 실제 목록 두 개를 가져옵니다. / 이렇게 하면 계산이 현실에 탄탄히 기반을 두게 됩니다. / 어떤 목록인지 살펴봅시다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Notice the colon at the end. What does a colon signal to the reader?",
+              "korean": "선생님: 끝에 있는 콜론(:)에 주목하세요. 콜론은 독자에게 무엇을 신호하나요?"
+            },
+            {
+              "english": "Student Notice: It signals an upcoming list or direct explanation of the two name lists.",
+              "korean": "학생 주목점: 뒤이어 두 이름 목록에 대한 구체적인 항목이나 설명이 올 것임을 알려줍니다."
+            },
+            {
+              "english": "Check: Why does the author specify 'real' U.S. name lists?",
+              "korean": "점검 질문: 왜 작가는 'real(실제)' 미국 이름 목록이라고 명시했을까요?"
+            },
+            {
+              "english": "Correction: To establish credibility and show that the math uses actual empirical data.",
+              "korean": "교정 지도: 신뢰성을 확보하고 수학적 계산이 실제 데이터에 기반함을 보여주기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+          "chunkReading": "Top 100 first names / (like Emma, Liam, / Olivia, Noah...)",
+          "directKorean": "상위 100개 이름 (first names) / (엠마, 리암, / 올리비아, 노아 같은...)",
+          "naturalKorean": "상위 100개의 이름(first name, 예: 엠마, 리암, 올리비아, 노아 등)",
+          "mustKnowChunks": [
+            {
+              "chunk": "Top 100 first names",
+              "meaning": "상위 100개 이름 (가장 인기 있는 100개 이름)",
+              "use": "Statistical ranking category",
+              "example": "His baby's name ranked among the top 100 first names."
+            },
+            {
+              "chunk": "like Emma, Liam, Olivia, Noah",
+              "meaning": "엠마, 리암, 올리비아, 노아 같은",
+              "use": "Giving concrete popular examples",
+              "example": "Popular names like Emma and Liam are chosen by thousands of parents."
+            }
+          ],
+          "mustKnowGrammar": "불완전 문장 형태의 항목(bullet item)입니다. 명사구 뒤에 괄호 전치사구(like + 예시 이름들)를 부가하여 친숙하고 구체적인 이름 표본을 독자에게 예시로 보여줍니다.",
+          "feynmanExplanation": "Think of the most popular baby names today: / Emma, Liam, Olivia, and Noah. / If you take the top 100 most common first names, / you get list number one. / It represents the most frequent given names. (오늘날 가장 인기 있는 아기 이름들을 떠올려 보세요: / 엠마, 리암, 올리비아, 노아 같은 이름들입니다. / 가장 흔한 상위 100개의 이름을 모으면, / 첫 번째 목록이 완성됩니다. / 가장 빈번하게 쓰이는 이름들을 대표합니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the examples in parentheses. Are these real popular names?",
+              "korean": "선생님: 괄호 안의 예시들을 보세요. 실제로 인기 있는 이름들인가요?"
+            },
+            {
+              "english": "Student Notice: Yes, Emma, Liam, Olivia, and Noah are well-known modern popular names in English-speaking countries.",
+              "korean": "학생 주목점: 네, 엠마, 리암, 올리비아, 노아는 영어권 국가에서 매우 잘 알려진 현대 인기 이름들입니다."
+            },
+            {
+              "english": "Check: How many names are in this first list?",
+              "korean": "점검 질문: 이 첫 번째 목록에는 몇 개의 이름이 포함되어 있나요?"
+            },
+            {
+              "english": "Correction: Exactly 100 top first names.",
+              "korean": "교정 지도: 정확히 상위 100개의 이름(first names)입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Top 100 surnames (like Smith, Johnson, Brown, Garcia...)",
+          "chunkReading": "Top 100 surnames / (like Smith, Johnson, / Brown, Garcia...)",
+          "directKorean": "상위 100개 성씨 (surnames) / (스미스, 존슨, / 브라운, 가르시아 같은...)",
+          "naturalKorean": "상위 100개의 성씨(surname, 예: 스미스, 존슨, 브라운, 가르시아 등)",
+          "mustKnowChunks": [
+            {
+              "chunk": "Top 100 surnames",
+              "meaning": "상위 100개 성씨",
+              "use": "Statistical ranking for family names",
+              "example": "The registry compiled the top 100 surnames in the state."
+            },
+            {
+              "chunk": "like Smith, Johnson, Brown, Garcia",
+              "meaning": "스미스, 존슨, 브라운, 가르시아 같은",
+              "use": "Illustrating diverse common family names",
+              "example": "Many American families share common surnames like Smith and Garcia."
+            }
+          ],
+          "mustKnowGrammar": "앞 항목과 대구를 이루는 명사구 항목입니다. 'first names'와 'surnames'를 명확히 구분하며, 괄호 안에 미국에서 가장 흔한 대표적 다문화 성씨 예시들을 나열하고 있습니다.",
+          "feynmanExplanation": "Now take the family names: / Smith, Johnson, Brown, Garcia. / If you collect the top 100 most common surnames, / that is list number two. / Now we have 100 first names and 100 last names. (이제 성씨(가족 이름)를 모아봅니다: / 스미스, 존슨, 브라운, 가르시아 등입니다. / 가장 흔한 상위 100개의 성씨를 모으면 / 두 번째 목록이 됩니다. / 이제 이름 100개와 성씨 100개가 준비되었습니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the word 'surnames'. How does it relate to 'last names' from earlier?",
+              "korean": "선생님: 'surnames'라는 단어를 보세요. 앞서 나온 'last names'와 어떤 관계인가요?"
+            },
+            {
+              "english": "Student Notice: Surname is a synonym for last name or family name.",
+              "korean": "학생 주목점: Surname은 last name 또는 family name과 동의어입니다."
+            },
+            {
+              "english": "Check: How many items are in the second list?",
+              "korean": "점검 질문: 두 번째 목록에는 몇 개의 항목이 있나요?"
+            },
+            {
+              "english": "Correction: Exactly 100 top surnames.",
+              "korean": "교정 지도: 정확히 100개의 상위 성씨입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "That gives us 100 × 100 = 10,000 common full-name combinations.",
+          "chunkReading": "That gives us / 100 × 100 = 10,000 / common full-name combinations.",
+          "directKorean": "그것은 우리에게 줍니다 / 100 곱하기 100은 10,000이라는 / 흔한 전체 성명 조합들을.",
+          "naturalKorean": "이렇게 하면 100 × 100 = 10,000개의 흔한 전체 성명 조합이 나옵니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "That gives us",
+              "meaning": "그것은 우리에게 ~를 제공한다 (계산 결과 도입)",
+              "use": "Introducing mathematical product",
+              "example": "Multiplying width by height gives us the total floor area."
+            },
+            {
+              "chunk": "100 × 100 = 10,000",
+              "meaning": "100 곱하기 100은 10,000",
+              "use": "Multiplication calculation formula",
+              "example": "The math is simple: 100 × 100 = 10,000."
+            },
+            {
+              "chunk": "common full-name combinations",
+              "meaning": "흔한 전체 성명 조합",
+              "use": "Permutation outcome in naming",
+              "example": "Those lists generate 10,000 common full-name combinations."
+            }
+          ],
+          "mustKnowGrammar": "수학적 곱셈 연산식(100 × 100 = 10,000)이 삽입된 4형식 문장(That[S] + gives[V] + us[I.O.] + combinations[D.O.])입니다. 'combinations'는 두 집합의 원소들을 짝짓는 경우의 수를 의미합니다.",
+          "feynmanExplanation": "If you have 100 shirts and 100 pairs of pants, / how many different outfits can you make? / You multiply: 100 times 100 equals 10,000! / Names work the exact same way. / 100 first names times 100 surnames creates 10,000 name combos. (셔츠 100벌과 바지 100벌이 있다면 / 몇 가지 다른 옷차림을 만들 수 있을까요? / 곱셈을 합니다: 100 곱하기 100은 10,000입니다! / 이름도 똑같은 방식으로 작동합니다. / 이름 100개에 성씨 100개를 곱하면 10,000가지 성명 조합이 만들어집니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the multiplication sign '×'. Why do we multiply instead of add?",
+              "korean": "선생님: 곱셈 기호 '×'를 보세요. 왜 더하지 않고 곱할까요?"
+            },
+            {
+              "english": "Student Notice: Because every single first name can be paired with every single surname.",
+              "korean": "학생 주목점: 모든 이름 하나하나가 각각의 성씨와 전부 짝지어질 수 있기 때문입니다."
+            },
+            {
+              "english": "Check: What is the resulting number of combinations?",
+              "korean": "점검 질문: 그 결과 나오는 조합의 수는 몇 개인가요?"
+            },
+            {
+              "english": "Correction: Exactly 10,000 common full-name combinations.",
+              "korean": "교정 지도: 정확히 10,000개의 흔한 성명 조합입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)",
+          "chunkReading": "But the U.S. has 330 million people, / so: 330,000,000 ÷ 10,000 = 33,000 / people per common name combo / (on average!)",
+          "directKorean": "그러나 미국은 3억 3천만 명의 인구를 가지고 있으므로, / 따라서: 330,000,000 ÷ 10,000 = 33,000 / 흔한 이름 조합당 사람 수 (평균적으로!)",
+          "naturalKorean": "하지만 미국의 인구는 3억 3천만 명이므로, 330,000,000 ÷ 10,000 = 흔한 이름 조합 하나당 평균 33,000명의 사람이 배정됩니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "the U.S. has 330 million people",
+              "meaning": "미국은 3억 3천만 명의 인구를 가지고 있다",
+              "use": "Stating national population parameter",
+              "example": "The U.S. has 330 million people spread across fifty states."
+            },
+            {
+              "chunk": "330,000,000 ÷ 10,000 = 33,000",
+              "meaning": "3억 3천만 나누기 1만은 3만 3천",
+              "use": "Division formula for demographic average",
+              "example": "The division shows: 330,000,000 ÷ 10,000 = 33,000."
+            },
+            {
+              "chunk": "people per common name combo",
+              "meaning": "흔한 이름 조합당 사람 수",
+              "use": "Rate unit (per combo)",
+              "example": "The model calculates 33,000 people per common name combo."
+            },
+            {
+              "chunk": "on average",
+              "meaning": "평균적으로 (통계적 한정 표현)",
+              "use": "Crucial statistical caution",
+              "example": "On average, each flight carries about 200 passengers."
+            }
+          ],
+          "mustKnowGrammar": "등위접속사 'But'으로 전환하고 인과접속사 'so'와 콜론(:) 뒤에 나눗셈 연산식(330,000,000 ÷ 10,000 = 33,000)을 전개합니다. 전치사 'per'는 '~당(단위당)'을 나타내며, 괄호 안의 'on average!'는 이 수치가 개별 보장이 아닌 통계적 평균임을 명시합니다.",
+          "feynmanExplanation": "Now divide the big population by those name boxes. / Take 330 million citizens. / Divide them into the 10,000 name combinations. / What happens? / On average, 33,000 people must fit into each name box! (이제 거대한 인구를 그 이름 상자들로 나누어 봅니다. / 3억 3천만 명의 시민이 있습니다. / 그들을 10,000개의 이름 조합 상자에 나누어 담습니다. / 어떤 일이 일어날까요? / 평균적으로, 각 이름 상자마다 33,000명의 사람이 들어가게 됩니다!)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the division sign '÷'. What does this division calculate?",
+              "korean": "선생님: 나눗셈 기호 '÷'를 보세요. 이 나눗셈은 무엇을 계산하는 것인가요?"
+            },
+            {
+              "english": "Student Notice: It divides the total population by the number of combinations to find the average people per name.",
+              "korean": "학생 주목점: 전체 인구를 조합의 수로 나누어 성명 하나당 배정되는 평균 인원을 계산합니다."
+            },
+            {
+              "english": "Check: Why is '(on average!)' written in parentheses?",
+              "korean": "점검 질문: 왜 '(on average!)'가 괄호 안에 적혀 있을까요?"
+            },
+            {
+              "english": "Correction: Because it is a mathematical average across the population, not every name has exactly 33,000 people.",
+              "korean": "교정 지도: 전체 인구에 대한 수학적 평균치일 뿐, 모든 이름이 정확히 33,000명씩 있다는 뜻은 아니기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+          "chunkReading": "If your name is very common, / like “John Smith,” / you might share it / with thousands of people / (real data says / over 40,000 John Smiths / in the U.S. alone!).",
+          "directKorean": "만약 당신의 이름이 매우 흔하다면, / '존 스미스'처럼, / 당신은 그것을 공유할지도 모릅니다 / 수천 명의 사람들과 / (실제 데이터에 따르면 / 40,000명 이상의 존 스미스가 있습니다 / 미국에서만!).",
+          "naturalKorean": "여러분의 이름이 '존 스미스'처럼 매우 흔하다면, 수천 명의 사람들과 같은 이름을 쓸 수도 있습니다(실제 데이터에 따르면 미국에서만 4만 명이 넘는 존 스미스가 살고 있습니다!).",
+          "mustKnowChunks": [
+            {
+              "chunk": "If your name is very common",
+              "meaning": "만약 당신의 이름이 매우 흔하다면",
+              "use": "Conditional hypothesis based on frequency",
+              "example": "If your name is very common, you will hear it often."
+            },
+            {
+              "chunk": "like “John Smith”",
+              "meaning": "'존 스미스'처럼 (따옴표 보존)",
+              "use": "Archetypal English name example",
+              "example": "He used a standard placeholder name like 'John Smith'."
+            },
+            {
+              "chunk": "you might share it with",
+              "meaning": "당신은 그것을 ~와 공유할지도 모른다 (추측/가능성 조동사)",
+              "use": "Modal verb of possibility",
+              "example": "You might share it with classmates or neighbors."
+            },
+            {
+              "chunk": "real data says",
+              "meaning": "실제 데이터에 따르면",
+              "use": "Appealing to empirical evidence",
+              "example": "Real data says that hybrid vehicles save significant fuel."
+            },
+            {
+              "chunk": "over 40,000 John Smiths in the U.S. alone",
+              "meaning": "미국 한 곳에서만 4만 명 이상의 존 스미스",
+              "use": "Empirical verification statistic",
+              "example": "Real data shows over 40,000 John Smiths in the U.S. alone."
+            }
+          ],
+          "mustKnowGrammar": "조건절(If + 현재동사)과 조동사 'might'를 사용한 주절로 이루어진 조건문입니다. 괄호 안의 부가절(real data says...)은 둥근따옴표(“John Smith”)와 함께 앞의 이론적 계산을 실제 인구조사 데이터(40,000명 이상)로 실증합니다.",
+          "feynmanExplanation": "What does this mean for a real person? / If your name is super popular—like John Smith— / you are not alone at all! / In the United States alone, / more than 40,000 real people answer to 'John Smith'. (이것이 실제 개인에게는 무엇을 의미할까요? / 여러분의 이름이 존 스미스처럼 엄청나게 인기가 있다면, / 여러분은 결코 혼자가 아닙니다! / 미국 한 나라에서만 / 실제로 4만 명이 넘는 사람들이 '존 스미스'라는 이름에 대답합니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the quotation marks around “John Smith” and the modal verb 'might'. Why does the text say 'might share'?",
+              "korean": "선생님: “John Smith” 주위의 따옴표와 조동사 'might'를 보세요. 왜 본문은 'might share'라고 했을까요?"
+            },
+            {
+              "english": "Student Notice: Because sharing depends on how popular the specific name actually is in real life.",
+              "korean": "학생 주목점: 그 특정 이름이 실제로 얼마나 인기가 있는지에 따라 공유 여부가 달라지기 때문입니다."
+            },
+            {
+              "english": "Check: What real-world number does the author give for John Smiths in the U.S.?",
+              "korean": "점검 질문: 작가가 제시한 미국 내 '존 스미스'의 실제 데이터 수치는 얼마인가요?"
+            },
+            {
+              "english": "Correction: Over 40,000 John Smiths in the U.S. alone.",
+              "korean": "교정 지도: 미국 한 곳에서만 40,000명 이상입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "If your name is less common, you might share it with none or just a few.",
+          "chunkReading": "If your name is less common, / you might share it / with none / or just a few.",
+          "directKorean": "만약 당신의 이름이 덜 흔하다면, / 당신은 그것을 공유할지도 모릅니다 / 아무와도 공유하지 않거나 / 혹은 단 몇 명과만.",
+          "naturalKorean": "반대로 여러분의 이름이 덜 흔하다면, 그 이름을 가진 사람이 아무도 없거나 단 몇 명에 불과할 수도 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "If your name is less common",
+              "meaning": "만약 당신의 이름이 덜 흔하다면 (비교급 조건)",
+              "use": "Contrasting with very common names",
+              "example": "If your name is less common, teachers rarely confuse it."
+            },
+            {
+              "chunk": "share it with none",
+              "meaning": "아무와도 그것을 공유하지 않다 (유일무이함)",
+              "use": "Zero namesakes scenario",
+              "example": "She has an invented name and shares it with none."
+            },
+            {
+              "chunk": "or just a few",
+              "meaning": "혹은 단지 극소수와만",
+              "use": "Small non-zero frequency",
+              "example": "He shares his surname with just a few distant relatives."
+            }
+          ],
+          "mustKnowGrammar": "비교급 'less common'을 사용한 조건절 대조 구문입니다. 부정대명사 'none'과 수량 표현 'just a few'를 병렬로 연결하여 통계적 평균(33,000명)과 개별적 실제치 사이의 큰 편차를 논리적으로 설명합니다.",
+          "feynmanExplanation": "What if your parents gave you a rare, unique name? / Then the average does not apply to you! / You might have zero name twins in the whole country, / or maybe just one or two. / An average is just a middle number, not your personal story. (만약 부모님이 여러분에게 아주 드물고 독특한 이름을 지어주셨다면 어떨까요? / 그렇다면 평균 수치는 여러분에게 적용되지 않습니다! / 여러분은 전국에서 동명이인이 0명일 수도 있고, / 어쩌면 한두 명에 불과할 수도 있습니다. / 평균은 그저 중간 계산값일 뿐, 여러분 개인의 이야기는 아닙니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Compare Sentence 15 and Sentence 16. What is the author demonstrating here?",
+              "korean": "선생님: 15번 문장과 16번 문장을 비교해 보세요. 작가는 여기서 무엇을 보여주고 있나요?"
+            },
+            {
+              "english": "Student Notice: The author is showing the contrast between common names and uncommon names, explaining individual variance.",
+              "korean": "학생 주목점: 작가는 흔한 이름과 덜 흔한 이름 사이의 대조를 보여주며, 개인별 편차가 존재함을 설명하고 있습니다."
+            },
+            {
+              "english": "Check: Does an average of 33,000 mean EVERY person shares their name with 33,000 people?",
+              "korean": "점검 질문: 평균 33,000명이라는 수치가 모든 사람이 33,000명과 이름을 공유한다는 뜻인가요?"
+            },
+            {
+              "english": "Correction: No! An average is a calculated central value; uncommon names might have zero or just a few.",
+              "korean": "교정 지도: 아닙니다! 평균은 계산된 중심값일 뿐이며, 흔하지 않은 이름은 0명이거나 아주 적을 수 있습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "original": "Things are very different here!",
+          "chunkReading": "Things are / very different here!",
+          "directKorean": "상황은 / 여기서는 매우 다릅니다!",
+          "naturalKorean": "여기(아시아/중국)의 상황은 사뭇 다릅니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Things are very different here",
+              "meaning": "여기서는 상황이 매우 다르다 (지역적 대조 전환)",
+              "use": "Shifting geographical focus",
+              "example": "In rural areas, things are very different here compared to the capital."
+            }
+          ],
+          "mustKnowGrammar": "일반적인 상황이나 제반 여건을 가리키는 복수 명사 'Things'를 주어로 하는 2형식 문장입니다. 부사 'here'는 앞서 제시된 소제목 'In Asia (like China)'의 지리적 맥락을 가리킵니다.",
+          "feynmanExplanation": "Now we pack our bags / and travel from the West to Asia, / specifically to China. / The rules change completely! / The population is larger, but the surnames are much more concentrated. (이제 우리는 가방을 싸서 / 서구권에서 아시아로, / 특히 중국으로 이동합니다. / 규칙이 완전히 바뀝니다! / 인구는 훨씬 많지만, 성씨는 훨씬 더 집중되어 있습니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at this transitional sentence under 'In Asia (like China)'. What does 'here' refer to?",
+              "korean": "선생님: 'In Asia (like China)' 아래에 있는 이 전환 문장을 보세요. 'here'는 무엇을 가리키나요?"
+            },
+            {
+              "english": "Student Notice: 'Here' refers to Asia, specifically China, as introduced in the section heading.",
+              "korean": "학생 주목점: 'Here'는 소제목에서 도입된 아시아, 구체적으로 중국을 가리킵니다."
+            },
+            {
+              "english": "Check: What contrast does this sentence signal?",
+              "korean": "점검 질문: 이 문장은 어떤 대조를 예고하고 있나요?"
+            },
+            {
+              "english": "Correction: It signals that naming patterns and numbers in China differ greatly from the Western Hemisphere.",
+              "korean": "교정 지도: 중국의 작명 패턴과 수치가 서구권과 크게 다름을 예고합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "original": "China has 1.4 billion people",
+          "chunkReading": "China has / 1.4 billion people",
+          "directKorean": "중국은 가지고 있다 / 14억 명의 인구를",
+          "naturalKorean": "중국의 인구는 14억 명에 달합니다",
+          "mustKnowChunks": [
+            {
+              "chunk": "1.4 billion people",
+              "meaning": "14억 명의 인구",
+              "use": "Massive national population figure",
+              "example": "China has approximately 1.4 billion people."
+            }
+          ],
+          "mustKnowGrammar": "항목 형식(bullet item)의 문장으로, 3형식 구조(China[S] + has[V] + 1.4 billion people[O])입니다. 영어에서 'billion'은 10억이므로 '1.4 billion'은 14억을 의미합니다.",
+          "feynmanExplanation": "First, look at the giant population: / 1.4 billion people! / That is more than four times the size of the entire United States. / This huge number is our starting point for the math. (먼저 거대한 인구를 보세요: / 무려 14억 명입니다! / 이것은 미국 전체 인구의 네 배가 넘는 규모입니다. / 이 거대한 숫자가 수학 계산의 출발점입니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Note the figure '1.4 billion'. How many is 1.4 billion in Korean numbers?",
+              "korean": "선생님: '1.4 billion'이라는 수치에 주목하세요. 한국어 숫자로 1.4 billion은 얼마인가요?"
+            },
+            {
+              "english": "Student Notice: 1 billion is 10억, so 1.4 billion is 14억 (1,400,000,000).",
+              "korean": "학생 주목점: 1 billion은 10억이므로, 1.4 billion은 14억(1,400,000,000)입니다."
+            },
+            {
+              "english": "Check: How does this population compare to the U.S. population of 330 million?",
+              "korean": "점검 질문: 이 인구는 미국의 3억 3천만 인구와 비교하면 어떤가요?"
+            },
+            {
+              "english": "Correction: It is more than four times larger than the U.S. population.",
+              "korean": "교정 지도: 미국 인구보다 4배 이상 훨씬 큽니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "original": "Over 85% of people share one of the top 100 surnames",
+          "chunkReading": "Over 85% of people / share / one of the top 100 surnames",
+          "directKorean": "인구의 85% 이상이 / 공유한다 / 상위 100대 성씨 중 하나를",
+          "naturalKorean": "인구의 85% 이상이 상위 100대 성씨 중 하나를 함께 사용합니다",
+          "mustKnowChunks": [
+            {
+              "chunk": "Over 85% of people",
+              "meaning": "인구의 85% 이상이",
+              "use": "Percentage majority quantifier",
+              "example": "Over 85% of students completed the assignment on time."
+            },
+            {
+              "chunk": "one of the top 100 surnames",
+              "meaning": "상위 100대 성씨 중 하나",
+              "use": "Selecting from a concentrated ranking",
+              "example": "His family belongs to one of the top 100 surnames."
+            }
+          ],
+          "mustKnowGrammar": "분수/퍼센트 주어의 수 일치 구문입니다. 'Over 85% of people'에서 핵심 명사가 복수인 'people'이므로 복수 동사 'share'가 쓰였습니다. 'one of the + 복수명사(top 100 surnames)'는 집합 중 하나를 가리킵니다.",
+          "feynmanExplanation": "In China, surnames are super concentrated! / Imagine 100 people in a room: / 85 of them share just the 100 most common last names. / That leaves very few rare surnames for everyone else. (중국에서는 성씨가 엄청나게 집중되어 있습니다! / 방에 100명이 있다고 상상해 보세요: / 그중 85명이 단 100개의 가장 흔한 성씨를 나누어 씁니다. / 나머지 사람들을 위한 희귀 성씨는 거의 남지 않습니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the percentage 'Over 85%'. What does this tell us about surnames in China?",
+              "korean": "선생님: 'Over 85%'라는 백분율을 보세요. 이것이 중국의 성씨에 대해 무엇을 말해주나요?"
+            },
+            {
+              "english": "Student Notice: It shows an overwhelming concentration where the vast majority of citizens share a small list of 100 surnames.",
+              "korean": "학생 주목점: 대다수의 국민이 단 100개의 성씨 목록을 공유하는 압도적인 성씨 집중 현상을 보여줍니다."
+            },
+            {
+              "english": "Check: How does this concentration compare to Western naming variety?",
+              "korean": "점검 질문: 이러한 집중도는 서구의 성씨 다양성과 비교하면 어떤가요?"
+            },
+            {
+              "english": "Correction: It creates far fewer surname choices than exist across Western populations.",
+              "korean": "교정 지도: 서구 인구에 존재하는 것보다 훨씬 더 적은 성씨 선택지를 만들어냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "original": "Only a few thousand common first names are in regular use",
+          "chunkReading": "Only a few thousand / common first names / are in regular use",
+          "directKorean": "단지 수천 개의 / 흔한 이름들만이 / 정기적으로 사용된다",
+          "naturalKorean": "일상적으로 널리 쓰이는 이름(first name)은 불과 수천 개에 불과합니다",
+          "mustKnowChunks": [
+            {
+              "chunk": "Only a few thousand",
+              "meaning": "불과 수천 개의 (제한적 수량 강조)",
+              "use": "Limiting magnitude with 'only'",
+              "example": "Only a few thousand wild tigers remain on the continent."
+            },
+            {
+              "chunk": "common first names",
+              "meaning": "흔한 이름들 (주어진 이름)",
+              "use": "Given names category",
+              "example": "Parents often consult books of common first names."
+            },
+            {
+              "chunk": "are in regular use",
+              "meaning": "일상적으로 사용되다",
+              "use": "Describing standard communicative usage",
+              "example": "These idiomatic expressions are still in regular use today."
+            }
+          ],
+          "mustKnowGrammar": "한정 부사 'Only'가 소량 표현 'a few thousand'를 수식하며, 수동적 상태를 나타내는 전치사구 보어 구문 'be in regular use'(통상적으로 쓰이다)가 결합된 문장입니다.",
+          "feynmanExplanation": "Even though the dictionary has thousands of Chinese characters, / parents usually choose from a small pool. / Only a few thousand first names are commonly picked. / So both the surnames AND the first names come from limited groups! (사전에는 수천 개의 한자가 있지만, / 부모님들은 보통 작은 선택지 풀에서 이름을 고릅니다. / 흔히 선택되는 이름은 불과 수천 개뿐입니다. / 따라서 성씨와 이름 모두 한정된 집단에서 나오게 됩니다!)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Notice the phrase 'in regular use'. What does this mean in everyday context?",
+              "korean": "선생님: 'in regular use'라는 표현에 주목하세요. 일상 맥락에서 이것은 무슨 뜻인가요?"
+            },
+            {
+              "english": "Student Notice: It means actively, commonly used in daily life rather than just appearing in historical books.",
+              "korean": "학생 주목점: 역사책에만 존재하는 것이 아니라 일상생활에서 활발하게, 흔히 쓰인다는 뜻입니다."
+            },
+            {
+              "english": "Check: How many common first names are mentioned as being in regular use?",
+              "korean": "점검 질문: 일상적으로 쓰이는 흔한 이름은 몇 개로 언급되었나요?"
+            },
+            {
+              "english": "Correction: Only a few thousand common first names.",
+              "korean": "교정 지도: 불과 수천 개(a few thousand)입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "original": "Let’s try the math:",
+          "chunkReading": "Let’s try / the math:",
+          "directKorean": "시도해 봅시다 / 그 수학 계산을:",
+          "naturalKorean": "수학적으로 계산을 해봅시다:",
+          "mustKnowChunks": [
+            {
+              "chunk": "Let’s try the math",
+              "meaning": "수학 계산을 해보자, 계산을 시도해보자",
+              "use": "Transition to numerical calculation",
+              "example": "Before making a budget decision, let's try the math."
+            }
+          ],
+          "mustKnowGrammar": "청유형 권유문(Let's + 동사원형) 뒤에 계산 과정의 등장을 알리는 콜론(:)이 결합된 도입 문장입니다.",
+          "feynmanExplanation": "Now let's do the numbers for China! / We have 100 common surnames / and about 3,000 common first names. / Let's see what happens when we combine them. (이제 중국에 대한 숫자를 계산해 봅시다! / 흔한 성씨 100개와 / 흔한 이름 약 3,000개가 있습니다. / 그 둘을 조합하면 어떤 일이 일어나는지 살펴봅시다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the phrase 'Let's try the math:'. How does it guide the reader?",
+              "korean": "선생님: 'Let's try the math:' 구문을 보세요. 이것이 독자를 어떻게 안내하나요?"
+            },
+            {
+              "english": "Student Notice: It signals a direct transition from demographic facts to mathematical modeling.",
+              "korean": "학생 주목점: 인구통계학적 사실에서 수학적 모델링으로의 직접적인 전환을 알립니다."
+            },
+            {
+              "english": "Check: What two numbers are about to be multiplied?",
+              "korean": "점검 질문: 이제 어떤 두 숫자가 곱해질 예정인가요?"
+            },
+            {
+              "english": "Correction: 100 common surnames and 3,000 common first names.",
+              "korean": "교정 지도: 100개의 흔한 성씨와 3,000개의 흔한 이름입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 22,
+          "original": "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+          "chunkReading": "100 common surnames / × 3,000 common first names / = 300,000 full-name combos. / Now divide / China’s population / by that:",
+          "directKorean": "100개의 흔한 성씨 / × 3,000개의 흔한 이름 / = 300,000개의 전체 성명 조합. / 이제 나누어라 / 중국의 인구를 / 그것으로:",
+          "naturalKorean": "100개의 흔한 성씨 × 3,000개의 흔한 이름 = 300,000개의 성명 조합이 나옵니다. 이제 중국의 인구를 이 숫자로 나누어 봅시다:",
+          "mustKnowChunks": [
+            {
+              "chunk": "100 common surnames × 3,000 common first names",
+              "meaning": "100개의 흔한 성씨 곱하기 3,000개의 흔한 이름",
+              "use": "Permutation multiplication for China",
+              "example": "Multiply 100 common surnames by 3,000 common first names."
+            },
+            {
+              "chunk": "300,000 full-name combos",
+              "meaning": "30만 개의 전체 성명 조합",
+              "use": "Total combinations output",
+              "example": "The formula produces 300,000 full-name combos."
+            },
+            {
+              "chunk": "divide China’s population by that",
+              "meaning": "중국의 인구를 그것으로 나누다",
+              "use": "Division instruction ('divide A by B')",
+              "example": "Now divide the total budget by that estimate."
+            }
+          ],
+          "mustKnowGrammar": "수학 공식 문장과 명령문(Now divide A by that:)의 결합입니다. 전치사 'by'는 나눗셈의 제수(divisor, 나누는 수)를 나타내며, 대명사 'that'은 바로 앞의 결과값인 300,000 조합을 가리킵니다.",
+          "feynmanExplanation": "Multiply 100 surnames times 3,000 first names. / That gives 300,000 possible name boxes. / Now take China's massive 1.4 billion people / and divide them into those 300,000 boxes. (100개의 성씨에 3,000개의 이름을 곱합니다. / 그러면 30만 개의 가능한 이름 상자가 나옵니다. / 이제 중국의 거대한 14억 인구를 / 그 30만 개의 상자에 나누어 담습니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the mathematical formula: 100 × 3,000 = 300,000. How does this compare to the U.S. 10,000 combinations?",
+              "korean": "선생님: 100 × 3,000 = 300,000이라는 수학 공식을 보세요. 미국의 10,000개 조합과 비교하면 어떤가요?"
+            },
+            {
+              "english": "Student Notice: China's pool has 30 times more combinations because it uses 3,000 first names instead of 100.",
+              "korean": "학생 주목점: 100개 대신 3,000개의 이름을 사용하여 조합 수가 30배 더 많습니다."
+            },
+            {
+              "english": "Check: What does 'that' refer to in 'divide China's population by that'?",
+              "korean": "점검 질문: 'divide China's population by that'에서 'that'은 무엇을 가리키나요?"
+            },
+            {
+              "english": "Correction: It refers to the 300,000 full-name combinations.",
+              "korean": "교정 지도: 앞서 계산된 300,000개의 성명 조합을 가리킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 23,
+          "original": "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name",
+          "chunkReading": "1,400,000,000 ÷ 300,000 / ≈ 4,667 / people per full name",
+          "directKorean": "1,400,000,000 ÷ 300,000 / 약 4,667 / 전체 성명당 사람 수",
+          "naturalKorean": "1,400,000,000 ÷ 300,000 ≈ 성명 하나당 약 4,667명",
+          "mustKnowChunks": [
+            {
+              "chunk": "1,400,000,000 ÷ 300,000",
+              "meaning": "14억 나누기 30만",
+              "use": "Demographic division formula",
+              "example": "Perform the division: 1,400,000,000 ÷ 300,000."
+            },
+            {
+              "chunk": "≈ 4,667",
+              "meaning": "약 4,667 (근사 기호 보존)",
+              "use": "Approximation sign for repeating decimal",
+              "example": "The result is approximately 4,667."
+            },
+            {
+              "chunk": "people per full name",
+              "meaning": "전체 성명당 사람 수 (단위당 비율)",
+              "use": "Average density unit",
+              "example": "The average density is 4,667 people per full name."
+            }
+          ],
+          "mustKnowGrammar": "근사 기호(≈, almost equal to)를 사용한 수학 등식입니다. 1,400,000,000을 300,000으로 나누면 4666.666...으로 나누어떨어지지 않기 때문에 반올림하여 '약 4,667'로 근사치를 나타냈습니다. 전치사 'per'가 단위당 비율을 나타냅니다.",
+          "feynmanExplanation": "When you divide 1.4 billion by 300,000, / you get 4,666.666... / The wavy equal sign (≈) means 'approximately'. / So on average, about 4,667 people share each name in this model. / That is a lower average than the U.S. 33,000! (14억을 30만으로 나누면 / 4666.666...이 나옵니다. / 물결 모양 등호(≈)는 '약(대략)'을 의미합니다. / 따라서 이 모델에서는 평균적으로 약 4,667명의 사람이 각 이름을 공유합니다. / 이것은 미국의 평균 33,000명보다 더 낮은 평균치입니다!)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the symbol '≈'. What does this symbol mean and why is it used?",
+              "korean": "선생님: '≈' 기호를 보세요. 이 기호는 무엇을 뜻하며 왜 쓰였나요?"
+            },
+            {
+              "english": "Student Notice: It means 'approximately equal to', used because 1.4 billion divided by 300,000 results in a repeating decimal.",
+              "korean": "학생 주목점: '대략 같다(약)'는 뜻이며, 14억을 30만으로 나누면 순환소수가 나오기 때문에 반올림 근사치를 쓴 것입니다."
+            },
+            {
+              "english": "Check: What is the resulting average figure for China?",
+              "korean": "점검 질문: 중국에 대해 산출된 평균 인원 수치는 얼마인가요?"
+            },
+            {
+              "english": "Correction: Approximately 4,667 people per full name.",
+              "korean": "교정 지도: 성명당 약 4,667명입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 24,
+          "original": "And that’s just an average.",
+          "chunkReading": "And that’s / just an average.",
+          "directKorean": "그리고 그것은 / 단지 평균일 뿐입니다.",
+          "naturalKorean": "그리고 그것은 단지 평균 수치일 뿐입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "that’s just an average",
+              "meaning": "그것은 단지 평균일 뿐이다",
+              "use": "Highlighting statistical limitation",
+              "example": "Remember that's just an average; some scores were much higher."
+            }
+          ],
+          "mustKnowGrammar": "등위접속사 'And'로 문두를 시작하며, 지시대명사 'that'은 앞의 4,667 계산 결과를 가리킵니다. 부사 'just'가 명사구 보어 'an average'를 한정하여 평균의 한계와 실제 개별 사례의 편차를 암시합니다.",
+          "feynmanExplanation": "Do not stop at 4,667! / That number is only a math average. / In reality, some names have almost nobody, / while superstar popular names have crowds beyond imagination. / The next sentence shows the extreme! (4,667이라는 숫자에서 멈추지 마세요! / 그 숫자는 단지 수학적 평균일 뿐입니다. / 현실에서는 거의 아무도 없는 이름이 있는가 하면, / 상상을 초월할 정도로 많은 사람이 몰린 초인기 이름도 있습니다. / 다음 문장이 그 극단적인 사례를 보여줍니다!)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the word 'just' in 'just an average'. What caution is the author giving?",
+              "korean": "선생님: 'just an average'에서 'just'라는 단어에 주목하세요. 작가는 어떤 주의점을 주고 있나요?"
+            },
+            {
+              "english": "Student Notice: The author is warning us not to assume every single Chinese name has 4,667 people.",
+              "korean": "학생 주목점: 작가는 모든 중국 이름이 정확히 4,667명씩 존재할 것이라고 속단하지 말라고 경고하고 있습니다."
+            },
+            {
+              "english": "Check: What concept does this sentence emphasize for data literacy?",
+              "korean": "점검 질문: 이 문장은 데이터 이해력(수치 문해력) 측면에서 어떤 개념을 강조하나요?"
+            },
+            {
+              "english": "Correction: The vital difference between an aggregate statistical average and individual real-world cases.",
+              "korean": "교정 지도: 총체적인 통계적 평균과 개별 현실 사례 사이의 중요한 차이점입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 25,
+          "original": "Some names, like Wang Wei, are shared by hundreds of thousands of people!",
+          "chunkReading": "Some names, / like Wang Wei, / are shared / by hundreds of thousands of people!",
+          "directKorean": "어떤 이름들은, / 왕웨이처럼, / 공유된다 / 수십만 명의 사람들에 의해!",
+          "naturalKorean": "왕웨이(Wang Wei)와 같은 몇몇 이름은 무려 수십만 명의 사람들에 의해 함께 쓰이고 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Some names, like Wang Wei",
+              "meaning": "왕웨이 같은 어떤 이름들은",
+              "use": "Citing peak extreme example",
+              "example": "Some names, like Wang Wei, top the national frequency charts."
+            },
+            {
+              "chunk": "are shared by",
+              "meaning": "~에 의해 공유되다 (수동태)",
+              "use": "Passive voice showing widespread possession",
+              "example": "Traditions are shared by all community members."
+            },
+            {
+              "chunk": "hundreds of thousands of people",
+              "meaning": "수십만 명의 사람들",
+              "use": "Massive scale quantifier",
+              "example": "Hundreds of thousands of people gathered in the central square."
+            }
+          ],
+          "mustKnowGrammar": "수동태 구문(are shared by + 행위자)입니다. 삽입 전치사구(like Wang Wei)가 주어(Some names)를 구체화하며, 'hundreds of thousands of'는 10만 단위를 넘어서는 거대한 인원수를 나타내는 수량 표현입니다.",
+          "feynmanExplanation": "Look at the name 'Wang Wei'. / Wang is a super common last name, / and Wei is a super common first name. / Put them together, / and hundreds of thousands of real people share that exact full name! / It proves that peak names go way above the average. ('왕웨이'라는 이름을 보세요. / '왕'은 엄청나게 흔한 성씨이고, / '웨이'는 엄청나게 흔한 이름입니다. / 둘을 합치면, / 실제로 수십만 명의 사람들이 그 완전히 똑같은 성명을 공유하게 됩니다! / 최고 인기 이름은 평균을 훨씬 뛰어넘는다는 것을 증명합니다.)",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the final sentence. How does 'Wang Wei' demonstrate the difference between an average and an extreme case?",
+              "korean": "선생님: 마지막 문장을 보세요. '왕웨이'는 평균과 극단적인 실제 사례 사이의 차이를 어떻게 입증하나요?"
+            },
+            {
+              "english": "Student Notice: The average was 4,667, but Wang Wei is shared by hundreds of thousands, proving that distribution is uneven.",
+              "korean": "학생 주목점: 평균은 4,667명이었지만, 왕웨이는 수십만 명이 공유하고 있어 분포가 불균등함을 입증합니다."
+            },
+            {
+              "english": "Check: What two elements combine to make Wang Wei so common?",
+              "korean": "점검 질문: 왕웨이라는 이름을 그렇게 흔하게 만드는 두 가지 요소는 무엇인가요?"
+            },
+            {
+              "english": "Correction: The super common surname Wang (>100M) combined with the very common given name Wei.",
+              "korean": "교정 지도: 1억 명 이상이 쓰는 초인기 성씨 왕과 널리 쓰이는 이름 웨이의 결합입니다."
+            }
+          ]
+        }
+      ],
+      "finalWritingSupport": {
+        "sentenceFrames": [
+          "Many people can share the same full name because global populations must draw from a limited pool of [common first names and surnames].",
+          "According to the article, there are over [150 million Muhammads / 100 million Wangs], demonstrating that [name sharing is a massive worldwide reality].",
+          "In the Western Hemisphere, combining 100 first names and 100 surnames creates [10,000 common full-name combinations].",
+          "Dividing the U.S. population of 330 million by these combinations results in an average of [33,000 people per common name combination (330,000,000 ÷ 10,000)].",
+          "In contrast, China's model combines 100 surnames with 3,000 first names to produce [300,000 combinations], averaging approximately [4,667 people per full name (1,400,000,000 ÷ 300,000 ≈ 4,667)].",
+          "Crucially, researchers emphasize that this figure is only an average; an individual with a common name might share it with [thousands of people], whereas someone with an uncommon name might share it with [none or just a few]."
+        ],
+        "usefulConnectors": [
+          "According to the article,",
+          "Furthermore,",
+          "In contrast,",
+          "While",
+          "On average,",
+          "Crucially,",
+          "Consequently,",
+          "For instance,",
+          "In reality,"
+        ],
+        "usefulVocabulary": [
+          "name sharing",
+          "full-name combinations",
+          "surname concentration",
+          "demographic average",
+          "population scale",
+          "in regular use",
+          "exact namesakes",
+          "individual variation",
+          "mathematical model"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State that many people share identical full names because global populations must choose from limited name pools.",
+          "2. Global Evidence: Cite demographic examples (over 150 million Muhammads, more than 30 million Johns, over 100 million Wangs in China).",
+          "3. U.S. Calculation: Explain multiplying 100 first names by 100 surnames (10,000 combinations) and dividing 330 million people by 10,000 (33,000 average).",
+          "4. China Calculation & Comparison: Contrast China's 1.4 billion people and 85% surname concentration (100 surnames × 3,000 first names = 300,000 combinations, yielding ~4,667 average).",
+          "5. Cautious Qualification: Emphasize that these figures are averages; common names (John Smith, Wang Wei) have thousands or hundreds of thousands of namesakes, while uncommon names have few or none.",
+          "6. Concluding Sentence: Summarize why mathematical combinations and demographic scale explain widespread name sharing."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Every person in America shares their name with 33,000 people.",
+            "correction": "On average, each common name combination in the U.S. has about 33,000 people.",
+            "explanation": "Students often confuse a calculated mathematical average with a universal individual truth. Using 'On average' prevents false claims."
+          },
+          {
+            "mistake": "China has 1.4 billion people, so nobody has unique name.",
+            "correction": "China has 1.4 billion people; however, someone with an uncommon name might still share it with very few individuals.",
+            "explanation": "Korean ESL writers often generalize extreme populations into absolute negatives ('nobody'). Academic writing requires cautious modals like 'might'."
+          },
+          {
+            "mistake": "Multiply 100 and 100 is equal 10,000 combinations.",
+            "correction": "Multiplying 100 first names by 100 surnames gives 10,000 common combinations.",
+            "explanation": "Students frequently struggle with English mathematical verbs. Gerund subject 'Multiplying A by B' creates a fluent academic clause."
+          },
+          {
+            "mistake": "John Smith is very common name in the real data.",
+            "correction": "Real data shows that over 40,000 people share the common name “John Smith” in the U.S. alone.",
+            "explanation": "Add precise numerical evidence and proper quotation marks when citing source examples."
+          }
+        ],
+        "g1Scaffold": "Provide G1 students with the sentence starters and a graphic organizer separating (1) Global facts, (2) One math calculation, (3) Comparison sentence, and (4) 'On average' concluding caution.",
+        "g2Extension": "Challenge G2 students to explain why China's average (4,667) is lower than the U.S. average (33,000) despite having a larger population, referencing the larger combination pool (300,000 vs. 10,000) and discussing the peak frequency of Wang Wei.",
+        "teacherCorrectionPriorities": [
+          "Priority 1: Ensure the paragraph includes accurate numbers from the locked text without outside demographic inventions.",
+          "Priority 2: Verify that at least one mathematical calculation is fully explained with correct operations.",
+          "Priority 3: Check that cautious language ('on average', 'might') distinguishes the calculated average from individual people.",
+          "Priority 4: Check word count adherence within the strict 100–140 word range."
+        ],
+        "teacherCorrectionFocus": [
+          "Priority 1: Ensure the paragraph includes accurate numbers from the locked text without outside demographic inventions.",
+          "Priority 2: Verify that at least one mathematical calculation is fully explained with correct operations.",
+          "Priority 3: Check that cautious language ('on average', 'might') distinguishes the calculated average from individual people.",
+          "Priority 4: Check word count adherence within the strict 100–140 word range."
+        ]
+      },
+      "sourceLayoutNote": {
+        "title": "Visual Layout & Formatting Structure",
+        "description": "The source material consists of two classroom visual images. Image 1 features the title 'How Many People Share Your Name?', an introductory question block, the section heading 'Do People Really Share the Same Name?', introductory affirmation, data paragraph, conclusion, and an embedded name-statistics lookup screenshot. Image 2 features the title 'What’s the Chance Someone Has the Same Full Name as You?', two regional sections ('In the Western Hemisphere' and 'In Asia'), mathematical formula lines with exact symbols (×, ÷, ≈), bulleted lists, and a visual caption 'The Most Popular Baby Names for Girls & Boys!' representing regional baby name maps. All titles, headings, prose blocks, bullets, formulas, and visual labels are preserved in their exact ordered structure."
+      }
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "taskId": "OFS-20261019-NAME-SHARING-STATISTICS-01",
+  "operation": "CREATE_NEW_LESSON",
+  "lessonSlug": "2026-10-19-name-sharing-statistics",
+  "title": "How Many People Share Your Name?",
+  "unit": "Unit 1 — Identity, Names & Communities",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "readingType": "Informational Data and Culture Feature",
+  "writingType": "Evidence-Based Explanation Paragraph",
+  "duration": "90 minutes",
+  "goal": "Students read an informational visual article about name sharing, identify numerical evidence and mathematical relationships, distinguish averages from individual cases, compare the Western Hemisphere and China examples, and write a cautious evidence-based explanation.",
+  "createdAt": "2026-10-19T09:51:00.000Z",
+  "baselineLessonCount": 26,
+  "baselineSlugs": [
+    "2026-10-12-mcdonalds-tasty-twists",
+    "2026-09-28-icebergs-frozen-giants",
+    "2026-09-28-a23a-iceberg-disappears",
+    "2026-09-21-sweden-forests-fika",
+    "2026-09-16-bamboo-scaffolding-hong-kong",
+    "2026-09-14-sunscreen-invisible-shield",
+    "2026-08-31-pocket-problem-women-need-more",
+    "2026-08-31-mars-leopard-spots-evidence",
+    "2026-08-24-nurabot-nursing-robot",
+    "2026-08-19-journey-of-your-last-name",
+    "2026-08-10-teens-try-tech-free-bedrooms",
+    "2026-08-10-gold-shiny-metal-changed-world",
+    "2026-08-10-illegal-gold-mining-mercury-mexico",
+    "2026-08-05-whats-a-sim-card",
+    "2026-08-04-farming-under-solar-panels",
+    "2026-07-23-myers-briggs-personality-type",
+    "2026-07-22-ancient-greeks-personality",
+    "2026-07-21-guyana-oil-boom-money",
+    "2026-07-20-big-industries-of-the-world",
+    "2026-07-13-cubism-seeing-differently",
+    "2026-07-04-spain-wildfire-disaster",
+    "2026-07-01-saudi-pakistan-defense-deal",
+    "2026-07-01-meta-ai-smart-glasses",
+    "2026-06-22-evolution-of-locks",
+    "2026-06-22-japan-heatwave-elderly",
+    "2026-06-21-minimalism"
+  ],
+  "priorIndexLatest": "2026-10-12-mcdonalds-tasty-twists",
+  "priorIndexEntries": [
+    {
+      "slug": "2026-10-12-mcdonalds-tasty-twists",
+      "title": "McDonald’s: A World of Tasty Twists",
+      "ofsUnit": "Unit 2 — Communities, Culture & Globalization",
+      "textType": "Informational Global Culture Article / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-12"
+    },
+    {
+      "slug": "2026-09-28-icebergs-frozen-giants",
+      "title": "Icebergs: Frozen Giants with Stories to Tell",
+      "ofsUnit": "Unit 2 — Earth, Climate & Change",
+      "textType": "Informational Science Feature / Evidence-Based Science Explanation Paragraph",
+      "date": "2026-09-28"
+    },
+    {
+      "slug": "2026-09-28-a23a-iceberg-disappears",
+      "title": "World’s Biggest Iceberg Disappears After 40 Years",
+      "ofsUnit": "Unit 2 — Earth, Climate & Change",
+      "textType": "Informational News Report / Evidence-Based Environmental Explanation Paragraph",
+      "date": "2026-09-28"
+    },
+    {
+      "slug": "2026-09-21-sweden-forests-fika",
+      "title": "Sweden: Forests, Fika, and Fantastic Ideas",
+      "ofsUnit": "Unit 1 — Global Cultures, Identity & Daily Life",
+      "textType": "Cultural Profile / Informational Visual Text",
+      "date": "2026-09-21"
+    },
+    {
+      "slug": "2026-09-16-bamboo-scaffolding-hong-kong",
+      "title": "Bamboo Scaffolding: A Hong Kong Tradition at Risk",
+      "ofsUnit": "Unit 2 — Communities, Heritage & Change",
+      "textType": "Informational News Feature / Balanced Evidence-Based Recommendation Paragraph",
+      "date": "2026-09-16"
+    },
+    {
+      "slug": "2026-09-14-sunscreen-invisible-shield",
+      "title": "Sunscreen: Your Skin’s Invisible Shield",
+      "ofsUnit": "Unit 3 — Science, Health & Everyday Life",
+      "textType": "Informational Explanation / Compare-and-Explain Paragraph",
+      "date": "2026-09-14"
+    },
+    {
+      "slug": "2026-08-31-pocket-problem-women-need-more",
+      "title": "The Pocket Problem: Why Women Need More!",
+      "ofsUnit": "Unit 3 — Design, Everyday Life & Equality",
+      "textType": "Informational Feature / Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-31"
+    },
+    {
+      "slug": "2026-08-31-mars-leopard-spots-evidence",
+      "title": "Ancient Life on Mars? Reading the Evidence",
+      "ofsUnit": "Unit 3 — Science, Discovery & Evidence",
+      "textType": "Explanatory Science Report / Evidence-Based Evaluation Paragraph",
+      "date": "2026-08-31"
+    },
+    {
+      "slug": "2026-08-24-nurabot-nursing-robot",
+      "title": "Not Enough Nurses: Can Nurabot Help Solve a Worldwide Healthcare Puzzle?",
+      "ofsUnit": "Unit 3 — Innovation, Healthcare & Society",
+      "textType": "Problem–Solution Informational Report / Balanced Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-19-journey-of-your-last-name",
+      "title": "The Journey of Your Last Name",
+      "ofsUnit": "Unit 1 — Identity & Language",
+      "textType": "Informational Article / Compare-and-Explain Paragraph",
+      "date": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-10-teens-try-tech-free-bedrooms",
+      "title": "Teens Try Going Tech-Free in Their Bedrooms",
+      "ofsUnit": "Unit 4 — Campaigns & Digital Wellbeing",
+      "textType": "News Report / Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-10-gold-shiny-metal-changed-world",
+      "title": "Gold: The Shiny Metal That Changed the World",
+      "ofsUnit": "Unit 3 — Innovation, Economy & Society",
+      "textType": "Informational Explanation / Historical Process Paragraph",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-10-illegal-gold-mining-mercury-mexico",
+      "title": "Illegal Gold Mining Fuels Mercury Crisis in Mexico",
+      "ofsUnit": "Unit 4 — Global Perspectives, Environment & Human Health",
+      "textType": "Cause-and-Effect / Problem–Solution News Report",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-05-whats-a-sim-card",
+      "title": "What’s a SIM Card?",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Informational Explanation / Process Explanation Paragraph",
+      "date": "2026-08-05"
+    },
+    {
+      "slug": "2026-08-04-farming-under-solar-panels",
+      "title": "Farming Under Solar Panels: A Bright Idea?",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Problem–Solution / Cause-and-Effect Report Paragraph",
+      "date": "2026-08-04"
+    },
+    {
+      "slug": "2026-07-23-myers-briggs-personality-type",
+      "title": "Myers-Briggs: What’s Your Personality Type?",
+      "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "2026-07-22-ancient-greeks-personality",
+      "title": "How Ancient Greeks Explained Personality",
+      "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-22"
+    },
+    {
+      "slug": "2026-07-21-guyana-oil-boom-money",
+      "title": "Guyana’s Oil Boom: Where Did the Money Go?",
+      "ofsUnit": "Unit 4 — Global Perspectives, Resources & Inequality",
+      "textType": "Problem–Solution / Discussion Paragraph",
+      "date": "2026-07-21"
+    },
+    {
+      "slug": "2026-07-20-big-industries-of-the-world",
+      "title": "Big Industries of the World",
+      "ofsUnit": "Unit 5 — Work, Economy & Global Industries",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "2026-07-13-cubism-seeing-differently",
+      "title": "Cubism: The Art of Seeing Things Differently",
+      "ofsUnit": "Unit 2 — Arts, Culture & Creative Perspectives",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-13"
+    },
+    {
+      "slug": "2026-07-04-spain-wildfire-disaster",
+      "title": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "News Report / Impact Paragraph",
+      "date": "2026-07-04"
+    },
+    {
+      "slug": "2026-07-01-saudi-pakistan-defense-deal",
+      "title": "Saudi Arabia and Pakistan: A New Deal and Big Questions",
+      "ofsUnit": "Unit 4 — Global Perspectives & International Relations",
+      "textType": "News Explainer / Explanatory Paragraph",
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "2026-07-01-meta-ai-smart-glasses",
+      "title": "Meta’s Exciting New AI-Powered Smart Glasses",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Technology News / Opinion Paragraph",
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "2026-06-22-evolution-of-locks",
+      "title": "The Evolution of Locks: From Wooden Keys to Face Scans",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Chronological Explanation Paragraph",
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "2026-06-22-japan-heatwave-elderly",
+      "title": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Problem-Solution Report Paragraph",
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "2026-06-21-minimalism",
+      "title": "Living with Less: The Minimalist Movement",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Opinion Paragraph",
+      "date": "2026-06-21"
+    }
+  ],
+  "sourceInventory": {
+    "title": "How Many People Share Your Name?",
+    "imageBoundaries": 2,
+    "image1": {
+      "title": "How Many People Share Your Name?",
+      "intro": "Have you ever met someone with the same name as you? Maybe even the same first AND last name? You’re not alone. Around the world, millions of people share names! Let’s dive in!",
+      "headings": [
+        "Do People Really Share the Same Name?"
+      ],
+      "prose": [
+        "Yes, and it happens a lot!",
+        "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world. In China alone, over 100 million people share the last name Wang!",
+        "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do."
+      ],
+      "screenshotLabels": [
+        "Famous Names | Statistics | Random Famous Person",
+        "First Name:",
+        "Last Name:",
+        "Search Names",
+        "John",
+        "Smith",
+        "There are 5,433,882 people in the U.S. with the first name John.",
+        "Statistically the 2nd most popular first name.",
+        "99.63 percent of people with the first name John are male.",
+        "Names similar to John:",
+        "Hans",
+        "Ian",
+        "Ivan",
+        "There are 2,915,899 people in the U.S. with the last name Smith.",
+        "Statistically the 1st most popular last name.",
+        "Famous people with the last name Smith:",
+        "Adam Smith",
+        "Fun Fact! There are many websites trying to guess how many same names exist!"
+      ]
+    },
+    "image2": {
+      "title": "What’s the Chance Someone Has the Same Full Name as You?",
+      "headings": [
+        "In the Western Hemisphere (U.S., Canada, UK):",
+        "Researchers say:",
+        "In Asia (like China):",
+        "Let’s try the math:"
+      ],
+      "bullets": [
+        "- Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+        "- Top 100 surnames (like Smith, Johnson, Brown, Garcia...)",
+        "- If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+        "- If your name is less common, you might share it with none or just a few.",
+        "- China has 1.4 billion people",
+        "- Over 85% of people share one of the top 100 surnames",
+        "- Only a few thousand common first names are in regular use"
+      ],
+      "formulas": [
+        "That gives us 100 × 100 = 10,000 common full-name combinations.",
+        "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)",
+        "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+        "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name"
+      ],
+      "prose": [
+        "Let’s take two real U.S. name lists:",
+        "Things are very different here!",
+        "And that’s just an average. Some names, like Wang Wei, are shared by hundreds of thousands of people!"
+      ],
+      "visualCaption": "The Most Popular Baby Names for Girls & Boys!"
+    },
+    "sourceNote": "Original text and visual labels transcribed from two teacher-provided classroom images. No publication date, article URL or publication credit is shown in the images.",
+    "sentenceUnitsCount": 25,
+    "sentenceUnits": [
+      "Have you ever met someone with the same name as you?",
+      "Maybe even the same first AND last name?",
+      "You’re not alone.",
+      "Around the world, millions of people share names!",
+      "Let’s dive in!",
+      "Yes, and it happens a lot!",
+      "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world.",
+      "In China alone, over 100 million people share the last name Wang!",
+      "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do.",
+      "Let’s take two real U.S. name lists:",
+      "Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+      "Top 100 surnames (like Smith, Johnson, Brown, Garcia...)",
+      "That gives us 100 × 100 = 10,000 common full-name combinations.",
+      "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)",
+      "If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+      "If your name is less common, you might share it with none or just a few.",
+      "Things are very different here!",
+      "China has 1.4 billion people",
+      "Over 85% of people share one of the top 100 surnames",
+      "Only a few thousand common first names are in regular use",
+      "Let’s try the math:",
+      "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+      "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name",
+      "And that’s just an average.",
+      "Some names, like Wang Wei, are shared by hundreds of thousands of people!"
+    ],
+    "totalWords": 335,
+    "sha256": "bbf06a05033103c63fec1a57cf95b1b011af4d0ca83fb162a12f31ff1f6d545c"
+  },
+  "preExistingLessonHashes": {
+    "2026-10-12-mcdonalds-tasty-twists": "690346295cb534bb8198b7ed93f3e3a09824a895628bc2a9b94dc75f6b950cb7",
+    "2026-09-28-icebergs-frozen-giants": "c1938897e24b9fb5576c040cff15332ef82266584cb35d6a52e09d14adba41cb",
+    "2026-09-28-a23a-iceberg-disappears": "a7dd38e3b743ca5e3be6b2b941004ee6dfc2ac7ed43dafda999fcd26e709cda5",
+    "2026-09-21-sweden-forests-fika": "3939cfc34d492ba4579c72c9850609e3f968791c21089f61d025f1a287237f36",
+    "2026-09-16-bamboo-scaffolding-hong-kong": "a85eca0bccd386c957de5cb743eb0351392c16fd51aae3cb1b6a8c12c5ddacd4",
+    "2026-09-14-sunscreen-invisible-shield": "8caac2c211a49aea1a8f98271b2897f2f78eb888ad42fb40a3fc0c6fd3b3a749",
+    "2026-08-31-pocket-problem-women-need-more": "f36e574c35d33f47ed9a92bb0c7ca74300e11064466a6ad0818245ea50895531",
+    "2026-08-31-mars-leopard-spots-evidence": "9bb9b1df72926d9fff5b3e3624bfcf0daa0b37edeab27ccf9468b51a282ce1f1",
+    "2026-08-24-nurabot-nursing-robot": "71f99a1ea7f4032ba573d37b34ab8f86c0e7aff5ceb326033807e3f0f17e1896",
+    "2026-08-19-journey-of-your-last-name": "237382d555a427602152f38f49264b5fb8d689b6bb3ca5d3e19034190b7837e7",
+    "2026-08-10-teens-try-tech-free-bedrooms": "c8c6ab907833478b44f11fd03634709bf1dcbe8704a2564f86b322191a3df8ce",
+    "2026-08-10-gold-shiny-metal-changed-world": "e1dc270ca69ea0f48f489f856874aef4967f84495cd25313c0a8e77f27e92887",
+    "2026-08-10-illegal-gold-mining-mercury-mexico": "e3725e371a676baeb09b23f769f59c522267edbb1ef2b60b2e902d9ac247d35d",
+    "2026-08-05-whats-a-sim-card": "2c30ddef67cc6adc05afe847d4226e83030a247e09e8e511c4a63da628d28d76",
+    "2026-08-04-farming-under-solar-panels": "fe5f9a3dfa971a3ef16f532b66cebf1ce24aae54bc74c8bd891822b9da8784fc",
+    "2026-07-23-myers-briggs-personality-type": "c08c7dc7d10f8767fc86e88f575e65dca28d7ba6de78c3e5b44e598f89c0bfa2",
+    "2026-07-22-ancient-greeks-personality": "2cde07f18d23e7e48aa7379654fe2e6318e018c8970fa5a69d8cac2fadf8482c",
+    "2026-07-21-guyana-oil-boom-money": "0373363bf1fc2d427284d5ce67b6f6563119181c0286234d7977bd18e5d00751",
+    "2026-07-20-big-industries-of-the-world": "d8e1f84518f3d1eaa21d8d3ec28283b1e6705c25560d7c7c65563b3bd0cdfcbf",
+    "2026-07-13-cubism-seeing-differently": "7d0945435b603acde4b78ac608fe520e9198445aaf293ce95ff4f24a01a3cfa2",
+    "2026-07-04-spain-wildfire-disaster": "a33e11c1a91a7cab123762d80ca4ae8b562c0aef3ccd371ba4d875dc7ac4e608",
+    "2026-07-01-saudi-pakistan-defense-deal": "7ee4f1fda1e459f403980426b5bfac3fdcab0e4c749dfdaa2f4ea7d3db1c23ea",
+    "2026-07-01-meta-ai-smart-glasses": "a7212685cef2e948a5d7c644b3529a0fe7a1144c48502b9bc766c73d7689cb6e",
+    "2026-06-22-evolution-of-locks": "97b5ea76b9022a916d5b3ecff5a07ee359269bdb3390b31f18bedc446a06f411",
+    "2026-06-22-japan-heatwave-elderly": "d37923d1c647e7b04f07f6e925513c6245c0bf9adb25ee1feb3e940c9cfecb43",
+    "2026-06-21-minimalism": "d44233654a79c6f3ef79b64bc16ab2906e332a2e36b1e3fde0eb2560f7903b26"
+  }
+}

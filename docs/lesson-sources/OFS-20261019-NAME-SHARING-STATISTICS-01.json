@@ -1,0 +1,110 @@
+{
+  "taskId": "OFS-20261019-NAME-SHARING-STATISTICS-01",
+  "slug": "2026-10-19-name-sharing-statistics",
+  "title": "How Many People Share Your Name?",
+  "sourceNote": "Original text and visual labels transcribed from two teacher-provided classroom images. No publication date, article URL or publication credit is shown in the images.",
+  "image1": {
+    "title": "How Many People Share Your Name?",
+    "intro": "Have you ever met someone with the same name as you? Maybe even the same first AND last name? You’re not alone. Around the world, millions of people share names! Let’s dive in!",
+    "heading": "Do People Really Share the Same Name?",
+    "prose": [
+      "Yes, and it happens a lot!",
+      "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world. In China alone, over 100 million people share the last name Wang!",
+      "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do."
+    ],
+    "screenshotLabels": [
+      "Famous Names | Statistics | Random Famous Person",
+      "First Name:",
+      "Last Name:",
+      "Search Names",
+      "John",
+      "Smith",
+      "There are 5,433,882 people in the U.S. with the first name John.",
+      "Statistically the 2nd most popular first name.",
+      "99.63 percent of people with the first name John are male.",
+      "Names similar to John:",
+      "Hans",
+      "Ian",
+      "Ivan",
+      "There are 2,915,899 people in the U.S. with the last name Smith.",
+      "Statistically the 1st most popular last name.",
+      "Famous people with the last name Smith:",
+      "Adam Smith",
+      "Fun Fact! There are many websites trying to guess how many same names exist!"
+    ]
+  },
+  "image2": {
+    "title": "What’s the Chance Someone Has the Same Full Name as You?",
+    "section1": {
+      "heading": "In the Western Hemisphere (U.S., Canada, UK):",
+      "intro": "Let’s take two real U.S. name lists:",
+      "bullets": [
+        "- Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+        "- Top 100 surnames (like Smith, Johnson, Brown, Garcia...)"
+      ],
+      "formulas": [
+        "That gives us 100 × 100 = 10,000 common full-name combinations.",
+        "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)"
+      ]
+    },
+    "researchers": {
+      "heading": "Researchers say:",
+      "bullets": [
+        "- If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+        "- If your name is less common, you might share it with none or just a few."
+      ]
+    },
+    "section2": {
+      "heading": "In Asia (like China):",
+      "intro": "Things are very different here!",
+      "bullets": [
+        "- China has 1.4 billion people",
+        "- Over 85% of people share one of the top 100 surnames",
+        "- Only a few thousand common first names are in regular use"
+      ],
+      "mathHeading": "Let’s try the math:",
+      "mathLine1": "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+      "mathLine2": "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name",
+      "finalLine": "And that’s just an average. Some names, like Wang Wei, are shared by hundreds of thousands of people!"
+    },
+    "visualCaption": "The Most Popular Baby Names for Girls & Boys!"
+  },
+  "sentenceUnits": [
+    "Have you ever met someone with the same name as you?",
+    "Maybe even the same first AND last name?",
+    "You’re not alone.",
+    "Around the world, millions of people share names!",
+    "Let’s dive in!",
+    "Yes, and it happens a lot!",
+    "There are over 150 million Muhammads, more than 30 million Johns, and millions of girls named Maria around the world.",
+    "In China alone, over 100 million people share the last name Wang!",
+    "With only so many names to go around and 8 billion people on Earth, chances are high that someone else out there has your exact name...or even thousands of them do.",
+    "Let’s take two real U.S. name lists:",
+    "Top 100 first names (like Emma, Liam, Olivia, Noah...)",
+    "Top 100 surnames (like Smith, Johnson, Brown, Garcia...)",
+    "That gives us 100 × 100 = 10,000 common full-name combinations.",
+    "But the U.S. has 330 million people, so: 330,000,000 ÷ 10,000 = 33,000 people per common name combo (on average!)",
+    "If your name is very common, like “John Smith,” you might share it with thousands of people (real data says over 40,000 John Smiths in the U.S. alone!).",
+    "If your name is less common, you might share it with none or just a few.",
+    "Things are very different here!",
+    "China has 1.4 billion people",
+    "Over 85% of people share one of the top 100 surnames",
+    "Only a few thousand common first names are in regular use",
+    "Let’s try the math:",
+    "100 common surnames × 3,000 common first names = 300,000 full-name combos. Now divide China’s population by that:",
+    "1,400,000,000 ÷ 300,000 ≈ 4,667 people per full name",
+    "And that’s just an average.",
+    "Some names, like Wang Wei, are shared by hundreds of thousands of people!"
+  ],
+  "expectedStats": {
+    "titleCount": 2,
+    "headingCount": 5,
+    "bulletCount": 7,
+    "formulaCount": 4,
+    "visualLabelCount": 18,
+    "visualCaptionCount": 1,
+    "sentenceUnitsCount": 25,
+    "totalWords": 335,
+    "sha256": "bbf06a05033103c63fec1a57cf95b1b011af4d0ca83fb162a12f31ff1f6d545c"
+  }
+}
