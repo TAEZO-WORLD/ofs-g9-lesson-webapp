@@ -141,6 +141,7 @@
     "instructions": "Answer the following questions based strictly on the facts and evidence stated in the article.",
     "questions": [
       {
+        "id": "rc-1",
         "questionNumber": 1,
         "question": "Who made headlines in the article?",
         "options": [
@@ -158,6 +159,7 @@
         "explanation": "Paragraph 1 clearly introduces Sam Shoemaker as both an artist and a scientist who gained public attention for paddling a mushroom-grown kayak across the ocean."
       },
       {
+        "id": "rc-2",
         "questionNumber": 2,
         "question": "Where did he launch the kayak, and where was he aiming to go?",
         "options": [
@@ -175,6 +177,7 @@
         "explanation": "Paragraph 2 describes his starting point near Catalina Island and his planned arrival point at San Pedro, California."
       },
       {
+        "id": "rc-3",
         "questionNumber": 3,
         "question": "How far was he aiming to cover?",
         "options": [
@@ -192,6 +195,7 @@
         "explanation": "The article specifies the planned paddling distance as 'about 26.4 miles'. The other numbers in the article correspond to elapsed time (12 hours), the kid in his quotation (19-year-old), and the whale length (50-foot)."
       },
       {
+        "id": "rc-4",
         "questionNumber": 4,
         "question": "What challenges and unexpected event are described after 12 hours?",
         "options": [
@@ -209,6 +213,7 @@
         "explanation": "The text highlights two key occurrences after 12 hours: the physical challenge of battling seasickness, and the uplifting arrival of a friendly 50-foot fin whale that helped inspire him to continue."
       },
       {
+        "id": "rc-5",
         "questionNumber": 5,
         "question": "What is mycelium described as in the article?",
         "options": [
@@ -226,6 +231,7 @@
         "explanation": "Paragraph 3 explains the kayak's material with direct clarification: 'mycelium (the roots of mushrooms)'. It is not a synthetic chemical or algae."
       },
       {
+        "id": "rc-6",
         "questionNumber": 6,
         "question": "Why does Shoemaker believe the journey could be important?",
         "options": [
@@ -247,23 +253,58 @@
   "evidenceFromText": {
     "title": "Evidence from the Text",
     "instructions": "Write structured, evidence-based answers to the questions below using direct facts and references from the article. Click 'Check & Compare' after typing to evaluate your response against the model answer.",
-    "items": [
+    "prompts": [
       {
+        "id": "ev-1",
         "questionNumber": 1,
+        "statement": "What details show that Shoemaker’s kayak and journey were unusual?",
         "question": "What details show that Shoemaker’s kayak and journey were unusual?",
         "prompt": "Identify specific facts from the text about the kayak's material, appearance, construction timeline, and journey route.",
         "compareTips": "Check if your answer mentions: (1) made entirely from mushrooms / mycelium, (2) unique brown kayak, (3) took a full year to build, and (4) paddling 26.4 miles across the ocean from Catalina Island to San Pedro.",
         "modelAnswer": "The article describes the kayak as unique and brown, made entirely from mushrooms rather than standard plastic or fiberglass. It was grown from mycelium, which the text defines as the roots of mushrooms, and took a full year to build. Furthermore, paddling 26.4 miles across the open ocean from Catalina Island to San Pedro in a heavier experimental craft represents an extraordinary and unconventional expedition."
       },
       {
+        "id": "ev-2",
         "questionNumber": 2,
+        "statement": "What challenges did Shoemaker face, and what helped him keep going?",
         "question": "What challenges did Shoemaker face, and what helped him keep going?",
         "prompt": "Describe both the physical and material difficulties mentioned in the text, as well as the positive encounter that encouraged him.",
         "compareTips": "Check if your answer includes: (1) the kayak being heavier than regular ones, (2) taking a year to construct, (3) battling seasickness during a 12-hour crossing, and (4) being followed by a friendly 50-foot fin whale that inspired him to keep going.",
         "modelAnswer": "Shoemaker faced serious physical and technical challenges during his crossing. The kayak was noticeably heavier than regular ones, it required a whole year of construction, and he battled seasickness during a grueling 12-hour voyage. When he was tired and struggling, an encounter with a friendly 50-foot fin whale swimming alongside him provided excitement and inspired him to keep paddling forward."
       },
       {
+        "id": "ev-3",
         "questionNumber": 3,
+        "statement": "How does the article connect the kayak to eco-friendly alternatives and sustainable material?",
+        "question": "How does the article connect the kayak to eco-friendly alternatives and sustainable material?",
+        "prompt": "Explain Shoemaker's broader environmental purpose in building and paddling the mycelium kayak.",
+        "compareTips": "Check if your answer explains: (1) the effort to discover eco-friendly alternatives to plastic, (2) mycelium as a renewable mushroom root material, (3) sparking public interest in sustainable materials, and (4) inspiring other young innovators.",
+        "modelAnswer": "The article explains that the mycelium kayak is part of Shoemaker’s deliberate effort to discover eco-friendly alternatives to petroleum-based plastic. Although the craft was heavier and required significant construction time, Shoemaker believes the ocean crossing could spark widespread interest in utilizing mushrooms as a viable, sustainable material for everyday products."
+      }
+    ],
+    "items": [
+      {
+        "id": "ev-1",
+        "questionNumber": 1,
+        "statement": "What details show that Shoemaker’s kayak and journey were unusual?",
+        "question": "What details show that Shoemaker’s kayak and journey were unusual?",
+        "prompt": "Identify specific facts from the text about the kayak's material, appearance, construction timeline, and journey route.",
+        "compareTips": "Check if your answer mentions: (1) made entirely from mushrooms / mycelium, (2) unique brown kayak, (3) took a full year to build, and (4) paddling 26.4 miles across the ocean from Catalina Island to San Pedro.",
+        "modelAnswer": "The article describes the kayak as unique and brown, made entirely from mushrooms rather than standard plastic or fiberglass. It was grown from mycelium, which the text defines as the roots of mushrooms, and took a full year to build. Furthermore, paddling 26.4 miles across the open ocean from Catalina Island to San Pedro in a heavier experimental craft represents an extraordinary and unconventional expedition."
+      },
+      {
+        "id": "ev-2",
+        "questionNumber": 2,
+        "statement": "What challenges did Shoemaker face, and what helped him keep going?",
+        "question": "What challenges did Shoemaker face, and what helped him keep going?",
+        "prompt": "Describe both the physical and material difficulties mentioned in the text, as well as the positive encounter that encouraged him.",
+        "compareTips": "Check if your answer includes: (1) the kayak being heavier than regular ones, (2) taking a year to construct, (3) battling seasickness during a 12-hour crossing, and (4) being followed by a friendly 50-foot fin whale that inspired him to keep going.",
+        "modelAnswer": "Shoemaker faced serious physical and technical challenges during his crossing. The kayak was noticeably heavier than regular ones, it required a whole year of construction, and he battled seasickness during a grueling 12-hour voyage. When he was tired and struggling, an encounter with a friendly 50-foot fin whale swimming alongside him provided excitement and inspired him to keep paddling forward."
+      },
+      {
+        "id": "ev-3",
+        "questionNumber": 3,
+        "statement": "How does the article connect the kayak to eco-friendly alternatives and sustainable material?",
         "question": "How does the article connect the kayak to eco-friendly alternatives and sustainable material?",
         "prompt": "Explain Shoemaker's broader environmental purpose in building and paddling the mycelium kayak.",
         "compareTips": "Check if your answer explains: (1) the effort to discover eco-friendly alternatives to plastic, (2) mycelium as a renewable mushroom root material, (3) sparking public interest in sustainable materials, and (4) inspiring other young innovators.",
@@ -371,30 +412,84 @@
   "writingPractice": {
     "title": "Writing Practice",
     "instructions": "Practice constructing sentences that synthesize evidence from the text using targeted grammatical structures.",
-    "items": [
+    "prompts": [
       {
+        "id": "wp-1",
         "taskNumber": 1,
+        "statement": "Write one process sentence explaining what the kayak was made from.",
+        "question": "Write one process sentence explaining what the kayak was made from.",
         "instruction": "Write one process sentence explaining what the kayak was made from.",
         "scaffold": "Start with 'The experimental kayak...' and include the specific biological term and its parenthetical explanation.",
         "compareTips": "Check if your sentence includes: (1) made from or created from, (2) mycelium, and (3) roots of mushrooms.",
         "modelAnswer": "The experimental kayak was created entirely from mycelium, which refers to the root network of mushrooms."
       },
       {
+        "id": "wp-2",
         "taskNumber": 2,
+        "statement": "Combine the distance and destination details using to or in order to.",
+        "question": "Combine the distance and destination details using to or in order to.",
         "instruction": "Combine the distance and destination details using to or in order to.",
         "scaffold": "Mention the starting point (near Catalina Island), the action (paddled / launched), and the destination with distance.",
         "compareTips": "Check if your sentence connects: (1) launched near Catalina Island, (2) covered about 26.4 miles, and (3) reached San Pedro, California.",
         "modelAnswer": "Shoemaker launched his kayak near Catalina Island in order to cover approximately 26.4 miles to reach San Pedro."
       },
       {
+        "id": "wp-3",
         "taskNumber": 3,
+        "statement": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
+        "question": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
         "instruction": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
         "scaffold": "Use a concession word like 'Although' or a time connector like 'After 12 hours...'",
         "compareTips": "Check if your sentence balances: (1) seasickness or heavier boat weight with (2) the friendly 50-foot fin whale that inspired him.",
         "modelAnswer": "Although he battled seasickness during the twelve-hour crossing, the sight of a friendly fifty-foot fin whale helped inspire him to keep going."
       },
       {
+        "id": "wp-4",
         "taskNumber": 4,
+        "statement": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
+        "question": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
+        "instruction": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
+        "scaffold": "Use cautious reporting verbs such as 'believes,' 'hopes,' or modal 'could spark.'",
+        "compareTips": "Check if your sentence uses: (1) cautious language (believes / could spark), (2) mushrooms as sustainable materials, and (3) eco-friendly alternatives to plastic.",
+        "modelAnswer": "Shoemaker believes that completing this ocean journey could spark greater public interest in exploring mushrooms as a sustainable material."
+      }
+    ],
+    "items": [
+      {
+        "id": "wp-1",
+        "taskNumber": 1,
+        "statement": "Write one process sentence explaining what the kayak was made from.",
+        "question": "Write one process sentence explaining what the kayak was made from.",
+        "instruction": "Write one process sentence explaining what the kayak was made from.",
+        "scaffold": "Start with 'The experimental kayak...' and include the specific biological term and its parenthetical explanation.",
+        "compareTips": "Check if your sentence includes: (1) made from or created from, (2) mycelium, and (3) roots of mushrooms.",
+        "modelAnswer": "The experimental kayak was created entirely from mycelium, which refers to the root network of mushrooms."
+      },
+      {
+        "id": "wp-2",
+        "taskNumber": 2,
+        "statement": "Combine the distance and destination details using to or in order to.",
+        "question": "Combine the distance and destination details using to or in order to.",
+        "instruction": "Combine the distance and destination details using to or in order to.",
+        "scaffold": "Mention the starting point (near Catalina Island), the action (paddled / launched), and the destination with distance.",
+        "compareTips": "Check if your sentence connects: (1) launched near Catalina Island, (2) covered about 26.4 miles, and (3) reached San Pedro, California.",
+        "modelAnswer": "Shoemaker launched his kayak near Catalina Island in order to cover approximately 26.4 miles to reach San Pedro."
+      },
+      {
+        "id": "wp-3",
+        "taskNumber": 3,
+        "statement": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
+        "question": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
+        "instruction": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
+        "scaffold": "Use a concession word like 'Although' or a time connector like 'After 12 hours...'",
+        "compareTips": "Check if your sentence balances: (1) seasickness or heavier boat weight with (2) the friendly 50-foot fin whale that inspired him.",
+        "modelAnswer": "Although he battled seasickness during the twelve-hour crossing, the sight of a friendly fifty-foot fin whale helped inspire him to keep going."
+      },
+      {
+        "id": "wp-4",
+        "taskNumber": 4,
+        "statement": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
+        "question": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
         "instruction": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
         "scaffold": "Use cautious reporting verbs such as 'believes,' 'hopes,' or modal 'could spark.'",
         "compareTips": "Check if your sentence uses: (1) cautious language (believes / could spark), (2) mushrooms as sustainable materials, and (3) eco-friendly alternatives to plastic.",
@@ -462,139 +557,118 @@
   "teacher": {
     "modelAnswer": "Sam Shoemaker’s ambitious ocean voyage demonstrates how creative innovation and personal perseverance can spotlight sustainable materials. An artist and scientist, Shoemaker spent an entire year crafting a unique brown kayak from mycelium, the root structure of mushrooms, to discover eco-friendly alternatives to plastic. Launching near Catalina Island, he aimed to paddle about 26.4 miles across the open ocean to reach San Pedro, California. The crossing presented major challenges: his experimental craft was heavier than regular ones, and he endured twelve long hours while battling seasickness. However, a friendly fifty-foot fin whale accompanied him, inspiring him to keep going. As the article notes, Shoemaker believes this feat could spark interest in mushroom materials, encouraging other young innovators to test sustainable possibilities.",
     "answerKey": {
-      "mainIdea": 0,
-      "readingComprehension": [
-        0,
-        1,
-        2,
-        2,
-        1,
-        0
-      ],
-      "evidenceFromText": [
-        "The article describes the kayak as unique and brown, made entirely from mushrooms rather than standard plastic or fiberglass. It was grown from mycelium, which the text defines as the roots of mushrooms, and took a full year to build. Furthermore, paddling 26.4 miles across the open ocean from Catalina Island to San Pedro in a heavier experimental craft represents an extraordinary and unconventional expedition.",
-        "Shoemaker faced serious physical and technical challenges during his crossing. The kayak was noticeably heavier than regular ones, it required a whole year of construction, and he battled seasickness during a grueling 12-hour voyage. When he was tired and struggling, an encounter with a friendly 50-foot fin whale swimming alongside him provided excitement and inspired him to keep paddling forward.",
-        "The article explains that the mycelium kayak is part of Shoemaker’s deliberate effort to discover eco-friendly alternatives to petroleum-based plastic. Although the craft was heavier and required significant construction time, Shoemaker believes the ocean crossing could spark widespread interest in utilizing mushrooms as a viable, sustainable material for everyday products."
-      ],
-      "writingPractice": [
-        "The experimental kayak was created entirely from mycelium, which refers to the root network of mushrooms.",
-        "Shoemaker launched his kayak near Catalina Island in order to cover approximately 26.4 miles to reach San Pedro.",
-        "Although he battled seasickness during the twelve-hour crossing, the sight of a friendly fifty-foot fin whale helped inspire him to keep going.",
-        "Shoemaker believes that completing this ocean journey could spark greater public interest in exploring mushrooms as a sustainable material."
-      ],
+      "mainIdea": "Option A (Sam Shoemaker used an unusual mushroom-based kayak to attempt a difficult journey and draw attention to possible sustainable alternatives to plastic.)",
+      "readingComprehension": {
+        "rc-1": "Option A (Sam Shoemaker, an artist and scientist)",
+        "rc-2": "Option B (He launched near Catalina Island, aiming to reach San Pedro, California)",
+        "rc-3": "Option C (About 26.4 miles)",
+        "rc-4": "Option C (He battled seasickness and was followed by a friendly 50-foot fin whale)",
+        "rc-5": "Option B (The roots of mushrooms)",
+        "rc-6": "Option A (It could spark more interest in using mushrooms as a sustainable material and encourage others)"
+      },
+      "evidenceFromText": {
+        "ev-1": "The kayak was unique, brown, and grown entirely from mycelium (the roots of mushrooms), taking a full year to build; paddled 26.4 miles from Catalina Island to San Pedro across open ocean.",
+        "ev-2": "Faced physical seasickness across a 12-hour voyage and navigated a heavier-than-normal craft; cheered and inspired to keep going by a friendly 50-foot fin whale.",
+        "ev-3": "Crafted as part of an effort to discover eco-friendly alternatives to plastic; intended to spark broader public interest in using mushrooms as a viable sustainable material."
+      },
+      "languageFocus": {
+        "lf-1": "Participial phrases denoting composition and origin ('created from mycelium', 'made entirely from mushrooms')",
+        "lf-2": "Purpose clauses ('aiming to cover about 26.4 miles to reach San Pedro')",
+        "lf-3": "Concessive clauses acknowledging drawbacks ('Although it took a year... and it’s heavier...')",
+        "lf-4": "Cautious modal prediction ('could spark more interest in using mushrooms as a sustainable material')"
+      },
+      "writingPractice": {
+        "wp-1": "Defines biological material composition using mycelium and mushroom roots.",
+        "wp-2": "Combines Catalina Island launch and San Pedro destination with purpose connector (to / in order to).",
+        "wp-3": "Balances physical hardship (seasickness / weight) with the fin whale encounter using concession or time clauses.",
+        "wp-4": "Articulates tentative environmental promise using cautious reporting language ('believes', 'could spark')."
+      },
       "finalWritingTask": "Sam Shoemaker’s ambitious ocean voyage demonstrates how creative innovation and personal perseverance can spotlight sustainable materials. An artist and scientist, Shoemaker spent an entire year crafting a unique brown kayak from mycelium, the root structure of mushrooms, to discover eco-friendly alternatives to plastic. Launching near Catalina Island, he aimed to paddle about 26.4 miles across the open ocean to reach San Pedro, California. The crossing presented major challenges: his experimental craft was heavier than regular ones, and he endured twelve long hours while battling seasickness. However, a friendly fifty-foot fin whale accompanied him, inspiring him to keep going. As the article notes, Shoemaker believes this feat could spark interest in mushroom materials, encouraging other young innovators to test sustainable possibilities."
     },
-    "rubric": {
-      "title": "Five-Category Analytical Rubric for Evidence-Based Explanatory Writing",
-      "categories": [
-        {
-          "name": "Content & Ideas",
-          "weight": "20%",
-          "levels": {
-            "exemplary": "Develops a compelling, precise controlling idea; seamlessly integrates innovation, perseverance, and sustainable materials using authentic source details.",
-            "proficient": "Presents a clear controlling idea; discusses innovation, challenges, and environmental purpose with solid reference to the article.",
-            "developing": "Mentions the kayak and journey, but controlling idea is broad, vague, or partially unsupported by textual context.",
-            "beginning": "Lacks a clear central idea; relies on disconnected statements or irrelevant generalizations."
-          }
-        },
-        {
-          "name": "Evidence Use",
-          "weight": "25%",
-          "levels": {
-            "exemplary": "Integrates at least three exact source facts (e.g., mycelium/mushroom roots, 26.4 miles, 12 hours, Catalina to San Pedro) accurately without distortion or invented facts.",
-            "proficient": "Includes three accurate details from the text; references the material, journey, and challenge clearly.",
-            "developing": "Includes only one or two source details, or misinterprets numbers/geographical locations.",
-            "beginning": "Provides little to no textual evidence; substitutes personal assumptions or outside facts."
-          }
-        },
-        {
-          "name": "Target Language & Structure",
-          "weight": "20%",
-          "levels": {
-            "exemplary": "Skilfully uses target structures: participial phrases, purpose clauses, contrast with 'although', and cautious reporting language ('believes', 'could spark').",
-            "proficient": "Correctly employs several target structures including cause/effect, concession, and cautious phrasing.",
-            "developing": "Attempts target language patterns with noticeable awkwardness or over-reliance on basic sentence forms.",
-            "beginning": "Demonstrates minimal command of target grammatical patterns; frequent structural fragmentation."
-          }
-        },
-        {
-          "name": "Organization & Flow",
-          "weight": "15%",
-          "levels": {
-            "exemplary": "Demonstrates seamless paragraph cohesion with smooth transitions linking process, challenge, encouragement, and broader environmental significance.",
-            "proficient": "Follows a logical progression from introduction to body evidence and a concluding thought; uses adequate transitions.",
-            "developing": "Shows loose organization; jumps between journey details and environmental claims without smooth links.",
-            "beginning": "Disorganized; thoughts are scattered with no discernible progression or concluding thought."
-          }
-        },
-        {
-          "name": "Accuracy & Mechanics",
-          "weight": "20%",
-          "levels": {
-            "exemplary": "Strictly adheres to 100–140 words; demonstrates high grammatical precision, correct punctuation, and accurate spelling of proper nouns and technical terms.",
-            "proficient": "Within the 100–140 word range; minor errors in mechanics do not impede overall clarity or meaning.",
-            "developing": "Slightly outside word limits (e.g., 85–99 or 141–155 words); frequent minor grammatical errors require teacher re-reading.",
-            "beginning": "Substantially outside length requirements; pervasive mechanical errors obscure meaning."
-          }
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "criterion": "Content & Ideas",
+        "excellent": "Develops a compelling, precise controlling idea; seamlessly integrates innovation, perseverance, and sustainable materials using authentic source details.",
+        "proficient": "Presents a clear controlling idea; discusses innovation, challenges, and environmental purpose with solid reference to the article.",
+        "developing": "Mentions the kayak and journey, but controlling idea is broad, vague, or partially unsupported by textual context.",
+        "beginning": "Lacks a clear central idea; relies on disconnected statements or irrelevant generalizations.",
+        "descriptors": {
+          "1": "Minimal or inaccurate explanation lacking clear controlling idea.",
+          "2": "Basic explanation with limited detail or only one source detail.",
+          "3": "Clear explanation of innovation and sustainability with at least three accurate source details.",
+          "4": "Exceptional integration of innovation, challenge, and environmental purpose with accurate source synthesis."
         }
-      ]
-    },
-    "teacherNotes": [
-      {
-        "number": 1,
-        "title": "Article Structure and Informational Focus",
-        "content": "The text is an engaging human-interest news feature from CNN that bridges extreme sport and environmental science. It is structured into four crisp paragraphs: Paragraph 1 delivers the narrative hook and core achievement; Paragraph 2 details the physical journey, route, elapsed time, and whale encounter; Paragraph 3 explains the scientific material (mycelium) and environmental purpose; and Paragraph 4 concludes with an inspiring human quotation."
       },
       {
-        "number": 2,
-        "title": "Human-Interest Opening and Public Attention",
-        "content": "The opening sentence uses the idiom 'made headlines' to establish that Sam Shoemaker’s feat captured widespread public notice. Teachers should emphasize that Shoemaker is identified dualistically as 'an artist and scientist,' reflecting how design creativity and biological research converged in this project."
+        "category": "Evidence Use",
+        "criterion": "Evidence Use",
+        "excellent": "Integrates at least three exact source facts (e.g., mycelium/mushroom roots, 26.4 miles, 12 hours, Catalina to San Pedro) accurately without distortion or invented facts.",
+        "proficient": "Includes three accurate details from the text; references the material, journey, and challenge clearly.",
+        "developing": "Includes only one or two source details, or misinterprets numbers/geographical locations.",
+        "beginning": "Provides little to no textual evidence; substitutes personal assumptions or outside facts.",
+        "descriptors": {
+          "1": "No accurate textual evidence cited; relies on outside guesses.",
+          "2": "Includes 1–2 details, but with minor factual inaccuracies or misquoted numbers.",
+          "3": "Includes 3 accurate textual details supporting the central explanation.",
+          "4": "Flawlessly embeds 3+ specific textual facts with seamless narrative integration."
+        }
       },
       {
-        "number": 3,
-        "title": "Distance and Specific Geographical Route",
-        "content": "The journey spanned approximately 26.4 miles across the open Pacific ocean from Catalina Island to San Pedro, California. This specific open-water channel is notorious for strong ocean swells and winds, explaining why covering 26.4 miles in an experimental craft required 12 full hours."
+        "category": "Target Language & Structure",
+        "criterion": "Target Language & Structure",
+        "excellent": "Skilfully uses target structures: participial phrases, purpose clauses, contrast with 'although', and cautious reporting language ('believes', 'could spark').",
+        "proficient": "Correctly employs several target structures including cause/effect, concession, and cautious phrasing.",
+        "developing": "Attempts target language patterns with noticeable awkwardness or over-reliance on basic sentence forms.",
+        "beginning": "Demonstrates minimal command of target grammatical patterns; frequent structural fragmentation.",
+        "descriptors": {
+          "1": "Simplistic grammar with pervasive errors in verb forms and sentence boundaries.",
+          "2": "Basic sentence structures with occasional attempts at complex connectors.",
+          "3": "Consistent use of target complex structures (concession, purpose, participial modifiers).",
+          "4": "Masterful command of varied syntactic patterns and nuanced modal expressions of caution."
+        }
       },
       {
-        "number": 4,
-        "title": "Physical Challenges and Seasickness",
-        "content": "The article highlights that Shoemaker experienced intense seasickness. Teachers should use this detail to demonstrate perseverance: innovation in practice involves physical discomfort and uncertainty, not just conceptual brilliance."
+        "category": "Organization & Flow",
+        "criterion": "Organization & Flow",
+        "excellent": "Demonstrates seamless paragraph cohesion with smooth transitions linking process, challenge, encouragement, and broader environmental significance.",
+        "proficient": "Follows a logical progression from introduction to body evidence and a concluding thought; uses adequate transitions.",
+        "developing": "Shows loose organization; jumps between journey details and environmental claims without smooth links.",
+        "beginning": "Disorganized; thoughts are scattered with no discernible progression or concluding thought.",
+        "descriptors": {
+          "1": "Disjointed list of facts with no clear structural progression.",
+          "2": "Basic paragraph structure but with abrupt transitions between ideas.",
+          "3": "Logical flow from controlling idea to evidence, challenge, and cautious conclusion.",
+          "4": "Elegant paragraph architecture with seamless thematic transitions throughout."
+        }
       },
       {
-        "number": 5,
-        "title": "The 50-Foot Fin Whale Encounter",
-        "content": "The 50-foot fin whale encounter serves as a pivotal narrative moment. The text explicitly notes that the animal was 'friendly' and that its presence 'helped inspire him to keep going.' Remind students that the whale did not assist mechanically, but psychologically."
-      },
-      {
-        "number": 6,
-        "title": "Mycelium: Definition and Structural Application",
-        "content": "The text provides an accessible parenthetical definition: 'mycelium (the roots of mushrooms)'. Ensure students understand that mycelium forms a dense vegetative web of fungal threads (hyphae) that can bind agricultural biomass into lightweight, rigid shapes."
-      },
-      {
-        "number": 7,
-        "title": "Eco-Friendly Alternatives to Plastic",
-        "content": "Shoemaker's stated purpose is to discover 'eco-friendly alternatives to plastic.' Standard kayaks are fabricated from rotational molded polyethylene or fiberglass, which are petroleum-derived and non-biodegradable. Emphasize that mycelium represents an organic, compostable alternative."
-      },
-      {
-        "number": 8,
-        "title": "Construction Timeline: One Year of Development",
-        "content": "The construction process required an entire year. Teachers should draw attention to this timescale to illustrate that prototyping bio-materials requires patient experimentation, drying, shaping, and waterproofing."
-      },
-      {
-        "number": 9,
-        "title": "Material Trade-offs: Heavier Kayak vs. Sustainability",
-        "content": "The article honestly notes that the mycelium craft is 'heavier than regular ones.' This trade-off is critical for analytical writing: first-generation sustainable materials often have performance drawbacks that require further engineering."
-      },
-      {
-        "number": 10,
-        "title": "Source Claim vs. Verified Environmental Conclusion",
-        "content": "Teach students to distinguish between what the source reports and what is scientifically proven. The text states Shoemaker 'believes this journey could spark more interest,' which represents a hopeful personal belief rather than an independently verified environmental lifecycle analysis."
-      },
-      {
-        "number": 11,
-        "title": "Respectful Discussion of Innovation and Student Inspiration",
-        "content": "The closing quotation ('There’s probably some 19-year-old kid out there...') underscores the democratic spirit of innovation. Shoemaker emphasizes that groundbreaking sustainability experiments do not require massive corporate labs, but passion, curiosity, and hands-on trial."
+        "category": "Accuracy & Mechanics",
+        "criterion": "Accuracy & Mechanics",
+        "excellent": "Strictly adheres to 100–140 words; demonstrates high grammatical precision, correct punctuation, and accurate spelling of proper nouns and technical terms.",
+        "proficient": "Within the 100–140 word range; minor errors in mechanics do not impede overall clarity or meaning.",
+        "developing": "Slightly outside word limits (e.g., 85–99 or 141–155 words); frequent minor grammatical errors require teacher re-reading.",
+        "beginning": "Substantially outside length requirements; pervasive mechanical errors obscure meaning.",
+        "descriptors": {
+          "1": "Far outside word count; pervasive spelling and mechanical errors.",
+          "2": "Marginally outside word count; frequent errors in commas, quotation marks, or capitalization.",
+          "3": "Strictly 100–140 words; generally accurate spelling and punctuation.",
+          "4": "Precisely 100–140 words; flawless punctuation, mechanics, and academic tone."
+        }
       }
+    ],
+    "teacherNotes": [
+      "1. ARTICLE STRUCTURE AND INFORMATIONAL FOCUS: The text is an engaging human-interest news feature from CNN that bridges extreme sport and environmental science. It is structured into four crisp paragraphs: Paragraph 1 delivers the narrative hook and core achievement; Paragraph 2 details the physical journey, route, elapsed time, and whale encounter; Paragraph 3 explains the scientific material (mycelium) and environmental purpose; and Paragraph 4 concludes with an inspiring human quotation.",
+      "2. HUMAN-INTEREST OPENING AND PUBLIC ATTENTION: The opening sentence uses the idiom 'made headlines' to establish that Sam Shoemaker’s feat captured widespread public notice. Teachers should emphasize that Shoemaker is identified dualistically as 'an artist and scientist,' reflecting how design creativity and biological research converged in this project.",
+      "3. DISTANCE AND SPECIFIC GEOGRAPHICAL ROUTE: The journey spanned approximately 26.4 miles across the open Pacific ocean from Catalina Island to San Pedro, California. This specific open-water channel is notorious for strong ocean swells and winds, explaining why covering 26.4 miles in an experimental craft required 12 full hours.",
+      "4. PHYSICAL CHALLENGES AND SEASICKNESS: The article highlights that Shoemaker experienced intense seasickness. Teachers should use this detail to demonstrate perseverance: innovation in practice involves physical discomfort and uncertainty, not just conceptual brilliance.",
+      "5. THE 50-FOOT FIN WHALE ENCOUNTER: The 50-foot fin whale encounter serves as a pivotal narrative moment. The text explicitly notes that the animal was 'friendly' and that its presence 'helped inspire him to keep going.' Remind students that the whale did not assist mechanically, but psychologically.",
+      "6. MYCELIUM (DEFINITION AND STRUCTURAL APPLICATION): The text provides an accessible parenthetical definition: 'mycelium (the roots of mushrooms)'. Ensure students understand that mycelium forms a dense vegetative web of fungal threads (hyphae) that can bind agricultural biomass into lightweight, rigid shapes.",
+      "7. ECO-FRIENDLY ALTERNATIVES TO PLASTIC: Shoemaker's stated purpose is to discover 'eco-friendly alternatives to plastic.' Standard kayaks are fabricated from rotational molded polyethylene or fiberglass, which are petroleum-derived and non-biodegradable. Emphasize that mycelium represents an organic, compostable alternative.",
+      "8. CONSTRUCTION TIMELINE (ONE YEAR OF DEVELOPMENT): The construction process required an entire year. Teachers should draw attention to this timescale to illustrate that prototyping bio-materials requires patient experimentation, drying, shaping, and waterproofing.",
+      "9. MATERIAL TRADE-OFFS (HEAVIER KAYAK VS. SUSTAINABILITY): The article honestly notes that the mycelium craft is 'heavier than regular ones.' This trade-off is critical for analytical writing: first-generation sustainable materials often have performance drawbacks that require further engineering.",
+      "10. SOURCE CLAIM VS. VERIFIED CONCLUSION (CRITICAL LITERACY): Teach students to distinguish between what the source reports and what is scientifically proven. The text states Shoemaker 'believes this journey could spark more interest,' which represents a hopeful personal belief rather than an independently verified environmental lifecycle analysis.",
+      "11. RESPECTFUL DISCUSSION OF INNOVATION AND INSPIRATION: The closing quotation ('There’s probably some 19-year-old kid out there...') underscores the democratic spirit of innovation. Shoemaker emphasizes that groundbreaking sustainability experiments do not require massive corporate labs, but passion, curiosity, and hands-on trial."
     ],
     "teachingScript": [
       {
@@ -1137,6 +1211,67 @@
         "description": "The source material is an informational human-interest and environmental feature transcribed from a single teacher-provided classroom image with visible source attribution 'Source: CNN'. It consists of a single title ('A Kayak Built from Mushrooms Crosses the Ocean!'), followed by exactly four ordered prose paragraphs containing six complete grammatical sentences, and concluding with a visible source label. The image visibly emphasizes ten key phrases in heavier type: 'Sam Shoemaker', 'paddled a kayak made entirely from mushrooms across the ocean!', 'aiming to cover about 26.4 miles', '50-foot fin whale', 'helped inspire him to keep going.', 'special kayak', 'mycelium', 'eco-friendly alternatives to plastic', 'took a year to make his kayak', and 'sustainable material'. All paragraph boundaries, numerical data (26.4 miles, 12 hours, 50-foot, 19-year-old), punctuation, and nested quotation marks are preserved with strict original fidelity."
       },
       "finalWritingSupport": {
+        "sentenceFrames": [
+          "Sam Shoemaker’s groundbreaking expedition highlights how creative innovation can advance sustainable materials.",
+          "According to the article, the artist and scientist spent a full year crafting a unique kayak from mycelium, the roots of mushrooms.",
+          "Covering an impressive 26.4 miles across the open ocean, he aimed to reach San Pedro, California.",
+          "Although he struggled with twelve hours of seasickness and a heavier craft, a friendly fifty-foot fin whale inspired him to keep going.",
+          "Ultimately, Shoemaker believes that completing this crossing could spark greater interest in mushrooms as eco-friendly alternatives to plastic."
+        ],
+        "usefulConnectors": [
+          "According to the article",
+          "In order to",
+          "Although",
+          "Furthermore",
+          "However",
+          "As a result",
+          "Ultimately",
+          "In conclusion"
+        ],
+        "usefulVocabulary": [
+          "mycelium (roots of mushrooms)",
+          "eco-friendly alternatives",
+          "sustainable material",
+          "innovation and perseverance",
+          "26.4 miles / 12 hours",
+          "50-foot fin whale",
+          "battling seasickness",
+          "heavier than regular ones",
+          "spark more interest",
+          "artist and scientist"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State how Sam Shoemaker’s ocean crossing in a mushroom kayak exemplifies innovation, endurance, and sustainable materials.",
+          "2. Material & Timeline Evidence: Cite the specific material (mycelium, the roots of mushrooms) and the one-year construction time aimed at replacing plastics.",
+          "3. Journey Details: Detail the 26.4-mile voyage from Catalina Island to San Pedro and the 12-hour duration.",
+          "4. Challenge & Inspiration: Describe how he battled seasickness in a heavier boat until inspired by a friendly 50-foot fin whale.",
+          "5. Environmental Purpose: Explain how testing bio-materials provides eco-friendly alternatives to conventional plastic.",
+          "6. Cautious Conclusion: Conclude cautiously by noting Shoemaker's belief that his journey can spark public interest and inspire younger innovators."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Shoemaker paddled a kayak made by mushroom.",
+            "correction": "Shoemaker paddled a kayak made from mushrooms (or created from mycelium)."
+          },
+          {
+            "mistake": "The kayak was more heavy than regular one.",
+            "correction": "The kayak was heavier than regular ones."
+          },
+          {
+            "mistake": "The journey will definitely make all boats use mushrooms tomorrow.",
+            "correction": "Shoemaker believes the journey could spark more interest in using mushrooms as a sustainable material."
+          },
+          {
+            "mistake": "A 50-feet whale followed him and pulled his boat.",
+            "correction": "A 50-foot fin whale followed him and inspired him to keep going."
+          }
+        ],
+        "teacherCorrectionFocus": [
+          "Priority 1: Source fidelity—ensure exact facts (mycelium, 26.4 miles, 12 hours, seasickness, whale) with zero invented claims.",
+          "Priority 2: Word count compliance—strictly between 100 and 140 words.",
+          "Priority 3: Cautious academic tone—use 'believes' and 'could spark' rather than sweeping overstatements.",
+          "Priority 4: Target grammar—effective use of participial phrases, concession, and purpose structures."
+        ],
         "sourceVocabulary": [
           "mycelium (mushroom roots)",
           "eco-friendly alternatives",
@@ -1172,20 +1307,6 @@
           "Shoemaker believes this journey could spark",
           "demonstrates the possibility of",
           "encourages others to explore"
-        ],
-        "paragraphOutline": {
-          "topicSentence": "State that Sam Shoemaker’s ocean crossing in a mushroom kayak exemplifies innovation, endurance, and practical interest in sustainable materials.",
-          "evidenceProcess": "Cite the specific material (mycelium, the roots of mushrooms) and the one-year construction time aimed at replacing petroleum-based plastics.",
-          "evidenceJourney": "Detail the 26.4-mile voyage from Catalina Island to San Pedro and the 12-hour duration.",
-          "evidenceChallenge": "Describe how he battled seasickness and paddled a heavier-than-normal craft until inspired by a friendly 50-foot fin whale.",
-          "concludingThought": "Conclude cautiously by noting Shoemaker's belief that his journey can inspire young innovators to explore sustainable alternatives."
-        },
-        "sentenceStarters": [
-          "Sam Shoemaker’s groundbreaking expedition highlights how creative design can advance...",
-          "According to the article, the artist and scientist spent a full year growing...",
-          "Covering an impressive 26.4 miles across the open ocean, the journey proved...",
-          "Although he struggled with intense seasickness and a heavier craft, a friendly...",
-          "Ultimately, Shoemaker believes that completing this crossing could spark..."
         ],
         "koreanEslErrors": [
           {
