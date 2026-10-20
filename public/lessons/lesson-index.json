@@ -1,6 +1,13 @@
 {
-  "latest": "2026-10-19-name-sharing-statistics",
+  "latest": "2026-10-20-mushroom-kayak-ocean",
   "lessons": [
+    {
+      "slug": "2026-10-20-mushroom-kayak-ocean",
+      "title": "A Kayak Built from Mushrooms Crosses the Ocean!",
+      "ofsUnit": "Unit 3 — Innovation, Environment & Sustainability",
+      "textType": "Informational Human-Interest and Sustainability Article / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-20"
+    },
     {
       "slug": "2026-10-19-name-sharing-statistics",
       "title": "How Many People Share Your Name?",

@@ -1,0 +1,48 @@
+{
+  "taskId": "OFS-20261020-MUSHROOM-KAYAK-01",
+  "slug": "2026-10-20-mushroom-kayak-ocean",
+  "title": "A Kayak Built from Mushrooms Crosses the Ocean!",
+  "source": "Source: CNN",
+  "sourceNote": "Original text transcribed from one teacher-provided classroom image. The visible source label is “Source: CNN”; no publication date or article URL is shown in the image.",
+  "paragraphs": [
+    "Sam Shoemaker, an artist and scientist, made headlines when he paddled a kayak made entirely from mushrooms across the ocean!",
+    "On a sunny August morning, he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California. After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale, which helped inspire him to keep going.",
+    "This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort to discover eco-friendly alternatives to plastic. Although it took a year to make his kayak and it’s heavier than regular ones, he believes this journey could spark more interest in using mushrooms as a sustainable material.",
+    "As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”"
+  ],
+  "visibleEmphasis": [
+    "Sam Shoemaker",
+    "paddled a kayak made entirely from mushrooms across the ocean!",
+    "aiming to cover about 26.4 miles",
+    "50-foot fin whale",
+    "helped inspire him to keep going.",
+    "special kayak",
+    "mycelium",
+    "eco-friendly alternatives to plastic",
+    "took a year to make his kayak",
+    "sustainable material"
+  ],
+  "sentenceUnits": [
+    "Sam Shoemaker, an artist and scientist, made headlines when he paddled a kayak made entirely from mushrooms across the ocean!",
+    "On a sunny August morning, he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California.",
+    "After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale, which helped inspire him to keep going.",
+    "This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort to discover eco-friendly alternatives to plastic.",
+    "Although it took a year to make his kayak and it’s heavier than regular ones, he believes this journey could spark more interest in using mushrooms as a sustainable material.",
+    "As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”"
+  ],
+  "expectedStats": {
+    "titleCount": 1,
+    "paragraphCount": 4,
+    "sourceLabelCount": 1,
+    "emphasisCount": 10,
+    "sentenceCount": 6,
+    "wordsByParagraph": [
+      20,
+      54,
+      51,
+      19
+    ],
+    "totalWords": 144,
+    "proseSha256": "9b39826f8166a1467e0a8c606b0312ee43910b41fc297757c237092eccbe0c0f"
+  }
+}

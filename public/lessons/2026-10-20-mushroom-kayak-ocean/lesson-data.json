@@ -1,0 +1,1223 @@
+{
+  "lessonTitle": "A Kayak Built from Mushrooms Crosses the Ocean!",
+  "ofsUnit": "Unit 3 — Innovation, Environment & Sustainability",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational Human-Interest and Sustainability Article",
+  "writingType": "Evidence-Based Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students identify the process, challenges and environmental purpose described in the article, explain how evidence supports an interpretation, and write an evidence-based paragraph about innovation and sustainable materials.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these warm-up questions with a partner. Think about materials used in everyday sports equipment and environmental sustainability.",
+    "questions": [
+      "What materials are common for making boats or kayaks?",
+      "What might make a material more environmentally friendly?",
+      "Why might someone try an unusual idea even when it is difficult?"
+    ],
+    "sentenceStarters": [
+      "Common materials for boats and kayaks include...",
+      "A material might be more environmentally friendly if it...",
+      "Someone might try an unusual idea because..."
+    ]
+  },
+  "article": {
+    "title": "A Kayak Built from Mushrooms Crosses the Ocean!",
+    "source": "Source: CNN",
+    "sourceNote": "Original text transcribed from one teacher-provided classroom image. The visible source label is “Source: CNN”; no publication date or article URL is shown in the image.",
+    "paragraphs": [
+      "Sam Shoemaker, an artist and scientist, made headlines when he paddled a kayak made entirely from mushrooms across the ocean!",
+      "On a sunny August morning, he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California. After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale, which helped inspire him to keep going.",
+      "This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort to discover eco-friendly alternatives to plastic. Although it took a year to make his kayak and it’s heavier than regular ones, he believes this journey could spark more interest in using mushrooms as a sustainable material.",
+      "As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”"
+    ],
+    "visibleEmphasis": [
+      "Sam Shoemaker",
+      "paddled a kayak made entirely from mushrooms across the ocean!",
+      "aiming to cover about 26.4 miles",
+      "50-foot fin whale",
+      "helped inspire him to keep going.",
+      "special kayak",
+      "mycelium",
+      "eco-friendly alternatives to plastic",
+      "took a year to make his kayak",
+      "sustainable material"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key vocabulary terms below from the article. Pay close attention to the part of speech, English definition, Korean translation, and context sentence.",
+    "items": [
+      {
+        "word": "headline",
+        "partOfSpeech": "noun",
+        "definition": "prominent attention in news reports or media coverage (often used as 'make headlines')",
+        "korean": "대대적 보도, 주요 뉴스 (헤드라인)",
+        "sentence": "The young inventor made headlines around the country when she built a solar-powered water purifier."
+      },
+      {
+        "word": "paddle",
+        "partOfSpeech": "verb",
+        "definition": "to propel and steer a small watercraft such as a kayak or canoe through water using an oar",
+        "korean": "노를 젓다, 패들링하다",
+        "sentence": "During our summer camping trip, we learned how to paddle safely across the calm mountain lake."
+      },
+      {
+        "word": "entirely",
+        "partOfSpeech": "adverb",
+        "definition": "completely and solely, without any other components or materials included",
+        "korean": "전적으로, 완전히",
+        "sentence": "The experimental pavilion was constructed entirely from recycled timber and compressed cardboard."
+      },
+      {
+        "word": "launch",
+        "partOfSpeech": "verb",
+        "definition": "to set a watercraft into motion on the water at the beginning of a voyage or expedition",
+        "korean": "(배를 물에) 띄우다, 출항시키다",
+        "sentence": "The researchers launched their small ocean survey vessel from the harbor just before dawn."
+      },
+      {
+        "word": "aim to",
+        "partOfSpeech": "verb phrase",
+        "definition": "to intend, plan, or direct one’s focused efforts toward achieving a specific goal",
+        "korean": "~을 목표로 하다, ~하려고 하다",
+        "sentence": "The student environmental club aims to eliminate single-use beverage containers from our school cafeteria."
+      },
+      {
+        "word": "seasickness",
+        "partOfSpeech": "noun",
+        "definition": "nausea, dizziness, and physical discomfort caused by the continuous rocking motion of a boat at sea",
+        "korean": "뱃멀미",
+        "sentence": "Several passengers experienced mild seasickness when the ferry encountered choppy ocean waves."
+      },
+      {
+        "word": "fin whale",
+        "partOfSpeech": "noun",
+        "definition": "the second-largest species of baleen whale on Earth, known for its sleek body and immense length",
+        "korean": "참고래 (대형 수염고래의 일종)",
+        "sentence": "Marine biologists observed a majestic fin whale surfacing near the coastal migration route."
+      },
+      {
+        "word": "mycelium",
+        "partOfSpeech": "noun",
+        "definition": "the dense, thread-like vegetative root network of fungi and mushrooms",
+        "korean": "균사체 (버섯의 뿌리 구조)",
+        "sentence": "Scientists discovered that mycelium can bind agricultural waste together into sturdy packaging materials."
+      },
+      {
+        "word": "eco-friendly",
+        "partOfSpeech": "adjective",
+        "definition": "designed not to harm the natural environment or deplete ecological resources",
+        "korean": "친환경적인",
+        "sentence": "The design studio developed eco-friendly drinking cups made from fallen leaves instead of synthetic plastic."
+      },
+      {
+        "word": "sustainable material",
+        "partOfSpeech": "noun phrase",
+        "definition": "a resource or substance produced and used in ways that support long-term environmental balance without permanent depletion",
+        "korean": "지속 가능한 소재",
+        "sentence": "Architects are increasingly specifying bamboo and pressed hemp as sustainable materials for eco-friendly buildings."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "instructions": "Choose the statement that best expresses the main idea of the entire article. Look for the overarching point that connects the expedition, the unusual material, and its environmental motivation.",
+    "question": "What is the main idea of the article?",
+    "options": [
+      "Sam Shoemaker used an unusual mushroom-based kayak to attempt a difficult journey and draw attention to possible sustainable alternatives to plastic.",
+      "All kayaks should immediately be made from mushrooms.",
+      "A fin whale completed the entire journey for Shoemaker.",
+      "The article is mainly about how to build a professional kayak."
+    ],
+    "correctIndex": 0,
+    "feedback": {
+      "correct": "Correct! The article details how Sam Shoemaker paddled a kayak made from mycelium across 26.4 miles of ocean to demonstrate that mushrooms can serve as sustainable, eco-friendly alternatives to plastic.",
+      "incorrect": "Incorrect. The article focuses on Shoemaker's experimental journey in a mushroom-based kayak to raise interest in eco-friendly alternatives to plastic, not on building commercial kayaks, universal replacement mandates, or whale transport."
+    },
+    "explanation": "Option A accurately captures the scope of all four paragraphs: Paragraph 1 introduces the artist-scientist and his mushroom kayak; Paragraph 2 describes the challenging 26.4-mile ocean crossing; Paragraph 3 explains the environmental purpose of seeking plastic alternatives through mycelium; and Paragraph 4 highlights his goal of inspiring others. Options B, C, and D exaggerate or misrepresent the text."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer the following questions based strictly on the facts and evidence stated in the article.",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "question": "Who made headlines in the article?",
+        "options": [
+          "Sam Shoemaker, an artist and scientist",
+          "A professional ocean lifeguard from Catalina Island",
+          "A 19-year-old boat manufacturer from San Pedro",
+          "A marine biologist studying fin whales"
+        ],
+        "correctIndex": 0,
+        "reference": "Paragraph 1, Sentence 1: 'Sam Shoemaker, an artist and scientist, made headlines when he paddled a kayak made entirely from mushrooms across the ocean!'",
+        "feedback": {
+          "correct": "Correct! The article explicitly states that Sam Shoemaker is an artist and scientist who made headlines.",
+          "incorrect": "Incorrect. Check Paragraph 1: Sam Shoemaker is identified specifically as 'an artist and scientist'."
+        },
+        "explanation": "Paragraph 1 clearly introduces Sam Shoemaker as both an artist and a scientist who gained public attention for paddling a mushroom-grown kayak across the ocean."
+      },
+      {
+        "questionNumber": 2,
+        "question": "Where did he launch the kayak, and where was he aiming to go?",
+        "options": [
+          "He launched in San Pedro and aimed to paddle to Catalina Island.",
+          "He launched near Catalina Island, aiming to reach San Pedro, California.",
+          "He launched in San Diego and aimed to reach Catalina Island.",
+          "He launched near San Francisco and aimed to reach Los Angeles."
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 2, Sentence 2: 'On a sunny August morning, he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California.'",
+        "feedback": {
+          "correct": "Correct! The text states he launched near Catalina Island and aimed to reach San Pedro, California.",
+          "incorrect": "Incorrect. Review Paragraph 2: the starting point was near Catalina Island, and the destination was San Pedro, California."
+        },
+        "explanation": "Paragraph 2 describes his starting point near Catalina Island and his planned arrival point at San Pedro, California."
+      },
+      {
+        "questionNumber": 3,
+        "question": "How far was he aiming to cover?",
+        "options": [
+          "About 12 miles",
+          "About 19 miles",
+          "About 26.4 miles",
+          "About 50 miles"
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 2, Sentence 2: '...aiming to cover about 26.4 miles to reach San Pedro, California.'",
+        "feedback": {
+          "correct": "Correct! The text specifically gives the distance as 'about 26.4 miles'.",
+          "incorrect": "Incorrect. Check the exact figure in Paragraph 2: 'about 26.4 miles' (12 refers to hours, 19 to a hypothetical kid's age, and 50 to whale length)."
+        },
+        "explanation": "The article specifies the planned paddling distance as 'about 26.4 miles'. The other numbers in the article correspond to elapsed time (12 hours), the kid in his quotation (19-year-old), and the whale length (50-foot)."
+      },
+      {
+        "questionNumber": 4,
+        "question": "What challenges and unexpected event are described after 12 hours?",
+        "options": [
+          "His kayak took on water and he had to be rescued by a fishing boat.",
+          "He lost his paddle in high waves and drifted toward Mexico.",
+          "He battled seasickness and was followed by a friendly 50-foot fin whale.",
+          "His kayak cracked in two and he swam alongside dolphins."
+        ],
+        "correctIndex": 2,
+        "reference": "Paragraph 2, Sentence 3: 'After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale, which helped inspire him to keep going.'",
+        "feedback": {
+          "correct": "Correct! He struggled with seasickness after 12 hours and was cheered by a 50-foot fin whale following him.",
+          "incorrect": "Incorrect. Paragraph 2 mentions that after 12 hours he was 'battling seasickness' and 'followed by a friendly 50-foot fin whale'."
+        },
+        "explanation": "The text highlights two key occurrences after 12 hours: the physical challenge of battling seasickness, and the uplifting arrival of a friendly 50-foot fin whale that helped inspire him to continue."
+      },
+      {
+        "questionNumber": 5,
+        "question": "What is mycelium described as in the article?",
+        "options": [
+          "A toxic mold found on ocean rocks",
+          "The roots of mushrooms",
+          "A synthetic chemical sealant for wood",
+          "A type of seaweed used for marine fuel"
+        ],
+        "correctIndex": 1,
+        "reference": "Paragraph 3, Sentence 4: 'This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort to discover eco-friendly alternatives to plastic.'",
+        "feedback": {
+          "correct": "Correct! The article explicitly defines mycelium in parentheses as 'the roots of mushrooms'.",
+          "incorrect": "Incorrect. Look at the parenthetical definition in Paragraph 3: 'mycelium (the roots of mushrooms)'."
+        },
+        "explanation": "Paragraph 3 explains the kayak's material with direct clarification: 'mycelium (the roots of mushrooms)'. It is not a synthetic chemical or algae."
+      },
+      {
+        "questionNumber": 6,
+        "question": "Why does Shoemaker believe the journey could be important?",
+        "options": [
+          "It could spark more interest in using mushrooms as a sustainable material and encourage others.",
+          "It proves that commercial boats will immediately stop using fiberglass.",
+          "It set a world speed record for coastal open-water paddling.",
+          "It demonstrates that fin whales can be trained to guide kayaks."
+        ],
+        "correctIndex": 0,
+        "reference": "Paragraph 3 & 4: '...he believes this journey could spark more interest in using mushrooms as a sustainable material. As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”'",
+        "feedback": {
+          "correct": "Correct! Shoemaker hopes to spark interest in sustainable mushroom materials and inspire younger people to pursue innovative ideas.",
+          "incorrect": "Incorrect. Read Paragraphs 3 and 4: he believes it could 'spark more interest in using mushrooms as a sustainable material' and inspire other people."
+        },
+        "explanation": "Paragraph 3 explicitly states Shoemaker's belief that his journey could spark broader interest in mushrooms as sustainable materials, and Paragraph 4 emphasizes his wish to inspire others to realize that they too can achieve ambitious environmental projects."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Write structured, evidence-based answers to the questions below using direct facts and references from the article. Click 'Check & Compare' after typing to evaluate your response against the model answer.",
+    "items": [
+      {
+        "questionNumber": 1,
+        "question": "What details show that Shoemaker’s kayak and journey were unusual?",
+        "prompt": "Identify specific facts from the text about the kayak's material, appearance, construction timeline, and journey route.",
+        "compareTips": "Check if your answer mentions: (1) made entirely from mushrooms / mycelium, (2) unique brown kayak, (3) took a full year to build, and (4) paddling 26.4 miles across the ocean from Catalina Island to San Pedro.",
+        "modelAnswer": "The article describes the kayak as unique and brown, made entirely from mushrooms rather than standard plastic or fiberglass. It was grown from mycelium, which the text defines as the roots of mushrooms, and took a full year to build. Furthermore, paddling 26.4 miles across the open ocean from Catalina Island to San Pedro in a heavier experimental craft represents an extraordinary and unconventional expedition."
+      },
+      {
+        "questionNumber": 2,
+        "question": "What challenges did Shoemaker face, and what helped him keep going?",
+        "prompt": "Describe both the physical and material difficulties mentioned in the text, as well as the positive encounter that encouraged him.",
+        "compareTips": "Check if your answer includes: (1) the kayak being heavier than regular ones, (2) taking a year to construct, (3) battling seasickness during a 12-hour crossing, and (4) being followed by a friendly 50-foot fin whale that inspired him to keep going.",
+        "modelAnswer": "Shoemaker faced serious physical and technical challenges during his crossing. The kayak was noticeably heavier than regular ones, it required a whole year of construction, and he battled seasickness during a grueling 12-hour voyage. When he was tired and struggling, an encounter with a friendly 50-foot fin whale swimming alongside him provided excitement and inspired him to keep paddling forward."
+      },
+      {
+        "questionNumber": 3,
+        "question": "How does the article connect the kayak to eco-friendly alternatives and sustainable material?",
+        "prompt": "Explain Shoemaker's broader environmental purpose in building and paddling the mycelium kayak.",
+        "compareTips": "Check if your answer explains: (1) the effort to discover eco-friendly alternatives to plastic, (2) mycelium as a renewable mushroom root material, (3) sparking public interest in sustainable materials, and (4) inspiring other young innovators.",
+        "modelAnswer": "The article explains that the mycelium kayak is part of Shoemaker’s deliberate effort to discover eco-friendly alternatives to petroleum-based plastic. Although the craft was heavier and required significant construction time, Shoemaker believes the ocean crossing could spark widespread interest in utilizing mushrooms as a viable, sustainable material for everyday products."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine the grammatical structures and rhetorical features used in the article. Understanding these patterns will strengthen both your reading comprehension and your explanatory writing.",
+    "sections": [
+      {
+        "heading": "1. Participial Phrases for Material and Origin",
+        "explanation": "Participial phrases allow a writer to pack essential descriptive information about how an object was created into a sentence without creating a clunky separate clause.",
+        "examples": [
+          "This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort...",
+          "...he paddled a kayak made entirely from mushrooms across the ocean!"
+        ],
+        "practice": "Notice how 'created from mycelium' and 'made entirely from mushrooms' function like condensed adjective clauses ('which was created from...', 'which was made entirely from...')."
+      },
+      {
+        "heading": "2. Purpose and Intention Structures ('aiming to + verb' & 'in order to')",
+        "explanation": "Present participle phrases of purpose ('aiming to cover...') describe an actor's goal while undertaking an action.",
+        "examples": [
+          "...he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California."
+        ],
+        "practice": "The participle 'aiming' shows the intention, while the infinitive 'to reach' defines the destination outcome."
+      },
+      {
+        "heading": "3. Time and Circumstance Prepositional Phrases",
+        "explanation": "Prepositional phrases starting with 'after' can combine time durations and ongoing participle actions to establish the backdrop of an event.",
+        "examples": [
+          "After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale..."
+        ],
+        "practice": "Notice the parallel pairing: 'After [12 hours] and [battling seasickness]' combines a time duration with an arduous physical condition."
+      },
+      {
+        "heading": "4. Non-defining Relative Clauses with 'which'",
+        "explanation": "A non-defining relative clause beginning with ', which' adds supplementary narrative comment or explains the emotional or causal effect of the preceding clause.",
+        "examples": [
+          "...followed by a friendly 50-foot fin whale, which helped inspire him to keep going."
+        ],
+        "practice": "The clause does not identify which whale it was; rather, it explains the positive psychological effect the whale's presence had on Shoemaker."
+      },
+      {
+        "heading": "5. Concession and Contrast Clauses with 'Although'",
+        "explanation": "Concessive clauses introduced by 'although' acknowledge a drawback, limitation, or counter-argument before presenting the main positive point.",
+        "examples": [
+          "Although it took a year to make his kayak and it’s heavier than regular ones, he believes this journey could spark more interest..."
+        ],
+        "practice": "The clause acknowledges two clear disadvantages (time-consuming build, heavier weight) before asserting the forward-looking environmental value."
+      },
+      {
+        "heading": "6. Passive Voice with Agent or Follower ('was followed by')",
+        "explanation": "Passive constructions place the recipient of an action or observation in the subject position to maintain the narrative focus on that person.",
+        "examples": [
+          "...he was excited to find himself followed by a friendly 50-foot fin whale..."
+        ],
+        "practice": "Instead of 'a fin whale followed him,' the structure 'find himself followed by' centers on Shoemaker's personal perspective and emotional relief."
+      },
+      {
+        "heading": "7. Modal Verbs of Cautious Prediction ('could spark')",
+        "explanation": "Responsible science and human-interest reporting uses tentative modal verbs such as 'could' or 'might' rather than absolute claims like 'will'.",
+        "examples": [
+          "...he believes this journey could spark more interest in using mushrooms as a sustainable material."
+        ],
+        "practice": "The phrase 'could spark' signals possibility and potential rather than a guaranteed or immediate commercial transformation."
+      },
+      {
+        "heading": "8. Verb Pattern: 'help + object + infinitive' ('helped inspire him to keep going')",
+        "explanation": "The verb 'help' frequently pairs with an object and an infinitive or base verb to indicate an assisting influence.",
+        "examples": [
+          "...which helped inspire him to keep going."
+        ],
+        "practice": "Here, 'helped' takes the object 'him' and the infinitive 'inspire,' followed by the phrasal verb 'to keep going' meaning to persevere."
+      },
+      {
+        "heading": "9. Reporting Verbs and Nested Quotations",
+        "explanation": "When quoting a speaker who is quoting an inner thought or imaginary person, writers use double quotation marks on the outside and single quotation marks on the inside.",
+        "examples": [
+          "As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”"
+        ],
+        "practice": "Notice the nesting: outer double quotes enclose Shoemaker's speech, while inner single quotes enclose the hypothetical teenager's thought: ‘I could do that,’."
+      },
+      {
+        "heading": "10. Comparative Structures with 'than' ('heavier than regular ones')",
+        "explanation": "Comparative adjectives with 'than' establish direct physical contrasts between an experimental prototype and standard items.",
+        "examples": [
+          "...and it’s heavier than regular ones..."
+        ],
+        "practice": "The pronoun 'ones' substitutes for 'kayaks' to prevent awkward repetition: 'heavier than regular [kayaks]'."
+      },
+      {
+        "heading": "11. Source Literacy: Fact vs. Interpretation vs. Inference",
+        "explanation": "Careful critical readers distinguish between three levels of information in informational texts:",
+        "examples": [
+          "Source Fact: Shoemaker launched his kayak near Catalina Island and aimed to cover about 26.4 miles (stated directly as empirical event).",
+          "Source Interpretation / Belief: Shoemaker believes this journey could spark interest in mushrooms as sustainable materials (the subject's personal viewpoint).",
+          "Student Inference: Shoemaker's willingness to endure seasickness and a heavier boat demonstrates remarkable perseverance (logical deduction by the reader)."
+        ],
+        "practice": "Remember: The final quotation expresses Shoemaker's personal hope and optimism, not an independently verified guarantee that mushroom kayaks will replace fiberglass."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Practice constructing sentences that synthesize evidence from the text using targeted grammatical structures.",
+    "items": [
+      {
+        "taskNumber": 1,
+        "instruction": "Write one process sentence explaining what the kayak was made from.",
+        "scaffold": "Start with 'The experimental kayak...' and include the specific biological term and its parenthetical explanation.",
+        "compareTips": "Check if your sentence includes: (1) made from or created from, (2) mycelium, and (3) roots of mushrooms.",
+        "modelAnswer": "The experimental kayak was created entirely from mycelium, which refers to the root network of mushrooms."
+      },
+      {
+        "taskNumber": 2,
+        "instruction": "Combine the distance and destination details using to or in order to.",
+        "scaffold": "Mention the starting point (near Catalina Island), the action (paddled / launched), and the destination with distance.",
+        "compareTips": "Check if your sentence connects: (1) launched near Catalina Island, (2) covered about 26.4 miles, and (3) reached San Pedro, California.",
+        "modelAnswer": "Shoemaker launched his kayak near Catalina Island in order to cover approximately 26.4 miles to reach San Pedro."
+      },
+      {
+        "taskNumber": 3,
+        "instruction": "Write a sentence describing one challenge and one source detail that helped Shoemaker continue.",
+        "scaffold": "Use a concession word like 'Although' or a time connector like 'After 12 hours...'",
+        "compareTips": "Check if your sentence balances: (1) seasickness or heavier boat weight with (2) the friendly 50-foot fin whale that inspired him.",
+        "modelAnswer": "Although he battled seasickness during the twelve-hour crossing, the sight of a friendly fifty-foot fin whale helped inspire him to keep going."
+      },
+      {
+        "taskNumber": 4,
+        "instruction": "Write a cautious sentence explaining how the journey could increase interest in sustainable materials.",
+        "scaffold": "Use cautious reporting verbs such as 'believes,' 'hopes,' or modal 'could spark.'",
+        "compareTips": "Check if your sentence uses: (1) cautious language (believes / could spark), (2) mushrooms as sustainable materials, and (3) eco-friendly alternatives to plastic.",
+        "modelAnswer": "Shoemaker believes that completing this ocean journey could spark greater public interest in exploring mushrooms as a sustainable material."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based explanation paragraph answering the prompt below. Adhere strictly to the word count range of 100–140 words.",
+    "prompt": "How does Sam Shoemaker’s mushroom kayak show innovation, perseverance and interest in sustainable materials? Write an evidence-based explanation paragraph of 100–140 words. Use at least three accurate details from the article, describe one challenge, explain the environmental purpose, and end with a cautious conclusion.",
+    "checklist": [
+      "Clear controlling idea stating that Shoemaker’s journey demonstrates innovation and draws attention to sustainable alternatives.",
+      "At least three accurate details from the original article (e.g., mycelium, Catalina Island to San Pedro, 26.4 miles, 12 hours, fin whale).",
+      "Correct use of the kayak material and mycelium explanation (the roots of mushrooms).",
+      "One journey detail, such as distance, location, time, or the whale encounter.",
+      "One challenge, such as battling seasickness or the kayak being heavier than regular ones.",
+      "One source-reporting or cautious phrase (e.g., 'according to the article,' 'he believes,' 'could spark').",
+      "Explanation of the connection to eco-friendly alternatives to plastic and sustainable materials.",
+      "Logical conclusion reflecting on how the project encourages others to explore creative solutions.",
+      "Word count strictly between 100 and 140 words.",
+      "No invented technical, environmental, or scientific claims presented as article facts."
+    ],
+    "modelAnswer": "Sam Shoemaker’s ambitious ocean voyage demonstrates how creative innovation and personal perseverance can spotlight sustainable materials. An artist and scientist, Shoemaker spent an entire year crafting a unique brown kayak from mycelium, the root structure of mushrooms, to discover eco-friendly alternatives to plastic. Launching near Catalina Island, he aimed to paddle about 26.4 miles across the open ocean to reach San Pedro, California. The crossing presented major challenges: his experimental craft was heavier than regular ones, and he endured twelve long hours while battling seasickness. However, a friendly fifty-foot fin whale accompanied him, inspiring him to keep going. As the article notes, Shoemaker believes this feat could spark interest in mushroom materials, encouraging other young innovators to test sustainable possibilities.",
+    "ruleBasedCheckCriteria": {
+      "minWords": 100,
+      "maxWords": 140,
+      "requiredTerms": [
+        "Shoemaker",
+        "kayak",
+        "mushroom",
+        "mycelium",
+        "plastic",
+        "sustainable"
+      ],
+      "cautionTerms": [
+        "believes",
+        "could",
+        "spark",
+        "effort",
+        "shows",
+        "suggests"
+      ],
+      "challengeTerms": [
+        "seasickness",
+        "heavier",
+        "hours",
+        "year",
+        "difficult"
+      ]
+    }
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Evaluate your paragraph against the six criteria below before submitting your work.",
+    "items": [
+      "I stated a clear controlling idea about Shoemaker's innovation, perseverance, and sustainable materials.",
+      "I included at least three factual details directly from the article (such as mycelium, 26.4 miles, or 12 hours).",
+      "I accurately explained the kayak's material as mycelium (the roots of mushrooms) seeking alternatives to plastic.",
+      "I described at least one authentic challenge mentioned in the text (such as seasickness or the craft's heavier weight).",
+      "I used cautious reporting language (such as 'he believes' or 'could spark') rather than claiming certainty.",
+      "My paragraph is logically structured, between 100 and 140 words, and free of invented outside claims."
+    ]
+  },
+  "teacher": {
+    "modelAnswer": "Sam Shoemaker’s ambitious ocean voyage demonstrates how creative innovation and personal perseverance can spotlight sustainable materials. An artist and scientist, Shoemaker spent an entire year crafting a unique brown kayak from mycelium, the root structure of mushrooms, to discover eco-friendly alternatives to plastic. Launching near Catalina Island, he aimed to paddle about 26.4 miles across the open ocean to reach San Pedro, California. The crossing presented major challenges: his experimental craft was heavier than regular ones, and he endured twelve long hours while battling seasickness. However, a friendly fifty-foot fin whale accompanied him, inspiring him to keep going. As the article notes, Shoemaker believes this feat could spark interest in mushroom materials, encouraging other young innovators to test sustainable possibilities.",
+    "answerKey": {
+      "mainIdea": 0,
+      "readingComprehension": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        0
+      ],
+      "evidenceFromText": [
+        "The article describes the kayak as unique and brown, made entirely from mushrooms rather than standard plastic or fiberglass. It was grown from mycelium, which the text defines as the roots of mushrooms, and took a full year to build. Furthermore, paddling 26.4 miles across the open ocean from Catalina Island to San Pedro in a heavier experimental craft represents an extraordinary and unconventional expedition.",
+        "Shoemaker faced serious physical and technical challenges during his crossing. The kayak was noticeably heavier than regular ones, it required a whole year of construction, and he battled seasickness during a grueling 12-hour voyage. When he was tired and struggling, an encounter with a friendly 50-foot fin whale swimming alongside him provided excitement and inspired him to keep paddling forward.",
+        "The article explains that the mycelium kayak is part of Shoemaker’s deliberate effort to discover eco-friendly alternatives to petroleum-based plastic. Although the craft was heavier and required significant construction time, Shoemaker believes the ocean crossing could spark widespread interest in utilizing mushrooms as a viable, sustainable material for everyday products."
+      ],
+      "writingPractice": [
+        "The experimental kayak was created entirely from mycelium, which refers to the root network of mushrooms.",
+        "Shoemaker launched his kayak near Catalina Island in order to cover approximately 26.4 miles to reach San Pedro.",
+        "Although he battled seasickness during the twelve-hour crossing, the sight of a friendly fifty-foot fin whale helped inspire him to keep going.",
+        "Shoemaker believes that completing this ocean journey could spark greater public interest in exploring mushrooms as a sustainable material."
+      ],
+      "finalWritingTask": "Sam Shoemaker’s ambitious ocean voyage demonstrates how creative innovation and personal perseverance can spotlight sustainable materials. An artist and scientist, Shoemaker spent an entire year crafting a unique brown kayak from mycelium, the root structure of mushrooms, to discover eco-friendly alternatives to plastic. Launching near Catalina Island, he aimed to paddle about 26.4 miles across the open ocean to reach San Pedro, California. The crossing presented major challenges: his experimental craft was heavier than regular ones, and he endured twelve long hours while battling seasickness. However, a friendly fifty-foot fin whale accompanied him, inspiring him to keep going. As the article notes, Shoemaker believes this feat could spark interest in mushroom materials, encouraging other young innovators to test sustainable possibilities."
+    },
+    "rubric": {
+      "title": "Five-Category Analytical Rubric for Evidence-Based Explanatory Writing",
+      "categories": [
+        {
+          "name": "Content & Ideas",
+          "weight": "20%",
+          "levels": {
+            "exemplary": "Develops a compelling, precise controlling idea; seamlessly integrates innovation, perseverance, and sustainable materials using authentic source details.",
+            "proficient": "Presents a clear controlling idea; discusses innovation, challenges, and environmental purpose with solid reference to the article.",
+            "developing": "Mentions the kayak and journey, but controlling idea is broad, vague, or partially unsupported by textual context.",
+            "beginning": "Lacks a clear central idea; relies on disconnected statements or irrelevant generalizations."
+          }
+        },
+        {
+          "name": "Evidence Use",
+          "weight": "25%",
+          "levels": {
+            "exemplary": "Integrates at least three exact source facts (e.g., mycelium/mushroom roots, 26.4 miles, 12 hours, Catalina to San Pedro) accurately without distortion or invented facts.",
+            "proficient": "Includes three accurate details from the text; references the material, journey, and challenge clearly.",
+            "developing": "Includes only one or two source details, or misinterprets numbers/geographical locations.",
+            "beginning": "Provides little to no textual evidence; substitutes personal assumptions or outside facts."
+          }
+        },
+        {
+          "name": "Target Language & Structure",
+          "weight": "20%",
+          "levels": {
+            "exemplary": "Skilfully uses target structures: participial phrases, purpose clauses, contrast with 'although', and cautious reporting language ('believes', 'could spark').",
+            "proficient": "Correctly employs several target structures including cause/effect, concession, and cautious phrasing.",
+            "developing": "Attempts target language patterns with noticeable awkwardness or over-reliance on basic sentence forms.",
+            "beginning": "Demonstrates minimal command of target grammatical patterns; frequent structural fragmentation."
+          }
+        },
+        {
+          "name": "Organization & Flow",
+          "weight": "15%",
+          "levels": {
+            "exemplary": "Demonstrates seamless paragraph cohesion with smooth transitions linking process, challenge, encouragement, and broader environmental significance.",
+            "proficient": "Follows a logical progression from introduction to body evidence and a concluding thought; uses adequate transitions.",
+            "developing": "Shows loose organization; jumps between journey details and environmental claims without smooth links.",
+            "beginning": "Disorganized; thoughts are scattered with no discernible progression or concluding thought."
+          }
+        },
+        {
+          "name": "Accuracy & Mechanics",
+          "weight": "20%",
+          "levels": {
+            "exemplary": "Strictly adheres to 100–140 words; demonstrates high grammatical precision, correct punctuation, and accurate spelling of proper nouns and technical terms.",
+            "proficient": "Within the 100–140 word range; minor errors in mechanics do not impede overall clarity or meaning.",
+            "developing": "Slightly outside word limits (e.g., 85–99 or 141–155 words); frequent minor grammatical errors require teacher re-reading.",
+            "beginning": "Substantially outside length requirements; pervasive mechanical errors obscure meaning."
+          }
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "number": 1,
+        "title": "Article Structure and Informational Focus",
+        "content": "The text is an engaging human-interest news feature from CNN that bridges extreme sport and environmental science. It is structured into four crisp paragraphs: Paragraph 1 delivers the narrative hook and core achievement; Paragraph 2 details the physical journey, route, elapsed time, and whale encounter; Paragraph 3 explains the scientific material (mycelium) and environmental purpose; and Paragraph 4 concludes with an inspiring human quotation."
+      },
+      {
+        "number": 2,
+        "title": "Human-Interest Opening and Public Attention",
+        "content": "The opening sentence uses the idiom 'made headlines' to establish that Sam Shoemaker’s feat captured widespread public notice. Teachers should emphasize that Shoemaker is identified dualistically as 'an artist and scientist,' reflecting how design creativity and biological research converged in this project."
+      },
+      {
+        "number": 3,
+        "title": "Distance and Specific Geographical Route",
+        "content": "The journey spanned approximately 26.4 miles across the open Pacific ocean from Catalina Island to San Pedro, California. This specific open-water channel is notorious for strong ocean swells and winds, explaining why covering 26.4 miles in an experimental craft required 12 full hours."
+      },
+      {
+        "number": 4,
+        "title": "Physical Challenges and Seasickness",
+        "content": "The article highlights that Shoemaker experienced intense seasickness. Teachers should use this detail to demonstrate perseverance: innovation in practice involves physical discomfort and uncertainty, not just conceptual brilliance."
+      },
+      {
+        "number": 5,
+        "title": "The 50-Foot Fin Whale Encounter",
+        "content": "The 50-foot fin whale encounter serves as a pivotal narrative moment. The text explicitly notes that the animal was 'friendly' and that its presence 'helped inspire him to keep going.' Remind students that the whale did not assist mechanically, but psychologically."
+      },
+      {
+        "number": 6,
+        "title": "Mycelium: Definition and Structural Application",
+        "content": "The text provides an accessible parenthetical definition: 'mycelium (the roots of mushrooms)'. Ensure students understand that mycelium forms a dense vegetative web of fungal threads (hyphae) that can bind agricultural biomass into lightweight, rigid shapes."
+      },
+      {
+        "number": 7,
+        "title": "Eco-Friendly Alternatives to Plastic",
+        "content": "Shoemaker's stated purpose is to discover 'eco-friendly alternatives to plastic.' Standard kayaks are fabricated from rotational molded polyethylene or fiberglass, which are petroleum-derived and non-biodegradable. Emphasize that mycelium represents an organic, compostable alternative."
+      },
+      {
+        "number": 8,
+        "title": "Construction Timeline: One Year of Development",
+        "content": "The construction process required an entire year. Teachers should draw attention to this timescale to illustrate that prototyping bio-materials requires patient experimentation, drying, shaping, and waterproofing."
+      },
+      {
+        "number": 9,
+        "title": "Material Trade-offs: Heavier Kayak vs. Sustainability",
+        "content": "The article honestly notes that the mycelium craft is 'heavier than regular ones.' This trade-off is critical for analytical writing: first-generation sustainable materials often have performance drawbacks that require further engineering."
+      },
+      {
+        "number": 10,
+        "title": "Source Claim vs. Verified Environmental Conclusion",
+        "content": "Teach students to distinguish between what the source reports and what is scientifically proven. The text states Shoemaker 'believes this journey could spark more interest,' which represents a hopeful personal belief rather than an independently verified environmental lifecycle analysis."
+      },
+      {
+        "number": 11,
+        "title": "Respectful Discussion of Innovation and Student Inspiration",
+        "content": "The closing quotation ('There’s probably some 19-year-old kid out there...') underscores the democratic spirit of innovation. Shoemaker emphasizes that groundbreaking sustainability experiments do not require massive corporate labs, but passion, curiosity, and hands-on trial."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "A",
+        "phaseNumber": 1,
+        "phaseName": "Opening & Goal",
+        "duration": "5 mins",
+        "durationMinutes": 5,
+        "objective": "Hook student interest with the concept of bio-materials and set clear 90-minute lesson goals.",
+        "actions": "Display lesson title; introduce the concept of paddling a boat made from mushrooms across the ocean; establish lesson objectives.",
+        "teacherActions": "Display lesson title; introduce the concept of paddling a boat made from mushrooms across the ocean; establish lesson objectives.",
+        "scriptEn": "Good morning, class! Today we are exploring a remarkable story of environmental innovation and physical endurance. Imagine paddling across the ocean in a boat grown from mushroom roots! By the end of our 90 minutes, you will analyze the details of this expedition, examine how mycelium works as a plastic alternative, and write a focused, evidence-based explanatory paragraph.",
+        "scriptKo": "좋은 아침입니다, 여러분! 오늘 우리는 환경 혁신과 육체적 인내를 보여주는 놀라운 이야기를 살펴볼 것입니다. 버섯 뿌리로 직접 키워 만든 배를 타고 바다를 건넌다고 상상해 보세요! 오늘 90분 수업이 끝날 때, 여러분은 이 탐험의 세부 내용을 분석하고, 균사체가 어떻게 플라스틱 대체재로 쓰이는지 살펴본 뒤, 탄탄한 근거를 갖춘 설명 단락을 작성하게 될 것입니다.",
+        "script": "Good morning, class! Today we are exploring a remarkable story of environmental innovation and physical endurance...",
+        "teacherTalk": "Good morning, class! Today we are exploring a remarkable story of environmental innovation...",
+        "studentActions": "Listen actively, view the title screen, and prepare notebooks/devices for note-taking.",
+        "misconception": "Students might think the kayak is literally made of soft edible mushrooms like those in a supermarket.",
+        "correctiveFeedback": "Clarify immediately that the kayak is made from mycelium—the tough, fibrous root network of fungi, which is dried and hardened.",
+        "feedback": "Clarify immediately that the kayak is made from mycelium—the tough, fibrous root network of fungi.",
+        "transition": "Let’s start by activating what you already know about kayak materials in our Warm-up questions."
+      },
+      {
+        "phase": "B",
+        "phaseNumber": 2,
+        "phaseName": "Warm-up Discussion",
+        "duration": "10 mins",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding boat materials, environmental friendliness, and motivation behind difficult challenges.",
+        "actions": "Pair students up; display 3 warm-up prompts; monitor discussions; invite 2–3 pairs to share aloud.",
+        "teacherActions": "Pair students up; display 3 warm-up prompts; monitor discussions; invite 2–3 pairs to share aloud.",
+        "scriptEn": "Turn to your partner and discuss our three warm-up questions: What materials do we usually use to build boats? What qualities make a material truly eco-friendly? And why would someone choose a hard, experimental path rather than an easy, conventional one? You have six minutes to share your thoughts.",
+        "scriptKo": "짝과 마주보고 세 가지 워밍업 질문을 이야기해 보세요: 보통 배를 만들 때 어떤 재료를 쓰나요? 어떤 특징이 소재를 진정으로 친환경적으로 만드나요? 그리고 왜 누군가는 쉽고 일반적인 길 대신 힘들고 실험적인 도전을 선택할까요? 6분간 대화를 나눠보세요.",
+        "script": "Turn to your partner and discuss our three warm-up questions...",
+        "teacherTalk": "Turn to your partner and discuss our three warm-up questions...",
+        "studentActions": "Engage in paired dialogue using sentence starters; write brief bullet points in their notes.",
+        "misconception": "Students may equate 'natural' with weak or impractical for water sports.",
+        "correctiveFeedback": "Acknowledge that early prototypes may have drawbacks like extra weight, but emphasize that testing natural fibers is how sustainable technology advances.",
+        "feedback": "Acknowledge that early prototypes may have drawbacks like extra weight, but emphasize how testing advances technology.",
+        "transition": "Now let's examine the essential vocabulary terms that appear in this CNN article."
+      },
+      {
+        "phase": "C",
+        "phaseNumber": 3,
+        "phaseName": "Vocabulary in Context",
+        "duration": "12 mins",
+        "durationMinutes": 12,
+        "objective": "Master 10 target vocabulary items with correct parts of speech, precise meanings, and pronunciation.",
+        "actions": "Pronounce each word clearly; explain definitions and Korean nuances; guide students through contextual sample sentences.",
+        "teacherActions": "Pronounce each word clearly; explain definitions and Korean nuances; guide students through contextual sample sentences.",
+        "scriptEn": "Let's review our ten key vocabulary terms. Notice the difference between the verb 'paddle' and the noun 'paddle', and pay special attention to 'mycelium', which the text defines as the root structure of mushrooms. Repeat after me: headline... paddle... entirely... launch... aim to... seasickness... fin whale... mycelium... eco-friendly... sustainable material.",
+        "scriptKo": "10개의 핵심 어휘를 함께 살펴봅시다. 동사 'paddle'과 명사 'paddle'의 차이에 주목하고, 본문에서 버섯의 뿌리 구조로 정의한 'mycelium'에 각별히 집중해 보세요. 저를 따라 발음해 보세요: headline... paddle... entirely... launch... aim to... seasickness... fin whale... mycelium... eco-friendly... sustainable material.",
+        "script": "Let's review our ten key vocabulary terms...",
+        "teacherTalk": "Let's review our ten key vocabulary terms...",
+        "studentActions": "Choral repeat pronunciation; highlight terms in context; take note of Korean equivalents.",
+        "misconception": "Confusing 'sustainable' with merely 'durable' or 'long-lasting'.",
+        "correctiveFeedback": "Explain that sustainable implies environmental balance and renewability over time, not just physical toughness.",
+        "feedback": "Explain that sustainable implies environmental balance and renewability over time.",
+        "transition": "With our vocabulary tools ready, let's read the locked article text together."
+      },
+      {
+        "phase": "D",
+        "phaseNumber": 4,
+        "phaseName": "First Reading & Gist Comprehension",
+        "duration": "10 mins",
+        "durationMinutes": 10,
+        "objective": "Perform silent reading followed by teacher model read; solve the Main Idea MCQ.",
+        "actions": "Allow 3 minutes of silent reading; read aloud with natural phrasing; direct students to answer the Main Idea question independently.",
+        "teacherActions": "Allow 3 minutes of silent reading; read aloud with natural phrasing; direct students to answer the Main Idea question independently.",
+        "scriptEn": "Please read through all four paragraphs silently first. As you read, track Shoemaker’s journey from Catalina Island to San Pedro. Once you finish, select the best answer for the Main Idea question. Ask yourself: what central message ties the kayak, the 26.4-mile crossing, and the mushroom material together?",
+        "scriptKo": "먼저 4개 단락 전체를 조용히 읽어보세요. 읽으면서 카탈리나 섬에서 샌페드로까지 이어지는 슈메이커의 여정을 머릿속에 그려보세요. 다 읽은 후 메인 아이디어 문제의 정답을 골라보세요. 스스로에게 물어보세요: 카약, 26.4마일의 횡단, 그리고 버섯 소재를 하나로 묶는 핵심 메시지는 무엇인가요?",
+        "script": "Please read through all four paragraphs silently first...",
+        "teacherTalk": "Please read through all four paragraphs silently first...",
+        "studentActions": "Read independently; answer Main Idea MCQ; review automated feedback.",
+        "misconception": "Choosing Option B ('all kayaks should immediately be made from mushrooms') as an over-generalized takeaway.",
+        "correctiveFeedback": "Guide students back to paragraph 3: Shoemaker hopes to 'spark more interest,' not impose an immediate universal replacement.",
+        "feedback": "Guide students back to paragraph 3: Shoemaker hopes to 'spark more interest'.",
+        "transition": "Excellent. Now let's dive deeper into the specific facts and sentences in our Comprehension check."
+      },
+      {
+        "phase": "E",
+        "phaseNumber": 5,
+        "phaseName": "Detailed Evidence Reading & Source Analysis",
+        "duration": "18 mins",
+        "durationMinutes": 18,
+        "objective": "Analyze each of the 6 source sentences in depth; complete the 6 comprehension MCQs and 3 Evidence written responses.",
+        "actions": "Guide sentence-by-sentence analysis using the Detailed Reading Guide; check MCQ responses; monitor written evidence responses.",
+        "teacherActions": "Guide sentence-by-sentence analysis using the Detailed Reading Guide; check MCQ responses; monitor written evidence responses.",
+        "scriptEn": "Now we examine the exact evidence. Sentence 2 gives us the precise numbers: a sunny August morning, 26.4 miles, near Catalina Island, reaching San Pedro. Sentence 3 reveals two contrasting elements: battling 12 hours of seasickness versus being inspired by a 50-foot fin whale. Work through the 6 comprehension questions, and then write your 3 evidence responses using exact textual proof.",
+        "scriptKo": "이제 구체적인 본문 근거를 면밀히 살펴봅시다. 2번 문장은 정확한 수치와 정보를 줍니다: 화창한 8월 아침, 26.4마일, 카탈리나 섬 부근 출발, 샌페드로 도착. 3번 문장은 두 가지 대비되는 요소를 보여줍니다: 12시간 동안 뱃멀미로 고전한 것과 50피트 길이의 참고래를 만나 용기를 얻은 것. 6개의 이해도 문제를 풀고, 본문의 정확한 증거를 활용해 3개의 근거 서술형 답변을 작성해 보세요.",
+        "script": "Now we examine the exact evidence...",
+        "teacherTalk": "Now we examine the exact evidence...",
+        "studentActions": "Complete MCQs 1–6; draft Evidence responses; click 'Check & Compare' and compare against models.",
+        "misconception": "Thinking the whale physically towed the kayak or rescued Shoemaker.",
+        "correctiveFeedback": "Emphasize sentence 3: the whale followed him and 'helped inspire him to keep going' emotionally and mentally.",
+        "feedback": "Emphasize sentence 3: the whale followed him and helped inspire him mentally.",
+        "transition": "Let's turn to the Language Focus to study the sentence patterns that make this reporting so vivid."
+      },
+      {
+        "phase": "F",
+        "phaseNumber": 6,
+        "phaseName": "Language Focus & Grammatical Structures",
+        "duration": "12 mins",
+        "durationMinutes": 12,
+        "objective": "Analyze 10 grammar structures including participial phrases, purpose clauses, contrast with although, and modal caution.",
+        "actions": "Walk through key grammatical patterns on screen; demonstrate how 'created from mycelium' condenses information; contrast source fact vs. interpretation.",
+        "teacherActions": "Walk through key grammatical patterns on screen; demonstrate how 'created from mycelium' condenses information; contrast source fact vs. interpretation.",
+        "scriptEn": "Notice the elegance of Sentence 4: 'This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort...' The participial phrase 'created from mycelium' packs critical material context right between the subject and the verb. Also notice 'could spark' in Sentence 5—it is cautious modal language showing potential, not an exaggerated commercial claim.",
+        "scriptKo": "4번 문장의 명료한 구조에 주목하세요: 'This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort...' 'created from mycelium'이라는 분사구가 주어와 동사 사이에 핵심적인 소재 정보를 압축해 전달합니다. 또한 5번 문장의 'could spark'도 주목해 보세요—과장된 상업적 확신이 아니라 가능성을 나타내는 신중한 조동사 표현입니다.",
+        "script": "Notice the elegance of Sentence 4...",
+        "teacherTalk": "Notice the elegance of Sentence 4...",
+        "studentActions": "Annotate grammar examples; identify participial phrases and modal verbs; practice distinguishing facts from inferences.",
+        "misconception": "Students may treat Shoemaker’s concluding quotation as an established scientific certainty.",
+        "correctiveFeedback": "Point out that 'There’s probably some 19-year-old kid...' represents a motivational sentiment and personal hope, not an empirical statistic.",
+        "feedback": "Point out that the quotation represents motivational sentiment, not an empirical statistic.",
+        "transition": "Now let's apply these sentence patterns in Writing Practice and build toward our Final Paragraph."
+      },
+      {
+        "phase": "G",
+        "phaseNumber": 7,
+        "phaseName": "Writing Practice & Final Paragraph Task",
+        "duration": "18 mins",
+        "durationMinutes": 18,
+        "objective": "Complete 4 targeted writing exercises and produce a 100–140 word evidence-based explanation paragraph.",
+        "actions": "Guide students through the 4 practice drills; display Final Writing prompt and rubric checklist; circulate during independent paragraph writing.",
+        "teacherActions": "Guide students through the 4 practice drills; display Final Writing prompt and rubric checklist; circulate during independent paragraph writing.",
+        "scriptEn": "You are now ready to write your final paragraph. Your task is to explain how Shoemaker’s kayak shows innovation, perseverance, and sustainable thinking. You must stay strictly within 100 to 140 words. Include at least three source facts, describe his challenges, explain the environmental goal, and conclude cautiously. Use our live word counter and run the rule-based writing check before you finish.",
+        "scriptKo": "이제 최종 단락을 작성할 준비가 되었습니다. 여러분의 과제는 슈메이커의 카약이 어떻게 혁신, 인내심, 그리고 지속 가능한 사고를 보여주는지 설명하는 것입니다. 반드시 100자에서 140단어 사이를 지켜야 합니다. 최소 3개의 본문 사실을 담고, 그가 겪은 난관을 묘사하며, 환경적 목적을 설명하고, 신중한 어조로 결론을 맺으세요. 실시간 단어 수 계산기와 글쓰기 점검 기능을 꼭 활용하세요.",
+        "script": "You are now ready to write your final paragraph...",
+        "teacherTalk": "You are now ready to write your final paragraph...",
+        "studentActions": "Complete 4 writing practice tasks; draft final paragraph in text area; check live word count (100–140 words); run rule-based check.",
+        "misconception": "Writing under 100 words or exceeding 140 words by adding outside facts about mushroom cultivation.",
+        "correctiveFeedback": "Check live counter: cut unnecessary filler words if over 140; expand on the whale encounter or heavier boat weight if under 100.",
+        "feedback": "Check live counter and adjust details to fit the strict 100–140 word limit.",
+        "transition": "Let’s complete our Self-Check items and submit your work."
+      },
+      {
+        "phase": "H",
+        "phaseNumber": 8,
+        "phaseName": "Review, Exit Ticket & Submission",
+        "duration": "5 mins",
+        "durationMinutes": 5,
+        "objective": "Complete 6 Self-Check items; submit work to teacher monitor; synthesize key takeaways.",
+        "actions": "Instruct students to verify all 6 checklist items; ensure submission bar is clicked; confirm data arrives in Teacher Submissions Monitor.",
+        "teacherActions": "Instruct students to verify all 6 checklist items; ensure submission bar is clicked; confirm data arrives in Teacher Submissions Monitor.",
+        "scriptEn": "Before you submit, review all six Self-Check boxes. Did you explain mycelium accurately? Did you mention seasickness or the heavier weight? Is your word count between 100 and 140 words? Once verified, enter your student name and code and hit Submit. Outstanding work today exploring this real-world intersection of science, art, and environmental perseverance!",
+        "scriptKo": "제출하기 전에 6가지 자체 점검 항목을 확인하세요. 균사체를 정확하게 설명했나요? 뱃멀미나 무거운 무게 같은 난관을 언급했나요? 단어 수가 100~140단어 사이인가요? 확인이 끝나면 학생 이름과 코드를 입력하고 제출 버튼을 누르세요. 오늘 과학, 예술, 그리고 환경적 인내가 만나는 멋진 이야기를 탐구하느라 정말 수고 많았습니다!",
+        "script": "Before you submit, review all six Self-Check boxes...",
+        "teacherTalk": "Before you submit, review all six Self-Check boxes...",
+        "studentActions": "Check all 6 checkboxes; enter name/code; submit lesson response; view confirmation message.",
+        "misconception": "Submitting without checking the word count or verifying that all evidence items are answered.",
+        "correctiveFeedback": "Remind students that incomplete fields will be flagged on the submission bar.",
+        "feedback": "Remind students that all fields must be complete before final submission.",
+        "transition": "Class dismissed! Great job today."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "optionNumber": 1,
+          "title": "Environmental Innovation Hook",
+          "purpose": "Captures attention by connecting an unusual sports craft to the global plastic pollution challenge.",
+          "englishChunked": "Have you ever seen a kayak / made entirely from mushrooms? / Today, we are learning about an artist and scientist / who paddled 26.4 miles across the Pacific Ocean / to show that mycelium / can be a real, sustainable alternative to plastic.",
+          "directKorean": "여러분은 본 적이 있습니까 / 전적으로 버섯으로 만들어진 카약을? / 오늘, 우리는 한 예술가이자 과학자에 대해 배웁니다 / 태평양을 가로질러 26.4마일을 노 저어 간 / 균사체가 될 수 있음을 보여주기 위해 / 플라스틱에 대한 진짜, 지속 가능한 대안이.",
+          "naturalKorean": "버섯으로만 만들어진 카약을 본 적이 있나요? 오늘 우리는 균사체가 플라스틱을 대체할 실질적이고 지속 가능한 대안이 될 수 있음을 보여주기 위해 태평양 바다 26.4마일을 노 저어 건넌 한 예술가이자 과학자의 이야기를 배울 것입니다."
+        },
+        {
+          "optionNumber": 2,
+          "title": "Adventure and Perseverance Hook",
+          "purpose": "Engages students through the drama of a grueling 12-hour ocean crossing and an unexpected ocean animal encounter.",
+          "englishChunked": "Imagine battling twelve hours of seasickness / in a brown kayak / that took an entire year to grow and build. / Just when the journey felt overwhelming, / a friendly fifty-foot fin whale appeared / to inspire the paddler to keep going.",
+          "directKorean": "상상해 보십시오 / 12시간의 뱃멀미와 싸우는 것을 / 갈색 카약 안에서 / 재배하고 만드는 데 꼬박 1년이 걸린. / 여정이 너무 벅차게 느껴졌을 바로 그때, / 친근한 50피트짜리 참고래 한 마리가 나타났습니다 / 패들러가 계속 나아가도록 격려하기 위해.",
+          "naturalKorean": "재배하고 만드는 데 꼬박 1년이 걸린 갈색 카약을 타고 12시간 동안 뱃멀미와 싸우는 모습을 상상해 보세요. 여정이 너무 힘들게 느껴지던 바로 그때, 친근한 50피트 참고래가 나타나 그가 계속 나아갈 수 있도록 힘을 북돋아 주었습니다."
+        },
+        {
+          "optionNumber": 3,
+          "title": "Student Empowerment and Design Hook",
+          "purpose": "Inspires students by highlighting that innovative sustainable solutions begin with bold ideas that anyone can test.",
+          "englishChunked": "Sam Shoemaker said / there is probably a nineteen-year-old kid out there / who thinks, 'I could do that'— / and they can! / Today, we will examine his journey / to see how creative ideas / can spark genuine environmental change.",
+          "directKorean": "샘 슈메이커는 말했습니다 / 어딘가에 아마 열아홉 살짜리 청소년이 있을 것이라고 / '나도 저걸 할 수 있겠다'라고 생각하는— / 그리고 그들은 실제로 할 수 있습니다! / 오늘, 우리는 그의 여정을 살펴볼 것입니다 / 어떻게 창의적인 아이디어가 / 진정한 환경적 변화를 촉발할 수 있는지 보기 위해.",
+          "naturalKorean": "샘 슈메이커는 '나도 할 수 있겠다'고 생각하는 19세 청소년이 분명 어딘가에 있을 것이며, 그들은 실제로 해낼 수 있다고 말했습니다! 오늘 우리는 창의적인 아이디어가 어떻게 진정한 환경 변화를 이끌어낼 수 있는지 그의 여정을 통해 살펴볼 것입니다."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "questionNumber": 1,
+          "question": "What materials are common for making boats or kayaks?",
+          "likelyResponses": "Students will typically mention wood, plastic, fiberglass, aluminum, or rubber for inflatable rafts.",
+          "followUps": "Ask: 'Which of those materials are petroleum-based plastics, and what happens to them when they are thrown away?'",
+          "usefulLanguage": "fiberglass, molded plastic, lightweight aluminum, carbon fiber, non-biodegradable",
+          "caution": "Do not reveal the mycelium details before reading; keep the focus on standard modern materials.",
+          "purpose": "Establishes a baseline understanding of standard manufacturing materials so students appreciate the contrast with mushrooms."
+        },
+        {
+          "questionNumber": 2,
+          "question": "What might make a material more environmentally friendly?",
+          "likelyResponses": "Students will mention that it comes from plants, biodegrades naturally, doesn't pollute the ocean, or requires less energy to produce.",
+          "followUps": "Ask: 'Can a natural material be strong enough to withstand ocean waves without dissolving?'",
+          "usefulLanguage": "biodegradable, renewable resources, organic matter, carbon footprint, compostable",
+          "caution": "Ensure students realize that being eco-friendly involves both how a material is created and what happens after its lifespan.",
+          "purpose": "Pre-teaches the criteria for sustainable materials and prepares students to evaluate mycelium thoughtfully."
+        },
+        {
+          "questionNumber": 3,
+          "question": "Why might someone try an unusual idea even when it is difficult?",
+          "likelyResponses": "Students might say to become famous, to solve a hard problem, to test limits, or to inspire other people to think differently.",
+          "followUps": "Ask: 'When someone tries something completely new, is it okay if their prototype has flaws like extra weight?'",
+          "usefulLanguage": "pioneer, prototype, raise awareness, challenge the status quo, inspire others",
+          "caution": "Highlight that trial and error is fundamental to innovation; failure or imperfection is part of the process.",
+          "purpose": "Connects the human-interest angle to Shoemaker’s perseverance and his motivation to inspire the next generation."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "Sam Shoemaker, an artist and scientist, made headlines when he paddled a kayak made entirely from mushrooms across the ocean!",
+          "chunkReading": "Sam Shoemaker, / an artist and scientist, / made headlines / when he paddled a kayak / made entirely from mushrooms / across the ocean!",
+          "directKorean": "샘 슈메이커는, / 예술가이자 과학자인데, / 대대적으로 보도되었다 / 그가 카약을 저었을 때 / 전적으로 버섯으로 만들어진 / 바다를 가로질러!",
+          "naturalKorean": "예술가이자 과학자인 샘 슈메이커는 전적으로 버섯으로만 만들어진 카약을 타고 바다를 건너 언론의 대대적인 주목을 받았습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "an artist and scientist",
+              "meaning": "예술가이자 과학자",
+              "use": "appositive noun phrase describing profession",
+              "example": "Leonardo da Vinci was an artist and scientist of great renown."
+            },
+            {
+              "chunk": "made headlines",
+              "meaning": "대대적으로 보도되다, 주목을 받다",
+              "use": "idiomatic expression for receiving major media attention",
+              "example": "The breakthrough solar battery made headlines worldwide."
+            },
+            {
+              "chunk": "made entirely from",
+              "meaning": "전적으로 ~로 만들어진",
+              "use": "passive participial phrase denoting exclusive material composition",
+              "example": "The eco-friendly chair was made entirely from compressed cardboard."
+            },
+            {
+              "chunk": "across the ocean",
+              "meaning": "바다를 가로질러",
+              "use": "spatial prepositional phrase indicating expansive journey",
+              "example": "Early explorers navigated fragile wooden ships across the ocean."
+            }
+          ],
+          "mustKnowGrammar": "Appositive noun phrase 'an artist and scientist' set off by commas modifying the subject 'Sam Shoemaker'; past tense matrix clause 'made headlines'; temporal adverbial clause introduced by 'when'; passive past participle phrase 'made entirely from mushrooms' modifying 'a kayak'.",
+          "feynmanExplanation": "Think about this opening sentence as a giant headline itself. / It introduces a real person who combines art and science. / He did something nobody expected: / he built a boat out of mushrooms / and paddled it across open water.",
+          "feynmanExplanationKo": "이 첫 문장을 그 자체로 거대한 신문 헤드라인이라고 생각해 보세요. / 예술과 과학을 결합한 한 실제 인물을 소개합니다. / 그는 아무도 예상치 못한 일을 해냈습니다. / 바로 버섯으로 배를 만들어 / 거친 바다를 가로질러 노를 저어 간 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how the writer immediately combines two different identities: 'artist' and 'scientist'. Why do you think both matter here?",
+              "korean": "작가가 '예술가'와 '과학자'라는 두 가지 정체성을 곧바로 결합한 점에 주목하세요. 왜 둘 다 중요할까요?"
+            },
+            {
+              "english": "What does 'made entirely from' tell us about the kayak? It means 100% mushroom material—no plastic frame hidden inside.",
+              "korean": "'made entirely from'은 카약에 대해 무엇을 알려주나요? 내부에 숨겨진 플라스틱 뼈대 없이 100% 버섯 소재라는 뜻입니다."
+            },
+            {
+              "english": "Check: What action caused Shoemaker to make headlines? Paddling a mushroom kayak across the ocean.",
+              "korean": "확인: 슈메이커가 대대적인 보도의 주인공이 된 계기는 무엇인가요? 버섯 카약을 타고 바다를 건넌 일입니다."
+            },
+            {
+              "english": "Correction: Be careful not to confuse 'made headlines' (became famous news) with writing a newspaper article himself.",
+              "korean": "교정: 'made headlines'(뉴스의 주요 화제가 되다)를 그가 직접 신문 기사를 썼다는 뜻으로 혼동하지 않도록 주의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "On a sunny August morning, he launched his unique brown kayak into the water near Catalina Island, aiming to cover about 26.4 miles to reach San Pedro, California.",
+          "chunkReading": "On a sunny August morning, / he launched his unique brown kayak / into the water / near Catalina Island, / aiming to cover about 26.4 miles / to reach San Pedro, California.",
+          "directKorean": "화창한 8월의 어느 날 아침, / 그는 자신의 독특한 갈색 카약을 띄웠다 / 물속으로 / 카탈리나 섬 부근에서, / 약 26.4마일을 주파하는 것을 목표로 하여 / 캘리포니아주 샌페드로에 도달하기 위해.",
+          "naturalKorean": "화창한 8월의 어느 날 아침, 그는 캘리포니아주 샌페드로에 도달하기 위해 약 26.4마일을 주파할 목표로 카탈리나 섬 부근 바다에 자신의 독특한 갈색 카약을 띄웠습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "On a sunny August morning",
+              "meaning": "화창한 8월의 어느 날 아침에",
+              "use": "temporal prepositional setting phrase",
+              "example": "On a sunny August morning, the expedition team gathered at the harbor."
+            },
+            {
+              "chunk": "launched into the water",
+              "meaning": "물에 띄우다, 출항시키다",
+              "use": "verb + prepositional phrase for watercraft deployment",
+              "example": "The crew carefully launched the lightweight canoe into the water."
+            },
+            {
+              "chunk": "aiming to cover",
+              "meaning": "~을 주파하는 것을 목표로 하며",
+              "use": "present participial phrase expressing intentional purpose and distance",
+              "example": "The marathon runner trained daily, aiming to cover forty miles each week."
+            },
+            {
+              "chunk": "to reach",
+              "meaning": "~에 도달하기 위해",
+              "use": "infinitive of purpose designating final destination",
+              "example": "They drove through the night to reach the mountain base camp by sunrise."
+            }
+          ],
+          "mustKnowGrammar": "Introductory prepositional phrase of time ('On a sunny August morning'); main clause with transitive verb 'launched'; coordinate prepositional location phrases ('into the water near Catalina Island'); trailing participial clause of purpose ('aiming to cover...') embedding an infinitive of result/destination ('to reach San Pedro, California').",
+          "feynmanExplanation": "Now the story gives us the exact setting and map coordinates. / It tells us when: a sunny August morning. / It tells us where: starting near Catalina Island. / And it gives the exact mission: / paddling 26.4 miles across the channel to San Pedro.",
+          "feynmanExplanationKo": "이제 이야기는 구체적인 배경과 지도상의 위치를 알려줍니다. / 언제인지 알려줍니다: 화창한 8월 아침. / 어디서 시작하는지 알려줍니다: 카탈리나 섬 부근. / 그리고 정확한 임무를 제시합니다: / 바다 해협 26.4마일을 저어 샌페드로까지 가는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Point out the color word 'brown'. Why is the kayak brown? Because it is made of natural, unbleached fungal mycelium.",
+              "korean": "'brown'(갈색)이라는 색상 단어에 주목하세요. 카약이 왜 갈색일까요? 표백하지 않은 천연 균사체로 만들어졌기 때문입니다."
+            },
+            {
+              "english": "Look at the structure: 'aiming to cover... to reach...'. What does this tell us? It shows both the planned distance and the destination.",
+              "korean": "'aiming to cover... to reach...' 구조를 보세요. 이것이 무엇을 말해주나요? 계획된 주파 거리와 최종 목적지를 동시에 보여줍니다."
+            },
+            {
+              "english": "Check: Where was the starting point and where was the finish line? Started near Catalina Island; aimed for San Pedro, California.",
+              "korean": "확인: 출발지와 목적지는 어디였나요? 카탈리나 섬 부근에서 출발해 캘리포니아주 샌페드로를 목표로 했습니다."
+            },
+            {
+              "english": "Correction: Notice the distance is 'about 26.4 miles', not 12 miles or 50 miles.",
+              "korean": "교정: 거리가 12마일이나 50마일이 아니라 '약 26.4마일'이라는 점을 정확히 짚고 넘어가세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "After 12 hours and battling seasickness, he was excited to find himself followed by a friendly 50-foot fin whale, which helped inspire him to keep going.",
+          "chunkReading": "After 12 hours / and battling seasickness, / he was excited / to find himself followed / by a friendly 50-foot fin whale, / which helped inspire him / to keep going.",
+          "directKorean": "12시간이 지나고 / 뱃멀미와 싸운 끝에, / 그는 무척 흥분했다 / 자신이 뒤따라와지고 있음을 발견하고 / 친근한 50피트짜리 참고래 한 마리에 의해, / 그런데 그것이 그에게 영감을 주는데 도움을 주었다 / 계속 나아가도록.",
+          "naturalKorean": "12시간 동안 뱃멀미와 힘겹게 싸운 후, 그는 친근한 50피트 크기의 참고래 한 마리가 자신을 뒤따라오는 것을 보고 크게 감격했으며, 이는 그가 포기하지 않고 계속 나아갈 수 있는 큰 힘이 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "battling seasickness",
+              "meaning": "뱃멀미와 싸우다, 뱃멀미로 고전하다",
+              "use": "participle phrase describing grueling physical struggle at sea",
+              "example": "Several inexperienced sailors spent the entire voyage battling seasickness."
+            },
+            {
+              "chunk": "find himself followed by",
+              "meaning": "자신이 ~에게 뒤따라와지고 있음을 발견하다",
+              "use": "reflexive perception construction with passive participle",
+              "example": "Walking through the quiet forest, she was startled to find herself followed by a deer."
+            },
+            {
+              "chunk": "50-foot fin whale",
+              "meaning": "50피트(약 15m) 크기의 참고래",
+              "use": "compound measurement adjective before marine animal noun",
+              "example": "The research boat drifted silently alongside a magnificent 50-foot fin whale."
+            },
+            {
+              "chunk": "helped inspire him to keep going",
+              "meaning": "그가 계속 나아갈 수 있도록 힘을 북돋아 주었다",
+              "use": "'help + verb + object + infinitive' encouragement pattern",
+              "example": "The teacher's warm words helped inspire her to keep studying despite the difficulties."
+            }
+          ],
+          "mustKnowGrammar": "Compound prepositional time/condition phrase ('After 12 hours and battling seasickness'); predicate adjective 'excited' taking infinitive of emotion cause ('to find himself followed...'); passive participle 'followed' acting on reflexive pronoun 'himself'; non-restrictive relative clause ', which helped inspire him to keep going' with antecedent being the whale encounter.",
+          "feynmanExplanation": "Imagine you have been paddling for half a day straight. / Your stomach is sick from the rolling waves, and your arms are exhausted. / Then, right next to your boat, / a friendly giant whale appears! / That magical moment gave him the energy to finish.",
+          "feynmanExplanationKo": "반나절 내내 쉬지 않고 노를 젓고 있다고 상상해 보세요. / 파도의 출렁임에 속은 메스껍고, 팔은 녹초가 되었습니다. / 바로 그때, 보트 바로 옆에 / 거대하고 친근한 고래 한 마리가 나타납니다! / 그 마법 같은 순간이 그에게 끝까지 완주할 에너지를 주었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the contrast between the first half and the second half of the sentence: physical misery ('battling seasickness') versus wonder and joy ('excited to find...').",
+              "korean": "문장 전반부와 후반부의 대비를 살펴보세요: 육체적 고통('뱃멀미와 싸움')과 경이로움 및 기쁨('발견하고 흥분함')이 강한 대조를 이룹니다."
+            },
+            {
+              "english": "Look at the grammatical pattern: 'which helped inspire him to keep going'. What does 'which' refer to? The whole amazing experience of being followed by the whale.",
+              "korean": "'which helped inspire him to keep going'이라는 문법 패턴을 보세요. 'which'는 무엇을 가리키나요? 고래가 뒤따라온 그 놀라운 경험 전체를 가리킵니다."
+            },
+            {
+              "english": "Check: How long had he been paddling when this happened? 12 hours.",
+              "korean": "확인: 이런 일이 일어났을 때 그는 얼마 동안 노를 젓고 있었나요? 12시간입니다."
+            },
+            {
+              "english": "Correction: Make sure students know the whale didn't pull the kayak; it inspired him mentally to keep paddling himself.",
+              "korean": "교정: 고래가 카약을 물리적으로 끌어준 것이 아니라, 그가 스스로 계속 노를 저을 수 있도록 정신적으로 용기를 북돋아 주었다는 점을 분명히 하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "This special kayak, created from mycelium (the roots of mushrooms), is part of Shoemaker’s effort to discover eco-friendly alternatives to plastic.",
+          "chunkReading": "This special kayak, / created from mycelium / (the roots of mushrooms), / is part of Shoemaker’s effort / to discover eco-friendly alternatives / to plastic.",
+          "directKorean": "이 특별한 카약은, / 균사체로 만들어진 / (버섯의 뿌리인), / 슈메이커의 노력의 일환이다 / 친환경적인 대안들을 발견하기 위한 / 플라스틱에 대한.",
+          "naturalKorean": "버섯의 뿌리 구조인 균사체로 제작된 이 특별한 카약은 플라스틱을 대체할 친환경적인 소재를 찾고자 하는 슈메이커의 연구 노력의 일환입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "created from mycelium",
+              "meaning": "균사체로 만들어진",
+              "use": "participial phrase identifying biological material component",
+              "example": "The soundproof wall panels were created from mycelium and hemp fibers."
+            },
+            {
+              "chunk": "the roots of mushrooms",
+              "meaning": "버섯의 뿌리",
+              "use": "parenthetical explanatory definition clarifying technical scientific term",
+              "example": "Mycelium, the roots of mushrooms, forms vast underground biological communication webs."
+            },
+            {
+              "chunk": "part of Shoemaker's effort",
+              "meaning": "슈메이커의 노력의 일환",
+              "use": "noun phrase framing individual project within larger mission",
+              "example": "The clean-up drive was part of the community's effort to restore the riverbank."
+            },
+            {
+              "chunk": "eco-friendly alternatives to plastic",
+              "meaning": "플라스틱에 대한 친환경적 대안",
+              "use": "noun phrase addressing environmental material substitution",
+              "example": "Companies are investing heavily in eco-friendly alternatives to single-use plastic."
+            }
+          ],
+          "mustKnowGrammar": "Subject 'This special kayak' separated from copula verb 'is' by a non-restrictive past participial phrase 'created from mycelium' containing an appositive parenthetical gloss '(the roots of mushrooms)'; predicate noun phrase 'part of Shoemaker's effort' complemented by an infinitive phrase of purpose 'to discover eco-friendly alternatives to plastic'.",
+          "feynmanExplanation": "Here is the big scientific idea of the entire article. / What is the kayak actually made of? Mycelium. / The article explains that mycelium is simply the root system of mushrooms. / Why did he build it? / To prove we can replace dirty plastics with living, growing materials.",
+          "feynmanExplanationKo": "여기에 이 글 전체의 핵심 과학적 개념이 담겨 있습니다. / 카약은 실제로 무엇으로 만들어졌을까요? 균사체입니다. / 본문은 균사체가 버섯의 뿌리 구조라고 알기 쉽게 설명합니다. / 그는 왜 이것을 만들었을까요? / 오염을 일으키는 플라스틱을 살아있는 천연 생장 소재로 대체할 수 있음을 증명하기 위해서입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why did the author put '(the roots of mushrooms)' in parentheses? To define the scientific term 'mycelium' immediately for everyday readers.",
+              "korean": "작가는 왜 '(the roots of mushrooms)'를 괄호 안에 넣었을까요? 일반 독자들을 위해 '균사체(mycelium)'라는 과학 용어를 즉시 알기 쉽게 풀이해주기 위해서입니다."
+            },
+            {
+              "english": "Connect this sentence to real-world science: plastic lasts for hundreds of years in the ocean, but mushroom roots can decompose naturally.",
+              "korean": "이 문장을 실제 과학과 연결해 보세요: 플라스틱은 바다에서 수백 년 동안 썩지 않지만, 버섯 뿌리는 자연 분해될 수 있습니다."
+            },
+            {
+              "english": "Check: What environmental problem is Shoemaker trying to address? Finding alternatives to non-biodegradable plastic.",
+              "korean": "확인: 슈메이커가 해결하고자 하는 환경 문제는 무엇인가요? 분해되지 않는 플라스틱에 대한 대안을 찾는 것입니다."
+            },
+            {
+              "english": "Correction: Notice the preposition: 'alternatives TO plastic', not 'alternatives OF plastic'.",
+              "korean": "교정: 전치사 쓰임에 주의하세요: 'alternatives of'가 아니라 '~에 대한 대안'을 뜻하는 'alternatives to plastic'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Although it took a year to make his kayak and it’s heavier than regular ones, he believes this journey could spark more interest in using mushrooms as a sustainable material.",
+          "chunkReading": "Although it took a year / to make his kayak / and it’s heavier than regular ones, / he believes / this journey could spark more interest / in using mushrooms / as a sustainable material.",
+          "directKorean": "비록 1년이 걸렸고 / 그의 카약을 만드는 데 / 일반적인 카약들보다 더 무겁지만, / 그는 믿는다 / 이 여정이 더 많은 관심을 촉발할 수 있다고 / 버섯을 사용하는 것에 / 지속 가능한 소재로서.",
+          "naturalKorean": "비록 카약을 만드는 데 1년이나 걸렸고 일반 카약보다 더 무겁기는 하지만, 그는 이번 여정이 버섯을 지속 가능한 소재로 활용하는 데 더 많은 관심을 불러일으킬 수 있을 것이라 믿고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Although it took a year",
+              "meaning": "비록 1년이 걸렸지만",
+              "use": "subordinate clause of concession acknowledging time investment",
+              "example": "Although it took a year to engineer the solar prototype, the test was a success."
+            },
+            {
+              "chunk": "heavier than regular ones",
+              "meaning": "일반적인 것들보다 더 무거운",
+              "use": "comparative adjective phrase using pronoun substitution 'ones'",
+              "example": "The reinforced boots are slightly heavier than regular ones, but offer better protection."
+            },
+            {
+              "chunk": "he believes this journey could spark",
+              "meaning": "그는 이 여정이 ~을 촉발할 수 있다고 믿는다",
+              "use": "reporting verb + tentative modal clause indicating potential impact",
+              "example": "The scientist believes the discovery could spark new treatments for coral bleaching."
+            },
+            {
+              "chunk": "as a sustainable material",
+              "meaning": "지속 가능한 소재로서",
+              "use": "prepositional role phrase emphasizing ecological suitability",
+              "example": "Many modern furniture designers are choosing cork as a sustainable material."
+            }
+          ],
+          "mustKnowGrammar": "Complex sentence introduced by a concessive adverbial clause ('Although it took a year... and it’s heavier than regular ones'); dummy pronoun 'it' in time-taking construction ('took a year to make'); comparative adjective 'heavier than' with pronoun 'ones' replacing 'kayaks'; matrix clause 'he believes' governing an indirect noun clause with tentative modal 'could spark' and prepositional gerund complement 'in using mushrooms as a sustainable material'.",
+          "feynmanExplanation": "Good science is honest about drawbacks. / The mushroom boat had two big problems: / it took an entire year to make, / and it was heavier than normal fiberglass boats. / But Shoemaker believes the big success / is inspiring people to see mushrooms as future building materials.",
+          "feynmanExplanationKo": "훌륭한 과학은 단점에 대해서도 솔직합니다. / 버섯 보트에는 두 가지 큰 문제가 있었습니다: / 제작하는 데 꼬박 1년이 걸렸고, / 일반 유리섬유 보트보다 무거웠다는 점입니다. / 하지만 슈메이커는 사람들에게 버섯이 미래의 지속 가능한 건축 소재가 될 수 있음을 보여준 것이 가장 큰 성공이라고 믿습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the concession word 'Although'. What two challenges does it introduce? The long construction time (one year) and the heavier weight.",
+              "korean": "양보를 나타내는 접속사 'Although'에 주목하세요. 어떤 두 가지 난관을 소개하나요? 1년이라는 긴 제작 시간과 더 무거운 무게입니다."
+            },
+            {
+              "english": "Look at the modal verb 'could spark'. Why not 'will spark'? Because he is expressing a hopeful potential outcome, not an absolute guarantee.",
+              "korean": "조동사 'could spark'를 보세요. 왜 'will spark'가 아닐까요? 절대적인 확신이 아니라 희망적인 가능성을 나타내기 때문입니다."
+            },
+            {
+              "english": "Check: What does the pronoun 'ones' stand for in 'regular ones'? Regular kayaks.",
+              "korean": "확인: 'regular ones'에서 대명사 'ones'는 무엇을 대신하나요? 일반적인 카약들(kayaks)을 가리킵니다."
+            },
+            {
+              "english": "Correction: Do not omit 'than' when comparing: 'heavier THAN regular ones'.",
+              "korean": "교정: 비교급을 쓸 때 'than'을 빠뜨리지 않도록 주의하세요: 'heavier than regular ones'."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "As he said, “There’s probably some 19-year-old kid out there who thinks ‘I could do that,’ and they can!”",
+          "chunkReading": "As he said, / “There’s probably / some 19-year-old kid out there / who thinks / ‘I could do that,’ / and they can!”",
+          "directKorean": "그가 말했듯이, / \"아마도 있을 것입니다 / 어딘가에 어떤 19세 청소년이 / 생각하는 / '나도 저것을 할 수 있겠다'라고, / 그리고 그들은 실제로 할 수 있습니다!\"",
+          "naturalKorean": "그가 말했듯이, “어딘가에 ‘나도 저걸 할 수 있겠다’고 생각하는 19세 청소년이 아마 있을 것이며, 그들은 정말로 해낼 수 있습니다!”",
+          "mustKnowChunks": [
+            {
+              "chunk": "As he said",
+              "meaning": "그가 말했듯이",
+              "use": "prepositional reporting clause introducing authoritative direct quotation",
+              "example": "As the lead engineer said, safety must always come before speed."
+            },
+            {
+              "chunk": "There’s probably some... out there",
+              "meaning": "어딘가에 아마 ~가 있을 것이다",
+              "use": "existential construction expressing confident probability",
+              "example": "There's probably another solution out there that we haven't discovered yet."
+            },
+            {
+              "chunk": "19-year-old kid",
+              "meaning": "19세 청소년",
+              "use": "hyphenated compound age modifier before noun",
+              "example": "A talented 19-year-old programmer designed the award-winning mobile app."
+            },
+            {
+              "chunk": "and they can!",
+              "meaning": "그리고 그들은 실제로 해낼 수 있습니다!",
+              "use": "elliptical modal affirmation emphasizing empowerment",
+              "example": "People doubted the young mountain climbers, but they proved they can!"
+            }
+          ],
+          "mustKnowGrammar": "Parenthetical reporting clause 'As he said' introducing direct quoted speech; existential 'There’s' with probability adverb 'probably'; restrictive relative clause 'who thinks ‘I could do that,’' modifying 'some 19-year-old kid'; nested quotation with double outer quotes (“...”) and single inner quotes (‘...’); coordinating conjunction 'and' joining elliptical modal clause 'they can!' where verb phrase 'do that' is elided.",
+          "feynmanExplanation": "This final sentence ends the article on an inspiring, human note. / Shoemaker is speaking directly to the next generation. / He hopes a young person sees his crazy mushroom boat / and realizes: 'Hey, I can build something creative too!' / It turns one man's journey into an open invitation for everyone.",
+          "feynmanExplanationKo": "이 마지막 문장은 글 전체를 감동적이고 인간미 넘치는 어조로 마무리합니다. / 슈메이커는 다음 세대 청소년들에게 직접 말을 건네고 있습니다. / 그는 젊은이들이 자신의 기발한 버섯 보트를 보고 / '나도 창의적인 무언가를 만들 수 있겠어!'라고 깨닫기를 바랍니다. / 한 사람의 여정을 모두를 향한 열린 초대장으로 바꾸어 놓는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look carefully at the quotation marks: double quotes on the outside for Shoemaker’s words, and single quotes on the inside for the kid’s thoughts: ‘I could do that,’.",
+              "korean": "따옴표 사용을 세심하게 살펴보세요: 슈메이커의 말 전체에는 바깥쪽 큰따옴표(\"...\")를, 그 청소년의 생각에는 안쪽 작은따옴표('...')를 겹쳐 썼습니다."
+            },
+            {
+              "english": "Notice the singular 'they': 'some 19-year-old kid... and THEY can!'. English often uses 'they' as a gender-neutral singular pronoun for an unspecified person.",
+              "korean": "단수 명사를 받는 'they'의 쓰임에 주목하세요: 'some 19-year-old kid... and they can!'. 현대 영어에서는 성별이 특정되지 않은 사람을 가리킬 때 단수 'they'를 널리 사용합니다."
+            },
+            {
+              "english": "Check: What is the emotional purpose of this closing quote? To inspire young people to believe they can create innovative solutions too.",
+              "korean": "확인: 이 마무리 인용구의 정서적 목적은 무엇인가요? 젊은이들이 자신도 혁신적인 해결책을 만들어낼 수 있다는 자신감을 갖도록 용기를 북돋우는 것입니다."
+            },
+            {
+              "english": "Correction: Preserve the exact punctuation: comma inside the quotation mark before the closing quote.",
+              "korean": "교정: 정확한 구두점을 지켜주세요: 안쪽 인용구가 끝날 때 쉼표가 작은따옴표 안쪽에 위치합니다(‘I could do that,’)."
+            }
+          ]
+        }
+      ],
+      "sourceLayoutNote": {
+        "title": "Source Layout, Article Structure & Visual Emphasis",
+        "description": "The source material is an informational human-interest and environmental feature transcribed from a single teacher-provided classroom image with visible source attribution 'Source: CNN'. It consists of a single title ('A Kayak Built from Mushrooms Crosses the Ocean!'), followed by exactly four ordered prose paragraphs containing six complete grammatical sentences, and concluding with a visible source label. The image visibly emphasizes ten key phrases in heavier type: 'Sam Shoemaker', 'paddled a kayak made entirely from mushrooms across the ocean!', 'aiming to cover about 26.4 miles', '50-foot fin whale', 'helped inspire him to keep going.', 'special kayak', 'mycelium', 'eco-friendly alternatives to plastic', 'took a year to make his kayak', and 'sustainable material'. All paragraph boundaries, numerical data (26.4 miles, 12 hours, 50-foot, 19-year-old), punctuation, and nested quotation marks are preserved with strict original fidelity."
+      },
+      "finalWritingSupport": {
+        "sourceVocabulary": [
+          "mycelium (mushroom roots)",
+          "eco-friendly alternatives",
+          "sustainable material",
+          "Catalina Island to San Pedro",
+          "26.4 miles / 12 hours",
+          "50-foot fin whale",
+          "battling seasickness",
+          "heavier than regular ones",
+          "spark more interest",
+          "artist and scientist"
+        ],
+        "processPhrases": [
+          "created entirely from mycelium",
+          "took an entire year to make",
+          "launched into the water near Catalina Island",
+          "aiming to cover 26.4 miles"
+        ],
+        "challengePhrases": [
+          "battling seasickness during the crossing",
+          "heavier than regular commercial kayaks",
+          "endured twelve hours of open ocean paddling",
+          "demanding physical and technical hurdles"
+        ],
+        "causeEffectPhrases": [
+          "which helped inspire him to keep going",
+          "part of an effort to discover eco-friendly alternatives",
+          "in order to demonstrate the potential of fungi",
+          "could spark more interest in sustainable materials"
+        ],
+        "cautiousPhrases": [
+          "according to the article",
+          "Shoemaker believes this journey could spark",
+          "demonstrates the possibility of",
+          "encourages others to explore"
+        ],
+        "paragraphOutline": {
+          "topicSentence": "State that Sam Shoemaker’s ocean crossing in a mushroom kayak exemplifies innovation, endurance, and practical interest in sustainable materials.",
+          "evidenceProcess": "Cite the specific material (mycelium, the roots of mushrooms) and the one-year construction time aimed at replacing petroleum-based plastics.",
+          "evidenceJourney": "Detail the 26.4-mile voyage from Catalina Island to San Pedro and the 12-hour duration.",
+          "evidenceChallenge": "Describe how he battled seasickness and paddled a heavier-than-normal craft until inspired by a friendly 50-foot fin whale.",
+          "concludingThought": "Conclude cautiously by noting Shoemaker's belief that his journey can inspire young innovators to explore sustainable alternatives."
+        },
+        "sentenceStarters": [
+          "Sam Shoemaker’s groundbreaking expedition highlights how creative design can advance...",
+          "According to the article, the artist and scientist spent a full year growing...",
+          "Covering an impressive 26.4 miles across the open ocean, the journey proved...",
+          "Although he struggled with intense seasickness and a heavier craft, a friendly...",
+          "Ultimately, Shoemaker believes that completing this crossing could spark..."
+        ],
+        "koreanEslErrors": [
+          {
+            "error": "Shoemaker paddled a kayak made by mushroom.",
+            "correction": "Shoemaker paddled a kayak made from mushrooms (or created from mycelium).",
+            "explanation": "When describing materials that undergo a process to form an object, use 'made from' or 'created from', not 'made by' (which indicates the person who made it)."
+          },
+          {
+            "error": "The kayak was more heavy than regular one.",
+            "correction": "The kayak was heavier than regular ones.",
+            "explanation": "'Heavy' is a two-syllable adjective ending in -y, so its comparative is 'heavier' (not 'more heavy'), and 'ones' must be plural to replace 'kayaks'."
+          },
+          {
+            "error": "The journey will definitely make all boats use mushrooms tomorrow.",
+            "correction": "Shoemaker believes the journey could spark more interest in using mushrooms as a sustainable material.",
+            "explanation": "Avoid exaggerated, definitive claims ('will definitely make all boats...'). Use cautious, source-accurate language like 'believes' and 'could spark interest'."
+          },
+          {
+            "error": "A 50-feet whale followed him and pulled his boat.",
+            "correction": "A 50-foot fin whale followed him and inspired him to keep going.",
+            "explanation": "When a measurement acts as an adjective before a noun, use the singular form '50-foot' (not '50-feet'), and stick strictly to the text: the whale inspired him, not towed him."
+          }
+        ],
+        "g1Scaffold": "Provide G1 students with a structured sentence-by-sentence frame with fill-in prompts for the three source details, one challenge, and the concluding thought.",
+        "g2Extension": "Challenge G2 students to embed complex participial phrases ('Having spent a full year crafting...') and contrastive concession clauses ('While the prototype proved heavier...') while strictly maintaining the 100–140 word constraint.",
+        "correctionPriorities": [
+          "Priority 1: Source fidelity—ensure exact facts (mycelium, 26.4 miles, 12 hours, seasickness, whale) with zero invented claims.",
+          "Priority 2: Word count compliance—strictly between 100 and 140 words.",
+          "Priority 3: Cautious academic tone—use 'believes' and 'could spark' rather than sweeping overstatements.",
+          "Priority 4: Target grammar—effective use of participial phrases, concession, and purpose structures."
+        ]
+      }
+    }
+  }
+}
