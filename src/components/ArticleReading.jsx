@@ -42,6 +42,7 @@ export default function ArticleReading({ data }) {
               {page.sections?.map((section, sIdx) => (
                 <div key={sIdx} className="article__section">
                   {section.heading && <h3 className="article__heading">{section.heading}</h3>}
+                  {section.subheading && <h4 className="article__subheading">{section.subheading}</h4>}
                   {section.intro && <p className="article__paragraph">{section.intro}</p>}
                   {section.bullets && (
                     <ul className="article__list">
@@ -91,6 +92,7 @@ export default function ArticleReading({ data }) {
           {data.sections.map((section, sIdx) => (
             <div key={sIdx} className="article__section">
               {section.heading && <h3 className="article__heading">{section.heading}</h3>}
+              {section.subheading && <h4 className="article__subheading">{section.subheading}</h4>}
               {section.paragraphs?.map((p, pIdx) => (
                 <p key={pIdx} className="article__paragraph">{p}</p>
               ))}

@@ -14,7 +14,7 @@ export default function SelfCheck({ data, checked, onToggle }) {
                 checked={checked[index] ?? false}
                 onChange={() => onToggle(index)}
               />
-              <label htmlFor={id}>{item}</label>
+              <label htmlFor={id}>{typeof item === 'object' && item !== null ? item.text : item}</label>
             </li>
           );
         })}

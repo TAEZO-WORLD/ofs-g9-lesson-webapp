@@ -1,6 +1,13 @@
 {
-  "latest": "2026-10-20-mushroom-kayak-ocean",
+  "latest": "2026-10-27-mushrooms-beyond-pizza",
   "lessons": [
+    {
+      "slug": "2026-10-27-mushrooms-beyond-pizza",
+      "title": "Mushrooms: Not Just for Pizza Anymore!",
+      "ofsUnit": "Unit 3 — Science, Innovation & Sustainability",
+      "textType": "Informational Science and Design Feature / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-27"
+    },
     {
       "slug": "2026-10-20-mushroom-kayak-ocean",
       "title": "A Kayak Built from Mushrooms Crosses the Ocean!",

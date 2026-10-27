@@ -1,0 +1,1975 @@
+{
+  "lessonTitle": "Mushrooms: Not Just for Pizza Anymore!",
+  "ofsUnit": "Unit 3 — Science, Innovation & Sustainability",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational Science and Design Feature",
+  "writingType": "Evidence-Based Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students explain what mushrooms are made of, identify the source’s claims about mushroom benefits, describe how mycelium can be used in furniture and packaging, and write an evidence-based explanation about mushrooms as a material and resource.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three warm-up questions with a partner or write your thoughts. Draw upon what you know from daily life, cooking, and natural materials.",
+    "questions": [
+      "What do you already know about mushrooms?",
+      "What products, besides food, might be made from natural materials?",
+      "Why might people want materials that can compost or return to soil?"
+    ],
+    "sentenceStarters": [
+      "What I already know about mushrooms is that...",
+      "Besides food, natural materials can be used to make products such as...",
+      "People might want compostable materials because..."
+    ]
+  },
+  "article": {
+    "title": "Mushrooms: Not Just for Pizza Anymore!",
+    "sourceNote": "Original text and visual labels transcribed from three teacher-provided classroom images. No publication date, article URL or publication credit is visible in the images.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "pageLabel": "Image 1 — What Are Mushrooms Made Of?",
+        "title": "Mushrooms: Not Just for Pizza Anymore!",
+        "paragraphs": [
+          "You might know mushrooms as the squishy things on top of pizza. But did you know they’re not plants — and they can be used to make furniture, clothes, and even building bricks? Mushrooms are part of a whole hidden world under our feet and we’re just starting to discover how powerful they really are!"
+        ],
+        "sections": [
+          {
+            "heading": "What Are Mushrooms Made Of?",
+            "paragraphs": [
+              "Mushrooms are fungi, not plants and not animals!",
+              "They grow from a hidden network of tiny threads underground called mycelium (say: my-SEE-lee-um). Mycelium acts like the roots of the mushroom and spreads through soil, trees, and even dead plants to find food.",
+              "Mushrooms are made of: mycelium (the base and root system), water (up to 90%!), proteins and fiber, chitin (a tough material also found in insect shells)",
+              "Unlike plants, mushrooms don’t need sunlight. They grow in dark, damp places and “eat” nutrients from other things, like wood or compost."
+            ]
+          }
+        ],
+        "visualLabels": [
+          "fruit body producing spores",
+          "gills",
+          "spores",
+          "spore germination",
+          "mushroom mycelium",
+          "fruit body begins to form from mycelium",
+          "developing fruit body",
+          "Did You Know? Mycelium can heal itself if damaged like a living sponge."
+        ]
+      },
+      {
+        "pageNumber": 2,
+        "pageLabel": "Image 2 — What Are the Benefits of Mushrooms?",
+        "sections": [
+          {
+            "heading": "What Are the Benefits of Mushrooms?",
+            "paragraphs": [
+              "Mushrooms are packed with good stuff that helps your body stay strong. Many mushrooms are rich in vitamins like B and D, which help with energy and strong bones.",
+              "They also have antioxidants, which protect your cells and help your immune system fight off sickness. Some types, like shiitake and maitake, are even used in medicine to help people feel better and stay healthy."
+            ]
+          }
+        ],
+        "visualLabels": [
+          "Boosts Immune System",
+          "Promote Gut Health",
+          "Decrease Cancer Risk",
+          "Good Source of Vitamin D",
+          "Lower Sodium Intake",
+          "Lower Cholesterol",
+          "Protect Brain Health"
+        ]
+      },
+      {
+        "pageNumber": 3,
+        "pageLabel": "Image 3 — What Can You Make Out of Mushrooms?",
+        "sections": [
+          {
+            "heading": "What Can You Make Out of Mushrooms?",
+            "subheading": "Mushroom Furniture by Danielle Trofe (MushLume Lamps)",
+            "paragraphs": [
+              "Artist Danielle Trofe makes lights and lamps out of mushroom materials, called MushLumes. She mixes corn stalks and hemp with live mycelium, then presses the mix into a mold shaped like lamp parts. After a few days, the mycelium grows and glues the shape together; once it’s dried and “baked,” it becomes a light, soft, and sturdy lampshade—eco-friendly and compostable."
+            ]
+          },
+          {
+            "subheading": "Mushroom Packaging by Ecovative Design",
+            "paragraphs": [
+              "A company called Ecovative Design creates packaging that looks like Styrofoam but is made from mycelium and agricultural waste. They pack this mix into molds (like clamshells or wine bottle holders) and let the mycelium grow until it turns into a solid shape. It’s strong, safe, and composts into soil in just a few weeks—no pollution!"
+            ]
+          }
+        ],
+        "factBox": [
+          "⚡ Fun Fact! The largest living thing on Earth is a giant mycelium mat in Oregon. It’s over 2,000 acres wide!"
+        ]
+      }
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the key terms below taken directly from the article images. Pay close attention to part of speech, English definition, Korean translation, and example sentence.",
+    "items": [
+      {
+        "word": "fungi",
+        "partOfSpeech": "noun (plural)",
+        "definition": "a biological kingdom of organisms (including mushrooms, molds, and yeasts) that absorb nutrients from organic matter rather than through photosynthesis",
+        "korean": "균류, 곰팡이류, 버섯류",
+        "sentence": "Mushrooms belong to the biological kingdom of fungi, which is distinct from both plants and animals."
+      },
+      {
+        "word": "mycelium",
+        "partOfSpeech": "noun",
+        "definition": "the vegetative subterranean network of fine, branching threads that acts like the root system of a fungus (pronounced: my-SEE-lee-um)",
+        "korean": "균사체 (버섯의 땅속 균사 그물망)",
+        "sentence": "Beneath the forest soil lies an expansive network of mycelium that connects trees and decomposes organic matter."
+      },
+      {
+        "word": "network",
+        "partOfSpeech": "noun",
+        "definition": "an interconnected and widespread system of threads, channels, or pathways that spread across an area",
+        "korean": "망, 연결망, 네트워크",
+        "sentence": "The root network of the ancient oak tree spreads dozens of meters beneath the school garden."
+      },
+      {
+        "word": "thread",
+        "partOfSpeech": "noun",
+        "definition": "a very thin, fine strand or filament of material",
+        "korean": "가느다란 실, 섬유 가닥",
+        "sentence": "Under the microscope, fungal mycelium appears as delicate white threads weaving through the damp wood."
+      },
+      {
+        "word": "chitin",
+        "partOfSpeech": "noun",
+        "definition": "a tough, resilient, and semi-transparent structural material found in fungal cell walls and insect exoskeletons",
+        "korean": "키틴 (단단한 유기 물질, 곤충 껍질과 버섯 세포벽 성분)",
+        "sentence": "The natural hardness of beetle shells comes from chitin, the very same substance that strengthens mushroom structures."
+      },
+      {
+        "word": "nutrient",
+        "partOfSpeech": "noun",
+        "definition": "a nourishing substance that provides nourishment essential for growth and life maintenance",
+        "korean": "영양소, 영양분",
+        "sentence": "Fungi absorb essential nutrients by breaking down dead leaves and fallen tree branches on the forest floor."
+      },
+      {
+        "word": "antioxidant",
+        "partOfSpeech": "noun",
+        "definition": "a beneficial substance that protects living cells from chemical damage and oxidation",
+        "korean": "항산화 물질, 항산화제",
+        "sentence": "Berries and certain edible mushrooms are rich in antioxidants that help support cell defense against stress."
+      },
+      {
+        "word": "compostable",
+        "partOfSpeech": "adjective",
+        "definition": "capable of breaking down naturally and safely in soil to form nutrient-rich organic compost",
+        "korean": "퇴비화할 수 있는, 흙으로 분해되는",
+        "sentence": "Instead of plastic cups, our school cafeteria now supplies compostable containers made from plant fibers."
+      },
+      {
+        "word": "agricultural waste",
+        "partOfSpeech": "noun phrase",
+        "definition": "leftover organic crop materials, such as corn stalks, husks, and stems, produced after harvesting",
+        "korean": "농업 부산물, 농업 폐기물",
+        "sentence": "Local farmers recycle agricultural waste by mixing dried corn stalks into bio-composite packaging materials."
+      },
+      {
+        "word": "mold",
+        "partOfSpeech": "noun",
+        "definition": "a hollow container or form used to shape a mixture into a specific solid object as it hardens",
+        "korean": "틀, 거푸집, 주형",
+        "sentence": "The industrial designer pressed the damp mycelium mixture into a custom mold to shape the curved lampshade."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of the three-image article?",
+    "options": [
+      "Mushrooms are only food and cannot be used for other purposes.",
+      "Mushrooms are fungi with hidden networks and materials that the source connects to health, furniture and packaging.",
+      "All mushroom products are already better than every plastic product.",
+      "Mushrooms can grow only in bright sunlight."
+    ],
+    "correctIndex": 1,
+    "explanation": "Option B correctly synthesizes all three images: Image 1 explains what mushrooms and mycelium are made of, Image 2 outlines health and nutritional claims from the source, and Image 3 details sustainable applications in lamps and packaging. Option A contradicts the text, Option C makes an unsupported universal guarantee, and Option D is factually opposite to the text (mushrooms do not need sunlight).",
+    "feedback": {
+      "correct": "Correct! The article examines mushrooms across multiple dimensions: biological structure (Image 1), nutritional claims (Image 2), and innovative design applications in lighting and packaging (Image 3).",
+      "incorrect": "Incorrect. Look at the progression of all three images: the text moves from biology (fungi and mycelium) to claimed health benefits, and finally to real-world products like MushLume lamps and Ecovative packaging."
+    }
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer the 6 multiple-choice questions below. Each question relates directly to details in the three images.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Image 1, what are mushrooms classified as biologically?",
+        "options": [
+          "Specialized green plants that grow without leaves",
+          "Fungi, which are not plants and not animals",
+          "Microscopic animals that form subterranean hives",
+          "Mineral formations produced by compressed soil"
+        ],
+        "correctIndex": 1,
+        "sourceRef": "Image 1 — 'What Are Mushrooms Made Of?'",
+        "explanation": "Image 1 directly states: 'Mushrooms are fungi, not plants and not animals!'",
+        "feedback": {
+          "correct": "Correct! The source explicitly states that mushrooms belong to the biological group fungi, not plants or animals.",
+          "incorrect": "Incorrect. Check Image 1 Block 1: 'Mushrooms are fungi, not plants and not animals!'"
+        }
+      },
+      {
+        "id": "rc2",
+        "question": "How does the source describe mycelium in Image 1?",
+        "options": [
+          "A colorful cap that produces edible seeds for birds",
+          "A synthetic chemical sprayed on soil to prevent erosion",
+          "A hidden network of tiny threads underground that acts like roots",
+          "A waterproof paint applied to the outside of furniture"
+        ],
+        "correctIndex": 2,
+        "sourceRef": "Image 1 — 'What Are Mushrooms Made Of?'",
+        "explanation": "Image 1 explains: 'They grow from a hidden network of tiny threads underground called mycelium (say: my-SEE-lee-um). Mycelium acts like the roots of the mushroom...'",
+        "feedback": {
+          "correct": "Correct! Mycelium is described as a hidden subterranean network of tiny threads functioning like roots.",
+          "incorrect": "Incorrect. Review Image 1 Block 2, which defines mycelium as tiny threads underground acting like roots."
+        }
+      },
+      {
+        "id": "rc3",
+        "question": "What growing condition does the source state mushrooms do NOT require?",
+        "options": [
+          "Dark and damp surroundings",
+          "Moisture from soil or wood",
+          "Sunlight",
+          "Nutrients from other organic materials"
+        ],
+        "correctIndex": 2,
+        "sourceRef": "Image 1 — 'What Are Mushrooms Made Of?'",
+        "explanation": "Image 1 Block 4 explicitly states: 'Unlike plants, mushrooms don’t need sunlight. They grow in dark, damp places...'",
+        "feedback": {
+          "correct": "Correct! Mushrooms do not perform photosynthesis and do not need sunlight to grow.",
+          "incorrect": "Incorrect. Image 1 specifically notes: 'Unlike plants, mushrooms don’t need sunlight.'"
+        }
+      },
+      {
+        "id": "rc4",
+        "question": "What health-related nutrients or substances are specifically highlighted in Image 2?",
+        "options": [
+          "Artificial sugars and synthetic hormones",
+          "Vitamins B and D, and antioxidants",
+          "Saturated fats and concentrated sodium",
+          "Refined carbohydrates and chemical preservatives"
+        ],
+        "correctIndex": 1,
+        "sourceRef": "Image 2 — 'What Are the Benefits of Mushrooms?'",
+        "explanation": "Image 2 mentions that mushrooms are rich in vitamins B and D and have antioxidants that protect cells and assist the immune system.",
+        "feedback": {
+          "correct": "Correct! Image 2 specifically identifies vitamins B and D along with cell-protecting antioxidants.",
+          "incorrect": "Incorrect. Reread Image 2: the source mentions vitamins B and D and antioxidants."
+        }
+      },
+      {
+        "id": "rc5",
+        "question": "According to Image 3, how are MushLume lamps created by Danielle Trofe?",
+        "options": [
+          "By carving dried hardwood branches into lamp bases",
+          "By mixing corn stalks and hemp with live mycelium, pressing the mix into molds, and drying/baking it",
+          "By melting petroleum plastic beads around fresh wild mushrooms",
+          "By weaving electrical cables directly through living tree roots"
+        ],
+        "correctIndex": 1,
+        "sourceRef": "Image 3 — 'Mushroom Furniture by Danielle Trofe (MushLume Lamps)'",
+        "explanation": "Image 3 explains that Trofe mixes corn stalks and hemp with live mycelium, presses the mixture into lamp-shaped molds, lets the mycelium grow and bond, and bakes it into a sturdy lampshade.",
+        "feedback": {
+          "correct": "Correct! Trofe blends agricultural waste (corn stalks, hemp) with live mycelium, presses it into molds, and bakes the hardened shape.",
+          "incorrect": "Incorrect. Image 3 Block 1 outlines the exact steps: mixing hemp and corn stalks with mycelium, pressing into molds, and baking."
+        }
+      },
+      {
+        "id": "rc6",
+        "question": "What does Ecovative Design manufacture from mycelium and agricultural waste in Image 3?",
+        "options": [
+          "Steel shipping containers for transoceanic freight",
+          "Packaging that looks like Styrofoam and composts into soil in a few weeks",
+          "Chemical weedkillers for industrial monoculture fields",
+          "Permanent non-degradable plastic clamshell boxes"
+        ],
+        "correctIndex": 1,
+        "sourceRef": "Image 3 — 'Mushroom Packaging by Ecovative Design'",
+        "explanation": "Image 3 Block 2 states that Ecovative Design creates packaging resembling Styrofoam from mycelium and agricultural waste that composts into soil in just a few weeks.",
+        "feedback": {
+          "correct": "Correct! Ecovative Design produces compostable packaging shaped in molds that replaces Styrofoam without pollution.",
+          "incorrect": "Incorrect. Image 3 Block 2 specifically identifies packaging looking like Styrofoam made from mycelium and agricultural waste."
+        }
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer each question using specific factual details from the three images. Write complete sentences and refer directly to the source text.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "What details explain how mushrooms grow and obtain nutrients?",
+        "starter": "According to Image 1, mushrooms grow and absorb nutrients by...",
+        "compareTips": "Mention that mushrooms do not need sunlight, grow in dark damp places, and use an underground network called mycelium that spreads through soil, trees, and dead plants to find food from wood or compost.",
+        "modelAnswer": "According to Image 1, mushrooms grow without needing sunlight, unlike green plants. Instead, they thrive in dark, damp places and obtain nutrients through mycelium, a hidden network of tiny underground threads. This mycelium spreads through soil, trees, and decaying organic matter to absorb food from materials like wood and compost."
+      },
+      {
+        "id": "ev2",
+        "statement": "What evidence does the source give for using mushrooms in products such as lamps and packaging?",
+        "starter": "In Image 3, the source provides evidence that mushroom materials can...",
+        "compareTips": "Cite Danielle Trofe's MushLume lamps (mixing corn stalks and hemp with live mycelium in molds) and Ecovative Design's packaging (mixing agricultural waste and mycelium to replace Styrofoam and compost in weeks).",
+        "modelAnswer": "In Image 3, the source provides concrete evidence that mycelium can bind plant waste into sturdy, eco-friendly consumer items. Artist Danielle Trofe mixes live mycelium with corn stalks and hemp inside molds to grow compostable lampshades. In addition, Ecovative Design packs agricultural waste and mycelium into molds to make protective packaging that looks like Styrofoam but decomposes safely into soil within weeks."
+      },
+      {
+        "id": "ev3",
+        "statement": "How does the article connect mushrooms with health and sustainability? Use cautious language and identify these as claims made by the source.",
+        "starter": "The source connects mushrooms with health and sustainability by claiming that...",
+        "compareTips": "Use cautious reporting language (e.g., 'the article claims', 'according to the text'). Connect Image 2's claims about vitamins B and D and antioxidants with Image 3's sustainable materials that compost without pollution.",
+        "modelAnswer": "The source connects mushrooms with health and sustainability by presenting several claims about their nutritional and ecological value. In Image 2, the article states that mushrooms contain vitamins B and D along with antioxidants that protect cells and assist immunity. In Image 3, the author highlights environmental benefits, reporting that mycelium packaging and furniture are biodegradable and compost into soil without pollution. These statements represent claims from the provided text rather than independent medical guarantees."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus: Grammar & Discourse Structures",
+    "instructions": "Examine the grammatical patterns and discourse structures used in informational science and design features. Pay special attention to cautious source-reporting language.",
+    "sections": [
+      {
+        "heading": "1. Biological Classification: 'X are Y, not A and not B'",
+        "explanation": "Used to define organisms by distinguishing their scientific category from common misconceptions.",
+        "example": "Mushrooms are fungi, not plants and not animals!",
+        "practice": "State a scientific classification clearly while rejecting common false assumptions."
+      },
+      {
+        "heading": "2. Passive Voice for Technical Definitions: 'called X' & 'made from Y'",
+        "explanation": "Past participial phrases allow writers to introduce terminology and material origins concisely.",
+        "example": "...tiny threads underground called mycelium... packaging made from mycelium and agricultural waste.",
+        "practice": "Identify the material origin or name of a component using passive participles."
+      },
+      {
+        "heading": "3. Relative Clauses for Characteristic Detail: 'which' and 'that'",
+        "explanation": "Non-defining relative clauses with 'which' add descriptive facts; defining clauses with 'that' specify functions.",
+        "example": "...antioxidants, which protect your cells... packaging that looks like Styrofoam...",
+        "practice": "Combine two related statements into a complex sentence using a relative pronoun."
+      },
+      {
+        "heading": "4. Purpose & Causal Infinitives: 'to find food' & 'to help people'",
+        "explanation": "Infinitive phrases express the biological purpose of actions or the therapeutic intention of materials.",
+        "example": "...spreads through soil, trees, and even dead plants to find food.",
+        "practice": "Explain why an organism or designer performs a specific action using an infinitive of purpose."
+      },
+      {
+        "heading": "5. Contrast Prepositional Phrases: 'Unlike plants, ...'",
+        "explanation": "Sets up direct comparison between two distinct natural categories.",
+        "example": "Unlike plants, mushrooms don’t need sunlight.",
+        "practice": "Contrast a natural material with an artificial one using 'Unlike...'."
+      },
+      {
+        "heading": "6. Process Sequencing: 'then', 'After a few days', 'once'",
+        "explanation": "Chronological time markers organize multi-step manufacturing or growth cycles in sequence.",
+        "example": "...then presses the mix into a mold... After a few days, the mycelium grows... once it’s dried and 'baked'...",
+        "practice": "Order the stages of growing a bio-composite item using three sequential markers."
+      },
+      {
+        "heading": "7. Material Composition Expressions: 'made of', 'made from', 'mixed with'",
+        "explanation": "Distinguishes physical parts ('made of') from transformed or synthesized resources ('made from').",
+        "example": "Mushrooms are made of: mycelium... water... proteins and fiber, chitin...",
+        "practice": "List the components of an organic object using precise composition prepositions."
+      },
+      {
+        "heading": "8. Result Clauses: 'until it turns into' & 'becomes'",
+        "explanation": "Indicates the culmination of a biological growth process into a solid form.",
+        "example": "...let the mycelium grow until it turns into a solid shape. ...it becomes a light, soft, and sturdy lampshade...",
+        "practice": "Describe the transformation of an organic mixture into a finished object using 'until' or 'becomes'."
+      },
+      {
+        "heading": "9. Source Attribution & Cautious Claim Reporting",
+        "explanation": "Distinguishes directly observed physical processes from health or environmental claims made by an author.",
+        "example": "According to the source, mushrooms are packed with good stuff... Some types are reported to help people stay healthy.",
+        "practice": "Report a health benefit cautiously without stating it as an absolute medical certainty."
+      },
+      {
+        "heading": "10. Source Literacy: Fact vs. Process vs. Claim vs. Inference",
+        "explanation": "Critical readers distinguish verifiable physical facts (fungi biology), technical processes (molding), source health claims (cell protection), and logical inferences.",
+        "example": "Fact: Mushrooms have mycelium and chitin. Claim: Shiitake mushrooms fight off sickness. Process: Mycelium binds hemp in molds.",
+        "practice": "Label a statement from the article as a biological fact, manufacturing process, or source claim."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete each writing activity below using the target grammatical patterns. Your responses will be checked for keyword usage and length.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "title": "Activity 1 — Classification Sentence",
+        "instruction": "Write one classification sentence explaining what mushrooms are biologically, distinguishing them from other kingdoms.",
+        "starter": "Biologically, mushrooms are classified as...",
+        "compareTips": "Make sure you include the term 'fungi' and state that they are neither plants nor animals.",
+        "modelAnswer": "Biologically, mushrooms are classified as fungi rather than plants or animals, growing from a subterranean thread network known as mycelium."
+      },
+      {
+        "id": "wp2",
+        "title": "Activity 2 — Process Sentence",
+        "instruction": "Write a process sentence explaining how mycelium can help make an eco-friendly lamp or package.",
+        "starter": "To produce a mushroom-based item, designers...",
+        "compareTips": "Include the stages: mixing live mycelium with plant waste, pressing into a mold, allowing it to grow, and baking or drying.",
+        "modelAnswer": "To produce a mushroom-based item, designers mix live mycelium with agricultural waste in a mold, letting the threads grow to bind the shape before drying and baking it."
+      },
+      {
+        "id": "wp3",
+        "title": "Activity 3 — Comparison Sentence",
+        "instruction": "Compare a mushroom-based material with a traditional petroleum material using 'unlike', 'but', or 'while'.",
+        "starter": "Unlike traditional petroleum Styrofoam, mycelium packaging...",
+        "compareTips": "Use a contrast connector ('unlike', 'but', or 'while') and highlight that mycelium decomposes in weeks rather than polluting for centuries.",
+        "modelAnswer": "Unlike traditional petroleum Styrofoam that causes lasting pollution, mycelium packaging is grown from agricultural waste and safely composts into soil within a few weeks."
+      },
+      {
+        "id": "wp4",
+        "title": "Activity 4 — Cautious Evidence Sentence",
+        "instruction": "Write a cautious evidence sentence beginning with 'According to the source, ...' about one health benefit or sustainable use.",
+        "starter": "According to the source, mushrooms...",
+        "compareTips": "Begin with 'According to the source,' and use cautious verbs like 'claims', 'states', or 'is reported to' rather than guaranteeing a medical cure.",
+        "modelAnswer": "According to the source, mushrooms contain vitamins and antioxidants that the text claims can strengthen bones and support immune defense against sickness."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task: Evidence-Based Explanation Paragraph",
+    "instructions": "Read the prompt and checklist below. Write a well-structured paragraph of 100–140 words based on the three-image article.",
+    "prompt": "How can mushrooms be more than food? Write an evidence-based explanation paragraph of 100–140 words. Use at least three accurate details from the three-image source, explain one fact about mycelium, describe one product made from mushroom materials, and end with a cautious statement about health or sustainability.",
+    "checklist": [
+      "Clear controlling idea stating how mushrooms serve purposes beyond food",
+      "At least three accurate details directly from the three-image source",
+      "Correct explanation of fungi or mycelium as an underground network",
+      "One specific product example (such as MushLume lamps or Ecovative packaging)",
+      "One process detail explaining how the material is shaped or grown",
+      "One source-reporting or cautious phrase (e.g., 'according to the source', 'the text states')",
+      "Accurate use of source vocabulary (such as 'compostable', 'mycelium', or 'agricultural waste')",
+      "No exaggerated medical guarantee or unsupported environmental promise",
+      "Logical conclusion and length within 100–140 words"
+    ],
+    "wordCountTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "Mushrooms are far more than pizza toppings; they represent a versatile biological resource with remarkable design applications. Biologically, mushrooms are fungi that grow from mycelium, an underground network of fine threads that spreads through soil to absorb nutrients without needing sunlight. Designers now harness this organism to create sustainable alternatives to plastic. For example, Danielle Trofe blends live mycelium with corn stalks and hemp to grow lightweight, compostable lampshades. Similarly, Ecovative Design packs mycelium and agricultural waste into molds to produce packaging that replaces Styrofoam and breaks down naturally in soil. According to the source, mushrooms also contain vitamins and antioxidants that may support wellness, showing how fungi can sustainably contribute to both human health and green manufacturing.",
+    "modelAnswerWordCount": 125,
+    "writingCheckKeywords": [
+      "mushrooms",
+      "fungi",
+      "mycelium",
+      "threads",
+      "underground",
+      "nutrients",
+      "sunlight",
+      "Danielle Trofe",
+      "molds",
+      "lamps",
+      "MushLume",
+      "Ecovative",
+      "packaging",
+      "Styrofoam",
+      "agricultural waste",
+      "compostable",
+      "according to",
+      "claims",
+      "vitamins",
+      "antioxidants"
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your completed explanation paragraph against these six criteria before submitting.",
+    "items": [
+      "My paragraph clearly states how mushrooms serve functions beyond being food.",
+      "I explained that mycelium is an underground network of threads that feeds without sunlight.",
+      "I provided a specific real-world product example from Image 3 (lamps or packaging).",
+      "I described the process of mixing mycelium with plant matter and pressing it into molds.",
+      "I used cautious reporting language (e.g., 'according to the source') for health and sustainability claims.",
+      "My writing is between 100 and 140 words with coherent organization and accurate grammar."
+    ]
+  },
+  "teacher": {
+    "modelAnswer": "Mushrooms are far more than pizza toppings; they represent a versatile biological resource with remarkable design applications. Biologically, mushrooms are fungi that grow from mycelium, an underground network of fine threads that spreads through soil to absorb nutrients without needing sunlight. Designers now harness this organism to create sustainable alternatives to plastic. For example, Danielle Trofe blends live mycelium with corn stalks and hemp to grow lightweight, compostable lampshades. Similarly, Ecovative Design packs mycelium and agricultural waste into molds to produce packaging that replaces Styrofoam and breaks down naturally in soil. According to the source, mushrooms also contain vitamins and antioxidants that may support wellness, showing how fungi can sustainably contribute to both human health and green manufacturing.",
+    "answerKey": {
+      "mainIdea": "B. Mushrooms are fungi with hidden networks and materials that the source connects to health, furniture and packaging.",
+      "readingComprehension": {
+        "rc1": "B. Fungi, which are not plants and not animals",
+        "rc2": "C. A hidden network of tiny threads underground that acts like roots",
+        "rc3": "C. Sunlight",
+        "rc4": "B. Vitamins B and D, and antioxidants",
+        "rc5": "B. By mixing corn stalks and hemp with live mycelium, pressing the mix into molds, and drying/baking it",
+        "rc6": "B. Packaging that looks like Styrofoam and composts into soil in a few weeks"
+      },
+      "evidenceFromText": {
+        "ev1": "Mushrooms do not require sunlight; they grow in dark, damp places and obtain nutrients through mycelium, an underground network of threads that spreads through soil, trees, and dead plants to find food in wood or compost.",
+        "ev2": "The source cites Danielle Trofe's MushLume lamps (corn stalks and hemp mixed with live mycelium in molds, then dried/baked into sturdy lampshades) and Ecovative Design's mycelium packaging made from agricultural waste that replaces Styrofoam and composts in weeks.",
+        "ev3": "The article presents claims that mushrooms contain vitamins B and D and cell-protecting antioxidants (Image 2) and that mycelium products are biodegradable and compost into soil without pollution (Image 3). These should be evaluated as claims from the text rather than absolute medical advice."
+      },
+      "writingPractice": {
+        "wp1": "Biologically, mushrooms are classified as fungi rather than plants or animals, growing from a subterranean thread network known as mycelium.",
+        "wp2": "To produce a mushroom-based item, designers mix live mycelium with agricultural waste in a mold, letting the threads grow to bind the shape before drying and baking it.",
+        "wp3": "Unlike traditional petroleum Styrofoam that causes lasting pollution, mycelium packaging is grown from agricultural waste and safely composts into soil within a few weeks.",
+        "wp4": "According to the source, mushrooms contain vitamins and antioxidants that the text claims can strengthen bones and support immune defense against sickness."
+      },
+      "writingTask": "Refer to the exemplar paragraph of 125 words in the student model answer section."
+    },
+    "rubric": [
+      {
+        "category": "Content & Ideas",
+        "weight": "20%",
+        "criteria": "Accurately incorporates source details from all three images, explains mycelium, describes a real-world product, and addresses sustainability or health.",
+        "levels": {
+          "exemplary": "Thoroughly integrates at least 3 source facts, accurately defines mycelium, details lamps or packaging, and discusses health/sustainability with balanced nuance.",
+          "proficient": "Includes 2-3 source facts, defines mycelium, and identifies a product example with minor omissions.",
+          "developing": "Mentions mushroom uses generally but lacks specific details from Image 2 or 3; confusing explanation of mycelium.",
+          "beginning": "Treats mushrooms only as pizza toppings or food; lacks connection to design materials or source evidence."
+        }
+      },
+      {
+        "category": "Evidence Use",
+        "weight": "20%",
+        "criteria": "Cites source details with appropriate attribution and cautious reporting language without inventing unsupported claims.",
+        "levels": {
+          "exemplary": "Seamlessly cites source claims with precise cautious markers ('according to the source', 'the text states') and avoids unwarranted medical claims.",
+          "proficient": "Cites source details accurately; occasionally treats source claims as established universal medical facts.",
+          "developing": "Weak evidence use; minimal attribution or misquotes source statistics and claims.",
+          "beginning": "No textual evidence cited; relies entirely on personal conjecture or unsupported generalizations."
+        }
+      },
+      {
+        "category": "Target Language/Structure",
+        "weight": "20%",
+        "criteria": "Employs target structures including classification, passive definitions, process sequence markers, and contrast connectors.",
+        "levels": {
+          "exemplary": "Skillfully uses classification syntax, process sequencing ('then', 'after a few days', 'once'), and contrast markers ('unlike', 'while').",
+          "proficient": "Uses target structures with occasional minor slips that do not impede comprehension.",
+          "developing": "Relies on repetitive simple coordinate clauses; inconsistent attempt at process or comparison language.",
+          "beginning": "Severe grammatical limitations that obscure meaning; inability to execute basic sentence structures."
+        }
+      },
+      {
+        "category": "Organization",
+        "weight": "20%",
+        "criteria": "Maintains a coherent explanatory progression: topic sentence -> biological context -> product application -> cautious conclusion.",
+        "levels": {
+          "exemplary": "Logical, cohesive flow from controlling idea through biological explanation and product evidence to a balanced concluding insight.",
+          "proficient": "Clear paragraph structure with evident progression, though transitions between biology and design could be smoother.",
+          "developing": "Disjointed list of sentences without smooth transitions between the three image concepts.",
+          "beginning": "Lacks structural organization; ideas are jumbled or incomplete."
+        }
+      },
+      {
+        "category": "Accuracy",
+        "weight": "20%",
+        "criteria": "Demonstrates control of spelling, mechanics, punctuation, word boundaries, and word count target (100–140 words).",
+        "levels": {
+          "exemplary": "High mechanical precision with zero or negligible errors; word count falls precisely within the 100–140 word range.",
+          "proficient": "Minor mechanical or spelling errors that do not hinder communication; word count is within or very close to range.",
+          "developing": "Frequent errors in punctuation, agreement, or spelling; word count noticeably under or over guidelines.",
+          "beginning": "Pervasive errors impeding intelligibility; significant word count discrepancy."
+        }
+      }
+    ],
+    "teacherNotes": [
+      {
+        "topic": "Fungi vs. Plants and Animals",
+        "note": "Mushrooms belong to kingdom Fungi. Emphasize to students that fungi lack chlorophyll and cannot perform photosynthesis. They are heterotrophs that digest food externally by secreting enzymes and absorbing nutrients."
+      },
+      {
+        "topic": "Mycelium and Pronunciation Guide",
+        "note": "The text provides a direct pronunciation guide: 'my-SEE-lee-um'. Explain that while the mushroom cap (fruiting body) is temporary, the mycelium network can live for years or centuries underground, acting like biological internet cables."
+      },
+      {
+        "topic": "Mushroom Composition & Quantitative Details",
+        "note": "Image 1 specifies that mushrooms are up to 90% water, with the remainder composed of mycelium, proteins, fiber, and chitin. Highlight 'chitin' as an interesting cross-kingdom connection (found in insect shells and fungal walls)."
+      },
+      {
+        "topic": "Sunlight and Heterotrophic Nutrition",
+        "note": "Students often assume all living 'plants' need sunlight. Clarify that mushrooms do not require light because they consume nutrients from dead wood, compost, or leaf litter, making them nature's premier recyclers."
+      },
+      {
+        "topic": "Life-Cycle Diagram Visible Labels",
+        "note": "Image 1 includes 8 diagram labels: fruit body producing spores -> gills -> spores -> spore germination -> mushroom mycelium -> fruit body begins to form from mycelium -> developing fruit body -> self-healing sponge fact. Walk students through this cyclical loop."
+      },
+      {
+        "topic": "Health-Related Wording & Source Literacy",
+        "note": "Image 2 presents claims about vitamins B and D, energy, bone strength, and antioxidants. Instructors must explicitly teach students to treat these as claims made by the source text rather than clinically verified personal medical advice."
+      },
+      {
+        "topic": "Benefits Diagram Graphic Analysis",
+        "note": "Image 2's graphic lists 7 potential benefits: boosts immune system, promotes gut health, decreases cancer risk, good source of vitamin D, lower sodium intake, lower cholesterol, and protects brain health. Guide students to notice that these are general nutritional associations."
+      },
+      {
+        "topic": "Danielle Trofe & MushLume Lighting",
+        "note": "Danielle Trofe is a contemporary biodesigner who pioneered mushroom material lighting in Brooklyn, New York. Her work demonstrates how biology can intersect with interior architecture and circular industrial design."
+      },
+      {
+        "topic": "Corn Stalks and Hemp as Substrates",
+        "note": "Mycelium requires a cellulose-rich food scaffold to grow through. Corn stalks and industrial hemp fibers provide the physical skeleton that the fungal mycelium digests and binds together into a solid composite."
+      },
+      {
+        "topic": "Pressing, Growing, and Thermal Baking Process",
+        "note": "The manufacturing cycle takes several days: the inoculated substrate is pressed into molds; the mycelium grows and weaves tight threads together; once the shape is formed, it is dried and baked at heat to kill the living fungus, preventing it from fruiting or decaying."
+      },
+      {
+        "topic": "Ecovative Design & Myco-Packaging",
+        "note": "Ecovative Design, founded by Eben Bayer and Gavin McIntyre, created 'Mushroom Packaging'. They license their technology worldwide to replace expanded polystyrene foam (Styrofoam) in electronics packaging and wine shipping."
+      },
+      {
+        "topic": "Styrofoam-like Packaging vs. Petrochemicals",
+        "note": "Point out the functional equivalence: mycelium packaging provides identical shock absorption, thermal insulation, and lightweight protection as plastic foam, but without the persistent petroleum pollution."
+      },
+      {
+        "topic": "Agricultural Waste Utilization",
+        "note": "Emphasize the circular economy concept: instead of burning crop residues (which causes air pollution), farmers can sell husks and stalks to bio-fabricators who turn waste into biodegradable packaging."
+      },
+      {
+        "topic": "Composting vs. Pollution Boundaries",
+        "note": "Image 3 claims the material composts in soil in 'just a few weeks—no pollution!'. Discuss how organic biodegradation returns nitrogen and carbon to the earth, contrasting with plastics that fragment into microplastics."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "A",
+        "phaseNumber": 1,
+        "phaseName": "Opening & Goal",
+        "duration": "5 mins",
+        "durationMinutes": 5,
+        "objective": "Hook student interest with innovative bio-materials and establish the 90-minute lesson objectives.",
+        "actions": "Present the lesson title 'Mushrooms: Not Just for Pizza Anymore!'; elicit student associations with mushrooms; share the goal of analyzing fungi biology, claimed health benefits, and sustainable design.",
+        "teacherActions": "Display title slide; prompt students with pizza topping images versus bio-furniture; outline lesson stages.",
+        "scriptEn": "Good morning, class! When you hear the word 'mushroom,' most of you immediately think of pizza toppings or pasta. But look at our title today: 'Mushrooms: Not Just for Pizza Anymore!' Today we are investigating a hidden underground kingdom that is revolutionizing sustainable design—from lamps to compostable shipping packaging. By the end of our 90 minutes, you will explain how mycelium grows, analyze source claims about mushroom benefits, and write a focused, evidence-based explanation paragraph.",
+        "scriptKo": "좋은 아침입니다, 여러분! '버섯'이라는 단어를 들으면 대부분 피자 토핑이나 파스타를 먼저 떠올릴 것입니다. 하지만 오늘 수업 제목을 보세요: '버섯: 이제 피자 토핑에만 머무르지 않는다!' 오늘 우리는 전등갓부터 퇴비화 가능한 포장재에 이르기까지 지속 가능한 디자인 혁신을 이끄는 숨겨진 땅속 생물계를 탐구할 것입니다. 오늘 90분이 끝날 때, 여러분은 균사체가 어떻게 자라는지 설명하고, 버섯의 효능에 대한 원문 주장을 분석하며, 근거 중심의 탄탄한 설명 단락을 작성하게 될 것입니다.",
+        "studentActions": "Observe the title, share initial knowledge with a partner, and note the lesson objectives.",
+        "misconception": "Students may think mushrooms are green plants that make food from sunlight.",
+        "correctiveFeedback": "Clarify immediately that mushrooms are fungi—neither plants nor animals—and thrive in dark, damp places without sunlight.",
+        "transition": "Let’s start by activating what you already know about natural materials in our Warm-up questions."
+      },
+      {
+        "phase": "B",
+        "phaseNumber": 2,
+        "phaseName": "Warm-up & Schema Activation",
+        "duration": "10 mins",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding natural materials and the concept of compostable products.",
+        "actions": "Guide students through the 3 warm-up prompts; encourage sharing personal experiences with natural packaging and bio-materials.",
+        "teacherActions": "Display Warm-up questions; model using optional sentence starters; circulate to support pair discussion.",
+        "scriptEn": "Turn to the Warm-up section. Question 1 asks what you already know about mushrooms. Question 2 asks what products, besides food, can be crafted from natural materials like wood, cotton, or bamboo. Question 3 asks why society urgently needs materials that return safely to the soil. Take three minutes to jot down your ideas, and use the sentence starters if helpful.",
+        "scriptKo": "Warm-up 섹션을 열어보세요. 1번 질문은 버섯에 대해 이미 알고 있는 점을 묻고 있습니다. 2번은 식품 외에 목재, 면화, 대나무 같은 천연 소재로 만들 수 있는 제품을 묻습니다. 3번은 우리 사회가 왜 흙으로 안전하게 돌아가는 퇴비화 소재를 절실히 필요로 하는지 묻습니다. 3분 동안 생각을 적어보세요. 제공된 문장 시작 표현을 활용해도 좋습니다.",
+        "studentActions": "Respond to the 3 warm-up questions individually or in pairs, testing their background understanding.",
+        "misconception": "Students might believe that all biodegradable materials decompose instantly in water.",
+        "correctiveFeedback": "Explain that composting requires biological organisms in soil, moisture, and warmth over several weeks.",
+        "transition": "Now let’s equip ourselves with the key scientific and design vocabulary from the images."
+      },
+      {
+        "phase": "C",
+        "phaseNumber": 3,
+        "phaseName": "Vocabulary in Context",
+        "duration": "12 mins",
+        "durationMinutes": 12,
+        "objective": "Introduce and master the 10 core vocabulary terms taken directly from the source images.",
+        "actions": "Drill pronunciation (especially 'mycelium' / my-SEE-lee-um and 'chitin' / KY-tin); explain scientific definitions and Korean equivalents.",
+        "teacherActions": "Display the 10 vocabulary cards; model choral pronunciation; ask concept-check questions for each term.",
+        "scriptEn": "Let's examine our ten key vocabulary terms. Notice word number 2: 'mycelium'. The source even gives us the pronunciation: 'say: my-SEE-lee-um'. Repeat after me: my-SEE-lee-um! Look at word number 5: 'chitin', pronounced 'KY-tin'. It is the tough material found in insect shells and fungal walls. Notice word number 9: 'agricultural waste'—meaning leftover stalks and husks from farms. Notice word number 8: 'compostable'—meaning it breaks down into natural soil.",
+        "scriptKo": "핵심 어휘 10개를 살펴봅시다. 2번 단어 'mycelium'(균사체)에 주목하세요. 원문에서도 발음 팁을 제공합니다: 'my-SEE-lee-um'. 저를 따라 해보세요: my-SEE-lee-um! 5번 단어 'chitin'(키틴)은 '카이틴'으로 발음됩니다. 곤충 껍질과 버섯 세포벽에 있는 단단한 물질입니다. 9번 'agricultural waste'(농업 부산물)는 농장에서 수확 후 남은 줄기와 껍질을 뜻합니다. 8번 'compostable'(퇴비화 가능한)은 자연 토양으로 분해된다는 의미입니다.",
+        "studentActions": "Chorally pronounce new terms, annotate Korean translations, and examine sample sentences.",
+        "misconception": "Students might pronounce 'chitin' as 'chi-tin' with a soft ch.",
+        "correctiveFeedback": "Remind students that 'chitin' is pronounced with a hard 'k' sound: /KY-tin/.",
+        "transition": "With these 10 terms in mind, let’s read through all three image sections continuously."
+      },
+      {
+        "phase": "D",
+        "phaseNumber": 4,
+        "phaseName": "First Reading & Gist Comprehension",
+        "duration": "10 mins",
+        "durationMinutes": 10,
+        "objective": "Conduct continuous first reading of Image 1, 2, and 3; assess global comprehension via Main Idea MCQ.",
+        "actions": "Read aloud or guide paired reading of the 3 images; maintain source order; tackle the Main Idea question.",
+        "teacherActions": "Guide students through Image 1 (Structure), Image 2 (Benefits), and Image 3 (Products); facilitate the Main Idea check.",
+        "scriptEn": "Read along as we examine the three images. Notice the progression: Image 1 asks 'What Are Mushrooms Made Of?', revealing they are fungi composed of mycelium, water, proteins, and chitin. Image 2 asks 'What Are the Benefits of Mushrooms?', mentioning vitamins B and D and antioxidants. Image 3 asks 'What Can You Make Out of Mushrooms?', showcasing Danielle Trofe's MushLume lamps and Ecovative's Styrofoam-like packaging. Now, answer the Main Idea question: Which option captures this complete journey?",
+        "scriptKo": "세 가지 이미지를 따라 함께 읽어봅시다. 전개 과정을 주목하세요: 1번 이미지는 '버섯은 무엇으로 이루어져 있는가?'를 묻고, 버섯이 균사체, 수분, 단백질, 키틴으로 이루어진 균류임을 밝힙니다. 2번 이미지는 '버섯의 이점은 무엇인가?'를 물으며 비타민 B, D와 항산화 물질을 언급합니다. 3번 이미지는 '버섯으로 무엇을 만들 수 있는가?'를 물으며 대니엘 트로피의 머쉬룸 램프와 에코베이티브의 스티로폼 대체 포장재를 보여줍니다. 이제 주제(Main Idea) 문제를 풀어보세요: 이 전체 여정을 포괄하는 선택지는 무엇일까요?",
+        "studentActions": "Follow the reading silently or aloud, select Option B for Main Idea, and review the instant feedback.",
+        "misconception": "Students might select Option A because they overlooked Image 3's products.",
+        "correctiveFeedback": "Prompt students to review Image 3: 'Look at the lamps and packaging—mushrooms are definitely used for more than food!'",
+        "transition": "Now let's examine specific factual evidence with our 6 reading comprehension questions."
+      },
+      {
+        "phase": "E",
+        "phaseNumber": 5,
+        "phaseName": "Detailed Evidence & Visual Reading",
+        "duration": "18 mins",
+        "durationMinutes": 18,
+        "objective": "Analyze details, diagram labels, and written evidence prompts; differentiate source facts from source claims.",
+        "actions": "Guide students through the 6 comprehension MCQs and the 3 written Evidence from Text prompts; model Check & Compare.",
+        "teacherActions": "Explain the visual diagram labels in Image 1 (life cycle) and Image 2 (benefits); model how to write evidence answers with proper attribution.",
+        "scriptEn": "Let's complete comprehension questions 1 through 6, then tackle our three Evidence responses. For Evidence Prompt 1, identify how mycelium gathers food underground without sunlight. For Prompt 2, cite both Trofe's lamps and Ecovative's packaging. For Prompt 3, notice the instruction: use cautious language! Image 2 claims mushrooms boost immunity and help strong bones; we must report these as claims from the article, not universal medical facts.",
+        "scriptKo": "이해력 확인 문제 1번부터 6번을 풀고, 본문 근거 3문항을 작성해 봅시다. 근거 1번 질문에서는 균사체가 햇빛 없이 땅속에서 어떻게 먹이를 모으는지 찾으세요. 2번 질문에서는 트로피의 램프와 에코베이티브의 포장재를 모두 인용하세요. 3번 질문의 지시사항에 주목하세요: 신중한 어조(cautious language)를 사용해야 합니다! 2번 이미지는 버섯이 면역력을 높이고 뼈를 튼튼하게 한다고 주장하지만, 우리는 이를 의학적 진실이 아닌 기사에 제시된 주장으로 보고해야 합니다.",
+        "studentActions": "Answer RC1-RC6, draft written evidence responses, click 'Check & Compare', and refine against model tips.",
+        "misconception": "Students might assert that mushrooms 'cure all diseases' based on Image 2.",
+        "correctiveFeedback": "Guide students to use phrases like 'The source claims that...' or 'According to the article...' rather than making medical guarantees.",
+        "transition": "Let’s analyze the sentence structures and grammar patterns that make this informational text effective."
+      },
+      {
+        "phase": "F",
+        "phaseNumber": 6,
+        "phaseName": "Language Focus & Grammatical Patterns",
+        "duration": "12 mins",
+        "durationMinutes": 12,
+        "objective": "Teach the 10 grammatical patterns: classification, passives, relative clauses, process sequencing, and cautious reporting.",
+        "actions": "Deconstruct key sentences from the text; practice forming classification, process, and comparison sentences.",
+        "teacherActions": "Highlight language structures on the board; demonstrate how to join clauses using 'which' and 'that'; contrast 'unlike' with 'while'.",
+        "scriptEn": "Look at Language Focus. Notice pattern 1: 'Mushrooms are fungi, not plants and not animals!' This is a classic classification structure. Look at pattern 6 for process: 'then presses the mix... After a few days, the mycelium grows... once it’s dried and baked...' Notice how time connectives guide the reader through manufacturing. And look at pattern 9: cautious reporting. When discussing health benefits, we write: 'According to the source...' rather than making unconditional claims.",
+        "scriptKo": "Language Focus를 보세요. 1번 패턴: 'Mushrooms are fungi, not plants and not animals!' 이는 전형적인 분류 구문입니다. 6번 공정 순서 표현을 보세요: 'then presses... After a few days... once it's dried and baked...' 시간 연결사가 독자를 제작 단계로 자연스럽게 안내합니다. 그리고 9번 신중한 보고 표현을 보세요. 건강 효능을 논할 때 우리는 무조건적인 단정 대신 'According to the source...'(원문에 따르면)와 같이 씁니다.",
+        "studentActions": "Analyze the 10 language patterns and complete guided practice distinguishing facts, processes, and claims.",
+        "misconception": "Students might forget commas after introductory contrast clauses with 'Unlike plants...'.",
+        "correctiveFeedback": "Remind students that introductory prepositional phrases of contrast require a comma before the main clause.",
+        "transition": "Now let's apply these sentence patterns in our four Writing Practice activities."
+      },
+      {
+        "phase": "G",
+        "phaseNumber": 7,
+        "phaseName": "Writing Practice & Final Paragraph Task",
+        "duration": "18 mins",
+        "durationMinutes": 18,
+        "objective": "Complete 4 targeted sentence activities and write the final 100–140 word evidence-based explanation paragraph.",
+        "actions": "Monitor student writing; enforce live word count constraints (100–140 words); guide the use of Writing Check.",
+        "teacherActions": "Circulate, providing differentiated feedback for G1 (scaffolded sentence frames) and G2 (extension of nuance and complex transitions).",
+        "scriptEn": "Now it is time to write. First, complete the four Writing Practice sentence drills: classification, process, comparison, and cautious evidence. Once complete, move to the Final Writing Task. Your prompt asks: 'How can mushrooms be more than food?' Write a paragraph between 100 and 140 words. Check off each item on your checklist: clear controlling idea, three source facts, mycelium explanation, product example, process detail, cautious health statement, and proper length. Run the Writing Check when ready!",
+        "scriptKo": "이제 직접 글을 쓸 시간입니다. 먼저 분류, 공정, 비교, 신중한 근거라는 네 가지 Writing Practice 문장 연습을 완성하세요. 완료되면 최종 단락 과제로 넘어갑니다. 질문은 '버섯은 어떻게 음식 이상의 역할을 할 수 있는가?'입니다. 100단어에서 140단어 사이로 한 단락을 작성하세요. 체크리스트를 하나씩 확인하세요: 명확한 중심 생각, 3가지 본문 근거, 균사체 설명, 제품 예시, 공정 세부 내용, 신중한 건강 관련 진술, 적정 단어 수. 준비가 되면 Writing Check 버튼을 눌러보세요!",
+        "studentActions": "Draft the 4 practice sentences, compose the final explanation paragraph, utilize live word count, run Writing Check, and compare with model answers.",
+        "misconception": "Students may write under 100 words by skipping the manufacturing process details.",
+        "correctiveFeedback": "Encourage students to explain both Danielle Trofe's lamps and Ecovative's packaging to easily meet the 100-word threshold.",
+        "transition": "Let’s perform our final Self-Check and submit our work."
+      },
+      {
+        "phase": "H",
+        "phaseNumber": 8,
+        "phaseName": "Review, Exit Ticket & Submission",
+        "duration": "5 mins",
+        "durationMinutes": 5,
+        "objective": "Perform Self-Check review, confirm submission integrity, and summarize key takeaways on bio-innovation.",
+        "actions": "Review the 6 Self-Check items; ensure students submit with their name and student code; conduct exit ticket reflection.",
+        "teacherActions": "Verify student submissions on the monitor; summarize how fungi demonstrate sustainable circular design.",
+        "scriptEn": "Great work today! Before you submit, review the six Self-Check criteria. Did you include mycelium? Did you mention lamps or packaging? Is your word count between 100 and 140 words? Make sure your name and student code are filled in, then click Submit. Today you learned that the quiet network under our feet might just hold the key to replacing petroleum plastics!",
+        "scriptKo": "오늘 훌륭하게 참여했습니다! 제출하기 전에 6가지 자체 점검 기준을 확인하세요. 균사체를 설명했나요? 램프나 포장재를 언급했나요? 단어 수가 100~140단어 사이인가요? 이름과 학생 코드를 확인하고 제출 버튼을 클릭하세요. 오늘 여러분은 우리 발밑의 조용한 생물 네트워크가 석유 플라스틱을 대체할 열쇠를 쥐고 있다는 점을 배웠습니다!",
+        "studentActions": "Complete the 6 self-check checkboxes, enter name/code, submit, and confirm success.",
+        "misconception": "Students might forget to reveal and study the model answer after submitting.",
+        "correctiveFeedback": "Remind students to compare their final paragraph with the exemplar model to identify areas for refinement.",
+        "transition": "Class dismissed! Well done on mastering mushrooms as a sustainable material."
+      }
+    ],
+    "detailedReadingGuide": {
+      "openingScript": [
+        {
+          "option": 1,
+          "label": "Option 1: Provocative Bio-Design Hook",
+          "english": "Look at your shoes / or your phone case. / What if they were grown / from mushroom roots / instead of plastic? / Today we discover / how mycelium / is transforming manufacturing.",
+          "directKorean": "여러분의 신발을 보세요 / 혹은 휴대폰 케이스를. / 만약 그것들이 길러졌다면 어떨까요 / 버섯 뿌리로부터 / 플라스틱 대신에? / 오늘 우리는 발견합니다 / 어떻게 균사체가 / 제조업을 변화시키고 있는지.",
+          "naturalKorean": "여러분의 신발이나 휴대폰 케이스를 한번 보세요. 만약 그것들이 플라스틱 대신 버섯 뿌리로 길러진 것이라면 어떨까요? 오늘 우리는 균사체가 어떻게 현대 제조업을 혁신하고 있는지 알아볼 것입니다.",
+          "teachingPurpose": "Engage students by challenging everyday assumptions about consumer materials."
+        },
+        {
+          "option": 2,
+          "label": "Option 2: Beyond the Pizza Slice",
+          "english": "Most people know mushrooms / as squishy pizza toppings. / But did you know / they form vast underground networks / and can heal themselves / like living sponges? / Let's explore the text / to see their real power.",
+          "directKorean": "대부분의 사람들은 버섯을 압니다 / 물컹한 피자 토핑으로. / 하지만 알고 있었나요 / 그것들이 거대한 땅속 네트워크를 형성하고 / 스스로를 치유할 수 있다는 것을 / 살아있는 스펀지처럼? / 본문을 탐구해 봅시다 / 그것들의 진정한 힘을 확인하기 위해.",
+          "naturalKorean": "대부분의 사람들은 버섯을 그저 물컹한 피자 토핑 정도로만 알고 있습니다. 하지만 버섯이 거대한 지하 네트워크를 형성하고 살아있는 스펀지처럼 스스로 치유할 수 있다는 사실을 알고 계셨나요? 본문을 통해 버섯의 진정한 힘을 확인해 봅시다.",
+          "teachingPurpose": "Contrast trivial culinary views with scientific and ecological reality."
+        },
+        {
+          "option": 3,
+          "label": "Option 3: Environmental Problem-Solving",
+          "english": "Petroleum plastic / takes hundreds of years / to break down in soil. / Today’s article shows / how artists and companies / are growing packaging and furniture / that compost in weeks / without pollution.",
+          "directKorean": "석유 플라스틱은 / 수백 년이 걸립니다 / 토양에서 분해되는 데. / 오늘의 기사는 보여줍니다 / 어떻게 예술가들과 기업들이 / 포장재와 가구를 기르고 있는지 / 몇 주 만에 퇴비가 되는 / 오염 없이.",
+          "naturalKorean": "석유로 만든 플라스틱은 흙 속에서 분해되는 데 수백 년이 걸립니다. 오늘 읽을 기사는 예술가들과 친환경 기업들이 어떻게 단 몇 주 만에 오염 없이 흙으로 분해되는 포장재와 가구를 길러내고 있는지 보여줍니다.",
+          "teachingPurpose": "Ground the lesson in urgent real-world environmental sustainability challenges."
+        }
+      ],
+      "warmupGuide": [
+        {
+          "questionNumber": 1,
+          "question": "What do you already know about mushrooms?",
+          "likelyResponses": [
+            "They are soft and people put them on pizza or in soup.",
+            "Some wild mushrooms are poisonous, but others are healthy food.",
+            "They grow in forests after rain in dark places."
+          ],
+          "followUps": [
+            "Do you think mushrooms are green plants, or something else?",
+            "Have you ever seen mushrooms growing on a decaying tree trunk?"
+          ],
+          "usefulLanguage": [
+            "fungi",
+            "spores",
+            "edible vs. poisonous",
+            "decaying wood",
+            "damp soil"
+          ],
+          "caution": "Do not endorse picking or eating wild mushrooms; maintain focus on biology and certified products.",
+          "purpose": "Elicit everyday baseline schema before introducing advanced bio-composite concepts."
+        },
+        {
+          "questionNumber": 2,
+          "question": "What products, besides food, might be made from natural materials?",
+          "likelyResponses": [
+            "Wooden desks and paper books.",
+            "Cotton shirts, wool sweaters, and leather shoes.",
+            "Bamboo straws and cardboard boxes."
+          ],
+          "followUps": [
+            "What makes a natural material better or worse than synthetic plastic?",
+            "Can a living organism be grown directly into the shape of a product?"
+          ],
+          "usefulLanguage": [
+            "renewable resource",
+            "biodegradable",
+            "raw organic matter",
+            "plant fibers"
+          ],
+          "caution": "Ensure students distinguish processed organic materials (wood, cotton) from grown bio-composites.",
+          "purpose": "Expand student perspective on materials engineering beyond traditional petroleum plastics."
+        },
+        {
+          "questionNumber": 3,
+          "question": "Why might people want materials that can compost or return to soil?",
+          "likelyResponses": [
+            "Because plastic fills up landfills and hurts ocean animals.",
+            "Compost turns into rich fertilizer for growing plants.",
+            "It stops pollution and doesn't create toxic trash."
+          ],
+          "followUps": [
+            "How long do you think plastic takes to break down compared to organic waste?",
+            "What happens to soil when organic matter decomposes naturally?"
+          ],
+          "usefulLanguage": [
+            "landfill waste",
+            "decomposition",
+            "circular economy",
+            "zero pollution"
+          ],
+          "caution": "Clarify that industrial composting requires specific temperature and moisture conditions.",
+          "purpose": "Frame the environmental and circular-economy stakes of mycelium technology."
+        }
+      ],
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": "S01",
+          "original": "You might know mushrooms as the squishy things on top of pizza.",
+          "chunkReading": "You might know mushrooms / as the squishy things / on top of pizza.",
+          "directKorean": "여러분은 버섯을 알고 있을지도 모릅니다 / 물컹한 것으로 / 피자 위의.",
+          "naturalKorean": "여러분은 버섯을 피자 위에 올라가는 물컹한 음식 정도로 알고 있을지도 모릅니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "might know X as Y",
+              "meaning": "X를 Y로 알고 있을지도 모른다",
+              "use": "modal of possibility opening an informal hook",
+              "example": "You might know him as a singer, but he is also a painter."
+            },
+            {
+              "chunk": "squishy things",
+              "meaning": "물컹물컹한 것들",
+              "use": "descriptive sensory adjective denoting soft texture",
+              "example": "The squishy wet mud stuck to our boots."
+            },
+            {
+              "chunk": "on top of pizza",
+              "meaning": "피자 위에",
+              "use": "prepositional phrase denoting culinary position",
+              "example": "Extra cheese melted on top of pizza makes it delicious."
+            }
+          ],
+          "mustKnowGrammar": "Modal auxiliary verb 'might' expressing tentative assumption; object complement structure 'know [object] as [noun phrase]'; sensory adjective 'squishy' establishing conversational tone.",
+          "feynmanExplanation": "Imagine biting into a warm slice of pizza. / You feel those soft, chewy pieces. / That is how most people meet mushrooms. / But the author is preparing a surprise: / mushrooms can do far more than sit on bread.",
+          "feynmanExplanationKo": "따뜻한 피자 한 조각을 베어무는 모습을 상상해 보세요. / 부드럽고 쫄깃한 조각들이 느껴질 것입니다. / 대부분의 사람들은 이렇게 버섯을 접합니다. / 하지만 작가는 놀라운 반전을 준비하고 있습니다. / 버섯은 빵 위에 얹히는 것보다 훨씬 더 많은 일을 할 수 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Class, notice the word 'squishy'. What image does that bring to mind? Soft, rubbery food.",
+              "korean": "여러분, 'squishy'라는 단어에 주목하세요. 어떤 이미지가 떠오르나요? 부드럽고 고무 같은 음식이죠."
+            },
+            {
+              "english": "Notice the author's strategy: start with something familiar—pizza—before introducing shocking science.",
+              "korean": "작가의 전략을 보세요: 충격적인 과학을 소개하기 전에 피자라는 친숙한 소재로 시작하고 있습니다."
+            },
+            {
+              "english": "Check: Does the author think mushrooms are ONLY for pizza? No, 'might know' shows this is just the starting point.",
+              "korean": "확인: 작가는 버섯이 오직 피자용이라고 생각할까요? 아닙니다, 'might know'는 이것이 시작점일 뿐임을 보여줍니다."
+            },
+            {
+              "english": "Correction: Remember 'squishy' is informal descriptive English; in formal essays, use 'soft' or 'flexible'.",
+              "korean": "교정: 'squishy'는 일상적인 묘사 표현입니다. 공식 에세이에서는 'soft'나 'flexible'을 쓰세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S02",
+          "original": "But did you know they’re not plants — and they can be used to make furniture, clothes, and even building bricks?",
+          "chunkReading": "But did you know / they’re not plants — / and they can be used / to make furniture, / clothes, / and even building bricks?",
+          "directKorean": "하지만 알고 있었나요 / 그것들이 식물이 아니라는 것을 — / 그리고 그것들이 사용될 수 있다는 것을 / 가구를 만들기 위해, / 옷을, / 심지어 건축용 벽돌까지?",
+          "naturalKorean": "하지만 버섯이 식물이 아니며, 가구와 옷, 심지어 건축용 벽돌을 만드는 데에도 쓰일 수 있다는 사실을 알고 계셨나요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "did you know",
+              "meaning": "알고 있었나요?",
+              "use": "rhetorical question engaging the audience",
+              "example": "Did you know that octopuses have three hearts?"
+            },
+            {
+              "chunk": "not plants",
+              "meaning": "식물이 아닌",
+              "use": "direct negative classification",
+              "example": "Corals are marine animals, not plants."
+            },
+            {
+              "chunk": "can be used to make",
+              "meaning": "~을 만드는 데 사용될 수 있다",
+              "use": "passive potential with purpose infinitive",
+              "example": "Recycled plastic can be used to make warm fleece jackets."
+            },
+            {
+              "chunk": "even building bricks",
+              "meaning": "심지어 건축용 벽돌까지",
+              "use": "intensifying adverb 'even' highlighting extremity",
+              "example": "She learned French, Spanish, and even Russian."
+            }
+          ],
+          "mustKnowGrammar": "Rhetorical question 'did you know [that clause]'; em-dash setting off parenthetical biological classification; passive voice 'can be used to make' with parallel noun objects 'furniture, clothes, and even building bricks'.",
+          "feynmanExplanation": "Here comes the big plot twist! / Mushrooms are NOT green plants. / Even wilder, people use them like wood or clay. / You can sit on a mushroom chair. / You can even build a house wall out of them!",
+          "feynmanExplanationKo": "여기서 거대한 반전이 나옵니다! / 버섯은 초록 식물이 아닙니다. / 더욱 놀라운 것은 사람들이 버섯을 나무나 점토처럼 쓴다는 점입니다. / 버섯 의자에 앉을 수도 있고, / 심지어 버섯으로 집 벽을 쌓을 수도 있습니다!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the punctuation: the em dash creates a dramatic pause before the list of inventions.",
+              "korean": "문장 부호를 보세요: 엠 대시가 발명품 목록이 나오기 전 극적인 멈춤을 만들어냅니다."
+            },
+            {
+              "english": "What three non-food products does the author list? Furniture, clothes, and building bricks.",
+              "korean": "작가가 나열한 세 가지 비식품 제품은 무엇인가요? 가구, 옷, 그리고 건축용 벽돌입니다."
+            },
+            {
+              "english": "Check: Are mushrooms plants? No, they belong to an entirely separate kingdom.",
+              "korean": "확인: 버섯은 식물인가요? 아닙니다, 완전히 분리된 생물계에 속합니다."
+            },
+            {
+              "english": "Correction: Notice the preposition in 'used to make' (purpose) versus 'used to making' (accustomed to). Here it is pure purpose infinitive.",
+              "korean": "교정: 'used to make'(목적)와 'used to making'(익숙한)의 차이에 주의하세요. 여기서는 목적의 to부정사입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S03",
+          "original": "Mushrooms are part of a whole hidden world under our feet and we’re just starting to discover how powerful they really are!",
+          "chunkReading": "Mushrooms are part / of a whole hidden world / under our feet / and we’re just starting to discover / how powerful they really are!",
+          "directKorean": "버섯은 일부분입니다 / 전체 숨겨진 세계의 / 우리 발아래에 있는 / 그리고 우리는 막 발견하기 시작했습니다 / 그것들이 얼마나 강력한지 실제로!",
+          "naturalKorean": "버섯은 우리 발밑에 숨겨진 거대한 세계의 일부분이며, 우리는 이제야 버섯이 실제로 얼마나 강력한지 발견하기 시작했습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "part of a whole hidden world",
+              "meaning": "거대한 숨겨진 세계의 일부분",
+              "use": "noun phrase emphasizing vast unseen ecology",
+              "example": "Deep-sea vents are part of a whole hidden world beneath the waves."
+            },
+            {
+              "chunk": "under our feet",
+              "meaning": "우리 발아래에, 땅속에",
+              "use": "spatial prepositional idiom for subterranean life",
+              "example": "Billions of microbes live quietly under our feet."
+            },
+            {
+              "chunk": "just starting to discover",
+              "meaning": "막 발견하기 시작했다",
+              "use": "progressive aspect indicating dawn of innovation",
+              "example": "Scientists are just starting to discover new deep-space galaxies."
+            },
+            {
+              "chunk": "how powerful they really are",
+              "meaning": "그것들이 실제로 얼마나 강력한지",
+              "use": "indirect exclamatory question clause",
+              "example": "I was amazed to learn how strong spider silk really is."
+            }
+          ],
+          "mustKnowGrammar": "Compound sentence joined by coordinating conjunction 'and'; present continuous 'are just starting to discover'; embedded interrogative noun clause 'how powerful they really are' serving as object of discover.",
+          "feynmanExplanation": "When you walk outside, you walk on ground. / But underneath your sneakers, a giant secret network lives. / Humans have ignored it for centuries. / Now scientists realize / that fungi have superpowers we can use.",
+          "feynmanExplanationKo": "밖을 걸을 때 여러분은 땅 위를 걷습니다. / 하지만 여러분의 운동화 바로 아래에 거대한 비밀 네트워크가 살고 있습니다. / 인류는 수세기 동안 이를 알지 못했습니다. / 이제 과학자들은 / 균류가 우리가 활용할 수 있는 초능력을 지녔음을 깨닫고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does the writer say 'hidden world under our feet'? Because most fungal biomass grows unseen underground.",
+              "korean": "작가는 왜 '우리 발밑의 숨겨진 세계'라고 했을까요? 균류의 대부분이 땅속에서 보이지 않게 자라기 때문입니다."
+            },
+            {
+              "english": "Notice the enthusiasm: 'we’re just starting to discover...' creates excitement for the reader.",
+              "korean": "열정적인 어조를 보세요: '우리는 막 발견하기 시작했다'는 표현이 독자의 기대감을 끌어올립니다."
+            },
+            {
+              "english": "Check: Have scientists finished discovering everything about mushrooms? No, we are 'just starting'.",
+              "korean": "확인: 과학자들은 버섯에 대한 모든 것을 다 발견했을까요? 아닙니다, '이제 막 시작'했습니다."
+            },
+            {
+              "english": "Correction: In indirect questions, maintain subject-verb order: 'how powerful they are', not 'how powerful are they'.",
+              "korean": "교정: 간접의문문 어순에 주의하세요: 'how powerful they are'이지 'how powerful are they'가 아닙니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S04",
+          "original": "Mushrooms are fungi, not plants and not animals!",
+          "chunkReading": "Mushrooms are fungi, / not plants / and not animals!",
+          "directKorean": "버섯은 균류입니다, / 식물이 아니며 / 동물이 아닙니다!",
+          "naturalKorean": "버섯은 균류이며, 식물도 아니고 동물도 아닙니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "mushrooms are fungi",
+              "meaning": "버섯은 균류이다",
+              "use": "scientific categorical classification",
+              "example": "Yeast and truffles, like mushrooms, are fungi."
+            },
+            {
+              "chunk": "not plants and not animals",
+              "meaning": "식물도 아니고 동물도 아닌",
+              "use": "emphatic paired negative contrast",
+              "example": "Sponges are animals, not plants and not minerals."
+            }
+          ],
+          "mustKnowGrammar": "Copula sentence with predicate noun 'fungi'; followed by an elliptical parenthetical negative apposition 'not plants and not animals' with exclamation mark for emphasis.",
+          "feynmanExplanation": "Think about living things on Earth. / You know animals move, and plants make food from sun. / Mushrooms do neither! / They have their own family called fungi. / They are nature's unique third group.",
+          "feynmanExplanationKo": "지구상의 생물을 생각해 보세요. / 동물은 움직이고, 식물은 햇빛으로 영양분을 만듭니다. / 버섯은 둘 다 아닙니다! / 버섯은 균류라는 자신들만의 고유한 가족을 이룹니다. / 자연계의 독특한 제3의 무리입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how concise this sentence is: only eight words, but huge scientific impact.",
+              "korean": "이 문장이 얼마나 간결한지 보세요: 8단어에 불과하지만 엄청난 과학적 무게를 담고 있습니다."
+            },
+            {
+              "english": "Pronounce 'fungi': /FUN-jye/ or /FUNG-gye/. Both are acceptable in English.",
+              "korean": "'fungi'의 발음을 확인하세요: /FUN-jye/ 또는 /FUNG-gye/ 둘 다 표준 영어에서 인정됩니다."
+            },
+            {
+              "english": "Check: Is a mushroom an animal? No. Is it a plant? No. It is a fungus.",
+              "korean": "확인: 버섯은 동물인가요? 아닙니다. 식물인가요? 아닙니다. 균류입니다."
+            },
+            {
+              "english": "Correction: Remember 'fungus' is singular; 'fungi' is the plural Latin form.",
+              "korean": "교정: 'fungus'는 단수형이고, 'fungi'는 라틴어 복수형입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S05",
+          "original": "They grow from a hidden network of tiny threads underground called mycelium (say: my-SEE-lee-um).",
+          "chunkReading": "They grow / from a hidden network / of tiny threads underground / called mycelium / (say: my-SEE-lee-um).",
+          "directKorean": "그것들은 자랍니다 / 숨겨진 네트워크로부터 / 땅속의 미세한 실들의 / 균사체라 불리는 / (발음: my-SEE-lee-um).",
+          "naturalKorean": "버섯은 균사체(발음: my-SEE-lee-um)라고 불리는 땅속의 미세한 실로 이루어진 숨겨진 네트워크에서 자랍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "grow from",
+              "meaning": "~로부터 자라나다, 기원하다",
+              "use": "phrasal verb indicating biological source",
+              "example": "Mighty pine trees grow from tiny seeds."
+            },
+            {
+              "chunk": "hidden network of tiny threads",
+              "meaning": "미세한 실들의 숨겨진 망",
+              "use": "descriptive physical noun phrase",
+              "example": "Spiders weave a hidden network of tiny threads across the bush."
+            },
+            {
+              "chunk": "called mycelium",
+              "meaning": "균사체라고 불리는",
+              "use": "reduced relative passive clause for technical naming",
+              "example": "The green plant pigment called chlorophyll absorbs sunlight."
+            },
+            {
+              "chunk": "say: my-SEE-lee-um",
+              "meaning": "발음: my-SEE-lee-um",
+              "use": "explicit classroom pronunciation gloss",
+              "example": "This stone is called basalt (say: buh-SALT)."
+            }
+          ],
+          "mustKnowGrammar": "Intransitive verb 'grow' with prepositional phrase of origin; post-modifying prepositional phrase 'of tiny threads underground'; past participle phrase 'called mycelium' functioning adjectivally; parenthetical pronunciation guide.",
+          "feynmanExplanation": "The mushroom cap you see is only the flower. / The real body is underground. / It looks like millions of tiny white threads / woven together like a giant spiderweb. / Scientists call this web mycelium.",
+          "feynmanExplanationKo": "우리가 눈으로 보는 버섯 갓은 꽃에 불과합니다. / 진짜 몸체통은 땅속에 있습니다. / 거대한 거미줄처럼 얽혀 있는 / 수백만 개의 미세한 흰색 실처럼 생겼습니다. / 과학자들은 이 그물망을 균사체라고 부릅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Everyone look at the pronunciation guide inside parentheses: 'say: my-SEE-lee-um'. Let's say it three times together.",
+              "korean": "괄호 안의 발음 가이드를 보세요: 'say: my-SEE-lee-um'. 다 함께 세 번 소리 내어 읽어봅시다."
+            },
+            {
+              "english": "What metaphor does the author use? A 'network of tiny threads'. That describes the structure clearly.",
+              "korean": "작가는 어떤 비유를 사용했나요? '미세한 실들의 네트워크'입니다. 구조를 명쾌하게 묘사하죠."
+            },
+            {
+              "english": "Check: Is mycelium above ground or underground? It is primarily underground.",
+              "korean": "확인: 균사체는 지상에 있나요, 지하에 있나요? 주로 지하에 있습니다."
+            },
+            {
+              "english": "Correction: Do not confuse 'mycelium' (the root-like thread network) with the 'fruit body' (the visible mushroom on top).",
+              "korean": "교정: 'mycelium'(뿌리 같은 실 그물망)과 'fruit body'(지상에 보이는 자실체 버섯)를 혼동하지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S06",
+          "original": "Mycelium acts like the roots of the mushroom and spreads through soil, trees, and even dead plants to find food.",
+          "chunkReading": "Mycelium acts / like the roots of the mushroom / and spreads / through soil, / trees, / and even dead plants / to find food.",
+          "directKorean": "균사체는 작용합니다 / 버섯의 뿌리처럼 / 그리고 퍼져나갑니다 / 토양, / 나무들, / 그리고 심지어 죽은 식물들을 통해 / 먹이를 찾기 위해.",
+          "naturalKorean": "균사체는 버섯의 뿌리 같은 역할을 하며, 먹이를 찾기 위해 흙과 나무, 심지어 죽은 식물 속까지 뻗어나갑니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "acts like the roots",
+              "meaning": "뿌리처럼 작용하다",
+              "use": "functional analogical simile",
+              "example": "The rudder acts like the steering wheel of a boat."
+            },
+            {
+              "chunk": "spreads through",
+              "meaning": "~을 통과하여 퍼져나가다",
+              "use": "spatial distribution verb phrase",
+              "example": "Warm water spreads through the heating pipes."
+            },
+            {
+              "chunk": "even dead plants",
+              "meaning": "심지어 죽은 식물까지도",
+              "use": "inclusion marker showing wide substrate variety",
+              "example": "The cleanup team collected litter and even dead plants."
+            },
+            {
+              "chunk": "to find food",
+              "meaning": "먹이를 찾기 위해",
+              "use": "infinitive of purpose",
+              "example": "Wolves travel long distances to find food during winter."
+            }
+          ],
+          "mustKnowGrammar": "Simile structure 'acts like [noun phrase]'; compound predicate with parallel verbs 'acts' and 'spreads'; list of prepositional complements 'through soil, trees, and even dead plants'; infinitive of purpose 'to find food'.",
+          "feynmanExplanation": "Think of mycelium as fungal roots. / It creeps through dirt and old wood like microscopic fingers. / It hunts for anything decaying. / When it finds dead leaves, / it digests them and drinks up the nutrients.",
+          "feynmanExplanationKo": "균사체를 버섯의 뿌리라고 생각해 보세요. / 미세한 손가락처럼 흙과 오래된 나무 속을 기어 다닙니다. / 썩어가는 모든 것을 찾아다닙니다. / 죽은 나뭇잎을 발견하면, / 그것을 분해하여 영양분을 흡수합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does the text say 'acts LIKE the roots' instead of 'is the roots'? Because biologically, fungi don't have true botanical roots.",
+              "korean": "왜 '뿌리이다'라고 하지 않고 '뿌리처럼 작용한다'고 했을까요? 생물학적으로 균류는 식물학적 진짜 뿌리를 갖고 있지 않기 때문입니다."
+            },
+            {
+              "english": "Notice the three places mycelium spreads: soil, trees, and dead plants.",
+              "korean": "균사체가 뻗어 나가는 세 장소를 확인하세요: 흙, 나무, 그리고 죽은 식물입니다."
+            },
+            {
+              "english": "Check: What is the purpose of this underground spreading? 'To find food'.",
+              "korean": "확인: 이 지하 확장의 목적은 무엇인가요? 바로 '먹이를 찾기 위해서'입니다."
+            },
+            {
+              "english": "Correction: Notice the subject-verb agreement: 'Mycelium' is singular here, taking 'acts' and 'spreads'.",
+              "korean": "교정: 주어-동사 수 일치에 주의하세요: 'Mycelium'은 여기서 단수로 취급되어 'acts'와 'spreads'가 옵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S07",
+          "original": "Mushrooms are made of: mycelium (the base and root system), water (up to 90%!), proteins and fiber, chitin (a tough material also found in insect shells)",
+          "chunkReading": "Mushrooms are made of: / mycelium (the base and root system), / water (up to 90%!), / proteins and fiber, / chitin (a tough material also found in insect shells)",
+          "directKorean": "버섯은 다음으로 구성됩니다: / 균사체 (기반이자 뿌리 체계), / 수분 (최대 90%까지!), / 단백질과 섬유질, / 키틴 (곤충 껍질에서도 발견되는 단단한 물질)",
+          "naturalKorean": "버섯은 균사체(기반이자 뿌리 체계), 수분(최대 90%에 달함!), 단백질과 섬유질, 그리고 곤충의 껍질에서도 발견되는 단단한 물질인 키틴으로 구성되어 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "are made of",
+              "meaning": "~로 구성되어 있다",
+              "use": "passive phrase of physical composition",
+              "example": "These sturdy benches are made of recycled plastic."
+            },
+            {
+              "chunk": "the base and root system",
+              "meaning": "기반이자 뿌리 체계",
+              "use": "appositive explanation of mycelium",
+              "example": "The massive trunk is the base and support system of the tree."
+            },
+            {
+              "chunk": "up to 90%!",
+              "meaning": "최대 90%까지!",
+              "use": "quantitative upper-limit exclamation",
+              "example": "Watermelon is made of water (up to 92%!)."
+            },
+            {
+              "chunk": "also found in insect shells",
+              "meaning": "곤충 껍질에서도 발견되는",
+              "use": "participial modifier denoting cross-species material",
+              "example": "Keratin is a protein also found in bird feathers."
+            }
+          ],
+          "mustKnowGrammar": "Colon introducing an itemized analytical list; multiple parenthetical glosses clarifying technical terms; past participle phrase 'also found in insect shells' modifying 'a tough material'.",
+          "feynmanExplanation": "What is inside a mushroom? / Mostly water—nearly nine-tenths of it! / Plus healthy proteins and plant-like fiber. / And it has chitin, / the exact same armor that makes beetles hard and shiny.",
+          "feynmanExplanationKo": "버섯 속통통에는 무엇이 들어 있을까요? / 대부분 수분입니다—거의 10분의 9에 달합니다! / 거기에 건강한 단백질과 섬유질이 있고, / 딱정벌레 껍질을 단단하고 윤기 나게 만드는 / 바로 그 갑옷 같은 성분인 키틴이 들어 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the four components listed after the colon: mycelium, water, proteins/fiber, and chitin.",
+              "korean": "콜론 뒤에 나열된 네 가지 구성 성분을 보세요: 균사체, 수분, 단백질/섬유질, 그리고 키틴입니다."
+            },
+            {
+              "english": "Why does the author put an exclamation mark after 'up to 90%!'? Because that is surprisingly high water content.",
+              "korean": "작가는 왜 'up to 90%!' 뒤에 느낌표를 붙였을까요? 수분 함량이 놀라울 정도로 높기 때문입니다."
+            },
+            {
+              "english": "Check: What other living creature shares chitin with mushrooms? Insects (their hard outer shells).",
+              "korean": "확인: 버섯과 키틴을 공유하는 다른 생물은 무엇인가요? 곤충(단단한 겉껍질)입니다."
+            },
+            {
+              "english": "Correction: Notice the colon usage: in English, a colon introduces an explanation or itemized list following a complete thought.",
+              "korean": "교정: 콜론 용법에 주목하세요: 영어에서 콜론은 온전한 생각 뒤에 설명이나 나열 항목을 이끌 때 씁니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S08",
+          "original": "Unlike plants, mushrooms don’t need sunlight.",
+          "chunkReading": "Unlike plants, / mushrooms don’t need sunlight.",
+          "directKorean": "식물들과 달리, / 버섯은 햇빛을 필요로 하지 않습니다.",
+          "naturalKorean": "식물과 달리, 버섯은 햇빛을 전혀 필요로 하지 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Unlike plants",
+              "meaning": "식물들과 달리",
+              "use": "introductory prepositional phrase of biological contrast",
+              "example": "Unlike reptiles, mammals feed their young with milk."
+            },
+            {
+              "chunk": "don’t need sunlight",
+              "meaning": "햇빛을 필요로 하지 않는다",
+              "use": "negative statement of photosynthetic independence",
+              "example": "Cave fish don’t need sunlight to navigate dark underground rivers."
+            }
+          ],
+          "mustKnowGrammar": "Fronted prepositional contrast phrase 'Unlike plants' followed by comma; simple present negative clause 'mushrooms don’t need sunlight'.",
+          "feynmanExplanation": "Think about houseplants on your windowsill. / If you put them in a dark closet, they die. / But mushrooms love the dark! / They do not have green leaves to catch the sun. / Sunlight does nothing for them.",
+          "feynmanExplanationKo": "창가에 놓인 화분을 생각해 보세요. / 어두운 벽장에 넣어두면 식물은 죽습니다. / 하지만 버섯은 어둠을 아주 좋아합니다! / 햇빛을 받을 초록색 잎이 없기 때문입니다. / 버섯에게 햇빛은 아무런 소용이 없습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What is the key contrast word here? 'Unlike'. It shows a sharp difference between two groups.",
+              "korean": "여기서 핵심 대조 표현은 무엇인가요? 'Unlike'입니다. 두 집단 사이의 뚜렷한 차이를 보여줍니다."
+            },
+            {
+              "english": "Why don't mushrooms need sunlight? Because they don't produce food through photosynthesis.",
+              "korean": "버섯은 왜 햇빛이 필요 없을까요? 광합성을 통해 스스로 영양분을 만들지 않기 때문입니다."
+            },
+            {
+              "english": "Check: If you lock a mushroom in a dark box, will it starve from lack of light? No, it doesn't need light.",
+              "korean": "확인: 버섯을 어두운 상자에 가두면 빛이 없어서 굶어 죽을까요? 아닙니다, 빛이 전혀 필요 없습니다."
+            },
+            {
+              "english": "Correction: Make sure to place a comma after an introductory prepositional phrase like 'Unlike plants, ...'.",
+              "korean": "교정: 'Unlike plants, ...'처럼 문두에 오는 전치사구 뒤에는 반드시 쉼표를 찍어야 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S09",
+          "original": "They grow in dark, damp places and “eat” nutrients from other things, like wood or compost.",
+          "chunkReading": "They grow / in dark, damp places / and “eat” nutrients / from other things, / like wood or compost.",
+          "directKorean": "그것들은 자랍니다 / 어둡고 축축한 장소에서 / 그리고 영양분을 '먹습니다' / 다른 것들로부터, / 나무나 퇴비 같은.",
+          "naturalKorean": "버섯은 어둡고 축축한 장소에서 자라며, 나무나 퇴비 같은 다른 유기물에서 영양분을 '먹어' 치웁니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "dark, damp places",
+              "meaning": "어둡고 축축한 장소들",
+              "use": "coordinated adjectives depicting environmental niche",
+              "example": "Earthworms thrive in dark, damp places beneath garden stones."
+            },
+            {
+              "chunk": "“eat” nutrients",
+              "meaning": "영양분을 '먹다'",
+              "use": "figurative quotation marks for fungal absorption",
+              "example": "Plants absorb minerals while fungi “eat” dead organic matter."
+            },
+            {
+              "chunk": "from other things",
+              "meaning": "다른 것들로부터",
+              "use": "prepositional source phrase",
+              "example": "Parasites extract energy from other things in their ecosystem."
+            },
+            {
+              "chunk": "like wood or compost",
+              "meaning": "나무나 퇴비 같은",
+              "use": "exemplification prepositional phrase",
+              "example": "Recycle organic scrap like wood or compost into rich garden mulch."
+            }
+          ],
+          "mustKnowGrammar": "Coordinated predicate 'grow... and “eat”...'; scare quotes on '“eat”' indicating non-literal digestive absorption; prepositional phrase of example 'like wood or compost'.",
+          "feynmanExplanation": "Where do you find mushrooms in the forest? / In shadowed, soggy hollows under damp logs. / They don't have mouths to chew. / Instead, they soak up food like a sponge drinking soup / from rotting wood and rich compost.",
+          "feynmanExplanationKo": "숲속 어디에서 버섯을 찾을 수 있을까요? / 축축한 통나무 밑 그늘지고 축축한 곳입니다. / 버섯통에는 씹을 입이 없습니다. / 대신 썩은 나무와 거름에서 / 스펀지가 국물을 빨아들이듯 영양분을 흡수합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why is the word 'eat' inside quotation marks? Because fungi don't have mouths; they absorb nutrients through cellular walls.",
+              "korean": "왜 'eat' 단어에 따옴표가 붙어 있을까요? 버섯은 입이 없기 때문입니다. 세포벽을 통해 외부에서 영양분을 흡수하죠."
+            },
+            {
+              "english": "Notice the two adjectives describing their habitat: 'dark' and 'damp'. Both start with 'd'—nice alliteration.",
+              "korean": "서식지를 묘사하는 두 형용사를 보세요: 'dark'와 'damp'입니다. 둘 다 d로 시작하는 멋진 두운법입니다."
+            },
+            {
+              "english": "Check: What two examples of food sources does the text provide? Wood and compost.",
+              "korean": "확인: 본문에서 제시한 두 가지 먹이 공급원 예시는 무엇인가요? 나무와 퇴비입니다."
+            },
+            {
+              "english": "Correction: Remember 'compost' refers to decomposed organic plant matter, not synthetic fertilizer.",
+              "korean": "교정: 'compost'는 썩은 유기물 퇴비를 의미하며, 화학 비료가 아닙니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S10",
+          "original": "Mushrooms are packed with good stuff that helps your body stay strong.",
+          "chunkReading": "Mushrooms are packed / with good stuff / that helps your body / stay strong.",
+          "directKorean": "버섯은 가득 차 있습니다 / 좋은 것들로 / 여러분의 몸이 유지되도록 돕는 / 튼튼하게.",
+          "naturalKorean": "버섯은 여러분의 몸을 튼튼하게 유지해 주는 유익한 성분으로 가득 차 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "packed with",
+              "meaning": "~로 가득 찬",
+              "use": "idiomatic passive participle meaning richly filled",
+              "example": "Oranges are packed with vitamin C and natural citrus juice."
+            },
+            {
+              "chunk": "good stuff",
+              "meaning": "유익한 물질, 좋은 성분",
+              "use": "informal friendly phrase for nutrients",
+              "example": "Eat plenty of green vegetables to get all the good stuff."
+            },
+            {
+              "chunk": "helps your body stay strong",
+              "meaning": "몸이 튼튼하게 유지되도록 돕다",
+              "use": "causative/assistive verb structure: help + object + bare infinitive",
+              "example": "Regular daily exercise helps your body stay strong."
+            }
+          ],
+          "mustKnowGrammar": "Passive idiom 'are packed with [noun]'; restrictive relative clause 'that helps your body stay strong' modifying 'good stuff'; verb pattern 'help + object + bare infinitive (stay) + predicate adjective (strong)'.",
+          "feynmanExplanation": "Now we move to Image 2: nutrition. / Think of a mushroom like a tiny natural treasure chest. / It is stuffed full of vitamins and minerals. / These nutrients help your muscles, / bones, and blood stay healthy.",
+          "feynmanExplanationKo": "이제 2번 이미지인 영양 부분으로 넘어갑니다. / 버섯을 작은 자연의 보물상자라고 생각해 보세요. / 비타민과 미네랄로 가득 차 있습니다. / 이러한 영양소들은 여러분의 근육, / 뼈, 그리고 혈액이 건강을 유지하도록 돕습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the phrase 'packed with'. It means loaded to the brim with helpful nutrients.",
+              "korean": "'packed with'라는 표현을 보세요. 유익한 영양소로 가득 차 있다는 뜻입니다."
+            },
+            {
+              "english": "Notice the verb pattern: 'helps your body stay strong'. In English, 'help' can take a bare infinitive like 'stay'.",
+              "korean": "동사 패턴을 보세요: 'helps your body stay strong'. 영어에서 help는 목적어 뒤에 원형부정사(stay)를 취할 수 있습니다."
+            },
+            {
+              "english": "Check: What section does this sentence begin? Image 2, on the claimed benefits of mushrooms.",
+              "korean": "확인: 이 문장은 어떤 섹션을 시작하나요? 버섯의 효능을 다룬 2번 이미지입니다."
+            },
+            {
+              "english": "Correction: 'Good stuff' is conversational; in academic essays, substitute 'beneficial nutrients' or 'essential compounds'.",
+              "korean": "교정: 'Good stuff'는 구어체입니다. 학술 에세이에서는 'beneficial nutrients'나 'essential compounds'로 바꿔 쓰세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S11",
+          "original": "Many mushrooms are rich in vitamins like B and D, which help with energy and strong bones.",
+          "chunkReading": "Many mushrooms are rich / in vitamins like B and D, / which help with energy / and strong bones.",
+          "directKorean": "많은 버섯들은 풍부합니다 / B와 D 같은 비타민들이, / 그런데 그것들은 에너지에 도움을 줍니다 / 그리고 튼튼한 뼈에.",
+          "naturalKorean": "많은 버섯에는 비타민 B와 D가 풍부하게 들어 있으며, 이는 에너지 생성과 뼈 건강에 도움을 줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "rich in vitamins",
+              "meaning": "비타민이 풍부한",
+              "use": "adjective phrase indicating high nutrient concentration",
+              "example": "Spinach is rich in iron and leafy vitamins."
+            },
+            {
+              "chunk": "vitamins like B and D",
+              "meaning": "B와 D 같은 비타민",
+              "use": "exemplification of specific vitamin groups",
+              "example": "Citrus fruits provide vitamins like C and A."
+            },
+            {
+              "chunk": "which help with",
+              "meaning": "그런데 그것들은 ~에 도움을 준다",
+              "use": "non-defining relative clause providing supplemental benefits",
+              "example": "Regular walking strengthens your heart, which helps with overall endurance."
+            },
+            {
+              "chunk": "energy and strong bones",
+              "meaning": "활력과 튼튼한 뼈",
+              "use": "parallel compound noun benefits",
+              "example": "Calcium and sunlight are vital for energy and strong bones."
+            }
+          ],
+          "mustKnowGrammar": "Adjective complementation 'rich in [noun]'; non-defining relative clause introduced by ', which' referring back to the vitamins; phrasal verb 'help with [noun phrase]'.",
+          "feynmanExplanation": "Your body needs two special vitamins: / Vitamin B helps turn your food into energy. / Vitamin D helps your bones absorb calcium so they do not break. / Mushrooms provide both of them naturally.",
+          "feynmanExplanationKo": "여러분의 몸에는 두 가지 특별한 비타민이 필요합니다: / 비타민 B는 음식을 활력(에너지)으로 바꾸는 데 도움을 주고, / 비타민 D는 뼈가 칼슘을 흡수하여 부러지지 않도록 돕습니다. / 버섯은 이 두 가지를 자연스럽게 공급합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Which two vitamins are explicitly mentioned in Image 2? Vitamin B and Vitamin D.",
+              "korean": "2번 이미지에 명시된 두 가지 비타민은 무엇인가요? 비타민 B와 비타민 D입니다."
+            },
+            {
+              "english": "Notice the non-defining relative clause: ', which help with energy'. The comma is mandatory here.",
+              "korean": "계속적 용법의 관계대명사절을 보세요: ', which help with energy'. 여기서 쉼표는 필수입니다."
+            },
+            {
+              "english": "Check: What do vitamins B and D assist with according to the text? Energy and strong bones.",
+              "korean": "확인: 본문에 따르면 비타민 B와 D는 무엇을 돕나요? 에너지와 튼튼한 뼈입니다."
+            },
+            {
+              "english": "Correction: Remember to capitalize vitamin letter designations: 'B and D', not 'b and d'.",
+              "korean": "교정: 비타민 알파벳 표기는 대문자로 써야 합니다: 'B and D'이지 'b and d'가 아닙니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S12",
+          "original": "They also have antioxidants, which protect your cells and help your immune system fight off sickness.",
+          "chunkReading": "They also have antioxidants, / which protect your cells / and help your immune system / fight off sickness.",
+          "directKorean": "그것들은 또한 항산화 물질을 지니고 있습니다, / 그런데 그것들은 세포를 보호합니다 / 그리고 면역 체계를 돕습니다 / 질병을 퇴치하도록.",
+          "naturalKorean": "버섯에는 항산화 물질도 함유되어 있어, 세포를 보호하고 면역 체계가 질병을 물리치도록 도와줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "also have antioxidants",
+              "meaning": "항산화 물질 또한 가지고 있다",
+              "use": "additive transition introducing second health property",
+              "example": "Green tea leaves also have antioxidants that support cell health."
+            },
+            {
+              "chunk": "protect your cells",
+              "meaning": "세포를 보호하다",
+              "use": "transitive action verb phrase for cellular defense",
+              "example": "Sunscreen lotions protect your cells from ultraviolet rays."
+            },
+            {
+              "chunk": "help your immune system",
+              "meaning": "면역 체계를 돕다",
+              "use": "assistive verb with physiological object",
+              "example": "Sufficient deep sleep helps your immune system stay vigilant."
+            },
+            {
+              "chunk": "fight off sickness",
+              "meaning": "질병을 물리치다, 퇴치하다",
+              "use": "phrasal verb denoting resistance to illness",
+              "example": "White blood cells fight off sickness caused by bacterial infections."
+            }
+          ],
+          "mustKnowGrammar": "Additive adverb 'also'; non-defining relative clause introduced by ', which'; compound predicate inside relative clause 'protect... and help...'; verb pattern 'help [object] [bare infinitive: fight off]'.",
+          "feynmanExplanation": "Inside your body, cells take damage every day. / Think of antioxidants like microscopic shields. / They block harmful chemicals. / They give your immune system extra power / to kick germs and sickness out.",
+          "feynmanExplanationKo": "몸속 세포들은 매일 손상을 입습니다. / 항산화 물질을 미세한 방패라고 생각해보세요. / 해로운 화학물질을 차단해 줍니다. / 그리고 면역 체계에 추가적인 힘을 주어 / 세균과 질병을 밖으로 쫓아내도록 돕습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the phrasal verb 'fight off'. It means to repel or resist an attack, like fighting off a cold.",
+              "korean": "'fight off'라는 구동사를 보세요. 감기를 물리치듯 공격을 격퇴하거나 저항한다는 뜻입니다."
+            },
+            {
+              "english": "What do antioxidants protect according to the text? Your cells.",
+              "korean": "본문에 따르면 항산화 물질은 무엇을 보호하나요? 여러분의 세포입니다."
+            },
+            {
+              "english": "Check: How should we report this in an academic essay? Write 'According to Image 2, the author claims that antioxidants...'",
+              "korean": "확인: 학술 에세이에서 이를 어떻게 보고해야 할까요? '2번 이미지에 따르면, 작가는 항산화 물질이...라고 주장한다'처럼 써야 합니다."
+            },
+            {
+              "english": "Correction: Do not write 'cure all diseases'; the text says 'help your immune system fight off sickness'.",
+              "korean": "교정: '모든 병을 치료한다'고 쓰지 마세요. 본문은 '면역 체계가 질병을 물리치도록 돕는다'고 했습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S13",
+          "original": "Some types, like shiitake and maitake, are even used in medicine to help people feel better and stay healthy.",
+          "chunkReading": "Some types, / like shiitake and maitake, / are even used in medicine / to help people feel better / and stay healthy.",
+          "directKorean": "일부 종류들은, / 표고와 잎새버섯 같은, / 심지어 의약품에 사용됩니다 / 사람들이 기운을 차리도록 돕기 위해 / 그리고 건강을 유지하도록.",
+          "naturalKorean": "표고버섯이나 잎새버섯 같은 일부 종류는 사람들이 기운을 차리고 건강을 유지할 수 있도록 돕는 의약품으로도 쓰입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Some types, like X and Y",
+              "meaning": "X와 Y 같은 일부 종류들",
+              "use": "exemplification appositive phrase",
+              "example": "Some berries, like blueberries and blackberries, are rich in fiber."
+            },
+            {
+              "chunk": "shiitake and maitake",
+              "meaning": "표고버섯과 잎새버섯",
+              "use": "specific East Asian medicinal mushroom varieties",
+              "example": "Chefs value shiitake and maitake for their savory umami flavor."
+            },
+            {
+              "chunk": "used in medicine",
+              "meaning": "의약품에 사용되는",
+              "use": "passive application phrase",
+              "example": "Certain tree barks are used in medicine to relieve pain."
+            },
+            {
+              "chunk": "feel better and stay healthy",
+              "meaning": "기운을 차리고 건강을 유지하다",
+              "use": "parallel sensory and linking predicates",
+              "example": "Warm soup and plenty of rest help patients feel better and stay healthy."
+            }
+          ],
+          "mustKnowGrammar": "Parenthetical prepositional phrase 'like shiitake and maitake' set off by commas; passive matrix clause 'are even used in medicine'; infinitive of purpose 'to help people feel better and stay healthy'.",
+          "feynmanExplanation": "Have you ever heard of shiitake or maitake mushrooms? / Doctors and traditional healers have studied them for centuries. / They extract helpful compounds from them. / They turn them into medicines / to help sick people regain their strength.",
+          "feynmanExplanationKo": "표고버섯이나 잎새버섯에 대해 들어본 적이 있나요? / 의사들과 전통 치료사들은 수세기 동안 이 버섯들을 연구해 왔습니다. / 버섯에서 유익한 성분을 추출하여 / 약으로 만듭니다. / 아픈 사람들이 기운을 되찾도록 돕기 위해서입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the two mushroom varieties named: 'shiitake' and 'maitake'. Both names come from Japanese.",
+              "korean": "언급된 두 가지 버섯 품종에 주목하세요: 'shiitake'(표고)와 'maitake'(잎새버섯)입니다. 둘 다 일본어 어원에서 유래했습니다."
+            },
+            {
+              "english": "Notice the word 'even': 'are even used in medicine'. It emphasizes how extraordinary this application is.",
+              "korean": "'even'이라는 단어를 보세요: 'are even used in medicine'. 이러한 활용이 얼마나 놀라운지를 강조합니다."
+            },
+            {
+              "english": "Check: Are all mushrooms used in medicine? No, the text specifies 'Some types'.",
+              "korean": "확인: 모든 버섯이 약으로 쓰이나요? 아닙니다, 본문은 'Some types'(일부 종류)라고 명시했습니다."
+            },
+            {
+              "english": "Correction: When citing health claims, remind students that these are traditional or historical uses cited in the text, not clinical advice.",
+              "korean": "교정: 건강 관련 주장을 인용할 때는 본문에 언급된 전통적 혹은 역사적 활용 사례일 뿐, 임상적 의료 조언이 아님을 학생들에게 상기시키세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S14",
+          "original": "Artist Danielle Trofe makes lights and lamps out of mushroom materials, called MushLumes.",
+          "chunkReading": "Artist Danielle Trofe / makes lights and lamps / out of mushroom materials, / called MushLumes.",
+          "directKorean": "예술가 대니엘 트로피는 / 조명과 전등을 만듭니다 / 버섯 소재로, / 머쉬룸(MushLumes)이라 불리는.",
+          "naturalKorean": "예술가 대니엘 트로피는 '머쉬룸(MushLumes)'이라고 불리는 버섯 소재 조명과 전등을 만듭니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Artist Danielle Trofe",
+              "meaning": "예술가 대니엘 트로피",
+              "use": "appositive title and proper noun introduction",
+              "example": "Architect Frank Lloyd Wright designed houses in harmony with nature."
+            },
+            {
+              "chunk": "makes lights and lamps",
+              "meaning": "조명과 전등을 만들다",
+              "use": "transitive production verb with concrete products",
+              "example": "The artisan makes lights and lamps from blown glass."
+            },
+            {
+              "chunk": "out of mushroom materials",
+              "meaning": "버섯 소재로",
+              "use": "prepositional phrase of material origin",
+              "example": "Sculptors carve statues out of marble blocks."
+            },
+            {
+              "chunk": "called MushLumes",
+              "meaning": "머쉬룸이라 불리는",
+              "use": "post-modifying past participle phrase introducing brand name",
+              "example": "She founded an innovative design studio called MushLumes."
+            }
+          ],
+          "mustKnowGrammar": "Title preceding proper noun subject 'Artist Danielle Trofe'; present tense transitive verb 'makes'; compound direct object 'lights and lamps'; prepositional phrase of composition 'out of mushroom materials'; past participle 'called MushLumes' modifying the products.",
+          "feynmanExplanation": "Now we step into Image 3: design! / Meet Danielle Trofe. / She is an artist, but she thinks like a bio-engineer. / She does not buy plastic lampshades from a factory. / She actually grows lamp shades out of fungus!",
+          "feynmanExplanationKo": "이제 3번 이미지인 디자인 영역으로 들어갑니다! / 대니엘 트로피를 만나보세요. / 그녀는 예술가이지만 바이오 엔지니어처럼 생각합니다. / 공장에서 플라스틱 전등갓을 사지 않고, / 실제로 균류를 이용해 전등갓을 길러냅니다!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the brand name: 'MushLumes'. What two words combine here? 'Mushroom' and 'Lumen' (light). Clever branding!",
+              "korean": "브랜드명을 보세요: 'MushLumes'. 어떤 두 단어가 결합되었나요? 'Mushroom'(버섯)과 'Lumen'(빛)입니다. 기발한 작명이죠!"
+            },
+            {
+              "english": "Who is the creator? Danielle Trofe, an American designer working with bio-composites.",
+              "korean": "제작자는 누구인가요? 바이오 복합 소재를 다루는 미국 디자이너 대니엘 트로피입니다."
+            },
+            {
+              "english": "Check: What does Danielle Trofe make? Lights and lamps out of mushroom materials.",
+              "korean": "확인: 대니엘 트로피는 무엇을 만드나요? 버섯 소재로 조명과 전등을 만듭니다."
+            },
+            {
+              "english": "Correction: Ensure correct spelling of both proper nouns: 'Danielle Trofe' and 'MushLumes'.",
+              "korean": "교정: 두 고유명사 'Danielle Trofe'와 'MushLumes'의 철자를 정확히 쓰도록 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S15",
+          "original": "She mixes corn stalks and hemp with live mycelium, then presses the mix into a mold shaped like lamp parts.",
+          "chunkReading": "She mixes / corn stalks and hemp / with live mycelium, / then presses the mix / into a mold / shaped like lamp parts.",
+          "directKorean": "그녀는 섞습니다 / 옥수수 줄기와 삼(hemp)을 / 살아있는 균사체와, / 그런 다음 그 혼합물을 누릅니다 / 틀 속으로 / 전등 부품처럼 생긴.",
+          "naturalKorean": "그녀는 옥수수 줄기와 삼(대마 섬유)을 살아있는 균사체와 섞은 다음, 전등 부품 모양으로 만들어진 틀에 그 혼합물을 눌러 담습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "mixes X with Y",
+              "meaning": "X를 Y와 섞다",
+              "use": "recipe or manufacturing blending structure",
+              "example": "The potter mixes clay with water to achieve proper consistency."
+            },
+            {
+              "chunk": "corn stalks and hemp",
+              "meaning": "옥수수 줄기와 삼(삼 섬유)",
+              "use": "agricultural plant waste substrates",
+              "example": "Farmers gather dried corn stalks and hemp after harvest season."
+            },
+            {
+              "chunk": "live mycelium",
+              "meaning": "살아있는 균사체",
+              "use": "biological active bonding agent",
+              "example": "Inoculate the sawdust substrate with live mycelium."
+            },
+            {
+              "chunk": "presses the mix into a mold",
+              "meaning": "혼합물을 틀에 눌러 담다",
+              "use": "shaping and forming action verb phrase",
+              "example": "Pour the wet cement and press the mix into a wooden mold."
+            },
+            {
+              "chunk": "shaped like lamp parts",
+              "meaning": "전등 부품처럼 생긴",
+              "use": "participial phrase of geometric resemblance",
+              "example": "Bake small butter cookies shaped like autumn leaves."
+            }
+          ],
+          "mustKnowGrammar": "Sequential compound predicate 'mixes... then presses...'; prepositional blending phrase 'with live mycelium'; noun phrase 'the mix'; directional prepositional phrase 'into a mold'; past participial phrase 'shaped like lamp parts'.",
+          "feynmanExplanation": "How do you make a lamp out of fungus? / First, gather farm leftovers like dried corn stems and hemp fibers. / Next, stir in living mycelium threads. / Then shove the moist mixture into a lamp-shaped tray / and pack it down tight.",
+          "feynmanExplanationKo": "어떻게 균류로 전등을 만들까요? / 먼저 말린 옥수수 줄기나 삼 섬유 같은 농장 부산물을 모읍니다. / 그런 다음 살아있는 균사체 실을 넣어 섞습니다. / 그리고 축축한 혼합물을 전등 모양의 틀에 밀어 넣고 / 단단하게 꾹꾹 눌러 담습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What are the three main ingredients? Corn stalks, hemp, and live mycelium.",
+              "korean": "세 가지 주요 재료는 무엇인가요? 옥수수 줄기, 삼(hemp), 그리고 살아있는 균사체입니다."
+            },
+            {
+              "english": "Notice the sequence adverb: 'then presses the mix into a mold'. It marks step two of the manufacturing process.",
+              "korean": "순서 부사 'then presses the mix into a mold'에 주목하세요. 제조 공정의 2단계를 나타냅니다."
+            },
+            {
+              "english": "Check: What gives the lampshade its final form? The mold shaped like lamp parts.",
+              "korean": "확인: 전등갓에 최종 형태를 부여하는 것은 무엇인가요? 전등 부품 모양으로 만들어진 틀(mold)입니다."
+            },
+            {
+              "english": "Correction: 'Stalks' means plant stems (pronounced /stawks/); do not confuse with 'stalk' meaning to follow stealthily.",
+              "korean": "교정: 'Stalks'는 식물의 줄기(발음: /stawks/)를 뜻합니다. 은밀히 뒤쫓다는 뜻의 동사와 혼동하지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S16",
+          "original": "After a few days, the mycelium grows and glues the shape together; once it’s dried and “baked,” it becomes a light, soft, and sturdy lampshade—eco-friendly and compostable.",
+          "chunkReading": "After a few days, / the mycelium grows / and glues the shape together; / once it’s dried and “baked,” / it becomes a light, soft, and sturdy lampshade / —eco-friendly and compostable.",
+          "directKorean": "며칠이 지난 후, / 균사체는 자라나서 / 그 형태를 하나로 단단히 붙입니다; / 일단 그것이 건조되고 '구워지면', / 그것은 가볍고, 부드러우며, 견고한 전등갓이 됩니다 / —친환경적이고 퇴비화 가능한.",
+          "naturalKorean": "며칠이 지나면 균사체가 자라나 형태를 하나로 결합하며, 건조 후 '구워내고' 나면 가볍고 부드러우면서도 튼튼한, 친환경적이고 퇴비화 가능한 전등갓이 완성됩니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "After a few days",
+              "meaning": "며칠이 지난 후에",
+              "use": "temporal transition marking incubation period",
+              "example": "After a few days, the bread dough rises significantly in warmth."
+            },
+            {
+              "chunk": "glues the shape together",
+              "meaning": "형태를 하나로 접착시키다/결합하다",
+              "use": "metaphorical verb of biological binding",
+              "example": "Melted sugar cools and glues the gingerbread house pieces together."
+            },
+            {
+              "chunk": "once it’s dried and “baked”",
+              "meaning": "일단 건조되고 '구워지면'",
+              "use": "subordinating time clause with passive thermal arrest",
+              "example": "Once it's dried and fired in the kiln, ceramic pottery becomes waterproof."
+            },
+            {
+              "chunk": "light, soft, and sturdy",
+              "meaning": "가볍고 부드러우면서도 견고한",
+              "use": "triad of tactile and functional adjectives",
+              "example": "Engineers designed a helmet that is light, soft, and sturdy."
+            },
+            {
+              "chunk": "eco-friendly and compostable",
+              "meaning": "친환경적이고 퇴비화 가능한",
+              "use": "appositive environmental adjective pair set off by dash",
+              "example": "We chose takeout boxes that are eco-friendly and compostable."
+            }
+          ],
+          "mustKnowGrammar": "Semicolon separating two independent clauses; subordinate time clause introduced by 'once'; scare quotes around '“baked”' indicating thermal deactivation rather than cooking; coordinating adjective triad 'light, soft, and sturdy'; em dash introducing appositive adjectives 'eco-friendly and compostable'.",
+          "feynmanExplanation": "Here is the magic part! / As the fungus eats the corn stalks, / its white threads spread and weld everything into a solid block. / Then the designer bakes it with heat. / The heat stops the fungus from growing further. / What is left? A beautiful, strong lampshade that can rot into garden soil when you finish with it!",
+          "feynmanExplanationKo": "여기에 마법 같은 부분이 있습니다! / 균류가 옥수수 줄기를 먹으면서 / 흰 실들이 퍼져나가 모든 것을 단단한 하나의 덩어리로 용접하듯 붙입니다. / 그런 다음 디자이너가 열로 구워냅니다. / 열은 균류가 더 이상 자라지 못하게 멈춥니다. / 무엇이 남을까요? 다 쓰고 나면 정원 흙으로 썩어 돌아갈 수 있는 아름답고 튼튼한 전등갓이 완성됩니다!",
+          "teachingTranscript": [
+            {
+              "english": "Why does the mycelium 'glue the shape together'? Because the branching hyphae weave through the plant fibers like microscopic rope.",
+              "korean": "왜 균사체가 '형태를 하나로 접착'할까요? 가지처럼 뻗어나간 균사가 미세한 밧줄처럼 식물 섬유를 단단히 엮기 때문입니다."
+            },
+            {
+              "english": "Why is 'baked' in quotation marks? Because it isn't food; baking is the heat treatment that deactivates the fungus.",
+              "korean": "왜 'baked'에 따옴표가 붙었을까요? 음식이 아니기 때문입니다. 굽는 것은 균류의 성장을 멈추게 하는 열처리 과정입니다."
+            },
+            {
+              "english": "Check: What happens to the lampshade after its useful life ends? It is 'compostable'—it turns back into soil.",
+              "korean": "확인: 전등갓의 수명이 다하면 어떻게 되나요? '퇴비화 가능'(compostable)하여 흙으로 돌아갑니다."
+            },
+            {
+              "english": "Correction: Notice the semicolon connecting two related complete thoughts: growth phase before semicolon, finishing phase after.",
+              "korean": "교정: 두 개의 밀접한 독립절을 연결하는 세미콜론에 주목하세요: 앞에는 성장 단계, 뒤에는 마감 단계입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S17a",
+          "original": "A company called Ecovative Design creates packaging that looks like Styrofoam but is made from mycelium and agricultural waste.",
+          "chunkReading": "A company called Ecovative Design / creates packaging / that looks like Styrofoam / but is made from mycelium / and agricultural waste.",
+          "directKorean": "에코베이티브 디자인이라 불리는 한 회사는 / 포장재를 만듭니다 / 스티로폼처럼 보이는 / 그러나 균사체로 만들어진 / 그리고 농업 부산물로.",
+          "naturalKorean": "에코베이티브 디자인(Ecovative Design)이라는 회사는 스티로폼처럼 보이지만 균사체와 농업 부산물로 만들어진 포장재를 제작합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "A company called Ecovative Design",
+              "meaning": "에코베이티브 디자인이라 불리는 회사",
+              "use": "formal commercial introduction with past participle",
+              "example": "An innovative startup called BioPack won the green technology award."
+            },
+            {
+              "chunk": "creates packaging",
+              "meaning": "포장재를 만들다",
+              "use": "industrial production verb phrase",
+              "example": "The company creates packaging for delicate electronic components."
+            },
+            {
+              "chunk": "looks like Styrofoam",
+              "meaning": "스티로폼처럼 보이다",
+              "use": "sensory comparison with common synthetic foam",
+              "example": "This porous insulation board looks like Styrofoam but is completely bio-based."
+            },
+            {
+              "chunk": "is made from mycelium and agricultural waste",
+              "meaning": "균사체와 농업 부산물로 만들어지다",
+              "use": "passive material composition phrase",
+              "example": "The protective shipping box is made from mycelium and agricultural waste."
+            }
+          ],
+          "mustKnowGrammar": "Past participle phrase 'called Ecovative Design' post-modifying 'A company'; compound restrictive relative clause 'that looks like Styrofoam but is made from...' modifying 'packaging'; capitalized trademark 'Styrofoam'.",
+          "feynmanExplanation": "Everyone knows white Styrofoam packaging. / It breaks into tiny white balls, floats in oceans, and never rots. / A clever company named Ecovative Design invented a fix. / They grow custom boxes / using farm waste and mushroom roots instead of oil.",
+          "feynmanExplanationKo": "누구나 흰색 스티로폼 포장재를 압니다. / 미세한 흰 알갱이로 부서져 바다에 떠다니며 절대 썩지 않죠. / 에코베이티브 디자인이라는 똑똑한 회사가 해결책을 발명했습니다. / 석유 대신 농장 폐기물과 버섯 뿌리를 사용해 / 맞춤형 상자를 길러내는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "What material does this mushroom packaging replace? Styrofoam (expanded polystyrene).",
+              "korean": "이 버섯 포장재는 어떤 소재를 대체하나요? 스티로폼(발포 폴리스티렌)입니다."
+            },
+            {
+              "english": "Notice the brand name: 'Ecovative Design'. It combines 'ecological' and 'innovative'.",
+              "korean": "회사명을 주목하세요: 'Ecovative Design'. 'ecological'(생태적)과 'innovative'(혁신적)가 합쳐졌습니다."
+            },
+            {
+              "english": "Check: What are the two raw materials in Ecovative packaging? Mycelium and agricultural waste.",
+              "korean": "확인: 에코베이티브 포장재의 두 가지 원료는 무엇인가요? 균사체와 농업 부산물입니다."
+            },
+            {
+              "english": "Correction: Notice capitalization: 'Styrofoam' is a capitalized proprietary brand name, though commonly used for foam plastic.",
+              "korean": "교정: 대문자 표기에 주의하세요: 'Styrofoam'은 특정 상표명이므로 대문자로 시작합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S17b",
+          "original": "They pack this mix into molds (like clamshells or wine bottle holders) and let the mycelium grow until it turns into a solid shape.",
+          "chunkReading": "They pack this mix / into molds / (like clamshells or wine bottle holders) / and let the mycelium grow / until it turns into a solid shape.",
+          "directKorean": "그들은 이 혼합물을 채워 넣습니다 / 틀 속으로 / (조개껍데기형 상자나 와인병 홀더 같은) / 그리고 균사체가 자라도록 둡니다 / 그것이 단단한 형태로 변할 때까지.",
+          "naturalKorean": "그들은 이 혼합물을 틀(조개껍데기 모양 포장이나 와인병 받침대 같은)에 채워 넣고, 균사체가 자라 단단한 형태로 변할 때까지 둡니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "pack this mix into molds",
+              "meaning": "이 혼합물을 틀에 채워 넣다",
+              "use": "industrial shaping verb phrase",
+              "example": "Workers pack the wet pulp into molds before drying."
+            },
+            {
+              "chunk": "clamshells or wine bottle holders",
+              "meaning": "조개껍데기형 상자나 와인병 받침대",
+              "use": "parenthetical real-world packaging examples",
+              "example": "The electronics arrived safely inside protective clamshells."
+            },
+            {
+              "chunk": "let the mycelium grow",
+              "meaning": "균사체가 자라도록 두다",
+              "use": "causative structure: let + object + bare infinitive",
+              "example": "Place the petri dish in darkness and let the mycelium grow."
+            },
+            {
+              "chunk": "until it turns into a solid shape",
+              "meaning": "단단한 형태로 변할 때까지",
+              "use": "subordinating conjunction of time and transformation",
+              "example": "Keep chilling the molten chocolate until it turns into a solid shape."
+            }
+          ],
+          "mustKnowGrammar": "Compound predicate 'pack... and let...'; parenthetical exemplification '(like clamshells or wine bottle holders)'; causative verb pattern 'let [object: the mycelium] [bare infinitive: grow]'; temporal clause of transformation 'until it turns into a solid shape'.",
+          "feynmanExplanation": "Need a package to ship a fragile glass bottle? / Pour the moist mushroom mix into a bottle-shaped mold. / Close the lid and wait. / The mycelium expands, fills every corner, / and turns into a hard, protective cushion.",
+          "feynmanExplanationKo": "깨지기 쉬운 유리병을 배송할 포장재가 필요하신가요? / 병 모양의 틀에 축축한 버섯 혼합물을 붓습니다. / 뚜껑을 닫고 기다리면 / 균사체가 팽창하여 구석구석을 채우고 / 단단하고 안전한 완충재로 변합니다.",
+          "teachingTranscript": [
+            {
+              "english": "What packaging shapes are mentioned inside parentheses? Clamshells and wine bottle holders.",
+              "korean": "괄호 안에 언급된 포장 형태는 무엇인가요? 조개껍데기형 상자와 와인병 받침대입니다."
+            },
+            {
+              "english": "Notice the verb 'let': 'let the mycelium grow'. Nature does the actual manufacturing work!",
+              "korean": "'let' 동사에 주목하세요: '균사체가 자라도록 두다'. 자연이 실제로 제조 작업을 수행하는 셈입니다!"
+            },
+            {
+              "english": "Check: How does the mixture become solid? The mycelium grows through it until it forms a unified shape.",
+              "korean": "확인: 혼합물은 어떻게 단단해지나요? 균사체가 혼합물 사이로 자라나 단단한 일체형을 이룰 때까지 성장합니다."
+            },
+            {
+              "english": "Correction: S17a, S17b, and S17c form one continuous paragraph in the original reading; we analyze them here as three distinct sentences.",
+              "korean": "교정: S17a, S17b, S17c는 원문에서 하나의 연속된 단락입니다. 여기서는 정밀 분석을 위해 세 문장 단위로 나누어 다룹니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S17c",
+          "original": "It’s strong, safe, and composts into soil in just a few weeks—no pollution!",
+          "chunkReading": "It’s strong, / safe, / and composts into soil / in just a few weeks / —no pollution!",
+          "directKorean": "그것은 튼튼하고, / 안전하며, / 토양 속으로 퇴비화됩니다 / 불과 몇 주 만에 / —오염 없이!",
+          "naturalKorean": "이 포장재는 튼튼하고 안전하며, 불과 몇 주 만에 흙으로 퇴비화되어 오염을 전혀 남기지 않습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "strong, safe, and composts",
+              "meaning": "튼튼하고, 안전하며, 퇴비화되다",
+              "use": "parallel compound predicate combining adjectives and verb",
+              "example": "The bamboo cup is strong, safe, and washes easily."
+            },
+            {
+              "chunk": "composts into soil",
+              "meaning": "흙으로 퇴비화되다, 흙으로 분해되다",
+              "use": "intransitive biological degradation phrase",
+              "example": "Fallen autumn leaves compost into soil to nourish tree roots."
+            },
+            {
+              "chunk": "in just a few weeks",
+              "meaning": "불과 몇 주 만에",
+              "use": "temporal prepositional phrase stressing rapid turnaround",
+              "example": "The broken bone healed remarkably in just a few weeks."
+            },
+            {
+              "chunk": "no pollution!",
+              "meaning": "오염 없이!",
+              "use": "exclamatory terminal tag phrase celebrating zero waste",
+              "example": "Clean solar electricity powers our home—no pollution!"
+            }
+          ],
+          "mustKnowGrammar": "Mixed parallel predicate with predicate adjectives 'strong, safe' and present tense verb 'composts'; prepositional phrase of result 'into soil'; time phrase with minimizer 'in just a few weeks'; em-dash concluding with exclamatory verbless absolute phrase 'no pollution!'.",
+          "feynmanExplanation": "When your package arrives, what do you do with regular Styrofoam? / Throw it in the trash bin where it sits forever. / What do you do with mushroom packaging? / Break it up and throw it in your garden dirt! / In a couple of weeks, earthworms eat it, / it turns into fertilizer, and zero trash remains.",
+          "feynmanExplanationKo": "택배가 도착했을 때 일반 스티로폼은 어떻게 하시나요? / 쓰레기통에 버려져 영원히 남아있게 됩니다. / 버섯 포장재는 어떻게 할까요? / 부수어서 정원 흙 위에 던져두면 됩니다! / 2~3주만 지나면 지렁이가 먹고 / 비료로 변해 쓰레기가 전혀 남지 않습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the final punchy phrase: '—no pollution!'. It leaves the reader with a powerful eco-friendly impression.",
+              "korean": "마지막 강렬한 어구 '—no pollution!'을 보세요. 독자에게 강력한 친환경적 인상을 남깁니다."
+            },
+            {
+              "english": "How fast does it compost according to the source? 'In just a few weeks'.",
+              "korean": "본문에 따르면 얼마나 빨리 퇴비화되나요? '불과 몇 주 만에'입니다."
+            },
+            {
+              "english": "Check: Does this packaging produce toxic microplastics? No, it completely decomposes into natural soil.",
+              "korean": "확인: 이 포장재는 유독한 미세 플라스틱을 만드나요? 아닙니다, 완전히 자연 토양으로 분해됩니다."
+            },
+            {
+              "english": "Correction: Note that S17c concludes the 19-entry detailed reading guide (S01 through S17c). Ensure students recognize all 19 units.",
+              "korean": "교정: S17c는 총 19개 세부 읽기 가이드 항목(S01~S17c)의 마지막 문장입니다. 19개 단위가 정확히 매핑되었는지 확인하세요."
+            }
+          ]
+        }
+      ],
+      "sourceLayoutNote": {
+        "title": "Source Layout & Visual Architecture Note",
+        "description": "Comprehensive mapping of original image boundaries, headings, subheadings, visual labels, and callouts across the three-image teacher-provided source.",
+        "sections": [
+          {
+            "imageNumber": 1,
+            "label": "Image 1 — What Are Mushrooms Made Of?",
+            "heading": "What Are Mushrooms Made Of?",
+            "proseBlocksCount": 4,
+            "diagramLabelsCount": 8,
+            "diagramLabels": [
+              "fruit body producing spores",
+              "gills",
+              "spores",
+              "spore germination",
+              "mushroom mycelium",
+              "fruit body begins to form from mycelium",
+              "developing fruit body",
+              "Did You Know? Mycelium can heal itself if damaged like a living sponge."
+            ],
+            "notes": "Begins with overarching lesson title and 3-sentence introduction. Section heading is followed by 4 distinct prose blocks. Life-cycle diagram contains 8 visible labels including the 'Did You Know?' sponge callout."
+          },
+          {
+            "imageNumber": 2,
+            "label": "Image 2 — What Are the Benefits of Mushrooms?",
+            "heading": "What Are the Benefits of Mushrooms?",
+            "proseBlocksCount": 2,
+            "diagramLabelsCount": 7,
+            "diagramLabels": [
+              "Boosts Immune System",
+              "Promote Gut Health",
+              "Decrease Cancer Risk",
+              "Good Source of Vitamin D",
+              "Lower Sodium Intake",
+              "Lower Cholesterol",
+              "Protect Brain Health"
+            ],
+            "notes": "Contains 1 section heading, 2 prose blocks highlighting vitamins B and D and antioxidants, and a 7-item benefits diagram graphic. Statements must be taught as claims in the source rather than independent clinical advice."
+          },
+          {
+            "imageNumber": 3,
+            "label": "Image 3 — What Can You Make Out of Mushrooms?",
+            "heading": "What Can You Make Out of Mushrooms?",
+            "subheadingsCount": 2,
+            "subheadings": [
+              "Mushroom Furniture by Danielle Trofe (MushLume Lamps)",
+              "Mushroom Packaging by Ecovative Design"
+            ],
+            "proseBlocksCount": 2,
+            "funFact": "⚡ Fun Fact! The largest living thing on Earth is a giant mycelium mat in Oregon. It’s over 2,000 acres wide!",
+            "notes": "Contains 1 section heading, 2 distinct product subheadings (Danielle Trofe / Ecovative Design), 2 comprehensive prose blocks, and a terminal Fun Fact callout regarding the 2,000-acre Oregon mycelium mat."
+          }
+        ]
+      },
+      "finalWritingSupport": {
+        "targetVocabulary": [
+          "fungi",
+          "mycelium",
+          "agricultural waste",
+          "compostable",
+          "chitin",
+          "bio-composite",
+          "sustainable material",
+          "molds",
+          "Styrofoam alternative",
+          "biodegradable"
+        ],
+        "sentenceFrames": {
+          "classification": [
+            "Biologically, mushrooms are categorized as fungi rather than plants or animals.",
+            "Mushrooms belong to the biological kingdom of fungi, characterized by an underground thread network called mycelium."
+          ],
+          "process": [
+            "To manufacture sustainable goods, designers combine live mycelium with agricultural waste before pressing the mixture into molds.",
+            "Once packed into shaped forms, the mycelium grows and binds plant fibers together until baked into a hardened composite."
+          ],
+          "comparison": [
+            "Unlike conventional plastic packaging that persists in landfills, mycelium composites break down in soil within weeks.",
+            "While petroleum Styrofoam causes lasting pollution, mushroom-based packaging returns harmlessly to the earth as compost."
+          ],
+          "cautiousClaim": [
+            "According to the source, mushrooms are claimed to provide valuable vitamins and cell-protecting antioxidants.",
+            "The article reports that certain mushroom varieties may assist the immune system, though these remain textual claims rather than medical guarantees."
+          ]
+        },
+        "koreanEslErrorCorrections": [
+          {
+            "error": "Mushrooms are plants that not need sunlight.",
+            "correction": "Mushrooms are fungi, not plants, and they don't need sunlight.",
+            "explanation": "Mushrooms are fungi, not plants; negative verbs in simple present require auxiliary 'do/does': 'do not need'."
+          },
+          {
+            "error": "Danielle Trofe makes lamps by mushroom that is very strong and eco-friendly.",
+            "correction": "Danielle Trofe makes lamps out of mushroom materials that are strong and eco-friendly.",
+            "explanation": "Use 'out of' for material composition; ensure plural agreement: 'materials that are'."
+          },
+          {
+            "error": "According to source, mushrooms cure cancer and all immune sickness.",
+            "correction": "According to the source, mushrooms are claimed to contain antioxidants that may support the immune system.",
+            "explanation": "Do not exaggerate source claims into medical cures; include article 'the source' and use cautious modal verbs ('may support')."
+          },
+          {
+            "error": "Mycelium is grew into mold until become solid.",
+            "correction": "Mycelium grows in a mold until it becomes solid.",
+            "explanation": "Active biological growth requires active voice 'grows'; subordinate clause after 'until' requires subject and finite verb: 'until it becomes'."
+          }
+        ],
+        "differentiation": {
+          "g1Scaffold": "Provide G1 students with fill-in-the-blank paragraph templates, word banks highlighting 'fungi', 'mycelium', 'molds', and 'compostable', and pre-written sentence starters.",
+          "g2Extension": "Challenge G2 students to integrate complex transitions (e.g., 'Consequently', 'By contrast', 'Through thermal deactivation') and critique the distinction between marketing claims and scientific verification."
+        },
+        "correctionPriorities": [
+          "1. Biological accuracy: Ensure mushrooms are identified as fungi, not plants.",
+          "2. Source fidelity: Verify that Trofe's lamps and Ecovative's packaging are accurately detailed.",
+          "3. Cautious discourse: Confirm that health and environmental benefits are framed as source claims.",
+          "4. Length constraints: Strictly enforce the 100–140 word paragraph limit."
+        ]
+      }
+    }
+  }
+}

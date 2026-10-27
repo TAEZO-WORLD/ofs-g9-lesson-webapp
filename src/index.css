@@ -262,6 +262,14 @@ p:last-child {
   margin-bottom: 0.75rem;
 }
 
+.article__subheading {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
 .article__table-wrapper {
   overflow-x: auto;
   margin: 1.25rem 0;
