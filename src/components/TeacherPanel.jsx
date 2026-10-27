@@ -170,7 +170,13 @@ export default function TeacherPanel({ teacher, lessonData }) {
         <div className="teacher-panel__content">
           <ul className="teacher-notes-list">
             {teacherNotes.map((note, index) => (
-              <li key={index}>{note}</li>
+              <li key={index}>
+                {typeof note === 'string'
+                  ? note
+                  : note && typeof note === 'object' && (note.topic || note.note)
+                    ? <><strong>{note.topic ? `${note.topic}: ` : ''}</strong>{note.note || JSON.stringify(note)}</>
+                    : JSON.stringify(note)}
+              </li>
             ))}
           </ul>
         </div>
@@ -392,11 +398,11 @@ export default function TeacherPanel({ teacher, lessonData }) {
                     </div>
                   )}
 
-                  {readingGuide.finalWritingSupport.teacherCorrectionFocus && (
+                  {(readingGuide.finalWritingSupport.teacherCorrectionFocus ?? readingGuide.finalWritingSupport.correctionPriorities) && (
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Teacher Correction Focus</h5>
                       <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
-                        {readingGuide.finalWritingSupport.teacherCorrectionFocus.map((focus, index) => (
+                        {(readingGuide.finalWritingSupport.teacherCorrectionFocus ?? readingGuide.finalWritingSupport.correctionPriorities).map((focus, index) => (
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{focus}</li>
                         ))}
                       </ul>

@@ -568,62 +568,20 @@
       }
     ],
     "teacherNotes": [
-      {
-        "topic": "Fungi vs. Plants and Animals",
-        "note": "Mushrooms belong to kingdom Fungi. Emphasize to students that fungi lack chlorophyll and cannot perform photosynthesis. They are heterotrophs that digest food externally by secreting enzymes and absorbing nutrients."
-      },
-      {
-        "topic": "Mycelium and Pronunciation Guide",
-        "note": "The text provides a direct pronunciation guide: 'my-SEE-lee-um'. Explain that while the mushroom cap (fruiting body) is temporary, the mycelium network can live for years or centuries underground, acting like biological internet cables."
-      },
-      {
-        "topic": "Mushroom Composition & Quantitative Details",
-        "note": "Image 1 specifies that mushrooms are up to 90% water, with the remainder composed of mycelium, proteins, fiber, and chitin. Highlight 'chitin' as an interesting cross-kingdom connection (found in insect shells and fungal walls)."
-      },
-      {
-        "topic": "Sunlight and Heterotrophic Nutrition",
-        "note": "Students often assume all living 'plants' need sunlight. Clarify that mushrooms do not require light because they consume nutrients from dead wood, compost, or leaf litter, making them nature's premier recyclers."
-      },
-      {
-        "topic": "Life-Cycle Diagram Visible Labels",
-        "note": "Image 1 includes 8 diagram labels: fruit body producing spores -> gills -> spores -> spore germination -> mushroom mycelium -> fruit body begins to form from mycelium -> developing fruit body -> self-healing sponge fact. Walk students through this cyclical loop."
-      },
-      {
-        "topic": "Health-Related Wording & Source Literacy",
-        "note": "Image 2 presents claims about vitamins B and D, energy, bone strength, and antioxidants. Instructors must explicitly teach students to treat these as claims made by the source text rather than clinically verified personal medical advice."
-      },
-      {
-        "topic": "Benefits Diagram Graphic Analysis",
-        "note": "Image 2's graphic lists 7 potential benefits: boosts immune system, promotes gut health, decreases cancer risk, good source of vitamin D, lower sodium intake, lower cholesterol, and protects brain health. Guide students to notice that these are general nutritional associations."
-      },
-      {
-        "topic": "Danielle Trofe & MushLume Lighting",
-        "note": "Danielle Trofe is a contemporary biodesigner who pioneered mushroom material lighting in Brooklyn, New York. Her work demonstrates how biology can intersect with interior architecture and circular industrial design."
-      },
-      {
-        "topic": "Corn Stalks and Hemp as Substrates",
-        "note": "Mycelium requires a cellulose-rich food scaffold to grow through. Corn stalks and industrial hemp fibers provide the physical skeleton that the fungal mycelium digests and binds together into a solid composite."
-      },
-      {
-        "topic": "Pressing, Growing, and Thermal Baking Process",
-        "note": "The manufacturing cycle takes several days: the inoculated substrate is pressed into molds; the mycelium grows and weaves tight threads together; once the shape is formed, it is dried and baked at heat to kill the living fungus, preventing it from fruiting or decaying."
-      },
-      {
-        "topic": "Ecovative Design & Myco-Packaging",
-        "note": "Ecovative Design, founded by Eben Bayer and Gavin McIntyre, created 'Mushroom Packaging'. They license their technology worldwide to replace expanded polystyrene foam (Styrofoam) in electronics packaging and wine shipping."
-      },
-      {
-        "topic": "Styrofoam-like Packaging vs. Petrochemicals",
-        "note": "Point out the functional equivalence: mycelium packaging provides identical shock absorption, thermal insulation, and lightweight protection as plastic foam, but without the persistent petroleum pollution."
-      },
-      {
-        "topic": "Agricultural Waste Utilization",
-        "note": "Emphasize the circular economy concept: instead of burning crop residues (which causes air pollution), farmers can sell husks and stalks to bio-fabricators who turn waste into biodegradable packaging."
-      },
-      {
-        "topic": "Composting vs. Pollution Boundaries",
-        "note": "Image 3 claims the material composts in soil in 'just a few weeks—no pollution!'. Discuss how organic biodegradation returns nitrogen and carbon to the earth, contrasting with plastics that fragment into microplastics."
-      }
+      "1. Fungi vs. Plants and Animals: Mushrooms belong to kingdom Fungi. Emphasize to students that fungi lack chlorophyll and cannot perform photosynthesis. They are heterotrophs that digest food externally by secreting enzymes and absorbing nutrients.",
+      "2. Mycelium and Pronunciation Guide: The text provides a direct pronunciation guide: 'my-SEE-lee-um'. Explain that while the mushroom cap (fruiting body) is temporary, the mycelium network can live for years or centuries underground, acting like biological internet cables.",
+      "3. Mushroom Composition & Quantitative Details: Image 1 specifies that mushrooms are up to 90% water, with the remainder composed of mycelium, proteins, fiber, and chitin. Highlight 'chitin' as an interesting cross-kingdom connection (found in insect shells and fungal walls).",
+      "4. Sunlight and Heterotrophic Nutrition: Students often assume all living 'plants' need sunlight. Clarify that mushrooms do not require light because they consume nutrients from dead wood, compost, or leaf litter, making them nature's premier recyclers.",
+      "5. Life-Cycle Diagram Visible Labels: Image 1 includes 8 diagram labels: fruit body producing spores -> gills -> spores -> spore germination -> mushroom mycelium -> fruit body begins to form from mycelium -> developing fruit body -> self-healing sponge fact. Walk students through this cyclical loop.",
+      "6. Health-Related Wording & Source Literacy: Image 2 presents claims about vitamins B and D, energy, bone strength, and antioxidants. Instructors must explicitly teach students to treat these as claims made by the source text rather than clinically verified personal medical advice.",
+      "7. Benefits Diagram Graphic Analysis: Image 2's graphic lists 7 potential benefits: boosts immune system, promotes gut health, decreases cancer risk, good source of vitamin D, lower sodium intake, lower cholesterol, and protects brain health. Guide students to notice that these are general nutritional associations.",
+      "8. Danielle Trofe & MushLume Lighting: Danielle Trofe is a contemporary biodesigner who pioneered mushroom material lighting in Brooklyn, New York. Her work demonstrates how biology can intersect with interior architecture and circular industrial design.",
+      "9. Corn Stalks and Hemp as Substrates: Mycelium requires a cellulose-rich food scaffold to grow through. Corn stalks and industrial hemp fibers provide the physical skeleton that the fungal mycelium digests and binds together into a solid composite.",
+      "10. Pressing, Growing, and Thermal Baking Process: The manufacturing cycle takes several days: the inoculated substrate is pressed into molds; the mycelium grows and weaves tight threads together; once the shape is formed, it is dried and baked at heat to kill the living fungus, preventing it from fruiting or decaying.",
+      "11. Ecovative Design & Myco-Packaging: Ecovative Design, founded by Eben Bayer and Gavin McIntyre, created 'Mushroom Packaging'. They license their technology worldwide to replace expanded polystyrene foam (Styrofoam) in electronics packaging and wine shipping.",
+      "12. Styrofoam-like Packaging vs. Petrochemicals: Point out the functional equivalence: mycelium packaging provides identical shock absorption, thermal insulation, and lightweight protection as plastic foam, but without the persistent petroleum pollution.",
+      "13. Agricultural Waste Utilization: Emphasize the circular economy concept: instead of burning crop residues (which causes air pollution), farmers can sell husks and stalks to bio-fabricators who turn waste into biodegradable packaging.",
+      "14. Composting vs. Pollution Boundaries: Image 3 claims the material composts in soil in 'just a few weeks—no pollution!'. Discuss how organic biodegradation returns nitrogen and carbon to the earth, contrasting with plastics that fragment into microplastics."
     ],
     "teachingScript": [
       {
@@ -2001,6 +1959,12 @@
           "g2Extension": "Challenge G2 students to integrate complex transitions (e.g., 'Consequently', 'By contrast', 'Through thermal deactivation') and critique the distinction between marketing claims and scientific verification."
         },
         "correctionPriorities": [
+          "1. Biological accuracy: Ensure mushrooms are identified as fungi, not plants.",
+          "2. Source fidelity: Verify that Trofe's lamps and Ecovative's packaging are accurately detailed.",
+          "3. Cautious discourse: Confirm that health and environmental benefits are framed as source claims.",
+          "4. Length constraints: Strictly enforce the 100–140 word paragraph limit."
+        ],
+        "teacherCorrectionFocus": [
           "1. Biological accuracy: Ensure mushrooms are identified as fungi, not plants.",
           "2. Source fidelity: Verify that Trofe's lamps and Ecovative's packaging are accurately detailed.",
           "3. Cautious discourse: Confirm that health and environmental benefits are framed as source claims.",
