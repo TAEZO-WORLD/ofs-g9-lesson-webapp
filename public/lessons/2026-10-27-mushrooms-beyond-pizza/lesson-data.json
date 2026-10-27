@@ -1907,6 +1907,61 @@
         ]
       },
       "finalWritingSupport": {
+        "sentenceFrames": [
+          "Biologically, mushrooms are categorized as fungi rather than plants or animals, growing from an underground thread network called mycelium.",
+          "Unlike conventional petroleum plastics that cause lasting pollution, bio-composite materials grown from mycelium decompose safely into soil within weeks.",
+          "To manufacture sustainable goods, designers combine live mycelium with agricultural waste before pressing the mixture into molds.",
+          "Once packed into shaped forms, the mycelium grows and binds plant fibers together until baked into a hardened composite.",
+          "According to the source, mushrooms are claimed to provide valuable vitamins and cell-protecting antioxidants that support wellness."
+        ],
+        "usefulConnectors": [
+          "According to the source",
+          "Unlike traditional plastic",
+          "In order to",
+          "After a few days",
+          "Once it is dried and baked",
+          "Until it turns into",
+          "Furthermore",
+          "In conclusion"
+        ],
+        "usefulVocabulary": [
+          "fungi",
+          "mycelium",
+          "agricultural waste",
+          "compostable",
+          "chitin",
+          "bio-composite",
+          "sustainable material",
+          "molds",
+          "Styrofoam alternative",
+          "biodegradable"
+        ],
+        "paragraphOutline": [
+          "1. Topic Sentence: State how mushrooms serve functions beyond food as versatile biological and sustainable resources.",
+          "2. Biological Context: Explain that mushrooms are fungi growing from an underground network of mycelium threads that feeds without sunlight.",
+          "3. Design Innovation Example 1: Describe Danielle Trofe's MushLume lamps made by mixing corn stalks and hemp with live mycelium in molds.",
+          "4. Design Innovation Example 2: Explain Ecovative Design's packaging made from mycelium and agricultural waste as a compostable Styrofoam alternative.",
+          "5. Process Detail: Detail how mycelium grows to bind the shape before thermal baking arrests growth.",
+          "6. Cautious Conclusion: Conclude cautiously regarding health and sustainability claims, noting how fungi support circular eco-design."
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Mushrooms are plants that not need sunlight.",
+            "correction": "Mushrooms are fungi, not plants, and they don't need sunlight."
+          },
+          {
+            "mistake": "Danielle Trofe makes lamps by mushroom that is very strong and eco-friendly.",
+            "correction": "Danielle Trofe makes lamps out of mushroom materials that are strong and eco-friendly."
+          },
+          {
+            "mistake": "According to source, mushrooms cure cancer and all immune sickness.",
+            "correction": "According to the source, mushrooms are claimed to contain antioxidants that may support the immune system."
+          },
+          {
+            "mistake": "Mycelium is grew into mold until become solid.",
+            "correction": "Mycelium grows in a mold until it becomes solid."
+          }
+        ],
         "targetVocabulary": [
           "fungi",
           "mycelium",
@@ -1919,25 +1974,7 @@
           "Styrofoam alternative",
           "biodegradable"
         ],
-        "sentenceFrames": {
-          "classification": [
-            "Biologically, mushrooms are categorized as fungi rather than plants or animals.",
-            "Mushrooms belong to the biological kingdom of fungi, characterized by an underground thread network called mycelium."
-          ],
-          "process": [
-            "To manufacture sustainable goods, designers combine live mycelium with agricultural waste before pressing the mixture into molds.",
-            "Once packed into shaped forms, the mycelium grows and binds plant fibers together until baked into a hardened composite."
-          ],
-          "comparison": [
-            "Unlike conventional plastic packaging that persists in landfills, mycelium composites break down in soil within weeks.",
-            "While petroleum Styrofoam causes lasting pollution, mushroom-based packaging returns harmlessly to the earth as compost."
-          ],
-          "cautiousClaim": [
-            "According to the source, mushrooms are claimed to provide valuable vitamins and cell-protecting antioxidants.",
-            "The article reports that certain mushroom varieties may assist the immune system, though these remain textual claims rather than medical guarantees."
-          ]
-        },
-        "koreanEslErrorCorrections": [
+        "koreanEslErrors": [
           {
             "error": "Mushrooms are plants that not need sunlight.",
             "correction": "Mushrooms are fungi, not plants, and they don't need sunlight.",

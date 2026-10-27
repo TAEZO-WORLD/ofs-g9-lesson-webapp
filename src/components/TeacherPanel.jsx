@@ -331,7 +331,10 @@ export default function TeacherPanel({ teacher, lessonData }) {
                     <div className="analysis-block">
                       <h5 className="analysis-block__title">Sentence Frames</h5>
                       <ul style={{ margin: '0.5rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.5' }}>
-                        {readingGuide.finalWritingSupport.sentenceFrames.map((frame, index) => (
+                        {(Array.isArray(readingGuide.finalWritingSupport.sentenceFrames)
+                          ? readingGuide.finalWritingSupport.sentenceFrames
+                          : Object.values(readingGuide.finalWritingSupport.sentenceFrames).flat()
+                        ).map((frame, index) => (
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{frame}</li>
                         ))}
                       </ul>
