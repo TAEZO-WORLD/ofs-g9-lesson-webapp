@@ -7,12 +7,24 @@ export default function ArticleReading({ data }) {
 
   return (
     <SectionCard icon="📖" title={data.title}>
-      {sourceText && <p className="article__source">{sourceText}</p>}
+      {sourceText && !data.sourceLabel && !data.citation && (
+        <p className="article__source">{sourceText}</p>
+      )}
 
       {data.pages ? (
         <div className="article__content" data-reading-container="true">
           {data.pages.map((page, pIdx) => (
             <div key={pIdx} className="article__page" data-page={page.pageNumber || (pIdx + 1)}>
+              {page.sourceLabel && (
+                <p className="article__source-label" data-source-label="true" style={{ fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.25rem' }}>
+                  {page.sourceLabel}
+                </p>
+              )}
+              {page.citation && (
+                <p className="article__citation" data-source-citation="true" style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', marginBottom: '1.25rem' }}>
+                  {page.citation}
+                </p>
+              )}
               {page.epigraph && (
                 <blockquote className="article__epigraph">
                   {page.epigraph}
@@ -20,7 +32,7 @@ export default function ArticleReading({ data }) {
               )}
               {page.title && <h3 className="article__page-title">{page.title}</h3>}
               {page.paragraphs?.map((p, idx) => (
-                <p key={idx} className="article__paragraph">{p}</p>
+                <p key={idx} className="article__paragraph" data-source-block={idx + 1}>{p}</p>
               ))}
               {page.factBox && (
                 <div className="article__fact-box">

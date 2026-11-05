@@ -44,6 +44,8 @@ export default function StudentLesson({
         lessonTitle={lessonData.lessonTitle}
         ofsUnit={lessonData.ofsUnit}
         lessonGoal={lessonData.lessonGoal}
+        sourceLabel={lessonData.article?.sourceLabel}
+        citation={lessonData.article?.citation}
       />
       <WarmUp data={lessonData.warmUp} />
       <ArticleReading data={lessonData.article} />
@@ -72,7 +74,11 @@ export default function StudentLesson({
         submitted={submitted}
         suggestedAnswers={lessonData.teacher.answerKey.evidenceFromText}
         onWritingCheck={onWritingCheck}
-        articleText={lessonData.article?.paragraphs?.join('\n') || ''}
+        articleText={
+          (lessonData.article?.paragraphs?.join('\n')) ||
+          (lessonData.article?.pages?.map(p => (p.paragraphs || []).join('\n')).join('\n')) ||
+          ''
+        }
       />
       <LanguageFocus data={lessonData.languageFocus} />
       <WritingPractice

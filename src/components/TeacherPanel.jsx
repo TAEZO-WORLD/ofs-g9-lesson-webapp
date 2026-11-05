@@ -15,19 +15,59 @@ function ScriptBody({ phase }) {
     phase.description ??
     null;
 
-  if (!raw) return null;
-
-  if (Array.isArray(raw)) {
-    return (
-      <ul style={{ margin: '0.4rem 0 0', paddingLeft: '1.25rem', lineHeight: '1.65' }}>
-        {raw.map((item, i) => (
-          <li key={i} style={{ marginBottom: '0.25rem' }}>{item}</li>
-        ))}
-      </ul>
-    );
-  }
-
-  return <p style={{ margin: '0.4rem 0 0', lineHeight: '1.65' }}>{raw}</p>;
+  return (
+    <div style={{ marginTop: '0.4rem', lineHeight: '1.65' }}>
+      {phase.objective && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.92rem' }}>
+          <strong>Objective:</strong> {phase.objective}
+        </p>
+      )}
+      {raw && (Array.isArray(raw) ? (
+        <ul style={{ margin: '0.25rem 0', paddingLeft: '1.25rem' }}>
+          {raw.map((item, i) => (
+            <li key={i} style={{ marginBottom: '0.25rem' }}>{item}</li>
+          ))}
+        </ul>
+      ) : (
+        <p style={{ margin: '0 0 0.25rem' }}>{raw}</p>
+      ))}
+      {phase.teacherActions && phase.teacherActions !== raw && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.92rem' }}>
+          <strong>Teacher Actions:</strong> {phase.teacherActions}
+        </p>
+      )}
+      {phase.scriptEn && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.92rem', color: 'var(--color-navy)' }}>
+          <strong>Teacher Script (EN):</strong> &ldquo;{phase.scriptEn}&rdquo;
+        </p>
+      )}
+      {phase.scriptKo && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.9rem', color: 'var(--color-navy-soft)' }}>
+          <strong>Teacher Script (KO):</strong> &ldquo;{phase.scriptKo}&rdquo;
+        </p>
+      )}
+      {phase.studentActions && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.92rem' }}>
+          <strong>Expected Student Actions:</strong> {phase.studentActions}
+        </p>
+      )}
+      {phase.misconception && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.9rem', color: '#b45309' }}>
+          <strong>Likely Misconception:</strong> {phase.misconception}
+        </p>
+      )}
+      {phase.correctiveFeedback && (
+        <p style={{ margin: '0 0 0.25rem', fontSize: '0.9rem', color: '#15803d' }}>
+          <strong>Corrective Feedback:</strong> {phase.correctiveFeedback}
+        </p>
+      )}
+      {phase.transition && (
+        <p style={{ margin: '0', fontSize: '0.9rem', fontStyle: 'italic', color: 'var(--color-muted)' }}>
+          <strong>Transition:</strong> {phase.transition}
+        </p>
+      )}
+    </div>
+  );
 }
 
 // ─── component ───────────────────────────────────────────────────────────────
@@ -186,7 +226,9 @@ export default function TeacherPanel({ teacher, lessonData }) {
         <h3 className="teacher-panel__title">Teaching script</h3>
         <div className="teacher-panel__content">
           {teachingScript.map((phase, index) => {
-            const heading = phase.phase ?? phase.title ?? phase.heading ?? `Phase ${index + 1}`;
+            const heading = (phase.phase && phase.phaseName)
+              ? `Phase ${phase.phase}: ${phase.phaseName}`
+              : (phase.phase ?? phase.title ?? phase.heading ?? `Phase ${index + 1}`);
             const duration = phase.duration ?? phase.time ?? null;
             return (
               <div key={index} className="script-phase">
@@ -216,8 +258,19 @@ export default function TeacherPanel({ teacher, lessonData }) {
                 <div className="script-container">
                   {readingGuide.openingScript.map((item, index) => (
                     <div key={index} className="script-line">
+                      {item.label && <p style={{ fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.25rem' }}>{item.label}</p>}
                       <p className="script-line__english">{item.english}</p>
-                      <p className="script-line__korean">{item.korean}</p>
+                      {(item.korean ?? item.directKorean) && (
+                        <p className="script-line__korean">{item.korean ?? item.directKorean}</p>
+                      )}
+                      {item.naturalKorean && (
+                        <p className="script-line__korean" style={{ marginTop: '0.2rem' }}>{item.naturalKorean}</p>
+                      )}
+                      {item.teachingPurpose && (
+                        <p style={{ fontSize: '0.85rem', color: 'var(--color-muted)', marginTop: '0.25rem' }}>
+                          🎯 <em>Purpose:</em> {item.teachingPurpose}
+                        </p>
+                      )}
                     </div>
                   ))}
                 </div>
@@ -230,24 +283,73 @@ export default function TeacherPanel({ teacher, lessonData }) {
                 <h4 className="guide-section__subtitle">2. Warm-up / Icebreaking Questions</h4>
                 <div className="warmup-guide-container">
                   {(readingGuide.warmupGuide ?? readingGuide.warmUpDiscussion).map((item, index) => {
-                    // Support both old field names (korean / teacherFollowUp / teacherFollowUpKorean)
-                    // and new field names (translation / followUp)
                     const koreanText = item.korean ?? item.translation ?? null;
-                    const followUpText = item.teacherFollowUp ?? item.followUp ?? null;
+                    const followUpText = item.teacherFollowUp ?? item.followUp ?? (Array.isArray(item.followUps) ? item.followUps.join(' / ') : null);
                     const followUpKorean = item.teacherFollowUpKorean ?? null;
                     return (
                       <div key={index} className="warmup-guide-item">
                         <p className="warmup-question__english"><strong>Q{index + 1}:</strong> {item.question}</p>
                         {koreanText && <p className="warmup-question__korean">{koreanText}</p>}
+                        {Array.isArray(item.likelyResponses) && item.likelyResponses.length > 0 && (
+                          <div style={{ fontSize: '0.88rem', marginTop: '0.35rem', color: 'var(--color-navy-soft)' }}>
+                            <strong>Likely responses:</strong> {item.likelyResponses.join(' | ')}
+                          </div>
+                        )}
                         {followUpText && (
                           <div className="warmup-followup">
                             <p className="warmup-followup__english">💡 <em>Follow-up:</em> {followUpText}</p>
                             {followUpKorean && <p className="warmup-followup__korean">{followUpKorean}</p>}
                           </div>
                         )}
+                        {Array.isArray(item.usefulLanguage) && item.usefulLanguage.length > 0 && (
+                          <div style={{ fontSize: '0.86rem', marginTop: '0.25rem', color: 'var(--color-navy-soft)' }}>
+                            <strong>Useful language:</strong> {item.usefulLanguage.join(', ')}
+                          </div>
+                        )}
+                        {item.caution && (
+                          <div style={{ fontSize: '0.86rem', marginTop: '0.25rem', color: '#b45309' }}>
+                            ⚠️ <em>Caution:</em> {item.caution}
+                          </div>
+                        )}
+                        {item.purpose && (
+                          <div style={{ fontSize: '0.86rem', marginTop: '0.25rem', color: 'var(--color-muted)' }}>
+                            🎯 <em>Purpose:</em> {item.purpose}
+                          </div>
+                        )}
                       </div>
                     );
                   })}
+                </div>
+              </div>
+            )}
+
+            {/* 2b. Source Reading & Layout Guide */}
+            {(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote) && (
+              <div className="guide-section">
+                <h4 className="guide-section__subtitle">
+                  {(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).title || 'Source Reading & Layout Guide'}
+                </h4>
+                <div className="analysis-block" style={{ padding: '0.85rem 1rem', background: 'var(--color-cream)', borderRadius: '8px' }}>
+                  {(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).description && (
+                    <p style={{ marginBottom: '0.5rem' }}>{(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).description}</p>
+                  )}
+                  {Array.isArray((readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).points) && (
+                    <ul style={{ margin: '0.4rem 0 0', paddingLeft: '1.25rem', lineHeight: 1.6 }}>
+                      {(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).points.map((pt, pIdx) => (
+                        <li key={pIdx} style={{ marginBottom: '0.3rem' }}>{pt}</li>
+                      ))}
+                    </ul>
+                  )}
+                  {Array.isArray((readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).sections) && (
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', marginTop: '0.5rem' }}>
+                      {(readingGuide.sourceReadingGuide ?? readingGuide.sourceLayoutNote).sections.map((sec, sIdx) => (
+                        <div key={sIdx} style={{ paddingLeft: '0.75rem', borderLeft: '3px solid var(--color-sage)' }}>
+                          {sec.label && <p style={{ fontWeight: 700, margin: '0 0 0.2rem' }}>{sec.label}</p>}
+                          {sec.notes && <p style={{ margin: 0, fontSize: '0.9rem' }}>{sec.notes}</p>}
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </div>
             )}
@@ -305,6 +407,11 @@ export default function TeacherPanel({ teacher, lessonData }) {
                         <div className="analysis-block">
                           <h5 className="analysis-block__title">F. Feynman Explanation</h5>
                           <p className="feynman-text">{sentence.feynmanExplanation}</p>
+                          {sentence.feynmanExplanationKo && (
+                            <p className="feynman-text" style={{ color: 'var(--color-navy-soft)', marginTop: '0.35rem', fontSize: '0.92rem' }}>
+                              {sentence.feynmanExplanationKo}
+                            </p>
+                          )}
                         </div>
                       )}
 
@@ -406,6 +513,24 @@ export default function TeacherPanel({ teacher, lessonData }) {
                           <li key={index} style={{ marginBottom: '0.25rem' }}>{focus}</li>
                         ))}
                       </ul>
+                    </div>
+                  )}
+
+                  {readingGuide.finalWritingSupport.differentiation && (
+                    <div className="analysis-block">
+                      <h5 className="analysis-block__title">G1 Scaffold & G2 Extension</h5>
+                      <div style={{ marginTop: '0.4rem', fontSize: '0.92rem', lineHeight: 1.55 }}>
+                        {readingGuide.finalWritingSupport.differentiation.g1Scaffold && (
+                          <p style={{ margin: '0 0 0.4rem' }}>
+                            <strong>G1 Scaffold:</strong> {readingGuide.finalWritingSupport.differentiation.g1Scaffold}
+                          </p>
+                        )}
+                        {readingGuide.finalWritingSupport.differentiation.g2Extension && (
+                          <p style={{ margin: 0 }}>
+                            <strong>G2 Extension:</strong> {readingGuide.finalWritingSupport.differentiation.g2Extension}
+                          </p>
+                        )}
+                      </div>
                     </div>
                   )}
 

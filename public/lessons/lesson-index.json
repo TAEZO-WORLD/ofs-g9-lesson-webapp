@@ -1,6 +1,13 @@
 {
-  "latest": "2026-10-27-mushrooms-beyond-pizza",
+  "latest": "2026-11-05-price-of-freedom-colonisation-inequality",
   "lessons": [
+    {
+      "slug": "2026-11-05-price-of-freedom-colonisation-inequality",
+      "title": "The Price of Freedom: The Effects of Colonisation on Inequality in the 21st Century",
+      "ofsUnit": "Unit 4 — History, Inequality & Global Systems",
+      "textType": "Academic Historical-Social Analysis / Argumentative Source",
+      "date": "2026-11-05"
+    },
     {
       "slug": "2026-10-27-mushrooms-beyond-pizza",
       "title": "Mushrooms: Not Just for Pizza Anymore!",

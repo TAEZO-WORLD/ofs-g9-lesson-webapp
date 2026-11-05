@@ -1,0 +1,31 @@
+{
+  "taskId": "OFS-20261105-PRICE-OF-FREEDOM-01",
+  "slug": "2026-11-05-price-of-freedom-colonisation-inequality",
+  "title": "The Price of Freedom: The Effects of Colonisation on Inequality in the 21st Century",
+  "sourceLabel": "Source A:",
+  "citation": "Sophie Mackay, The Price of Freedom: The Effects of Colonisation on Inequality in the 21st Century, Manchester University, 2021",
+  "paragraphs": [
+    "Global inequality is on the rise and colonialism is at the core. You should care and here’s why. Many people think that globalisation has had overarching positive effects: according to the convergence thesis, we are seeing the ‘Global South’ catch up to the ‘Global North’ as they become more industrialised and more independent. However, recently even some of the most staunchly conservative organisations such as the International Monetary Fund are beginning to realise that global inequalities are growing rapidly, and some see colonialism as the root cause of it.",
+    "Colonialism is the process by which countries profit from others via economic and political exploitation. Countries within western Europe colonised parts of Latin America, Africa and India, this process has led to the economic prosperity of the countries who colonised while others, typically those which faced the effects of colonialism, were impoverished. These countries were depleted of resources of profit and the indigenous peoples were forced to adopt the cultural practices of their colonial rulers.",
+    "From then on, the newly independent countries continued to suffer, facing unprecedented levels of inequality. Some countries had no governmental structure and endured military dictatorships. Despite this, the international community believed that they had now entered a period of post-colonialism. However, with this as their starting point, how were these countries ever meant to compete against their former rulers?"
+  ],
+  "sentenceUnits": [
+    "Global inequality is on the rise and colonialism is at the core.",
+    "You should care and here’s why.",
+    "Many people think that globalisation has had overarching positive effects: according to the convergence thesis, we are seeing the ‘Global South’ catch up to the ‘Global North’ as they become more industrialised and more independent.",
+    "However, recently even some of the most staunchly conservative organisations such as the International Monetary Fund are beginning to realise that global inequalities are growing rapidly, and some see colonialism as the root cause of it.",
+    "Colonialism is the process by which countries profit from others via economic and political exploitation.",
+    "Countries within western Europe colonised parts of Latin America, Africa and India, this process has led to the economic prosperity of the countries who colonised while others, typically those which faced the effects of colonialism, were impoverished.",
+    "These countries were depleted of resources of profit and the indigenous peoples were forced to adopt the cultural practices of their colonial rulers.",
+    "From then on, the newly independent countries continued to suffer, facing unprecedented levels of inequality.",
+    "Some countries had no governmental structure and endured military dictatorships.",
+    "Despite this, the international community believed that they had now entered a period of post-colonialism.",
+    "However, with this as their starting point, how were these countries ever meant to compete against their former rulers?"
+  ],
+  "stats": {
+    "wordsWithoutLabel": 242,
+    "sha256WithoutLabel": "eb75b39b95a6f1caafb81b58c294b5ca2dccc0df95bc3ba184bfa0d5cd752ab0",
+    "wordsWithLabel": 244,
+    "sha256WithLabel": "b8992b4ffa91b65d26842108ac6a9abc5048013c308eaa63c143797b19772017"
+  }
+}
