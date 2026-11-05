@@ -1,6 +1,13 @@
 {
-  "latest": "2026-11-05-price-of-freedom-colonisation-inequality",
+  "latest": "2026-11-05-congo-land-cursed-by-wealth",
   "lessons": [
+    {
+      "slug": "2026-11-05-congo-land-cursed-by-wealth",
+      "title": "The Congo: A Land Cursed by Wealth",
+      "ofsUnit": "Unit 4 — History, Resources & Inequality",
+      "textType": "Historical Current-Affairs Feature / Argumentative Informational Article",
+      "date": "2026-11-05"
+    },
     {
       "slug": "2026-11-05-price-of-freedom-colonisation-inequality",
       "title": "The Price of Freedom: The Effects of Colonisation on Inequality in the 21st Century",

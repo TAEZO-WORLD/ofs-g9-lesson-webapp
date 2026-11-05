@@ -152,8 +152,18 @@ export default function ArticleReading({ data }) {
         </div>
       ) : (
         <div className="article__content" data-reading-container="true">
+          {data.sourceLabel && (
+            <p className="article__source-label" data-source-label="true" style={{ fontWeight: 700, color: 'var(--color-navy)', marginBottom: '0.25rem' }}>
+              {data.sourceLabel}
+            </p>
+          )}
+          {data.citation && (
+            <p className="article__citation" data-source-citation="true" style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', marginBottom: '1.25rem' }}>
+              {data.citation}
+            </p>
+          )}
           {data.paragraphs?.map((paragraph, index) => (
-            <p key={index} className="article__paragraph">
+            <p key={index} className="article__paragraph" data-source-block={index + 1}>
               {paragraph}
             </p>
           ))}

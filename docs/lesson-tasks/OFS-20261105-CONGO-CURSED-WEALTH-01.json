@@ -1,0 +1,327 @@
+{
+  "taskId": "OFS-20261105-CONGO-CURSED-WEALTH-01",
+  "operation": "CREATE_NEW_LESSON",
+  "expectedNewLessons": 1,
+  "lessonSlug": "2026-11-05-congo-land-cursed-by-wealth",
+  "title": "The Congo: A Land Cursed by Wealth",
+  "unit": "Unit 4 — History, Resources & Inequality",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "readingType": "Historical Current-Affairs Feature / Argumentative Informational Article",
+  "writingType": "Evidence-Based Historical Explanation Paragraph",
+  "duration": "90 minutes",
+  "goal": "Students explain how Source B connects the Democratic Republic of Congo’s natural resources with colonial exploitation, conflict, poverty and instability, follow the article’s historical sequence, analyze contrast and cause-and-effect language, distinguish source claims from independent knowledge, and write a cautious evidence-based explanation.",
+  "createdAt": "2026-11-05T13:29:20.754Z",
+  "baselineLessonCount": 30,
+  "baselineSlugs": [
+    "2026-11-05-price-of-freedom-colonisation-inequality",
+    "2026-10-27-mushrooms-beyond-pizza",
+    "2026-10-20-mushroom-kayak-ocean",
+    "2026-10-19-name-sharing-statistics",
+    "2026-10-12-mcdonalds-tasty-twists",
+    "2026-09-28-icebergs-frozen-giants",
+    "2026-09-28-a23a-iceberg-disappears",
+    "2026-09-21-sweden-forests-fika",
+    "2026-09-16-bamboo-scaffolding-hong-kong",
+    "2026-09-14-sunscreen-invisible-shield",
+    "2026-08-31-pocket-problem-women-need-more",
+    "2026-08-31-mars-leopard-spots-evidence",
+    "2026-08-24-nurabot-nursing-robot",
+    "2026-08-19-journey-of-your-last-name",
+    "2026-08-10-teens-try-tech-free-bedrooms",
+    "2026-08-10-gold-shiny-metal-changed-world",
+    "2026-08-10-illegal-gold-mining-mercury-mexico",
+    "2026-08-05-whats-a-sim-card",
+    "2026-08-04-farming-under-solar-panels",
+    "2026-07-23-myers-briggs-personality-type",
+    "2026-07-22-ancient-greeks-personality",
+    "2026-07-21-guyana-oil-boom-money",
+    "2026-07-20-big-industries-of-the-world",
+    "2026-07-13-cubism-seeing-differently",
+    "2026-07-04-spain-wildfire-disaster",
+    "2026-07-01-saudi-pakistan-defense-deal",
+    "2026-07-01-meta-ai-smart-glasses",
+    "2026-06-22-evolution-of-locks",
+    "2026-06-22-japan-heatwave-elderly",
+    "2026-06-21-minimalism"
+  ],
+  "priorIndexLatest": "2026-11-05-price-of-freedom-colonisation-inequality",
+  "priorIndexEntries": [
+    {
+      "slug": "2026-11-05-price-of-freedom-colonisation-inequality",
+      "title": "The Price of Freedom: The Effects of Colonisation on Inequality in the 21st Century",
+      "ofsUnit": "Unit 4 — History, Inequality & Global Systems",
+      "textType": "Academic Historical-Social Analysis / Argumentative Source",
+      "date": "2026-11-05"
+    },
+    {
+      "slug": "2026-10-27-mushrooms-beyond-pizza",
+      "title": "Mushrooms: Not Just for Pizza Anymore!",
+      "ofsUnit": "Unit 3 — Science, Innovation & Sustainability",
+      "textType": "Informational Science and Design Feature / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-27"
+    },
+    {
+      "slug": "2026-10-20-mushroom-kayak-ocean",
+      "title": "A Kayak Built from Mushrooms Crosses the Ocean!",
+      "ofsUnit": "Unit 3 — Innovation, Environment & Sustainability",
+      "textType": "Informational Human-Interest and Sustainability Article / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-20"
+    },
+    {
+      "slug": "2026-10-19-name-sharing-statistics",
+      "title": "How Many People Share Your Name?",
+      "ofsUnit": "Unit 1 — Identity, Names & Communities",
+      "textType": "Informational Data and Culture Feature / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-19"
+    },
+    {
+      "slug": "2026-10-12-mcdonalds-tasty-twists",
+      "title": "McDonald’s: A World of Tasty Twists",
+      "ofsUnit": "Unit 2 — Communities, Culture & Globalization",
+      "textType": "Informational Global Culture Article / Evidence-Based Explanation Paragraph",
+      "date": "2026-10-12"
+    },
+    {
+      "slug": "2026-09-28-icebergs-frozen-giants",
+      "title": "Icebergs: Frozen Giants with Stories to Tell",
+      "ofsUnit": "Unit 2 — Earth, Climate & Change",
+      "textType": "Informational Science Feature / Evidence-Based Science Explanation Paragraph",
+      "date": "2026-09-28"
+    },
+    {
+      "slug": "2026-09-28-a23a-iceberg-disappears",
+      "title": "World’s Biggest Iceberg Disappears After 40 Years",
+      "ofsUnit": "Unit 2 — Earth, Climate & Change",
+      "textType": "Informational News Report / Evidence-Based Environmental Explanation Paragraph",
+      "date": "2026-09-28"
+    },
+    {
+      "slug": "2026-09-21-sweden-forests-fika",
+      "title": "Sweden: Forests, Fika, and Fantastic Ideas",
+      "ofsUnit": "Unit 1 — Global Cultures, Identity & Daily Life",
+      "textType": "Cultural Profile / Informational Visual Text",
+      "date": "2026-09-21"
+    },
+    {
+      "slug": "2026-09-16-bamboo-scaffolding-hong-kong",
+      "title": "Bamboo Scaffolding: A Hong Kong Tradition at Risk",
+      "ofsUnit": "Unit 2 — Communities, Heritage & Change",
+      "textType": "Informational News Feature / Balanced Evidence-Based Recommendation Paragraph",
+      "date": "2026-09-16"
+    },
+    {
+      "slug": "2026-09-14-sunscreen-invisible-shield",
+      "title": "Sunscreen: Your Skin’s Invisible Shield",
+      "ofsUnit": "Unit 3 — Science, Health & Everyday Life",
+      "textType": "Informational Explanation / Compare-and-Explain Paragraph",
+      "date": "2026-09-14"
+    },
+    {
+      "slug": "2026-08-31-pocket-problem-women-need-more",
+      "title": "The Pocket Problem: Why Women Need More!",
+      "ofsUnit": "Unit 3 — Design, Everyday Life & Equality",
+      "textType": "Informational Feature / Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-31"
+    },
+    {
+      "slug": "2026-08-31-mars-leopard-spots-evidence",
+      "title": "Ancient Life on Mars? Reading the Evidence",
+      "ofsUnit": "Unit 3 — Science, Discovery & Evidence",
+      "textType": "Explanatory Science Report / Evidence-Based Evaluation Paragraph",
+      "date": "2026-08-31"
+    },
+    {
+      "slug": "2026-08-24-nurabot-nursing-robot",
+      "title": "Not Enough Nurses: Can Nurabot Help Solve a Worldwide Healthcare Puzzle?",
+      "ofsUnit": "Unit 3 — Innovation, Healthcare & Society",
+      "textType": "Problem–Solution Informational Report / Balanced Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-19-journey-of-your-last-name",
+      "title": "The Journey of Your Last Name",
+      "ofsUnit": "Unit 1 — Identity & Language",
+      "textType": "Informational Article / Compare-and-Explain Paragraph",
+      "date": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-10-teens-try-tech-free-bedrooms",
+      "title": "Teens Try Going Tech-Free in Their Bedrooms",
+      "ofsUnit": "Unit 4 — Campaigns & Digital Wellbeing",
+      "textType": "News Report / Evidence-Based Recommendation Paragraph",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-10-gold-shiny-metal-changed-world",
+      "title": "Gold: The Shiny Metal That Changed the World",
+      "ofsUnit": "Unit 3 — Innovation, Economy & Society",
+      "textType": "Informational Explanation / Historical Process Paragraph",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-10-illegal-gold-mining-mercury-mexico",
+      "title": "Illegal Gold Mining Fuels Mercury Crisis in Mexico",
+      "ofsUnit": "Unit 4 — Global Perspectives, Environment & Human Health",
+      "textType": "Cause-and-Effect / Problem–Solution News Report",
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-05-whats-a-sim-card",
+      "title": "What’s a SIM Card?",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Informational Explanation / Process Explanation Paragraph",
+      "date": "2026-08-05"
+    },
+    {
+      "slug": "2026-08-04-farming-under-solar-panels",
+      "title": "Farming Under Solar Panels: A Bright Idea?",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Problem–Solution / Cause-and-Effect Report Paragraph",
+      "date": "2026-08-04"
+    },
+    {
+      "slug": "2026-07-23-myers-briggs-personality-type",
+      "title": "Myers-Briggs: What’s Your Personality Type?",
+      "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "2026-07-22-ancient-greeks-personality",
+      "title": "How Ancient Greeks Explained Personality",
+      "ofsUnit": "Unit 2 — Culture, Psychology & Human Behavior",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-22"
+    },
+    {
+      "slug": "2026-07-21-guyana-oil-boom-money",
+      "title": "Guyana’s Oil Boom: Where Did the Money Go?",
+      "ofsUnit": "Unit 4 — Global Perspectives, Resources & Inequality",
+      "textType": "Problem–Solution / Discussion Paragraph",
+      "date": "2026-07-21"
+    },
+    {
+      "slug": "2026-07-20-big-industries-of-the-world",
+      "title": "Big Industries of the World",
+      "ofsUnit": "Unit 5 — Work, Economy & Global Industries",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "2026-07-13-cubism-seeing-differently",
+      "title": "Cubism: The Art of Seeing Things Differently",
+      "ofsUnit": "Unit 2 — Arts, Culture & Creative Perspectives",
+      "textType": "Informational Explanation Paragraph",
+      "date": "2026-07-13"
+    },
+    {
+      "slug": "2026-07-04-spain-wildfire-disaster",
+      "title": "Spain’s Summer Wildfire Disaster: Farmers and Tourism Hit Hard",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "News Report / Impact Paragraph",
+      "date": "2026-07-04"
+    },
+    {
+      "slug": "2026-07-01-saudi-pakistan-defense-deal",
+      "title": "Saudi Arabia and Pakistan: A New Deal and Big Questions",
+      "ofsUnit": "Unit 4 — Global Perspectives & International Relations",
+      "textType": "News Explainer / Explanatory Paragraph",
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "2026-07-01-meta-ai-smart-glasses",
+      "title": "Meta’s Exciting New AI-Powered Smart Glasses",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Technology News / Opinion Paragraph",
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "2026-06-22-evolution-of-locks",
+      "title": "The Evolution of Locks: From Wooden Keys to Face Scans",
+      "ofsUnit": "Unit 3 — Innovation, Technology & Society",
+      "textType": "Chronological Explanation Paragraph",
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "2026-06-22-japan-heatwave-elderly",
+      "title": "Japan’s Elderly Face Heatwave Challenges as Temperatures Soar",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Problem-Solution Report Paragraph",
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "2026-06-21-minimalism",
+      "title": "Living with Less: The Minimalist Movement",
+      "ofsUnit": "Unit 4 — Global Perspectives & Sustainable Living",
+      "textType": "Opinion Paragraph",
+      "date": "2026-06-21"
+    }
+  ],
+  "protectedFileHashes": {
+    "2026-11-05-price-of-freedom-colonisation-inequality": "9c54d535844b58ad27fe5fc6e8b605cf4af5647382ecfd5a46f44c18037ff9d2",
+    "2026-10-27-mushrooms-beyond-pizza": "0c7f8c541b35340779892762009aeb7fef4dbe81febe87c33dfa8864b146b105",
+    "2026-10-20-mushroom-kayak-ocean": "b2097a3fdca2cfd3779e3bf7a0b94ab1f8da9b070d265bd7b4d0d6a22b9451b8",
+    "2026-10-19-name-sharing-statistics": "22ebcf9b5213532503975104a7ce0fb92148c6da143bb1c7b8d7da19869ba49f",
+    "2026-10-12-mcdonalds-tasty-twists": "690346295cb534bb8198b7ed93f3e3a09824a895628bc2a9b94dc75f6b950cb7",
+    "2026-09-28-icebergs-frozen-giants": "c1938897e24b9fb5576c040cff15332ef82266584cb35d6a52e09d14adba41cb",
+    "2026-09-28-a23a-iceberg-disappears": "a7dd38e3b743ca5e3be6b2b941004ee6dfc2ac7ed43dafda999fcd26e709cda5",
+    "2026-09-21-sweden-forests-fika": "3939cfc34d492ba4579c72c9850609e3f968791c21089f61d025f1a287237f36",
+    "2026-09-16-bamboo-scaffolding-hong-kong": "a85eca0bccd386c957de5cb743eb0351392c16fd51aae3cb1b6a8c12c5ddacd4",
+    "2026-09-14-sunscreen-invisible-shield": "8caac2c211a49aea1a8f98271b2897f2f78eb888ad42fb40a3fc0c6fd3b3a749",
+    "2026-08-31-pocket-problem-women-need-more": "f36e574c35d33f47ed9a92bb0c7ca74300e11064466a6ad0818245ea50895531",
+    "2026-08-31-mars-leopard-spots-evidence": "9bb9b1df72926d9fff5b3e3624bfcf0daa0b37edeab27ccf9468b51a282ce1f1",
+    "2026-08-24-nurabot-nursing-robot": "71f99a1ea7f4032ba573d37b34ab8f86c0e7aff5ceb326033807e3f0f17e1896",
+    "2026-08-19-journey-of-your-last-name": "237382d555a427602152f38f49264b5fb8d689b6bb3ca5d3e19034190b7837e7",
+    "2026-08-10-teens-try-tech-free-bedrooms": "c8c6ab907833478b44f11fd03634709bf1dcbe8704a2564f86b322191a3df8ce",
+    "2026-08-10-gold-shiny-metal-changed-world": "e1dc270ca69ea0f48f489f856874aef4967f84495cd25313c0a8e77f27e92887",
+    "2026-08-10-illegal-gold-mining-mercury-mexico": "e3725e371a676baeb09b23f769f59c522267edbb1ef2b60b2e902d9ac247d35d",
+    "2026-08-05-whats-a-sim-card": "2c30ddef67cc6adc05afe847d4226e83030a247e09e8e511c4a63da628d28d76",
+    "2026-08-04-farming-under-solar-panels": "fe5f9a3dfa971a3ef16f532b66cebf1ce24aae54bc74c8bd891822b9da8784fc",
+    "2026-07-23-myers-briggs-personality-type": "c08c7dc7d10f8767fc86e88f575e65dca28d7ba6de78c3e5b44e598f89c0bfa2",
+    "2026-07-22-ancient-greeks-personality": "2cde07f18d23e7e48aa7379654fe2e6318e018c8970fa5a69d8cac2fadf8482c",
+    "2026-07-21-guyana-oil-boom-money": "0373363bf1fc2d427284d5ce67b6f6563119181c0286234d7977bd18e5d00751",
+    "2026-07-20-big-industries-of-the-world": "d8e1f84518f3d1eaa21d8d3ec28283b1e6705c25560d7c7c65563b3bd0cdfcbf",
+    "2026-07-13-cubism-seeing-differently": "7d0945435b603acde4b78ac608fe520e9198445aaf293ce95ff4f24a01a3cfa2",
+    "2026-07-04-spain-wildfire-disaster": "a33e11c1a91a7cab123762d80ca4ae8b562c0aef3ccd371ba4d875dc7ac4e608",
+    "2026-07-01-saudi-pakistan-defense-deal": "7ee4f1fda1e459f403980426b5bfac3fdcab0e4c749dfdaa2f4ea7d3db1c23ea",
+    "2026-07-01-meta-ai-smart-glasses": "a7212685cef2e948a5d7c644b3529a0fe7a1144c48502b9bc766c73d7689cb6e",
+    "2026-06-22-evolution-of-locks": "97b5ea76b9022a916d5b3ecff5a07ee359269bdb3390b31f18bedc446a06f411",
+    "2026-06-22-japan-heatwave-elderly": "d37923d1c647e7b04f07f6e925513c6245c0bf9adb25ee1feb3e940c9cfecb43",
+    "2026-06-21-minimalism": "d44233654a79c6f3ef79b64bc16ab2906e332a2e36b1e3fde0eb2560f7903b26"
+  },
+  "sourceInventory": [
+    {
+      "imageId": "IMAGE_1",
+      "sourceLabel": "Source B:",
+      "citation": "Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013",
+      "blocks": [
+        {
+          "blockId": "IMAGE_1_BLOCK_1",
+          "text": "The Democratic Republic of Congo (DRC) is often described as a paradox—a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest. Its history is a grim story of exploitation, violence, and corruption, shaped by centuries of colonialism and foreign interference."
+        },
+        {
+          "blockId": "IMAGE_1_BLOCK_2",
+          "text": "The DRC has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine. This devastating reality, sometimes called “Africa’s Great War,” has been fought largely within Congo’s borders, fueled by the fight to control its immense resources."
+        },
+        {
+          "blockId": "IMAGE_1_BLOCK_3",
+          "text": "Ironically, it is these resources that lie at the heart of the country’s suffering. From the Portuguese slave trade of the 15th century to King Leopold of Belgium’s rubber empire in the 19th century, foreign powers have plundered Congo’s people and land. Millions died as men were enslaved to tap rubber, their families held hostage, resistance punished by mutilation and murder. Later, Congo’s copper, uranium, and coltan helped fuel world wars and the digital revolution—yet the Congolese themselves remained impoverished and uneducated, denied the chance to build stable institutions."
+        },
+        {
+          "blockId": "IMAGE_1_BLOCK_4",
+          "text": "Independence in 1960 brought hope, but no preparation. With no trained elite to govern, chaos followed. The Cold War further destabilized the nation, with Western powers propping up dictator Mobutu Sese Seko, who looted billions while his people starved. His fall in 1997 triggered another brutal war, drawing in nine nations and countless militias. Today, Congo remains fractured. Its minerals still flow abroad, enriching elites and global industries, while its people endure poverty and instability. The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation."
+        }
+      ],
+      "visibleEmphasis": {
+        "sourceLabelBold": true,
+        "citationItalic": true
+      }
+    }
+  ],
+  "stats": {
+    "wordsWithoutLabel": 296,
+    "sha256WithoutLabel": "e0e6e815789d25a7f7a9672ec7b0e1a6a503fa3734a8027260bdb7be017c5c25",
+    "wordsWithLabel": 298,
+    "sha256WithLabel": "97330cca5edd5643785b5cf5f7813bc3851001df7bcd3eb057f269e125930d9e"
+  }
+}

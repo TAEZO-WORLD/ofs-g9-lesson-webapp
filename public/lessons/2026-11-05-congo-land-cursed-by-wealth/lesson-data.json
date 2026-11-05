@@ -1,0 +1,1592 @@
+{
+  "lessonTitle": "The Congo: A Land Cursed by Wealth",
+  "ofsUnit": "Unit 4 — History, Resources & Inequality",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Historical Current-Affairs Feature / Argumentative Informational Article",
+  "writingType": "Evidence-Based Historical Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students explain how Source B connects the Democratic Republic of Congo’s natural resources with colonial exploitation, conflict, poverty and instability, follow the article’s historical sequence, analyze contrast and cause-and-effect language, distinguish source claims from independent knowledge, and write a cautious evidence-based explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. You do not need outside factual, military, or historical knowledge; answer using your personal definitions, everyday experience, and general reasoning.",
+    "questions": [
+      {
+        "question": "What does the word wealth usually make you think of?",
+        "sentenceStarter": "When I hear the word \"wealth\", I usually think of abundant resources such as..."
+      },
+      {
+        "question": "Why might natural resources help some people but not everyone in a country?",
+        "sentenceStarter": "Natural resources might benefit only certain groups if profits are controlled by..."
+      },
+      {
+        "question": "How can a country’s history affect its opportunities and institutions today?",
+        "sentenceStarter": "A country’s history can shape its modern institutions because past systems of governance and trade..."
+      }
+    ],
+    "sentenceStarters": [
+      "When I hear the word \"wealth\", I usually think of abundant resources such as...",
+      "Natural resources might benefit only certain groups if profits are controlled by...",
+      "A country’s history can shape its modern institutions because past systems of governance and trade..."
+    ]
+  },
+  "article": {
+    "title": "The Congo: A Land Cursed by Wealth",
+    "sourceLabel": "Source B:",
+    "citation": "Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013",
+    "paragraphs": [
+      "The Democratic Republic of Congo (DRC) is often described as a paradox—a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest. Its history is a grim story of exploitation, violence, and corruption, shaped by centuries of colonialism and foreign interference.",
+      "The DRC has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine. This devastating reality, sometimes called “Africa’s Great War,” has been fought largely within Congo’s borders, fueled by the fight to control its immense resources.",
+      "Ironically, it is these resources that lie at the heart of the country’s suffering. From the Portuguese slave trade of the 15th century to King Leopold of Belgium’s rubber empire in the 19th century, foreign powers have plundered Congo’s people and land. Millions died as men were enslaved to tap rubber, their families held hostage, resistance punished by mutilation and murder. Later, Congo’s copper, uranium, and coltan helped fuel world wars and the digital revolution—yet the Congolese themselves remained impoverished and uneducated, denied the chance to build stable institutions.",
+      "Independence in 1960 brought hope, but no preparation. With no trained elite to govern, chaos followed. The Cold War further destabilized the nation, with Western powers propping up dictator Mobutu Sese Seko, who looted billions while his people starved. His fall in 1997 triggered another brutal war, drawing in nine nations and countless militias. Today, Congo remains fractured. Its minerals still flow abroad, enriching elites and global industries, while its people endure poverty and instability. The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key terms from Source B. Pay close attention to the part of speech or phrase type, accessible English definition, concise Korean meaning, and example sentence.",
+    "items": [
+      {
+        "word": "paradox",
+        "partOfSpeech": "noun",
+        "definition": "a situation, person, or statement that seems contradictory or impossible because it combines opposite qualities, yet is actually true",
+        "korean": "역설, 모순된 상황",
+        "sentence": "It is an economic paradox that a nation with abundant fresh water can suffer from severe drinking shortages."
+      },
+      {
+        "word": "natural wealth",
+        "partOfSpeech": "noun phrase",
+        "definition": "valuable raw materials, minerals, fertile soil, and forests that occur naturally within a country's territory",
+        "korean": "천연 자원, 자연적 부(富)",
+        "sentence": "The government invested revenue from its natural wealth into modern public schools and hospitals."
+      },
+      {
+        "word": "exploitation",
+        "partOfSpeech": "noun",
+        "definition": "the unfair use or treatment of someone or something, such as people, land, or resources, purely for one's own gain or profit",
+        "korean": "착취, (자원의) 부당한 이용",
+        "sentence": "Strict international labor regulations were introduced to stop the exploitation of factory workers."
+      },
+      {
+        "word": "displacement",
+        "partOfSpeech": "noun",
+        "definition": "the forced removal or involuntary movement of people away from their native homes and lands due to war, persecution, or disaster",
+        "korean": "강제 이주, 난민 발생, 터전 상실",
+        "sentence": "The border conflict caused the sudden displacement of thousands of farming families."
+      },
+      {
+        "word": "famine",
+        "partOfSpeech": "noun",
+        "definition": "an extreme and widespread scarcity of food across a region, causing widespread hunger, malnutrition, and death",
+        "korean": "기근, 극심한 식량 부족",
+        "sentence": "Emergency relief shipments arrived just in time to prevent a catastrophic famine in the drought-stricken province."
+      },
+      {
+        "word": "plundered",
+        "partOfSpeech": "verb",
+        "definition": "stolen, looted, or stripped of valuable goods, crops, or wealth by force, especially during conquest or armed conflict",
+        "korean": "약탈했다, 강탈했다",
+        "sentence": "During the ancient war, retreating troops plundered storehouses and carried away precious metals."
+      },
+      {
+        "word": "enslaved",
+        "partOfSpeech": "verb",
+        "definition": "deprived of personal freedom and forced into compulsory servitude without rights, wages, or legal protection",
+        "korean": "노예가 되었다, 노예 상태에 처해졌다",
+        "sentence": "Millions of captive laborers were historically enslaved on overseas plantations."
+      },
+      {
+        "word": "impoverished",
+        "partOfSpeech": "adjective",
+        "definition": "reduced to extreme poverty; deprived of the basic financial, educational, or material resources needed to thrive",
+        "korean": "빈곤해진, 극심하게 가난한",
+        "sentence": "Despite living near prosperous coastal ports, the villagers in the remote valley remained impoverished."
+      },
+      {
+        "word": "institutions",
+        "partOfSpeech": "noun",
+        "definition": "established governmental, legal, educational, and social organizations that stabilize, organize, and administer a society",
+        "korean": "제도, 공공 기관, 국가 체계",
+        "sentence": "Building durable democratic institutions takes decades of transparent legal practice and civic education."
+      },
+      {
+        "word": "fractured",
+        "partOfSpeech": "adjective",
+        "definition": "broken, divided, or fragmented into separate, competing, or conflicting factions rather than unified",
+        "korean": "분열된, 균열이 생긴, 파편화된",
+        "sentence": "The political coalition remained fractured after disputes over taxation and local governance."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "What is the main idea of Source B?",
+    "options": [
+      "The source says that Congo’s natural resources have made life equally prosperous for everyone.",
+      "The source explains how Congo’s natural wealth has been connected to exploitation, conflict, poverty and instability over time.",
+      "The source gives instructions for mining copper, uranium and coltan.",
+      "The source proves that natural resources always harm every country."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! Dan Snow’s article argues that Congo's tragedy is its immense wealth—a blessing turned into a curse because foreign powers and elites exploited its resources, fueling centuries of violence, institutional weakness, and poverty.",
+      "incorrect": "X Incorrect. Option B is correct. The author presents the DRC as a paradox and traces how the struggle to control its vast natural resources led to foreign exploitation, war, and persistent poverty rather than universal prosperity."
+    },
+    "explanation": "Source B establishes that the DRC is a paradox of great natural wealth and extreme poverty. It traces a historical sequence from the slave trade and King Leopold's rubber regime to Cold War dictatorship and modern conflict, concluding that Congo's immense wealth became a curse through centuries of exploitation."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer each question based strictly on the text of Source B. Choose the best option among the four choices.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "Why does the source describe the DRC as a paradox?",
+        "options": [
+          "It has completely exhausted its mineral wealth but remains the wealthiest economy in Africa.",
+          "It has the natural wealth to become one of the richest countries on earth, yet ranked among the poorest.",
+          "It avoided all contact with European powers throughout the 15th to 20th centuries.",
+          "Its population voted to ban international mineral exports entirely in 1960."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 explicitly defines the paradox: 'a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest.'",
+          "incorrect": "X Incorrect. Option B is the explicit contrast provided in Paragraph 1: having the potential natural wealth to be among the richest, yet ranking among the poorest."
+        },
+        "explanation": "Paragraph 1: 'The Democratic Republic of Congo (DRC) is often described as a paradox—a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest.'"
+      },
+      {
+        "id": "rc2",
+        "question": "What does the source say about the DRC’s conflict?",
+        "options": [
+          "It was a minor border skirmish that caused zero civilian displacement or casualties.",
+          "It has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine.",
+          "It was fought entirely in neighboring countries without affecting Congo's borders.",
+          "It was resolved peacefully within two weeks following an international mining treaty."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 reports that the DRC endured the world's deadliest conflict since 1945, with over five million killed and millions suffering displacement, disease, violence, and famine.",
+          "incorrect": "X Incorrect. Option B directly matches Paragraph 2, which states the conflict was the world's deadliest since 1945, claiming more than five million lives."
+        },
+        "explanation": "Paragraph 2: 'The DRC has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine.'"
+      },
+      {
+        "id": "rc3",
+        "question": "What does the source say is at the heart of the country’s suffering?",
+        "options": [
+          "A complete lack of navigable rivers or agricultural territory.",
+          "Its immense natural resources, which fueled armed conflict and foreign exploitation.",
+          "An excess of educated administrators and overly stable governmental institutions.",
+          "A refusal by international electronics companies to purchase raw materials."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 opens: 'Ironically, it is these resources that lie at the heart of the country’s suffering,' reinforced by Paragraph 2 which notes wars were 'fueled by the fight to control its immense resources.'",
+          "incorrect": "X Incorrect. Option B is correct. Paragraph 3 explicitly states: 'Ironically, it is these resources that lie at the heart of the country’s suffering.'"
+        },
+        "explanation": "Paragraph 3: 'Ironically, it is these resources that lie at the heart of the country’s suffering.' Paragraph 2 also notes the devastating conflict was 'fueled by the fight to control its immense resources.'"
+      },
+      {
+        "id": "rc4",
+        "question": "Which historical examples of foreign exploitation does the source mention?",
+        "options": [
+          "The Roman Mediterranean spice monopolies and ancient Greek silver expeditions.",
+          "The Portuguese slave trade of the 15th century and King Leopold of Belgium’s rubber empire in the 19th century.",
+          "Spanish gold galleon routes in the Pacific Ocean during the 18th century.",
+          "Scandinavian timber trading leagues operating in northern Baltic ports."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 identifies 'the Portuguese slave trade of the 15th century' and 'King Leopold of Belgium’s rubber empire in the 19th century' as key historical examples.",
+          "incorrect": "X Incorrect. Option B is correct. Paragraph 3 explicitly names the Portuguese slave trade of the 15th century and King Leopold of Belgium's 19th-century rubber empire."
+        },
+        "explanation": "Paragraph 3: 'From the Portuguese slave trade of the 15th century to King Leopold of Belgium’s rubber empire in the 19th century, foreign powers have plundered Congo’s people and land.'"
+      },
+      {
+        "id": "rc5",
+        "question": "What happened after independence according to the source?",
+        "options": [
+          "A fully trained elite governed smoothly, creating immediate wealth and regional harmony.",
+          "Independence in 1960 brought hope, but no preparation; chaos followed, Western powers propped up dictator Mobutu, and his 1997 fall triggered another war.",
+          "Congo immediately halted all copper, uranium, and coltan exports to Western markets.",
+          "The Cold War completely bypassed Central Africa, allowing local institutions to flourish."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 4 details that 1960 brought hope without preparation, leading to chaos, Cold War destabilization under Mobutu Sese Seko, and a 1997 war involving nine nations.",
+          "incorrect": "X Incorrect. Option B matches Paragraph 4, which explains that independence brought hope without preparation, followed by chaos, Cold War interference propping up Mobutu, and renewed war in 1997."
+        },
+        "explanation": "Paragraph 4: 'Independence in 1960 brought hope, but no preparation. With no trained elite to govern, chaos followed. The Cold War further destabilized the nation, with Western powers propping up dictator Mobutu Sese Seko... His fall in 1997 triggered another brutal war, drawing in nine nations and countless militias.'"
+      },
+      {
+        "id": "rc6",
+        "question": "What does the final sentence mean within the source’s argument?",
+        "options": [
+          "Congo failed because its citizens were fundamentally lacking in intelligence and physical strength.",
+          "Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation.",
+          "Natural resources automatically destroy democracy in every country without exception.",
+          "The digital revolution completely resolved Congo’s historical poverty by 2013."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! The final sentence encapsulates Snow's central thesis: Congo's tragedy is its wealth rather than weakness, because centuries of foreign exploitation converted natural blessings into a curse.",
+          "incorrect": "X Incorrect. Option B represents the exact concluding contrast in Paragraph 4: 'The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation.'"
+        },
+        "explanation": "Paragraph 4, concluding sentence: 'The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation.' The author emphasizes that resource wealth attracted external plunder."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Write concise, source-supported answers to each prompt. Distinguish the author’s reporting and historical framing from outside knowledge. Use the Check & Compare button to view model answers and guidance.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "What evidence does Source B give for describing the DRC as a paradox?",
+        "placeholder": "According to Source B, the Democratic Republic of Congo is described as a paradox because...",
+        "modelAnswer": "Source B presents the Democratic Republic of Congo as a paradox because it possesses immense natural wealth capable of making it one of the richest countries on earth, yet it remains ranked among the world’s poorest nations due to centuries of colonial exploitation, violence, and corruption.",
+        "compareTip": "Ensure your response highlights the two opposing facts of the paradox: extraordinary natural potential versus actual ranking among the poorest countries."
+      },
+      {
+        "id": "ev2",
+        "question": "Which historical and resource-related details does the source use to explain Congo’s suffering?",
+        "placeholder": "The author explains Congo’s suffering by linking specific resources and historical periods, including...",
+        "modelAnswer": "The author links Congo's suffering to foreign exploitation spanning several eras: the 15th-century Portuguese slave trade, King Leopold’s 19th-century rubber empire characterized by forced labor and murder, and the extraction of copper, uranium, and coltan that fueled world wars and the digital revolution while leaving the Congolese impoverished, uneducated, and denied stable institutions.",
+        "compareTip": "Check that you name specific historical examples (Portuguese slave trade, King Leopold's rubber regime) and mineral resources (copper, uranium, coltan) cited in Paragraph 3."
+      },
+      {
+        "id": "ev3",
+        "question": "How does the final sentence connect wealth with exploitation, poverty and instability?",
+        "placeholder": "In the final sentence, the author connects wealth to exploitation, poverty, and instability by arguing that...",
+        "modelAnswer": "The final sentence argues that Congo’s tragedy is rooted in its wealth rather than inherent weakness. The author asserts that centuries of foreign exploitation and mineral extraction enriched external powers and domestic elites while leaving the Congolese population to endure poverty, conflict, and fractured institutions, thereby turning a natural blessing into a historical curse.",
+        "compareTip": "Make sure you explain the contrast 'not its weakness but its wealth' and describe how foreign plunder transformed a blessing into a curse."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine the key academic structures and discourse patterns used in Source B. Notice how the author constructs paradoxes, traces historical cause and effect, uses passive voice, and maintains source attribution.",
+    "topic": "Paradox, Cause-and-Effect, Passive Voice, and Historical Sequencing",
+    "explanation": "Historical current-affairs writing relies on precise language patterns to contrast potential with reality, explain multi-century causal chains, describe historical subjection without sensationalism, and attribute interpretations to source authors.",
+    "patterns": [
+      {
+        "name": "Paradox and Contrast Structures",
+        "explanation": "Contrasts two coexisting, contradictory facts to emphasize an unexpected or tragic reality ('a nation with ... yet ranked among ...', 'not its weakness but its wealth').",
+        "example": "The coastal province has the farmland to feed a nation, yet remains dependent on grain imports.",
+        "sourceExample": "The Democratic Republic of Congo (DRC) is often described as a paradox—a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest."
+      },
+      {
+        "name": "Cause-and-Effect Relationships",
+        "explanation": "Shows how economic incentives and resource competition directly trigger armed conflicts and institutional breakdown ('fueled by...', 'helped fuel...', 'triggered...').",
+        "example": "The rapid discovery of offshore gas fields fueled intense maritime border disputes.",
+        "sourceExample": "fueled by the fight to control its immense resources... helped fuel world wars and the digital revolution... His fall in 1997 triggered another brutal war..."
+      },
+      {
+        "name": "Passive Voice and Past Subjection",
+        "explanation": "Places the emphasis on the affected people and territories who suffered exploitation, rather than glorifying the perpetrators ('were enslaved', 'held hostage', 'denied the chance').",
+        "example": "Local miners were forced into dangerous shafts and denied protective equipment.",
+        "sourceExample": "Millions died as men were enslaved to tap rubber, their families held hostage, resistance punished by mutilation and murder."
+      },
+      {
+        "name": "Participle Clauses for Economic & Political Impact",
+        "explanation": "Uses present and past participles to pack background causes and ongoing consequences into compact clauses ('shaped by...', 'drawing in...', 'enriching elites').",
+        "example": "The newly built canal altered shipping routes, enriching port cities while bypassing inland markets.",
+        "sourceExample": "shaped by centuries of colonialism and foreign interference... drawing in nine nations and countless militias... enriching elites and global industries..."
+      },
+      {
+        "name": "Chronological Sequence Markers",
+        "explanation": "Guides the reader chronologically through centuries of historical development ('since 1945', 'From the 15th century to the 19th century', 'Later', 'In 1960', 'In 1997', 'Today').",
+        "example": "From early colonial trading posts in the 1600s to modern container terminals, the harbor expanded continuously.",
+        "sourceExample": "From the Portuguese slave trade of the 15th century to King Leopold of Belgium’s rubber empire in the 19th century... Independence in 1960 brought hope... Today, Congo remains fractured."
+      },
+      {
+        "name": "Metaphor and Appositive Framing",
+        "explanation": "Uses appositive phrases and metaphorical noun phrases to crystallize complex historical evaluations ('a blessing turned into a curse').",
+        "example": "The nation's petroleum boom proved to be a fleeting triumph—a windfall squandered by inadequate oversight.",
+        "sourceExample": "The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Distinguishing Directly Stated Facts, Historical Sequences, Interpretations, and Inferences",
+        "explanation": "When evaluating historical informational texts, mature readers differentiate between empirical facts reported by the author, chronological historical sequences, the author's overarching analytical framing, and their own broader inferences.",
+        "examples": [
+          "Directly Stated Fact: The DRC endured conflict claiming more than five million lives since 1945.",
+          "Chronological Sequence: Foreign exploitation moved from the Portuguese slave trade (15th century) to Belgian rubber extraction (19th century) and modern mineral mining.",
+          "Author's Interpretation: Congo's fundamental tragedy is its wealth rather than weakness, which external actors turned into a curse.",
+          "Student Inference: Sustainable peace in resource-rich nations requires transparent domestic institutions and accountable global supply chains."
+        ]
+      },
+      {
+        "heading": "Using Cautious Attribution Language",
+        "explanation": "When summarizing historical claims from a single source, use attribution tags such as 'According to Source B,' 'Dan Snow argues,' or 'the article suggests.' This demonstrates academic caution by crediting the specific author rather than presenting one text as the definitive historical absolute.",
+        "examples": [
+          "Attributed Reporting: 'According to Source B, Western powers destabilized the DRC during the Cold War by supporting Mobutu Sese Seko.'",
+          "Attributed Framing: 'Dan Snow frames Congo’s paradox as a blessing turned into a curse through centuries of exploitation.'"
+        ]
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete these four targeted sentence-level writing activities. Write complete, grammatically sound sentences based on the evidence and language patterns in Source B.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write a paradox sentence using 'yet' to contrast natural wealth and poverty.",
+        "placeholder": "Although the Democratic Republic of Congo possesses..., yet...",
+        "modelAnswer": "The Democratic Republic of Congo possesses the natural wealth to be one of the richest nations on earth, yet it remains ranked among the poorest countries.",
+        "compareTip": "Ensure your sentence clearly contrasts immense natural potential with widespread poverty using the coordinating conjunction 'yet'.",
+        "targetWords": 21,
+        "minWords": 14,
+        "maxWords": 35
+      },
+      {
+        "id": "wp2",
+        "question": "Write a cause-and-effect sentence explaining how resource control is connected to suffering according to the source.",
+        "placeholder": "According to Source B, the conflict that caused millions of deaths was fueled by...",
+        "modelAnswer": "According to Source B, the devastating conflict that claimed millions of Congolese lives was fueled by the fight to control the nation's immense natural resources.",
+        "compareTip": "Check that your sentence explicitly links the struggle for resource control with armed violence or suffering using cause-and-effect language like 'fueled by'.",
+        "targetWords": 23,
+        "minWords": 15,
+        "maxWords": 35
+      },
+      {
+        "id": "wp3",
+        "question": "Write a historical sequence sentence using 'From ... to ...', 'Later', 'In 1960', 'In 1997' or 'Today'.",
+        "placeholder": "From King Leopold's 19th-century rubber empire to..., foreign exploitation...",
+        "modelAnswer": "From King Leopold’s rubber empire in the 19th century to the Cold War and the 1997 war, foreign interference repeatedly plundered Congo’s land and destabilized its governance.",
+        "compareTip": "Check that your sentence employs chronological sequencing markers (such as 'From... to...' or dates like 1960, 1997) to trace historical events in order.",
+        "targetWords": 25,
+        "minWords": 15,
+        "maxWords": 40
+      },
+      {
+        "id": "wp4",
+        "question": "Write a cautious source-reporting sentence explaining the meaning of 'not its weakness but its wealth'.",
+        "placeholder": "The author argues that Congo’s tragedy is not its weakness but its wealth because...",
+        "modelAnswer": "The author argues that Congo’s tragedy is not its weakness but its wealth, because foreign powers and elites exploited its natural resources, transforming potential prosperity into enduring poverty.",
+        "compareTip": "Verify that your sentence uses attribution language ('The author argues that') and clarifies why wealth became a source of tragedy.",
+        "targetWords": 26,
+        "minWords": 16,
+        "maxWords": 40
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based historical explanation paragraph answering the prompt below. Follow the checklist and adhere strictly to the word count target.",
+    "prompt": "How does Source B explain why Congo’s wealth became a curse? Write an evidence-based historical explanation paragraph of 100–140 words. Use at least three accurate details from the source, include one historical sequence or cause-and-effect relationship, and explain the final contrast between weakness and wealth.",
+    "checklist": [
+      "clear controlling idea answering how wealth became a curse",
+      "at least three accurate details from the original source",
+      "one historical sequence or cause-and-effect relationship",
+      "one source-reporting phrase such as 'According to Source B' or 'the author argues'",
+      "accurate use of contrast language such as 'yet', 'while', 'but' or 'not ... but ...'",
+      "explanation of the final wealth metaphor ('a blessing turned into a curse')",
+      "no invented statistics, current facts, political opinions or graphic details",
+      "the source’s viewpoint is presented as a viewpoint or argument",
+      "logical organization and conclusion",
+      "100–140 words"
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "According to Source B, the Democratic Republic of Congo represents a grim historical paradox rooted not in weakness but in its immense natural wealth. The author explains that foreign powers plundered Congo for centuries, beginning with the 15th-century Portuguese slave trade and continuing through King Leopold of Belgium’s brutal rubber regime. Later, valuable minerals such as copper, uranium, and coltan fueled global world wars and the modern digital revolution, yet the Congolese people remained impoverished, uneducated, and denied the chance to build stable institutions. Following an unprepared independence in 1960, Cold War interference supported dictator Mobutu Sese Seko, whose fall in 1997 triggered devastating conflict involving nine nations. Consequently, the relentless battle to control vast resources turned a natural blessing into a tragic curse of ongoing poverty and instability.",
+    "compareTip": "Review your draft against the checklist: verify that you included source attribution, named specific historical examples and minerals, explained the weakness versus wealth contrast, and stayed within 100–140 words."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Confirm that your completed responses and final writing paragraph satisfy all analytical criteria below before submitting your lesson.",
+    "items": [
+      {
+        "text": "My writing is strictly based on the details in Source B without inventing outside historical statistics or political judgments."
+      },
+      {
+        "text": "I explained why the DRC is characterized as a paradox contrasting vast natural wealth with severe poverty."
+      },
+      {
+        "text": "I traced the source's historical sequence from the slave trade and King Leopold's rubber regime to independence, Mobutu, and modern wars."
+      },
+      {
+        "text": "I demonstrated cause-and-effect connections showing how the battle for resource control fueled conflict and institutional weakness."
+      },
+      {
+        "text": "I used cautious source-reporting language (e.g., 'According to Source B', 'the author explains') to cite the source's arguments."
+      },
+      {
+        "text": "My final explanation paragraph is logically structured, explains the weakness versus wealth contrast, and contains 100–140 words."
+      }
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": "B. The source explains how Congo’s natural wealth has been connected to exploitation, conflict, poverty and instability over time.",
+      "readingComprehension": {
+        "rc1": "B. It has the natural wealth to become one of the richest countries on earth, yet ranked among the poorest.",
+        "rc2": "B. It has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine.",
+        "rc3": "B. Its immense natural resources, which fueled armed conflict and foreign exploitation.",
+        "rc4": "B. The Portuguese slave trade of the 15th century and King Leopold of Belgium’s rubber empire in the 19th century.",
+        "rc5": "B. Independence in 1960 brought hope, but no preparation; chaos followed, Western powers propped up dictator Mobutu, and his 1997 fall triggered another war.",
+        "rc6": "B. Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation."
+      },
+      "evidenceFromText": {
+        "ev1": "Source B defines the DRC as a paradox because its extraordinary natural resources give it the potential to be one of the wealthiest nations on earth, yet its citizens remain ranked among the poorest due to continuous foreign plunder, violence, and institutional destruction.",
+        "ev2": "The author details Congo's suffering across multiple eras: the 15th-century Portuguese slave trade, King Leopold’s 19th-century rubber regime with enslavement and murder, and the extraction of copper, uranium, and coltan for world wars and the digital revolution without educating the Congolese or establishing stable governance.",
+        "ev3": "The concluding sentence crystallizes the author's core thesis: Congo's tragedy is its wealth rather than weakness, because outside powers and domestic elites repeatedly fought to plunder its riches, transforming a natural blessing into a persistent curse of poverty and armed instability."
+      },
+      "writingPractice": {
+        "wp1": "The Democratic Republic of Congo possesses the natural wealth to be one of the richest nations on earth, yet it remains ranked among the poorest countries.",
+        "wp2": "According to Source B, the devastating conflict that claimed millions of Congolese lives was fueled by the fight to control the nation's immense natural resources.",
+        "wp3": "From King Leopold’s rubber empire in the 19th century to the Cold War and the 1997 war, foreign interference repeatedly plundered Congo’s land and destabilized its governance.",
+        "wp4": "The author argues that Congo’s tragedy is not its weakness but its wealth, because foreign powers and elites exploited its natural resources, transforming potential prosperity into enduring poverty."
+      },
+      "languageFocus": {
+        "paradox": "Contrasts immense natural wealth with severe poverty using 'yet ranked among the poorest' and 'not its weakness but its wealth'.",
+        "causeEffect": "Links resource extraction with ongoing conflict using 'fueled by the fight to control' and 'triggered another brutal war'.",
+        "passiveVoice": "Emphasizes historical victimhood using 'were enslaved', 'held hostage', 'resistance punished', and 'denied the chance'.",
+        "chronology": "Traces five centuries using temporal markers: 15th century, 19th century, 1960, Cold War, 1997, and Today."
+      }
+    },
+    "modelAnswer": "According to Source B, the Democratic Republic of Congo represents a grim historical paradox rooted not in weakness but in its immense natural wealth. The author explains that foreign powers plundered Congo for centuries, beginning with the 15th-century Portuguese slave trade and continuing through King Leopold of Belgium’s brutal rubber regime. Later, valuable minerals such as copper, uranium, and coltan fueled global world wars and the modern digital revolution, yet the Congolese people remained impoverished, uneducated, and denied the chance to build stable institutions. Following an unprepared independence in 1960, Cold War interference supported dictator Mobutu Sese Seko, whose fall in 1997 triggered devastating conflict involving nine nations. Consequently, the relentless battle to control vast resources turned a natural blessing into a tragic curse of ongoing poverty and instability.",
+    "rubric": [
+      {
+        "criterion": "Content & Ideas",
+        "category": "Content & Ideas",
+        "excellent": "Articulates a clear, sophisticated controlling idea explaining how resource wealth became a curse according to Source B. Accurately incorporates at least three source details (e.g., King Leopold's rubber regime, minerals like copper/coltan, Cold War support of Mobutu) and explains the weakness versus wealth contrast.",
+        "developing": "States a general idea about resource wealth and conflict but may omit specific historical periods or blend general world knowledge with source evidence. Includes 1–2 details from the text.",
+        "beginning": "Provides an inaccurate or vague controlling idea. Relies on unsupported assumptions or outside opinions without textual support."
+      },
+      {
+        "criterion": "Evidence Use",
+        "category": "Evidence Use",
+        "excellent": "Seamlessly cites or paraphrases evidence from Paragraphs 1 through 4. Accurately links natural resources with specific historical exploitation stages, conflict casualties, and institutional deprivation with high fidelity to Source B.",
+        "developing": "Mentions text details but references them loosely without explaining how they support the thesis that wealth caused tragedy.",
+        "beginning": "Fails to provide textual evidence or introduces invented statistics and outside historical claims not found in Source B."
+      },
+      {
+        "criterion": "Target Language/Structure",
+        "category": "Target Language/Structure",
+        "excellent": "Expertly employs paradox structures ('not... but...'), contrast conjunctions ('yet', 'while'), cause-and-effect verbs ('fueled', 'triggered'), and cautious attribution phrases ('According to Source B', 'the author explains').",
+        "developing": "Uses attribution and contrast structures with occasional awkwardness or repetitive phrasing.",
+        "beginning": "Demonstrates little use of target academic structures; relies on fragmented syntax and lacks clear attribution."
+      },
+      {
+        "criterion": "Organization",
+        "category": "Organization",
+        "excellent": "Follows an exemplary analytical progression: thesis addressing the paradox → chronological evidence of foreign plunder → post-independence and modern conflict → concluding evaluation of the blessing-turned-curse metaphor.",
+        "developing": "Displays a recognizable organizational sequence, though transitions between historical epochs may feel abrupt.",
+        "beginning": "Lacks paragraph coherence; sentences appear disjointed without logical flow or concluding closure."
+      },
+      {
+        "criterion": "Accuracy",
+        "category": "Accuracy",
+        "excellent": "Demonstrates strong grammatical control with virtually no errors in tense consistency, subject-verb agreement, or punctuation. Strictly satisfies the 100–140 word target.",
+        "developing": "Contains minor grammatical or mechanical slips that do not impede comprehension. Length is slightly outside the target range.",
+        "beginning": "Frequent grammatical errors obscure meaning. Substantially falls short of or exceeds the 100–140 word requirement."
+      }
+    ],
+    "teacherNotes": [
+      {
+        "topic": "1. Source B and Visible Citation Line",
+        "note": "The reading starts with 'Source B:' followed by 'Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013'. Teach students that identifying the source label, author, publication platform, and date establishes essential reading context. Emphasize that all student analyses must anchor strictly in this visible text."
+      },
+      {
+        "topic": "2. Dan Snow and BBC News Website, 2013",
+        "note": "Dan Snow is a British broadcaster and popular historian writing for the BBC News Website in 2013. The 2013 publication date means the text reflects historical perspectives and data available at that time. Cautions: do not update the text with post-2013 events, and present the article as Snow's reported feature rather than an exhaustive academic monograph."
+      },
+      {
+        "topic": "3. The DRC Paradox Framing",
+        "note": "Paragraph 1 introduces the Democratic Republic of Congo as a paradox: possessing the geological wealth to become one of the earth's richest nations, yet ranking among the poorest. Highlight how paradox functions rhetorically to provoke reader curiosity and introduce the article's central investigative question."
+      },
+      {
+        "topic": "4. Natural-Wealth Framing and Scope",
+        "note": "The source frames natural resources as both immense potential and the catalyst for catastrophe. Note that while natural resources can generate prosperity in countries with strong institutions, Snow argues that in Congo, foreign extraction systematically pre-empted institutional development."
+      },
+      {
+        "topic": "5. Conflict and Casualty Figures as Reported Source Content",
+        "note": "Paragraph 2 states that the DRC endured 'the world’s deadliest conflict since 1945, with more than five million people killed'. Teach students to frame this figure with attribution ('the source reports that...') rather than debating or fact-checking casualty estimates in class, preserving the reading as reported historical journalism."
+      },
+      {
+        "topic": "6. “Africa’s Great War” and Regional Dimensions",
+        "note": "The conflict is described as sometimes called 'Africa’s Great War', fought largely within Congo's borders but eventually drawing in nine nations. Explain the historical metaphor: like the First World War in Europe, this war involved multiple sovereign nations and non-state militias competing over strategic territory."
+      },
+      {
+        "topic": "7. Resource Control as Primary Fuel for Warfare",
+        "note": "Paragraph 2 emphasizes that warfare was 'fueled by the fight to control its immense resources'. Help students identify 'fueled by' as a powerful cause-and-effect metaphor, showing that minerals provided both the motive for fighting and the revenue to buy weapons."
+      },
+      {
+        "topic": "8. Portuguese Slave Trade (15th Century)",
+        "note": "Paragraph 3 traces foreign exploitation back to the 15th-century Portuguese slave trade along the Atlantic coast. This detail establishes that the extraction of human and material wealth from the Congo basin began five centuries ago, creating deep historical roots of disruption."
+      },
+      {
+        "topic": "9. King Leopold of Belgium’s Rubber Empire (19th Century)",
+        "note": "The source highlights King Leopold II of Belgium’s personal possession of the Congo Free State during the 19th-century rubber boom. Teach the historical context briefly: wild rubber was vital for industrializing Western economies, leading to catastrophic human rights abuses."
+      },
+      {
+        "topic": "10. Copper, Uranium, and Coltan Extraction",
+        "note": "The text names copper, uranium, and coltan as key minerals fueling world wars and the digital revolution. Uranium from the Shinkolobwe mine contributed to WWII atomic weapons, and coltan is essential for modern mobile phones and electronic capacitors. Note the stark contrast between global technological progress and local poverty."
+      },
+      {
+        "topic": "11. Descriptions of Enslavement and Hostage-Taking",
+        "note": "Paragraph 3 describes men enslaved to tap rubber, families held hostage, and resistance punished by mutilation and murder. Handle these graphic references factually and sensitively as historical evidence cited by Snow; do not elaborate with gratuitous graphic descriptions."
+      },
+      {
+        "topic": "12. Independence in 1960 and Lack of Preparation",
+        "note": "Paragraph 4 notes that independence in 1960 brought hope but no preparation. Colonial authorities had deliberately restricted secondary and higher education, leaving the newly sovereign state without a trained administrative elite to run national civil services."
+      },
+      {
+        "topic": "13. Absence of Trained Governing Elite",
+        "note": "With 'no trained elite to govern, chaos followed'. Emphasize this cause-and-effect relationship: political instability was not a character flaw of the Congolese people, but the direct institutional consequence of colonial neglect and intentional educational exclusion."
+      },
+      {
+        "topic": "14. Cold War Destabilization",
+        "note": "The article notes that the Cold War further destabilized the nation as Western powers sought to prevent Soviet influence in mineral-rich central Africa. Geopolitical competition took precedence over democratic development or human rights."
+      },
+      {
+        "topic": "15. Dictator Mobutu Sese Seko and State Kleptocracy",
+        "note": "Western powers propped up dictator Mobutu Sese Seko, who looted billions while his people starved. Snow uses Mobutu as an archetype of how resource extraction enriched autocratic rulers while national infrastructure deteriorated."
+      },
+      {
+        "topic": "16. 1997 Fall of Mobutu and Nine Nations War",
+        "note": "Mobutu’s overthrow in 1997 triggered another brutal war that drew in nine African nations and countless local militias. Point out how this chronological detail illustrates the recurring cycle where state weakness invites external military intervention."
+      },
+      {
+        "topic": "17. Present-Tense “Today” Wording and Continuity",
+        "note": "In Paragraph 4, Snow transitions to 'Today, Congo remains fractured. Its minerals still flow abroad, enriching elites and global industries...'. Explain that Snow uses present tense to demonstrate how colonial extraction patterns continue in the contemporary global economy."
+      },
+      {
+        "topic": "18. Concluding Metaphor: Blessing Turned into a Curse",
+        "note": "The final sentence concludes: 'The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation.' Unpack this metaphor with students: geological wealth should be a national blessing, but external greed transformed it into a persistent vulnerability."
+      },
+      {
+        "topic": "19. Source Viewpoint, Scope, and Pedagogical Limitations",
+        "note": "Remind students that Source B represents a journalistic essay by Dan Snow emphasizing geopolitical and economic exploitation. It is not a comprehensive encyclopedia of Congolese culture, resistance movements, or artistic achievements. Students must practice evaluating texts within their defined scope and viewpoint."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "Phase A: Opening and Lesson Goal",
+        "durationMinutes": 5,
+        "objective": "Establish lesson focus on Source B, introduce the central paradox of resource wealth and poverty in the DRC, and clarify the 90-minute goal.",
+        "teacherActions": "Display lesson title, review unit context (History, Resources & Inequality), explain that we are examining an authentic BBC News article by Dan Snow, and state the writing goal.",
+        "scriptEn": "Good morning, Grade 9. Today we are exploring Source B, an article titled 'The Congo: A Land Cursed by Wealth' by historian Dan Snow. We will examine how a country blessed with immense natural resources can become one of the poorest and most conflict-affected nations on earth. By the end of this 90-minute lesson, you will analyze the author's historical sequence, master paradox and cause-and-effect structures, and write a focused, evidence-based historical explanation paragraph.",
+        "scriptKo": "안녕하세요, 9학년 여러분. 오늘 우리는 역사가 댄 스노(Dan Snow)가 쓴 '콩고: 부(富)의 저주를 받은 땅'이라는 Source B 기사를 살펴봅니다. 우리는 엄청난 천연 자원을 축복받은 국가가 어떻게 지구상에서 가장 가난하고 분쟁에 시달리는 나라 중 하나가 되었는지 살펴볼 것입니다. 90분 수업이 끝날 때, 여러분은 작가의 역사적 전개 순서를 분석하고, 역설 및 인과 관계 구문을 익혀 탄탄한 근거 기반 역사 설명 문단을 완성하게 될 것입니다.",
+        "studentActions": "Read the lesson goal on screen, note the title and author, and prepare notebooks for source analysis.",
+        "misconceptionFeedback": "If students assume natural resources automatically make all countries rich, point out that institutions, historical governance, and fair distribution determine whether resources become a benefit or a vulnerability.",
+        "transition": "To understand this paradox from our own perspective first, let's look at the three Warm-up questions."
+      },
+      {
+        "phase": "Phase B: Warm-up Discussion",
+        "durationMinutes": 10,
+        "objective": "Activate prior reasoning regarding wealth, resource distribution, and historical impact on institutions without requiring outside historical facts.",
+        "teacherActions": "Prompt students to discuss the three warm-up questions in pairs, circulate to listen for vocabulary, and collect sample responses using sentence starters.",
+        "scriptEn": "Turn to your partner and look at our three Warm-up questions. First, what does the word 'wealth' make you think of? Second, why might natural resources help some people in a country but not everyone? Third, how can past history affect a country's institutions today? Use the sentence starters provided on your screen. You do not need outside military or historical facts—just use your personal reasoning and life observations.",
+        "scriptKo": "짝과 함께 화면의 세 가지 웜업 질문을 살펴보세요. 첫째, 'wealth(부)'라는 단어를 들으면 무엇이 떠오르나요? 둘째, 왜 천연 자원이 한 나라의 모든 사람이 아닌 일부 사람들에게만 혜택을 줄 수 있을까요? 셋째, 한 나라의 역사가 오늘날의 제도에 어떻게 영향을 미칠 수 있을까요? 화면에 제공된 문장 시작 어구를 활용하세요. 외부 역사 지식 없이 여러분의 상식과 논리적 추론으로 충분합니다.",
+        "studentActions": "Discuss each prompt in pairs for 6 minutes, then share 2–3 ideas with the whole class.",
+        "misconceptionFeedback": "If a student attempts to answer using unsubstantiated current political opinions, guide them back to general economic principles: 'Let's focus on how control over profits shapes whether resources benefit the wider public.'",
+        "transition": "Now that we have explored the concept of wealth and fairness, let's examine the 10 key vocabulary terms used in Source B."
+      },
+      {
+        "phase": "Phase C: Vocabulary in Context",
+        "durationMinutes": 12,
+        "objective": "Introduce and master the 10 source-aligned vocabulary terms with English definitions, Korean meanings, and original contextual sentences.",
+        "teacherActions": "Explicitly teach terms 1 through 10, emphasizing correct pronunciation, parts of speech, and nuances (e.g., paradox, exploitation, displacement, institutions, fractured).",
+        "scriptEn": "Let's study the 10 vocabulary terms from Source B. Look at word 1: 'paradox'. A paradox is a situation combining two opposite facts that seem impossible together, yet are true. The DRC has massive mineral wealth, yet is ranked among the poorest countries. Look at word 3: 'exploitation'—using people or resources unfairly for profit. Notice word 9: 'institutions'—schools, courts, governments that give stability. And word 10: 'fractured'—divided into competing parts. Read each definition and Korean meaning carefully.",
+        "scriptKo": "Source B의 10개 핵심 어휘를 살펴봅시다. 1번 단어 'paradox(역설)'를 보세요. 역설은 양립할 수 없어 보이는 두 가지 상반된 사실이 결합되어 있지만 실제로 참인 상황을 뜻합니다. 콩고민주공화국은 막대한 광물 자원을 가졌지만 가장 가난한 나라에 속합니다. 3번 'exploitation(착취)', 9번 'institutions(제도/공공기관)', 10번 'fractured(분열된)' 등 각 단어의 품사와 한국어 의미, 예문을 꼼꼼히 익히세요.",
+        "studentActions": "Pronounce words chorally, read definitions, and note parts of speech and Korean translations.",
+        "misconceptionFeedback": "Clarify that 'fractured' in this text is used metaphorically to mean politically divided into rival factions, not literally broken bones.",
+        "transition": "With these key terms ready, let's do our first continuous reading of Source B to grasp its main idea."
+      },
+      {
+        "phase": "Phase D: First Reading and Main Idea Gist",
+        "durationMinutes": 10,
+        "objective": "Read Source B continuously from beginning to end, identify the source label and citation, and solve the Main Idea MCQ with O/X feedback.",
+        "teacherActions": "Read Source B aloud or play audio while students follow along. Highlight the source label, citation, and four distinct paragraphs. Direct students to Main Idea MCQ.",
+        "scriptEn": "Please follow along as I read Source B. Notice the source header: 'Source B: Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013'. Pay close attention to how the four paragraphs flow from the paradox, to modern conflict, to historical exploitation, and finally to independence and today's reality. After reading, answer the Main Idea question: What is the main idea of Source B?",
+        "scriptKo": "제가 Source B를 낭독할 때 눈으로 함께 따라 읽어보세요. 상단의 출처 표시인 'Source B: Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013'에 주목하세요. 4개의 문단이 역설에서 출발하여 현대 분쟁, 역사적 착취, 그리고 독립 이후와 오늘의 현실로 어떻게 이어지는지 흐름을 파악하세요. 읽은 후 메인 아이디어 객관식 문제를 풀어보세요.",
+        "studentActions": "Read along, note the four paragraph boundaries, select option B for Main Idea, and read the O/X explanation.",
+        "misconceptionFeedback": "If students pick Option D ('natural resources always harm every country'), explain that the article focuses specifically on Congo's history of exploitation, not a universal law for every nation.",
+        "transition": "Now let's examine the specific evidence and historical timeline across each paragraph through our Comprehension and Evidence tasks."
+      },
+      {
+        "phase": "Phase E: Detailed Evidence and Historical-Sequence Reading",
+        "durationMinutes": 18,
+        "objective": "Analyze each paragraph in detail, complete the 6 Reading Comprehension MCQs, and draft the 3 written Evidence from Text responses.",
+        "teacherActions": "Guide students paragraph by paragraph. Connect Paragraph 1 to RC1, Paragraph 2 to RC2, Paragraph 3 to RC3 and RC4, Paragraph 4 to RC5 and RC6. Model finding textual evidence for EV1, EV2, and EV3.",
+        "scriptEn": "Let's dig into the details. Work through the 6 Reading Comprehension questions. Notice where each answer lives in the text: RC1 is in Paragraph 1; RC2 is in Paragraph 2; RC3 and RC4 are in Paragraph 3; RC5 and RC6 are in Paragraph 4. Once you finish the MCQs, answer the 3 Evidence from Text prompts. In EV1, explain the paradox. In EV2, list the historical periods and minerals. In EV3, unpack the final sentence. Use Check & Compare to examine the model answers.",
+        "scriptKo": "세부 내용을 깊이 살펴봅시다. 6개의 독해 확인 문제를 풀어보세요. 각 정답의 근거가 본문 어디에 있는지 확인하세요: 1번은 1문단, 2번은 2문단, 3번과 4번은 3문단, 5번과 6번은 4문단에 있습니다. 객관식을 마친 후 'Evidence from the Text'의 서술형 3문항을 작성하세요. EV1에서는 역설을, EV2에서는 역사적 시기와 광물을, EV3에서는 마지막 문장의 의미를 설명하세요. Check & Compare 버튼으로 모범 답안과 비교해 보세요.",
+        "studentActions": "Complete all 6 MCQs, write drafts for EV1–EV3, click Check & Compare, and review compareTips.",
+        "misconceptionFeedback": "If students write outside opinions for EV2, remind them: 'Only cite the historical periods and resources mentioned by Dan Snow: the slave trade, King Leopold's rubber, copper, uranium, and coltan.'",
+        "transition": "To express these historical ideas effectively in academic writing, let's explore our Language Focus patterns."
+      },
+      {
+        "phase": "Phase F: Language Focus Analysis",
+        "durationMinutes": 12,
+        "objective": "Master paradox structures, cause-and-effect relationships, passive voice for historical subjection, and chronological sequence markers.",
+        "teacherActions": "Display the 6 key patterns from the Language Focus section. Model how Dan Snow uses 'yet', 'fueled by', 'were enslaved', and 'From... to...'. Conduct quick choral drills.",
+        "scriptEn": "Look at the Language Focus section. Notice pattern 1: Paradox structure—'a nation with the natural wealth... yet ranked among the poorest.' Pattern 2: Cause-and-effect verbs—'fueled by the fight to control...' and 'triggered another brutal war.' Pattern 3: Passive voice—'men were enslaved', 'families held hostage', 'denied the chance.' Why does Snow use the passive? Because he wants to emphasize the people who suffered colonial subjection. Notice also chronological markers: 'since 1945', '15th century', '19th century', 'In 1960', 'In 1997', 'Today'.",
+        "scriptKo": "Language Focus 섹션을 보세요. 패턴 1은 역설 구문입니다: 'a nation with the natural wealth... yet ranked among the poorest.' 패턴 2는 인과 동사입니다: 'fueled by the fight to control...'과 'triggered another brutal war.' 패턴 3은 수동태입니다: 'men were enslaved', 'families held hostage', 'denied the chance.' 스노가 왜 수동태를 썼을까요? 식민지 착취를 당한 사람들에게 초점을 맞추기 위해서입니다. 또한 '15th century', '1960', 'Today'와 같은 시대 순서 표지에도 주목하세요.",
+        "studentActions": "Read pattern examples, identify corresponding clauses in Source B, and practice constructing sentences using sentence frames.",
+        "misconceptionFeedback": "If students confuse active and passive voice, explain: 'The Congolese were denied stable institutions by colonial rulers—the passive highlights who suffered the deprivation.'",
+        "transition": "Now let's apply these structures directly in our Writing Practice activities and the Final Writing Task."
+      },
+      {
+        "phase": "Phase G: Writing Practice and Final Writing Task",
+        "durationMinutes": 18,
+        "objective": "Complete all 4 sentence-level Writing Practice activities and compose an evidence-based historical explanation paragraph of 100–140 words.",
+        "teacherActions": "Monitor student writing during WP1–WP4. Review the Final Task prompt, rubric, and checklist. Provide live feedback on word count and source attribution.",
+        "scriptEn": "Now it is time to write. First, complete Writing Practice 1 through 4. Check each sentence with Check & Compare. Then, move to our Final Writing Task. The prompt asks: 'How does Source B explain why Congo’s wealth became a curse?' You must write an evidence-based paragraph of 100 to 140 words. Include at least three source details, one cause-and-effect or historical sequence link, clear attribution like 'According to Source B', and explain the contrast between weakness and wealth. Watch your word counter live as you write.",
+        "scriptKo": "이제 직접 글을 써볼 시간입니다. 먼저 Writing Practice 1번부터 4번까지 완성하고 Check & Compare로 확인하세요. 그 다음 Final Writing Task로 이동합니다. 질문은 'Source B는 왜 콩고의 부가 저주가 되었다고 설명하는가?'입니다. 100~140단어의 근거 기반 문단을 작성해야 합니다. 최소 3가지 본문 근거, 1개의 인과/역사 순서 연결, 'According to Source B'와 같은 명확한 출처 인용, 그리고 약함 대 부의 대조를 반드시 포함하세요. 작성하면서 실시간 단어 수를 확인하세요.",
+        "studentActions": "Complete WP1–WP4, draft the 100–140 word final paragraph, use Rule-Based Writing Check, and refine wording.",
+        "misconceptionFeedback": "If a draft is under 100 words, advise: 'Expand on the specific resources and historical stages mentioned in Paragraph 3 and 4, such as rubber, copper, coltan, and Mobutu.'",
+        "transition": "Once your paragraph reaches the target range and passes all checklist items, let's complete the Self-Check and submit."
+      },
+      {
+        "phase": "Phase H: Review, Self-Check, and Submission",
+        "durationMinutes": 5,
+        "objective": "Verify completion against the 6 Self-Check items, submit work, and summarize core takeaways on source-based historical reading.",
+        "teacherActions": "Guide students through the 6 self-check items. Ensure student name and code are entered. Confirm submission confirmation appears on screen.",
+        "scriptEn": "Excellent work today. Before submitting, review the 6 Self-Check criteria. Did you base your claims strictly on Source B? Did you explain the paradox, trace the historical timeline, and use cautious attribution? Check each box, enter your student name and code, and click Submit. Remember: when analyzing historical texts, always separate what the author reports from independent world knowledge. Outstanding effort!",
+        "scriptKo": "오늘 훌륭하게 참여해 주었습니다. 제출하기 전에 6가지 셀프체크 항목을 확인하세요. Source B에 엄격하게 기반했나요? 역설을 설명하고, 역사적 연대를 추적하며, 조심스러운 인용 표현을 썼나요? 각 체크박스를 확인하고 이름과 코드를 입력한 후 제출 버튼을 누르세요. 역사 텍스트를 읽을 때는 작가가 보고한 내용과 외부 지식을 항상 분리해야 한다는 점을 잊지 마세요. 수고 많았습니다!",
+        "studentActions": "Verify each checklist box, input studentName and studentCode, submit lesson, and view submission confirmation.",
+        "misconceptionFeedback": "If a student forgot to check word count, prompt them to glance at the counter before clicking submit to ensure it falls within 100–140 words.",
+        "transition": "Your submissions are now recorded. We will review teacher feedback and sample paragraphs in our next session."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "option": "Option 1: Historical Curiosity & Paradox Hook",
+        "english": "Welcome, everyone. / Today we examine an extraordinary historical paradox / from the heart of the African continent. / Imagine a nation blessed with enough copper, diamonds, and coltan / to be one of the richest countries on earth, / yet its people rank among the poorest. / Historian Dan Snow calls this / 'The Congo: A Land Cursed by Wealth.' / Together, we will trace five centuries of history / to explain how immense wealth / became a source of ongoing tragedy.",
+        "directKorean": "환영합니다, 여러분. / 오늘 우리는 놀라운 역사적 역설을 살펴봅니다 / 아프리카 대륙의 심장부로부터의. / 상상해 보세요 한 국가가 충분한 구리, 다이아몬드, 콜탄을 축복받아 / 지구상에서 가장 부유한 나라 중 하나가 될 수 있는데, / 그러나 그 국민들은 가장 가난한 축에 속합니다. / 역사가 댄 스노는 이를 부릅니다 / '콩고: 부의 저주를 받은 땅'이라고. / 함께, 우리는 5세기의 역사를 추적할 것입니다 / 엄청난 부가 어떻게 되었는지를 설명하기 위해 / 지속적인 비극의 원천이.",
+        "naturalKorean": "여러분 환영합니다. 오늘 우리는 아프리카 대륙의 중심부에서 일어난 놀라운 역사적 역설을 탐구합니다. 지구상에서 가장 부유한 나라가 되기에 충분한 구리와 다이아몬드, 콜탄을 지녔음에도 국민들은 가장 빈곤한 나라에 속하는 땅을 상상해 보세요. 역사가 댄 스노는 이를 '콩고: 부의 저주를 받은 땅'이라고 부릅니다. 오늘 우리는 5세기에 걸친 역사를 추적하며, 막대한 자원이 어떻게 지속적인 비극의 씨앗이 되었는지 밝혀낼 것입니다.",
+        "purpose": "Hooks student curiosity through the stark contrast between mineral wealth and extreme poverty, setting up the central inquiry."
+      },
+      {
+        "option": "Option 2: Source Literacy & Critical Attribution Hook",
+        "english": "Good morning, class. / When we read historical journalism, / our first duty as scholars / is to identify who is speaking, / when the article was published, / and what evidence is presented. / Our text today is Source B, / written by Dan Snow for the BBC in 2013. / We are not here to debate current politics / or invent outside facts; / we are here to read closely, / follow Snow's historical sequence, / and evaluate how his language / supports his central thesis.",
+        "directKorean": "좋은 아침입니다, 학생 여러분. / 우리가 역사 저널리즘을 읽을 때, / 학자로서 우리의 첫 번째 의무는 / 누가 말하고 있는지를 확인하고, / 기사가 언제 발행되었는지를 확인하며, / 어떤 근거가 제시되었는지를 확인하는 것입니다. / 오늘 우리의 텍스트는 Source B입니다, / 2013년 BBC를 위해 댄 스노가 쓴. / 우리는 여기에 모인 것이 아닙니다 현재의 정치를 논쟁하거나 / 외부 사실을 지어내기 위해; / 우리는 여기에 있습니다 면밀히 읽고, / 스노의 역사적 순서를 따라가며, / 그의 언어가 어떻게 뒷받침하는지 평가하기 위해 / 그의 중심 주장을.",
+        "naturalKorean": "좋은 아침입니다. 우리가 역사 저널리즘 글을 읽을 때 학자로서 가져야 할 첫 번째 태도는 누가 글을 쓰고 있는지, 언제 발행되었는지, 어떤 근거가 제시되었는지를 파악하는 것입니다. 오늘 다룰 글은 2013년 댄 스노가 BBC에 기고한 Source B입니다. 우리는 외부 정치적 견해를 내세우거나 임의로 사실을 지어내지 않고, 본문을 정밀하게 독해하며 스노의 역사적 전개와 언어가 그의 논제를 어떻게 뒷받침하는지 차분히 분석할 것입니다.",
+        "purpose": "Emphasizes disciplinary reading skills, textual fidelity, authorial attribution, and analytical objectivity."
+      },
+      {
+        "option": "Option 3: Rhetorical Contrast & Language-Driven Hook",
+        "english": "Hello, scholars. / Take a look at the title on your screens: / 'A Land Cursed by Wealth.' / Notice that phrase immediately. / Usually, wealth is considered a blessing, / while poverty is seen as a curse. / Why would an author flip those concepts upside down? / In this lesson, / we will study the power of contrast language— / words like 'paradox', 'yet', and 'not weakness but wealth.' / You will master these structures / and use them in your own analytical writing.",
+        "directKorean": "안녕하세요, 학생 여러분. / 화면에 뜬 제목을 살펴보세요: / '부의 저주를 받은 땅.' / 그 어구를 즉시 주목해 보세요. / 보통 부는 축복으로 여겨집니다, / 반면에 빈곤은 저주로 보입니다. / 왜 작가는 이러한 개념들을 거꾸로 뒤집어 놓았을까요? / 이번 수업에서, / 우리는 대조 언어의 힘을 공부할 것입니다— / 'paradox', 'yet', 'not weakness but wealth'와 같은 단어들을. / 여러분은 이 구조들을 완전히 익혀 / 여러분 자신의 분석적 글쓰기에 활용하게 될 것입니다.",
+        "naturalKorean": "여러분 안녕하세요. 화면의 제목을 보세요: '부의 저주를 받은 땅'. 이 표현이 곧바로 눈에 띄지 않나요? 대개 부는 축복이고 빈곤은 저주로 여겨집니다. 작가는 왜 이 두 개념을 정반대로 뒤집어 놓았을까요? 이번 수업에서 우리는 'paradox', 'yet', 'not weakness but wealth'와 같은 강력한 대조 언어의 장치들을 배울 것입니다. 이 고급 구문들을 완벽히 마스터하여 여러분의 문단에 직접 적용해 봅시다.",
+        "purpose": "Focuses student attention on linguistic craft, metaphorical inversion, and the expressive power of contrast structures."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "question": "What does the word wealth usually make you think of?",
+        "likelyResponses": "Money, gold, luxury houses, cars, financial freedom, abundant resources, or economic security.",
+        "followUps": "Can a whole country have wealth while individual citizens remain poor? What is the difference between national resource wealth and household living standards?",
+        "usefulLanguage": "abundant raw materials, financial security, national assets, unequal distribution, prosperity",
+        "caution": "Keep the discussion focused on general definitions of wealth rather than judging personal lifestyle choices.",
+        "purpose": "Activates standard positive associations with wealth so the text's tragic inversion ('cursed by wealth') becomes intellectually striking."
+      },
+      "q2": {
+        "question": "Why might natural resources help some people but not everyone in a country?",
+        "likelyResponses": "Because leaders or foreign companies take the profits, or corrupt elites keep the money for themselves, leaving regular workers with low wages.",
+        "followUps": "Who usually controls mining concessions or export revenues in developing economies? How does governance affect resource sharing?",
+        "usefulLanguage": "concentrated profits, multinational corporations, governance, revenue sharing, corruption, elite control",
+        "caution": "Avoid naming specific contemporary politicians; focus on general economic mechanisms of extraction and governance.",
+        "purpose": "Pre-teaches the socio-economic concept of resource capture that Snow elaborates in Paragraphs 3 and 4."
+      },
+      "q3": {
+        "question": "How can a country’s history affect its opportunities and institutions today?",
+        "likelyResponses": "If past rulers destroyed schools and roads, the country has to start from zero; past wars leave weapons and distrust behind.",
+        "followUps": "Why is it difficult to build stable legal courts and universities overnight if colonial powers never established them?",
+        "usefulLanguage": "institutional legacy, colonial administration, long-term impact, political stability, historical foundations",
+        "caution": "Do not lecture on comprehensive world history; let students deduce that institutions take generations of peaceful preparation to mature.",
+        "purpose": "Prepares students to understand Paragraph 4's key claim that independence brought hope but no trained administrative elite."
+      }
+    },
+    "sourceReadingGuide": {
+      "sourceLayout": "The source comprises one ordered image set featuring 'Source B:', an exact single-line citation ('Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013'), and four continuous prose paragraphs. No subheadings, footnotes, or diagram labels exist in the source.",
+      "citationGuidance": "Students must recognize the citation as essential metadata. Teach them to cite 'Dan Snow' and 'BBC News Website (2013)' when reporting claims, reinforcing that historical writing requires transparent provenance.",
+      "paragraphBoundaries": "Paragraph 1 introduces the paradox of wealth versus poverty. Paragraph 2 details the post-1945 conflict casualties and resource motive. Paragraph 3 traces pre-colonial and colonial plunder from the slave trade to King Leopold and mineral mining. Paragraph 4 examines post-1960 independence, the Cold War, Mobutu, the 1997 war, and delivers the concluding blessing-turned-curse thesis.",
+      "historicalSequence": "Guide students to map the strict chronological timeline: 15th-century Portuguese slave trade → 19th-century King Leopold rubber empire → 20th-century world wars and mineral rush → 1960 independence → Cold War under Mobutu → 1997 overthrow and multi-nation war → Today's fractured reality.",
+      "resourceCauseEffectChain": "Emphasize how resources are portrayed: not as passive rocks, but as the active prize that attracted foreign plunderers and sustained domestic warlords, leading directly to institutional starvation.",
+      "finalMetaphor": "Unpack 'a blessing turned into a curse': geological endowment is inherently beneficial (a blessing), but centuries of predatory exploitation flipped its real-world effect into widespread human suffering (a curse)."
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "paradox",
+        "natural wealth",
+        "exploitation",
+        "displacement",
+        "famine",
+        "plundered",
+        "enslaved",
+        "impoverished",
+        "institutions",
+        "fractured"
+      ],
+      "paradoxStructures": [
+        "a nation with ... yet ranked among ...",
+        "not its weakness but its wealth",
+        "a blessing turned into a curse"
+      ],
+      "causeEffectLanguage": [
+        "fueled by the fight to control",
+        "helped fuel",
+        "triggered another brutal war",
+        "led to widespread displacement"
+      ],
+      "passiveVoiceFormulas": [
+        "were enslaved to tap rubber",
+        "their families held hostage",
+        "denied the chance to build stable institutions"
+      ],
+      "chronologicalSequencing": [
+        "From the 15th century to the 19th century",
+        "Later",
+        "Following independence in 1960",
+        "In 1997",
+        "Today"
+      ],
+      "contrastMarkers": [
+        "yet",
+        "while",
+        "but",
+        "Ironically",
+        "rather than"
+      ],
+      "attributionPhrases": [
+        "According to Source B,",
+        "Dan Snow explains that",
+        "The author argues that",
+        "As reported in the article,"
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence: State the central claim connecting Congo's natural wealth to historical exploitation and ongoing suffering.",
+        "2. Historical Evidence 1: Reference the Portuguese slave trade and King Leopold's rubber regime.",
+        "3. Mineral Extraction Evidence 2: Mention copper, uranium, and coltan fueling world industries while the Congolese were denied institutions.",
+        "4. Post-Independence Cause-and-Effect 3: Explain the lack of preparation in 1960, Cold War interference propping up Mobutu, and the 1997 war.",
+        "5. Concluding Evaluation: Explain the final contrast—Congo's tragedy is its wealth turned into a curse by exploitation, not internal weakness."
+      ],
+      "sentenceStarters": [
+        "According to Source B by Dan Snow, the Democratic Republic of Congo represents a painful historical paradox.",
+        "Although the nation possesses immense natural wealth, centuries of foreign exploitation have left its people deeply impoverished.",
+        "From the 15th-century slave trade to King Leopold’s 19th-century rubber empire, external powers plundered Congo's land and people.",
+        "Later, strategic minerals like copper and coltan fueled global industries, yet local citizens were denied the opportunity to build stable institutions.",
+        "Consequently, the author concludes that Congo's enduring tragedy is not its weakness but its wealth."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "error": "Congo has many resources so it is poor because paradox.",
+          "correction": "The Democratic Republic of Congo possesses vast natural resources, yet it remains impoverished, creating what the author calls a paradox.",
+          "explanation": "'Because' cannot be used loosely to equate two contrasting clauses. Use 'yet' to establish a legitimate paradox."
+        },
+        {
+          "error": "King Leopold was plundered people to tap rubber.",
+          "correction": "King Leopold plundered Congo's people and land, enslaving men to tap rubber.",
+          "explanation": "Active voice is required when King Leopold is the agent plundering; passive voice is used for the laborers who 'were enslaved'."
+        },
+        {
+          "error": "In 1960 independence brought hope but no prepare so chaos happened.",
+          "correction": "Independence in 1960 brought hope but no preparation, which led directly to political chaos.",
+          "explanation": "Use the noun 'preparation' rather than the base verb 'prepare' after the determiner 'no'."
+        },
+        {
+          "error": "According to Source B says Congo's tragedy is weakness.",
+          "correction": "According to Source B, Congo's tragedy is not its weakness but its wealth.",
+          "explanation": "Do not double up 'According to Source B' with the verb 'says' in the main clause. Also, remember the text asserts the tragedy is its wealth, NOT its weakness."
+        }
+      ],
+      "g1Scaffold": "Provide G1 students with structured clause starters: 'According to Source B, Congo is a paradox because... (wealth vs. poverty). Foreign powers plundered the land through... (rubber, minerals). In 1960, independence lacked... (preparation). Therefore, wealth became a curse because...'",
+      "g2Extension": "Challenge G2 students to integrate embedded participle clauses ('enriching foreign industries while impoverishing local populations') and evaluate Dan Snow's rhetorical stance regarding Cold War geopolitical interference.",
+      "teacherCorrectionPriorities": [
+        "1. Textual Fidelity: Confirm that details (King Leopold, coltan, Mobutu, five million casualties) strictly originate from Source B.",
+        "2. Word Count Compliance: Ensure the final paragraph contains strictly between 100 and 140 words.",
+        "3. Attribution Integrity: Verify that claims are attributed to Dan Snow or Source B rather than asserted as personal dogma.",
+        "4. Contrast Precision: Check that the weakness vs. wealth metaphor is accurately explained rather than reversed."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source B is presented as a single-image document containing a bold source header ('Source B:'), an italicized single-line bibliographic citation ('Dan Snow, The Congo: A Land Cursed by Wealth, BBC News Website, 2013'), and four continuous prose paragraphs. The teacher's 15-sentence analysis map below provides granular sentence-by-sentence linguistic and pedagogical support for Grade 9 ESL learners without fragmenting the four source paragraphs in the Student Reading view.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": "S01",
+          "original": "The Democratic Republic of Congo (DRC) is often described as a paradox—a nation with the natural wealth to become one of the richest countries on earth, yet ranked among the poorest.",
+          "chunkReading": "The Democratic Republic of Congo (DRC) / is often described as a paradox— / a nation with the natural wealth / to become one of the richest countries on earth, / yet ranked among the poorest.",
+          "directKorean": "콩고민주공화국(DRC)은 / 종종 역설로 묘사된다— / 자연적 부를 가진 국가 / 지구상에서 가장 부유한 나라들 중 하나가 될 수 있는, / 그러나 가장 가난한 국가들 사이에 순위가 매겨진.",
+          "naturalKorean": "콩고민주공화국(DRC)은 흔히 하나의 역설로 묘사되는데, 지구상에서 가장 부유한 나라 중 하나가 될 만한 천연자원을 지니고 있으면서도 실제로는 가장 가난한 나라 중 하나로 꼽히기 때문입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is often described as",
+              "meaning": "종종 ~로 묘사된다/설명된다",
+              "use": "passive reporting frame indicating common characterization",
+              "example": "The region is often described as the cultural crossroads of the continent."
+            },
+            {
+              "chunk": "a paradox",
+              "meaning": "역설, 모순된 상황",
+              "use": "abstract noun denoting coexistence of contradictory facts",
+              "example": "It is a paradox that technological convenience sometimes reduces personal leisure."
+            },
+            {
+              "chunk": "natural wealth",
+              "meaning": "천연 자원, 자연적 부",
+              "use": "compound noun phrase referring to geological and mineral riches",
+              "example": "The country's natural wealth attracted foreign mining consortia."
+            },
+            {
+              "chunk": "ranked among the poorest",
+              "meaning": "가장 가난한 국가들 사이에 순위가 매겨진",
+              "use": "participial modifier denoting comparative statistical standing",
+              "example": "Despite recent economic reforms, the province is ranked among the poorest."
+            }
+          ],
+          "mustKnowGrammar": "Passive matrix clause ('is described as'); em dash introducing an appositive noun phrase ('a nation...'); infinitive of potential outcome ('to become one of...'); coordinating contrastive conjunction 'yet' linking the prepositional phrase ('with the natural wealth') to the past participial phrase ('ranked among the poorest').",
+          "feynmanExplanation": "Think of a person who inherits a mountain of pure gold, / but somehow cannot afford a loaf of bread. / That makes no sense, right? / That is what a paradox is. / Congo has all the treasure in the ground, / yet its people are among the poorest on earth.",
+          "feynmanExplanationKo": "순금으로 된 산을 물려받았는데 / 어찌 된 일인지 빵 한 조각 살 돈이 없는 사람을 떠올려 보세요. / 전혀 말이 안 되죠? / 그것이 바로 '역설(paradox)'입니다. / 콩고는 땅속에 온갖 보물을 품고 있지만, / 그 국민들은 지구상에서 가장 가난한 축에 속합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the punctuation mark right after 'paradox'—that is an em dash.",
+              "korean": "'paradox' 바로 뒤에 있는 문장부호를 보세요—엠 대시(em dash)입니다."
+            },
+            {
+              "english": "Notice how the author uses the em dash to explain the paradox immediately: huge natural wealth on one side, extreme poverty on the other.",
+              "korean": "작가가 엠 대시를 써서 역설을 즉각 설명하는 방식에 주목하세요: 한쪽에는 거대한 천연자원, 다른 한쪽에는 극심한 빈곤입니다."
+            },
+            {
+              "english": "Check: What two opposing realities make the DRC a paradox? Its great potential wealth and its low real-world ranking.",
+              "korean": "확인: 어떤 두 가지 상반된 현실이 DRC를 역설로 만드나요? 거대한 잠재적 부와 지극히 낮은 실제 순위입니다."
+            },
+            {
+              "english": "Correction: Do not write 'Congo is a paradox because it is rich and poor' without explaining that the wealth is natural potential while the poverty is actual lived ranking.",
+              "korean": "교정: 부는 자연적 잠재력이고 빈곤은 실제 삶의 순위라는 점을 설명하지 않은 채 단순히 '콩고는 부유하고 가난하다'라고만 쓰지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S02",
+          "original": "Its history is a grim story of exploitation, violence, and corruption, shaped by centuries of colonialism and foreign interference.",
+          "chunkReading": "Its history is a grim story / of exploitation, violence, and corruption, / shaped by centuries / of colonialism and foreign interference.",
+          "directKorean": "그것의 역사는 암울한 이야기이다 / 착취, 폭력, 그리고 부패의, / 수세기에 의해 형성된 / 식민주의와 외세의 간섭이라는.",
+          "naturalKorean": "콩고의 역사는 수세기에 걸친 식민주의와 외세의 간섭으로 얼룩진 착취, 폭력, 그리고 부패의 암울한 역사입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a grim story of",
+              "meaning": "~의 암울한/냉혹한 이야기",
+              "use": "evaluative narrative noun phrase setting somber tone",
+              "example": "The documentary presented a grim story of wartime displacement."
+            },
+            {
+              "chunk": "exploitation, violence, and corruption",
+              "meaning": "착취, 폭력, 그리고 부패",
+              "use": "tripartite noun series capturing structural societal suffering",
+              "example": "The investigation exposed widespread exploitation, violence, and corruption in the timber camp."
+            },
+            {
+              "chunk": "shaped by centuries of",
+              "meaning": "수세기에 걸친 ~에 의해 형성된",
+              "use": "past participial phrase denoting long-term historical conditioning",
+              "example": "Modern maritime borders were shaped by centuries of imperial treaties."
+            },
+            {
+              "chunk": "foreign interference",
+              "meaning": "외세의 간섭, 외국의 개입",
+              "use": "political noun phrase indicating external geopolitical disruption",
+              "example": "The developing democracy struggled against continuous foreign interference."
+            }
+          ],
+          "mustKnowGrammar": "Equative copular clause ('Its history is...'); series of three parallel abstract nouns governed by preposition 'of'; reduced relative clause using past participle ('shaped by centuries...') functioning as an adjectival modifier.",
+          "feynmanExplanation": "Why did Congo end up so poor? / The author says its history is full of dark chapters. / For hundreds of years, outsiders stepped in. / Colonial rulers and foreign governments took whatever they wanted, / leaving behind violence and broken trust.",
+          "feynmanExplanationKo": "콩고는 왜 그렇게 가난해졌을까요? / 작가는 콩고의 역사가 어두운 장들로 가득 차 있다고 말합니다. / 수백 년 동안 외부인들이 쳐들어왔습니다. / 식민 통치자들과 외국 정부들이 원하는 것을 모조리 빼앗아 갔고, / 폭력과 무너진 신뢰만을 남겼습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the adjective 'grim'. It means dark, serious, and deeply distressing.",
+              "korean": "'grim'이라는 형용사를 보세요. 어둡고, 심각하며, 깊이 고통스럽다는 뜻입니다."
+            },
+            {
+              "english": "Notice the three nouns in a row: 'exploitation', 'violence', and 'corruption'. They summarize the mechanisms of Congo's suffering.",
+              "korean": "나란히 쓰인 세 명사 'exploitation', 'violence', 'corruption'에 주목하세요. 콩고의 고통을 낳은 메커니즘을 요약합니다."
+            },
+            {
+              "english": "Check: What shaped this grim story according to Snow? Centuries of colonialism and foreign interference.",
+              "korean": "확인: 스노에 따르면 무엇이 이 암울한 이야기를 형성했나요? 수세기에 걸친 식민주의와 외세의 간섭입니다."
+            },
+            {
+              "english": "Correction: Notice the spelling of 'interference' with one 'r' in the middle and 'ence' at the end.",
+              "korean": "교정: 가운데 'r' 하나와 끝의 'ence'로 표기되는 'interference'의 철자에 유의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S03",
+          "original": "The DRC has endured the world’s deadliest conflict since 1945, with more than five million people killed and millions more suffering displacement, disease, violence and famine.",
+          "chunkReading": "The DRC has endured / the world’s deadliest conflict since 1945, / with more than five million people killed / and millions more suffering displacement, / disease, violence and famine.",
+          "directKorean": "DRC는 견뎌왔다 / 1945년 이후 세계에서 가장 치명적인 분쟁을, / 5백만 명 이상의 사람들이 목숨을 잃고 / 수백만 명이 더 겪으면서 터전 상실, / 질병, 폭력 그리고 기근을.",
+          "naturalKorean": "콩고민주공화국은 1945년 이후 세계에서 가장 많은 사망자를 낸 분쟁을 겪어 왔으며, 이로 인해 500만 명 이상이 목숨을 잃었고 수백만 명이 강제 이주와 질병, 폭력, 기근에 시달렸습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "has endured",
+              "meaning": "견뎌왔다, 겪어왔다",
+              "use": "present perfect verb denoting sustained historical survival of hardship",
+              "example": "The historic city has endured repeated sieges throughout the centuries."
+            },
+            {
+              "chunk": "the world’s deadliest conflict since 1945",
+              "meaning": "1945년 이후 세계에서 가장 많은 사망자를 낸 분쟁",
+              "use": "superlative temporal descriptor contextualizing scale of war",
+              "example": "The Korean War and subsequent conflicts shaped East Asian security architecture."
+            },
+            {
+              "chunk": "with more than five million people killed",
+              "meaning": "5백만 명 이상의 사람들이 목숨을 잃은 채로",
+              "use": "absolute prepositional phrase ('with' + noun + past participle) stating casualty toll",
+              "example": "The hurricane swept through the valley, with dozens of homes destroyed."
+            },
+            {
+              "chunk": "displacement, disease, violence and famine",
+              "meaning": "강제 이주, 질병, 폭력 그리고 기근",
+              "use": "four-part noun catalogue detailing humanitarian catastrophe",
+              "example": "War-torn regions frequently suffer displacement, disease, violence and famine."
+            }
+          ],
+          "mustKnowGrammar": "Present perfect active verb ('has endured'); superlative noun phrase with temporal prepositional postmodifier ('deadliest conflict since 1945'); complex prepositional absolute construction introduced by 'with', coordinating a passive participial phrase ('five million people killed') and an active participial phrase ('millions more suffering...').",
+          "feynmanExplanation": "Think about every single war fought on earth since World War Two ended in 1945. / The author tells us that Congo's war took the most lives of all. / Over five million human beings died. / Millions more lost their homes, / ran out of food, or caught deadly diseases.",
+          "feynmanExplanationKo": "1945년 제2차 세계대전이 끝난 이후 지구상에서 벌어진 모든 전쟁을 떠올려 보세요. / 작가는 그중 콩고의 전쟁이 가장 많은 목숨을 앗아갔다고 말합니다. / 500만 명 이상의 사람들이 사망했습니다. / 수백만 명이 집을 잃고 난민이 되었으며, / 식량이 바닥나거나 치명적인 질병에 걸렸습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Pay close attention to the casualty figure: 'more than five million people killed'.",
+              "korean": "'5백만 명 이상의 사망자'라는 사상자 수치에 주목하세요."
+            },
+            {
+              "english": "Notice the grammar of 'with more than five million people killed and millions more suffering...'—this is an absolute structure providing devastating background context.",
+              "korean": "'with + 명사 + 분사' 구조에 주목하세요—참혹한 배경 정황을 제시하는 독립분사구문 형태입니다."
+            },
+            {
+              "english": "Check: In academic writing, how should we cite this casualty number? Write 'According to Source B, more than five million people were killed.'",
+              "korean": "확인: 학술적 글쓰기에서 이 수치를 어떻게 인용해야 할까요? 'Source B에 따르면 5백만 명 이상이 사망했다'처럼 인용 표제를 붙여야 합니다."
+            },
+            {
+              "english": "Correction: Notice there is no Oxford comma before 'and famine' in this sentence in the source. Keep the exact source punctuation.",
+              "korean": "교정: 원문에는 'violence and famine' 앞의 옥스퍼드 쉼표가 생략되어 있습니다. 원문 그대로 정확하게 보존하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S04",
+          "original": "This devastating reality, sometimes called “Africa’s Great War,” has been fought largely within Congo’s borders, fueled by the fight to control its immense resources.",
+          "chunkReading": "This devastating reality, / sometimes called “Africa’s Great War,” / has been fought largely within Congo’s borders, / fueled by the fight / to control its immense resources.",
+          "directKorean": "이 파괴적인 현실은, / 때때로 '아프리카의 대전(大戰)'이라 불리는, / 주로 콩고의 국경 안에서 치러져 왔다, / 싸움에 의해 기름 부어진 / 그것의 막대한 자원을 통제하려는.",
+          "naturalKorean": "때때로 '아프리카의 대전(Great War)'이라 불리는 이 참혹한 현실은 주로 콩고의 국경 안에서 전개되었으며, 막대한 자원을 장악하려는 다툼으로 인해 더욱 격화되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "This devastating reality",
+              "meaning": "이 파괴적인/참혹한 현실",
+              "use": "anaphoric demonstrative noun phrase synthesizing preceding humanitarian trauma",
+              "example": "This devastating reality forced humanitarian agencies to alter their relief strategy."
+            },
+            {
+              "chunk": "sometimes called “Africa’s Great War”",
+              "meaning": "때때로 '아프리카의 대전'이라 불리는",
+              "use": "parenthetical naming clause establishing historical nomenclature",
+              "example": "The Crimean conflict, sometimes called the first modern war, changed military medicine."
+            },
+            {
+              "chunk": "fought largely within Congo’s borders",
+              "meaning": "주로 콩고의 국경 안에서 치러진",
+              "use": "passive locative predicate with frequency adverb",
+              "example": "The conflict was fought largely within mountainous provinces."
+            },
+            {
+              "chunk": "fueled by the fight to control",
+              "meaning": "~을 통제하려는 다툼에 의해 부채질된/격화된",
+              "use": "metaphorical causal participial clause connecting minerals with warfare",
+              "example": "Border clashes were fueled by the fight to control natural gas pipelines."
+            }
+          ],
+          "mustKnowGrammar": "Parenthetical past participial modifier enclosed by commas ('sometimes called “Africa’s Great War,”'); present perfect passive verb ('has been fought'); spatial adverbial phrase ('largely within Congo’s borders'); causal past participial phrase ('fueled by the fight') followed by an infinitive phrase of purpose ('to control its immense resources').",
+          "feynmanExplanation": "People sometimes call this conflict 'Africa's Great War' / because it was so huge. / But most of the actual fighting happened right inside Congo. / Why did different armies fight so fiercely? / They were fighting to grab Congo's incredible treasures in the soil.",
+          "feynmanExplanationKo": "사람들은 이 분쟁의 규모가 워낙 거대했기에 / 때로 '아프리카의 대전'이라고 부릅니다. / 하지만 실제 전투의 대부분은 바로 콩고 국경 안에서 벌어졌습니다. / 왜 여러 군대들이 그렇게 치열하게 싸웠을까요? / 땅속에 묻힌 콩고의 놀라운 보물들을 차지하기 위해 싸웠던 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the quotation marks around “Africa’s Great War”. They show that Snow is quoting a widely used historical label.",
+              "korean": "“Africa’s Great War” 주변의 따옴표를 보세요. 스노가 널리 쓰이는 역사적 호칭을 인용하고 있음을 보여줍니다."
+            },
+            {
+              "english": "Notice the verb 'fueled'. It is a metaphor comparing mineral profits to gasoline feeding a violent fire.",
+              "korean": "'fueled'라는 동사에 주목하세요. 광물 수익을 거센 불길에 기름을 붓는 연료에 비유한 메타포입니다."
+            },
+            {
+              "english": "Check: What was the primary motivation behind the fighting according to Snow? The fight to control immense resources.",
+              "korean": "확인: 스노에 따르면 전투 이면에 자리한 핵심 동기는 무엇이었나요? 막대한 자원을 장악하려는 싸움이었습니다."
+            },
+            {
+              "english": "Correction: Remember to use curly quotation marks “...” to match the exact source typography.",
+              "korean": "교정: 원문의 활자체를 그대로 보존하기 위해 둥근 따옴표(“...”)를 정확히 유지하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S05",
+          "original": "Ironically, it is these resources that lie at the heart of the country’s suffering.",
+          "chunkReading": "Ironically, / it is these resources / that lie at the heart / of the country’s suffering.",
+          "directKorean": "역설적이게도(반어적이게도), / 바로 이 자원들이다 / 심장에 놓여 있는 것은 / 그 나라의 고통의.",
+          "naturalKorean": "역설적이게도, 그 나라가 겪는 고통의 가장 깊은 중심부에 자리 잡고 있는 것이 바로 이 자원들입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Ironically",
+              "meaning": "역설적이게도, 얄궂게도",
+              "use": "sentence adverb signaling situational incongruity between expectation and reality",
+              "example": "Ironically, the fire station burned down during a routine drill."
+            },
+            {
+              "chunk": "it is these resources that",
+              "meaning": "바로 이 자원들이다 (~한 것은)",
+              "use": "cleft sentence construction ('it is X that...') providing sharp rhetorical focus",
+              "example": "It is regular practice that builds true fluency in academic writing."
+            },
+            {
+              "chunk": "lie at the heart of",
+              "meaning": "~의 핵심/중심에 자리 잡고 있다",
+              "use": "idiomatic metaphorical predicate denoting foundational root cause",
+              "example": "Unresolved border disputes lie at the heart of regional tension."
+            },
+            {
+              "chunk": "the country’s suffering",
+              "meaning": "그 나라의 고통",
+              "use": "possessive abstract noun phrase summarizing collective historical distress",
+              "example": "International aid addressed only a fraction of the country's suffering."
+            }
+          ],
+          "mustKnowGrammar": "Fronted stance adverb ('Ironically'); emphatic 'it'-cleft sentence ('it is [focus] that [clause]') placing focus on 'these resources'; locative idiom ('lie at the heart of') governing prepositional complement 'the country’s suffering'.",
+          "feynmanExplanation": "Here is the cruel twist of the story. / You would think that having diamonds and copper would make a country blessed and happy. / But the author says the exact opposite happened. / Those very same riches are the real reason / people have suffered for so long.",
+          "feynmanExplanationKo": "여기에 이 이야기의 잔혹한 반전이 있습니다. / 다이아몬드와 구리가 많다면 당연히 나라가 축복받고 행복해질 것이라고 생각할 것입니다. / 하지만 작가는 정반대의 일이 벌어졌다고 말합니다. / 바로 그 풍요로운 자원들이야말로 / 사람들이 그토록 오랫동안 고통받아 온 진짜 이유라는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at how Paragraph 3 opens: 'Ironically...'. It alerts the reader to a tragic contradiction.",
+              "korean": "3문단이 어떻게 시작하는지 보세요: 'Ironically...'. 비극적 모순에 대해 독자에게 경각심을 일깨웁니다."
+            },
+            {
+              "english": "Notice the 'it is... that...' cleft structure. Snow does not just say 'These resources cause suffering.' He uses a cleft to put maximum spotlight on the word 'resources'.",
+              "korean": "'it is... that...' 강조 구문에 주목하세요. 스노는 단순히 자원이 고통을 유발한다고 말하지 않고, '자원'이라는 단어에 최대치의 조명을 비추기 위해 분열문을 씁니다."
+            },
+            {
+              "english": "Check: What does Snow place 'at the heart' of Congo's suffering? Its natural resources.",
+              "korean": "확인: 스노는 콩고의 고통의 '핵심'에 무엇을 두고 있나요? 바로 천연자원입니다."
+            },
+            {
+              "english": "Correction: Do not confuse 'lie' (intransitive: rest/be located) with 'lay' (transitive: put down). Here 'lie' is intransitive.",
+              "korean": "교정: 위치해 있다는 뜻의 자동사 'lie'와 무언가를 내려놓는다는 타동사 'lay'를 혼동하지 마세요. 여기서는 자동사 'lie'가 쓰였습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S06",
+          "original": "From the Portuguese slave trade of the 15th century to King Leopold of Belgium’s rubber empire in the 19th century, foreign powers have plundered Congo’s people and land.",
+          "chunkReading": "From the Portuguese slave trade of the 15th century / to King Leopold of Belgium’s rubber empire in the 19th century, / foreign powers have plundered / Congo’s people and land.",
+          "directKorean": "15세기의 포르투갈 노예 무역으로부터 / 19세기의 벨기에 국왕 레오폴드의 고무 제국에 이르기까지, / 외세들은 약탈해 왔다 / 콩고의 사람들과 땅을.",
+          "naturalKorean": "15세기 포르투갈의 노예 무역에서부터 19세기 벨기에 국왕 레오폴드의 고무 제국에 이르기까지, 외세는 콩고의 사람들과 땅을 무자비하게 약탈해 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "From the ... to the ...",
+              "meaning": "~에서 ~에 이르기까지",
+              "use": "prepositional correlative structure spanning broad historical eras",
+              "example": "From ancient Roman aqueducts to modern dams, hydraulic engineering evolved."
+            },
+            {
+              "chunk": "Portuguese slave trade",
+              "meaning": "포르투갈의 노예 무역",
+              "use": "proper historical noun phrase identifying early European transatlantic human trafficking",
+              "example": "The Portuguese slave trade altered demographic patterns across Central Africa."
+            },
+            {
+              "chunk": "King Leopold of Belgium’s rubber empire",
+              "meaning": "벨기에 국왕 레오폴드의 고무 제국",
+              "use": "historical possessive noun phrase referencing the 19th-century colonial Congo Free State",
+              "example": "King Leopold of Belgium's rubber empire became infamous for forced labor."
+            },
+            {
+              "chunk": "have plundered Congo’s people and land",
+              "meaning": "콩고의 사람들과 땅을 약탈해 왔다",
+              "use": "present perfect active predicate denoting centuries of systematic looting",
+              "example": "Colonial fleets plundered coastal settlements and inland mines."
+            }
+          ],
+          "mustKnowGrammar": "Correlative prepositional phrase of historical time ('From [A] to [B]') fronted before the main clause; compound noun phrases naming specific historical entities; present perfect verb ('have plundered') indicating an action beginning in the past with consequences continuing into the present; coordinated direct object ('Congo’s people and land').",
+          "feynmanExplanation": "This plunder is not something that started yesterday. / It stretches back over five hundred years! / In the 1400s, Portuguese ships stole human beings for slavery. / Four hundred years later, the King of Belgium forced people to gather rubber. / Again and again, foreign empires treated Congo like a giant treasure chest to break open.",
+          "feynmanExplanationKo": "이러한 약탈은 어제오늘 시작된 일이 아닙니다. / 무려 500년 전으로 거슬러 올라갑니다! / 1400년대에는 포르투갈 선박들이 노예로 삼기 위해 사람들을 납치했습니다. / 400년 뒤에는 벨기에 국왕이 사람들에게 강제로 고무를 채취하게 했습니다. / 거듭해서 외국 제국들은 콩고를 부수고 열어야 할 거대한 보물상자처럼 취급했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the time span: 15th century to 19th century. That is four hundred years of history in one sentence.",
+              "korean": "시간적 범위를 보세요: 15세기에서 19세기까지입니다. 한 문장에 400년의 역사가 담겨 있습니다."
+            },
+            {
+              "english": "Notice the two objects of 'plundered': 'people and land'. Outsiders did not just take rocks and crops; they took human beings.",
+              "korean": "'plundered'의 두 목적어인 'people and land'에 주목하세요. 외부인들은 암석이나 농작물만 빼앗은 것이 아니라 인간 자체를 빼앗았습니다."
+            },
+            {
+              "english": "Check: Which two foreign powers are explicitly mentioned here? Portugal and Belgium under King Leopold.",
+              "korean": "확인: 여기서 명시적으로 언급된 두 외세는 어디인가요? 포르투갈과 레오폴드 국왕 통치하의 벨기에입니다."
+            },
+            {
+              "english": "Correction: Remember to write 'Leopold' with an 'e' and 'o', not 'Leopald'.",
+              "korean": "교정: 'Leopald'가 아니라 'e'와 'o'가 들어간 'Leopold'로 철자를 정확히 쓰세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S07",
+          "original": "Millions died as men were enslaved to tap rubber, their families held hostage, resistance punished by mutilation and murder.",
+          "chunkReading": "Millions died / as men were enslaved to tap rubber, / their families held hostage, / resistance punished by mutilation and murder.",
+          "directKorean": "수백만 명이 사망했다 / 남성들이 고무를 채취하도록 노예가 됨에 따라, / 그들의 가족들이 인질로 잡히고, / 저항은 절단과 살인으로 처벌받으면서.",
+          "naturalKorean": "남성들이 고무 채취를 위해 노예로 전락하고, 그 가족들이 인질로 잡히며, 저항할 경우 신체 절단과 살인으로 처벌받는 참상 속에서 수백만 명이 목숨을 잃었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Millions died as",
+              "meaning": "~함에 따라 수백만 명이 목숨을 잃었다",
+              "use": "independent causal clause establishing catastrophic human cost",
+              "example": "Millions died as famine spread across the war-torn continent."
+            },
+            {
+              "chunk": "were enslaved to tap rubber",
+              "meaning": "고무를 채취하도록 노예가 되었다",
+              "use": "passive verb of coercion with infinitive of purpose",
+              "example": "Villagers were enslaved to clear thick jungle underbrush."
+            },
+            {
+              "chunk": "their families held hostage",
+              "meaning": "그들의 가족들이 인질로 붙잡힌 채로",
+              "use": "absolute noun phrase with omitted auxiliary ('being held hostage')",
+              "example": "The captured officers had their families held hostage in the fortress."
+            },
+            {
+              "chunk": "resistance punished by mutilation and murder",
+              "meaning": "저항은 신체 절단과 살인으로 처벌된 채로",
+              "use": "absolute clause illustrating brutal colonial enforcement tactics",
+              "example": "Civilian resistance was punished by harsh military tribunals."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause ('Millions died'); subordinating conjunction 'as' governing passive clause ('men were enslaved to tap rubber'); followed by two paratactic absolute participial constructions with ellipses of the auxiliary 'were/being' ('[with] their families [being] held hostage, [and] resistance [being] punished by mutilation and murder').",
+          "feynmanExplanation": "How bad was King Leopold's rubber empire? / The author describes pure terror. / Men were chained and forced to tap rubber trees in the jungle. / Soldiers held their wives and children hostage to stop them from running away. / And if anyone dared to fight back, / colonial officers cut off their hands or shot them.",
+          "feynmanExplanationKo": "레오폴드 국왕의 고무 제국은 얼마나 끔찍했을까요? / 작가는 순전한 공포 그 자체를 묘사합니다. / 남성들은 사슬에 묶여 밀림에서 고무나무 수액을 채취하도록 강요당했습니다. / 군인들은 그들이 도망치지 못하도록 아내와 아이들을 인질로 잡았습니다. / 그리고 누군가 감히 저항하기라도 하면, / 식민지 장교들은 그들의 손을 절단하거나 총으로 살해했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the rhythm of this sentence: three compact, shocking clauses stacked together.",
+              "korean": "이 문장의 리듬에 주목하세요: 세 개의 간결하고 충격적인 절이 겹겹이 쌓여 있습니다."
+            },
+            {
+              "english": "Explain 'tap rubber': to cut the bark of a wild rubber tree so the milky latex sap drains into containers.",
+              "korean": "'tap rubber'의 의미를 설명하세요: 우유빛 라텍스 수액이 용기에 흘러나오도록 야생 고무나무 껍질에 흠집을 내는 작업입니다."
+            },
+            {
+              "english": "Check: What happened to families when men were forced to work? They were held hostage.",
+              "korean": "확인: 남성들이 강제 노역에 끌려갔을 때 가족들은 어떻게 되었나요? 인질로 붙잡혔습니다."
+            },
+            {
+              "english": "Correction: Teach these details with solemn historical seriousness; do not dramatize or invent graphic scenarios beyond Snow's reported words.",
+              "korean": "교정: 이 세부 사실들을 엄숙한 역사적 진지함으로 가르치고, 스노가 보고한 단어 이상으로 불필요하게 자극적인 묘사를 덧붙이지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S08",
+          "original": "Later, Congo’s copper, uranium, and coltan helped fuel world wars and the digital revolution—yet the Congolese themselves remained impoverished and uneducated, denied the chance to build stable institutions.",
+          "chunkReading": "Later, / Congo’s copper, uranium, and coltan / helped fuel world wars / and the digital revolution— / yet the Congolese themselves / remained impoverished and uneducated, / denied the chance / to build stable institutions.",
+          "directKorean": "이후에, / 콩고의 구리, 우라늄, 그리고 콜탄은 / 세계대전들에 연료를 공급하는 것을 도왔다 / 그리고 디지털 혁명에— / 그러나 콩고인들 스스로는 / 빈곤하고 교육받지 못한 채로 남아 있었다, / 기회를 거부당한 채 / 안정적인 제도를 구축할.",
+          "naturalKorean": "이후 콩고의 구리, 우라늄, 콜탄은 세계대전과 디지털 혁명을 추동하는 데 기여했지만, 정작 콩고인들 자신은 안정적인 사회 제도를 구축할 기회를 박탈당한 채 빈곤하고 무교육 상태로 방치되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "copper, uranium, and coltan",
+              "meaning": "구리, 우라늄, 그리고 콜탄",
+              "use": "specific mineral list connecting geology to global geopolitical and tech milestones",
+              "example": "Modern smartphones require rare minerals such as lithium and coltan."
+            },
+            {
+              "chunk": "helped fuel world wars",
+              "meaning": "세계대전들을 추동하는 데/부채질하는 데 기여했다",
+              "use": "metaphorical verb phrase denoting strategic military-industrial supply",
+              "example": "High-grade steel from the Ruhr helped fuel military campaigns."
+            },
+            {
+              "chunk": "the digital revolution",
+              "meaning": "디지털 혁명",
+              "use": "historical era noun phrase referencing modern computer and mobile technology",
+              "example": "Microchips and high-speed internet accelerated the digital revolution."
+            },
+            {
+              "chunk": "remained impoverished and uneducated",
+              "meaning": "빈곤하고 교육받지 못한 채로 남아 있었다",
+              "use": "linking verb + coordinated participial adjectives denoting chronic societal deprivation",
+              "example": "Rural workers remained impoverished and uneducated despite factory booms."
+            },
+            {
+              "chunk": "denied the chance to build stable institutions",
+              "meaning": "안정적인 제도를 구축할 기회를 거부당한 채",
+              "use": "past participial adjunct explaining structural institutional absence",
+              "example": "Indigenous communities were denied the chance to build stable institutions."
+            }
+          ],
+          "mustKnowGrammar": "Fronted temporal adverb ('Later'); compound subject naming three strategic minerals; active predicate with bare infinitive complement ('helped fuel world wars and...'); em dash introducing an adversative contrast with 'yet'; intensive reflexive pronoun ('the Congolese themselves'); copular verb 'remained' with two parallel predicate adjectives ('impoverished and uneducated'); non-restrictive past participial clause ('denied the chance...') followed by an infinitive complement ('to build stable institutions').",
+          "feynmanExplanation": "As the world modernized, nations needed new treasures. / They needed copper for bullet shells, / uranium for atomic bombs, / and coltan for modern smartphones and laptops. / Congo had all of it! / Its soil powered the biggest wars and modern computers, / but the people living on top of those mines / were left with no schools, no wealth, and no stable government.",
+          "feynmanExplanationKo": "세계가 근대화되면서 각국은 새로운 자원을 필요로 했습니다. / 총알 탄피를 만들 구리가 필요했고, / 원자폭탄을 만들 우라늄이 필요했으며, / 현대의 스마트폰과 노트북을 만들 콜탄이 필요했습니다. / 콩고는 이 모든 것을 가지고 있었습니다! / 콩고의 땅은 인류 최대의 전쟁들과 현대 컴퓨터 혁명에 동력을 댔지만, / 정작 그 광산 위에서 살아가는 사람들에게는 / 학교도, 부도, 안정된 정부도 주어지지 않았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the list of minerals: copper, uranium, and coltan. These are not everyday gravel—they are the engines of modern history.",
+              "korean": "광물 목록을 보세요: 구리, 우라늄, 콜탄. 이것들은 평범한 자갈이 아니라 근현대 역사의 엔진이었습니다."
+            },
+            {
+              "english": "Notice the contrast after the em dash: 'yet the Congolese themselves remained impoverished...'. The profits flew abroad, but the poverty stayed behind.",
+              "korean": "엠 대시 뒤의 대조를 보세요: 'yet the Congolese themselves remained impoverished...'. 이익은 해외로 날아갔지만, 빈곤은 고스란히 남아 있었습니다."
+            },
+            {
+              "english": "Check: What critical opportunity were the Congolese denied according to Snow? The chance to build stable institutions.",
+              "korean": "확인: 스노에 따르면 콩고인들이 박탈당한 결정적 기회는 무엇이었나요? 안정적인 제도를 구축할 기회였습니다."
+            },
+            {
+              "english": "Correction: Notice the spelling of 'coltan' (c-o-l-t-a-n) and 'uranium'. Make sure not to misspell these technical mineral names.",
+              "korean": "교정: 'coltan'과 'uranium'의 철자를 정확하게 확인하여 오탈자가 발생하지 않도록 주의하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S09",
+          "original": "Independence in 1960 brought hope, but no preparation.",
+          "chunkReading": "Independence in 1960 / brought hope, / but no preparation.",
+          "directKorean": "1960년의 독립은 / 희망을 가져왔다, / 그러나 준비는 가져오지 않았다.",
+          "naturalKorean": "1960년에 맞이한 독립은 희망을 가져왔지만, 아무런 준비도 갖추지 못한 상태였습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Independence in 1960",
+              "meaning": "1960년의 독립",
+              "use": "historical temporal subject marking formal end of Belgian colonial rule",
+              "example": "Independence in 1960 marked a turning point across West Africa."
+            },
+            {
+              "chunk": "brought hope, but no preparation",
+              "meaning": "희망을 가져왔지만 준비는 가져오지 않았다",
+              "use": "antithetical direct object pairing contrasting optimism with practical vulnerability",
+              "example": "The rapid peace treaty brought relief, but no preparation for economic rebuild."
+            }
+          ],
+          "mustKnowGrammar": "Simple sentence with compound direct object; past simple transitive verb ('brought'); coordinated noun phrases linked by contrastive coordinator 'but' ('hope, but no preparation') showing zeugmatic concision.",
+          "feynmanExplanation": "In 1960, Congo finally became a free country. / People celebrated in the streets! / They were full of hope for the future. / But being free is not enough if nobody ever taught you how to run a government. / Belgium had kept them locked out of universities and administration, / so there was zero preparation.",
+          "feynmanExplanationKo": "1960년, 콩고는 마침내 자유 독립 국가가 되었습니다. / 사람들은 거리에서 환호했습니다! / 미래에 대한 희망으로 가득 차 있었습니다. / 하지만 아무도 정부를 운영하는 법을 가르쳐주지 않았다면 자유만으로는 충분하지 않습니다. / 벨기에는 그들이 대학 교육을 받거나 행정에 참여하지 못하도록 막아두었기에, / 아무런 준비도 되어 있지 않았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the economy of language here: only eight words, but it captures an entire national turning point.",
+              "korean": "여기서 쓰인 언어의 경제성을 보세요: 단 8단어에 불과하지만 국가 전체의 전환점을 담아냅니다."
+            },
+            {
+              "english": "Notice the contrast: 'hope, but no preparation'. Hope is an emotion; preparation is an institutional reality.",
+              "korean": "'hope, but no preparation'의 대조에 주목하세요. 희망은 감정이지만, 준비는 제도적 현실입니다."
+            },
+            {
+              "english": "Check: In what year did Congo achieve independence according to the text? 1960.",
+              "korean": "확인: 본문에 따르면 콩고가 독립을 달성한 해는 몇 년도인가요? 1960년입니다."
+            },
+            {
+              "english": "Correction: Remember to capitalize 'Independence' as the sentence starter.",
+              "korean": "교정: 문장의 첫 단어이므로 'Independence'를 대문자로 시작하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S10",
+          "original": "With no trained elite to govern, chaos followed.",
+          "chunkReading": "With no trained elite to govern, / chaos followed.",
+          "directKorean": "통치할 훈련받은 엘리트가 없는 상태에서, / 혼란이 뒤따랐다.",
+          "naturalKorean": "통치를 담당할 훈련된 엘리트 관료층이 전혀 없었기에, 극심한 혼란이 뒤따랐습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "no trained elite to govern",
+              "meaning": "통치할 훈련받은 엘리트(지도층)가 없는",
+              "use": "prepositional complement explaining structural human-capital deficiency",
+              "example": "With no trained engineers to supervise, construction stalled."
+            },
+            {
+              "chunk": "chaos followed",
+              "meaning": "혼란이 뒤따랐다",
+              "use": "intransitive past clause stating immediate systemic breakdown",
+              "example": "The power plant collapsed and total chaos followed."
+            }
+          ],
+          "mustKnowGrammar": "Fronted prepositional phrase of attendant circumstance ('With no trained elite...') with an attributive past participle ('trained') and an adjectival infinitive of purpose ('to govern'); followed by an intransitive main clause with abstract noun subject ('chaos') and past simple verb ('followed').",
+          "feynmanExplanation": "Imagine if all the pilots and captains walked off a giant ship, / and left ordinary passengers to steer through a storm. / That is what happened in Congo. / Colonial rulers had never allowed Congolese citizens to become doctors, judges, or senior managers. / So when independence came, / the whole country plunged into confusion.",
+          "feynmanExplanationKo": "거대한 여객선에서 모든 조종사와 선장이 갑자기 배를 버리고 떠나서, / 폭풍우 속에서 평범한 승객들에게 배를 조종하라고 남겨두었다고 상상해 보세요. / 그것이 바로 콩고에서 일어난 일입니다. / 식민 통치자들은 콩고인들이 의사나 판사, 고위 관료가 되는 것을 결코 허락하지 않았습니다. / 그래서 독립이 찾아왔을 때, / 나라 전체가 극심한 혼란 속으로 빠져들었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the cause-and-effect relationship: 'no trained elite to govern' is the cause; 'chaos followed' is the effect.",
+              "korean": "인과 관계에 주목하세요: '통치할 훈련된 엘리트의 부재'가 원인이고, '혼란이 뒤따랐다'가 결과입니다."
+            },
+            {
+              "english": "Explain what 'elite' means here: it refers to educated professionals, administrators, and experienced civil servants.",
+              "korean": "여기서 'elite'가 무엇을 뜻하는지 설명하세요: 교육받은 전문직, 행정 관료, 경험 있는 공무원 집단을 뜻합니다."
+            },
+            {
+              "english": "Check: Why did chaos follow independence according to Snow? Because there was no trained elite to govern.",
+              "korean": "확인: 스노에 따르면 독립 직후 왜 혼란이 뒤따랐나요? 통치할 훈련받은 엘리트가 없었기 때문입니다."
+            },
+            {
+              "english": "Correction: Do not spell 'chaos' phonetically; remember it starts with 'ch-' (/ˈkeɪ.ɒs/).",
+              "korean": "교정: 'chaos'의 발음이 /ˈkeɪ.ɒs/이지만 철자는 'ch-'로 시작한다는 점을 잊지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S11",
+          "original": "The Cold War further destabilized the nation, with Western powers propping up dictator Mobutu Sese Seko, who looted billions while his people starved.",
+          "chunkReading": "The Cold War / further destabilized the nation, / with Western powers propping up / dictator Mobutu Sese Seko, / who looted billions / while his people starved.",
+          "directKorean": "냉전은 / 그 나라를 더욱 불안정하게 만들었다, / 서방 강대국들이 떠받치면서 / 독재자 모부투 세세 세코를, / 그는 수십억 달러를 약탈했다 / 그의 국민들이 굶주리는 동안에.",
+          "naturalKorean": "냉전은 콩고를 더욱 불안정하게 만들었는데, 서방 강대국들이 국민들이 굶주리는 동안 수십억 달러를 횡령한 독재자 모부투 세세 세코를 적극적으로 비호했기 때문입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "The Cold War",
+              "meaning": "냉전 (미국과 소련 중심의 이념 대립기)",
+              "use": "proper historical noun phrase identifying 20th-century geopolitical superpower standoff",
+              "example": "The Cold War sparked proxy conflicts across Latin America, Asia, and Africa."
+            },
+            {
+              "chunk": "further destabilized the nation",
+              "meaning": "그 나라를 더욱 불안정하게 만들었다",
+              "use": "transitive verbal phrase with degree adverb indicating worsening chaos",
+              "example": "Currency devaluation further destabilized the nation."
+            },
+            {
+              "chunk": "propping up dictator",
+              "meaning": "독재자를 떠받치는, 비호하는",
+              "use": "phrasal verb metaphor denoting external artificial support for an illegitimate ruler",
+              "example": "Foreign loans kept propping up the unpopular dictator."
+            },
+            {
+              "chunk": "looted billions while his people starved",
+              "meaning": "국민들이 굶주리는 동안 수십억 달러를 횡령/약탈했다",
+              "use": "stark antithetical contrast between kleptocratic greed and civilian starvation",
+              "example": "Corrupt officials looted billions while citizens queued for emergency bread."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause with transitive verb and comparative degree adverb ('further destabilized'); absolute prepositional phrase introduced by 'with' + noun phrase ('Western powers') + present participle ('propping up...'); appositive title and name ('dictator Mobutu Sese Seko'); non-restrictive relative clause ('who looted billions') containing a subordinate temporal/contrastive clause ('while his people starved').",
+          "feynmanExplanation": "Then big global politics made things even worse. / During the Cold War, Western countries were terrified of Soviet influence. / So they picked one powerful general, Mobutu Sese Seko, / and backed him with money and military aid. / Mobutu stole billions of dollars for himself, / building palaces while ordinary Congolese families went hungry.",
+          "feynmanExplanationKo": "설상가상으로 거대한 국제 정치가 상황을 더욱 악화시켰습니다. / 냉전 기간 동안 서방 국가들은 소련의 영향력이 커지는 것을 극도로 두려워했습니다. / 그래서 그들은 모부투 세세 세코라는 강력한 장군 한 명을 선택하여, / 그에게 자금과 군사적 지원을 쏟아부었습니다. / 모부투는 평범한 콩고 가족들이 굶주리는 동안 / 자신을 위해 수십억 달러를 훔쳐 호화로운 궁전을 지었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the phrasal verb 'propping up'. If something cannot stand on its own, you prop it up with wooden sticks. Mobutu stayed in power because outside Western powers held him up.",
+              "korean": "'propping up'이라는 구동사를 보세요. 스스로 설 수 없는 것을 나무 막대로 떠받치는 모습입니다. 모부투가 권력을 유지한 것은 외부 서방 강대국들이 그를 떠받쳐 주었기 때문입니다."
+            },
+            {
+              "english": "Notice the contrast introduced by 'while': 'looted billions while his people starved'. This is classic kleptocracy.",
+              "korean": "'while'이 이끄는 대조를 보세요: 'looted billions while his people starved'. 전형적인 약탈 정치(kleptocracy)의 모습입니다."
+            },
+            {
+              "english": "Check: Who did Western powers prop up during the Cold War according to Snow? Dictator Mobutu Sese Seko.",
+              "korean": "확인: 스노에 따르면 냉전 동안 서방 강대국들이 떠받친 인물은 누구인가요? 독재자 모부투 세세 세코입니다."
+            },
+            {
+              "english": "Correction: Ensure students spell 'Mobutu Sese Seko' accurately with capital letters for each proper name element.",
+              "korean": "교정: 각각의 고유명사 요소를 대문자로 표기하여 'Mobutu Sese Seko'를 정확하게 쓰도록 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S12",
+          "original": "His fall in 1997 triggered another brutal war, drawing in nine nations and countless militias.",
+          "chunkReading": "His fall in 1997 / triggered another brutal war, / drawing in nine nations / and countless militias.",
+          "directKorean": "1997년 그의 몰락은 / 또 다른 잔혹한 전쟁을 촉발했다, / 아홉 개 국가들을 끌어들이면서 / 그리고 셀 수 없이 많은 민병대들을.",
+          "naturalKorean": "1997년 그의 몰락은 9개 국가와 수많은 민병대를 끌어들이며 또 다른 잔혹한 전쟁을 촉발했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "His fall in 1997",
+              "meaning": "1997년 그의 몰락",
+              "use": "noun phrase denoting collapse of Mobutu's regime",
+              "example": "His fall from power triggered immediate celebrations in the capital."
+            },
+            {
+              "chunk": "triggered another brutal war",
+              "meaning": "또 다른 잔혹한 전쟁을 촉발했다/유발했다",
+              "use": "causal verb phrase indicating sudden ignition of violence",
+              "example": "The assassination triggered another brutal war across the border."
+            },
+            {
+              "chunk": "drawing in nine nations",
+              "meaning": "아홉 개 국가들을 끌어들이며",
+              "use": "present participial clause of consequence denoting regional expansion",
+              "example": "The river dispute escalated, drawing in three neighboring states."
+            },
+            {
+              "chunk": "countless militias",
+              "meaning": "셀 수 없이 많은 민병대들",
+              "use": "descriptive quantifier emphasizing armed fragmentation",
+              "example": "Countless militias roamed the unguarded rural valleys."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause with dynamic causal verb ('triggered'); direct object ('another brutal war'); non-finite adverbial participial clause of result ('drawing in...') governing compound direct object ('nine nations and countless militias').",
+          "feynmanExplanation": "Mobutu ruled for over thirty years. / But when he finally collapsed in 1997, / peace did not suddenly break out. / Instead, a gigantic power vacuum opened up. / Nine different African countries marched in, / along with dozens of armed rebel groups, / all fighting over territory and mines.",
+          "feynmanExplanationKo": "모부투는 30년 넘게 철권통치를 휘둘렀습니다. / 하지만 1997년 그가 마침내 몰락했을 때, / 갑자기 평화가 찾아온 것이 아니었습니다. / 오히려 거대한 권력의 공백이 생겨났습니다. / 9개의 서로 다른 아프리카 국가들이 군대를 몰고 들어왔고, / 수십 개의 무장 반군 단체들이 가세하여, / 모두가 영토와 광산을 차지하기 위해 싸웠습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the causal verb 'triggered'. It means caused something sudden, explosive, and violent to happen.",
+              "korean": "인과 동사 'triggered'를 보세요. 갑작스럽고 폭발적이며 폭력적인 사건을 유발했다는 뜻입니다."
+            },
+            {
+              "english": "Notice the participial phrase: 'drawing in nine nations and countless militias'. It shows how the conflict spiraled far beyond Congo's domestic borders.",
+              "korean": "분사구문 'drawing in nine nations and countless militias'에 주목하세요. 분쟁이 콩고 국내 국경을 넘어 얼마나 거대하게 번져나갔는지 보여줍니다."
+            },
+            {
+              "english": "Check: In what year did Mobutu fall according to the source? In 1997.",
+              "korean": "확인: 본문에 따르면 모부투가 몰락한 해는 몇 년도인가요? 1997년입니다."
+            },
+            {
+              "english": "Correction: Make sure students write 'militias' with '-ias' at the end, meaning non-state irregular armed forces.",
+              "korean": "교정: 비정규 무장 조직을 뜻하는 'militias'의 철자(-ias)를 바르게 쓰도록 확인하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S13",
+          "original": "Today, Congo remains fractured.",
+          "chunkReading": "Today, / Congo remains fractured.",
+          "directKorean": "오늘날, / 콩고는 분열된 상태로 남아 있다.",
+          "naturalKorean": "오늘날에도 콩고는 여전히 분열된 상태로 남아 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Today,",
+              "meaning": "오늘날, 현재",
+              "use": "temporal transition marker shifting narrative into present-day reality",
+              "example": "Today, renewable energy provides over half of the island's electricity."
+            },
+            {
+              "chunk": "remains fractured",
+              "meaning": "분열된/균열된 상태로 남아 있다",
+              "use": "linking verb + participial adjective indicating persistent disunity and vulnerability",
+              "example": "The fragile coalition remains fractured by ideological differences."
+            }
+          ],
+          "mustKnowGrammar": "Short simple declarative sentence; fronted temporal adverbial ('Today'); proper noun subject ('Congo'); copular linking verb of state ('remains'); subject complement past participial adjective ('fractured').",
+          "feynmanExplanation": "After all those centuries of slavery, colonial cruelty, and war, / what does Congo look like right now? / The author uses one single word: 'fractured'. / Like a mirror dropped on concrete, / the country is broken into scattered pieces / without a strong, unified government.",
+          "feynmanExplanationKo": "수세기에 걸친 노예 무역, 식민 지배의 잔혹함, 그리고 전쟁을 겪은 후, / 지금 콩고의 모습은 어떨까요? / 작가는 단 하나의 단어로 답합니다: 'fractured(분열된)'. / 콘크리트 바닥에 떨어져 깨진 거울처럼, / 나라는 산산이 부서져 파편화되어 있고 / 강력하고 통일된 정부가 부재한 상태입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the dramatic shift in sentence length. After several long compound sentences, Snow gives us a four-word sentence: 'Today, Congo remains fractured.'",
+              "korean": "문장 길이의 극적인 변화에 주목하세요. 길고 복잡한 복문들이 이어진 뒤, 스노는 4단어로 된 짧은 문장을 던집니다: 'Today, Congo remains fractured.'"
+            },
+            {
+              "english": "Why make this sentence so short? To deliver an emphatic, punchy verdict on the country's modern status.",
+              "korean": "왜 이 문장을 이렇게 짧게 썼을까요? 국가의 현대적 상태에 대해 강력하고 묵직한 판정을 내리기 위해서입니다."
+            },
+            {
+              "english": "Check: What linking verb does Snow use? 'Remains'—showing this condition has persisted over time.",
+              "korean": "확인: 스노가 사용한 연결동사는 무엇인가요? 'Remains'입니다—이 상태가 오랜 시간 지속되어 왔음을 보여줍니다."
+            },
+            {
+              "english": "Correction: Remember to place a comma after the introductory time adverb 'Today,'.",
+              "korean": "교정: 도입부 시간 부사 'Today' 뒤에 쉼표를 빠뜨리지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S14",
+          "original": "Its minerals still flow abroad, enriching elites and global industries, while its people endure poverty and instability.",
+          "chunkReading": "Its minerals still flow abroad, / enriching elites and global industries, / while its people / endure poverty and instability.",
+          "directKorean": "그것의 광물들은 여전히 해외로 흘러나간다, / 엘리트들과 글로벌 산업들을 부유하게 만들면서, / 그 국민들은 / 빈곤과 불안정을 견디는 반면에.",
+          "naturalKorean": "콩고의 광물들은 여전히 해외로 흘러나가 특권층 엘리트와 글로벌 기업들을 부유하게 만들고 있는 반면, 콩고 국민들은 극심한 빈곤과 정세 불안을 견뎌내고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "still flow abroad",
+              "meaning": "여전히 해외로 흘러나간다",
+              "use": "metaphorical fluid verb denoting continuous outward mineral extraction",
+              "example": "Raw crude oil continues to flow abroad via deepwater tankers."
+            },
+            {
+              "chunk": "enriching elites and global industries",
+              "meaning": "엘리트들과 글로벌 산업들을 부유하게 만들면서",
+              "use": "present participial clause of consequence showing who captures the profits",
+              "example": "The logging boom continued, enriching foreign timber executives."
+            },
+            {
+              "chunk": "while its people endure",
+              "meaning": "그 국민들은 견디는 반면에",
+              "use": "adversative subordinate clause establishing stark human contrast",
+              "example": "Profits soared while workers endured freezing factory conditions."
+            },
+            {
+              "chunk": "poverty and instability",
+              "meaning": "빈곤과 불안정",
+              "use": "paired abstract nouns summarizing ongoing civilian deprivation",
+              "example": "The border region faces persistent poverty and instability."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause with intransitive verb ('flow') and spatial adverb ('abroad'); non-finite participial clause of result ('enriching elites and global industries'); subordinate contrastive clause introduced by 'while', governing subject 'its people' and transitive verb 'endure' with compound direct object ('poverty and instability').",
+          "feynmanExplanation": "Even today, giant cargo trucks and planes carry minerals out of Congo every single day. / Who gets rich from them? / Corrupt local bosses and big international tech corporations. / And who pays the price? / The regular families of Congo, / who still live in deep poverty without peace.",
+          "feynmanExplanationKo": "오늘날에도 거대한 화물 트럭과 비행기들이 매일같이 콩고에서 광물을 실어 나릅니다. / 그로 인해 누가 부유해질까요? / 부패한 현지 권력자들과 거대한 다국적 기술 기업들입니다. / 그렇다면 그 대가는 누가 치르고 있을까요? / 평화도 없이 여전히 극심한 빈곤 속에서 살아가는 / 콩고의 평범한 가족들입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the liquid metaphor 'flow abroad'. Minerals are heavy solid rocks, but Snow says they 'flow' like a river escaping the country.",
+              "korean": "'flow abroad'라는 액체 은유를 보세요. 광물은 무거운 고체 암석이지만, 스노는 마치 강물이 나라 밖으로 빠져나가듯 '흘러나간다'고 표현합니다."
+            },
+            {
+              "english": "Notice the contrast: 'enriching elites... while its people endure poverty'. The author contrasts the tiny group getting rich with the millions suffering.",
+              "korean": "'특권층을 부유하게 하면서... 국민들은 빈곤을 견딘다'는 대조에 주목하세요. 소수의 수혜자와 고통받는 수백만의 처지를 극명하게 대비시킵니다."
+            },
+            {
+              "english": "Check: Who benefits from Congo's minerals today according to Snow? Elites and global industries.",
+              "korean": "확인: 스노에 따르면 오늘날 콩고의 광물로부터 혜택을 받는 이들은 누구인가요? 특권층 엘리트와 글로벌 산업체들입니다."
+            },
+            {
+              "english": "Correction: Notice 'its' is possessive without an apostrophe; do not confuse it with 'it’s' (it is).",
+              "korean": "교정: 소유격 대명사 'its'에는 아포스트로피가 없습니다; 축약형인 'it’s'와 혼동하지 마세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": "S15",
+          "original": "The Congo’s tragedy is not its weakness but its wealth—a blessing turned into a curse by centuries of exploitation.",
+          "chunkReading": "The Congo’s tragedy / is not its weakness / but its wealth— / a blessing turned into a curse / by centuries of exploitation.",
+          "directKorean": "콩고의 비극은 / 그것의 약함이 아니라 / 그것의 부이다— / 저주로 뒤바뀐 축복인 / 수세기에 걸친 착취에 의해.",
+          "naturalKorean": "콩고의 비극은 약함이 아니라 바로 그 부에서 비롯된 것이며, 수세기에 걸친 착취로 인해 축복이 저주로 뒤바뀌어 버린 것입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "The Congo’s tragedy",
+              "meaning": "콩고의 비극",
+              "use": "thematic noun phrase framing the overarching historical conclusion",
+              "example": "The country's tragedy was its inability to reconcile competing factions."
+            },
+            {
+              "chunk": "not its weakness but its wealth",
+              "meaning": "그것의 약함이 아니라 그것의 부",
+              "use": "antithetical correlative formula ('not A but B') delivering core philosophical thesis",
+              "example": "The company's downfall was not its weakness but its reckless arrogance."
+            },
+            {
+              "chunk": "a blessing turned into a curse",
+              "meaning": "저주로 뒤바뀐 축복",
+              "use": "metaphorical appositive noun phrase expressing tragic irony",
+              "example": "The sudden oil discovery proved to be a blessing turned into a curse."
+            },
+            {
+              "chunk": "by centuries of exploitation",
+              "meaning": "수세기에 걸친 착취에 의해",
+              "use": "prepositional agent phrase identifying ultimate causal mechanism",
+              "example": "Indigenous lands were degraded by centuries of exploitation."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause with copula 'is'; correlative negative-affirmative structure ('not [A] but [B]'); em dash introducing an appositive noun phrase ('a blessing...'); reduced relative clause using past participle ('[which was] turned into a curse'); prepositional agent phrase of historical cause ('by centuries of exploitation').",
+          "feynmanExplanation": "Here is Dan Snow's final, powerful conclusion. / Why did all this terrible suffering happen? / Was it because the people of Congo were weak or lazy? / Absolutely not! / The real tragedy was their incredible treasure. / Having gold, rubber, and coltan should have made them blessed, / but outside greed turned that blessing into a five-hundred-year curse.",
+          "feynmanExplanationKo": "여기에 댄 스노의 최종적이고 강력한 결론이 있습니다. / 왜 이 모든 끔찍한 고통이 일어났을까요? / 콩고 사람들이 나약하거나 게을러서였을까요? / 결코 아닙니다! / 진짜 비극은 바로 그들이 지닌 엄청난 보물이었습니다. / 금과 고무, 콜탄을 가진 것은 그들에게 축복이어야 마땅했으나, / 외부의 탐욕이 그 축복을 500년에 걸친 저주로 바꾸어 버렸습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look closely at the correlative structure: 'not its weakness but its wealth'. Memorize this formula: 'not A but B'.",
+              "korean": "'not its weakness but its wealth'라는 상관 구조를 자세히 보세요. 'A가 아니라 B'라는 이 공식을 외워두세요."
+            },
+            {
+              "english": "Notice the em dash before 'a blessing turned into a curse'. It explains the weakness/wealth paradox using vivid metaphorical language.",
+              "korean": "'a blessing turned into a curse' 앞의 엠 대시에 주목하세요. 생생한 은유적 언어로 약함과 부의 역설을 설명해 줍니다."
+            },
+            {
+              "english": "Check: What does Snow identify as the ultimate cause that turned the blessing into a curse? Centuries of exploitation.",
+              "korean": "확인: 스노는 축복을 저주로 바꾼 궁극적 원인으로 무엇을 지목하나요? 수세기에 걸친 착취(centuries of exploitation)입니다."
+            },
+            {
+              "english": "Correction: In your own writing, preserve the contrast carefully: write that Congo's wealth attracted foreign exploitation, not that wealth inherently destroys nations on its own.",
+              "korean": "교정: 여러분의 글에서도 이 대조를 신중히 유지하세요: 자원 자체가 스스로 나라를 파괴한 것이 아니라, 막대한 부가 외세의 착취를 끌어들였다는 점을 명확히 쓰세요."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
