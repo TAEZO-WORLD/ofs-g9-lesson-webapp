@@ -1,0 +1,38 @@
+{
+  "taskId": "OFS-20261108-COLONIALISM-SINGAPORE-01",
+  "slug": "2026-11-08-colonialism-singapore",
+  "title": "Colonialism has benefits? Just look at Singapore",
+  "sourceLabel": "Source D:",
+  "citation": "Jeevan Vasagar, ‘Colonialism has benefits? Just look at Singapore’, The Guardian, 2018",
+  "paragraphs": [
+    "While many former colonies have erased or renamed symbols of imperial rule, Singapore has chosen a different path. The city’s most prominent colonial monument, a gleaming white statue of Sir Stamford Raffles, still stands on the riverside where he is said to have landed. Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.",
+    "Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development. Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach. Its model blended Raffles’ free-trading ideals with collective politics and efficient governance. The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.",
+    "This achievement has drawn admirers worldwide. Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof that colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity. For others, Singapore’s progress highlights the contradictions of colonial history: the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.",
+    "Yet the legacy is not purely positive. Singapore’s government continues to employ colonial tools of control: detention without trial, restrictive press licensing, and defamation laws that weaken opposition. While the nation holds elections, critics argue that political freedoms remain tightly circumscribed.",
+    "Singapore’s story shows that colonialism cannot be seen simply as curse or blessing. By exploiting the infrastructure and institutions left behind, the republic became one of the world’s richest states. But it also demonstrates the lingering cost of adopting illiberal traditions in the pursuit of order and growth."
+  ],
+  "sentenceUnits": [
+    "While many former colonies have erased or renamed symbols of imperial rule, Singapore has chosen a different path.",
+    "The city’s most prominent colonial monument, a gleaming white statue of Sir Stamford Raffles, still stands on the riverside where he is said to have landed.",
+    "Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.",
+    "Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development.",
+    "Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach.",
+    "Its model blended Raffles’ free-trading ideals with collective politics and efficient governance.",
+    "The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.",
+    "This achievement has drawn admirers worldwide.",
+    "Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof that colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity.",
+    "For others, Singapore’s progress highlights the contradictions of colonial history: the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.",
+    "Yet the legacy is not purely positive.",
+    "Singapore’s government continues to employ colonial tools of control: detention without trial, restrictive press licensing, and defamation laws that weaken opposition.",
+    "While the nation holds elections, critics argue that political freedoms remain tightly circumscribed.",
+    "Singapore’s story shows that colonialism cannot be seen simply as curse or blessing.",
+    "By exploiting the infrastructure and institutions left behind, the republic became one of the world’s richest states.",
+    "But it also demonstrates the lingering cost of adopting illiberal traditions in the pursuit of order and growth."
+  ],
+  "stats": {
+    "wordsWithoutLabel": 307,
+    "sha256WithoutLabel": "744555ad8222016c448b557ab42e184e02ee3ff48ee9c0f8f655940959db5b40",
+    "wordsWithLabel": 309,
+    "sha256WithLabel": "747f73520f06717a85a5a9edcd055a3c9ef8643bef9d0da9ce591b611c6c12ed"
+  }
+}

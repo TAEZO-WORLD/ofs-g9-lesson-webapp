@@ -1,6 +1,13 @@
 {
-  "latest": "2026-11-08-colonialism-revamped-congo",
+  "latest": "2026-11-08-colonialism-singapore",
   "lessons": [
+    {
+      "slug": "2026-11-08-colonialism-singapore",
+      "title": "Colonialism has benefits? Just look at Singapore",
+      "ofsUnit": "Unit 4 — History, Resources & Inequality",
+      "textType": "Historical / Current-Affairs Article",
+      "date": "2026-11-08"
+    },
     {
       "slug": "2026-11-08-colonialism-revamped-congo",
       "title": "Colonialism Revamped in the Democratic Republic of the Congo",

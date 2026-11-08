@@ -1,0 +1,1392 @@
+{
+  "lessonTitle": "Colonialism has benefits? Just look at Singapore",
+  "ofsUnit": "Unit 4 — History, Resources & Inequality",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Historical / Current-Affairs Article",
+  "writingType": "Evidence-Based Comparative Analysis Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students compare colonial legacies, use evidence and attribution, and explain contrast, cause/effect and limits based on Source D.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. You do not need outside political, historical, or economic knowledge; answer using your personal definitions, everyday experience, and logical reasoning.",
+    "questions": [
+      {
+        "question": "Why do many countries choose to remove, rename, or keep monuments and statues from their colonial past?",
+        "sentenceStarter": "When deciding whether to keep or remove colonial monuments, societies often consider..."
+      },
+      {
+        "question": "Can a former colony experience both positive advantages and negative consequences from colonial rule, or is it always one-sided?",
+        "sentenceStarter": "Colonial legacies can be complex and mixed because inherited systems may provide..."
+      },
+      {
+        "question": "How do societies balance the pursuit of order and economic growth with the protection of political freedoms?",
+        "sentenceStarter": "Balancing economic growth and social order with individual political freedom requires..."
+      }
+    ],
+    "sentenceStarters": [
+      "When deciding whether to keep or remove colonial monuments, societies often consider...",
+      "Colonial legacies can be complex and mixed because inherited systems may provide...",
+      "Balancing economic growth and social order with individual political freedom requires..."
+    ]
+  },
+  "article": {
+    "title": "Colonialism has benefits? Just look at Singapore",
+    "sourceLabel": "Source D:",
+    "citation": "Jeevan Vasagar, ‘Colonialism has benefits? Just look at Singapore’, The Guardian, 2018",
+    "paragraphs": [
+      "While many former colonies have erased or renamed symbols of imperial rule, Singapore has chosen a different path. The city’s most prominent colonial monument, a gleaming white statue of Sir Stamford Raffles, still stands on the riverside where he is said to have landed. Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.",
+      "Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development. Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach. Its model blended Raffles’ free-trading ideals with collective politics and efficient governance. The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.",
+      "This achievement has drawn admirers worldwide. Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof that colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity. For others, Singapore’s progress highlights the contradictions of colonial history: the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.",
+      "Yet the legacy is not purely positive. Singapore’s government continues to employ colonial tools of control: detention without trial, restrictive press licensing, and defamation laws that weaken opposition. While the nation holds elections, critics argue that political freedoms remain tightly circumscribed.",
+      "Singapore’s story shows that colonialism cannot be seen simply as curse or blessing. By exploiting the infrastructure and institutions left behind, the republic became one of the world’s richest states. But it also demonstrates the lingering cost of adopting illiberal traditions in the pursuit of order and growth."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key terms from Source D. Focus on each word's part of speech, accessible English definition, concise Korean equivalent, and contextual example sentence.",
+    "items": [
+      {
+        "word": "imperial rule",
+        "partOfSpeech": "noun phrase",
+        "definition": "supreme authority, sovereign control, or colonial governance exercised by an empire over foreign territories and subordinate peoples",
+        "korean": "제국 통치, 식민 지배",
+        "example": "Many developing nations actively dismantled the lingering institutional structures established during decades of foreign imperial rule."
+      },
+      {
+        "word": "colonial monument",
+        "partOfSpeech": "noun phrase",
+        "definition": "a public statue, memorial, or historic structure constructed to commemorate colonial officials, military events, or foreign imperial authority",
+        "korean": "식민지 기념비, 식민 시대 동상",
+        "example": "The prominent colonial monument by the harbor was preserved as an educational reminder of the city's complex commercial origin."
+      },
+      {
+        "word": "selective embrace",
+        "partOfSpeech": "noun phrase",
+        "definition": "the deliberate choice to adopt, maintain, or utilize specific useful components of an inherited system while rejecting or modifying others",
+        "korean": "선별적 수용",
+        "example": "The young administration pursued a policy of selective embrace, utilizing colonial maritime trade routes while rejecting imperial social hierarchies."
+      },
+      {
+        "word": "pragmatic",
+        "partOfSpeech": "adjective",
+        "definition": "dealing with situations, policies, and challenges sensibly and realistically based on practical results rather than rigid theoretical ideology",
+        "korean": "실용적인, 실리적인",
+        "example": "The government took a pragmatic approach to industrial development, choosing policies that maximized economic efficiency and social stability."
+      },
+      {
+        "word": "free-trading",
+        "partOfSpeech": "adjective",
+        "definition": "operating with minimal commercial barriers, open international markets, and few tariffs to maximize international trade volume",
+        "korean": "자유 무역의",
+        "example": "As an open free-trading port, the riverside city welcomed merchant vessels and international capital from every continent."
+      },
+      {
+        "word": "collective politics",
+        "partOfSpeech": "noun phrase",
+        "definition": "a political philosophy and system that prioritizes common community goals, societal order, and group welfare over pure individual liberalism",
+        "korean": "집단주의적 정치, 집단 정치",
+        "example": "The state's governance model combined market economic incentives with collective politics that stressed social discipline and unity."
+      },
+      {
+        "word": "colonial inheritances",
+        "partOfSpeech": "noun phrase (plural)",
+        "definition": "the legal codes, institutional frameworks, infrastructure, language, or physical assets left behind by a former imperial power",
+        "korean": "식민지 유산, 식민지 계승물",
+        "example": "Valuable colonial inheritances such as modern deep-water ports and English common law helped the newly formed republic expand foreign trade."
+      },
+      {
+        "word": "prosperity",
+        "partOfSpeech": "noun",
+        "definition": "a successful, flourishing, and financially thriving state of economic security, material wealth, and high living standards",
+        "korean": "번영, 번성",
+        "example": "Strategic commercial policies and efficient municipal management generated extraordinary economic prosperity for the island republic."
+      },
+      {
+        "word": "circumscribed",
+        "partOfSpeech": "adjective / participle",
+        "definition": "strictly confined, limited, or kept within narrow and tightly controlled boundaries by legal, regulatory, or political authority",
+        "korean": "제한된, 범위가 한정된",
+        "example": "Although regular voting took place, civil protests and public opposition activities remained closely circumscribed by state regulations."
+      },
+      {
+        "word": "illiberal",
+        "partOfSpeech": "adjective",
+        "definition": "opposed to or restricting individual political liberties, open democratic dissent, civil rights, and full freedom of expression",
+        "korean": "비자유주의적인",
+        "example": "Political analysts observed that the administration maintained illiberal legal mechanisms to ensure social order and rapid economic expansion."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "Which statement best expresses the main idea of Source D?",
+    "options": [
+      "Singapore rejected all British colonial heritage after gaining independence in 1965 to ensure total political freedom for its citizens.",
+      "Singapore used selected colonial legacies to support economic development and prosperity while also carrying significant political and historical costs.",
+      "Colonial rule was an unmixed blessing for Singapore because foreign administrators eliminated the opium trade and established universal civil liberties.",
+      "Singapore's rapid industrialization was entirely independent of British infrastructure and relied exclusively on traditional agricultural methods."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! Source D argues that Singapore's story demonstrates that colonialism cannot be seen simply as a curse or blessing; the country achieved great prosperity by selectively exploiting inherited institutions and infrastructure, but also carried lingering costs such as illiberal control and circumscribed political freedoms.",
+      "incorrect": "X Incorrect. Option B captures the balanced controlling thesis: Singapore selectively embraced colonial inheritances to build prosperity while simultaneously preserving illiberal mechanisms of political control."
+    },
+    "explanation": "Paragraphs 1–5 synthesize Singapore's 'selective embrace' of colonial inheritances (English law, trade ideals, infrastructure) leading to world-class wealth, while candidly examining the costs: illiberal traditions, detention without trial, restricted press, and historical opium contradictions."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Choose the single best answer for each of the six questions below based strictly on the text of Source D. Each question references a specific section of the reading.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, what does the statue of Sir Stamford Raffles unveiled in 1969 represent regarding Singapore's approach to its past?",
+        "options": [
+          "A total rejection and erasure of all imperial European symbols.",
+          "Not rejection but a selective embrace of its colonial history.",
+          "An ongoing subservience to the British crown and monarchical authority.",
+          "A recent political attempt to alter the official date of national independence."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 states: 'Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.'",
+          "incorrect": "X Incorrect. Paragraph 1 explicitly states that the Raffles monument represents 'not rejection but selective embrace' rather than the erasure seen in many other former colonies."
+        },
+        "explanation": "Paragraph 1: 'Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.'"
+      },
+      {
+        "id": "rc2",
+        "question": "In Paragraph 2, what historical vision held by Stamford Raffles did founding Prime Minister Lee Kuan Yew cite as inspiration for Singapore’s development?",
+        "options": [
+          "An isolated agrarian community protected from foreign navigation.",
+          "The vision of the city as 'the emporium of the east.'",
+          "A military stronghold established exclusively for regional territorial conquest.",
+          "A strictly regulated barter economy that prohibited foreign currency."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 notes: 'Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development.'",
+          "incorrect": "X Incorrect. Paragraph 2 quotes Lee Kuan Yew remarking that Raffles' vision of the city as 'the emporium of the east' still inspired Singapore's development."
+        },
+        "explanation": "Paragraph 2: 'Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development.'"
+      },
+      {
+        "id": "rc3",
+        "question": "According to Paragraph 2, how did Singapore create its unique urban model without losing Asian traditions?",
+        "options": [
+          "By banning all modern glass architecture and foreign engineering standards.",
+          "By blending Raffles’ free-trading ideals with collective politics and efficient governance, combining Victorian neoclassicism with Taoist temples.",
+          "By adopting Western democratic party systems while completely eliminating traditional religions.",
+          "By expelling foreign businesses to protect domestic handicrafts from global competition."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 explains: 'Its model blended Raffles’ free-trading ideals with collective politics and efficient governance. The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.'",
+          "incorrect": "X Incorrect. Paragraph 2 highlights that Singapore's model blended free-trading ideals with collective politics and efficient governance, visible in the physical harmony of Taoist temples, Victorian neoclassicism, and glass skyscrapers."
+        },
+        "explanation": "Paragraph 2: 'Its model blended Raffles’ free-trading ideals with collective politics and efficient governance. The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.'"
+      },
+      {
+        "id": "rc4",
+        "question": "In Paragraph 3, which specific colonial inheritances have international leaders like Deng Xiaoping and Paul Kagame cited as proof that colonial assets can build prosperity?",
+        "options": [
+          "High import tariffs, state-run monopolies, and mandatory military service.",
+          "English law, the global language, and a strategic location.",
+          "The commercial distribution of narcotics across Southeast Asian ports.",
+          "Exclusive bilateral treaties with the United Kingdom."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 explicitly lists: 'colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity.'",
+          "incorrect": "X Incorrect. Paragraph 3 identifies 'English law, the global language, a strategic location' as the colonial inheritances cited by world leaders to build prosperity."
+        },
+        "explanation": "Paragraph 3: 'Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof that colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity.'"
+      },
+      {
+        "id": "rc5",
+        "question": "According to Paragraph 3, what historical contradiction complicates Singapore’s narrative regarding the opium trade and modern drug enforcement?",
+        "options": [
+          "The British completely prohibited opium, but modern Singapore legalized all narcotics.",
+          "The opium trade once formed the colony's economic backbone, yet modern Singapore imposes the death penalty on drug trafficking.",
+          "Opium revenues were exclusively used to build secondary schools in rural provinces.",
+          "Colonial merchants refused to trade opium because of strict local religious prohibitions."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 highlights: 'the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.'",
+          "incorrect": "X Incorrect. Paragraph 3 explains the historical irony: the opium trade served as the colonial economic backbone and helped build the foundation for a state that now imposes capital punishment on drug trafficking."
+        },
+        "explanation": "Paragraph 3: 'the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.'"
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraphs 4 and 5, what colonial tools and lingering costs complicate Singapore's success story?",
+        "options": [
+          "The absence of elections, total economic bankruptcy, and severe famine.",
+          "Colonial tools of control—detention without trial, restrictive press licensing, and defamation laws—and the lingering cost of illiberal traditions.",
+          "The complete dismantlement of the British court system and common law statutes.",
+          "A refusal to build modern transport infrastructure or participate in global commerce."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraphs 4 and 5 point to 'detention without trial, restrictive press licensing, and defamation laws that weaken opposition,' showing 'the lingering cost of adopting illiberal traditions in the pursuit of order and growth.'",
+          "incorrect": "X Incorrect. Paragraph 4 details colonial tools of control (detention without trial, press licensing, defamation laws) and tightly circumscribed freedoms, while Paragraph 5 concludes with 'the lingering cost of adopting illiberal traditions in the pursuit of order and growth.'"
+        },
+        "explanation": "Paragraph 4 details detention without trial, restrictive press licensing, and defamation laws; Paragraph 5 concludes that colonialism is neither pure curse nor blessing, citing the lingering cost of illiberal traditions."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each prompt using direct, factual details from Source D. After writing your response, click 'Compare with Model' to evaluate your work against an exemplar answer.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "Why does the monument of Sir Stamford Raffles represent 'selective embrace' rather than rejection, according to Paragraph 1?",
+        "placeholder": "According to Paragraph 1, the statue of Raffles represents selective embrace because...",
+        "modelAnswer": "According to Paragraph 1, while many other former colonies chose to erase or rename symbols of imperial rule, Singapore chose a different path by unveiling a prominent white statue of Sir Stamford Raffles in 1969, four years after independence, on the riverside where he landed. By keeping this monument, Singapore demonstrated that it was pragmatically embracing useful elements of its colonial past rather than rejecting them entirely.",
+        "compareTip": "Ensure you cite the contrast with other former colonies that erased symbols, mention the 1969 unveiling (four years after independence), and explain how keeping the Raffles monument reflects pragmatic selective embrace rather than rejection."
+      },
+      {
+        "id": "ev2",
+        "question": "How did inherited colonial institutions and infrastructure support Singapore's economic prosperity, according to Paragraphs 2 and 3?",
+        "placeholder": "Based on Paragraphs 2 and 3, inherited colonial institutions supported prosperity by...",
+        "modelAnswer": "Based on Paragraphs 2 and 3, Singapore built world-class prosperity by exploiting colonial inheritances, including English law, the global English language, a strategic trading location, and Raffles' free-trading vision as 'the emporium of the east.' It blended these Western methods and free-market ideals with efficient governance and collective politics, turning the inherited infrastructure into one of the world's richest economies.",
+        "compareTip": "Verify that your response lists specific inheritances (English law, global language, strategic location, free-trading ideals) and explains how blending them with efficient governance and collective politics generated prosperity."
+      },
+      {
+        "id": "ev3",
+        "question": "What limits, contradictions, and costs complicate the positive narrative of Singapore's colonial legacy, according to Paragraphs 3, 4, and 5?",
+        "placeholder": "According to the text, the positive narrative is complicated by...",
+        "modelAnswer": "According to Paragraphs 3, 4, and 5, Singapore's positive narrative is complicated by historical contradictions and political costs. Historically, the opium trade served as the colonial economic backbone that helped build the state, which now imposes the death penalty on drug trafficking. Politically, the government still employs colonial tools of control—such as detention without trial, restrictive press licensing, and defamation laws—leaving political freedoms tightly circumscribed and imposing the lingering cost of illiberal traditions in pursuit of order and growth.",
+        "compareTip": "Check that you addressed both the historical opium contradiction and the modern colonial control tools (detention without trial, press licensing, defamation laws, circumscribed freedoms, and illiberal traditions)."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine the core rhetorical, grammatical, and discourse patterns used in Source D. Notice how the author employs contrast and concession, cause-and-effect connectors, passive voice, participial modifiers, modality, and cautious attribution.",
+    "topic": "Contrast, Concession, Cause and Effect, Passive Structures, Participles, and Balanced Attribution",
+    "explanation": "Academic historical and current-affairs writing relies on sophisticated discourse structures to weigh competing historical arguments, contrast economic success with civil restrictions, trace institutional causes and effects, and frame nuanced evaluations objectively.",
+    "patterns": [
+      {
+        "name": "Contrast and Concession Clauses",
+        "explanation": "Juxtaposes differing post-colonial paths or balances opposing viewpoints ('While many former colonies...', 'Unlike neighbors who...', 'Yet the legacy is not purely positive', 'While the nation holds elections...').",
+        "example": "While the nation achieved remarkable GDP growth, critics argued that social safety nets remained inadequate.",
+        "sourceExample": "While many former colonies have erased or renamed symbols of imperial rule, Singapore has chosen a different path... Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach... Yet the legacy is not purely positive... While the nation holds elections, critics argue that political freedoms remain tightly circumscribed."
+      },
+      {
+        "name": "Cause-and-Effect Structures and Prepositions",
+        "explanation": "Connects institutional policies, historical trade, and inherited mechanisms to national outcomes ('helped lay the foundations for...', 'By exploiting...', 'The result is...').",
+        "example": "By modernizing commercial port facilities, the government attracted global maritime investment.",
+        "sourceExample": "The result is a city where Taoist temples share space with Victorian neoclassicism... helped lay the foundations for a state that now imposes the death penalty... By exploiting the infrastructure and institutions left behind, the republic became one of the world’s richest states."
+      },
+      {
+        "name": "Passive Voice and Attributive Reporting",
+        "explanation": "Focuses on historical monuments, public actions, and attributed perceptions ('where he is said to have landed', 'Unveiled in 1969', 'can be used to build prosperity', 'cannot be seen simply as').",
+        "example": "The historic treaty was signed in 1945 and was cited as the cornerstone of regional peace.",
+        "sourceExample": "where he is said to have landed... Unveiled in 1969, four years after independence... can be used to build prosperity... colonialism cannot be seen simply as curse or blessing."
+      },
+      {
+        "name": "Participial Phrases for Synthesizing Complex Realities",
+        "explanation": "Packs descriptive context and simultaneous actions efficiently into participial clauses ('Unveiled in 1969...', 'without losing Asian traditions', 'adopting illiberal traditions...').",
+        "example": "Constructed during the industrial boom, the canal network facilitated rapid transcontinental commerce.",
+        "sourceExample": "Unveiled in 1969, four years after independence, it represents not rejection... without losing Asian traditions... By exploiting the infrastructure... adopting illiberal traditions in the pursuit of order and growth."
+      },
+      {
+        "name": "Modality and Nuanced Qualification",
+        "explanation": "Expresses balance and avoids simplistic generalizations using modal auxiliaries and hedging adverbs ('cannot be seen simply as', 'remain tightly circumscribed', 'not purely positive').",
+        "example": "Economic reforms cannot be viewed merely as positive or negative, as they produced uneven social outcomes.",
+        "sourceExample": "Yet the legacy is not purely positive... political freedoms remain tightly circumscribed... colonialism cannot be seen simply as curse or blessing."
+      },
+      {
+        "name": "Objective Attribution of Arguments and Evidence",
+        "explanation": "Frames evidence through historical figures and analytical observers ('According to Source D', 'Lee Kuan Yew once remarked', 'Leaders such as Deng Xiaoping... have cited', 'critics argue that').",
+        "example": "According to political scientists, institutional continuity often stabilizes post-colonial economies.",
+        "sourceExample": "Lee Kuan Yew, once remarked that Raffles’ vision... still inspired its development... Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof... critics argue that political freedoms remain tightly circumscribed."
+      }
+    ],
+    "analyticalDistinctions": [
+      {
+        "heading": "Distinguishing Textual Analysis from Outside Political Debate",
+        "explanation": "When analyzing Source D, students must focus strictly on the author's balanced assessment of benefits (law, trade, language, wealth) versus costs (illiberal control, press limits, opium trade contradiction). Do not import outside opinions or current geopolitical controversies that are not substantiated by Vasagar's text.",
+        "examples": [
+          "Textual Argument: Vasagar illustrates how Singapore combined Raffles' free-trading ideals with illiberal state control tools to achieve rapid economic growth.",
+          "Outside Assumption: Introducing unmentioned contemporary foreign policy issues or personal commentary about Singaporean tourism."
+        ]
+      },
+      {
+        "heading": "Balancing Claims with Concession and Contrast",
+        "explanation": "To write at a Grade 9 academic level, avoid one-sided claims ('Singapore is perfect' or 'Colonialism was completely evil'). Use concession markers ('While...', 'Yet...', 'On the one hand... on the other hand...') to capture the dual nature of colonial legacies.",
+        "examples": [
+          "Balanced Academic Synthesis: 'While Singapore utilized inherited British legal and commercial institutions to achieve prosperity, it also preserved colonial tools of political control that circumscribed democratic freedoms.'",
+          "One-Sided Oversimplification: 'Singapore proves that British colonialism had zero bad effects.'"
+        ]
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete the four guided writing exercises below. Apply target vocabulary, contrast markers, cause-and-effect transitions, and cautious attribution. After writing, compare your sentence with the model.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write a sentence using 'selective embrace' to explain why Singapore preserved the statue of Sir Stamford Raffles.",
+        "placeholder": "Rather than erasing symbols of imperial rule, Singapore demonstrated a selective embrace by...",
+        "modelAnswer": "Rather than erasing symbols of imperial rule like its neighbors, Singapore demonstrated a selective embrace by preserving the statue of Sir Stamford Raffles to honor the pragmatic free-trading vision that inspired its development.",
+        "compareTip": "Ensure you use 'selective embrace' to explain the deliberate choice to keep the Raffles statue while contrasting it with neighbors who erased colonial symbols.",
+        "targetWords": 32,
+        "minWords": 20,
+        "maxWords": 45
+      },
+      {
+        "id": "wp2",
+        "question": "Write a cause-and-effect sentence showing how colonial inheritances like English law and language supported economic prosperity.",
+        "placeholder": "By exploiting colonial inheritances such as English law and the global language, Singapore...",
+        "modelAnswer": "By exploiting colonial inheritances such as English common law, the global language, and a strategic trading location, Singapore successfully attracted international commerce, resulting in extraordinary national prosperity.",
+        "compareTip": "Check that you linked specific colonial inheritances (law, language, location) to prosperity using cause-and-effect phrasing like 'By exploiting...' or 'resulting in...'.",
+        "targetWords": 27,
+        "minWords": 18,
+        "maxWords": 45
+      },
+      {
+        "id": "wp3",
+        "question": "Write a contrast sentence using 'contradiction' to explain the historical irony involving the opium trade and modern drug enforcement.",
+        "placeholder": "A major contradiction in Singapore's colonial history is that the opium trade...",
+        "modelAnswer": "A striking contradiction highlighted in Source D is that the historical opium trade formed the colonial economic backbone that helped build the state, yet modern Singapore now imposes the death penalty on drug trafficking.",
+        "compareTip": "Verify that your sentence highlights the contradiction between the historical opium trade financing the colony and modern Singapore's strict death penalty for drugs.",
+        "targetWords": 32,
+        "minWords": 20,
+        "maxWords": 45
+      },
+      {
+        "id": "wp4",
+        "question": "Write a qualifying sentence using 'circumscribed' and 'illiberal' to explain the limits on political freedom in the pursuit of order.",
+        "placeholder": "While Singapore achieved rapid economic growth, critics argue that political freedoms remain...",
+        "modelAnswer": "While Singapore achieved remarkable economic growth, critics point out that political freedoms remain tightly circumscribed due to the government's lingering adoption of illiberal colonial tools of control in the pursuit of order.",
+        "compareTip": "Ensure you used both 'circumscribed' and 'illiberal' to balance economic growth against limits on political freedoms and tools of state control.",
+        "targetWords": 30,
+        "minWords": 18,
+        "maxWords": 45
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based comparative explanation paragraph answering the prompt below. Adhere strictly to the word count target and verify your draft against the checklist.",
+    "prompt": "According to Source D, how does Singapore’s story show both benefits and costs of colonial legacies? Write an evidence-based explanation paragraph of 100–140 words. Include at least three specific details from the text, explain the contrast between economic prosperity and political control, use cause-and-effect and concession language, and attribute the author's balanced conclusion.",
+    "checklist": [
+      "clear controlling idea answering how Singapore's story demonstrates both benefits and costs of colonial legacies",
+      "at least three accurate details from the original text (e.g., 1969 Raffles statue/selective embrace, emporium of the east, English law/language/location, opium trade contradiction, or detention without trial/press licensing)",
+      "explanation of the contrast between inherited economic advantages and illiberal political control",
+      "accurate cause-and-effect language (e.g., 'by exploiting', 'helped lay the foundations', 'resulting in') and concession markers (e.g., 'while', 'yet', 'unlike')",
+      "one explicit source-reporting phrase such as 'According to Source D' or 'Vasagar explains that'",
+      "accurate synthesis of the author's conclusion that colonialism cannot be seen simply as curse or blessing",
+      "no invented statistics, current partisan political judgments, or outside historical facts",
+      "author's thesis is presented objectively as a balanced analytical evaluation",
+      "logical organization, transitional coherence, and effective concluding sentence",
+      "strictly 100–140 words"
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "According to Source D, Singapore’s historical trajectory demonstrates that colonial legacies cannot be simplified into an absolute curse or blessing, but rather reflect a pragmatic balance of benefits and costs. On the one hand, the republic achieved immense prosperity through a selective embrace of colonial inheritances, exploiting English law, the global language, a strategic port location, and free-trading ideals originally envisioned by Stamford Raffles. On the other hand, this progress carries profound historical and political costs. Singapore's early foundations were partly laid by the colonial opium trade, a striking contradiction to its current death penalty for drug offenses. Furthermore, the state preserved illiberal colonial instruments—including detention without trial and restrictive press licensing—leaving civil opposition and political freedoms tightly circumscribed in the relentless pursuit of order and growth.",
+    "compareTip": "Review your draft against the checklist: confirm explicit source attribution, inclusion of both economic inheritances (law, language, Raffles' trade vision) and political costs (opium irony, illiberal control tools, circumscribed freedoms), effective concession language ('On the one hand... on the other hand...'), and a strict word count between 100 and 140 words."
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "instructions": "Review your final writing piece against these six criteria before submitting your work.",
+    "items": [
+      {
+        "text": "My writing is strictly based on the details in Source D without inventing outside historical statistics or political judgments."
+      },
+      {
+        "text": "I clearly explained how Singapore demonstrated a selective embrace of useful colonial institutions to achieve economic prosperity."
+      },
+      {
+        "text": "I cited at least three specific details from the reading (e.g., Raffles statue/1969, English law/language, opium contradiction, or tools of control like detention without trial)."
+      },
+      {
+        "text": "I used concession and contrast language (e.g., 'while', 'yet', 'on the one hand / on the other hand') to balance benefits against costs."
+      },
+      {
+        "text": "I used cautious source-reporting language (e.g., 'According to Source D', 'Vasagar points out') to attribute the text's claims."
+      },
+      {
+        "text": "My final paragraph is logically structured, explains why colonialism cannot be seen simply as curse or blessing, and contains strictly 100–140 words."
+      }
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 1,
+        "rationale": "Option B accurately encapsulates the central thesis of Source D: Singapore utilized selected colonial inheritances (English law, strategic trade location, global language) to foster development and wealth, but simultaneously retained illiberal instruments of political control, illustrating that colonialism is neither a pure blessing nor a simple curse."
+      },
+      "readingComprehension": [
+        {
+          "id": "rc1",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 states explicitly that the statue of Stamford Raffles unveiled in 1969 represents 'not rejection but selective embrace' of colonial history."
+        },
+        {
+          "id": "rc2",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 directly quotes Lee Kuan Yew stating that Raffles' vision of the city as 'the emporium of the east' still inspired Singapore's development."
+        },
+        {
+          "id": "rc3",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 explains that Singapore blended Raffles' free-trading ideals with collective politics and efficient governance, creating a visual expression where Victorian neoclassicism and skyscrapers share space with Taoist temples without losing Asian traditions."
+        },
+        {
+          "id": "rc4",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 explicitly identifies 'English law, the global language, a strategic location' as the colonial inheritances cited by Deng Xiaoping and Paul Kagame to build prosperity."
+        },
+        {
+          "id": "rc5",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 highlights the historical contradiction that the opium trade once formed the colony's economic backbone, yet modern Singapore imposes the death penalty on drug trafficking."
+        },
+        {
+          "id": "rc6",
+          "correctIndex": 1,
+          "rationale": "Paragraphs 4 and 5 identify detention without trial, restrictive press licensing, defamation laws, and the lingering cost of illiberal traditions adopted in pursuit of order and growth."
+        }
+      ]
+    },
+    "modelAnswer": {
+      "finalWritingTask": "According to Source D, Singapore’s historical trajectory demonstrates that colonial legacies cannot be simplified into an absolute curse or blessing, but rather reflect a pragmatic balance of benefits and costs. On the one hand, the republic achieved immense prosperity through a selective embrace of colonial inheritances, exploiting English law, the global language, a strategic port location, and free-trading ideals originally envisioned by Stamford Raffles. On the other hand, this progress carries profound historical and political costs. Singapore's early foundations were partly laid by the colonial opium trade, a striking contradiction to its current death penalty for drug offenses. Furthermore, the state preserved illiberal colonial instruments—including detention without trial and restrictive press licensing—leaving civil opposition and political freedoms tightly circumscribed in the relentless pursuit of order and growth."
+    },
+    "rubric": {
+      "title": "Analytical Writing Rubric (Grade 9 ESL)",
+      "categories": [
+        {
+          "name": "Content & Ideas",
+          "description": "Clear controlling idea explaining how Singapore's story demonstrates both benefits and costs of colonial legacies; comprehensive grasp of Source D's balanced thesis.",
+          "score4": "Develops a perceptive, nuanced controlling idea that thoroughly articulates both sides of colonial legacy—economic prosperity via selective embrace versus political control and historical contradictions.",
+          "score3": "States a clear controlling idea identifying both benefits and costs; accurately references the core thesis of the article.",
+          "score2": "Identifies only benefits or only costs, or presents a simplistic, one-sided evaluation without addressing the author's nuanced balance.",
+          "score1": "Lacks a controlling idea or introduces irrelevant outside political opinions not grounded in Source D."
+        },
+        {
+          "name": "Evidence Use",
+          "description": "Accuracy, relevance, and density of factual details cited directly from Source D without outside embellishment.",
+          "score4": "Seamlessly integrates at least three highly specific textual details (e.g., 1969 Raffles statue, English law/language/location, opium trade contradiction, detention without trial/press licensing).",
+          "score3": "Includes two or three accurate details from the reading with minor omissions in textual specificity.",
+          "score2": "Provides only one or two vague references with minimal textual precision.",
+          "score1": "Provides inaccurate evidence or relies on fabricated historical details absent from Source D."
+        },
+        {
+          "name": "Target Language/Structure",
+          "description": "Use of concession markers, contrast structures, cause-and-effect connectors, passive voice, and cautious attribution.",
+          "score4": "Expertly demonstrates sophisticated contrast/concession ('While...', 'Yet...', 'On the one hand... on the other hand...'), cause-and-effect connectors ('resulting in', 'helped lay foundations'), and flawless attribution.",
+          "score3": "Uses contrast and cause-and-effect transitions accurately with minor mechanical lapses; includes clear attribution.",
+          "score2": "Demonstrates inconsistent use of target connectors; weak or missing attribution of source claims.",
+          "score1": "Frequent grammatical breakdowns that impede academic clarity; completely lacks source attribution."
+        },
+        {
+          "name": "Organization",
+          "description": "Logical paragraph progression, cohesive transitions, thematic balance, and strong concluding synthesis.",
+          "score4": "Follows an exemplary logical progression from the controlling thesis to economic inheritances, shifts smoothly to political costs, and ends with a strong synthesis of the author's conclusion.",
+          "score3": "Logically structured with clear progression and appropriate transitions between benefits and limitations.",
+          "score2": "Somewhat disjointed structure; abrupt transitions between economic advantages and political restrictions.",
+          "score1": "Unconnected list of sentences lacking paragraph unity, flow, and coherence."
+        },
+        {
+          "name": "Accuracy",
+          "description": "Strict compliance with the 100–140 word count parameter, mechanical precision, spelling, and academic register.",
+          "score4": "Word count is strictly between 100 and 140 words; flawless punctuation, academic register, and spelling throughout.",
+          "score3": "Word count is between 95 and 145 words; minor punctuation errors that do not hinder academic comprehension.",
+          "score2": "Noticeably under or over length (80–94 or 146–160 words); noticeable mechanical or spelling errors.",
+          "score1": "Severe word count violation (<80 or >160 words); persistent errors that disrupt readability."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "1. Source D and Author Context",
+        "note": "The reading is labeled 'Source D:' and authored by Jeevan Vasagar, published in The Guardian in 2018. Vasagar is a respected international journalist who served as the Financial Times' Singapore correspondent. This piece offers a balanced, analytical journalistic perspective on how Singapore negotiated its colonial past compared to other post-colonial states."
+      },
+      {
+        "topic": "2. The Sir Stamford Raffles Monument (1969)",
+        "note": "Unlike many former colonies that tore down imperial monuments, Singapore unveiled a gleaming white polymarble statue of Sir Stamford Raffles in 1969, exactly four years after full independence in 1965. Point out to students that this deliberate decision symbolized 'not rejection but selective embrace'—recognizing Raffles as the commercial founder rather than an imperial oppressor to be erased."
+      },
+      {
+        "topic": "3. Lee Kuan Yew and 'The Emporium of the East'",
+        "note": "Founding Prime Minister Lee Kuan Yew recognized that Raffles’ original 1819 ambition to make Singapore 'the emporium of the east' was precisely what Singapore needed to survive economically as a tiny resource-scarce island. Instead of allowing post-colonial resentment to dictate policy, Lee utilized British commercial concepts to attract multinational corporations."
+      },
+      {
+        "topic": "4. The Blended City-State Model",
+        "note": "Singapore's model blended Raffles' free-trading ideals with collective politics and efficient governance. Help students analyze the physical metaphor: Taoist temples sharing space with Victorian neoclassicism and glass skyscrapers, symbolizing a society that harnessed Western legal and commercial methods without abandoning its Asian cultural identity."
+      },
+      {
+        "topic": "5. Admired Inheritances: Law, Language, and Location",
+        "note": "Paragraph 3 notes that world leaders such as Deng Xiaoping (China) and Paul Kagame (Rwanda) studied Singapore as an economic model. The core inheritances cited are English common law (which protects contracts and property rights), the English language (enabling global trade), and a strategic maritime location on the Malacca Strait."
+      },
+      {
+        "topic": "6. The Historical Opium Trade Contradiction",
+        "note": "A crucial nuance in Paragraph 3 is the historical contradiction: the British East India Company funded colonial Singapore largely through the state-run opium monopoly, which provided the revenue to build early civic infrastructure. Today, Singapore is globally famous for its zero-tolerance anti-drug stance, imposing the death penalty on drug trafficking."
+      },
+      {
+        "topic": "7. Colonial Tools of Political Control",
+        "note": "Paragraph 4 explains that the post-independence government did not just inherit commercial laws; it also retained British colonial emergency laws to maintain social order. These include detention without trial (Internal Security Act), restrictive press licensing, and defamation lawsuits used against political opposition figures."
+      },
+      {
+        "topic": "8. Circumscribed Political Freedoms",
+        "note": "The author notes that while Singapore holds regular, competitive multi-party elections, critics argue that political freedoms remain 'tightly circumscribed.' Teach students the meaning of 'circumscribed'—confined within strict legal and institutional boundaries set by the ruling People's Action Party (PAP)."
+      },
+      {
+        "topic": "9. Deconstructing 'Curse or Blessing'",
+        "note": "Paragraph 5 concludes that colonialism cannot be seen simply as curse or blessing. While Dan Snow (Source B) viewed colonial wealth as turning into a curse, and Mousseau (Source C) rejected the curse metaphor entirely, Vasagar (Source D) adopts a pragmatic synthesis: colonialism left tangible assets that enabled extreme wealth, alongside lasting illiberal governance traditions."
+      },
+      {
+        "topic": "10. The Lingering Cost of Illiberal Traditions",
+        "note": "The final sentence highlights 'the lingering cost of adopting illiberal traditions in the pursuit of order and growth.' Emphasize to students that rapid economic growth and public safety were prioritized over Western-style civil liberties, leaving a lasting trade-off that continues to spark debate."
+      },
+      {
+        "topic": "11. Differentiating Source D from Prior Sources (A, B, C)",
+        "note": "Ensure students keep Source D completely isolated from Source A, B, and C. In Source D, the focal country is Singapore, the author is Jeevan Vasagar, and the theme is the pragmatic exploitation of colonial legacies contrasted with illiberal state control. Do not allow students to mix Congolese or mining details into this lesson."
+      },
+      {
+        "topic": "12. Disciplinary Literacy and Objective Analysis",
+        "note": "Encourage students to evaluate the text objectively without taking extreme partisan stances. In academic English, learners must acknowledge how both perspectives—economic prosperity through open markets and civic restriction through inherited emergency laws—coexist within Singapore's historical development."
+      },
+      {
+        "topic": "13. Scaffold for G1 (Emerging ESL) Learners",
+        "note": "For G1 students, provide a clear two-column contrast frame: 'Colonial Benefits (English law, free trade, location, wealth)' vs. 'Colonial Costs (opium origin, press licensing, detention without trial, restricted freedom)'. Pre-teach the sentence stem 'On the one hand, ... On the other hand, ...'."
+      },
+      {
+        "topic": "14. Extension for G2 (Advanced ESL) Learners",
+        "note": "Challenge G2 learners to analyze how architectural descriptions (Taoist temples, Victorian neoclassicism, glass skyscrapers) function as visual symbolism for Singapore's hybrid identity, and explore how Vasagar uses concession markers ('While', 'Yet', 'Unlike') to construct balanced academic prose."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "Phase A: Opening and Lesson Goal",
+        "durationMinutes": 5,
+        "objective": "Introduce Source D by Jeevan Vasagar, establish the 90-minute comparative analysis goal, and clarify how Singapore's post-colonial path differed from other former colonies.",
+        "teacherActions": "Display the lesson title and the 2018 Guardian citation; outline the 90-minute timeline; introduce the central guiding question of how Singapore selectively embraced colonial legacies to balance prosperity against political control.",
+        "scriptEn": "Good morning, Grade 9 scholars. Today we examine Source D, titled 'Colonialism has benefits? Just look at Singapore', written by Jeevan Vasagar in 2018. Over the next 90 minutes, we will investigate why Singapore chose to preserve the statue of its colonial founder Stamford Raffles, how it exploited English law and global trade to build world-class prosperity, and what political costs—such as illiberal laws and restricted freedoms—complicate that success. By the end of class, you will write a balanced, evidence-based comparative paragraph of 100 to 140 words.",
+        "scriptKo": "좋은 아침입니다, 9학년 학생 여러분. 오늘 우리는 2018년 지반 바사가르가 가디언에 기고한 '식민주의에 이점이 있다고? 싱가포르를 보라'라는 Source D 글을 분석합니다. 앞으로 90분 동안, 우리는 왜 싱가포르가 식민지 개척자 스탬퍼드 래플스의 동상을 보존하기로 선택했는지, 영국 법률과 글로벌 무역을 활용해 어떻게 세계적인 번영을 일구었는지, 그리고 비자유주의적 법률과 제한된 자유라는 정치적 대가가 그 성공을 어떻게 복합적으로 만드는지 탐구할 것입니다. 수업이 끝날 때 여러분은 100~140단어의 균형 잡힌 비교 분석 문단을 작성하게 될 것입니다.",
+        "studentActions": "Open notebooks, record the lesson title and citation, examine the displayed lesson goal, and prepare to analyze the dual legacy of colonialism.",
+        "misconceptionFeedback": "If students believe all former colonies reacted to independence by destroying colonial monuments, point out that Singapore deliberately chose a unique path of pragmatic, selective embrace.",
+        "transition": "To activate our personal reasoning regarding symbols, legacies, and social order, let us explore the three Warm-up questions."
+      },
+      {
+        "phase": "Phase B: Warm-up and Conceptual Activation",
+        "durationMinutes": 10,
+        "objective": "Activate critical thinking about colonial monuments, mixed post-colonial legacies, and the ongoing tension between public order and political freedom.",
+        "teacherActions": "Facilitate paired student discussions on the three warm-up questions; invite representative student pairs to share their ideas using the structured sentence starters.",
+        "scriptEn": "Turn to your partner for Question 1: Why do some countries tear down colonial statues while others preserve them? Think about national identity and pragmatic memory. For Question 2: Can a country experience both economic benefits and social costs from its past? And for Question 3: How does a society balance rapid economic growth and stability with individual political freedoms?",
+        "scriptKo": "짝과 함께 1번 질문을 논의해 보세요: 왜 어떤 나라는 식민지 동상을 철거하고 다른 나라는 보존할까요? 국가적 정체성과 실용적 기억에 대해 생각해 보세요. 2번 질문: 한 국가가 과거로부터 경제적 혜택과 사회적 대가를 동시에 겪을 수 있을까요? 그리고 3번 질문: 사회는 빠른 경제 성장 및 안정과 개인의 정치적 자유를 어떻게 균형 있게 조율할까요?",
+        "studentActions": "Discuss each prompt in pairs, record notes using the sentence starters, and share perspectives during whole-class debriefing.",
+        "misconceptionFeedback": "Remind students that analyzing the benefits and costs of colonial systems does not mean endorsing imperialism; it means rigorously evaluating institutional cause and effect.",
+        "transition": "Now let us master the 10 academic vocabulary terms that unlock the author's nuanced political and economic argument."
+      },
+      {
+        "phase": "Phase C: Vocabulary in Context",
+        "durationMinutes": 12,
+        "objective": "Master the 10 key terms from Source D: imperial rule, colonial monument, selective embrace, pragmatic, free-trading, collective politics, colonial inheritances, prosperity, circumscribed, and illiberal.",
+        "teacherActions": "Present the 10 vocabulary items; model pronunciation; explain English definitions, Korean equivalents, and contextual usage; highlight how terms like 'selective embrace' and 'circumscribed' define the author's thesis.",
+        "scriptEn": "Look closely at word 3, 'selective embrace'—this is the foundational concept of the entire article. Singapore did not accept everything, nor did it reject everything; it chose what was commercially useful. Notice word 4, 'pragmatic'—acting based on practical results rather than ideology. And pay special attention to word 9, 'circumscribed', and word 10, 'illiberal'—these terms describe the real political constraints that accompany Singapore's economic order.",
+        "scriptKo": "3번 어구 'selective embrace(선별적 수용)'를 주목하세요. 이것이 기사 전체를 관통하는 핵심 개념입니다. 싱가포르는 모든 것을 받아들이지도, 모든 것을 거부하지도 않았으며 상업적으로 유용한 것을 실리적으로 선택했습니다. 4번 'pragmatic(실용적인)'은 이념보다 실제적 결과에 기반해 행동함을 뜻합니다. 그리고 9번 'circumscribed(제한된)'와 10번 'illiberal(비자유주의적인)'에 주목하세요. 이 단어들은 싱가포르의 경제적 질서에 수반된 실질적인 정치적 제약을 설명합니다.",
+        "studentActions": "Read words and definitions aloud, annotate their vocabulary charts with Korean meanings, and identify where each term appears in the reading.",
+        "misconceptionFeedback": "Clarify that 'illiberal' does not simply mean 'bad'; in political philosophy, it specifically denotes restrictions on individual civil liberties, dissent, and political opposition.",
+        "transition": "With these precise terms in hand, let us read the complete text of Source D and identify its controlling thesis."
+      },
+      {
+        "phase": "Phase D: Source Reading & Main Idea",
+        "durationMinutes": 10,
+        "objective": "Read all five paragraphs of Source D with close fidelity, analyze the central argument, and answer the Main Idea question.",
+        "teacherActions": "Conduct structured reading of Source D; guide students through each paragraph's core contribution; present the Main Idea MCQ and discuss option rationales.",
+        "scriptEn": "Follow along as we read Source D. Notice how Paragraph 1 introduces the Raffles statue and the idea of selective embrace. Paragraph 2 explains Lee Kuan Yew's pragmatic model blending free trade with collective governance. Paragraph 3 highlights global admirers and the opium trade contradiction. Paragraph 4 details colonial tools of control and circumscribed freedoms. Finally, Paragraph 5 concludes that colonialism is neither a simple curse nor a blessing. Now answer the Main Idea question: Which statement best captures this dual legacy?",
+        "scriptKo": "Source D 본문을 함께 읽어가겠습니다. 1문단이 래플스 동상과 선별적 수용의 개념을 어떻게 도입하는지 보세요. 2문단은 자유 무역과 집단적 통치를 결합한 리콴유의 실용주의 모델을 설명합니다. 3문단은 세계적 찬사와 아편 무역의 역사적 모순을 조명합니다. 4문단은 식민지적 통제 도구와 제한된 정치적 자유를 구체적으로 다룹니다. 마지막으로 5문단은 식민주의가 단순한 저주나 축복일 수 없다고 결론짓습니다. 이제 요지 질문에 답해 보세요: 어느 선지가 이러한 이중적 유산을 가장 정확히 포착하고 있나요?",
+        "studentActions": "Track the reading, underline key claims in each paragraph, select the correct Main Idea option, and evaluate feedback explanations.",
+        "misconceptionFeedback": "If students choose Option A or Option C, explain that both are extreme and inaccurate: Singapore neither rejected all heritage nor experienced an unmixed blessing.",
+        "transition": "Let us test our close textual comprehension through the six detailed Reading Comprehension questions."
+      },
+      {
+        "phase": "Phase E: Reading Comprehension & Evidence",
+        "durationMinutes": 18,
+        "objective": "Complete the 6 Reading Comprehension MCQs and write 3 Evidence-from-Text responses, grounding every answer strictly in Source D.",
+        "teacherActions": "Monitor student work across the 6 comprehension questions and 3 evidence prompts; guide students to cite paragraph references; model how to use 'Compare with Model' effectively.",
+        "scriptEn": "Complete questions RC1 through RC6 independently. Notice how each question targets a specific paragraph—from the 1969 Raffles statue to Lee Kuan Yew's vision, world admirers like Deng Xiaoping, the opium trade contradiction, and colonial control tools. Then proceed to the three Evidence prompts. Be sure to explain why the monument represents selective embrace, how English law and language supported prosperity, and what political costs complicate that positive narrative.",
+        "scriptKo": "독해 문제 RC1부터 RC6까지 개별적으로 풀어보세요. 각 문항이 1969년 래플스 동상부터 리콴유의 비전, 덩샤오핑과 같은 해외 지도자들의 평가, 아편 무역의 모순, 그리고 식민지적 통제 도구에 이르기까지 본문의 특정 단락을 정밀하게 다루고 있음에 주목하세요. 그 다음 3개의 본문 근거 서술형 문항을 작성하세요. 동상이 왜 선별적 수용을 나타내는지, 영미법과 영어가 어떻게 번영을 이끌었는지, 그리고 어떤 정치적 대가가 긍정적 서사를 복합적으로 만드는지 서술하세요.",
+        "studentActions": "Answer MCQs, draft responses in the textareas, monitor word counts, and compare their answers against the model answers and tips.",
+        "misconceptionFeedback": "Ensure students include both parts of the opium contradiction: that it generated colonial wealth in the 19th century, yet Singapore now imposes capital punishment for drug trafficking.",
+        "transition": "Next, let us examine the rhetorical and linguistic patterns that make this academic analysis so powerful."
+      },
+      {
+        "phase": "Phase F: Language Focus & Writing Practice",
+        "durationMinutes": 12,
+        "objective": "Analyze discourse structures including contrast, concession, cause/effect, passive voice, and modality; complete the 4 Writing Practice exercises.",
+        "teacherActions": "Explain the 6 language patterns; analyze how contrast clauses ('While...', 'Yet...') prevent one-sided claims; guide students through the 4 writing practice exercises.",
+        "scriptEn": "In academic writing, we use concession and contrast markers like 'While' and 'Yet' to hold two competing realities in balance. Notice how Vasagar writes: 'While the nation holds elections, critics argue that political freedoms remain tightly circumscribed.' Now apply this in your Writing Practice: craft sentences defining selective embrace, linking colonial inheritances to prosperity, articulating the opium contradiction, and qualifying political freedom with 'circumscribed' and 'illiberal.'",
+        "scriptKo": "학술적 글쓰기에서 우리는 'While'과 'Yet' 같은 양보와 대조 표현을 활용해 서로 충돌하는 두 가지 현실을 균형 있게 다룹니다. 바사가르 작가가 '비록 선거를 치르지만, 비판자들은 정치적 자유가 여전히 엄격히 제한되어 있다고 주장한다'라고 쓴 방식을 보세요. 이제 이를 작문 연습에 적용해 봅시다: 선별적 수용을 설명하고, 식민지 유산을 번영과 연결하며, 아편 모순을 표현하고, 'circumscribed'와 'illiberal'을 사용해 정치적 자유의 한계를 규정해 보세요.",
+        "studentActions": "Study language patterns and examples; write 4 guided practice sentences; compare work with model sentences.",
+        "misconceptionFeedback": "Remind students to include formal source attribution (e.g., 'According to Source D,') rather than presenting claims as anonymous universal facts.",
+        "transition": "Now we synthesize our analysis into the culminating 100–140 word final writing task."
+      },
+      {
+        "phase": "Phase G: Final Writing Task",
+        "durationMinutes": 18,
+        "objective": "Draft, refine, and verify a 100–140 word evidence-based comparative explanation paragraph answering the prompt.",
+        "teacherActions": "Display the final writing prompt and 10-point checklist; actively circulate to check word counts, evidence citations, contrast language, and attribution; provide targeted scaffolding.",
+        "scriptEn": "Your task: According to Source D, how does Singapore’s story show both benefits and costs of colonial legacies? Write an explanation paragraph between 100 and 140 words. You must include at least three specific textual details—such as the Raffles monument, English law and language, the opium contradiction, or colonial tools of control. Balance economic prosperity against political limitations using contrast connectors, and attribute the author's conclusion. Keep an eye on your live word counter!",
+        "scriptKo": "여러분의 과제: Source D에 따르면, 싱가포르의 이야기는 식민지 유산의 이점과 대가를 어떻게 동시에 보여주고 있나요? 100~140단어 사이의 설명 문단을 작성하세요. 래플스 동상, 영미법과 영어, 아편 모순, 또는 식민지적 통제 도구와 같은 본문의 구체적 근거를 3개 이상 반드시 포함해야 합니다. 대조 연결어를 사용해 경제적 번영과 정치적 한계의 균형을 맞추고, 작가의 결론을 인용하세요. 실시간 단어 수 계산기를 주시하세요!",
+        "studentActions": "Draft final paragraphs, verify against the checklist, check word counts, use 'Check Writing Rules', and compare with the exemplar model.",
+        "misconceptionFeedback": "If a student's paragraph exceeds 140 words, help them eliminate redundant adjectives or combine sentences using concise participial phrases.",
+        "transition": "Let us conclude by completing our Self-Check and submitting our analytical work."
+      },
+      {
+        "phase": "Phase H: Self-Check, Submission & Wrap-up",
+        "durationMinutes": 5,
+        "objective": "Verify completion across all 6 Self-Check criteria, confirm student submission, and summarize the key historical lesson of Source D.",
+        "teacherActions": "Lead students through the 6 Self-Check items; confirm that responses are safely stored, praise precise textual analysis, and synthesize how Source D reframes colonial legacies.",
+        "scriptEn": "Review and check off each of the 6 Self-Check criteria. Did you stay strictly within Source D? Did you explain selective embrace? Did you balance prosperity with political tools of control? Once all six boxes are checked, click Submit. Today you learned that historical analysis requires evaluating complex, mixed legacies rather than relying on simplistic slogans. Outstanding scholarship today, Grade 9.",
+        "scriptKo": "6개의 자체 점검 기준을 하나씩 확인하며 체크하세요. 철저히 Source D에만 근거했나요? 선별적 수용을 명확히 설명했나요? 번영과 정치적 통제 도구의 균형을 맞추었나요? 6개 항목을 모두 점검했다면 제출 버튼을 누르세요. 오늘 여러분은 역사적 분석이란 단순한 구호에 의존하는 것이 아니라 복합적이고 다면적인 유산을 엄밀하게 평가하는 것임을 배웠습니다. 탁월한 학술적 탐구였습니다, 9학년 여러분.",
+        "studentActions": "Check all 6 Self-Check items, submit work, verify local storage status, and conclude the lesson.",
+        "misconceptionFeedback": "Ensure no student leaves before confirming their draft meets the strict 100–140 word parameter.",
+        "transition": "Dismiss class and prepare teacher review based on the analytical writing rubric."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "option": "Option 1: Historical Monument & Selective Embrace Hook",
+        "english": "Good morning, scholars. / Look at the statue on your screens. / While many former colonies around the world / tore down or renamed imperial monuments, / Singapore chose a startlingly different path. / In 1969, four years after independence, / it unveiled a gleaming statue / of British colonizer Stamford Raffles. / Why? / Because as our author Jeevan Vasagar reveals, / Singapore chose not rejection / but selective embrace. / Today we will explore this unique story / of pragmatic success / and its lingering political costs.",
+        "directKorean": "좋은 아침입니다, 학생 여러분. / 화면에 뜬 동상을 보세요. / 전 세계의 많은 옛 식민지들이 / 제국의 기념비를 철거하거나 이름을 바꾼 반면에, / 싱가포르는 놀라울 정도로 다른 길을 선택했습니다. / 독립 4년 후인 1969년에, / 싱가포르는 눈부신 동상을 제막했습니다 / 영국의 식민지 개척자 스탬퍼드 래플스의. / 왜였을까요? / 우리의 작가 지반 바사가르가 밝히듯이, / 싱가포르는 거부가 아니라 / 선별적 수용을 선택했기 때문입니다. / 오늘 우리는 이 독특한 이야기를 탐구할 것입니다 / 실용적 성공과 / 그 지속되는 정치적 대가의.",
+        "naturalKorean": "좋은 아침입니다, 학생 여러분. 화면에 있는 동상을 보세요. 전 세계 수많은 옛 식민지들이 제국의 기념비를 철거하거나 명칭을 바꾸었던 반면, 싱가포르는 놀라울 정도로 다른 길을 걸었습니다. 독립한 지 4년이 지난 1969년, 영국 식민지 개척자 스탬퍼드 래플스의 눈부신 동상을 강변에 세운 것입니다. 왜 그랬을까요? 작가 지반 바사가르가 밝히듯, 싱가포르는 식민지 과거를 맹목적으로 거부하는 대신 '선별적 수용'을 선택했기 때문입니다. 오늘 우리는 이 실용주의적 성공과 그 이면에 남겨진 정치적 대가를 깊이 있게 살펴볼 것입니다.",
+        "purpose": "Hooks student interest through the visual and historical paradox of erecting a colonial statue after independence."
+      },
+      {
+        "option": "Option 2: Critical Disciplinary & Balanced Inquiry Hook",
+        "english": "Welcome, class. / In Grade 9 history and English, / our goal is to move beyond black-and-white thinking. / When people ask, 'Was colonialism good or bad?', / simple answers always fail. / Today’s text is Source D, / written by Jeevan Vasagar for The Guardian. / Vasagar examines Singapore as a nation / that turned colonial law, language, and trade / into extreme economic prosperity. / Yet he also shows / how that same state adopted colonial tools / to circumscribe political freedom. / Our challenge today / is to write a nuanced analysis / that captures both sides.",
+        "directKorean": "환영합니다, 학생 여러분. / 9학년 역사와 영어 수업에서, / 우리의 목표는 흑백논리를 넘어 발전하는 것입니다. / 사람들이 '식민주의는 좋은 것이었나요 나쁜 것이었나요?'라고 물을 때, / 단순한 답은 언제나 실패합니다. / 오늘의 텍스트는 Source D입니다, / 가디언에 지반 바사가르가 기고한. / 바사가르는 싱가포르를 한 국가로 고찰합니다 / 식민지의 법률, 언어, 무역을 / 극단적인 경제적 번영으로 탈바꿈시킨. / 그러나 그는 또한 보여줍니다 / 그 동일한 국가가 어떻게 식민지적 도구를 채택했는지를 / 정치적 자유를 제한하기 위해. / 오늘 우리의 도전 과제는 / 미묘한 뉘앙스를 담은 분석문을 쓰는 것입니다 / 양쪽 측면을 모두 담아내는.",
+        "naturalKorean": "환영합니다, 여러분. 9학년 역사와 영어 수업에서 우리가 지향하는 목표는 단순한 흑백논리를 넘어서는 것입니다. 흔히 '식민주의는 유익했는가, 해로웠는가?'라는 질문을 던지지만, 단순한 답변은 역사적 진실을 담아내지 못합니다. 오늘 우리가 읽을 글은 지반 바사가르가 가디언에 기고한 Source D입니다. 바사가르는 식민지의 법률과 언어, 무역 유산을 세계적인 경제 번영으로 전환시킨 싱가포르를 분석합니다. 동시에 그 국가가 정치적 자유를 억압하기 위해 어떻게 식민지 통제 도구를 계승했는지도 명확히 보여줍니다. 오늘 우리는 이 양면성을 정밀하게 포착하는 균형 잡힌 분석문을 완성할 것입니다.",
+        "purpose": "Emphasizes critical thinking, disciplinary literacy, and nuanced academic perspective over simplistic moralizing."
+      },
+      {
+        "option": "Option 3: Discourse & Contrast Language Hook",
+        "english": "Hello, scholars. / Look at the title of today's source: / 'Colonialism has benefits? Just look at Singapore.' / Notice the question mark. / The author is prompting us to question easy assumptions. / In this lesson, / we will master the language of contrast and concession. / We will learn to say, / 'While Singapore achieved remarkable wealth, / it also preserved illiberal laws.' / That ability to balance competing truths / is the hallmark of sophisticated academic thought. / Let us begin.",
+        "directKorean": "안녕하세요, 학생 여러분. / 오늘 우리가 다룰 글의 제목을 보세요: / '식민주의에 이점이 있다고? 싱가포르를 보라.' / 물음표에 주목하세요. / 작가는 우리에게 안이한 가정을 의심해 보도록 촉구하고 있습니다. / 이번 수업에서, / 우리는 대조와 양보의 언어를 마스터할 것입니다. / 우리는 이렇게 표현하는 법을 배울 것입니다, / '비록 싱가포르가 놀라운 부를 일구었지만, / 비자유주의적인 법률 역시 보존했다.' / 대립하는 진실들의 균형을 맞추는 그 능력이 / 정교한 학술적 사고의 특징입니다. / 시작해 봅시다.",
+        "naturalKorean": "안녕하세요, 학생 여러분. 오늘 글의 제목을 보세요. '식민주의에 이점이 있다고? 싱가포르를 보라.' 제목 속 물음표가 보이시나요? 작가는 손쉬운 통념에 의문을 제기해 보라고 우리를 자극하고 있습니다. 오늘 수업에서 우리는 대조와 양보의 언어를 익힐 것입니다. '싱가포르가 눈부신 경제적 부를 이룩한 반면, 동시에 비자유주의적 법률을 보존했다'와 같이 서술하는 법을 배울 것입니다. 상충하는 진실들 사이에서 균형을 잡는 능력이 바로 고도화된 학술적 사고의 정수입니다. 함께 시작해 봅시다.",
+        "purpose": "Focuses on linguistic register, rhetorical questioning, and the mastery of concession structures."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "focus": "Colonial Monuments & Symbolic Memory",
+        "teacherTalk": "Guide students to think about why statues provoke fierce public debate. Contrast countries that demolished statues of colonial figures with Singapore, which actively preserved Raffles. Ask: Why might a newly independent nation keep a statue of its colonizer? Introduce the idea of economic pragmatism and continuous commercial identity.",
+        "sampleStudentAnswer": "Societies often decide to keep or remove monuments based on whether they view those statues as symbols of past oppression or as reminders of historical origins that contributed to their modern development.",
+        "followUpQuestion": "If keeping a monument attracts international investors and honors trading roots, does that mean the society approves of colonial subjugation?"
+      },
+      "q2": {
+        "focus": "Mixed Post-Colonial Legacies",
+        "teacherTalk": "Encourage students to move past binary 'all good' or 'all bad' conclusions. Discuss how infrastructure, legal frameworks, and global languages can provide economic utility, while political subjugation, resource extraction, and authoritarian laws represent severe costs.",
+        "sampleStudentAnswer": "Colonial legacies are mixed because inherited institutions like legal codes and transportation networks can aid economic growth, even though foreign rule originally brought exploitation and political subjugation.",
+        "followUpQuestion": "Can a country successfully separate the useful institutional tools left by colonizers from the oppressive political methods they also introduced?"
+      },
+      "q3": {
+        "focus": "Balancing Order/Growth vs. Political Freedom",
+        "teacherTalk": "Prompt students to consider governance trade-offs. Point out that some post-colonial leaders argued that rapid industrialization required strict social order, leading to restrictions on dissent. Ask whether economic prosperity justifies limits on individual civil liberties.",
+        "sampleStudentAnswer": "Balancing growth with freedom is difficult because governments often argue that strict laws and social order are necessary to maintain economic stability, even if it restricts individual rights.",
+        "followUpQuestion": "At what point does the pursuit of economic order and growth cross the line into unacceptable authoritarian control?"
+      }
+    },
+    "sourceReadingGuide": {
+      "sourceLayout": "Source D consists of exactly five cohesive paragraphs. Paragraph 1 introduces the Raffles monument and selective embrace. Paragraph 2 details Lee Kuan Yew's vision and the blended urban model. Paragraph 3 covers global admirers, English law, and the opium contradiction. Paragraph 4 details colonial control tools and circumscribed freedoms. Paragraph 5 synthesizes the core argument that colonialism is neither pure curse nor blessing, weighing extreme wealth against illiberal traditions.",
+      "citationGuidance": "Jeevan Vasagar, ‘Colonialism has benefits? Just look at Singapore’, The Guardian, 2018. Note that The Guardian provides analytical, center-left journalistic commentary, offering a balanced critique of economic modernization alongside civil rights concerns.",
+      "paragraphBoundaries": "Preserve the original five-paragraph structure strictly without introducing artificial headings or summarizing bullets in the student text presentation.",
+      "historicalSequence": "1819 Stamford Raffles landing -> Colonial opium trade monopoly -> 1965 Singapore Independence -> 1969 Raffles statue unveiled -> Deng Xiaoping / Paul Kagame modernization influence -> Present-day economic wealth vs. illiberal legal controls.",
+      "resourceCauseEffectChain": "Preservation of Raffles' Free-Trade Vision -> Blending English Law, Language, and Strategic Location with Collective Politics -> High Economic Prosperity -> Retention of Colonial Control Tools (Detention without Trial, Press Licensing) -> Balanced Synthesis: Extreme Wealth vs. Illiberal Cost.",
+      "finalMetaphor": "The author concludes that colonialism 'cannot be seen simply as curse or blessing.' Vasagar rejects simplistic moral categories, presenting Singapore as a pragmatic hybrid that maximized institutional inheritances while carrying the persistent burden of authoritarian political traditions."
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "imperial rule",
+        "colonial monument",
+        "selective embrace",
+        "pragmatic",
+        "free-trading",
+        "collective politics",
+        "colonial inheritances",
+        "prosperity",
+        "circumscribed",
+        "illiberal"
+      ],
+      "paradoxStructures": [
+        "While Singapore achieved world-class economic prosperity, its political freedoms remain tightly circumscribed.",
+        "Although the colonial opium trade once funded the state's foundations, modern Singapore imposes capital punishment on drug trafficking.",
+        "Singapore represents not a rejection of imperial heritage, but a selective embrace of its practical tools."
+      ],
+      "causeEffectLanguage": [
+        "by exploiting the infrastructure and institutions left behind",
+        "helped lay the foundations for a state that now imposes the death penalty",
+        "blended free-trading ideals with efficient governance, resulting in extraordinary prosperity",
+        "consequently, the republic became one of the world's richest states while retaining illiberal traditions"
+      ],
+      "passiveVoiceFormulas": [
+        "is said to have landed",
+        "was unveiled in 1969, four years after independence",
+        "can be used to build prosperity",
+        "cannot be seen simply as curse or blessing",
+        "political freedoms remain tightly circumscribed"
+      ],
+      "chronologicalSequencing": [
+        "Unveiled in 1969, four years after achieving independence...",
+        "During its early development under Lee Kuan Yew...",
+        "Historically, the opium trade formed the colony's backbone, whereas today...",
+        "In the decades following independence, leaders such as Deng Xiaoping cited Singapore..."
+      ],
+      "contrastMarkers": [
+        "While many former colonies have erased imperial symbols, Singapore chose a different path...",
+        "Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach...",
+        "Yet the legacy is not purely positive...",
+        "While the nation holds regular elections, critics argue that freedoms remain circumscribed...",
+        "On the one hand... On the other hand..."
+      ],
+      "attributionPhrases": [
+        "According to Source D,",
+        "Jeevan Vasagar explains that,",
+        "The author demonstrates how,",
+        "As reported in The Guardian,"
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence: State how Source D presents Singapore as evidence that colonial legacies are neither a pure curse nor blessing, but a mixture of economic benefits and political costs.",
+        "2. Economic Benefits: Detail the 1969 Raffles statue, 'selective embrace', and how English law, language, and free-trade ideals generated world-class prosperity.",
+        "3. Historical Contradiction: Mention the opium trade funding early foundations versus the modern death penalty for narcotics.",
+        "4. Political Costs: Explain the retention of colonial control tools (detention without trial, press licensing) and circumscribed freedoms.",
+        "5. Concluding Synthesis: Summarize the author's final claim regarding the lingering cost of illiberal traditions in pursuit of order and growth."
+      ],
+      "sentenceStarters": [
+        "According to Source D, Singapore's post-colonial trajectory illustrates that colonial legacies...",
+        "Unlike other former colonies that erased imperial symbols, Singapore demonstrated a selective embrace by...",
+        "By exploiting valuable colonial inheritances such as English law and a strategic trading location, the nation...",
+        "However, this economic success is complicated by historical contradictions, notably...",
+        "Furthermore, the government continues to employ colonial tools of control, meaning that...",
+        "Consequently, the author concludes that while Singapore achieved extraordinary wealth, it also reflects..."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "error": "Singapore is totally good because British gave them money and freedom.",
+          "correction": "According to Source D, Singapore's success was not an unmixed blessing; while it gained prosperity through inherited British institutions, it preserved illiberal laws that restricted political freedom.",
+          "explanation": "Korean learners often assume high GDP implies complete democratic liberty. In Source D, Vasagar emphasizes that political freedoms remain tightly circumscribed by colonial-era laws."
+        },
+        {
+          "error": "Raffles statue was made because Singapore people loved British king.",
+          "correction": "Unveiled four years after independence, the statue of Stamford Raffles represented a pragmatic selective embrace of free-trading ideals rather than imperial nostalgia.",
+          "explanation": "Clarify that preserving Raffles was a calculated, pragmatic economic policy by Lee Kuan Yew to attract international commerce, not emotional devotion to the British Empire."
+        },
+        {
+          "error": "Opium was bad so Singapore killed all drug users right away in colonial times.",
+          "correction": "Although the colonial government historically relied on the opium trade as its economic backbone, modern Singapore imposes the death penalty on drug trafficking.",
+          "explanation": "Ensure the temporal contrast is accurate: the colonial administration profited from the opium trade, whereas the modern post-colonial state enforces capital punishment for drugs."
+        },
+        {
+          "error": "Singapore have elections so everyone is completely free to protest.",
+          "correction": "While the nation holds elections, critics argue that political freedoms remain tightly circumscribed through detention without trial and restrictive press licensing.",
+          "explanation": "Use advanced concessive framing ('While...') and precise vocabulary ('circumscribed', 'press licensing') to capture the nuance between holding elections and restricting opposition."
+        }
+      ],
+      "g1Scaffold": "Provide a structured paragraph frame with clear signposts: 'According to Source D, Singapore shows both benefits and costs. First, it used colonial inheritances such as English law and trade to build prosperity. However, it also faced contradictions like the opium trade. Finally, it kept colonial control tools, so political freedoms remain circumscribed.'",
+      "g2Extension": "Prompt advanced students to analyze the concept of 'illiberal democracy' implied in Paragraph 4—evaluating how regular electoral mechanisms can operate alongside restrictive colonial security statutes, and exploring how Vasagar uses balanced syntax to avoid simplistic ideological endorsements.",
+      "teacherCorrectionPriorities": [
+        "Strictly enforce the 100–140 word parameter (penalize drafts under 100 or over 140 words).",
+        "Verify explicit source attribution ('According to Source D' or 'Vasagar points out').",
+        "Ensure at least three distinct factual details are cited (e.g., Raffles 1969, English law/language, opium irony, detention without trial).",
+        "Check that both economic prosperity and illiberal political costs are clearly articulated.",
+        "Confirm that no outside facts or irrelevant opinions are introduced."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source D consists of exactly five paragraphs and 16 sentences. Below is the complete sentence-by-sentence analytical guide featuring slash-chunked reading, direct and natural Korean translations, must-know vocabulary and grammar breakdowns, Feynman-style pedagogical explanations, and classroom teaching transcripts.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "While many former colonies have erased or renamed symbols of imperial rule, Singapore has chosen a different path.",
+          "chunkReading": "While many former colonies / have erased or renamed / symbols of imperial rule, / Singapore has chosen / a different path.",
+          "directKorean": "많은 이전 식민지들이 / 지우거나 이름을 바꾼 반면에 / 제국 통치의 상징들을, / 싱가포르는 선택해 왔습니다 / 다른 경로를.",
+          "naturalKorean": "많은 옛 식민지들이 제국 통치의 상징들을 없애거나 개명했던 반면, 싱가포르는 사뭇 다른 길을 선택했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "symbols of imperial rule",
+              "meaning": "제국 통치의 상징물들",
+              "use": "noun phrase referring to monuments, street names, and institutions commemorating imperial rule",
+              "example": "The newly liberated capital removed various statues that were seen as symbols of imperial rule."
+            },
+            {
+              "chunk": "chosen a different path",
+              "meaning": "다른 길(방침)을 택했다",
+              "use": "idiomatic verb phrase denoting an alternative policy or historical approach",
+              "example": "Rather than closing its markets, the small island republic chose a different path toward development."
+            }
+          ],
+          "mustKnowGrammar": "Subordinating concessive clause introduced by 'While' with present perfect tense ('have erased or renamed'); main clause contrasting Singapore's deliberate historical choice ('has chosen a different path').",
+          "feynmanExplanation": "Imagine everyone else at school decided to erase their old messy drawings from their notebooks, / but one student decided to keep a neat sketch / because it gave them a great idea for their new art project. / That is how Singapore treated its colonial past differently from other nations.",
+          "feynmanExplanationKo": "학교의 다른 모든 학생들이 공책에서 지저분한 옛날 그림을 다 지워버리기로 했는데, / 한 학생만은 새로운 미술 과제에 좋은 아이디어를 준다며 / 깔끔한 스케치 하나를 그대로 남겨두기로 결정했다고 상상해 보세요. / 싱가포르가 다른 나라들과 달리 식민지 과거를 다룬 방식이 바로 이와 같았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the opening word 'While'—it sets up an immediate contrast between Singapore and other post-colonial states.",
+              "korean": "도입부 단어 'While'에 주목하세요. 싱가포르와 다른 탈식민 국가들 사이의 즉각적인 대조를 설정합니다."
+            },
+            {
+              "english": "What did other colonies do? They erased or renamed symbols of imperial rule.",
+              "korean": "다른 식민지들은 무엇을 했나요? 제국 통치의 상징물들을 없애거나 개명했습니다."
+            },
+            {
+              "english": "And what did Singapore do? It chose a different path.",
+              "korean": "그렇다면 싱가포르는 무엇을 했나요? 다른 길을 선택했습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "The city’s most prominent colonial monument, a gleaming white statue of Sir Stamford Raffles, still stands on the riverside where he is said to have landed.",
+          "chunkReading": "The city’s most prominent colonial monument, / a gleaming white statue / of Sir Stamford Raffles, / still stands on the riverside / where he is said / to have landed.",
+          "directKorean": "그 도시의 가장 눈에 띄는 식민지 기념비인, / 눈부시게 하얀 동상은 / 스탬퍼드 래플스 경의, / 여전히 강변에 서 있습니다 / 그가 말했다고 전해지는 곳에 / 상륙했다고.",
+          "naturalKorean": "그 도시에서 가장 두드러진 식민지 기념비인 스탬퍼드 래플스 경의 눈부신 백색 동상은, 그가 처음 상륙했다고 전해지는 강변에 지금도 여전히 우뚝 서 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "prominent colonial monument",
+              "meaning": "두드러진 식민지 기념비",
+              "use": "noun phrase describing a highly noticeable public historic statue",
+              "example": "The prominent colonial monument in the public square attracted historians and tourists alike."
+            },
+            {
+              "chunk": "where he is said to have landed",
+              "meaning": "그가 상륙했다고 전해지는 곳",
+              "use": "relative clause with passive reporting verb and perfect infinitive describing a traditional historical location",
+              "example": "The memorial marks the rocky bay where the explorer is said to have landed centuries ago."
+            }
+          ],
+          "mustKnowGrammar": "Subject noun phrase followed by an appositive noun phrase ('a gleaming white statue of Sir Stamford Raffles'); adverb 'still' modifying the intransitive verb 'stands'; relative locative clause introduced by 'where' featuring a passive reporting construction with perfect infinitive ('is said to have landed').",
+          "feynmanExplanation": "Right by the river where the British founder first stepped off his ship, / there is a bright white statue of him standing tall today. / Most countries would have taken it down, / but Singapore kept it right in the center of the city.",
+          "feynmanExplanationKo": "영국인 개척자가 배에서 처음 발을 내디뎠다고 전해지는 바로 그 강변에, / 오늘날에도 그의 밝은 흰색 동상이 우뚝 서 있습니다. / 대부분의 나라라면 벌써 철거했을 텐데, / 싱가포르는 도시의 가장 중심부에 그대로 남겨두었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the visual description: 'a gleaming white statue of Sir Stamford Raffles.'",
+              "korean": "시각적 묘사를 보세요: '스탬퍼드 래플스 경의 눈부시게 하얀 동상.'"
+            },
+            {
+              "english": "Notice the grammar at the end: 'where he is said to have landed.' Why use 'is said to'? Because it is historical tradition, not an indisputable physical coordinate.",
+              "korean": "끝부분의 문법에 주목하세요: 'where he is said to have landed.' 왜 'is said to'를 썼을까요? 반박할 수 없는 물리적 좌표라기보다는 역사적 전승이기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "Unveiled in 1969, four years after independence, it represents not rejection but selective embrace.",
+          "chunkReading": "Unveiled in 1969, / four years after independence, / it represents / not rejection / but selective embrace.",
+          "directKorean": "1969년에 제막되어, / 독립 4년 후인, / 그것은 나타냅니다 / 거부가 아니라 / 선별적 수용을.",
+          "naturalKorean": "독립 4년 만인 1969년에 제막된 이 동상은 거부가 아닌 '선별적 수용'을 상징합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Unveiled in 1969",
+              "meaning": "1969년에 제막된",
+              "use": "past participial modifier indicating the historical year a public monument was formally revealed",
+              "example": "Unveiled in 1969, the commemorative bronze plaque celebrated the town's founding century."
+            },
+            {
+              "chunk": "not rejection but selective embrace",
+              "meaning": "거부가 아니라 선별적 수용",
+              "use": "parallel correlative construction ('not A but B') contrasting total denial with pragmatic integration",
+              "example": "The new curriculum represented not rejection of traditional literature but selective embrace of modern genres."
+            }
+          ],
+          "mustKnowGrammar": "Fronted past-participial clause ('Unveiled in 1969'); parenthetical time appositive ('four years after independence'); correlative conjunction structure 'not A but B' ('not rejection but selective embrace').",
+          "feynmanExplanation": "Singapore did not erect this statue during colonial times—they put it up four years AFTER becoming independent! / That proved they were not trying to forget the past, / but choosing to keep the parts that could help them move forward.",
+          "feynmanExplanationKo": "싱가포르는 식민지 시절에 이 동상을 세운 것이 아닙니다. 독립한 지 4년 뒤에 직접 세웠습니다! / 이는 과거를 무작정 잊으려 한 것이 아니라, / 자신들의 전진에 도움이 될 수 있는 유용한 부분들을 스스로 골라 간직하기로 선택했음을 증명합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the date: 1969. Why is this significant? Singapore became independent in 1965.",
+              "korean": "연도를 보세요: 1969년. 왜 이것이 중요할까요? 싱가포르는 1965년에 독립했습니다."
+            },
+            {
+              "english": "Notice the core phrase: 'not rejection but selective embrace.' Make sure every student underlines this key concept.",
+              "korean": "핵심 어구에 주목하세요: 'not rejection but selective embrace.' 모든 학생이 이 핵심 개념에 밑줄을 긋도록 하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Singapore’s founding prime minister, Lee Kuan Yew, once remarked that Raffles’ vision of the city as “the emporium of the east” still inspired its development.",
+          "chunkReading": "Singapore’s founding prime minister, / Lee Kuan Yew, / once remarked that / Raffles’ vision of the city / as “the emporium of the east” / still inspired its development.",
+          "directKorean": "싱가포르의 건국 총리인, / 리콴유는, / 한때 언급했습니다 / 그 도시에 대한 래플스의 비전이 / “동방의 상업 중심지”라는 / 여전히 그 발전에 영감을 주었다고.",
+          "naturalKorean": "싱가포르의 건국 총리 리콴유는 '동방의 상업 중심지'라는 도시를 향한 래플스의 비전이 여전히 싱가포르의 국가적 발전에 영감을 주고 있다고 언급한 바 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "founding prime minister",
+              "meaning": "건국 총리",
+              "use": "noun phrase designating the political leader who guided a newly formed nation",
+              "example": "The founding prime minister unified the diverse ethnic communities into a single republic."
+            },
+            {
+              "chunk": "the emporium of the east",
+              "meaning": "동방의 상업 중심지(시장)",
+              "use": "historic metaphorical phrase describing a preeminent international trade hub",
+              "example": "Merchants flocked to the coastal harbor, transforming the settlement into the emporium of the east."
+            }
+          ],
+          "mustKnowGrammar": "Appositive noun phrase identifying the historical figure ('Singapore's founding prime minister, Lee Kuan Yew'); reporting verb 'remarked' introducing a noun clause with past tense ('still inspired its development').",
+          "feynmanExplanation": "The first leader of Singapore, Lee Kuan Yew, said: / 'Raffles wanted this tiny island to be the biggest trading center in all of Asia. / That British dream is still our dream today.'",
+          "feynmanExplanationKo": "싱가포르의 초대 지도자인 리콴유는 말했습니다: / '래플스는 이 작은 섬이 아시아 전체에서 가장 거대한 무역 중심지가 되길 원했다. / 그 영국인의 꿈은 오늘날에도 여전히 우리의 꿈이다.'",
+          "teachingTranscript": [
+            {
+              "english": "Who was Lee Kuan Yew? Singapore's founding prime minister.",
+              "korean": "리콴유는 누구였나요? 싱가포르의 건국 총리였습니다."
+            },
+            {
+              "english": "What was Raffles' historical phrase? 'The emporium of the east'—a great commercial marketplace.",
+              "korean": "래플스의 역사적 문구는 무엇이었나요? '동방의 상업 중심지'—거대한 상업 시장을 뜻합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Unlike neighbors who emerged from colonialism with resentment, Singapore fostered a pragmatic approach.",
+          "chunkReading": "Unlike neighbors / who emerged from colonialism / with resentment, / Singapore fostered / a pragmatic approach.",
+          "directKorean": "이웃 국가들과는 달리 / 식민주의로부터 벗어난 / 분노(원한)를 품고, / 싱가포르는 육성했습니다 / 실용적인 접근법을.",
+          "naturalKorean": "식민 지배의 상처로 원한을 품은 채 독립했던 이웃 나라들과 달리, 싱가포르는 철저히 실용주의적인 접근 방식을 발전시켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "emerged from colonialism with resentment",
+              "meaning": "식민 지배에서 원한을 품고 벗어났다",
+              "use": "verb phrase describing post-colonial bitterness and ideological hostility toward former rulers",
+              "example": "Several newly independent states emerged from colonialism with resentment toward foreign corporations."
+            },
+            {
+              "chunk": "fostered a pragmatic approach",
+              "meaning": "실용적인 접근 방식을 육성했다(발전시켰다)",
+              "use": "collocation indicating the systematic cultivation of realistic, result-oriented policies",
+              "example": "The economic council fostered a pragmatic approach to foreign direct investment."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional contrast phrase ('Unlike neighbors'); non-restrictive relative clause modifying 'neighbors' ('who emerged from colonialism with resentment'); transitive verb 'fostered' governing the direct object 'a pragmatic approach'.",
+          "feynmanExplanation": "Many countries around Singapore were furious at their old colonizers, / but Singapore said, 'Anger does not pay the bills. / Let us use whatever works to feed our people and build businesses.'",
+          "feynmanExplanationKo": "싱가포르 주변의 많은 나라들은 옛 식민 통치자들에게 격분해 있었지만, / 싱가포르는 '분노는 밥을 먹여주지 않는다. / 국민을 먹여 살리고 기업을 일구는 데 도움이 되는 것이라면 무엇이든 실용적으로 활용하자'라고 말했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the comparison: 'Unlike neighbors who emerged from colonialism with resentment.'",
+              "korean": "비교 구문에 주목하세요: '원한을 품고 식민주의에서 벗어난 이웃들과 달리.'"
+            },
+            {
+              "english": "What did Singapore foster instead? A pragmatic approach—practical, realistic, and focused on results.",
+              "korean": "그 대신 싱가포르는 무엇을 발전시켰나요? 실용주의적 접근 방식—현실적이고 결과 중심적인 태도입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Its model blended Raffles’ free-trading ideals with collective politics and efficient governance.",
+          "chunkReading": "Its model blended / Raffles’ free-trading ideals / with collective politics / and efficient governance.",
+          "directKorean": "그 모델은 혼합했습니다 / 래플스의 자유 무역 이상들을 / 집단주의적 정치와 / 그리고 효율적인 통치와.",
+          "naturalKorean": "싱가포르의 국가 모델은 래플스의 자유 무역 이상을 집단주의적 정치와 효율적인 통치 체제와 절묘하게 결합시켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "blended A with B",
+              "meaning": "A와 B를 혼합했다, 결합했다",
+              "use": "transitive verbal idiom expressing the synthesis of distinct ideologies or practices",
+              "example": "The constitution blended British parliamentary procedure with indigenous customary law."
+            },
+            {
+              "chunk": "free-trading ideals",
+              "meaning": "자유 무역 이상",
+              "use": "noun phrase denoting policies promoting unrestricted international commerce",
+              "example": "The maritime port flourished by upholding open free-trading ideals for foreign merchants."
+            },
+            {
+              "chunk": "efficient governance",
+              "meaning": "효율적인 통치, 유능한 국정 운영",
+              "use": "noun phrase referring to clean, competent, and highly organized civil administration",
+              "example": "Economic stability was achieved through efficient governance and strict anti-corruption laws."
+            }
+          ],
+          "mustKnowGrammar": "Transitive verb 'blended' taking direct object 'Raffles' free-trading ideals' and prepositional complement introduced by 'with' coordinating 'collective politics' and 'efficient governance'.",
+          "feynmanExplanation": "Think of a recipe: / take British open markets and free trade, / mix in strict teamwork where the community comes before the individual, / and stir with a super-clean, highly organized government. / That is Singapore's formula.",
+          "feynmanExplanationKo": "요리법을 생각해 보세요: / 영국의 개방된 자유 무역 시장을 가져오고, / 개인보다 공동체를 앞세우는 엄격한 팀워크를 섞은 뒤, / 극도로 청렴하고 유능한 정부로 잘 버무린 것입니다. / 그것이 바로 싱가포르의 성공 공식이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the three pillars: free-trading ideals, collective politics, and efficient governance.",
+              "korean": "세 가지 기둥에 주목하세요: 자유 무역의 이상, 집단주의적 정치, 그리고 효율적인 통치."
+            },
+            {
+              "english": "Ask students: How is 'collective politics' different from pure Western individualism? It puts the group's stability first.",
+              "korean": "학생들에게 질문하세요: '집단주의적 정치'는 순수한 서구적 개인주의와 어떻게 다른가요? 집단의 안정을 최우선에 둡니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "The result is a city where Taoist temples share space with Victorian neoclassicism and glass skyscrapers—a visual expression of a society that harnessed western methods without losing Asian traditions.",
+          "chunkReading": "The result is a city / where Taoist temples / share space / with Victorian neoclassicism / and glass skyscrapers— / a visual expression / of a society / that harnessed western methods / without losing Asian traditions.",
+          "directKorean": "그 결과는 도시입니다 / 도교 사원들이 / 공간을 공유하는 / 빅토리아 시대 신고전주의와 / 유리 고층 건물들과— / 시각적 표현인 / 사회의 / 서구의 방법들을 활용했던 / 아시아의 전통들을 잃지 않으면서.",
+          "naturalKorean": "그 결과 오늘날 싱가포르는 도교 사원이 빅토리아 양식의 신고전주의 건축물 및 유리 고층 빌딩과 공존하는 도시가 되었으며, 이는 아시아의 전통을 잃지 않은 채 서구의 방식을 성공적으로 활용한 사회의 시각적 표현입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "share space with",
+              "meaning": "~와 공간을 공유하다, 공존하다",
+              "use": "idiomatic verbal phrase describing physical or cultural coexistence",
+              "example": "Historic brick chapels share space with contemporary glass skyscrapers along the central avenue."
+            },
+            {
+              "chunk": "Victorian neoclassicism",
+              "meaning": "빅토리아 시대 신고전주의 양식",
+              "use": "architectural style typical of 19th-century British imperial civic buildings",
+              "example": "The supreme court building was designed in the grand style of Victorian neoclassicism."
+            },
+            {
+              "chunk": "harnessed western methods without losing Asian traditions",
+              "meaning": "아시아의 전통을 잃지 않으면서 서구의 방식을 활용했다",
+              "use": "complex verb phrase illustrating cultural synthesis and technological adaptation",
+              "example": "The medical academy harnessed western methods without losing Asian traditions of herbal healing."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause 'The result is a city'; relative locative clause introduced by 'where' coordinating three architectural subjects; em-dash introducing an appositive noun phrase ('a visual expression of a society') with a relative clause ('that harnessed western methods') and prepositional gerund phrase ('without losing Asian traditions').",
+          "feynmanExplanation": "When you walk down a street in Singapore, / you see an ancient Asian Taoist temple, / right next to a 100-year-old British stone courthouse, / right under a shiny 60-story modern glass tower. / Your eyes can literally see both worlds working together.",
+          "feynmanExplanationKo": "싱가포르의 거리를 걷다 보면, / 유서 깊은 아시아의 도교 사원 바로 옆에 / 100년 된 영국의 석조 법원 건물이 있고, / 그 위로는 반짝이는 60층 현대 유리 빌딩이 솟아 있는 것을 볼 수 있습니다. / 두 세계가 완벽히 어우러져 작동하는 모습을 눈으로 직접 확인할 수 있는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the vivid visual architectural imagery: Taoist temples, Victorian neoclassicism, and glass skyscrapers.",
+              "korean": "생생한 건축학적 시각 묘사를 보세요: 도교 사원, 빅토리아 시대 신고전주의, 그리고 유리 고층 빌딩."
+            },
+            {
+              "english": "Notice the em-dash: it explains what this architecture represents—a visual expression of a society that harnessed Western methods without losing Asian traditions.",
+              "korean": "대시(—)에 주목하세요: 이 건축물들이 무엇을 상징하는지 설명합니다. 바로 아시아의 전통을 잃지 않으면서 서구의 방식을 성공적으로 활용한 사회의 시각적 표현입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "This achievement has drawn admirers worldwide.",
+          "chunkReading": "This achievement / has drawn admirers / worldwide.",
+          "directKorean": "이러한 성취는 / 끌어모아 왔습니다 찬탄자들을 / 전 세계적으로.",
+          "naturalKorean": "이러한 성취는 전 세계적인 찬탄과 벤치마킹을 이끌어냈습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "drawn admirers worldwide",
+              "meaning": "전 세계적으로 찬탄자(지속적 지지자)를 끌어모았다",
+              "use": "verb phrase denoting global acclaim and analytical emulation",
+              "example": "The city's rapid technological modernization has drawn admirers worldwide."
+            }
+          ],
+          "mustKnowGrammar": "Simple declarative sentence featuring present perfect tense ('has drawn') and postpositive geographic adverb ('worldwide').",
+          "feynmanExplanation": "Leaders from all across the globe looked at Singapore / and said, 'Wow, how did this tiny island become so rich, so clean, and so organized?'",
+          "feynmanExplanationKo": "전 세계의 수많은 지도자들이 싱가포르를 바라보며 / '와, 어떻게 이 작은 섬이 이렇게 부유하고, 깨끗하며, 잘 조직되었을까?'라며 감탄했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Sentence 8 serves as a concise transitional topic sentence for Paragraph 3.",
+              "korean": "8번 문장은 3문단을 여는 간결하고 명확한 전환적 주제문 역할을 합니다."
+            },
+            {
+              "english": "Who were some of these admirers? We find out in the very next sentence.",
+              "korean": "그 찬탄자들은 구체적으로 누구였을까요? 바로 다음 문장에서 확인하게 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame have cited Singapore as proof that colonial inheritances—English law, the global language, a strategic location—can be used to build prosperity.",
+          "chunkReading": "Leaders / such as Deng Xiaoping / and Rwanda’s Paul Kagame / have cited Singapore as proof / that colonial inheritances— / English law, / the global language, / a strategic location— / can be used / to build prosperity.",
+          "directKorean": "지도자들은 / 덩샤오핑과 같은 / 그리고 르완다의 폴 카가메와 같은 / 싱가포르를 증거로 인용해 왔습니다 / 식민지 유산들이— / 영미법, / 세계 공용어, / 전략적 위치와 같은— / 사용될 수 있다는 / 번영을 일구기 위해.",
+          "naturalKorean": "중국의 덩샤오핑과 르완다의 폴 카가메 같은 지도자들은 싱가포르를 가리켜 영미법, 세계 공용어(영어), 전략적 입지와 같은 식민지 유산이 국가적 번영을 일구는 데 유용하게 쓰일 수 있음을 보여주는 결정적 증거로 인용해 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "cited Singapore as proof that",
+              "meaning": "싱가포르를 ~라는 증거로 인용했다",
+              "use": "reporting formula presenting an empirical precedent or model for development",
+              "example": "Economists have cited Singapore as proof that open markets attract long-term foreign investment."
+            },
+            {
+              "chunk": "colonial inheritances",
+              "meaning": "식민지 계승물, 식민지 유산",
+              "use": "noun phrase encompassing legal systems, language, and trade infrastructure",
+              "example": "The former colony capitalized on its colonial inheritances to establish a global financial center."
+            },
+            {
+              "chunk": "build prosperity",
+              "meaning": "번영을 일구다, 번영을 구축하다",
+              "use": "collocation describing the deliberate generation of national economic wealth",
+              "example": "Disciplined fiscal planning and trade liberalization helped the young state build prosperity."
+            }
+          ],
+          "mustKnowGrammar": "Subject noun phrase with exemplar prepositional modifier ('Leaders such as Deng Xiaoping and Rwanda’s Paul Kagame'); present perfect verb 'have cited'; noun complement clause introduced by 'that' containing parenthetical em-dashes listing three inheritances; passive modal verb phrase ('can be used to build prosperity').",
+          "feynmanExplanation": "Gigantic countries like China and developing nations like Rwanda / studied Singapore's playbook. / They saw that having British laws, speaking English, and owning a deep harbor / were like winning tools they could use to get rich.",
+          "feynmanExplanationKo": "중국과 같은 거대한 국가나 르완다와 같은 개발도상국의 지도자들은 / 싱가포르의 발전 방식을 연구했습니다. / 그들은 영미법 체계를 유지하고, 영어를 쓰며, 지정학적 항구를 활용하는 것이 / 부유해지기 위해 요긴하게 쓸 수 있는 강력한 도구임을 발견했던 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the two leaders mentioned: Deng Xiaoping from China and Paul Kagame from Rwanda.",
+              "korean": "언급된 두 지도자에 주목하세요: 중국의 덩샤오핑과 르완다의 폴 카가메."
+            },
+            {
+              "english": "What are the three specific inheritances inside the em-dashes? English law, the global language (English), and a strategic location.",
+              "korean": "대시 사이에 들어간 세 가지 구체적인 유산은 무엇인가요? 영미법, 세계 공용어(영어), 그리고 전략적 위치입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "For others, Singapore’s progress highlights the contradictions of colonial history: the opium trade, once the colony’s economic backbone, helped lay the foundations for a state that now imposes the death penalty on drug trafficking.",
+          "chunkReading": "For others, / Singapore’s progress / highlights the contradictions / of colonial history: / the opium trade, / once the colony’s economic backbone, / helped lay the foundations / for a state / that now imposes the death penalty / on drug trafficking.",
+          "directKorean": "다른 이들에게는, / 싱가포르의 진보가 / 모순들을 부각합니다 / 식민 역사의: / 아편 무역이, / 한때 그 식민지의 경제적 중추였던, / 토대를 놓는 데 도움을 주었다는 것입니다 / 국가를 위한 / 지금은 사형을 부과하는 / 마약 밀매에 대해.",
+          "naturalKorean": "반면 다른 이들에게 싱가포르의 발전은 식민 역사의 모순을 극명하게 드러냅니다. 한때 식민지 경제의 중추였던 아편 무역이 오늘날 마약 밀매에 사형을 선고하는 국가의 기초를 놓는 데 일조했다는 역설입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "highlights the contradictions of colonial history",
+              "meaning": "식민 역사의 모순들을 부각한다",
+              "use": "verb phrase exposing ironic or conflicting historical realities",
+              "example": "The museum exhibition highlights the contradictions of colonial history in the Caribbean."
+            },
+            {
+              "chunk": "the colony’s economic backbone",
+              "meaning": "그 식민지의 경제적 중추(기둥)",
+              "use": "metaphorical noun phrase identifying the primary source of colonial state revenue",
+              "example": "Tax revenues from agricultural exports served as the colony's economic backbone."
+            },
+            {
+              "chunk": "imposes the death penalty on drug trafficking",
+              "meaning": "마약 밀매에 사형을 부과하다",
+              "use": "legal verb phrase describing extreme statutory punishment for narcotics crimes",
+              "example": "The strict legal code imposes the death penalty on drug trafficking across national borders."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional viewpoint phrase ('For others'); transitive verb 'highlights' taking direct object 'the contradictions of colonial history'; colon introducing an explanatory clause; appositive phrase modifying 'the opium trade' ('once the colony’s economic backbone'); relative clause modifying 'a state' ('that now imposes the death penalty on drug trafficking').",
+          "feynmanExplanation": "Here is a crazy historical irony: / 150 years ago, the British government in Singapore made tons of money selling opium drugs to pay for buildings and roads. / But today, if you bring illegal drugs into Singapore, / you can literally be executed by law. / The very state built on drug money now punishes drugs with death.",
+          "feynmanExplanationKo": "여기 기막힌 역사적 아이러니가 있습니다: / 150년 전 싱가포르의 영국 식민 정부는 건물과 도로를 지을 재정을 마련하기 위해 아편 마약을 판매해 막대한 돈을 벌었습니다. / 그런데 오늘날 싱가포르에 불법 마약을 밀반입하면 / 법에 따라 실제로 사형에 처해질 수 있습니다. / 마약 자금에 기초를 두었던 국가가 지금은 마약을 사형으로 엄벌하는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the colon: it explains the contradiction. What is the historical irony?",
+              "korean": "콜론(:)에 주목하세요: 모순의 내용을 구체적으로 설명합니다. 그 역사적 아이러니는 무엇인가요?"
+            },
+            {
+              "english": "Opium was once the economic backbone of the colony; now Singapore executes drug traffickers. This is a profound paradox students must include in their writing.",
+              "korean": "아편이 한때 식민지의 경제적 중추였으나, 지금 싱가포르는 마약 밀매범을 사형에 처합니다. 학생들이 작문에 반드시 반영해야 할 깊이 있는 역설입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "Yet the legacy is not purely positive.",
+          "chunkReading": "Yet / the legacy / is not purely positive.",
+          "directKorean": "그러나 / 그 유산은 / 순전히 긍정적인 것만은 아닙니다.",
+          "naturalKorean": "그러나 그 유산이 순전히 긍정적인 것만은 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "not purely positive",
+              "meaning": "순전히 긍정적인 것만은 아닌",
+              "use": "hedged qualifying phrase introducing critical limitations and negative dimensions",
+              "example": "The economic boom was dramatic, yet its environmental legacy was not purely positive."
+            }
+          ],
+          "mustKnowGrammar": "Adversative coordinator 'Yet'; linking verb 'is' with negated adverbial and predicate adjective ('not purely positive'). Functioning as the topic sentence of Paragraph 4.",
+          "feynmanExplanation": "Just when you think Singapore's story is 100% amazing and happy, / the author stops us and says: / 'Wait, there is a dark side to this colonial inheritance too.'",
+          "feynmanExplanationKo": "싱가포르의 이야기가 100% 완벽하고 행복한 성공담이라고 생각하는 바로 그 순간, / 작가는 우리를 멈춰 세우며 말합니다: / '잠깐만요, 이 식민지 유산에는 어두운 이면도 분명히 존재합니다.'",
+          "teachingTranscript": [
+            {
+              "english": "Look at Sentence 11. It is short, punchy, and turns the entire argument. 'Yet the legacy is not purely positive.'",
+              "korean": "11번 문장을 보세요. 짧고 강렬하며, 글 전체의 논증 방향을 전환합니다. '그러나 그 유산이 순전히 긍정적인 것만은 아닙니다.'"
+            },
+            {
+              "english": "This prepares the reader for the political critique in Paragraph 4.",
+              "korean": "이는 독자에게 4문단에서 이어질 정치적 비판을 예고합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Singapore’s government continues to employ colonial tools of control: detention without trial, restrictive press licensing, and defamation laws that weaken opposition.",
+          "chunkReading": "Singapore’s government / continues to employ / colonial tools of control: / detention without trial, / restrictive press licensing, / and defamation laws / that weaken opposition.",
+          "directKorean": "싱가포르 정부는 / 계속해서 사용하고 있습니다 / 식민지적 통제 도구들을: / 재판 없는 구금, / 제한적인 언론 허가제, / 그리고 명예훼손법들을 / 야당(반대파)을 약화시키는.",
+          "naturalKorean": "싱가포르 정부는 재판 없는 구금, 제한적인 언론 면허제, 야당을 위축시키는 명예훼손 소송법 등 영국 식민지 시절의 권위주의적 통제 수단들을 오늘날에도 계속해서 활용하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "colonial tools of control",
+              "meaning": "식민지적 통제 도구들",
+              "use": "noun phrase referring to emergency executive powers and coercive legal statutes inherited from imperial rulers",
+              "example": "The newly elected council pledged to dismantle authoritarian colonial tools of control."
+            },
+            {
+              "chunk": "detention without trial",
+              "meaning": "재판(공판) 없는 구금",
+              "use": "legal term for indefinite imprisonment of individuals without formal judicial court proceedings",
+              "example": "Human rights advocates strongly condemned the use of preventive detention without trial."
+            },
+            {
+              "chunk": "defamation laws that weaken opposition",
+              "meaning": "야당(반대파)을 약화시키는 명예훼손법",
+              "use": "phrase describing civil libel laws used by ruling authorities to bankrupt or silence political rivals",
+              "example": "The administration utilized strict defamation laws that weaken opposition candidates during elections."
+            }
+          ],
+          "mustKnowGrammar": "Transitive verb 'continues to employ' governing 'colonial tools of control'; colon introducing a three-part appositive list: 'detention without trial', 'restrictive press licensing', and 'defamation laws'; relative restrictive clause modifying defamation laws ('that weaken opposition').",
+          "feynmanExplanation": "The British colonial rulers used to arrest people without going to court, / decide who was allowed to print newspapers, / and sue anyone who criticized them. / Guess what? Singapore kept those exact same powers and still uses them today.",
+          "feynmanExplanationKo": "과거 영국의 식민 통치자들은 사람들을 재판 없이 체포해 가두고, / 신문을 발행할 수 있는 허가권을 쥐고 흔들었으며, / 자신을 비판하는 사람을 고소하곤 했습니다. / 그런데 싱가포르 정부는 그 통제 권한들을 버리지 않고 오늘날에도 그대로 사용하고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Identify the three colonial tools of control: 1) detention without trial, 2) restrictive press licensing, and 3) defamation laws that weaken opposition.",
+              "korean": "세 가지 식민지적 통제 도구를 확인하세요: 1) 재판 없는 구금, 2) 제한적인 언론 면허제, 3) 반대파를 약화시키는 명예훼손법."
+            },
+            {
+              "english": "Point out to students that Singapore didn't just inherit trading laws—it also inherited emergency political weapons.",
+              "korean": "학생들에게 싱가포르가 상업 관련 법률만 물려받은 것이 아니라 비상시 정치적 통제 무기들도 함께 계승했음을 짚어주세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "While the nation holds elections, critics argue that political freedoms remain tightly circumscribed.",
+          "chunkReading": "While the nation holds elections, / critics argue that / political freedoms / remain tightly circumscribed.",
+          "directKorean": "그 국가가 선거를 치르는 반면에, / 비판자들은 주장합니다 / 정치적 자유가 / 엄격히 제한된 상태로 남아 있다고.",
+          "naturalKorean": "비록 주기적으로 선거를 치르고는 있지만, 비판자들은 싱가포르의 정치적 자유가 여전히 엄격한 한계 속에 갇혀 있다고 주장합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "holds elections",
+              "meaning": "선거를 치르다, 선거를 실시하다",
+              "use": "collocation describing regular democratic voting exercises",
+              "example": "The parliament holds elections every four years to ensure civic participation."
+            },
+            {
+              "chunk": "critics argue that",
+              "meaning": "비판자들은 ~라고 주장한다",
+              "use": "objective academic attribution phrase introducing opposing analytical viewpoints",
+              "example": "Critics argue that rapid deregulation widened the economic gap between rich and poor."
+            },
+            {
+              "chunk": "remain tightly circumscribed",
+              "meaning": "엄격히 제한된(한정된) 상태로 남아 있다",
+              "use": "verb phrase describing closely confined, regulated civil rights",
+              "example": "Despite formal constitutional protections, freedom of public assembly remained tightly circumscribed."
+            }
+          ],
+          "mustKnowGrammar": "Concessive adverbial clause introduced by 'While' ('While the nation holds elections'); main clause with reporting verb 'argue' governing noun clause ('that political freedoms remain tightly circumscribed'); linking verb 'remain' taking adverbial modifier 'tightly' and participial adjective 'circumscribed'.",
+          "feynmanExplanation": "Citizens in Singapore do get to vote in elections, / but critics say the playground has very high walls. / You can vote, but you cannot organize big protests or freely challenge the government without strict rules holding you back.",
+          "feynmanExplanationKo": "싱가포르 시민들도 선거에서 투표는 합니다. / 하지만 비판자들은 그 놀이터에 아주 높은 담벼락이 둘러쳐져 있다고 말합니다. / 투표는 할 수 있어도 대규모 시위를 열거나 정부를 자유롭게 비판하기에는 매우 엄격한 법적 제약이 따릅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the nuance: Singapore is not a closed dictatorship; it 'holds elections.'",
+              "korean": "미묘한 뉘앙스에 주목하세요: 싱가포르는 폐쇄적인 독재국가가 아닙니다. '선거를 치릅니다.'"
+            },
+            {
+              "english": "Yet, what is the constraint? 'Political freedoms remain tightly circumscribed.' Check that students understand 'circumscribed' means confined within boundaries.",
+              "korean": "하지만 어떠한 제약이 있나요? '정치적 자유가 엄격히 제한된 상태로 남아 있다.' 학생들이 'circumscribed'가 테두리 안에 갇혀 제한되었음을 뜻한다는 것을 확실히 이해하도록 점검하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "Singapore’s story shows that colonialism cannot be seen simply as curse or blessing.",
+          "chunkReading": "Singapore’s story shows that / colonialism / cannot be seen / simply as curse or blessing.",
+          "directKorean": "싱가포르의 이야기는 보여줍니다 / 식민주의가 / 간주될 수 없다는 것을 / 단순히 저주나 축복으로.",
+          "naturalKorean": "싱가포르의 사례는 식민주의라는 역사를 단순히 저주나 축복이라는 이분법으로 재단할 수 없음을 명백히 보여줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "cannot be seen simply as",
+              "meaning": "단순히 ~로 간주될 수 없다",
+              "use": "modal passive structure rejecting simplistic binary categorization",
+              "example": "Technological disruption cannot be seen simply as a threat to traditional employment."
+            },
+            {
+              "chunk": "curse or blessing",
+              "meaning": "저주나 축복",
+              "use": "binary metaphorical pair representing absolute negative or positive outcomes",
+              "example": "Historians debated whether sudden mineral discovery was an economic blessing or a developmental curse."
+            }
+          ],
+          "mustKnowGrammar": "Subject 'Singapore's story'; transitive reporting verb 'shows'; noun complement clause introduced by 'that'; modal passive verb phrase 'cannot be seen' with adverb 'simply' and prepositional phrase 'as curse or blessing'.",
+          "feynmanExplanation": "If someone asks you, 'Was colonialism a blessing or a curse?', / you cannot just choose one. / Singapore proves that it gave great tools for building wealth, / but also left behind harsh rules that limit freedom.",
+          "feynmanExplanationKo": "누군가 여러분에게 '식민주의는 축복이었나요, 아니면 저주였나요?'라고 묻는다면, / 단순히 하나만을 고를 수는 없습니다. / 싱가포르는 식민주의가 부를 축적할 수 있는 훌륭한 도구를 제공한 동시에, / 자유를 제한하는 가혹한 통제 규칙도 함께 남겼음을 증명하기 때문입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Sentence 14 is the philosophical climax of the reading: 'colonialism cannot be seen simply as curse or blessing.'",
+              "korean": "14번 문장은 본문의 철학적 절정입니다: '식민주의는 단순히 저주나 축복으로 간주될 수 없다.'"
+            },
+            {
+              "english": "Contrast this with Source B and Source C. Source B called it a 'blessing turned into a curse.' Source C said 'there is no curse.' Source D says it is neither a simple curse nor a blessing.",
+              "korean": "Source B 및 Source C와 비교해 보세요. Source B는 '저주로 변한 축복'이라 불렀고, Source C는 '저주란 없다'고 했습니다. 반면 Source D는 단순한 저주나 축복 어느 한쪽으로 볼 수 없다고 규정합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "By exploiting the infrastructure and institutions left behind, the republic became one of the world’s richest states.",
+          "chunkReading": "By exploiting / the infrastructure and institutions / left behind, / the republic became / one of the world’s richest states.",
+          "directKorean": "활용함으로써 / 인프라와 제도들을 / 남겨진, / 그 공화국은 되었습니다 / 세계에서 가장 부유한 국가들 중 하나가.",
+          "naturalKorean": "식민 지배자들이 남겨두고 떠난 인프라와 제도적 장치들을 적극적으로 활용함으로써, 싱가포르 공화국은 세계에서 가장 부유한 국가 중 하나로 도약할 수 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "exploiting the infrastructure and institutions",
+              "meaning": "인프라와 제도들을 적극 활용함으로써",
+              "use": "prepositional gerund phrase denoting the strategic utilization of physical and administrative assets",
+              "example": "By exploiting the infrastructure built during earlier decades, the port expanded international trade."
+            },
+            {
+              "chunk": "left behind",
+              "meaning": "남겨진, 뒤에 남겨두고 간",
+              "use": "reduced relative past-participial modifier modifying nouns",
+              "example": "The country modernized the industrial railways left behind after the war."
+            },
+            {
+              "chunk": "one of the world’s richest states",
+              "meaning": "세계에서 가장 부유한 국가들 중 하나",
+              "use": "superlative partitive noun phrase indicating premier global economic status",
+              "example": "Through prudent financial leadership, the small territory transformed into one of the world's richest states."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional phrase of means ('By exploiting...'); post-nominal participial phrase ('left behind'); main clause linking subject 'the republic' to predicate nominative 'one of the world’s richest states'.",
+          "feynmanExplanation": "The British left behind deep-water docks, legal courts, and English-speaking schools. / Singapore did not destroy them—they turbocharged them! / And because of that smart move, Singapore became crazy rich.",
+          "feynmanExplanationKo": "영국인들은 떠나면서 수심 깊은 항만, 법원 체계, 영어를 가르치는 학교들을 남겼습니다. / 싱가포르는 그것들을 파괴하지 않고 오히려 최대한으로 가동시켰습니다! / 그 영리한 전략 덕분에 싱가포르는 엄청난 부국이 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the positive side of the equation: 'the republic became one of the world’s richest states.'",
+              "korean": "방정식의 긍정적 측면에 주목하세요: '그 공화국은 세계에서 가장 부유한 국가들 중 하나가 되었다.'"
+            },
+            {
+              "english": "How did it achieve this? 'By exploiting the infrastructure and institutions left behind.'",
+              "korean": "어떻게 이를 달성했나요? '남겨진 인프라와 제도들을 활용함으로써'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "original": "But it also demonstrates the lingering cost of adopting illiberal traditions in the pursuit of order and growth.",
+          "chunkReading": "But / it also demonstrates / the lingering cost / of adopting illiberal traditions / in the pursuit of / order and growth.",
+          "directKorean": "그러나 / 그것은 또한 입증합니다 / 지속되는 대가를 / 비자유주의적인 전통들을 채택한 것의 / 추구 속에서 / 질서와 성장의.",
+          "naturalKorean": "그러나 동시에 이는 사회적 질서와 경제적 성장을 추구하는 과정에서 비자유주의적 통치 전통을 답습한 데 따르는 지속적인 대가를 여실히 보여주고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "the lingering cost of",
+              "meaning": "~의 지속되는(남아 있는) 대가",
+              "use": "noun phrase highlighting long-term enduring disadvantages or sacrifices",
+              "example": "The community continues to pay the lingering cost of past environmental neglect."
+            },
+            {
+              "chunk": "adopting illiberal traditions",
+              "meaning": "비자유주의적인 전통들을 채택(수용)하는 것",
+              "use": "gerundial phrase describing the continuation of authoritarian, liberty-restricting practices",
+              "example": "Historians warned against adopting illiberal traditions during times of domestic crisis."
+            },
+            {
+              "chunk": "in the pursuit of order and growth",
+              "meaning": "질서와 성장의 추구 속에서",
+              "use": "prepositional phrase explaining the motivating purpose behind strict state governance",
+              "example": "The government prioritized stability, justifying strict regulations in the pursuit of order and growth."
+            }
+          ],
+          "mustKnowGrammar": "Coordinating adversative conjunction 'But'; adverb 'also' emphasizing balance; transitive verb 'demonstrates' governing direct object 'the lingering cost'; prepositional phrase with gerund ('of adopting illiberal traditions'); adverbial prepositional phrase of purpose ('in the pursuit of order and growth'). Final sentence concluding the entire text.",
+          "feynmanExplanation": "To get that wealth and keep everyone in line, / Singapore chose to keep strict, undemocratic control rules. / So yes, they got rich, / but the price they paid was giving up a big chunk of their political freedom.",
+          "feynmanExplanationKo": "그 막대한 부를 일구고 사회를 질서정연하게 유지하기 위해, / 싱가포르는 엄격하고 비자유주의적인 통제 규칙들을 유지하는 길을 택했습니다. / 따라서 부유해진 것은 사실이지만, / 그 대가로 지불한 것은 정치적 자유의 상당한 희생이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the concluding balance: 'the lingering cost of adopting illiberal traditions in the pursuit of order and growth.'",
+              "korean": "마지막 결론부의 균형 잡힌 시각에 주목하세요: '질서와 성장의 추구 속에서 비자유주의적 전통들을 채택한 지속적인 대가.'"
+            },
+            {
+              "english": "This sentence provides the perfect closing thought for student analytical paragraphs: wealth was achieved, but at the lasting cost of political liberty.",
+              "korean": "이 문장은 학생들의 분석 문단을 마무리하기에 완벽한 결론적 통찰을 제공합니다. 즉, 부는 성취되었으나 정치적 자유의 영속적인 희생이라는 대가가 따랐다는 점입니다."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
