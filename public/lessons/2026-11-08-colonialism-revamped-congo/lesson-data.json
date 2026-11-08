@@ -1,0 +1,1542 @@
+{
+  "lessonTitle": "Colonialism Revamped in the Democratic Republic of the Congo",
+  "ofsUnit": "Unit 4 — History, Resources & Inequality",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Historical / Current-Affairs Article",
+  "writingType": "Evidence-Based Historical Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students trace how historical ownership at the Berlin Conference evolved into modern corporate extraction in the DRC, analyze evidence and authorial viewpoint, identify cause-and-effect and passive structures, distinguish source claims from outside knowledge, and write a cautious, evidence-based explanation.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. You do not need outside political, historical, or economic knowledge; answer using your personal definitions, everyday experience, and logical reasoning.",
+    "questions": [
+      {
+        "question": "How would you define 'colonialism' in your own words, and what kinds of control can one group have over another?",
+        "sentenceStarter": "In my own words, colonialism involves one powerful nation or group controlling..."
+      },
+      {
+        "question": "When a nation is rich in valuable natural resources, does that wealth automatically benefit its people, or can it lead to conflict?",
+        "sentenceStarter": "Vast natural resources can either create opportunities or trigger conflict depending on..."
+      },
+      {
+        "question": "Why is it essential in academic reading to distinguish between an author's specific claim and what you might already know from general history?",
+        "sentenceStarter": "In academic analysis, distinguishing an author's specific claim from general knowledge is important because..."
+      }
+    ],
+    "sentenceStarters": [
+      "In my own words, colonialism involves one powerful nation or group controlling...",
+      "Vast natural resources can either create opportunities or trigger conflict depending on...",
+      "In academic analysis, distinguishing an author's specific claim from general knowledge is important because..."
+    ]
+  },
+  "article": {
+    "title": "Colonialism Revamped in the Democratic Republic of the Congo",
+    "sourceLabel": "Source C:",
+    "citation": "Soleil-Chandi Mousseau, African Arguments, ‘Colonialism Revamped in the Democratic Republic of the Congo’, 2024",
+    "paragraphs": [
+      "140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State, a territory including the entirety of today’s Democratic Republic of Congo (DRC). Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities committed during the first colonial exploitation of the territory’s exceptional wealth of natural resources.",
+      "64 years after its independence, the DRC remains plagued by various forms of colonialism and extraction, resulting in massive human suffering, land grabs, human rights abuses, hunger and poverty. Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners. Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors. Community members who work as labourers on the plantations are subjected to unpaid wages and harsh working conditions. Their day-to-day life is plagued by violence and repression prosecuted by plantation security forces and police forces directed by the company, with a myriad of unlawful detentions, beatings, torture, and even murders. Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.",
+      "In addition to this historical colonial exploitation, DRC continues to face new forms of extraction, with even more dire consequences for the Congolese people. For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country. Violence is not the only consequence of the current forms of exploitation and extraction in the country. Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy. Poverty and hunger are widespread through what has often been labelled as the “resource curse,” to describe countries not benefiting economically from their own natural resources. However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key terms from Source C. Focus on each word's part of speech, accessible English definition, concise Korean equivalent, and contextual example sentence.",
+    "items": [
+      {
+        "word": "colonialism",
+        "partOfSpeech": "noun",
+        "definition": "the policy or practice of a wealthy or powerful nation extending control over another territory, often exploiting its people and resources",
+        "korean": "식민주의",
+        "example": "The lasting effects of European colonialism are still visible in modern global trade relationships."
+      },
+      {
+        "word": "extraction",
+        "partOfSpeech": "noun",
+        "definition": "the process of removing or taking valuable natural resources, such as minerals or agricultural products, out of the earth or territory",
+        "korean": "채굴, 추출, 자원 수탈",
+        "example": "The unregulated extraction of timber and metals caused widespread environmental damage in the valley."
+      },
+      {
+        "word": "atrocities",
+        "partOfSpeech": "noun (plural)",
+        "definition": "extremely wicked, cruel, or brutal acts, especially involving violence or widespread physical suffering",
+        "korean": "잔혹 행위, 만행",
+        "example": "International human rights observers documented severe atrocities committed during the border conflict."
+      },
+      {
+        "word": "private property",
+        "partOfSpeech": "noun phrase",
+        "definition": "land, buildings, or wealth owned by private individuals or business entities rather than the public or government",
+        "korean": "사유 재산",
+        "example": "Under colonial decree, communal ancestral lands were arbitrarily redesignated as the monarch's private property."
+      },
+      {
+        "word": "plantation",
+        "partOfSpeech": "noun",
+        "definition": "a large agricultural estate where commercial crops such as rubber, tea, or oil palm are cultivated, typically by resident or low-paid laborers",
+        "korean": "플랜테이션, 대규모 농원",
+        "example": "Thousands of agricultural workers harvested fruit on the commercial oil palm plantation."
+      },
+      {
+        "word": "labourer",
+        "partOfSpeech": "noun",
+        "definition": "a person who does hard physical work for wages, especially in agriculture, construction, or mining",
+        "korean": "노동자, 인부",
+        "example": "The plantation labourer demanded fair compensation and safer working equipment from the management."
+      },
+      {
+        "word": "repression",
+        "partOfSpeech": "noun",
+        "definition": "the act of keeping under control or subduing a population by force, intimidation, or violation of basic legal rights",
+        "korean": "탄압, 억압",
+        "example": "Civilians faced severe political repression whenever they gathered to protest unfair living conditions."
+      },
+      {
+        "word": "mineral-rich",
+        "partOfSpeech": "adjective",
+        "definition": "possessing large, valuable deposits of minerals and metals such as copper, cobalt, coltan, or gold",
+        "korean": "광물이 풍부한",
+        "example": "Foreign tech corporations competed aggressively for concessions in the mineral-rich mountains."
+      },
+      {
+        "word": "resource curse",
+        "partOfSpeech": "noun phrase",
+        "definition": "a concept describing the paradox where nations possessing abundant natural resources tend to experience lower economic growth, poverty, and conflict",
+        "korean": "자원의 저주",
+        "example": "Economists often cite the resource curse to explain why certain oil-rich nations struggle with persistent poverty."
+      },
+      {
+        "word": "corporate actors",
+        "partOfSpeech": "noun phrase",
+        "definition": "business companies, multinational firms, or investment groups that exert significant influence on economic markets and society",
+        "korean": "기업 행위자, 기업체들",
+        "example": "Both governmental institutions and powerful corporate actors share responsibility for the community's economic crisis."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "question": "Which statement best expresses the main idea of Source C?",
+    "options": [
+      "The Democratic Republic of Congo successfully eliminated colonial exploitation after achieving political independence 64 years ago.",
+      "Historical ownership and modern corporate extraction have continuously deprived the Congolese people of their territory's extraordinary natural wealth, creating severe hardship that the author attributes to corporate and governmental decisions rather than an inevitable curse.",
+      "Technological corporations and palm oil producers have built equitable, community-owned infrastructure across the eastern mineral-rich provinces of the DRC.",
+      "The economic challenges in Central Africa are purely caused by geographical isolation rather than foreign investment funds or colonial treaties."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! The article traces how King Leopold's 1884 ownership set a precedent of resource extraction that continues under private equity funds and corporate actors, leaving Congolese people in poverty while explicitly rejecting the 'resource curse' label as an excuse for human greed.",
+      "incorrect": "X Incorrect. Option B captures the full scope: tracing how historical ownership evolved into modern corporate extraction, harming the local populace, and concluding that corporate and state actors—not a mythical curse—are responsible."
+    },
+    "explanation": "Paragraphs 1–3 connect King Leopold’s 140-year-old personal ownership to modern private equity control, palm oil plantations, and tech mineral extraction, concluding that corporate actors and governments are to blame for ongoing poverty rather than an inevitable 'curse'."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Choose the single best answer for each of the six questions below based strictly on the text of Source C. Each question references a specific section of the reading.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, what historical event took place 140 years ago at the Berlin Conference regarding the territory of the DRC?",
+        "options": [
+          "Congolese community leaders signed an equal partnership treaty with European governments to export timber.",
+          "Belgium’s King Leopold was recognized as the sole owner of the Congo Free State, initiating violent exploitation of its natural resources.",
+          "An international assembly established universal human rights and abolished forced labor throughout Central Africa.",
+          "The United Nations partitioned the Congo into independent agricultural districts managed by local cooperatives."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 explicitly states: '140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State... Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities...'",
+          "incorrect": "X Incorrect. Paragraph 1 confirms that King Leopold of Belgium was recognized as sole owner of the Congo Free State at the Berlin Conference, leading to brutal exploitation."
+        },
+        "explanation": "Paragraph 1: '140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State... Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities...'"
+      },
+      {
+        "id": "rc2",
+        "question": "Based on Paragraph 2, what currently controls the land originally seized by King Leopold 140 years ago?",
+        "options": [
+          "The ancestral land was returned to democratic Congolese community trusts and redistributed to farm laborers.",
+          "A U.S.-based private equity fund controls the land, funneling profits to high-profile investors while plantation laborers face unpaid wages and harsh conditions.",
+          "A non-profit scientific foundation maintains the land exclusively as an environmental conservation reserve.",
+          "The Belgian government nationalized the plantations to fund free public schools across the DRC."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 notes: 'Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners. Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors.'",
+          "incorrect": "X Incorrect. Paragraph 2 directly states that the land was not returned to Congolese owners, but is now controlled by a U.S.-based private equity fund channeling profits to elite investors."
+        },
+        "explanation": "Paragraph 2: 'Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners. Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors.'"
+      },
+      {
+        "id": "rc3",
+        "question": "According to Paragraph 2, what happened when residents in Lokutu protested in March 2019?",
+        "options": [
+          "Company executives immediately met with community leaders to double plantation wages and grant property deeds.",
+          "Congolese police sent to end demonstrations ended up firing live bullets into the protesting crowd.",
+          "International courts intervened peacefully to supervise democratic labor union elections.",
+          "Residents voluntarily suspended their protests after receiving legal assurances from government mediators."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 explains: 'Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.'",
+          "incorrect": "X Incorrect. Paragraph 2 explicitly reports that when Lokutu residents rose up in March 2019, Congolese police dispatched to end the demonstrations fired live bullets into the crowd."
+        },
+        "explanation": "Paragraph 2: 'Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.'"
+      },
+      {
+        "id": "rc4",
+        "question": "According to Paragraph 3, which geographic area of the DRC has been particularly devastated by bloody conflicts over the past three decades?",
+        "options": [
+          "The arid agricultural valleys in the far northern border territory.",
+          "The mineral-rich eastern region of the country, where conflicts have claimed millions of lives.",
+          "The coastal fishing ports along the Atlantic shoreline.",
+          "The isolated mountainous zones where natural mineral deposits are completely absent."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 states: 'For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country.'",
+          "incorrect": "X Incorrect. Paragraph 3 specifies that conflicts claiming millions of lives over three decades have particularly affected the mineral-rich eastern region."
+        },
+        "explanation": "Paragraph 3: 'For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country.'"
+      },
+      {
+        "id": "rc5",
+        "question": "In Paragraph 3, which two commercial sectors are specifically cited as profiting from resource extraction while impacting the DRC’s economy?",
+        "options": [
+          "Automotive assembly manufacturers and international pharmaceutical distributors.",
+          "Firms producing palm oil and technology companies profiting from mineral extraction.",
+          "Commercial aviation carriers and oceanic shipping lines.",
+          "Renewable wind energy providers and textile garment factories."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 explicitly asks: 'Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy.'",
+          "incorrect": "X Incorrect. Paragraph 3 identifies 'firms producing palm oil' and 'tech companies profiting from mineral extraction' as key corporate actors profiting from extraction."
+        },
+        "explanation": "Paragraph 3: 'Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy.'"
+      },
+      {
+        "id": "rc6",
+        "question": "What is the author's final argument regarding the concept of the 'resource curse' in Paragraph 3?",
+        "options": [
+          "The resource curse is an unchangeable law of nature that mysteriously traps all resource-rich countries in inevitable poverty.",
+          "There is no natural or mysterious curse; rather, the cold and cynical attitude of governments and corporate actors is to blame for the exploitation.",
+          "The resource curse has been fully solved through technological innovation and corporate social responsibility programs.",
+          "Congolese mineral wealth will soon be replaced by synthetic lab-grown alternatives, making extraction irrelevant."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 concludes: 'However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame'",
+          "incorrect": "X Incorrect. The author rejects the term 'curse', arguing that 'there is no curse' and that deliberate human choices—the cold and cynical attitudes of governments and corporations—are to blame."
+        },
+        "explanation": "Paragraph 3: 'However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each prompt using direct, factual details from Source C. After writing your response, click 'Compare with Model' to evaluate your work against an exemplar answer.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "What evidence does Source C provide regarding the historical exploitation of the Congo during King Leopold's rule?",
+        "placeholder": "According to Source C, King Leopold's historical rule began when...",
+        "modelAnswer": "According to Source C, King Leopold was recognized 140 years ago at the Berlin Conference as the sole owner of the Congo Free State. His colonial reign was characterized by widespread atrocities, slavery, and millions of deaths during the initial exploitation of the territory's extraordinary natural resources.",
+        "compareTip": "Ensure your answer cites the 140-year timeframe, the Berlin Conference recognition of Leopold as sole owner, and the specific historical atrocities: slavery, millions of deaths, and natural resource exploitation."
+      },
+      {
+        "id": "ev2",
+        "question": "What present-day hardships and abuses on plantations and in communities does the author cite in Paragraph 2?",
+        "placeholder": "In Paragraph 2, the author explains that present-day Congolese communities face...",
+        "modelAnswer": "Source C reports that land seized 140 years ago remains controlled by a U.S.-based private equity fund funneling profits abroad. Community members working on plantations suffer unpaid wages, harsh working conditions, and violence, including unlawful detentions, torture, beatings, and murders by company-directed security forces, culminating in police firing live bullets into protesting crowds at Lokutu in March 2019.",
+        "compareTip": "Check that you mentioned the U.S. private equity fund, unpaid wages, harsh labor conditions, violence from plantation security/police, and the March 2019 shooting of protesters in Lokutu."
+      },
+      {
+        "id": "ev3",
+        "question": "How does the author challenge the conventional idea of the 'resource curse' in Paragraph 3?",
+        "placeholder": "In Paragraph 3, the author disputes the 'resource curse' by arguing that...",
+        "modelAnswer": "The author notes that while widespread poverty and hunger in resource-rich nations are often labeled a 'resource curse,' there is actually no mysterious curse driving this reality. Instead, the author places direct blame on human agency: the cold, cynical attitudes and profit-seeking decisions of governments and corporate actors, including palm oil producers and tech companies.",
+        "compareTip": "Verify that your response notes the author's rejection of the term 'curse' ('there is no curse') and attributes the suffering directly to the cold and cynical choices of governments and corporate actors."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "instructions": "Examine the core rhetorical, grammatical, and discourse patterns used in Source C. Notice how the author employs passive constructions, cause-and-effect connectors, chronological sequencing, contrast markers, participial clauses, and cautious attribution.",
+    "topic": "Passive Voice, Cause and Effect, Chronological Framing, and Viewpoint Attribution",
+    "explanation": "Academic current-affairs writing relies on precise language structures to trace accountability across history, highlight the subjection of communities without sensationalism, contrast commercial wealth with civilian poverty, and present interpretive claims as authorial viewpoints.",
+    "patterns": [
+      {
+        "name": "Passive Voice for Historical and Institutional Subjection",
+        "explanation": "Emphasizes the affected population, territories, or laborers who endure systemic violence and economic exploitation ('was recognized as', 'was marked by', 'is now controlled by', 'are subjected to', 'is plagued by').",
+        "example": "The villagers were subjected to forced evictions and denied compensation by foreign mining syndicates.",
+        "sourceExample": "Belgium’s King Leopold was recognized as the sole owner... Leopold's reign was marked by slavery... it is now controlled by a U.S.-based private equity fund... Community members who work as labourers on the plantations are subjected to unpaid wages..."
+      },
+      {
+        "name": "Cause-and-Effect Connectors and Participles",
+        "explanation": "Connects ongoing corporate or colonial practices to severe humanitarian outcomes ('resulting in...', 'funnelling profits...', 'ended up firing...', 'forces driving this exploitation').",
+        "example": "Unregulated industrial runoff poisoned local waterways, resulting in severe health crises across downstream villages.",
+        "sourceExample": "remains plagued by various forms of colonialism and extraction, resulting in massive human suffering, land grabs... funnelling profits to its high profile investors... ended up firing live bullets into the crowd."
+      },
+      {
+        "name": "Chronological Sequence Markers",
+        "explanation": "Anchors historical evolution across specific temporal milestones ('140 years ago this November', '64 years after its independence', 'In March 2019', 'For the past three decades').",
+        "example": "Fifty years after the treaty, the border province still faces economic isolation.",
+        "sourceExample": "140 years ago this November at the Berlin Conference... 64 years after its independence... Residents in Lokutu rose up in March 2019... For the past three decades..."
+      },
+      {
+        "name": "Contrast and Shift Markers",
+        "explanation": "Contrasts past injustice with unbroken modern reality, or conventional economic myths with corporate reality ('Remarkably', 'Instead', 'Whether it is... or...', 'However', 'Rather').",
+        "example": "The minister claimed the reforms were equitable; however, corporate profits soared while local wages plummeted.",
+        "sourceExample": "Remarkably, the land that became the private property... has still not been returned... Instead, it is now controlled... However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude..."
+      },
+      {
+        "name": "Participial Modifiers for Compressed Action",
+        "explanation": "Packs rich descriptive and causal information into concise clauses ('committed during...', 'funnelling profits...', 'particularly affecting...', 'profiting from...').",
+        "example": "The consortium expanded its operations, extracting rare minerals while ignoring local safety demands.",
+        "sourceExample": "widespread atrocities committed during the first colonial exploitation... funnelling profits to its high profile investors... particularly affecting the mineral-rich eastern region... tech companies profiting from mineral extraction..."
+      },
+      {
+        "name": "Authorial Viewpoint and Cautious Attribution",
+        "explanation": "Frames critical interpretations using cautious reporting structures ('According to Source C', 'Mousseau argues', 'the author asserts that') rather than presenting single-source perspectives as undisputed historical consensus.",
+        "example": "According to the investigative report, transnational agribusinesses prioritized external shareholder returns over local human rights.",
+        "sourceExample": "Poverty and hunger are widespread through what has often been labelled as the “resource curse”... However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame"
+      }
+    ],
+    "analyticalDistinctions": [
+      {
+        "heading": "Distinguishing Source Claims from Prior Knowledge",
+        "explanation": "When analyzing historical texts, students must separate what the author explicitly argues from external background knowledge. While you may have read general history about African colonization, your academic claims must rely strictly on Mousseau’s specific assertions regarding private equity, corporate actors, and the rejection of the resource curse.",
+        "examples": [
+          "Source Claim: Mousseau explicitly asserts that the resource curse is not an innate phenomenon, but the direct result of cold, cynical decisions by corporate actors and governments.",
+          "Prior Knowledge: General historical knowledge might suggest resource-rich nations struggle due to geographical difficulties or post-independence civil instability."
+        ]
+      },
+      {
+        "heading": "Using Precise Cautious Attribution Phrases",
+        "explanation": "To maintain academic integrity and objectivity, frame your analytical summaries with attribution tags: 'According to Source C,', 'Mousseau contends that,', or 'The article illustrates how.' This clarifies that you are synthesizing the author’s evidence and viewpoint.",
+        "examples": [
+          "Objective Attribution: 'According to Source C, historical colonial property rights in the DRC were never restored to Congolese communities.'",
+          "Subjective/Unattributed Pitfall: 'It is a known fact that all corporations in Africa are entirely evil and ruthless.'"
+        ]
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete the four guided writing exercises below. Apply target vocabulary, passive voice, cause-and-effect transitions, and cautious attribution. After writing, compare your sentence with the model.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Define 'extraction' in the context of Source C and explain how it differs from sustainable local farming.",
+        "placeholder": "In Source C, extraction refers to the process of...",
+        "modelAnswer": "In Source C, extraction refers to the large-scale removal of valuable natural resources such as palm oil and minerals for foreign corporate profit, which depletes local wealth rather than sustaining local community agriculture.",
+        "compareTip": "Ensure you define extraction as removing resources for outside profit and contrast it with community-sustaining agriculture.",
+        "targetWords": 34,
+        "minWords": 20,
+        "maxWords": 50
+      },
+      {
+        "id": "wp2",
+        "question": "Write a sentence using passive voice ('are subjected to' or 'is plagued by') to describe the working conditions on the plantations.",
+        "placeholder": "Congolese plantation labourers are subjected to...",
+        "modelAnswer": "Congolese labourers on commercial plantations are subjected to unpaid wages and harsh working conditions, while their daily lives are plagued by violence and unlawful detention from company-directed security forces.",
+        "compareTip": "Verify that you used passive structures like 'are subjected to' or 'are plagued by' to emphasize the hardships endured by plantation workers.",
+        "targetWords": 30,
+        "minWords": 18,
+        "maxWords": 45
+      },
+      {
+        "id": "wp3",
+        "question": "Write a cause-and-effect sentence showing how King Leopold's historical ownership links to modern private equity control.",
+        "placeholder": "Because King Leopold's 140-year-old private land was never returned to Congolese owners, it resulted in...",
+        "modelAnswer": "Because the vast territory seized by King Leopold 140 years ago was never returned to its original Congolese owners, it remains controlled today by a U.S. private equity fund, resulting in ongoing economic exploitation.",
+        "compareTip": "Check that your sentence clearly links the failure to return historical colonial land directly to modern private equity control using a cause-and-effect structure.",
+        "targetWords": 33,
+        "minWords": 20,
+        "maxWords": 50
+      },
+      {
+        "id": "wp4",
+        "question": "Write an attribution sentence explaining the author's rejection of the 'resource curse' using 'Rather, ... to blame'.",
+        "placeholder": "According to Source C, the author rejects the concept of a resource curse, arguing that rather, ...",
+        "modelAnswer": "According to Source C, the author rejects the idea of a natural resource curse, arguing that rather, it is the cold and cynical attitude of governments and corporate actors that are to blame for Congo's widespread poverty.",
+        "compareTip": "Ensure your sentence includes source attribution ('According to Source C') and uses 'rather' to highlight that corporate and governmental attitudes are to blame.",
+        "targetWords": 35,
+        "minWords": 20,
+        "maxWords": 50
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based historical explanation paragraph answering the prompt below. Adhere strictly to the word count target and verify your draft against the checklist.",
+    "prompt": "According to Source C, how have colonialism and newer forms of extraction affected the DRC? Write an evidence-based explanation paragraph of 100–140 words. Include at least three specific details from the text, explain one historical comparison between past and present control, use cause-and-effect language, and attribute the author's conclusion regarding the 'resource curse.'",
+    "checklist": [
+      "clear controlling idea answering how colonialism and extraction affected the DRC",
+      "at least three accurate details from the original text (e.g., King Leopold/Berlin Conference, U.S. private equity/plantations, Lokutu 2019, or palm oil/tech mineral extraction)",
+      "one comparison linking historical colonial ownership to present-day corporate extraction",
+      "accurate cause-and-effect language (e.g., 'resulting in', 'fueled by', 'consequently', 'driving this exploitation')",
+      "one explicit source-reporting phrase such as 'According to Source C' or 'the author asserts'",
+      "accurate explanation of the author's rejection of the 'resource curse' ('there is no curse; rather...')",
+      "no invented statistics, current political facts, graphic embellishments, or outside commentary",
+      "the author's thesis is presented objectively as a viewpoint/argument",
+      "logical organization, transitions, and conclusion",
+      "strictly 100–140 words"
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "According to Source C, the Democratic Republic of the Congo has suffered continuous economic exploitation, violence, and institutional devastation from both historical colonialism and modern resource extraction. 140 years ago, King Leopold established sole ownership of the territory, causing millions of deaths. Today, rather than being returned to local communities, that same land is controlled by a U.S. private equity fund, resulting in unpaid wages, brutal repression on plantations, and police firing live bullets at Lokutu protesters in 2019. Furthermore, modern tech and palm oil firms extract vast riches while the eastern provinces endure deadly conflicts. Consequently, the author rejects the notion of a natural 'resource curse,' arguing that the cold, cynical choices of governments and corporate actors are directly to blame for persistent poverty.",
+    "compareTip": "Review your draft against the checklist: verify that you included source attribution, cited both historical (Leopold/Berlin) and modern (private equity/tech/Lokutu) details, used cause-and-effect connectors ('resulting in', 'consequently'), and remained between 100 and 140 words."
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "instructions": "Review your final writing piece against these six criteria before submitting your work.",
+    "items": [
+      {
+        "text": "My writing is strictly based on the details in Source C without inventing outside historical statistics or political judgments."
+      },
+      {
+        "text": "I explained how historical ownership under King Leopold evolved into modern private equity and corporate extraction."
+      },
+      {
+        "text": "I cited at least three specific details from the reading (e.g., Berlin Conference, Lokutu 2019, plantation conditions, tech mineral extraction)."
+      },
+      {
+        "text": "I demonstrated cause-and-effect relationships and used passive voice accurately to describe the subjection of communities."
+      },
+      {
+        "text": "I used cautious source-reporting language (e.g., 'According to Source C', 'Mousseau argues') to attribute the text's claims."
+      },
+      {
+        "text": "My final paragraph is logically structured, explains why the author rejects the 'resource curse', and contains strictly 100–140 words."
+      }
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 1,
+        "rationale": "Option B provides the comprehensive controlling thesis of Source C: that 140 years of colonial ownership and contemporary corporate extraction have dispossessed the Congolese people of their wealth, with the author emphasizing corporate and governmental accountability over an inevitable curse."
+      },
+      "readingComprehension": [
+        {
+          "id": "rc1",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 explicitly notes that 140 years ago at the Berlin Conference, King Leopold of Belgium was recognized as sole owner of the Congo Free State, beginning brutal exploitation."
+        },
+        {
+          "id": "rc2",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 directly reports that the land stolen 140 years ago has not been returned to Congolese owners, but is now controlled by a U.S.-based private equity fund funneling profits to investors."
+        },
+        {
+          "id": "rc3",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 states that when Lokutu residents rose up in March 2019, Congolese police dispatched to suppress demonstrations fired live bullets into the crowd."
+        },
+        {
+          "id": "rc4",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 explicitly identifies the mineral-rich eastern region as the area where bloody conflicts have claimed millions of lives over the past three decades."
+        },
+        {
+          "id": "rc5",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 cites palm oil producing firms and tech companies profiting from mineral extraction as key corporate actors impacting the nation's economy."
+        },
+        {
+          "id": "rc6",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 concludes that there is no mysterious 'curse'; rather, the cold and cynical attitudes of governments and corporate actors are to blame."
+        }
+      ]
+    },
+    "modelAnswer": {
+      "finalWritingTask": "According to Source C, the Democratic Republic of the Congo has suffered continuous economic exploitation, violence, and institutional devastation from both historical colonialism and modern resource extraction. 140 years ago, King Leopold established sole ownership of the territory, causing millions of deaths. Today, rather than being returned to local communities, that same land is controlled by a U.S. private equity fund, resulting in unpaid wages, brutal repression on plantations, and police firing live bullets at Lokutu protesters in 2019. Furthermore, modern tech and palm oil firms extract vast riches while the eastern provinces endure deadly conflicts. Consequently, the author rejects the notion of a natural 'resource curse,' arguing that the cold, cynical choices of governments and corporate actors are directly to blame for persistent poverty."
+    },
+    "rubric": {
+      "title": "Analytical Writing Rubric (Grade 9 ESL)",
+      "categories": [
+        {
+          "name": "Content & Ideas",
+          "description": "Clear controlling idea tracing historical ownership to modern corporate extraction; comprehensive understanding of Source C's core thesis.",
+          "score4": "Develops a perceptive controlling idea clearly linking King Leopold's ownership to modern private equity; thoroughly explains why the author rejects the resource curse.",
+          "score3": "States a clear controlling idea covering historical and modern exploitation; addresses the author's rejection of the curse.",
+          "score2": "Identifies exploitation but fails to clearly link past ownership to present corporate control; partial explanation of the curse.",
+          "score1": "Lacks a clear controlling idea or relies on irrelevant outside historical information."
+        },
+        {
+          "name": "Evidence Use",
+          "description": "Accuracy, relevance, and density of factual details cited directly from Source C without outside embellishment.",
+          "score4": "Integrates at least three highly specific details (e.g., Berlin Conference/140 years, U.S. private equity fund, Lokutu 2019, tech/palm oil extraction) seamlessly.",
+          "score3": "Includes two or three accurate details from the text with minor lapses in precision.",
+          "score2": "Includes only one or two vague references; minimal textual grounding.",
+          "score1": "Provides inaccurate evidence or invents historical facts not found in the source."
+        },
+        {
+          "name": "Target Language & Structure",
+          "description": "Use of passive voice, cause-and-effect transitions, contrast markers, and cautious authorial attribution.",
+          "score4": "Expertly uses passive constructions ('was recognized', 'are subjected to'), sophisticated cause-and-effect transitions ('resulting in', 'consequently'), and clear attribution.",
+          "score3": "Uses passive voice and cause-and-effect transitions correctly with occasional minor awkwardness; includes source attribution.",
+          "score2": "Inconsistent use of target grammatical structures; weak or missing attribution.",
+          "score1": "Frequent grammatical breakdowns that impede academic comprehension; no attribution."
+        },
+        {
+          "name": "Organization",
+          "description": "Logical paragraph architecture, chronological sequence, transitional coherence, and concluding synthesis.",
+          "score4": "Follows an exemplary chronological and thematic progression from 1884 to present day, ending with a strong analytical conclusion on corporate agency.",
+          "score3": "Logically structured with clear progression and appropriate transitions between past and present.",
+          "score2": "Somewhat disjointed organization; shifts between historical and modern facts without clear transitions.",
+          "score1": "Disorganized list of disjointed sentences lacking paragraph unity."
+        },
+        {
+          "name": "Accuracy & Word Count",
+          "description": "Strict adherence to the 100–140 word count parameter, mechanical precision, and academic register.",
+          "score4": "Word count strictly between 100 and 140 words; impeccable punctuation, capitalization, and academic register.",
+          "score3": "Word count between 95 and 145 words; minor punctuation errors that do not hinder clarity.",
+          "score2": "Noticeably under or over word length (80–94 or 146–160 words); noticeable mechanical errors.",
+          "score1": "Severe length violation (<80 or >160 words); pervasive spelling and punctuation errors."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "1. Source C and Author Context",
+        "note": "The reading is labeled 'Source C:' and authored by Soleil-Chandi Mousseau, published in African Arguments in 2024. Remind students that African Arguments is a contemporary analysis platform focused on African political economy. This 2024 source offers a modern critique that directly bridges 19th-century colonial history with 21st-century private equity capital."
+      },
+      {
+        "topic": "2. The 140-Year Berlin Conference Milestone",
+        "note": "The text opens with '140 years ago this November at the Berlin Conference (1884).' King Leopold II of Belgium was recognized as the sole personal proprietor of the Congo Free State, not as a Belgian state colony at that time, but as his private commercial domain. Emphasize to students that this personal ownership set the structural precedent for treating the territory's resources as private commercial property."
+      },
+      {
+        "topic": "3. Atrocities of Leopold's Exploitation",
+        "note": "Leopold's reign is summarized in Paragraph 1 as 'marked by slavery, millions of deaths, and widespread atrocities committed during the first colonial exploitation.' Guide students to note how the author uses concise, restrained academic phrasing rather than graphic sensationalism to establish the severity of historical violence."
+      },
+      {
+        "topic": "4. The 64-Year Post-Independence Disillusionment",
+        "note": "Paragraph 2 begins '64 years after its independence (1960–2024).' Point out that independence did not dismantle extractive colonial property structures. Students should recognize the ongoing continuity: political independence occurred, but economic liberation and land restitution remain unfulfilled."
+      },
+      {
+        "topic": "5. Private Property Continuity and Private Equity",
+        "note": "The author highlights the remarkable irony that land seized 140 years ago as the private property of a Belgian monarch has still not been returned to Congolese owners. Instead, it is owned by a U.S.-based private equity fund. Help students analyze how capital ownership has transitioned from European monarchy to American financial investment funds."
+      },
+      {
+        "topic": "6. Plantation Labor Realities",
+        "note": "Workers on commercial plantations are subjected to unpaid wages and harsh working conditions. Discuss the phrase 'subjected to unpaid wages'—highlighting how passive grammatical structures emphasize the vulnerability of laborers in corporate supply chains."
+      },
+      {
+        "topic": "7. Company-Directed Repression and Security Forces",
+        "note": "The author notes that day-to-day life is plagued by violence and repression carried out by plantation security forces and company-directed police forces, including detentions, beatings, and torture. Point out how corporate management exercises direct coercive power over local communities."
+      },
+      {
+        "topic": "8. The Lokutu Uprising of March 2019",
+        "note": "In March 2019, residents in Lokutu protested against ongoing corporate labor abuses, and Congolese police sent to suppress them fired live ammunition into the crowd. Direct students to use Lokutu as a concrete, dated historical anchor in their analytical paragraphs."
+      },
+      {
+        "topic": "9. New Forms of Extraction in the Eastern Region",
+        "note": "Paragraph 3 shifts from agricultural plantations to mining in the mineral-rich eastern region, where three decades of armed conflict have claimed millions of lives. Emphasize that extraction takes multiple simultaneous forms: agricultural (palm oil) and geological (minerals)."
+      },
+      {
+        "topic": "10. Palm Oil Firms and Tech Corporations",
+        "note": "The author explicitly identifies both palm oil agribusinesses and tech companies profiting from mineral extraction (such as cobalt and coltan used in electronics). Emphasize that modern extraction connects directly to consumer electronics and global commodity markets."
+      },
+      {
+        "topic": "11. Deconstructing the 'Resource Curse'",
+        "note": "The concept of the 'resource curse' is often used in economics to describe resource-wealthy nations suffering from poverty. Mousseau boldly dismantles this framing, asserting: 'looking at the forces driving this exploitation, there is no curse.' This is the philosophical core of Source C."
+      },
+      {
+        "topic": "12. Human Agency vs. Inevitable Mysticism",
+        "note": "The text concludes: 'Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame.' Teach students that the author replaces passive fatalism ('a curse') with direct moral and institutional accountability ('governments and corporate actors')."
+      },
+      {
+        "topic": "13. Preserving the Textual Anomaly (No Ending Period)",
+        "note": "The final sentence of the source text does not have a terminating period ('...that are to blame'). Highlight this editorial nuance: students must quote or analyze the text exactly as published without inventing or altering textual boundaries."
+      },
+      {
+        "topic": "14. Avoiding External Political and Graphic Details",
+        "note": "Guide students to stay strictly within the four corners of Source C. Do not introduce outside names, geopolitical debates, or graphic wartime descriptions that are absent from Mousseau's article."
+      },
+      {
+        "topic": "15. Scaffold for G1 (Emerging ESL) Learners",
+        "note": "For G1 students, provide structured sentence frames focusing on chronology (e.g., 'In 1884, ... Today, ... In conclusion, ...') and pre-teach the vocabulary items 'extraction', 'plantation', and 'resource curse'."
+      },
+      {
+        "topic": "16. Extension for G2 (Advanced ESL) Learners",
+        "note": "Encourage G2 learners to contrast Dan Snow's Source B ('a blessing turned into a curse') with Mousseau's Source C ('there is no curse; rather...'), evaluating how Mousseau actively refutes the metaphorical curse concept by demanding institutional accountability."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "Phase A: Opening and Lesson Goal",
+        "durationMinutes": 5,
+        "objective": "Introduce Source C by Soleil-Chandi Mousseau, establish the 90-minute historical analysis goal, and clarify how modern corporate extraction revamps colonial exploitation.",
+        "teacherActions": "Display the lesson title, highlight the 2024 citation from African Arguments, outline the 90-minute structure, and introduce the central question of how historical ownership evolved into modern corporate control.",
+        "scriptEn": "Good morning, Grade 9 scholars. Today we examine Source C, titled 'Colonialism Revamped in the Democratic Republic of the Congo', written by Soleil-Chandi Mousseau in 2024. Over the next 90 minutes, we will trace how the private ownership of King Leopold 140 years ago transformed into modern private equity control and corporate mineral extraction. You will master passive structures, cause-and-effect transitions, and cautious attribution, culminating in an evidence-based explanation paragraph of 100 to 140 words.",
+        "scriptKo": "좋은 아침입니다, 9학년 학생 여러분. 오늘 우리는 2024년 솔레유-샹디 무소가 쓴 '콩고민주공화국에서 새롭게 부활한 식민주의'라는 Source C 글을 분석합니다. 앞으로 90분 동안, 우리는 140년 전 레오폴드 국왕의 개인 사유지 통치가 어떻게 현대 사모펀드와 다국적 기업의 자원 수탈로 이어졌는지 추적할 것입니다. 수동태, 인과관계 연결어, 신중한 출처 인용법을 익혀 100~140단어의 완성도 높은 근거 기반 역사 설명 문단을 작성하게 될 것입니다.",
+        "studentActions": "Open notebooks, read the displayed lesson goal, note the author and publication date, and prepare to analyze the transition from past colonialism to modern extraction.",
+        "misconceptionFeedback": "If students assume colonialism completely vanished when African nations gained political independence in the 1960s, emphasize that economic control and land ownership often persisted through foreign corporations and financial funds.",
+        "transition": "To ground our thinking in foundational concepts before reading, let us explore the three Warm-up questions."
+      },
+      {
+        "phase": "Phase B: Warm-up and Conceptual Activation",
+        "durationMinutes": 10,
+        "objective": "Activate prior reasoning regarding definitions of colonialism, natural resource wealth versus conflict, and the academic distinction between source claims and general knowledge.",
+        "teacherActions": "Facilitate paired student discussion on the three warm-up questions; elicit responses emphasizing that colonialism can take economic forms and that academic essays must evaluate specific author claims.",
+        "scriptEn": "Turn to your partner for Question 1: How would you define colonialism in your own words, and what kinds of control can one group exert over another? Notice that control is not only military—it can be financial, legal, and commercial. For Question 2, consider why valuable minerals might bring violence rather than prosperity. And for Question 3, why must we strictly evaluate Mousseau's specific arguments rather than relying on generalized background impressions?",
+        "scriptKo": "짝과 함께 1번 질문을 논의해 보세요: 여러분 자신의 말로 식민주의를 어떻게 정의할 수 있으며, 한 집단이 다른 집단에 어떤 유형의 통제력을 행사할 수 있을까요? 통제는 군사적인 것뿐만 아니라 금융, 법률, 상업적 형태로도 나타날 수 있음을 주목하세요. 2번 질문에서는 왜 귀중한 광물이 번영 대신 폭력을 초래할 수 있는지 생각해 보세요. 그리고 3번 질문에서는 왜 일반적인 배경지식에 의존하지 않고 무소 작가의 구체적 논증을 정확히 구분하여 평가해야 하는지 짚어보세요.",
+        "studentActions": "Discuss in pairs, record definitions using the sentence starters, and share initial hypotheses with the whole class.",
+        "misconceptionFeedback": "Clarify that answering academic reading prompts requires fidelity to the author's visible text rather than bringing in unverifiable outside trivia.",
+        "transition": "Now, let us examine the core vocabulary that unlocks the author's precise economic and historical critique."
+      },
+      {
+        "phase": "Phase C: Vocabulary in Context",
+        "durationMinutes": 12,
+        "objective": "Master the 10 target academic terms in context: colonialism, extraction, atrocities, private property, plantation, labourer, repression, mineral-rich, resource curse, and corporate actors.",
+        "teacherActions": "Display the 10 vocabulary terms; pronounce each word, explain the part of speech and English/Korean meanings, and analyze how terms like 'extraction' and 'corporate actors' convey economic agency.",
+        "scriptEn": "Let us examine our 10 key terms. Notice word 2, 'extraction'—in geology it means taking minerals out of the ground, but in political economy it carries the connotation of draining wealth away from local communities. Look at word 4, 'private property'—how King Leopold turned an entire country into his personal estate. And pay special attention to word 9, 'resource curse', and word 10, 'corporate actors'—these two phrases form the central debate in the conclusion of our article.",
+        "scriptKo": "10개의 핵심 어휘를 살펴봅시다. 2번 단어 'extraction(채굴/수탈)'을 보세요. 지질학적으로는 광물을 땅에서 파내는 것이지만, 정치경제학에서는 지역 사회로부터 부를 외부로 빼돌린다는 뉘앙스를 지닙니다. 4번 'private property(사유 재산)'은 레오폴드 국왕이 한 국가 전체를 개인 소유지로 만들었음을 보여줍니다. 그리고 9번 'resource curse(자원의 저주)'와 10번 'corporate actors(기업 행위자들)'에 주목하세요. 이 두 표현이 기사 결론부의 핵심 쟁점을 형성합니다.",
+        "studentActions": "Choral read the vocabulary terms, annotate definitions in student workbooks, and identify each word in the source paragraphs.",
+        "misconceptionFeedback": "Ensure students do not confuse 'extraction' with benign harvesting; in this context, it implies unilateral resource removal without equitable local reinvestment.",
+        "transition": "With these vocabulary anchors established, let us read Source C closely as a unified historical text."
+      },
+      {
+        "phase": "Phase D: Source Reading & Structural Orientation",
+        "durationMinutes": 10,
+        "objective": "Read Source C with complete textual integrity, mapping the three paragraphs from 1884 Berlin, to 2019 Lokutu plantations, to modern eastern mineral extraction.",
+        "teacherActions": "Model read the visible text of Source C; instruct students to follow along, noting paragraph breaks, chronological dates (140 years ago, 64 years after, March 2019, past three decades), and the final sentence structure.",
+        "scriptEn": "Follow along as I read Source C aloud. Observe the clean three-paragraph structure. Paragraph 1 establishes King Leopold's 1884 Berlin Conference ownership. Paragraph 2 brings us to present-day oil palm plantations owned by an American private equity fund and the 2019 Lokutu uprising. Paragraph 3 shifts to the eastern mineral mines, tech firms, and the author's decisive rejection of the 'resource curse'. Notice how the final sentence ends with 'are to blame' without a period.",
+        "scriptKo": "제가 Source C를 소리 내어 읽는 동안 눈으로 본문을 따라오세요. 명확한 3개 문단 구조에 주목해 보세요. 1문단은 1884년 베를린 회담 당시 레오폴드 국왕의 소유권을 다룹니다. 2문단은 미국 사모펀드가 소유한 현대의 야자유 플랜테이션과 2019년 로쿠투 시위를 조명합니다. 3문단은 동부 광산, 기술 기업들, 그리고 '자원의 저주'에 대한 작가의 단호한 반박으로 이어집니다. 마지막 문장이 마침표 없이 'are to blame'으로 끝나는 원문 특징도 눈여겨보세요.",
+        "studentActions": "Track the text with fingers or pens, underline dates and institutional actors, and confirm the three continuous paragraphs without adding outside facts.",
+        "misconceptionFeedback": "Remind students not to add a full stop to the final quote if copying verbatim, preserving the source's exact published punctuation.",
+        "transition": "Let us now verify our comprehension of the text's central argument through the Main Idea and Comprehension questions."
+      },
+      {
+        "phase": "Phase E: Main Idea & Reading Comprehension Checks",
+        "durationMinutes": 18,
+        "objective": "Demonstrate accurate comprehension across 1 Main Idea question and 6 four-option Reading Comprehension items, analyzing textual rationales for each option.",
+        "teacherActions": "Guide students through the Main Idea MCQ and the 6 RC items; encourage them to locate the exact sentence in Source C that proves each correct option while disproving distractors.",
+        "scriptEn": "Let us examine our Main Idea question. Why is Option B the only accurate choice? Because it synthesizes the entire arc: historical ownership, modern corporate extraction, and Mousseau's argument placing blame on human actors rather than a mythical curse. Now move through the six comprehension questions. For each question, highlight the exact sentence in Paragraph 1, 2, or 3 that confirms your answer.",
+        "scriptKo": "메인 아이디어 질문을 살펴봅시다. 왜 B번만이 유일하게 정확한 답일까요? 역사적 소유권, 현대의 기업 수탈, 그리고 신화적 저주 대신 인간 행위자들에게 책임을 묻는 무소 작가의 핵심 주장을 포괄하고 있기 때문입니다. 이제 6개의 독해 문항을 풀어보세요. 각 문항마다 정답을 뒷받침하는 1문단, 2문단, 3문단의 구체적인 문장을 찾아 형광펜으로 표시해 보세요.",
+        "studentActions": "Select answers independently on the interactive webapp, review immediate O/X feedback explanations, and correct misconceptions.",
+        "misconceptionFeedback": "In RC 6, guide students away from assuming the author agrees with the 'resource curse'; emphasize that Mousseau explicitly writes 'there is no curse.'",
+        "transition": "Next, we transition from multiple-choice recognition to active written analysis in Evidence and Language Focus."
+      },
+      {
+        "phase": "Phase F: Evidence Retrieval & Language Focus",
+        "durationMinutes": 12,
+        "objective": "Construct concise evidence statements for prompts 1–3 and analyze grammatical structures: passive voice, cause-and-effect connectors, and cautious authorial attribution.",
+        "teacherActions": "Review the three Evidence prompts; guide students to write grounded answers, utilize 'Compare with Model', and analyze the Language Focus patterns on passive voice and cause-and-effect.",
+        "scriptEn": "In Evidence prompt 1, cite the Berlin Conference and Leopold's reign of terror. In prompt 2, document the U.S. private equity fund and the 2019 Lokutu incident. In prompt 3, explain how Mousseau redefines the resource curse. In our Language Focus, study how the passive voice ('was recognized', 'are subjected to') highlights the subjection of the Congolese people, while participles like 'resulting in' link economic systems directly to human suffering.",
+        "scriptKo": "근거 1번 질문에서는 베를린 회담과 레오폴드의 폭정을 인용하세요. 2번에서는 미국 사모펀드와 2019년 로쿠투 사건을 서술하세요. 3번에서는 무소 작가가 자원의 저주를 어떻게 재정의하는지 설명하세요. 언어 집중 탐구에서는 수동태 구문('was recognized', 'are subjected to')이 어떻게 콩고인들의 고통과 종속을 부각시키는지, 그리고 'resulting in' 같은 분사 구문이 경제 체제와 인간의 비극을 직접 연결하는 방식을 학습하세요.",
+        "studentActions": "Draft written answers in the textareas, click 'Compare with Model', analyze differences, and study the six language patterns.",
+        "misconceptionFeedback": "Ensure students do not write emotional rants; keep their evidence objective, accurate, and tied directly to the author's statements.",
+        "transition": "Let us now apply these structures directly in our Writing Practice sentences before producing the final paragraph."
+      },
+      {
+        "phase": "Phase G: Guided Writing Practice & Final Task Drafting",
+        "durationMinutes": 18,
+        "objective": "Execute the 4 Writing Practice items and draft the 100–140 word final explanation paragraph adhering strictly to the 10-point checklist.",
+        "teacherActions": "Monitor student writing; enforce target word counts (100–140 words), verify inclusion of three specific details, ensure proper cause-and-effect transitions, and guide students to click 'Compare with Model'.",
+        "scriptEn": "Complete the four Writing Practice sentences first to calibrate your sentence mechanics. Then begin your Final Writing Task: 'According to Source C, how have colonialism and newer forms of extraction affected the DRC?' Remember your checklist: you need 100 to 140 words, at least three factual details from Leopold to Lokutu, one cause-and-effect transition, and an explicit explanation of Mousseau's conclusion on the resource curse. Keep your word counter between 100 and 140.",
+        "scriptKo": "문장 구조를 다듬기 위해 먼저 4개의 쓰기 연습 문항을 작성하세요. 그런 다음 최종 작문 과제로 넘어갑니다: 'Source C에 따르면, 식민주의와 새로운 형태의 자원 수탈이 DRC에 어떤 영향을 미쳤는가?' 체크리스트를 꼭 기억하세요: 100~140단어 길이, 레오폴드부터 로쿠투까지 최소 3개의 사실적 세부사항, 인과관계 연결어 1개 이상, 자원의 저주에 대한 무소 작가의 결론을 명확히 담아야 합니다. 글자 수 계수기가 100~140 범위 내에 머물도록 유지하세요.",
+        "studentActions": "Draft practice sentences, review models, compose the 100–140 word final paragraph in the text area, monitor word count, and check against rubric criteria.",
+        "misconceptionFeedback": "Warn students against dropping under 100 words or exceeding 140 words. If a student is at 90 words, advise them to add specific details such as the March 2019 Lokutu uprising or tech companies profiting from mineral extraction.",
+        "transition": "To finalize our learning, let us verify our work against the Self-Check checklist and review submission steps."
+      },
+      {
+        "phase": "Phase H: Self-Check, Submission & Teacher Wrap-up",
+        "durationMinutes": 5,
+        "objective": "Verify completion across all 6 Self-Check criteria, confirm student submission, and summarize the key historical lesson of Source C.",
+        "teacherActions": "Lead students through the 6 Self-Check items; confirm that responses are safely stored, praise precise textual analysis, and synthesize how Source C reframes modern resource extraction.",
+        "scriptEn": "Check off each of your 6 Self-Check items. Did you avoid outside inventions? Did you trace from King Leopold to modern private equity? Did you include cause-and-effect language and attribution? Once verified, click submit. Today, you moved beyond simplistic historical narratives to demonstrate how colonial property relations can persist under new economic labels. Excellent analytical work today, Grade 9.",
+        "scriptKo": "6개의 자체 점검 항목을 하나씩 확인하며 체크하세요. 외부의 지어낸 사실을 배제했나요? 레오폴드 국왕부터 현대의 사모펀드까지 역사적 흐름을 추적했나요? 인과관계 표현과 출처 인용구를 포함했나요? 검토가 끝났다면 제출 버튼을 누르세요. 오늘 여러분은 단순한 역사 이야기를 넘어, 식민지적 소유 관계가 어떻게 새로운 경제적 외피를 쓰고 지속되는지 명확히 입증했습니다. 훌륭한 학술적 분석이었습니다, 9학년 여러분.",
+        "studentActions": "Check all 6 Self-Check boxes, submit work, verify that their attempt is saved, and pack materials.",
+        "misconceptionFeedback": "If any student has unchecked boxes, give them two minutes to make rapid edits to meet the checklist criteria before dismissing.",
+        "transition": "Dismiss the class and prepare teacher feedback based on the analytic rubric."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "option": "Option 1: Historical Inquiry & Continuity Hook",
+        "english": "Good morning, scholars. / Imagine an entire nation / rich with rubber, palm oil, and precious minerals / being declared the private property of a single foreign king. / That happened 140 years ago in the Congo. / But what happened to that land / after independence? / As our author Soleil-Chandi Mousseau reveals, / it was never returned to its people— / it is now held by an American private equity fund. / Today we will trace this remarkable story / of colonialism revamped.",
+        "directKorean": "좋은 아침입니다, 학생 여러분. / 상상해 보세요 한 국가 전체가 / 고무, 야자유, 그리고 귀중한 광물로 풍부한 / 단 한 명의 외국 국왕의 사유 재산으로 선포되는 것을. / 그것이 140년 전 콩고에서 일어났습니다. / 그러나 그 땅에 무슨 일이 일어났을까요 / 독립 이후에? / 우리의 작가 솔레유-샹디 무소가 밝히듯이, / 그것은 결코 그 국민들에게 반환되지 않았습니다— / 그것은 지금 한 미국 사모펀드에 의해 쥐어져 있습니다. / 오늘 우리는 이 놀라운 이야기를 추적할 것입니다 / 새롭게 부활한 식민주의의.",
+        "naturalKorean": "좋은 아침입니다, 학생 여러분. 고무와 야자유, 값진 광물이 풍부한 거대한 나라 전체가 단 한 명의 외국 국왕의 개인 사유지로 선포되었던 역사를 상상해 보세요. 140년 전 콩고에서 실제로 일어났던 일입니다. 그렇다면 독립 이후 그 땅은 어떻게 되었을까요? 오늘 우리가 읽을 글의 작가 솔레유-샹디 무소가 밝히듯, 그 땅은 주민들에게 반환되지 않은 채 현재 미국의 한 사모펀드가 장악하고 있습니다. 오늘 우리는 이처럼 새로운 외피를 쓰고 부활한 식민주의의 실체를 추적해 볼 것입니다.",
+        "purpose": "Hooks student interest through the historical continuity between King Leopold's private property in 1884 and modern private equity ownership."
+      },
+      {
+        "option": "Option 2: Critical Source Literacy & Disciplinary Hook",
+        "english": "Welcome, class. / As Grade 9 scholars, / our job is not to accept broad historical slogans, / but to read primary and secondary evidence with precision. / Today's text is Source C, / written by Soleil-Chandi Mousseau for African Arguments in 2024. / The author makes a provocative claim: / that the famous 'resource curse' is not a curse at all, / but the result of cold corporate decisions. / Our goal is to examine how the author builds this argument / through facts, dates, and cause-and-effect language.",
+        "directKorean": "환영합니다, 학생 여러분. / 9학년 학자로서, / 우리의 일은 거친 역사적 구호를 무비판적으로 수용하는 것이 아니라, / 1차 및 2차 사료의 근거를 정밀하게 읽어내는 것입니다. / 오늘의 텍스트는 Source C입니다, / 2024년 아프리칸 아규먼츠에 솔레유-샹디 무소가 기고한. / 작가는 도발적인 주장을 펼칩니다: / 유명한 '자원의 저주'는 결코 저주가 아니며, / 냉혹한 기업적 결정들의 결과라는 것입니다. / 우리의 목표는 작가가 이 논증을 어떻게 구축하는지 살펴보는 것입니다 / 사실, 연도, 그리고 인과관계 언어를 통하여.",
+        "naturalKorean": "환영합니다, 학생 여러분. 9학년 학자로서 우리가 해야 할 일은 막연한 역사적 통념을 그대로 받아들이는 것이 아니라, 텍스트에 담긴 근거를 정밀하게 분석하는 것입니다. 오늘 읽을 글은 2024년 솔레유-샹디 무소가 아프리칸 아규먼츠에 발표한 Source C입니다. 작가는 '자원의 저주'란 결코 저주가 아니며 기업들의 냉혹한 계산이 낳은 결과라는 도발적인 주장을 제기합니다. 우리는 작가가 구체적 사실과 연도, 인과관계 표현을 통해 이 논제를 어떻게 증명하는지 깊이 있게 살펴볼 것입니다.",
+        "purpose": "Focuses on academic disciplinary literacy, textual objectivity, and analytical evaluation of an author's thesis."
+      },
+      {
+        "option": "Option 3: Language & Economic Discourse Hook",
+        "english": "Hello, scholars. / Take a look at the phrase on your screens: / 'corporate actors that are to blame.' / Notice the grammatical and philosophical shift. / When people say 'resource curse,' / it sounds like bad luck or magic. / But when Mousseau writes 'corporate actors,' / the blame falls squarely on human institutions. / In this lesson, / we will master the language of accountability— / using passive voice to describe suffering / and active causal verbs to explain exploitation.",
+        "directKorean": "안녕하세요, 학생 여러분. / 화면에 뜬 어구를 주목해 보세요: / '비난받아야 할 기업 행위자들.' / 문법적이고 철학적인 전환을 주목해 보세요. / 사람들이 '자원의 저주'라고 말할 때, / 그것은 불운이나 마법처럼 들립니다. / 그러나 무소가 '기업 행위자들'이라고 쓸 때, / 비난은 정면으로 인간의 제도에 떨어집니다. / 이 수업에서, / 우리는 책임의 언어를 마스터할 것입니다— / 고통을 묘사하기 위해 수동태를 사용하고 / 착취를 설명하기 위해 능동적 인과 동사를 사용하여.",
+        "naturalKorean": "안녕하세요, 여러분. 화면에 있는 '비난받아야 할 기업 행위자들'이라는 어구를 눈여겨보세요. 여기서 일어나는 문법적, 철학적 전환에 주목해야 합니다. 흔히 '자원의 저주'라고 부르면 마치 피할 수 없는 불운이나 마법처럼 느껴집니다. 하지만 무소 작가가 '기업 행위자들'을 지목하는 순간, 책임은 명확히 인간의 제도와 기업에게 돌아갑니다. 오늘 수업에서 우리는 고통을 드러내는 수동태와 수탈을 규명하는 인과적 동사를 익혀 명확한 책임의 언어를 체득할 것입니다.",
+        "purpose": "Connects linguistic form directly to sociological critique, preparing students to master accountability language."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "focus": "Defining Colonialism & Modes of Control",
+        "teacherTalk": "When students share their definitions of colonialism, guide them beyond 19th-century military conquest. Ask: Can a company or investment fund control a territory without flying a national flag? Introduce the idea of economic and legal control through land deeds, concessions, and private security forces.",
+        "sampleStudentAnswer": "Colonialism is when a powerful external group takes control of another country's land, people, and economy to extract wealth for themselves.",
+        "followUpQuestion": "If a foreign company owns all the agricultural land and controls the police, is that a modern form of colonialism?"
+      },
+      "q2": {
+        "focus": "Natural Resources: Opportunity vs. Conflict",
+        "teacherTalk": "Elicit student perspectives on why mineral riches often correlate with poverty and violence. Point out that valuable minerals create high stakes for control: when governments are weak and multinational corporations or warlords compete for profits, wealth fuels conflict rather than public infrastructure.",
+        "sampleStudentAnswer": "Valuable natural resources can lead to severe conflict because armed groups and powerful corporations fight to control the profits instead of sharing them with local citizens.",
+        "followUpQuestion": "Why don't the profits from oil or minerals automatically translate into hospitals, schools, and paved roads for everyone?"
+      },
+      "q3": {
+        "focus": "Source Claims vs. Prior Knowledge",
+        "teacherTalk": "Emphasize disciplinary reading conventions in history and social sciences. Remind students that an academic essay requires them to answer what the text states and argues, not what they might assume from general news or movies.",
+        "sampleStudentAnswer": "Distinguishing an author's specific claim from general knowledge ensures our analysis is accurate, objective, and directly supported by textual evidence.",
+        "followUpQuestion": "What is the danger of writing an essay based on personal impressions rather than the specific author's argument?"
+      }
+    },
+    "sourceReadingGuide": {
+      "sourceLayout": "Source C is structured into three unified paragraphs. Paragraph 1 establishes historical 1884 Berlin Conference ownership. Paragraph 2 covers modern agricultural land control, private equity, and the 2019 Lokutu uprising. Paragraph 3 addresses eastern mineral extraction, tech companies, and rejects the 'resource curse'. Note that the final sentence ends with 'are to blame' without a terminal period.",
+      "citationGuidance": "Soleil-Chandi Mousseau, African Arguments, ‘Colonialism Revamped in the Democratic Republic of the Congo’, 2024. Point out that African Arguments provides a platform for critical African political analysis, framing extraction through modern global capitalism.",
+      "paragraphBoundaries": "Ensure students preserve the exact three-paragraph layout without inserting invented subheadings or transitional commentary in their reading views.",
+      "historicalSequence": "1884 Berlin Conference (King Leopold) -> 1960 Independence -> March 2019 Lokutu Uprising -> Present 30-Year Eastern Conflict & Corporate Extraction.",
+      "resourceCauseEffectChain": "Foreign Ownership of Land -> Unpaid Plantation Labor & Private Security Violence -> Eastern Mineral Extraction -> Corporate Shareholder Profits vs. Domestic Poverty -> Rejection of 'Curse' in Favor of Corporate Accountability.",
+      "finalMetaphor": "The author explicitly deconstructs the 'resource curse' metaphor. Rather than accepting poverty as an unfortunate geographic fate, Mousseau reassigns direct blame to the cold, cynical choices of governments and corporate actors."
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "colonialism",
+        "extraction",
+        "atrocities",
+        "private property",
+        "plantation",
+        "labourer",
+        "repression",
+        "mineral-rich",
+        "resource curse",
+        "corporate actors"
+      ],
+      "paradoxStructures": [
+        "While the DRC possesses exceptional natural wealth, it remains plagued by severe poverty.",
+        "Although the nation achieved independence 64 years ago, historical colonial land was never returned to its people."
+      ],
+      "causeEffectLanguage": [
+        "resulting in massive human suffering, land grabs, and poverty",
+        "which led to violent demonstrations in Lokutu",
+        "driving this exploitation and impacting the economy",
+        "consequently, the author rejects the concept of a natural curse"
+      ],
+      "passiveVoiceFormulas": [
+        "was recognized as the sole owner of the Congo Free State",
+        "was marked by slavery and widespread atrocities",
+        "is now controlled by a U.S.-based private equity fund",
+        "are subjected to unpaid wages and harsh working conditions",
+        "is plagued by violence and repression"
+      ],
+      "chronologicalSequencing": [
+        "140 years ago at the Berlin Conference...",
+        "Sixty-four years after achieving political independence...",
+        "In March 2019, when Lokutu residents rose up...",
+        "For the past three decades in the mineral-rich eastern region..."
+      ],
+      "contrastMarkers": [
+        "Remarkably, the land... has still not been returned...",
+        "Instead, it is now controlled by a private equity fund...",
+        "However, looking at the forces driving this exploitation...",
+        "Rather, it is the cold and cynical attitude of governments and corporations..."
+      ],
+      "attributionPhrases": [
+        "According to Source C,",
+        "Soleil-Chandi Mousseau argues that,",
+        "The author demonstrates how,",
+        "As reported in African Arguments,"
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence: State how Source C traces continuous exploitation from King Leopold to modern corporate extraction.",
+        "2. Historical Evidence: Detail the 1884 Berlin Conference and Leopold's brutal personal regime.",
+        "3. Modern Continuity: Explain how a U.S. private equity fund controls plantation land today, noting labor abuses and Lokutu 2019.",
+        "4. Eastern Extraction: Cite mineral extraction by tech firms and the deadly eastern conflicts.",
+        "5. Concluding Synthesis: Explain Mousseau's rejection of the 'resource curse' and placement of blame on corporate/state actors."
+      ],
+      "sentenceStarters": [
+        "According to Source C, the Democratic Republic of the Congo remains...",
+        "One hundred and forty years ago at the Berlin Conference, King Leopold was recognized as...",
+        "Remarkably, this historical land was never restored to Congolese communities; instead, it...",
+        "On commercial plantations, local labourers are subjected to...",
+        "Furthermore, modern tech companies profit from mineral extraction in the eastern region, where...",
+        "Consequently, the author rejects the notion of a 'resource curse,' concluding that rather,..."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "error": "Congo is very poor because resource curse happened by bad luck.",
+          "correction": "According to Source C, Congo's poverty is not caused by an inevitable resource curse, but by the cynical decisions of corporate actors.",
+          "explanation": "Korean learners often treat the 'resource curse' as an accepted natural law. In Source C, the author explicitly argues that 'there is no curse; rather, corporate actors are to blame.'"
+        },
+        {
+          "error": "King Leopold owned the Congo and then independence made everything free.",
+          "correction": "Although the DRC achieved independence 64 years ago, historical lands were never returned to Congolese owners and remain controlled by foreign private equity.",
+          "explanation": "Do not assume political independence resolved property rights. Emphasize the continuity of foreign corporate land ownership."
+        },
+        {
+          "error": "Police fired bullets so people are sad because plantation.",
+          "correction": "When residents in Lokutu demonstrated against harsh plantation conditions in March 2019, company-directed police fired live ammunition into the crowd.",
+          "explanation": "Replace childish, fragmented phrasing with precise historical details (Lokutu, March 2019) and formal cause-and-effect transitions."
+        },
+        {
+          "error": "U.S. fund funnels profits to investors and laborers get no money.",
+          "correction": "A U.S.-based private equity fund controls commercial plantations, funnelling profits to elite investors while local labourers are subjected to unpaid wages.",
+          "explanation": "Use advanced participial modifiers ('funnelling profits') and academic passive voice ('are subjected to') to elevate sentence sophistication."
+        }
+      ],
+      "g1Scaffold": "Provide a fill-in-the-blank chronological template focusing on three clear dates: 1884 (King Leopold), 2019 (Lokutu), and present day (tech extraction and rejection of the curse). Pre-teach 'are subjected to' and 'rather... to blame'.",
+      "g2Extension": "Prompt students to analyze the rhetoric of economic euphemism: compare how global economists use 'resource curse' to obscure responsibility, whereas Mousseau uses 'corporate actors' and 'land grabs' to demand legal and moral accountability.",
+      "teacherCorrectionPriorities": [
+        "Ensure students do not exceed 140 words or fall below 100 words.",
+        "Check that the student includes explicit attribution ('According to Source C').",
+        "Verify that at least three specific historical/modern details are cited (Leopold/Berlin, private equity/Lokutu, tech/palm oil).",
+        "Confirm that the student explains the rejection of the 'resource curse' accurately.",
+        "Ensure no outside political facts or graphic inventions are introduced."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source C is presented as a three-paragraph historical/current-affairs article with a source header ('Source C:') and bibliographic citation ('Soleil-Chandi Mousseau, African Arguments, ‘Colonialism Revamped in the Democratic Republic of the Congo’, 2024'). Below is the granular 15-sentence analysis providing deep linguistic and pedagogical scaffolding for Grade 9 ESL learners.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State, a territory including the entirety of today’s Democratic Republic of Congo (DRC).",
+          "chunkReading": "140 years ago this November / at the Berlin Conference, / Belgium’s King Leopold / was recognized as the sole owner / of the Congo Free State, / a territory including the entirety / of today’s Democratic Republic of Congo (DRC).",
+          "directKorean": "이번 11월로 140년 전 / 베를린 회담에서, / 벨기에의 레오폴드 국왕은 / 유일한 소유자로 인정받았습니다 / 콩고 자유국의, / 전체를 포함하는 영토인 / 오늘날의 콩고민주공화국(DRC)의.",
+          "naturalKorean": "이번 11월로 140년 전 베를린 회담에서 벨기에의 레오폴드 국왕은 오늘날 콩고민주공화국(DRC) 전체를 포함하는 영토인 콩고 자유국의 유일한 소유자로 공인되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "was recognized as",
+              "meaning": "~로 공인받았다, 인정받았다",
+              "use": "passive voice structure establishing diplomatic and legal authority granted by foreign powers",
+              "example": "The sovereign territory was recognized as an independent republic by neighboring nations."
+            },
+            {
+              "chunk": "the sole owner",
+              "meaning": "유일한 소유자",
+              "use": "noun phrase denoting absolute personal ownership rather than collective state control",
+              "example": "The investor became the sole owner of the historic shipping company."
+            },
+            {
+              "chunk": "including the entirety of",
+              "meaning": "~의 전체를 포함하는",
+              "use": "prepositional participial modifier denoting complete geographical inclusion",
+              "example": "The national park expanded, including the entirety of the ancient coastal wetland."
+            }
+          ],
+          "mustKnowGrammar": "Introductory prepositional time and place adverbials ('140 years ago this November at the Berlin Conference'); passive matrix clause ('Belgium's King Leopold was recognized as the sole owner'); appositive noun phrase modifying 'the Congo Free State' ('a territory including the entirety of today’s Democratic Republic of Congo (DRC)').",
+          "feynmanExplanation": "Imagine if one man walked into an international meeting, / and all the powerful countries agreed / that an entire huge country belonged completely to him, / like his own personal backyard. / That is what happened to the Congo in 1884.",
+          "feynmanExplanationKo": "한 사람이 국제 회의장에 걸어 들어갔는데, / 모든 강대국들이 거대한 나라 전체가 / 마치 그의 개인 뒷마당인 양 온전히 그의 것이라고 합의해 주었다고 상상해 보세요. / 1884년 콩고에 일어났던 일이 바로 그것이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the opening time marker: '140 years ago this November at the Berlin Conference.'",
+              "korean": "도입부의 시간 표시어구를 보세요: '이번 11월로 140년 전 베를린 회담에서.'"
+            },
+            {
+              "english": "Point out the passive voice: Leopold 'was recognized as the sole owner.' Foreign powers made this decision without any Congolese consent.",
+              "korean": "수동태에 주목하세요: 레오폴드는 '유일한 소유자로 인정받았다.' 외세 강대국들이 콩고 주민들의 어떠한 동의도 없이 이 결정을 내린 것입니다."
+            },
+            {
+              "english": "Check: What was the territory called in 1884? The Congo Free State.",
+              "korean": "확인: 1884년에 그 영토는 무엇이라 불렸나요? 콩고 자유국입니다."
+            },
+            {
+              "english": "Correction: Do not write that Belgium as a nation owned the Congo in 1884; the text specifies King Leopold personally was recognized as the sole owner.",
+              "korean": "교정: 1884년에 벨기에라는 국가가 콩고를 소유했다고 쓰지 마세요. 본문은 레오폴드 국왕 개인이 유일한 소유자로 인정받았다고 명시합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities committed during the first colonial exploitation of the territory’s exceptional wealth of natural resources.",
+          "chunkReading": "Leopold's reign / was marked by slavery, / millions of deaths, / and widespread atrocities / committed during the first colonial exploitation / of the territory’s exceptional wealth / of natural resources.",
+          "directKorean": "레오폴드의 통치는 / 노예제에 의해 특징지어졌습니다, / 수백만 명의 죽음, / 그리고 광범위한 잔혹 행위들에 의해 / 최초의 식민지적 수탈 동안 자행된 / 그 영토의 예외적인 부에 대한 / 천연자원의.",
+          "naturalKorean": "레오폴드의 통치는 그 영토가 지닌 독보적인 천연자원에 대한 최초의 식민지적 수탈 과정에서 자행된 노예제, 수백만 명의 죽음, 그리고 광범위한 잔혹 행위로 얼룩졌습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "was marked by",
+              "meaning": "~로 얼룩졌다, 특징지어졌다",
+              "use": "passive idiom indicating prominent defining features or historical hardships",
+              "example": "The decade was marked by severe drought and widespread agricultural decline."
+            },
+            {
+              "chunk": "widespread atrocities",
+              "meaning": "광범위한 잔혹 행위, 만행",
+              "use": "noun phrase describing massive, systemic violations of human dignity",
+              "example": "International human rights bodies condemned the widespread atrocities committed against civilians."
+            },
+            {
+              "chunk": "exceptional wealth of natural resources",
+              "meaning": "예외적인(독보적인) 천연자원의 부",
+              "use": "evaluative noun phrase emphasizing immense geological and biological riches",
+              "example": "The mountain province attracted multinational investments due to its exceptional wealth of natural resources."
+            }
+          ],
+          "mustKnowGrammar": "Passive matrix clause ('Leopold's reign was marked by...'); parallel compound prepositional complements ('slavery, millions of deaths, and widespread atrocities'); past participial phrase modifying 'atrocities' ('committed during the first colonial exploitation of the territory's exceptional wealth of natural resources').",
+          "feynmanExplanation": "Because the land had so much rubber and minerals, / King Leopold used forced labor and extreme violence to take it all. / Millions of people died, / making his rule one of the darkest times in history.",
+          "feynmanExplanationKo": "그 땅에 엄청난 양의 고무와 광물이 있었기 때문에, / 레오폴드 국왕은 그것을 모조리 빼앗기 위해 강제 노동과 극단적인 폭력을 휘둘렀습니다. / 수백만 명의 사람이 목숨을 잃었고, / 그의 통치는 역사상 가장 어두운 시기 중 하나가 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the three parallel nouns following 'marked by': slavery, millions of deaths, and widespread atrocities.",
+              "korean": "'marked by' 뒤에 이어지는 세 개의 병렬 명사에 주목하세요: 노예제, 수백만 명의 죽음, 광범위한 잔혹 행위입니다."
+            },
+            {
+              "english": "Observe how the participial phrase 'committed during...' directly links extreme violence to the economic desire for natural resources.",
+              "korean": "'committed during...'이라는 분사 구문이 극단적 폭력과 천연자원에 대한 경제적 탐욕을 어떻게 직접 연결하는지 관찰해 보세요."
+            },
+            {
+              "english": "Check: What was the primary motivation behind Leopold's atrocities? The colonial exploitation of exceptional natural wealth.",
+              "korean": "확인: 레오폴드의 잔혹 행위 뒤에 있던 주요 동기는 무엇이었나요? 독보적인 천연자원에 대한 식민지적 수탈이었습니다."
+            },
+            {
+              "english": "Correction: Avoid vague terms like 'bad things'; use the author's precise vocabulary: slavery, millions of deaths, and atrocities.",
+              "korean": "교정: '나쁜 일들' 같은 모호한 표현을 피하고, 작가의 정확한 어휘인 노예제, 수백만 명의 사망, 잔혹 행위를 사용하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "64 years after its independence, the DRC remains plagued by various forms of colonialism and extraction, resulting in massive human suffering, land grabs, human rights abuses, hunger and poverty.",
+          "chunkReading": "64 years after its independence, / the DRC remains plagued / by various forms of colonialism and extraction, / resulting in massive human suffering, / land grabs, / human rights abuses, / hunger and poverty.",
+          "directKorean": "독립 후 64년이 지난 지금도, / DRC는 여전히 괴롭힘을 당하고 있습니다 / 다양한 형태의 식민주의와 수탈에 의해, / 막대한 인간의 고통을 초래하면서, / 토지 약탈, / 인권 침해, / 굶주림과 빈곤을.",
+          "naturalKorean": "독립을 맞이한 지 64년이 흐른 지금도, DRC는 다양한 형태의 식민주의와 자원 수탈로 시달리고 있으며, 이는 막대한 인간의 고통과 토지 약탈, 인권 침해, 굶주림과 빈곤으로 이어지고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "remains plagued by",
+              "meaning": "여전히 ~에 시달리고 있다, 괴롭힘을 당하다",
+              "use": "linking verb + participial adjective construction denoting persistent affliction",
+              "example": "The coastal community remains plagued by contaminated drinking water."
+            },
+            {
+              "chunk": "resulting in",
+              "meaning": "~라는 결과를 낳으면서, 초래하면서",
+              "use": "present participial connective phrase introducing tangible consequences",
+              "example": "The sudden factory closure resulted in massive unemployment across the district."
+            },
+            {
+              "chunk": "land grabs",
+              "meaning": "토지 약탈, 부당한 토지 점유",
+              "use": "compound noun referring to large-scale, often coercive acquisition of communal land",
+              "example": "Rural farming families organized protests against illegal corporate land grabs."
+            }
+          ],
+          "mustKnowGrammar": "Introductory prepositional temporal phrase ('64 years after its independence'); copular clause with participial complement ('the DRC remains plagued by...'); present participial clause of result ('resulting in massive human suffering, land grabs, human rights abuses, hunger and poverty').",
+          "feynmanExplanation": "Even though Congo got its independence 64 years ago, / the stealing of land and resources never actually stopped. / New groups just found new ways to do it, / leaving regular people hungry and poor.",
+          "feynmanExplanationKo": "비록 콩고가 64년 전에 독립을 얻었지만, / 토지와 자원을 빼앗기는 일은 결코 멈추지 않았습니다. / 새로운 집단들이 새로운 방식으로 수탈을 이어갔고, / 평범한 사람들은 여전히 굶주림과 빈곤에 허덕이고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the time comparison: 140 years ago Leopold seized it, and 64 years after independence the country is still afflicted.",
+              "korean": "시간적 비교를 보세요: 140년 전 레오폴드가 영토를 장악했고, 독립 후 64년이 지난 지금도 국가는 여전히 고통받고 있습니다."
+            },
+            {
+              "english": "Highlight 'resulting in'—this participial structure packs five severe consequences into a compact academic clause.",
+              "korean": "'resulting in'을 강조하세요. 이 분사 구문은 다섯 가지 심각한 결과를 간결하고 학술적인 절로 압축해 줍니다."
+            },
+            {
+              "english": "Check: Did independence solve the problems of extraction? No, the DRC remains plagued by various forms of colonialism.",
+              "korean": "확인: 독립이 자원 수탈의 문제를 해결했나요? 아닙니다, DRC는 여전히 다양한 형태의 식민주의에 시달리고 있습니다."
+            },
+            {
+              "english": "Correction: Ensure students don't write that colonialism ended in 1960; the author explicitly argues it 'remains plagued by various forms of colonialism'.",
+              "korean": "교정: 1960년에 식민주의가 끝났다고 쓰지 않도록 주의시키세요. 작가는 여전히 '다양한 형태의 식민주의에 시달리고 있다'고 명시합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners.",
+          "chunkReading": "Remarkably, / the land that became the private property / of a Belgian king 140 years ago / has still not been returned / to its Congolese owners.",
+          "directKorean": "놀랍게도, / 사유 재산이 되었던 그 땅은 / 140년 전 벨기에 국왕의 / 여전히 반환되지 않았습니다 / 그것의 콩고인 소유자들에게.",
+          "naturalKorean": "놀랍게도, 140년 전 벨기에 국왕의 사유 재산이 되었던 그 땅은 여전히 원래의 콩고인 주인들에게 반환되지 않았습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Remarkably",
+              "meaning": "놀랍게도, 주목할 만하게도",
+              "use": "sentence adverbial expressing analytical surprise or irony at an unresolved injustice",
+              "example": "Remarkably, the lost historical manuscript survived centuries of war undamaged."
+            },
+            {
+              "chunk": "the private property of",
+              "meaning": "~의 사유 재산",
+              "use": "noun phrase denoting exclusive individual ownership",
+              "example": "The entire beachfront was declared the private property of the resort developer."
+            },
+            {
+              "chunk": "has still not been returned to",
+              "meaning": "여전히 ~에게 반환되지 않았다",
+              "use": "present perfect passive construction emphasizing ongoing failure of restitution",
+              "example": "The stolen cultural artifacts have still not been returned to their country of origin."
+            }
+          ],
+          "mustKnowGrammar": "Sentence adverb ('Remarkably'); relative clause defining 'the land' ('that became the private property of a Belgian king 140 years ago'); present perfect passive verb phrase ('has still not been returned to its Congolese owners').",
+          "feynmanExplanation": "Think about this: / a king stole a massive piece of land 140 years ago. / The country is independent now, / but the people who live there still do not own their land. / It was never given back.",
+          "feynmanExplanationKo": "이것을 생각해 보세요: / 140년 전에 한 국왕이 거대한 땅을 훔쳤습니다. / 그 나라는 이제 독립했지만, / 그곳에 사는 주민들은 여전히 자기 땅을 소유하지 못하고 있습니다. / 결코 반환되지 않은 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does the author start with the adverb 'Remarkably'? It highlights the shocking injustice that 140 years later, land restitution never happened.",
+              "korean": "작가는 왜 부사 'Remarkably(놀랍게도)'로 문장을 시작할까요? 140년이 흐른 뒤에도 토지 반환이 결코 이루어지지 않았다는 충격적인 부당함을 강조하기 위해서입니다."
+            },
+            {
+              "english": "Notice the present perfect passive: 'has still not been returned.' The historical injustice remains an active present reality.",
+              "korean": "현재완료 수동태에 주목하세요: 'has still not been returned.' 과거의 부당함이 현재까지 지속되는 생생한 현실임을 보여줍니다."
+            },
+            {
+              "english": "Check: Who legally owned the land 140 years ago according to the text? A Belgian king as private property.",
+              "korean": "확인: 본문에 따르면 140년 전에 그 땅을 법적으로 소유했던 사람은 누구인가요? 사유 재산으로 소유했던 벨기에 국왕입니다."
+            },
+            {
+              "english": "Correction: Do not omit 'Congolese owners'; emphasizing who the rightful owners are is central to the author's argument.",
+              "korean": "교정: 'Congolese owners'를 생략하지 마세요. 정당한 주인이 누구인지 강조하는 것이 작가 논증의 핵심입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors.",
+          "chunkReading": "Instead, / it is now controlled / by a U.S.-based private equity fund, / funnelling profits / to its high profile investors.",
+          "directKorean": "대신에, / 그것은 이제 통제되고 있습니다 / 미국에 본사를 둔 사모펀드에 의해, / 수익을 빼돌리면서 / 유명 투자자들에게.",
+          "naturalKorean": "대신에, 그 땅은 이제 미국에 본사를 둔 사모펀드의 지배를 받고 있으며, 이 펀드는 막대한 이익을 유력 투자자들에게 빼돌리고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Instead",
+              "meaning": "대신에",
+              "use": "transitional adverb presenting a stark and unjust alternative to expected land restitution",
+              "example": "Instead of rebuilding the local clinic, municipal funds were diverted to luxury developments."
+            },
+            {
+              "chunk": "private equity fund",
+              "meaning": "사모펀드",
+              "use": "financial noun phrase denoting an investment partnership that buys and manages companies to generate high returns",
+              "example": "The global timber operations were bought out by an overseas private equity fund."
+            },
+            {
+              "chunk": "funnelling profits to",
+              "meaning": "이익(수익)을 ~로 빼돌리다, 흘려보내다",
+              "use": "present participial phrase denoting systematic diversion of wealth to external actors",
+              "example": "The offshore conglomerate was criticized for funnelling profits to tax-haven accounts."
+            }
+          ],
+          "mustKnowGrammar": "Contrastive sentence adverb ('Instead'); passive matrix clause ('it is now controlled by a U.S.-based private equity fund'); non-finite present participial clause of accompanying result ('funnelling profits to its high profile investors').",
+          "feynmanExplanation": "So where did the land go? / It did not go to the people. / Instead, an American investment company bought it, / sending all the money made from the crops / directly to rich foreign investors.",
+          "feynmanExplanationKo": "그렇다면 그 땅은 어디로 갔을까요? / 주민들에게 돌아가지 않았습니다. / 대신 미국의 한 투자회사가 그것을 사들였고, / 작물 재배로 번 모든 돈을 / 부유한 외국인 투자자들에게 곧장 보내고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the word 'Instead'—it marks the sharp pivot from what should have happened (land returned) to what actually happened (private equity control).",
+              "korean": "'Instead'라는 단어를 보세요. 마땅히 일어났어야 할 일(토지 반환)에서 실제로 일어난 일(사모펀드 지배)로의 날카로운 전환을 나타냅니다."
+            },
+            {
+              "english": "Notice the verb 'funnelling'—it metaphorically conveys how wealth is drained out of the local economy like liquid through a funnel.",
+              "korean": "'funnelling(깔때기로 쏟아붓듯 빼돌리는)'이라는 동사에 주목하세요. 부가 깔때기를 통해 빠져나가듯 지역 경제에서 유출되는 모습을 비유적으로 전달합니다."
+            },
+            {
+              "english": "Check: Who receives the profits from the land today? High profile investors of a U.S.-based private equity fund.",
+              "korean": "확인: 오늘날 그 땅에서 나오는 이익은 누가 가져가나요? 미국 사모펀드의 유력 투자자들입니다."
+            },
+            {
+              "english": "Correction: Teach students that 'private equity fund' is a financial institution, not a charitable foundation.",
+              "korean": "교정: 'private equity fund(사모펀드)'는 자선 단체가 아니라 영리 금융 투자 기관임을 명확히 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Community members who work as labourers on the plantations are subjected to unpaid wages and harsh working conditions.",
+          "chunkReading": "Community members / who work as labourers on the plantations / are subjected to / unpaid wages / and harsh working conditions.",
+          "directKorean": "지역 사회 주민들은 / 농원에서 인부로 일하는 / 당하고 있습니다 / 미지급 임금 / 그리고 가혹한 노동 조건을.",
+          "naturalKorean": "플랜테이션 농원에서 노동자로 일하는 지역 주민들은 임금 체불과 열악하고 혹독한 노동 조건에 시달리고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "work as labourers on the plantations",
+              "meaning": "농원에서 노동자로 일하다",
+              "use": "descriptive occupational phrase identifying agricultural field workers",
+              "example": "Generations of families continued to work as labourers on the coastal sugar plantations."
+            },
+            {
+              "chunk": "are subjected to",
+              "meaning": "~을 당하다, ~에 시달리다",
+              "use": "passive phrasal verb denoting subjection to unfair or abusive treatment without power to resist",
+              "example": "Migrant factory workers were subjected to excessive overtime and dangerous machinery."
+            },
+            {
+              "chunk": "unpaid wages",
+              "meaning": "미지급 임금, 체불 임금",
+              "use": "noun phrase denoting labor performed without financial compensation",
+              "example": "The union organized a formal strike to demand the immediate recovery of unpaid wages."
+            }
+          ],
+          "mustKnowGrammar": "Complex subject with restrictive relative clause ('Community members who work as labourers on the plantations'); passive verb phrase ('are subjected to'); compound noun phrase objects of preposition ('unpaid wages and harsh working conditions').",
+          "feynmanExplanation": "The local villagers do the heavy, dangerous farming work on the plantations. / But the company often does not even pay them their money, / and forces them to work under terrible conditions.",
+          "feynmanExplanationKo": "지역 마을 주민들이 플랜테이션에서 힘들고 위험한 농사일을 합니다. / 하지만 회사는 그들에게 마땅한 급여조차 주지 않는 경우가 허다하며, / 끔찍한 환경 속에서 일하도록 강요합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the key passive structure: 'are subjected to.' It emphasizes that workers do not choose these conditions; the corporate system forces it upon them.",
+              "korean": "핵심 수동태 구문인 'are subjected to'에 주목하세요. 노동자들이 이러한 조건을 선택한 것이 아니라, 기업 시스템이 이를 강요하고 있음을 강조합니다."
+            },
+            {
+              "english": "Observe the phrase 'unpaid wages.' The workers are literally denied the earnings they worked hard to produce.",
+              "korean": "'unpaid wages(체불 임금)'라는 표현을 관찰하세요. 노동자들은 열심히 일해 일군 소득조차 정당하게 받지 못하고 있는 것입니다."
+            },
+            {
+              "english": "Check: What two abuses do plantation labourers face in this sentence? Unpaid wages and harsh working conditions.",
+              "korean": "확인: 이 문장에서 플랜테이션 노동자들이 겪는 두 가지 학대는 무엇인가요? 임금 체불과 열악한 노동 조건입니다."
+            },
+            {
+              "english": "Correction: Point out that 'labourer' uses British/international English spelling with 'ou'.",
+              "korean": "교정: 'labourer'가 영국/국제 표준 영어 스펠링(ou)을 사용하고 있음을 짚어주세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Their day-to-day life is plagued by violence and repression prosecuted by plantation security forces and police forces directed by the company, with a myriad of unlawful detentions, beatings, torture, and even murders.",
+          "chunkReading": "Their day-to-day life / is plagued by violence and repression / prosecuted by plantation security forces / and police forces directed by the company, / with a myriad of unlawful detentions, / beatings, / torture, / and even murders.",
+          "directKorean": "그들의 일상적인 삶은 / 폭력과 탄압에 시달리고 있습니다 / 플랜테이션 보안대에 의해 자행되는 / 그리고 회사에 의해 지휘받는 경찰력에 의해, / 무수한 불법 구금들과 함께, / 구타, / 고문, / 그리고 심지어 살인들까지.",
+          "naturalKorean": "그들의 일상생활은 플랜테이션 보안대와 회사의 지시를 받는 경찰 병력에 의해 자행되는 폭력과 탄압으로 얼룩져 있으며, 무수한 불법 구금과 구타, 고문, 심지어 살인까지 벌어지고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is plagued by violence and repression",
+              "meaning": "폭력과 탄압에 시달리고 있다",
+              "use": "passive voice phrase depicting constant, systemic civilian intimidation",
+              "example": "The border town is plagued by gang violence and military repression."
+            },
+            {
+              "chunk": "directed by the company",
+              "meaning": "회사의 지휘를 받는, 회사의 지시를 따른",
+              "use": "past participial modifier showing corporate command over public police units",
+              "example": "The private guard units directed by the mining company barred journalists from entering."
+            },
+            {
+              "chunk": "a myriad of",
+              "meaning": "무수한, 수많은",
+              "use": "quantifying phrase emphasizing an overwhelming number of abuses",
+              "example": "The report detailed a myriad of environmental violations across the river basin."
+            }
+          ],
+          "mustKnowGrammar": "Matrix clause in passive voice ('Their day-to-day life is plagued by violence and repression'); two coordinating participial phrases modifying 'repression' ('prosecuted by plantation security forces' and 'directed by the company'); prepositional phrase with compound catalog of nouns ('with a myriad of unlawful detentions, beatings, torture, and even murders').",
+          "feynmanExplanation": "Daily life is terrifying for these workers. / Private guards and company-controlled police beat them, / lock them in jail without laws, / hurt them, and sometimes even kill them to keep them quiet.",
+          "feynmanExplanationKo": "이 노동자들에게 일상생활은 공포 그 자체입니다. / 사설 경비대와 회사의 지휘를 받는 경찰이 그들을 구타하고, / 법적 절차 없이 감옥에 가두며, / 고문하고, 때로는 저항을 막기 위해 살해하기까지 합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the heavy phrase: 'police forces directed by the company.' That shows public law enforcement has been captured by private corporate interests.",
+              "korean": "묵직한 표현인 'police forces directed by the company(회사에 의해 지휘받는 경찰력)'에 주목하세요. 공권력이 사적 기업의 이익에 종속되었음을 보여줍니다."
+            },
+            {
+              "english": "Study the escalating list of nouns at the end: detentions, beatings, torture, and even murders.",
+              "korean": "문장 끝에 나열된 점층적 명사 목록을 살펴보세요: 구금, 구타, 고문, 그리고 심지어 살인입니다."
+            },
+            {
+              "english": "Check: Who carries out the repression? Both plantation security forces and company-directed police forces.",
+              "korean": "확인: 누가 탄압을 집행하나요? 플랜테이션 보안대와 회사의 지휘를 받는 경찰 병력 둘 다입니다."
+            },
+            {
+              "english": "Correction: Teach students that 'myriad' means a vast, countless number.",
+              "korean": "교정: 'myriad'가 '무수히 많은 수'를 뜻하는 고급 어휘임을 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.",
+          "chunkReading": "Residents in Lokutu rose up / in March 2019 / when the Congolese police, / who had been sent to end the demonstrations, / ended up firing live bullets / into the crowd.",
+          "directKorean": "로쿠투의 주민들은 봉기했습니다 / 2019년 3월에 / 콩고 경찰이, / 시위를 종식시키기 위해 파견되었던, / 결국 실탄을 발사했을 때 / 군중 속으로.",
+          "naturalKorean": "2019년 3월, 시위를 진압하기 위해 파견되었던 콩고 경찰이 결국 군중을 향해 실탄을 발사하자 로쿠투의 주민들은 거세게 봉기했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "rose up",
+              "meaning": "봉기했다, 저항하여 일어났다",
+              "use": "phrasal verb denoting collective civilian rebellion against oppressive injustice",
+              "example": "Displaced villagers rose up against the corrupt regional authorities."
+            },
+            {
+              "chunk": "sent to end the demonstrations",
+              "meaning": "시위를 진압하기 위해 파견된",
+              "use": "passive past perfect relative clause denoting official mandate to suppress protest",
+              "example": "Federal troops were sent to end the student demonstrations outside the ministry."
+            },
+            {
+              "chunk": "firing live bullets into the crowd",
+              "meaning": "군중을 향해 실탄을 발사하다",
+              "use": "gerund phrase describing lethal force used against unarmed civilians",
+              "example": "International tribunals denounced security agents for firing live bullets into the crowd."
+            }
+          ],
+          "mustKnowGrammar": "Main clause with past simple verb ('Residents in Lokutu rose up in March 2019'); temporal adverbial clause introduced by 'when'; non-restrictive past perfect passive relative clause modifying 'the Congolese police' ('who had been sent to end the demonstrations'); phrasal verb + gerund construction ('ended up firing live bullets into the crowd').",
+          "feynmanExplanation": "In March 2019, the local people in Lokutu protested because they could not take the abuse anymore. / But instead of listening, / the police fired real, deadly bullets into the crowd of protestors.",
+          "feynmanExplanationKo": "2019년 3월, 로쿠투 지역 주민들은 학대를 더 이상 견딜 수 없어 시위를 벌였습니다. / 하지만 그들의 목소리를 듣는 대신, / 경찰은 시위 군중을 향해 치명적인 실탄을 쏘아댔습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the specific anchor: 'March 2019' and 'Lokutu.' This gives students a concrete, dated case study of corporate resistance.",
+              "korean": "구체적인 사건 닻인 '2019년 3월'과 '로쿠투'에 주목하세요. 학생들에게 기업 횡포에 저항한 구체적인 연대기적 사례를 제공합니다."
+            },
+            {
+              "english": "Look at the phrase 'ended up firing live bullets.' 'Ended up' highlights a tragic, lethal outcome of state repression.",
+              "korean": "'ended up firing live bullets(결국 실탄을 발사했다)'라는 구문을 보세요. 'ended up'은 국가 탄압이 낳은 비극적이고 치명적인 결말을 부각합니다."
+            },
+            {
+              "english": "Check: What happened in Lokutu in March 2019? Residents demonstrated and police fired live bullets into the crowd.",
+              "korean": "확인: 2019년 3월 로쿠투에서 무슨 일이 있었나요? 주민들이 시위를 벌였고 경찰이 군중을 향해 실탄을 발사했습니다."
+            },
+            {
+              "english": "Correction: Ensure students don't confuse Lokutu with a political party; it is a specific geographic location in the DRC.",
+              "korean": "교정: 학생들이 로쿠투를 정당 이름으로 혼동하지 않도록 콩고민주공화국의 구체적 지역명임을 확인시켜 주세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "In addition to this historical colonial exploitation, DRC continues to face new forms of extraction, with even more dire consequences for the Congolese people.",
+          "chunkReading": "In addition to this historical colonial exploitation, / DRC continues to face / new forms of extraction, / with even more dire consequences / for the Congolese people.",
+          "directKorean": "이러한 역사적 식민지 수탈에 더하여, / DRC는 계속해서 직면하고 있습니다 / 새로운 형태의 자원 수탈에, / 훨씬 더 끔찍한 결과들과 함께 / 콩고 사람들에게.",
+          "naturalKorean": "이러한 역사적인 식민지 수탈에 더하여, DRC는 콩고 주민들에게 한층 더 끔찍한 결과를 초래하는 새로운 형태의 자원 수탈에 끊임없이 직면하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "In addition to",
+              "meaning": "~에 더하여, ~뿐만 아니라",
+              "use": "prepositional phrase establishing additive thematic transition between paragraphs",
+              "example": "In addition to high inflation, the country faced severe energy shortages."
+            },
+            {
+              "chunk": "new forms of extraction",
+              "meaning": "새로운 형태의 자원 수탈",
+              "use": "noun phrase denoting contemporary corporate and technological resource removal",
+              "example": "Environmentalists warned that deep-sea mining represents dangerous new forms of extraction."
+            },
+            {
+              "chunk": "dire consequences",
+              "meaning": "끔찍한 결과, 대단히 심각한 영향",
+              "use": "collocation emphasizing severe, catastrophic human impact",
+              "example": "The prolonged drought had dire consequences for food production across the continent."
+            }
+          ],
+          "mustKnowGrammar": "Introductory additive prepositional phrase ('In addition to this historical colonial exploitation'); matrix clause with continuous infinitive complement ('DRC continues to face new forms of extraction'); prepositional phrase with comparative degree adjective ('with even more dire consequences for the Congolese people').",
+          "feynmanExplanation": "The old colonial suffering was bad enough, / but today there are brand new ways people take Congo's riches. / And these new ways bring even worse suffering to regular families.",
+          "feynmanExplanationKo": "과거의 식민지적 고통만으로도 끔찍했지만, / 오늘날에는 콩고의 부를 빼앗아 가는 완전히 새로운 방식들이 존재합니다. / 그리고 이러한 새로운 방식들은 평범한 가정에 훨씬 더 혹독한 고통을 안겨주고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the transition in Sentence 9: 'In addition to...' bridges Paragraph 2's agricultural plantations to Paragraph 3's broader resource extraction.",
+              "korean": "9번 문장의 전환에 주목하세요: 'In addition to...'는 2문단의 농업 플랜테이션과 3문단의 더 넓은 자원 수탈을 연결하는 가교 역할을 합니다."
+            },
+            {
+              "english": "Look at the adjective 'dire'—it means urgent, terrible, and catastrophic.",
+              "korean": "'dire'라는 형용사를 보세요. 대단히 끔찍하고 파국적인 상황을 뜻합니다."
+            },
+            {
+              "english": "Check: Does the author say new forms of extraction are better or worse than before? They bring 'even more dire consequences.'",
+              "korean": "확인: 작가는 새로운 형태의 수탈이 이전보다 낫다고 하나요, 더 나쁘다고 하나요? '훨씬 더 끔찍한 결과(even more dire consequences)'를 가져온다고 말합니다."
+            },
+            {
+              "english": "Correction: Teach students that 'consequences' here carries an exclusively negative meaning.",
+              "korean": "교정: 여기서 'consequences'가 전적으로 부정적인 결과를 나타냄을 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country.",
+          "chunkReading": "For the past three decades, / the country has faced bloody conflicts, / which have claimed millions of lives, / particularly affecting / the mineral-rich eastern region of the country.",
+          "directKorean": "지난 30년 동안, / 그 나라는 유혈 분쟁에 직면해 왔습니다, / 그것은 수백만 명의 목숨을 앗아갔습니다, / 특히 영향을 미치면서 / 그 나라의 광물이 풍부한 동부 지역에.",
+          "naturalKorean": "지난 30년 동안 이 나라는 수백만 명의 목숨을 앗아간 유혈 분쟁에 직면해 왔으며, 이는 광물이 풍부한 동부 지역에 특히 극심한 영향을 미쳤습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "For the past three decades",
+              "meaning": "지난 30년 동안",
+              "use": "temporal duration phrase spanning roughly the 1990s through the 2020s",
+              "example": "For the past three decades, local activists campaigned for indigenous land rights."
+            },
+            {
+              "chunk": "bloody conflicts, which have claimed millions of lives",
+              "meaning": "수백만 명의 목숨을 앗아간 유혈 분쟁",
+              "use": "complex descriptive phrase denoting devastating protracted warfare",
+              "example": "The civil war resulted in bloody conflicts, which have claimed millions of lives across the region."
+            },
+            {
+              "chunk": "mineral-rich eastern region",
+              "meaning": "광물이 풍부한 동부 지역",
+              "use": "geographical phrase identifying the epicenter of resource-driven armed competition",
+              "example": "Militias fought aggressively to control the mineral-rich eastern region."
+            }
+          ],
+          "mustKnowGrammar": "Prepositional temporal duration phrase ('For the past three decades'); present perfect matrix clause ('the country has faced bloody conflicts'); non-restrictive relative clause with present perfect verb ('which have claimed millions of lives'); present participial phrase with focusing adverb ('particularly affecting the mineral-rich eastern region of the country').",
+          "feynmanExplanation": "For thirty long years, / wars have raged across Congo, / killing millions of innocent people. / Most of this violence happens in the eastern part of the country / where all the valuable minerals are buried.",
+          "feynmanExplanationKo": "30년이라는 긴 세월 동안 / 콩고 전역에서 전쟁이 벌어져 / 수백만 명의 무고한 사람들이 목숨을 잃었습니다. / 이 폭력의 대부분은 값비싼 광물들이 묻혀 있는 / 동부 지역에서 집중적으로 발생합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the timeframe: 'the past three decades.' That spans from the 1990s right up to the 2020s.",
+              "korean": "시간적 범위를 보세요: '지난 30년 동안(the past three decades).' 이는 1990년대부터 2020년대 현재까지 이어지는 기간입니다."
+            },
+            {
+              "english": "Connect the geography to geology: why the 'eastern region'? Because that region is specifically 'mineral-rich.'",
+              "korean": "지리와 지질학을 연결해 보세요: 왜 '동부 지역'일까요? 그 지역이 유독 '광물이 풍부한(mineral-rich)' 곳이기 때문입니다."
+            },
+            {
+              "english": "Check: How many lives have these conflicts claimed? Millions of lives.",
+              "korean": "확인: 이 분쟁들로 얼마나 많은 사람이 목숨을 잃었나요? 수백만 명의 목숨입니다."
+            },
+            {
+              "english": "Correction: Ensure students don't guess outside death tolls; cite 'millions of lives' exactly as stated in the text.",
+              "korean": "교정: 외부의 사망자 통계를 임의로 가져오지 말고 본문에 적힌 '수백만 명의 목숨(millions of lives)'을 그대로 인용하도록 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "original": "Violence is not the only consequence of the current forms of exploitation and extraction in the country.",
+          "chunkReading": "Violence is not the only consequence / of the current forms of exploitation and extraction / in the country.",
+          "directKorean": "폭력이 유일한 결과는 아닙니다 / 현재 형태의 수탈과 채굴의 / 그 나라에서.",
+          "naturalKorean": "현재 콩고에서 벌어지는 수탈과 자원 채굴이 낳은 결과가 비단 폭력뿐만은 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is not the only consequence",
+              "meaning": "유일한 결과는 아니다",
+              "use": "negative rhetorical limiter used to expand inquiry beyond physical warfare into economic damage",
+              "example": "Physical displacement is not the only consequence of rapid deforestation."
+            },
+            {
+              "chunk": "current forms of exploitation and extraction",
+              "meaning": "현재 형태의 수탈과 채굴",
+              "use": "compound noun phrase referencing contemporary commercial arrangements",
+              "example": "Scholars analyzed the current forms of exploitation and extraction dominating oceanic fisheries."
+            }
+          ],
+          "mustKnowGrammar": "Inverted negative thematic transition clause; linking verb 'is'; predicate noun phrase 'not the only consequence'; prepositional post-modifiers ('of the current forms of exploitation and extraction in the country').",
+          "feynmanExplanation": "War and fighting are terrible, / but they are not the only damage done. / The way companies take the resources / also completely ruins the country’s economy.",
+          "feynmanExplanationKo": "전쟁과 무력 충돌도 끔찍하지만, / 그것만이 유일한 피해는 아닙니다. / 기업들이 자원을 빼앗아 가는 방식은 / 그 나라의 경제 전반을 완전히 파탄에 이르게 합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the rhetorical function of Sentence 11: it bridges physical violence (Sentence 10) to broader macroeconomic destruction (Sentence 12).",
+              "korean": "11번 문장의 수사적 기능을 보세요: 물리적 폭력(10번 문장)에서 더 넓은 거시경제적 파탄(12번 문장)으로 시야를 넓혀줍니다."
+            },
+            {
+              "english": "Point out how the author pairs 'exploitation' with 'extraction' to reinforce the predatory nature of resource removal.",
+              "korean": "작가가 'exploitation(착취)'과 'extraction(수탈/채굴)'을 나란히 짝지어 자원 탈취의 약탈적 성격을 어떻게 강화하는지 짚어주세요."
+            },
+            {
+              "english": "Check: What other consequence is coming next? Economic impact.",
+              "korean": "확인: 폭력 외에 다음 문장에서 언급될 또 다른 결과는 무엇인가요? 경제적 영향입니다."
+            },
+            {
+              "english": "Correction: Teach students to use 'not only... but also' logic to connect physical and economic consequences.",
+              "korean": "교정: 학생들이 'not only... but also' 논리를 활용해 물리적 결과와 경제적 결과를 입체적으로 연결하도록 유도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "original": "Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy.",
+          "chunkReading": "Whether it is from the firms producing palm oil / or from the tech companies profiting from mineral extraction, / the exploitation of the DRC’s resources / has had a dire impact / on the country’s economy.",
+          "directKorean": "야자유를 생산하는 기업들로부터이든 / 광물 채굴로부터 이익을 얻는 기술 기업들로부터이든 간에, / DRC 자원의 수탈은 / 대단히 끔찍한 영향을 미쳐 왔습니다 / 그 나라의 경제에.",
+          "naturalKorean": "야자유를 생산하는 기업들 때문이든 광물 채굴로 막대한 이익을 챙기는 기술 기업들 때문이든 간에, DRC의 자원에 대한 수탈은 국가 경제에 대단히 끔찍한 타격을 가해 왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Whether it is from... or from...",
+              "meaning": "~로부터이든 아니면 ~로부터이든 간에",
+              "use": "correlative concessive clause encompassing multiple corporate sectors",
+              "example": "Whether it is from domestic factories or from foreign importers, pollution must be regulated."
+            },
+            {
+              "chunk": "firms producing palm oil",
+              "meaning": "야자유를 생산하는 기업들",
+              "use": "noun phrase referencing commercial agribusiness plantations",
+              "example": "Multinational firms producing palm oil faced consumer boycotts over deforestation."
+            },
+            {
+              "chunk": "tech companies profiting from mineral extraction",
+              "meaning": "광물 채굴로부터 이익을 얻는 기술 기업들",
+              "use": "noun phrase directly linking consumer electronics and tech firms to Congolese mines",
+              "example": "Global tech companies profiting from mineral extraction face strict supply-chain disclosure laws."
+            },
+            {
+              "chunk": "has had a dire impact on",
+              "meaning": "~에 대단히 끔찍한 영향을 미쳐 왔다",
+              "use": "present perfect idiomatic expression denoting severe cumulative harm",
+              "example": "The prolonged currency collapse has had a dire impact on family savings."
+            }
+          ],
+          "mustKnowGrammar": "Correlative concessive conditional clause ('Whether it is from... or from...'); present participial modifiers ('producing palm oil', 'profiting from mineral extraction'); matrix subject with prepositional phrase ('the exploitation of the DRC’s resources'); present perfect verb with direct object and prepositional phrase ('has had a dire impact on the country’s economy').",
+          "feynmanExplanation": "Think about palm oil in your food / and precious minerals inside your smartphone. / Huge companies make billions of dollars from these products, / but the people of Congo see none of that money— / their economy stays ruined.",
+          "feynmanExplanationKo": "여러분이 먹는 음식 속 야자유와 / 스마트폰 속에 들어가는 귀한 광물들을 떠올려 보세요. / 거대 기업들은 이 제품들로 수십억 달러를 벌어들이지만, / 콩고 주민들은 그 돈을 구경조차 하지 못하며 / 국가 경제는 여전히 파탄 난 상태로 남아 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the two industries Mousseau names: agribusiness (palm oil firms) and the modern digital economy (tech companies).",
+              "korean": "무소 작가가 지목한 두 가지 산업에 주목하세요: 농업 비즈니스(야자유 기업들)와 현대 디지털 경제(기술 기업들)입니다."
+            },
+            {
+              "english": "This shows that extraction is not just historical rubber; it is today's smartphones, laptops, and consumer commodities.",
+              "korean": "이는 자원 수탈이 과거의 고무에만 머무는 것이 아니라, 오늘날의 스마트폰, 노트북, 일상 소비재와 직접 연결되어 있음을 보여줍니다."
+            },
+            {
+              "english": "Check: What two corporate sectors are named? Palm oil producers and tech companies profiting from mineral extraction.",
+              "korean": "확인: 본문에 명시된 두 기업 부문은 무엇인가요? 야자유 생산 기업들과 광물 채굴로 이익을 얻는 기술 기업들입니다."
+            },
+            {
+              "english": "Correction: Help students connect 'tech companies' to minerals like cobalt and coltan mentioned in wider discussions, but keep student summaries anchored in the text.",
+              "korean": "교정: 학생들이 '기술 기업'을 광물 수탈과 자연스럽게 연결하되, 글을 쓸 때는 본문의 어휘를 충실히 따르도록 지도하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "original": "Poverty and hunger are widespread through what has often been labelled as the “resource curse,” to describe countries not benefiting economically from their own natural resources.",
+          "chunkReading": "Poverty and hunger are widespread / through what has often been labelled / as the “resource curse,” / to describe countries / not benefiting economically / from their own natural resources.",
+          "directKorean": "빈곤과 굶주림은 널리 퍼져 있습니다 / 자주 명명되어 온 것을 통하여 / '자원의 저주'라고, / 국가들을 설명하기 위하여 / 경제적으로 혜택을 받지 못하는 / 그들 자신의 천연자원으로부터.",
+          "naturalKorean": "자신들이 가진 천연자원으로부터 경제적 혜택을 누리지 못하는 국가들을 묘사하기 위해 흔히 '자원의 저주'라고 일컬어지는 현상을 통해 빈곤과 굶주림은 광범위하게 퍼져 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Poverty and hunger are widespread",
+              "meaning": "빈곤과 굶주림이 널리 퍼져 있다",
+              "use": "compound subject with copular predicate describing severe societal destitution",
+              "example": "Following the economic sanctions, poverty and hunger were widespread across the rural interior."
+            },
+            {
+              "chunk": "labelled as the “resource curse”",
+              "meaning": "'자원의 저주'라고 이름 붙여진",
+              "use": "passive participial phrase referencing an economic concept",
+              "example": "The petro-state's inflation crisis was labelled as the classic resource curse by financial analysts."
+            },
+            {
+              "chunk": "not benefiting economically from",
+              "meaning": "~로부터 경제적으로 혜택을 받지 못하는",
+              "use": "negative participial clause defining the resource curse paradox",
+              "example": "Local fishermen found themselves not benefiting economically from the newly opened coastal shipping lanes."
+            }
+          ],
+          "mustKnowGrammar": "Compound subject clause ('Poverty and hunger are widespread'); prepositional phrase containing nominal relative clause ('through what has often been labelled as the “resource curse”'); infinitive clause of purpose/definition ('to describe countries not benefiting economically from their own natural resources') featuring negative present participial modification ('not benefiting economically').",
+          "feynmanExplanation": "People often use a special name for this: / the 'resource curse.' / It is an economic idea used to describe countries / that have tons of natural treasure, / but whose citizens are still starving and poor.",
+          "feynmanExplanationKo": "사람들은 흔히 여기에 특별한 이름을 붙입니다: / 바로 '자원의 저주'입니다. / 엄청난 양의 천연 보물을 품고 있지만, / 국민들은 여전히 굶주리고 가난한 나라들을 / 설명하기 위해 쓰이는 경제학적 개념입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how Mousseau introduces the concept: 'what has often been labelled as the resource curse.' The word 'labelled' hints that this is a convenient tag.",
+              "korean": "무소 작가가 이 개념을 어떻게 도입하는지 보세요: '자원의 저주라고 자주 명명되어 온 것.' 'labelled(명명된)'라는 표현은 이것이 하나의 편리한 꼬리표일 뿐이라는 암시를 줍니다."
+            },
+            {
+              "english": "Look at the definition given in the sentence: 'countries not benefiting economically from their own natural resources.'",
+              "korean": "문장에 제시된 정의를 살펴보세요: '자신들의 천연자원으로부터 경제적 혜택을 누리지 못하는 국가들'입니다."
+            },
+            {
+              "english": "Check: What does the term 'resource curse' describe? Countries that do not benefit economically from their own natural resources.",
+              "korean": "확인: '자원의 저주'라는 용어는 무엇을 설명하나요? 자신들의 천연자원으로부터 경제적 혜택을 얻지 못하는 국가들입니다."
+            },
+            {
+              "english": "Correction: Make sure students notice the quotation marks around “resource curse”—it signals that the author is quoting an external label.",
+              "korean": "교정: “resource curse”에 붙은 큰따옴표를 학생들이 눈여겨보게 하세요. 작가가 외부의 명칭을 인용하고 있음을 나타내는 신호입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "original": "However, looking at the forces driving this exploitation, there is no curse.",
+          "chunkReading": "However, / looking at the forces driving this exploitation, / there is no curse.",
+          "directKorean": "그러나, / 이러한 수탈을 이끄는 힘들을 바라볼 때, / 저주란 없습니다.",
+          "naturalKorean": "그러나 이러한 수탈을 추동하는 실질적인 힘들을 들여다보면, 저주 따위는 존재하지 않습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "However",
+              "meaning": "그러나, 그렇지만",
+              "use": "vital contrastive transition rejecting conventional economic assumptions",
+              "example": "The market seemed stable; however, deeper inspection revealed mounting systemic vulnerabilities."
+            },
+            {
+              "chunk": "looking at the forces driving this exploitation",
+              "meaning": "이러한 수탈을 이끄는(추동하는) 힘들을 바라볼 때",
+              "use": "participial viewpoint phrase focusing on institutional and human mechanisms",
+              "example": "Looking at the forces driving this deforestation, commercial ranching is clearly the primary factor."
+            },
+            {
+              "chunk": "there is no curse",
+              "meaning": "저주란 존재하지 않는다",
+              "use": "existential negative clause representing the author's decisive thesis statement",
+              "example": "Social scientists demonstrated that there is no curse, only policy failure and elite corruption."
+            }
+          ],
+          "mustKnowGrammar": "Adversative sentence connector ('However'); introductory present participial phrase ('looking at the forces driving this exploitation') with restrictive participial post-modifier ('driving this exploitation'); existential clause with negative polarity ('there is no curse').",
+          "feynmanExplanation": "Here is the big turning point of the article: / the author says stop calling it a 'curse'! / A curse sounds like magic or bad luck. / But bad luck is not causing this— / real human greed is causing it.",
+          "feynmanExplanationKo": "여기가 바로 이 기사의 가장 결정적인 전환점입니다: / 작가는 이것을 '저주'라고 부르지 말라고 일갈합니다! / 저주라고 하면 마법이나 불운처럼 들립니다. / 하지만 불운이 이를 초래한 것이 아닙니다— / 실재하는 인간의 탐욕이 이것을 초래한 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "This is the thesis climax: 'However, looking at the forces driving this exploitation, there is no curse.'",
+              "korean": "이것이 바로 논제의 절정입니다: '그러나 이러한 수탈을 이끄는 힘들을 바라볼 때, 저주란 없습니다.'"
+            },
+            {
+              "english": "Notice the rhetorical power of the short, four-word clause: 'there is no curse.' It completely shatters the fatalistic economic myth.",
+              "korean": "'there is no curse(저주란 없다)'라는 네 단어로 이루어진 짧은 절의 수사적 힘에 주목하세요. 숙명론적인 경제학적 신화를 산산이 깨부숩니다."
+            },
+            {
+              "english": "Check: Does the author believe the DRC is suffering from an actual curse? No, the author explicitly states 'there is no curse.'",
+              "korean": "확인: 작가는 DRC가 실제 저주에 시달리고 있다고 믿나요? 아닙니다, 작가는 '저주란 없다'고 단호하게 명시합니다."
+            },
+            {
+              "english": "Correction: Emphasize this strongly: students must not write that Source C confirms the resource curse; Source C refutes it!",
+              "korean": "교정: 이를 아주 강력하게 강조하세요: 학생들은 Source C가 자원의 저주를 긍정한다고 써서는 절대 안 되며, 오히려 그것을 반박하고 있음을 명확히 써야 합니다!"
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "original": "Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame",
+          "chunkReading": "Rather, / it is the cold and cynical attitude / of governments and corporate actors / that are to blame",
+          "directKorean": "오히려, / 냉혹하고 냉소적인 태도입니다 / 정부들과 기업 행위자들의 / 비난받아야 할 것은",
+          "naturalKorean": "오히려 비난받아야 마땅한 것은 바로 정부들과 기업 행위자들의 냉혹하고 냉소적인 태도입니다",
+          "mustKnowChunks": [
+            {
+              "chunk": "Rather",
+              "meaning": "오히려, 그 대신에",
+              "use": "corrective adverb presenting the true cause after rejecting the false label",
+              "example": "The disaster was not natural; rather, it was gross municipal negligence that caused the bridge collapse."
+            },
+            {
+              "chunk": "cold and cynical attitude",
+              "meaning": "냉혹하고 냉소적인 태도",
+              "use": "evaluative noun phrase condemning profit-motivated indifference to human suffering",
+              "example": "The investigators condemned the cold and cynical attitude of pharmaceutical executives."
+            },
+            {
+              "chunk": "governments and corporate actors",
+              "meaning": "정부들과 기업 행위자들",
+              "use": "compound noun phrase identifying the specific entities bearing moral and legal responsibility",
+              "example": "Both sovereign governments and corporate actors share responsibility for reducing carbon emissions."
+            },
+            {
+              "chunk": "are to blame",
+              "meaning": "비난받아야 마땅하다, 책임이 있다",
+              "use": "idiomatic passive-infinitive construction assigning direct culpability",
+              "example": "Faulty wiring and ignored safety warnings are to blame for the warehouse fire."
+            }
+          ],
+          "mustKnowGrammar": "Adversative corrective sentence adverb ('Rather'); cleft focus construction ('it is the cold and cynical attitude of governments and corporate actors that are to blame'); idiomatic semi-passive infinitive assigning responsibility ('are to blame'). Notice that the original source text ends without a closing period.",
+          "feynmanExplanation": "So who is really responsible? / The author points right at the leaders of governments and greedy multinational corporations. / Their cold, uncaring choices to take profit over human lives / are what should really be blamed.",
+          "feynmanExplanationKo": "그렇다면 진짜 책임은 누구에게 있을까요? / 작가는 정부의 지도자들과 탐욕스러운 다국적 기업들을 정면으로 지목합니다. / 사람의 목숨보다 이익을 우선시한 그들의 냉혹하고 무심한 선택이야말로 / 진정으로 비난받아야 마땅한 원인이라는 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the cleft sentence structure: 'it is [X] that are to blame.' It places total focus on the guilty parties: governments and corporate actors.",
+              "korean": "강조 구문(cleft construction)에 주목하세요: 'it is [X] that are to blame.' 유책 당사자인 정부들과 기업 행위자들에게 모든 초점을 정면으로 집중시킵니다."
+            },
+            {
+              "english": "Observe the author's moral language: 'cold and cynical attitude.' This is not neutral reporting; it is a sharp, reasoned ethical indictment.",
+              "korean": "작가의 도덕적 언어에 주목하세요: 'cold and cynical attitude(냉혹하고 냉소적인 태도).' 이것은 중립적 전달을 넘어 날카롭고 이성적인 윤리적 고발입니다."
+            },
+            {
+              "english": "Notice the lack of a final period in the source text: 'are to blame'. Preserve this exact original ending when analyzing.",
+              "korean": "원문의 마지막에 마침표가 빠져 있는 점('are to blame')에 주목하세요. 텍스트를 정밀 분석할 때 이 원문 그대로의 종결 형태를 보존하세요."
+            },
+            {
+              "english": "Check: According to the author's final claim, who is to blame for the exploitation? Governments and corporate actors.",
+              "korean": "확인: 작가의 최종 주장에 따르면 이 수탈에 대해 진정으로 비난받아야 할 주체는 누구인가요? 정부들과 기업 행위자들입니다."
+            },
+            {
+              "english": "Correction: Teach students that 'to blame' functions actively in form but assigns fault passively to the subject.",
+              "korean": "교정: 'to blame'이 형태는 능동이지만 주어에게 책임을 돌리는 수동적 의미로 쓰임을 지도하세요."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

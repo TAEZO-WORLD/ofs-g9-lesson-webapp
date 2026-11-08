@@ -1,0 +1,35 @@
+{
+  "taskId": "OFS-20261108-COLONIALISM-REVAMPED-CONGO-01",
+  "slug": "2026-11-08-colonialism-revamped-congo",
+  "title": "Colonialism Revamped in the Democratic Republic of the Congo",
+  "sourceLabel": "Source C:",
+  "citation": "Soleil-Chandi Mousseau, African Arguments, ‘Colonialism Revamped in the Democratic Republic of the Congo’, 2024",
+  "paragraphs": [
+    "140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State, a territory including the entirety of today’s Democratic Republic of Congo (DRC). Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities committed during the first colonial exploitation of the territory’s exceptional wealth of natural resources.",
+    "64 years after its independence, the DRC remains plagued by various forms of colonialism and extraction, resulting in massive human suffering, land grabs, human rights abuses, hunger and poverty. Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners. Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors. Community members who work as labourers on the plantations are subjected to unpaid wages and harsh working conditions. Their day-to-day life is plagued by violence and repression prosecuted by plantation security forces and police forces directed by the company, with a myriad of unlawful detentions, beatings, torture, and even murders. Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.",
+    "In addition to this historical colonial exploitation, DRC continues to face new forms of extraction, with even more dire consequences for the Congolese people. For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country. Violence is not the only consequence of the current forms of exploitation and extraction in the country. Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy. Poverty and hunger are widespread through what has often been labelled as the “resource curse,” to describe countries not benefiting economically from their own natural resources. However, looking at the forces driving this exploitation, there is no curse. Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame"
+  ],
+  "sentenceUnits": [
+    "140 years ago this November at the Berlin Conference, Belgium’s King Leopold was recognized as the sole owner of the Congo Free State, a territory including the entirety of today’s Democratic Republic of Congo (DRC).",
+    "Leopold's reign was marked by slavery, millions of deaths, and widespread atrocities committed during the first colonial exploitation of the territory’s exceptional wealth of natural resources.",
+    "64 years after its independence, the DRC remains plagued by various forms of colonialism and extraction, resulting in massive human suffering, land grabs, human rights abuses, hunger and poverty.",
+    "Remarkably, the land that became the private property of a Belgian king 140 years ago has still not been returned to its Congolese owners.",
+    "Instead, it is now controlled by a U.S.-based private equity fund, funnelling profits to its high profile investors.",
+    "Community members who work as labourers on the plantations are subjected to unpaid wages and harsh working conditions.",
+    "Their day-to-day life is plagued by violence and repression prosecuted by plantation security forces and police forces directed by the company, with a myriad of unlawful detentions, beatings, torture, and even murders.",
+    "Residents in Lokutu rose up in March 2019 when the Congolese police, who had been sent to end the demonstrations, ended up firing live bullets into the crowd.",
+    "In addition to this historical colonial exploitation, DRC continues to face new forms of extraction, with even more dire consequences for the Congolese people.",
+    "For the past three decades, the country has faced bloody conflicts, which have claimed millions of lives, particularly affecting the mineral-rich eastern region of the country.",
+    "Violence is not the only consequence of the current forms of exploitation and extraction in the country.",
+    "Whether it is from the firms producing palm oil or from the tech companies profiting from mineral extraction, the exploitation of the DRC’s resources has had a dire impact on the country’s economy.",
+    "Poverty and hunger are widespread through what has often been labelled as the “resource curse,” to describe countries not benefiting economically from their own natural resources.",
+    "However, looking at the forces driving this exploitation, there is no curse.",
+    "Rather, it is the cold and cynical attitude of governments and corporate actors that are to blame"
+  ],
+  "stats": {
+    "wordsWithoutLabel": 379,
+    "sha256WithoutLabel": "160b7f6fda7b11ecaece1dda1ce6f8aed9752c70953e59174d20b0c93bea19c4",
+    "wordsWithLabel": 381,
+    "sha256WithLabel": "7b35fecb56ab658de10096300891b502e7dcca1d0313c77a6908dea022b5694e"
+  }
+}
