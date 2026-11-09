@@ -75,7 +75,7 @@ export default function WritingTask({
       {submitted && modelAnswer && (
         <div className="model-answer-reveal" style={{ marginTop: '1rem' }}>
           <p className="model-answer-reveal__label">Model answer</p>
-          <p>{modelAnswer}</p>
+          <p>{typeof modelAnswer === 'object' ? (modelAnswer.finalWritingTask || JSON.stringify(modelAnswer)) : modelAnswer}</p>
         </div>
       )}
 

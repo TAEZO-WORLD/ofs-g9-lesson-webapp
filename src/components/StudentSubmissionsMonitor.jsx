@@ -723,7 +723,9 @@ export default function StudentSubmissionsMonitor({ lessonSlug, lessonData }) {
                                   Model Answer:
                                 </strong>
                                 <p style={{ margin: 0, fontSize: '0.875rem', color: 'var(--color-navy-soft)' }}>
-                                  {lessonData.teacher.modelAnswer}
+                                  {typeof lessonData.teacher.modelAnswer === 'object'
+                                    ? (lessonData.teacher.modelAnswer.finalWritingTask || JSON.stringify(lessonData.teacher.modelAnswer))
+                                    : lessonData.teacher.modelAnswer}
                                 </p>
                               </div>
                             )}

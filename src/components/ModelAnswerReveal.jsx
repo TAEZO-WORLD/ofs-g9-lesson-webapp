@@ -26,7 +26,7 @@ export default function ModelAnswerReveal({ modelAnswer }) {
         Model Answer
       </h4>
       <p style={{ margin: 0, fontSize: '0.925rem', color: 'var(--color-navy-soft)', fontStyle: 'italic', lineHeight: '1.5' }}>
-        {modelAnswer}
+        {typeof modelAnswer === 'object' ? (modelAnswer.finalWritingTask || JSON.stringify(modelAnswer)) : modelAnswer}
       </p>
     </div>
   );

@@ -449,9 +449,7 @@
         }
       ]
     },
-    "modelAnswer": {
-      "finalWritingTask": "According to the article, AI music creators are fundamentally transforming the music world by lowering barriers to creative production while triggering serious industry friction. On the one hand, artificial intelligence provides unprecedented opportunities for aspiring artists; British creator Oliver McCann, using the name imoliver, generated a hit song with over 3 million streams, making him the first AI artist signed to a record label despite admitting he possessed no musical talent. Furthermore, tools like Suno and Udio enable more young creators to explore their creativity. On the other hand, this shift brings severe challenges. Traditional musicians worry that AI-generated songs could harm their livelihoods, prompting major record labels to file lawsuits to protect their rights and profits. Describing this growth as a total boom and a tsunami, expert Josh Antonuccio emphasizes that the future of music is rapidly evolving with both excitement and concern."
-    },
+    "modelAnswer": "According to the article, AI music creators are changing the music world by lowering barriers while sparking serious industry friction. On the one hand, AI offers exciting opportunities. British creator Oliver McCann, known as imoliver, made a song with over 3 million streams, making him the first AI artist signed to a record label despite admitting he has no musical talent. Furthermore, tools like Suno and Udio enable more young creators to explore their creativity. On the other hand, this shift brings challenges. Traditional musicians worry that AI-generated songs could hurt their industry, prompting major record labels to file lawsuits to protect their rights and profits. Describing this growth as a total boom and tsunami, expert Josh Antonuccio shows the future is changing with both excitement and concern.",
     "rubric": {
       "title": "Analytical Writing Rubric (Grade 9 ESL)",
       "categories": [

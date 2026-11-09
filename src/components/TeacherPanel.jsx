@@ -166,7 +166,7 @@ export default function TeacherPanel({ teacher, lessonData }) {
             Writing Task Model Answer
           </h4>
           <div style={{ fontStyle: 'italic', color: 'var(--color-navy-soft)', paddingLeft: '0.5rem', borderLeft: '2px solid var(--color-border)' }}>
-            "{teacher.modelAnswer || lessonData?.writingTask?.modelAnswer}"
+            "{typeof teacher.modelAnswer === 'object' ? (teacher.modelAnswer.finalWritingTask || '') : (teacher.modelAnswer || lessonData?.writingTask?.modelAnswer || '')}"
           </div>
         </div>
       </div>
@@ -174,7 +174,7 @@ export default function TeacherPanel({ teacher, lessonData }) {
       <div className="teacher-panel">
         <h3 className="teacher-panel__title">Model answer</h3>
         <div className="teacher-panel__content">
-          <p>{modelAnswer}</p>
+          <p>{typeof modelAnswer === 'object' ? (modelAnswer.finalWritingTask || JSON.stringify(modelAnswer)) : modelAnswer}</p>
         </div>
       </div>
 
