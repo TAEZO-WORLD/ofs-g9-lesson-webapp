@@ -1,0 +1,1168 @@
+{
+  "lessonTitle": "AI Music Creators Are Changing the Game",
+  "ofsUnit": "Unit 5 — Technology, Creativity & Change",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Informational / Current-Affairs Article",
+  "writingType": "Evidence-Based Analytical Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students identify opportunity and concern, use evidence and attribution, and explain cause/effect, contrast and cautious claims based on Source E.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. You do not need outside technical or legal knowledge; answer using your personal definitions, everyday experience, and logical reasoning.",
+    "questions": [
+      {
+        "question": "How can new digital technologies help people express their creativity, even if they have never had traditional artistic training?",
+        "sentenceStarter": "Digital technologies can expand personal creativity because they allow users to..."
+      },
+      {
+        "question": "What is the difference between mastering a traditional musical instrument and using software or artificial intelligence to generate a song?",
+        "sentenceStarter": "While traditional musicians spend years developing technical skills, using AI software focuses on..."
+      },
+      {
+        "question": "When new tools make it fast and easy for anyone to create music, what opportunities and what concerns might arise for the music industry?",
+        "sentenceStarter": "Widespread access to creative tools creates exciting opportunities such as..., but it also raises concerns regarding..."
+      }
+    ],
+    "sentenceStarters": [
+      "Digital technologies can expand personal creativity because they allow users to...",
+      "While traditional musicians spend years developing technical skills, using AI software focuses on...",
+      "Widespread access to creative tools creates exciting opportunities such as..., but it also raises concerns regarding..."
+    ]
+  },
+  "article": {
+    "title": "AI Music Creators Are Changing the Game",
+    "source": "Source: BBC",
+    "sourceNote": "Source: BBC",
+    "paragraphs": [
+      "In the world of music, a new sound is rising up thanks to artificial intelligence! Oliver McCann, a British creator using the name imoliver, makes music with the help of AI, even though he admits, “I have no musical talent at all.”",
+      "His latest song got over 3 million streams, making him the first AI artist to sign with a real record label. As McCann uses AI tools like Suno and Udio, more young creators are exploring these new technologies to express their creativity.",
+      "But this shift isn’t without its challenges. Some traditional musicians are worried that AI-generated songs could hurt their industry. Major record labels are even filing lawsuits to protect their rights and profits. “It’s a total boom. It’s a tsunami,” says expert Josh Antonuccio about AI music’s growth. With both excitement and concern, the future of music is changing, and it seems anyone could create the next big hit!"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key terms from Source E. Focus on each word's part of speech, accessible English definition, concise Korean equivalent, and contextual example sentence.",
+    "items": [
+      {
+        "word": "artificial intelligence",
+        "partOfSpeech": "noun phrase",
+        "definition": "computer systems and software capable of performing complex tasks that normally require human intelligence, such as recognizing patterns, making decisions, or generating music",
+        "korean": "인공지능 (AI)",
+        "example": "Thanks to artificial intelligence, modern software can generate complete musical tracks in seconds."
+      },
+      {
+        "word": "creator",
+        "partOfSpeech": "noun",
+        "definition": "a person who produces original cultural, digital, or artistic content using modern tools and platforms",
+        "korean": "창작자, 크리에이터",
+        "example": "The British creator uploaded his newest project online and quickly gained a global following."
+      },
+      {
+        "word": "streams",
+        "partOfSpeech": "noun (plural)",
+        "definition": "instances of digital audio or video content being played directly over the internet without downloading a permanent file",
+        "korean": "스트리밍 횟수, 재생 수",
+        "example": "His latest release achieved over three million streams on major streaming platforms."
+      },
+      {
+        "word": "record label",
+        "partOfSpeech": "noun phrase",
+        "definition": "a commercial company that produces, markets, distributes, and manages recorded music and recording artists",
+        "korean": "음반사, 레코드사",
+        "example": "Signing a deal with a real record label was a major milestone for the independent artist."
+      },
+      {
+        "word": "explore",
+        "partOfSpeech": "verb",
+        "definition": "to investigate, try out, or experiment with unfamiliar ideas, tools, or techniques to discover what they can do",
+        "korean": "탐색하다, 시도해 보다",
+        "example": "Young creators are beginning to explore modern digital software to invent new sounds."
+      },
+      {
+        "word": "express creativity",
+        "partOfSpeech": "verb phrase",
+        "definition": "to communicate personal feelings, unique thoughts, or imaginative ideas through artistic production",
+        "korean": "창의성을 표현하다",
+        "example": "New generative software allows aspiring musicians to express creativity without years of formal training."
+      },
+      {
+        "word": "AI-generated",
+        "partOfSpeech": "adjective",
+        "definition": "produced, synthesized, or composed by an artificial intelligence system rather than recorded directly by human performance",
+        "korean": "인공지능이 생성한, AI로 만든",
+        "example": "Radio stations are debating whether to broadcast AI-generated songs alongside traditional tracks."
+      },
+      {
+        "word": "traditional musician",
+        "partOfSpeech": "noun phrase",
+        "definition": "an artist who writes music, plays physical acoustic or electric instruments, or sings through conventional human training and performance",
+        "korean": "전통 음악가 (악기 연주자/가수)",
+        "example": "Some traditional musicians worry that algorithmic composition diminishes the value of live instrumentation."
+      },
+      {
+        "word": "lawsuit",
+        "partOfSpeech": "noun",
+        "definition": "a formal legal claim or case brought before a court of law to settle a dispute or defend legal rights",
+        "korean": "소송",
+        "example": "Major entertainment corporations filed a lawsuit against software companies to protect their copyrighted catalog."
+      },
+      {
+        "word": "rights and profits",
+        "partOfSpeech": "noun phrase (plural)",
+        "definition": "legal ownership entitlements, intellectual property protections, and the financial earnings derived from commercial works",
+        "korean": "권리와 수익",
+        "example": "Companies took legal action to defend their rights and profits against unauthorized digital reproduction."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "Which statement best expresses the main idea of the article?",
+    "options": [
+      "Artificial intelligence has completely replaced human recording artists and forced traditional record labels to shut down permanently.",
+      "AI tools are widening music creation for new artists while sparking concerns among traditional musicians and record labels about rights and the industry's future.",
+      "Oliver McCann proved that traditional musicians are far more talented and successful than creators who use software programs like Suno.",
+      "Major record labels have decided to ban all young creators from releasing songs on online streaming platforms."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! The article presents both sides: AI tools enable creators like McCann to produce viral music, while also creating challenges, lawsuits over rights and profits, and worries among traditional musicians.",
+      "incorrect": "X Incorrect. Look for the balanced central thesis that captures both the growing opportunity for creators and the industry concerns regarding lawsuits and traditional musicians."
+    },
+    "explanation": "The article emphasizes both the exciting growth and opportunities brought by AI tools (like McCann signing a deal after 3 million streams) and the serious concerns (lawsuits by labels, worries from traditional musicians)."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer these 6 multiple-choice questions based strictly on the details in Source E.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, who is Oliver McCann and what personal admission does he make about his musical background?",
+        "options": [
+          "He is an award-winning classical pianist who refuses to touch digital computers.",
+          "He is a British creator using the name imoliver who admits he has no musical talent at all.",
+          "He is an American record executive who manages major rock bands across Europe.",
+          "He is a software programmer who invented the very first electric guitar."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 states: 'Oliver McCann, a British creator using the name imoliver, makes music with the help of AI, even though he admits, “I have no musical talent at all.”'",
+          "incorrect": "X Incorrect. Paragraph 1 identifies Oliver McCann as a British creator named imoliver who makes music with AI despite admitting he has no musical talent."
+        },
+        "explanation": "Paragraph 1: 'Oliver McCann, a British creator using the name imoliver, makes music with the help of AI, even though he admits, “I have no musical talent at all.”'"
+      },
+      {
+        "id": "rc2",
+        "question": "In Paragraph 2, what commercial milestone did Oliver McCann achieve with his latest song?",
+        "options": [
+          "It won an international classical music competition in London.",
+          "It got over 3 million streams, making him the first AI artist to sign with a real record label.",
+          "It was banned from every online streaming service for copyright infringement.",
+          "It was purchased exclusively by a movie studio for a feature film soundtrack."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 notes: 'His latest song got over 3 million streams, making him the first AI artist to sign with a real record label.'",
+          "incorrect": "X Incorrect. Paragraph 2 explicitly highlights that his song earned over 3 million streams and led him to become the first AI artist signed to a real record label."
+        },
+        "explanation": "Paragraph 2: 'His latest song got over 3 million streams, making him the first AI artist to sign with a real record label.'"
+      },
+      {
+        "id": "rc3",
+        "question": "Which specific AI tools are named in Paragraph 2 as examples of technologies young creators use to express creativity?",
+        "options": [
+          "ChatGPT and Wikipedia.",
+          "Suno and Udio.",
+          "GarageBand and Pro Tools.",
+          "Spotify and Apple Music."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 specifically mentions: 'As McCann uses AI tools like Suno and Udio, more young creators are exploring these new technologies to express their creativity.'",
+          "incorrect": "X Incorrect. Paragraph 2 explicitly mentions 'AI tools like Suno and Udio'."
+        },
+        "explanation": "Paragraph 2: 'As McCann uses AI tools like Suno and Udio, more young creators are exploring these new technologies to express their creativity.'"
+      },
+      {
+        "id": "rc4",
+        "question": "According to Paragraph 2, what broader trend is emerging among young creators as McCann uses these tools?",
+        "options": [
+          "They are abandoning digital devices to learn acoustic orchestral instruments.",
+          "More young creators are exploring these new technologies to express their creativity.",
+          "They are protesting against streaming platforms and boycotting online music.",
+          "They are giving up music production entirely because software is too complicated."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 explains that as McCann uses these tools, 'more young creators are exploring these new technologies to express their creativity.'",
+          "incorrect": "X Incorrect. Paragraph 2 states that more young creators are exploring these new technologies to express their creativity."
+        },
+        "explanation": "Paragraph 2: 'more young creators are exploring these new technologies to express their creativity.'"
+      },
+      {
+        "id": "rc5",
+        "question": "According to Paragraph 3, why are some traditional musicians worried about the rise of AI in music?",
+        "options": [
+          "They fear audiences will stop listening to music and only watch television.",
+          "They are worried that AI-generated songs could hurt their industry.",
+          "They believe AI software is too expensive for ordinary schools to afford.",
+          "They are concerned that vinyl records will completely disappear from stores."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 states: 'Some traditional musicians are worried that AI-generated songs could hurt their industry.'",
+          "incorrect": "X Incorrect. Paragraph 3 clearly explains that traditional musicians worry AI-generated songs could hurt their industry."
+        },
+        "explanation": "Paragraph 3: 'Some traditional musicians are worried that AI-generated songs could hurt their industry.'"
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraph 3, what legal actions are major record labels taking, and how does expert Josh Antonuccio describe AI music's growth?",
+        "options": [
+          "Record labels are hiring AI artists, and Antonuccio calls it a complete failure.",
+          "Labels are filing lawsuits to protect their rights and profits, while Antonuccio calls the growth 'a total boom' and 'a tsunami.'",
+          "Labels are closing down all digital distribution, and Antonuccio predicts music will end.",
+          "Labels are suing individual listeners, and Antonuccio describes the market as stagnant."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 states that major record labels are filing lawsuits to protect their rights and profits, while expert Josh Antonuccio says, 'It’s a total boom. It’s a tsunami.'",
+          "incorrect": "X Incorrect. Paragraph 3 states major record labels are filing lawsuits to protect their rights and profits, and Josh Antonuccio characterizes AI music's growth as 'a total boom' and 'a tsunami.'"
+        },
+        "explanation": "Paragraph 3: 'Major record labels are even filing lawsuits to protect their rights and profits. “It’s a total boom. It’s a tsunami,” says expert Josh Antonuccio about AI music’s growth.'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each prompt using direct, factual details from Source E. After writing your response, click 'Compare with Model' to evaluate your work against an exemplar answer.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "According to Paragraphs 1 and 2, what opportunities does artificial intelligence offer creators who have no traditional musical training?",
+        "placeholder": "According to the article, AI offers new opportunities because...",
+        "modelAnswer": "According to Paragraphs 1 and 2, artificial intelligence allows individuals who have no traditional musical talent to produce successful music. For example, British creator Oliver McCann (imoliver) made music with AI tools despite admitting he had no musical talent, earning over 3 million streams on his latest song and becoming the first AI artist to sign with a real record label.",
+        "compareTip": "Ensure you cite Oliver McCann (imoliver), his admission of having no musical talent, his song achieving over 3 million streams, and his historic signing with a real record label."
+      },
+      {
+        "id": "ev2",
+        "question": "In Paragraph 2, which specific tools are named, and what effect are they having on young creators?",
+        "placeholder": "Paragraph 2 mentions AI tools like...",
+        "modelAnswer": "Paragraph 2 specifically names AI tools like Suno and Udio. As Oliver McCann uses these tools, their accessibility is encouraging more young creators to explore these new technologies to express their personal creativity in music.",
+        "compareTip": "Check that you explicitly identified Suno and Udio and explained how they encourage young creators to explore new technologies to express their creativity."
+      },
+      {
+        "id": "ev3",
+        "question": "According to Paragraph 3, what industry concerns, legal actions, and expert descriptions characterize the future of AI music?",
+        "placeholder": "Paragraph 3 explains that the shift brings challenges because...",
+        "modelAnswer": "Paragraph 3 explains that traditional musicians worry AI-generated songs could hurt their industry, while major record labels are filing lawsuits to protect their rights and profits. Furthermore, expert Josh Antonuccio describes the rapid growth as 'a total boom' and 'a tsunami,' showing that the future of music is changing with both excitement and concern.",
+        "compareTip": "Make sure you include traditional musicians' worries about industry harm, major labels' lawsuits to protect rights and profits, and expert Josh Antonuccio's quote calling the growth 'a total boom' and 'a tsunami.'"
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Target Structures: Participles, Cause/Effect, Contrast, Passive Voice, Reporting Verbs & Attribution",
+    "instructions": "Review these six essential grammatical and rhetorical structures used in analytical journalism before completing the writing practice.",
+    "patterns": [
+      {
+        "name": "1. Participle Clauses for Consequence (-ing)",
+        "explanation": "Use a present participial phrase to show an immediate outcome, result, or simultaneous achievement of an action.",
+        "example": "His track gained viral popularity, making him the first creator in his school to sign with a publisher.",
+        "sourceExample": "His latest song got over 3 million streams, making him the first AI artist to sign with a real record label."
+      },
+      {
+        "name": "2. Cause and Effect Connectors (thanks to / as / so)",
+        "explanation": "Connect technological developments directly to their real-world consequences using causal prepositions and conjunctions.",
+        "example": "Thanks to automated mastering tools, independent singers can release studio-quality tracks from home.",
+        "sourceExample": "In the world of music, a new sound is rising up thanks to artificial intelligence!"
+      },
+      {
+        "name": "3. Contrast and Concession Markers (even though / but / without)",
+        "explanation": "Highlight surprising facts or competing perspectives by balancing opportunities against limitations or challenges.",
+        "example": "Even though he had never studied music theory, he composed an entire digital album.",
+        "sourceExample": "Oliver McCann... makes music with the help of AI, even though he admits, “I have no musical talent at all.”"
+      },
+      {
+        "name": "4. Objective Reporting Verbs and Attributive Framing (says expert... / according to...)",
+        "explanation": "Attribute quotes, opinions, and expert assessments clearly so readers know who made the statement.",
+        "example": "“This technology transforms production,” says industry analyst Maria Chen about new digital software.",
+        "sourceExample": "“It’s a total boom. It’s a tsunami,” says expert Josh Antonuccio about AI music’s growth."
+      },
+      {
+        "name": "5. Purpose and Passive Infinitives (to protect / is changing)",
+        "explanation": "Explain institutional actions and motivations using infinitive phrases of purpose.",
+        "example": "Publishers are reviewing contracts to protect their intellectual property and catalog revenues.",
+        "sourceExample": "Major record labels are even filing lawsuits to protect their rights and profits."
+      },
+      {
+        "name": "6. Cautious Hedging and Balanced Claims (could / seems / with both...)",
+        "explanation": "Use modal verbs and balanced prepositions to discuss uncertain future outcomes without overstating certainty.",
+        "example": "With both potential and risk, automated editing seems likely to reshape multimedia production.",
+        "sourceExample": "With both excitement and concern, the future of music is changing, and it seems anyone could create the next big hit!"
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Draft a single, grammatically complete sentence for each prompt applying the target language structures. Adhere to the target word count and compare your draft with the model.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write a sentence using a participle clause ('making him...') and 'even though' to explain Oliver McCann's breakthrough despite lacking formal musical training.",
+        "placeholder": "Oliver McCann created music with artificial intelligence, even though...",
+        "modelAnswer": "Even though Oliver McCann admitted having no musical talent, his song earned over 3 million streams, making him the first AI artist signed to a record label.",
+        "compareTip": "Ensure you used 'even though' to show his lack of musical talent and a participial phrase ('making him...') to explain his breakthrough achievement.",
+        "targetWords": 26,
+        "minWords": 18,
+        "maxWords": 38
+      },
+      {
+        "id": "wp2",
+        "question": "Write a cause-and-effect sentence using 'as' and 'explore' to explain how tools like Suno and Udio empower young creators to express their creativity.",
+        "placeholder": "As accessible AI tools like Suno and Udio become popular, more young creators...",
+        "modelAnswer": "As accessible tools like Suno and Udio spread rapidly, more young creators are beginning to explore these technologies to express their musical creativity.",
+        "compareTip": "Verify that your sentence uses 'as' as a causal/temporal conjunction, names tools like Suno or Udio, and includes 'explore' and 'creativity.'",
+        "targetWords": 23,
+        "minWords": 16,
+        "maxWords": 35
+      },
+      {
+        "id": "wp3",
+        "question": "Write a contrast sentence using 'worried that' and 'to protect' to explain why traditional musicians and major record labels view AI music as a challenge.",
+        "placeholder": "While some traditional musicians are worried that AI-generated songs could hurt their industry, major record labels are...",
+        "modelAnswer": "While traditional musicians are worried that AI-generated songs could hurt their industry, major record labels are filing lawsuits to protect their rights and profits.",
+        "compareTip": "Check that your sentence balances musicians' worries about industry harm against record labels' lawsuits aimed at protecting rights and profits.",
+        "targetWords": 24,
+        "minWords": 18,
+        "maxWords": 38
+      },
+      {
+        "id": "wp4",
+        "question": "Write a balanced concluding sentence attributing expert Josh Antonuccio's quote ('a total boom' / 'a tsunami') and using cautious language ('with both excitement and concern').",
+        "placeholder": "Describing the rapid rise as 'a total boom' and 'a tsunami,' expert Josh Antonuccio notes that...",
+        "modelAnswer": "Describing AI music's rapid expansion as a total boom and tsunami, expert Josh Antonuccio highlights how the industry faces both excitement and concern.",
+        "compareTip": "Confirm that your sentence attributes Josh Antonuccio, cites the boom/tsunami metaphor, and balances excitement with concern.",
+        "targetWords": 23,
+        "minWords": 16,
+        "maxWords": 35
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based analytical explanation paragraph answering the prompt below. Adhere strictly to the word count target and verify your draft against the checklist.",
+    "prompt": "According to the article, how are AI music creators changing the music world? Write an evidence-based explanation paragraph of 100–140 words. Include at least three specific details from the text, explain both an opportunity for new creators and a concern for the music industry, use cause-and-effect and contrast language, and attribute the expert perspective and balanced conclusion.",
+    "checklist": [
+      "clear controlling idea answering how AI music creators are changing the music world",
+      "at least three accurate details from the original text (e.g., Oliver McCann/imoliver, 3 million streams/label deal, Suno/Udio, traditional musicians' worries, or lawsuits over rights and profits)",
+      "explanation of both an opportunity (accessible creation without talent) and an industry concern (lawsuits, harm to traditional musicians)",
+      "accurate cause-and-effect language (e.g., 'thanks to', 'making him', 'as creators explore') and contrast markers (e.g., 'even though', 'but', 'while')",
+      "one explicit source-reporting phrase such as 'According to the article' or 'Source: BBC explains that'",
+      "accurate citation of expert Josh Antonuccio's perspective ('a total boom. It’s a tsunami')",
+      "balanced conclusion reflecting both excitement and concern without outside legal or copyright claims",
+      "no invented lawsuits, artists, dates, or technical jargon absent from the text",
+      "logical organization, transitional coherence, and effective concluding sentence",
+      "strictly 100–140 words"
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "According to the article, AI music creators are changing the music world by lowering barriers while sparking serious industry friction. On the one hand, AI offers exciting opportunities. British creator Oliver McCann, known as imoliver, made a song with over 3 million streams, making him the first AI artist signed to a record label despite admitting he has no musical talent. Furthermore, tools like Suno and Udio enable more young creators to explore their creativity. On the other hand, this shift brings challenges. Traditional musicians worry that AI-generated songs could hurt their industry, prompting major record labels to file lawsuits to protect their rights and profits. Describing this growth as a total boom and tsunami, expert Josh Antonuccio shows the future is changing with both excitement and concern.",
+    "compareTip": "Review your draft against the checklist: confirm explicit source attribution, inclusion of both creative opportunities (Oliver McCann, 3 million streams, Suno/Udio) and industry challenges (traditional musicians' worries, lawsuits for rights and profits), expert quote attribution (Josh Antonuccio's 'boom/tsunami'), and a strict word count between 100 and 140 words."
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "instructions": "Review your final writing piece against these six criteria before submitting your work.",
+    "items": [
+      {
+        "text": "My writing is strictly based on the details in Source E without inventing outside legal cases, dates, or technical claims."
+      },
+      {
+        "text": "I clearly explained how AI tools provide new creative opportunities for individuals without traditional musical training."
+      },
+      {
+        "text": "I cited at least three specific details from the text (e.g., Oliver McCann/imoliver, 3 million streams/label deal, Suno/Udio, or lawsuits over rights and profits)."
+      },
+      {
+        "text": "I explained the industry concerns, including worries from traditional musicians and lawsuits filed by major record labels."
+      },
+      {
+        "text": "I used cause-and-effect connectors ('thanks to', 'as') and contrast markers ('even though', 'while', 'on the other hand') to balance both sides."
+      },
+      {
+        "text": "My paragraph includes proper attribution ('According to the article', expert Josh Antonuccio) and contains strictly 100–140 words."
+      }
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 1,
+        "rationale": "Option B accurately captures the article's dual focus: AI tools widen creative access and allow untrained creators to produce viral hits, but simultaneously spark industry lawsuits and anxiety among traditional musicians regarding rights, profits, and the future of music."
+      },
+      "readingComprehension": [
+        {
+          "id": "rc1",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 explicitly identifies Oliver McCann as a British creator using the name imoliver who makes music with AI, even though he admits, 'I have no musical talent at all.'"
+        },
+        {
+          "id": "rc2",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 directly reports that his latest song got over 3 million streams, making him the first AI artist to sign with a real record label."
+        },
+        {
+          "id": "rc3",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 specifically identifies Suno and Udio as the AI tools McCann and young creators are using."
+        },
+        {
+          "id": "rc4",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 explains that as McCann uses these tools, 'more young creators are exploring these new technologies to express their creativity.'"
+        },
+        {
+          "id": "rc5",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 explicitly states: 'Some traditional musicians are worried that AI-generated songs could hurt their industry.'"
+        },
+        {
+          "id": "rc6",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 details that major record labels are filing lawsuits to protect their rights and profits, while expert Josh Antonuccio describes the rapid growth as 'a total boom' and 'a tsunami.'"
+        }
+      ],
+      "evidenceFromText": [
+        {
+          "id": "ev1",
+          "modelAnswer": "According to Paragraphs 1 and 2, artificial intelligence allows individuals who have no traditional musical talent to produce successful music. For example, British creator Oliver McCann (imoliver) made music with AI tools despite admitting he had no musical talent, earning over 3 million streams on his latest song and becoming the first AI artist to sign with a real record label."
+        },
+        {
+          "id": "ev2",
+          "modelAnswer": "Paragraph 2 specifically names AI tools like Suno and Udio. As Oliver McCann uses these tools, their accessibility is encouraging more young creators to explore these new technologies to express their personal creativity in music."
+        },
+        {
+          "id": "ev3",
+          "modelAnswer": "Paragraph 3 explains that traditional musicians worry AI-generated songs could hurt their industry, while major record labels are filing lawsuits to protect their rights and profits. Furthermore, expert Josh Antonuccio describes the rapid growth as 'a total boom' and 'a tsunami,' showing that the future of music is changing with both excitement and concern."
+        }
+      ]
+    },
+    "modelAnswer": {
+      "finalWritingTask": "According to the article, AI music creators are fundamentally transforming the music world by lowering barriers to creative production while triggering serious industry friction. On the one hand, artificial intelligence provides unprecedented opportunities for aspiring artists; British creator Oliver McCann, using the name imoliver, generated a hit song with over 3 million streams, making him the first AI artist signed to a record label despite admitting he possessed no musical talent. Furthermore, tools like Suno and Udio enable more young creators to explore their creativity. On the other hand, this shift brings severe challenges. Traditional musicians worry that AI-generated songs could harm their livelihoods, prompting major record labels to file lawsuits to protect their rights and profits. Describing this growth as a total boom and a tsunami, expert Josh Antonuccio emphasizes that the future of music is rapidly evolving with both excitement and concern."
+    },
+    "rubric": {
+      "title": "Analytical Writing Rubric (Grade 9 ESL)",
+      "categories": [
+        {
+          "name": "Content & Ideas",
+          "description": "Clear controlling idea answering how AI music creators are changing the music world; thorough understanding of both opportunities and industry concerns presented in Source E.",
+          "score4": "Develops a perceptive, balanced controlling idea that comprehensively articulates creative opportunities (democratization, streaming success) alongside industry challenges (lawsuits, musician worries).",
+          "score3": "States a clear controlling idea identifying both opportunities and concerns; accurately references the core thesis of the article.",
+          "score2": "Presents a one-sided view focusing solely on technological excitement or solely on lawsuits without balancing both aspects.",
+          "score1": "Lacks a controlling idea or introduces irrelevant outside technical or copyright claims not grounded in Source E."
+        },
+        {
+          "name": "Evidence Use",
+          "description": "Accuracy, relevance, and density of factual details cited directly from Source E without outside embellishment.",
+          "score4": "Seamlessly integrates at least three highly specific textual details (e.g., Oliver McCann/imoliver, 3 million streams/label deal, Suno/Udio, lawsuits over rights/profits, Antonuccio quote).",
+          "score3": "Includes two or three accurate details from the reading with minor omissions in textual specificity.",
+          "score2": "Provides only one or two vague references with minimal textual precision.",
+          "score1": "Provides inaccurate evidence or relies on fabricated historical details absent from Source E."
+        },
+        {
+          "name": "Target Language/Structure",
+          "description": "Use of participle clauses, cause-and-effect connectors, contrast markers, passive structures, and cautious attribution.",
+          "score4": "Expertly demonstrates sophisticated contrast/concession ('even though', 'while', 'on the other hand'), cause-and-effect connectors ('thanks to', 'making him', 'as'), and flawless attribution.",
+          "score3": "Uses contrast and cause-and-effect transitions accurately with minor mechanical lapses; includes clear attribution.",
+          "score2": "Demonstrates inconsistent use of target connectors; weak or missing attribution of source claims.",
+          "score1": "Frequent grammatical breakdowns that impede academic clarity; completely lacks source attribution."
+        },
+        {
+          "name": "Organization",
+          "description": "Logical paragraph progression, cohesive transitions, thematic balance, and strong concluding synthesis.",
+          "score4": "Follows an exemplary logical progression from the controlling thesis to creative opportunities, shifts smoothly to industry friction, and ends with a balanced synthesis of expert commentary.",
+          "score3": "Logically structured with clear progression and appropriate transitions between opportunities and concerns.",
+          "score2": "Somewhat disjointed structure; abrupt transitions between technological success and legal challenges.",
+          "score1": "Unconnected list of sentences lacking paragraph unity, flow, and coherence."
+        },
+        {
+          "name": "Accuracy",
+          "description": "Strict compliance with the 100–140 word count parameter, mechanical precision, spelling, and academic register.",
+          "score4": "Word count is strictly between 100 and 140 words; flawless punctuation, academic register, and spelling throughout.",
+          "score3": "Word count is between 95 and 145 words; minor punctuation errors that do not hinder academic comprehension.",
+          "score2": "Noticeably under or over length (80–94 or 146–160 words); noticeable mechanical or spelling errors.",
+          "score1": "Severe word count violation (<80 or >160 words); persistent errors that disrupt readability."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "1. Text Identity and Journalistic Scope",
+        "note": "The article is an informational current-affairs feature credited to 'Source: BBC' titled 'AI Music Creators Are Changing the Game.' It represents a balanced journalistic overview of generative AI in popular culture, deliberately pairing viral creative democratization with industry friction and intellectual property concerns."
+      },
+      {
+        "topic": "2. Oliver McCann and the Persona 'imoliver'",
+        "note": "Oliver McCann is a British creator who produces music under the moniker 'imoliver.' The crucial pedagogical point is his candid admission: 'I have no musical talent at all.' This illustrates how modern AI shifts musicianship from physical instrumental dexterity to digital curation, prompt formulation, and iterative selection."
+      },
+      {
+        "topic": "3. The 3 Million Streams Milestone and Record Label Signing",
+        "note": "McCann's latest track surpassed 3 million digital streams, which led to a historic contract making him the first AI artist to sign with a real record label. This fact proves that AI music is no longer a fringe novelty but a commercially viable commodity recognized by legacy institutions."
+      },
+      {
+        "topic": "4. Generative AI Audio Tools: Suno and Udio",
+        "note": "Paragraph 2 explicitly names Suno and Udio. These text-to-music generative AI platforms allow users to enter lyrical themes, genre tags, and mood descriptions to synthesize full-fidelity vocal and instrumental songs within minutes. Emphasize to students that these tools serve as practical examples of creative democratization."
+      },
+      {
+        "topic": "5. Engagement of Young Creators",
+        "note": "The reading highlights that as creators like McCann demonstrate success, more young creators are exploring these technologies to express their creativity. Discuss how low financial barriers and zero prerequisite instrumental training enable teenagers to experiment with artistic self-expression."
+      },
+      {
+        "topic": "6. Anxiety Among Traditional Musicians",
+        "note": "Paragraph 3 introduces the industry backlash. Traditional musicians express legitimate anxiety that AI-generated songs could flood streaming services, devalue human instrumental craftsmanship, and hurt their livelihoods and career sustainability."
+      },
+      {
+        "topic": "7. Corporate Legal Action: Lawsuits over Rights and Profits",
+        "note": "Major record labels are actively filing lawsuits to defend their rights and commercial profits. While labels signed McCann, they simultaneously sue AI platform developers for allegedly training generative models on copyrighted sound recordings without authorization or compensation."
+      },
+      {
+        "topic": "8. Expert Commentary: Josh Antonuccio's Metaphor",
+        "note": "Expert Josh Antonuccio characterizes the explosive growth of AI music with two vivid metaphors: 'It’s a total boom. It’s a tsunami.' Guide students to analyze how 'boom' emphasizes sudden economic expansion, while 'tsunami' connotes an overwhelming, unstoppable wave transforming the landscape."
+      },
+      {
+        "topic": "9. Synthesizing the Balanced Conclusion",
+        "note": "The final sentence encapsulates the duality: 'With both excitement and concern, the future of music is changing, and it seems anyone could create the next big hit!' Teach students to reflect this exact equilibrium in their analytical writing rather than taking an extreme pro-AI or anti-AI stance."
+      },
+      {
+        "topic": "10. Strict Factual Scope and Avoiding Outside Hallucination",
+        "note": "Caution students against importing outside legal cases (e.g., UMG v. Suno/Udio court dockets), specific copyright statutes, or other AI celebrities (e.g., Ghostwriter, Drake deepfakes) into their writing. All claims must be strictly grounded in the 161 words of Source E."
+      },
+      {
+        "topic": "11. Isolation from Prior Source Lessons",
+        "note": "Source E belongs to Unit 5 (Technology, Creativity & Change). Keep it entirely isolated from the historical colonialism themes of Sources A, B, C, and D. Do not mix historical exploitation, mining, or imperial monuments into this contemporary music analysis."
+      },
+      {
+        "topic": "12. Disciplinary Literacy: Distinguishing Fact from Opinion",
+        "note": "Train students to distinguish reported empirical facts (3 million streams, signed contract, lawsuits filed) from attributed opinions and emotional states ('admitted no talent', 'musicians are worried', Antonuccio's 'tsunami' quote)."
+      },
+      {
+        "topic": "13. ESL Scaffolding for G1 and G2 Learners",
+        "note": "For G1 learners, provide a two-part frame: 'AI Opportunity (anyone can make music, Oliver McCann 3M streams)' vs. 'Industry Concern (musicians worried, label lawsuits)'. For G2 learners, focus on syntactic sophistication, such as embedding participial clauses and balanced concession frames."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "1. Hook & Opening (5 mins)",
+        "durationMinutes": 5,
+        "objective": "Engage students with the paradox of making viral hit songs without musical talent and introduce Source E.",
+        "scriptEn": "Good morning, class! Imagine signing a contract with a real record label and getting over 3 million streams on your song—while admitting you have zero musical talent! That is not science fiction; it is the real-world story of Oliver McCann. Today we explore Source E from the BBC, examining how AI tools like Suno and Udio are opening creative doors for young artists while sparking major lawsuits across the music industry.",
+        "scriptKo": "좋은 아침입니다, 여러분! 자신이 음악적 재능이 전혀 없다고 인정하면서도 실제 음반사와 계약을 맺고 노래로 3백만 회 이상의 스트리밍을 기록했다고 상상해 보세요! 이는 공상과학 소설이 아니라 올리버 맥캔의 실제 이야기입니다. 오늘 우리는 BBC의 Source E를 통해 Suno와 Udio 같은 AI 도구들이 어떻게 젊은 창작자들에게 창의성의 문을 열어주는 동시에 음악 산업 전반에 걸친 대규모 소송을 촉발하고 있는지 살펴볼 것입니다.",
+        "studentActions": "Open the lesson app, read the lesson title and goal, and prepare their notebooks for analytical discussion.",
+        "misconceptionFeedback": "Remind students that AI tools assist creation but do not eliminate the legal and economic disputes over intellectual property.",
+        "transition": "Now let us turn to our Warm-up questions to connect this topic to our own experiences with creativity and technology."
+      },
+      {
+        "phase": "2. Warm-up Discussion (10 mins)",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding digital creativity, traditional training versus software, and industry opportunities and risks.",
+        "scriptEn": "In pairs, examine our three Warm-up questions. Question 1 asks how digital tools help people express creativity without formal training. Question 2 contrasts practicing an instrument for years with generating music using software. Question 3 asks what opportunities and concerns emerge when anyone can make music. Use the sentence starters to share your perspectives.",
+        "scriptKo": "짝과 함께 3개의 워밍업 질문을 검토해 보세요. 1번 질문은 디지털 도구가 어떻게 정식 훈련 없이도 창의성을 표현하도록 돕는지 묻습니다. 2번 질문은 수년간 악기를 연습하는 것과 소프트웨어로 음악을 생성하는 것을 대조합니다. 3번 질문은 누구나 음악을 만들 수 있을 때 어떤 기회와 우려가 생기는지 묻습니다. 주어진 문장 시작 표현을 활용하여 여러분의 생각을 공유해 보세요.",
+        "studentActions": "Discuss each question with a peer, write short responses using the sentence starters, and share examples with the whole class.",
+        "misconceptionFeedback": "Clarify that using software still involves human creative intent and aesthetic choices, even if mechanical skill is absent.",
+        "transition": "Let us now examine the exact text of Source E to see how BBC journalists describe this unfolding revolution."
+      },
+      {
+        "phase": "3. Article Reading & Integrity Check (12 mins)",
+        "durationMinutes": 12,
+        "objective": "Perform close reading of Source E, verifying paragraph structure and factual boundaries without outside assumptions.",
+        "scriptEn": "Follow along as I read Source E aloud. Notice how Paragraph 1 introduces Oliver McCann, known as imoliver, and his honest admission. Paragraph 2 details his 3 million streams, his record label signing, and tools like Suno and Udio. Paragraph 3 shifts to the challenges: traditional musicians' worries, record labels' lawsuits, and expert Josh Antonuccio's quote calling it a 'total boom' and a 'tsunami.'",
+        "scriptKo": "제가 Source E를 소리 내어 읽는 동안 눈으로 따라와 주세요. 1단락이 imoliver라는 이름으로 활동하는 올리버 맥캔과 그의 솔직한 고백을 어떻게 소개하는지 주목하세요. 2단락은 3백만 회의 스트리밍, 음반사 계약, 그리고 Suno와 Udio 같은 도구들을 상술합니다. 3단락은 전통 음악가들의 걱정, 음반사들의 소송, 그리고 이를 '완전한 붐'이자 '쓰나미'라고 부른 전문가 조시 안토누치오의 인용구 등 도전 과제로 전환됩니다.",
+        "studentActions": "Track the reading with highlighters, annotate key facts, and mark the contrast between Paragraph 2 (opportunity) and Paragraph 3 (concern).",
+        "misconceptionFeedback": "Ensure students do not add outside rumors or famous pop stars not mentioned in the text.",
+        "transition": "Next, let us master the 10 essential vocabulary terms that empower our analytical writing."
+      },
+      {
+        "phase": "4. Vocabulary in Context (10 mins)",
+        "durationMinutes": 10,
+        "objective": "Master the 10 target academic and industry vocabulary terms through definitions, Korean equivalents, and examples.",
+        "scriptEn": "Look at our 10 terms: artificial intelligence, creator, streams, record label, explore, express creativity, AI-generated, traditional musician, lawsuit, and rights and profits. Notice how these terms pair into conceptual contrasts: 'AI-generated' versus 'traditional musician,' and 'express creativity' versus defending 'rights and profits.' Let us practice pronouncing and applying each one.",
+        "scriptKo": "우리의 10개 어휘를 살펴보세요: artificial intelligence, creator, streams, record label, explore, express creativity, AI-generated, traditional musician, lawsuit, 그리고 rights and profits입니다. 이 용어들이 어떻게 개념적 대조를 이루는지 주목하세요: 'AI-generated' 대 'traditional musician', 그리고 'express creativity' 대 'rights and profits'의 방어입니다. 각 단어의 발음과 쓰임새를 함께 연습해 봅시다.",
+        "studentActions": "Review the definitions and Korean meanings, read the example sentences aloud, and check their comprehension.",
+        "misconceptionFeedback": "Remind students that a 'record label' is a commercial entertainment business, not merely a physical sticker on a record.",
+        "transition": "Now let us test our literal comprehension and main idea mastery with our check questions."
+      },
+      {
+        "phase": "5. Main Idea & Comprehension Check (18 mins)",
+        "durationMinutes": 18,
+        "objective": "Answer the Main Idea question and 6 Reading Comprehension MCQs, analyzing detailed textual justifications.",
+        "scriptEn": "Work through the Main Idea question and the 6 Reading Comprehension items independently. For every question, eliminate options that distort facts or make ungrounded claims. When you select an option, read the detailed O and X explanation to understand why the correct answer is fully supported by the text.",
+        "scriptKo": "메인 아이디어 문제와 6개의 독해 문항을 스스로 풀어보세요. 모든 문제에서 사실을 왜곡하거나 근거 없는 주장을 담은 선지를 소거하세요. 정답을 선택한 후에는 상세한 O/X 해설을 읽으며 왜 그 답이 텍스트에 의해 완벽히 뒷받침되는지 확인하세요.",
+        "studentActions": "Select answers for Main Idea and RC 1–6, review instant feedback explanations, and note textual references.",
+        "misconceptionFeedback": "If students choose an option claiming all record labels have banned AI, redirect them to McCann's signing in Paragraph 2.",
+        "transition": "Now let us move from multiple-choice recognition to written evidence extraction."
+      },
+      {
+        "phase": "6. Written Evidence from Text (12 mins)",
+        "durationMinutes": 12,
+        "objective": "Write precise evidence-based answers to three factual prompts and evaluate drafts against model exemplars.",
+        "scriptEn": "In the Evidence section, answer all three prompts. Prompt 1 focuses on Oliver McCann's breakthrough despite having no talent. Prompt 2 examines Suno, Udio, and young creators. Prompt 3 addresses musicians' worries, lawsuits, and Antonuccio's quote. Once you write your answer, click 'Compare with Model' to evaluate your evidence density.",
+        "scriptKo": "Evidence 섹션에서 세 가지 질문에 모두 서술해 보세요. 1번은 재능이 없음에도 이뤄낸 올리버 맥캔의 돌파구를 다룹니다. 2번은 Suno, Udio와 젊은 창작자들을 살펴봅니다. 3번은 음악가들의 걱정, 소송, 그리고 안토누치오의 인용구를 다룹니다. 작성을 마친 후 '모델과 비교(Compare with Model)'를 클릭하여 근거의 충실도를 평가해 보세요.",
+        "studentActions": "Draft responses in each text area, check live word counts, click compare with model, and refine sentences.",
+        "misconceptionFeedback": "Remind students to include proper attribution such as 'According to Paragraph 1' in their evidence statements.",
+        "transition": "Let us now examine our Language Focus structures before we begin our final writing practice."
+      },
+      {
+        "phase": "7. Language Focus & Writing Practice (18 mins)",
+        "durationMinutes": 18,
+        "objective": "Apply participle clauses, cause/effect, contrast markers, and attribution in the 4 practice prompts and draft the final 100–140 word paragraph.",
+        "scriptEn": "Review our Language Focus patterns: participles like 'making him', causal markers like 'thanks to' and 'as', and contrast markers like 'even though' and 'while'. Complete Writing Practice prompts 1 through 4. Then tackle our Final Writing Task: explain how AI creators are changing the music world in 100 to 140 words. You must include 3 textual details, an opportunity, a concern, and expert attribution.",
+        "scriptKo": "'making him'과 같은 분사구문, 'thanks to' 및 'as' 같은 인과 연결어, 'even though'와 'while' 같은 대조 연결어 등 언어 집중 패턴을 복습하세요. 쓰기 연습 1번부터 4번까지를 완료한 후, 최종 과제에 도전합니다: AI 음악 창작자들이 음악계를 어떻게 바꾸고 있는지 100~140단어로 서술하세요. 본문의 구체적 근거 3개, 기회와 우려, 그리고 전문가 인용이 반드시 포함되어야 합니다.",
+        "studentActions": "Complete the 4 writing practice exercises, draft the final paragraph, run the rule-based check, and verify the 100–140 word parameter.",
+        "misconceptionFeedback": "Ensure students do not write below 100 or above 140 words, and check that both opportunities and concerns are balanced.",
+        "transition": "Finally, verify your draft against the six Self-Check criteria before submitting your work."
+      },
+      {
+        "phase": "8. Self-Check & Submission (5 mins)",
+        "durationMinutes": 5,
+        "objective": "Complete the 6 Self-Check validation items, review draft metrics, and submit final work.",
+        "scriptEn": "Check off each of the 6 Self-Check items. Did you base your writing strictly on Source E? Did you explain both opportunities and concerns? Did you cite McCann, Suno/Udio, and the lawsuits? Is your word count between 100 and 140 words? When all six boxes are checked, click Submit. Excellent academic work today, Grade 9 scholars!",
+        "scriptKo": "6개의 자체 점검 기준을 하나씩 확인하며 체크하세요. 철저히 Source E에만 근거했나요? 기회와 우려를 모두 설명했나요? 맥캔, Suno/Udio, 그리고 소송을 인용했나요? 단어 수가 100~140단어 사이인가요? 6개 항목을 모두 점검했다면 제출 버튼을 누르세요. 오늘 여러분 모두 훌륭한 학술적 글쓰기를 완성했습니다, 9학년 여러분!",
+        "studentActions": "Check all 6 Self-Check items, submit work, verify local storage status, and conclude the lesson.",
+        "misconceptionFeedback": "Ensure no student leaves before confirming their draft meets the strict 100–140 word parameter.",
+        "transition": "Dismiss class and prepare teacher review based on the analytical writing rubric."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "option": "Option 1: The Untrained Hitmaker Paradox Hook",
+        "english": "Good morning, scholars. / Imagine an artist who openly confesses, / 'I have no musical talent at all.' / Yet his song earns over 3 million streams / and lands him a deal with a real record label. / How is this possible? / Thanks to artificial intelligence. / Today we read Source E from the BBC, / discovering how tools like Suno and Udio / are transforming everyday creators into viral artists, / while igniting intense debate / and major lawsuits across the music world.",
+        "directKorean": "좋은 아침입니다, 학생 여러분. / 공개적으로 이렇게 고백하는 아티스트를 상상해 보세요, / '나는 음악적 재능이 전혀 없다.' / 하지만 그의 노래는 3백만 회 이상의 스트리밍을 기록하고 / 그를 실제 음반사와의 계약으로 이끕니다. / 이것이 어떻게 가능할까요? / 인공지능 덕분입니다. / 오늘 우리는 BBC의 Source E를 읽으며, / Suno와 Udio 같은 도구들이 / 어떻게 평범한 창작자들을 바이럴 아티스트로 탈바꿈시키고 있는지, / 동시에 어떻게 음악계 전반에 걸쳐 치열한 논쟁과 / 대형 소송을 촉발하고 있는지 살펴볼 것입니다.",
+        "naturalKorean": "좋은 아침입니다, 여러분. '나는 음악적 재능이 전혀 없다'고 솔직히 털어놓는 아티스트를 상상해 보세요. 그런데도 그의 노래는 3백만 회 넘게 스트리밍되고 실제 음반사와 정식 계약까지 맺었습니다. 어떻게 이런 일이 가능할까요? 바로 인공지능 덕분입니다. 오늘 우리는 BBC의 Source E를 통해 Suno와 Udio 같은 AI 도구들이 평범한 사람들을 바이럴 아티스트로 만드는 혁신을 확인하고, 그와 동시에 음악 산업 전체를 뒤흔드는 치열한 논쟁과 법적 소송들을 탐구할 것입니다.",
+        "purpose": "Hooks student interest through the paradoxical success of an artist who admits having no musical talent."
+      },
+      {
+        "option": "Option 2: Critical Disciplinary & Balanced Inquiry Hook",
+        "english": "Welcome, class. / In Grade 9 academic English, / we evaluate technological shifts / with balanced, evidence-based inquiry. / When generative AI enters an art form, / some celebrate it as ultimate creative freedom, / while others view it as a direct threat to human livelihood. / In Source E, / we will see both sides clearly: / young creators expressing new ideas / alongside traditional musicians worrying about their future / and record labels filing lawsuits to protect profits. / Our task today / is to write a rigorous analytical paragraph / capturing this exact balance.",
+        "directKorean": "환영합니다, 학생 여러분. / 9학년 학술 영어 수업에서, / 우리는 기술적 변화를 평가합니다 / 균형 잡힌 근거 중심의 탐구를 통해. / 생성형 AI가 예술의 영역에 진입할 때, / 어떤 이들은 그것을 궁극적인 창의적 자유로 칭송하는 반면, / 다른 이들은 인간의 생계에 대한 직접적인 위협으로 간주합니다. / Source E에서, / 우리는 양쪽 측면을 모두 명확히 보게 될 것입니다: / 새로운 아이디어를 표현하는 젊은 창작자들과 / 자신들의 미래를 걱정하는 전통 음악가들, / 그리고 수익을 지키기 위해 소송을 제기하는 음반사들을. / 오늘 우리의 과제는 / 엄격하고 분석적인 단락을 작성하는 것입니다 / 이 정확한 균형을 포착해 내는.",
+        "naturalKorean": "환영합니다, 여러분. 9학년 학술 영어 수업에서 우리는 기술적 변화를 균형 잡힌 근거 중심의 시각으로 분석합니다. 생성형 AI가 예술 분야에 들어올 때 누군가는 이를 무한한 창의적 해방이라 찬양하지만, 누군가는 인간 창작자의 생계를 위협하는 심각한 위험으로 바라봅니다. 오늘 읽을 Source E는 이 양면을 고스란히 보여줍니다. 창의성을 분출하는 젊은 창작자들의 활력 뒤편에는 생계를 걱정하는 전통 음악가들과 저작권 수익을 지키려 소송을 제기하는 대형 음반사들이 있습니다. 오늘 우리는 이 복합적인 현실을 정밀하게 담아내는 글을 쓸 것입니다.",
+        "purpose": "Focuses on disciplinary literacy, objective evidence evaluation, and avoiding simplistic moralizing."
+      },
+      {
+        "option": "Option 3: Metaphor & Language of Change Hook",
+        "english": "Hello, everyone. / Look at the quote from music expert Josh Antonuccio: / 'It’s a total boom. It’s a tsunami.' / Why does he choose those two words? / A boom brings sudden growth and explosive energy. / A tsunami brings an unstoppable wave / that reshapes the entire coastline. / That is exactly what artificial intelligence is doing to music. / Today we will master the language of cause, effect, and contrast / so you can explain how this creative wave / brings both excitement and serious concern.",
+        "directKorean": "안녕하세요, 여러분. / 음악 전문가 조시 안토누치오의 인용구를 보세요: / '그것은 완전한 붐이다. 그것은 쓰나미다.' / 그는 왜 이 두 단어를 선택했을까요? / 붐은 갑작스러운 성장과 폭발적인 에너지를 가져옵니다. / 쓰나미는 멈출 수 없는 파도를 가져옵니다 / 해안선 전체를 완전히 바꿔놓는. / 그것이 바로 인공지능이 음악계에 하고 있는 일입니다. / 오늘 우리는 원인, 결과, 대조의 언어를 마스터할 것입니다 / 여러분이 이 창의적 파도가 / 어떻게 흥분과 심각한 우려를 동시에 가져오는지 설명할 수 있도록.",
+        "naturalKorean": "안녕하세요, 여러분. 음악 전문가 조시 안토누치오의 인용구를 보세요. '완전한 붐이자, 쓰나미다.' 그는 왜 이 두 단어를 골랐을까요? '붐'은 폭발적인 성장과 기회를 뜻하고, '쓰나미'는 기존 지형을 송두리째 뒤흔드는 거대한 파도를 뜻합니다. 지금 인공지능이 음악 산업에 미치고 있는 영향이 정확히 이와 같습니다. 오늘 우리는 원인과 결과, 대조를 나타내는 정교한 학술적 언어를 익혀, 이 거대한 변화가 가져온 흥분과 현실적 우려를 균형 있게 서술해 볼 것입니다.",
+        "purpose": "Uses expert figurative language to frame the discussion of technological disruption."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "focus": "Democratization of Creativity via Technology",
+        "teacherTalk": "Guide students to think about how digital tools lower mechanical skill barriers. Ask: If you have a melody or rhythm in your head but cannot play guitar or piano, how can software turn your imagination into reality? Highlight that technology shifts the creative focus from mechanical muscle memory to prompt crafting, curation, and conceptual design.",
+        "sampleStudentAnswer": "Digital tools allow people to express creativity without formal training because software can generate complex chords, beats, and melodies based on simple text prompts or ideas.",
+        "followUpQuestion": "Does removing the need for instrumental training make the resulting music less artistic, or does it simply open creativity to more people?"
+      },
+      "q2": {
+        "focus": "Traditional Instrumental Mastery vs. AI Generation",
+        "teacherTalk": "Contrast the dedication of traditional musicians with the speed of AI. Traditional musicians spend thousands of hours practicing scales, finger techniques, and breath control. In contrast, an AI creator acts more like a film director or editor—instructing software, choosing outputs, and mixing components.",
+        "sampleStudentAnswer": "Traditional musicians master physical technique and instrument control through years of practice, whereas AI creators use software to synthesize music quickly based on concepts and descriptions.",
+        "followUpQuestion": "Can a prompt-based AI creator feel the same emotional connection to a track as a musician who physically performed every note?"
+      },
+      "q3": {
+        "focus": "Industry Opportunities vs. Systemic Concerns",
+        "teacherTalk": "Help students balance commercial opportunities against economic threats. Exciting opportunities include diverse new voices, low-cost production, and viral discovery. Concerns include job displacement for session musicians, copyright infringement on training data, and market saturation.",
+        "sampleStudentAnswer": "Widespread access allows anyone to create the next viral hit without expensive studio equipment, but it also creates concerns about copyright lawsuits, lost royalties, and the devaluation of human musicianship.",
+        "followUpQuestion": "If anyone can generate a polished song in thirty seconds, how will listeners determine which artists truly deserve their attention and money?"
+      }
+    },
+    "sourceReadingGuide": {
+      "sourceLayout": "Source E consists of a headline ('AI Music Creators Are Changing the Game') followed by three distinct paragraphs and a source note ('Source: BBC'). Paragraph 1 introduces Oliver McCann (imoliver) and his confession of having no talent. Paragraph 2 reports his 3 million streams, label signing, and tools Suno and Udio. Paragraph 3 details traditional musicians' worries, record labels' lawsuits, and expert Josh Antonuccio's quote ('total boom / tsunami'), concluding with a balanced outlook.",
+      "citationGuidance": "Source: BBC. Note that BBC reporting adheres to public-service journalistic standards, emphasizing balanced presentation of emerging cultural phenomena without taking a partisan legal stance.",
+      "paragraphBoundaries": "Preserve the 3-paragraph structure strictly. Ensure the title and the final 'Source: BBC' note are rendered distinctly from the three body paragraphs.",
+      "historicalSequence": "Introduction of AI audio tools (Suno, Udio) -> Oliver McCann produces music as 'imoliver' -> Achieves 3 million streams -> Signs historic record label deal -> Traditional musicians voice concern -> Major labels file copyright lawsuits -> Expert Josh Antonuccio characterizes the boom/tsunami -> Music industry future evolves with both excitement and concern.",
+      "resourceCauseEffectChain": "Generative AI Software -> Accessible Prompt-Based Creation -> Oliver McCann 3M Streams & Label Signing -> Widespread Young Creator Exploration -> Traditional Musician Anxiety & Label Lawsuits -> Balanced Reality: Creative Boom vs. Legal Friction.",
+      "finalMetaphor": "Josh Antonuccio describes AI music as 'a total boom' and 'a tsunami.' The author concludes that 'With both excitement and concern, the future of music is changing, and it seems anyone could create the next big hit!'"
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "artificial intelligence",
+        "creator",
+        "streams",
+        "record label",
+        "explore",
+        "express creativity",
+        "AI-generated",
+        "traditional musician",
+        "lawsuit",
+        "rights and profits"
+      ],
+      "paradoxStructures": [
+        "Even though Oliver McCann admitted having no musical talent, he earned over 3 million streams and signed with a real record label.",
+        "While AI tools empower young creators to express their creativity, traditional musicians worry that AI-generated songs could harm their industry.",
+        "Major record labels are signing AI creators while simultaneously filing lawsuits to protect their rights and profits."
+      ],
+      "causeEffectLanguage": [
+        "thanks to artificial intelligence, a new sound is rising up",
+        "his latest song got over 3 million streams, making him the first AI artist to sign with a real record label",
+        "as McCann uses AI tools like Suno and Udio, more young creators are exploring new technologies",
+        "consequently, the music industry is evolving with both excitement and concern"
+      ],
+      "passiveVoiceFormulas": [
+        "is rising up thanks to artificial intelligence",
+        "is being explored by young creators",
+        "are worried that AI-generated songs could hurt their industry",
+        "lawsuits are being filed to protect rights and profits",
+        "the future of music is changing"
+      ],
+      "chronologicalSequencing": [
+        "Initially, creator Oliver McCann began making music with the help of AI...",
+        "Shortly after his latest song achieved over 3 million streams...",
+        "Following this breakthrough, more young creators began exploring tools like Suno and Udio...",
+        "Meanwhile, major record labels responded by filing lawsuits to defend their catalogs..."
+      ],
+      "contrastMarkers": [
+        "Even though he admits he has no musical talent at all...",
+        "But this shift isn’t without its challenges...",
+        "While AI offers unprecedented creative opportunities, it sparks serious industry anxiety...",
+        "On the one hand... On the other hand...",
+        "With both excitement and concern..."
+      ],
+      "attributionPhrases": [
+        "According to the article,",
+        "As reported by the BBC,",
+        "The author highlights that,",
+        "“It’s a total boom. It’s a tsunami,” says expert Josh Antonuccio about AI music’s growth."
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence: State how AI music creators are changing the music world by lowering creative barriers while triggering industry conflict.",
+        "2. Opportunity Details: Explain Oliver McCann's breakthrough (3 million streams, record label deal, no talent) and tools like Suno and Udio.",
+        "3. Industry Concerns: Detail traditional musicians' worries about industry harm and major record labels filing lawsuits to protect rights and profits.",
+        "4. Expert Attribution: Cite Josh Antonuccio's assessment ('a total boom. It’s a tsunami').",
+        "5. Concluding Synthesis: Conclude with the balanced outlook of excitement and concern as anyone could create the next big hit."
+      ],
+      "sentenceStarters": [
+        "According to the article, artificial intelligence is transforming the music landscape by...",
+        "Even though creator Oliver McCann admitted having no musical talent, his song...",
+        "As tools like Suno and Udio become widespread, more young creators...",
+        "However, this technological shift is accompanied by serious challenges, including...",
+        "Describing the rapid expansion as a total boom and tsunami, expert Josh Antonuccio...",
+        "Ultimately, the future of music is evolving with both excitement and concern because..."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "error": "AI makes song so traditional musician is all fired and die.",
+          "correction": "Although traditional musicians are worried that AI-generated songs could hurt their industry, the technology currently exists alongside human artists while prompting legal debates.",
+          "explanation": "Korean ESL learners often jump to extreme, catastrophic claims. The text only states that musicians are 'worried that AI-generated songs could hurt their industry'—not that all musicians have lost their jobs."
+        },
+        {
+          "error": "Oliver McCann have big music talent so he make 3 million streams.",
+          "correction": "Oliver McCann actually admitted having no musical talent at all, yet he achieved over 3 million streams by using AI tools.",
+          "explanation": "Emphasize McCann's direct quote: 'I have no musical talent at all.' The entire significance of his achievement is that AI enabled his success despite lacking traditional musical talent."
+        },
+        {
+          "error": "Record label sue imoliver because he sign contract.",
+          "correction": "Major record labels signed Oliver McCann while filing lawsuits against AI software developers to protect their rights and profits.",
+          "explanation": "Distinguish between the artist and the legal action: McCann was signed by a record label; the lawsuits mentioned are filed by labels to protect their intellectual property rights and profits."
+        },
+        {
+          "error": "Josh Antonuccio say tsunami so everyone die in flood.",
+          "correction": "Expert Josh Antonuccio used 'tsunami' as a metaphor to describe the overwhelming speed and explosive growth of AI music.",
+          "explanation": "Clarify figurative language: 'tsunami' and 'boom' are vivid metaphors describing the sudden market expansion and disruptive cultural impact of AI music, not natural disasters."
+        }
+      ],
+      "g1Scaffold": "Provide a simple sentence-by-sentence frame: 'According to the article, AI music creators are changing the music world. First, Oliver McCann got 3 million streams using AI even though he had no talent. Next, tools like Suno and Udio help young creators express creativity. However, musicians worry AI songs will hurt their industry, and labels filed lawsuits. Finally, expert Josh Antonuccio calls it a boom and tsunami, showing both excitement and concern.'",
+      "g2Extension": "Challenge advanced students to analyze the commercial paradox of record labels: examining how entertainment conglomerates simultaneously embrace AI artists (signing McCann to capture streaming revenue) while filing copyright lawsuits against tech companies to protect their existing intellectual property catalogs.",
+      "teacherCorrectionPriorities": [
+        "Strictly enforce the 100–140 word parameter (penalize drafts under 100 or over 140 words).",
+        "Verify explicit source attribution ('According to the article' or 'As reported by the BBC').",
+        "Ensure at least three distinct factual details are cited (e.g., Oliver McCann/imoliver, 3 million streams/label deal, Suno/Udio, lawsuits).",
+        "Check that both creative opportunities and industry concerns/lawsuits are clearly balanced.",
+        "Confirm expert Josh Antonuccio's quote ('a total boom. It’s a tsunami') is accurately attributed."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source E consists of exactly three paragraphs and 10 sentences. Below is the complete sentence-by-sentence analytical guide featuring slash-chunked reading, direct and natural Korean translations, must-know vocabulary and grammar breakdowns, Feynman-style pedagogical explanations, and classroom teaching transcripts.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "In the world of music, a new sound is rising up thanks to artificial intelligence!",
+          "chunkReading": "In the world of music, / a new sound is rising up / thanks to artificial intelligence!",
+          "directKorean": "음악의 세계에서, / 새로운 소리가 떠오르고 있습니다 / 인공지능 덕분에!",
+          "naturalKorean": "음악계에서는 인공지능 덕분에 완전히 새로운 소리가 떠오르고 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "a new sound is rising up",
+              "meaning": "새로운 소리가 떠오르고 있다(부상하고 있다)",
+              "use": "present progressive verb phrase indicating an emerging musical style or cultural trend",
+              "example": "Across urban clubs, a new sound is rising up among young producers."
+            },
+            {
+              "chunk": "thanks to artificial intelligence",
+              "meaning": "인공지능 덕분에",
+              "use": "prepositional phrase expressing causation and attribution to modern technology",
+              "example": "Thanks to artificial intelligence, creating digital artwork is faster than ever."
+            }
+          ],
+          "mustKnowGrammar": "Introductory prepositional phrase of location ('In the world of music'); present continuous active verb phrase ('is rising up') indicating ongoing development; causal prepositional phrase ('thanks to...').",
+          "feynmanExplanation": "Think of a brand new type of instrument being invented that no one has ever heard before, / and the computer is the one playing it. / That is how AI is creating a fresh sound in music.",
+          "feynmanExplanationKo": "이전에 아무도 들어본 적 없는 완전히 새로운 악기가 발명되었는데, / 바로 컴퓨터가 그 악기를 연주하고 있다고 상상해 보세요. / 인공지능이 음악계에서 새로운 소리를 만들어내고 있는 방식이 바로 이렇습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the enthusiastic tone set by the exclamation mark: 'a new sound is rising up thanks to artificial intelligence!'",
+              "korean": "느낌표가 주는 활기찬 어조에 주목하세요: '인공지능 덕분에 새로운 소리가 떠오르고 있습니다!'"
+            },
+            {
+              "english": "What is causing this new sound? Artificial intelligence.",
+              "korean": "무엇이 이 새로운 소리를 일으키고 있나요? 바로 인공지능입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "Oliver McCann, a British creator using the name imoliver, makes music with the help of AI, even though he admits, “I have no musical talent at all.”",
+          "chunkReading": "Oliver McCann, / a British creator using the name imoliver, / makes music / with the help of AI, / even though he admits, / “I have no musical talent at all.”",
+          "directKorean": "올리버 맥캔은, / imoliver라는 이름을 사용하는 영국 창작자인, / 음악을 만듭니다 / AI의 도움으로, / 비록 그가 인정함에도 불구하고, / “나는 음악적 재능이 전혀 없다”고.",
+          "naturalKorean": "imoliver라는 이름으로 활동하는 영국의 창작자 올리버 맥캔은 “내게는 음악적 재능이 전혀 없다”고 고백하면서도 AI의 도움을 받아 음악을 제작합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "using the name imoliver",
+              "meaning": "imoliver라는 이름을 사용하는",
+              "use": "participial phrase identifying an online artistic alias or moniker",
+              "example": "The streamer, using the name imoliver, gathered thousands of online fans."
+            },
+            {
+              "chunk": "even though he admits",
+              "meaning": "비록 그가 인정(고백)함에도 불구하고",
+              "use": "concessive conjunction introducing an honest, candid confession",
+              "example": "He completed the marathon, even though he admits he did not train enough."
+            },
+            {
+              "chunk": "no musical talent at all",
+              "meaning": "음악적 재능이 전혀 없는",
+              "use": "emphatic negative noun phrase emphasizing a complete lack of prerequisite skill",
+              "example": "She loves singing along to songs despite having no musical talent at all."
+            }
+          ],
+          "mustKnowGrammar": "Subject noun phrase followed by an appositive with present participle ('a British creator using the name imoliver'); simple present verb ('makes'); concessive clause introduced by 'even though' containing a direct quotation.",
+          "feynmanExplanation": "A young British guy named Oliver makes popular songs with his computer, / but he is totally honest with everyone: / he says he cannot sing or play any instrument naturally!",
+          "feynmanExplanationKo": "올리버라는 영국의 젊은 친구가 컴퓨터로 인기 있는 노래를 만드는데, / 그는 모두에게 아주 솔직하게 말합니다: / 자신은 원래 노래도 못하고 어떤 악기도 다룰 줄 모른다고요!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the contrast: he makes music, 'even though he admits, “I have no musical talent at all.”'",
+              "korean": "대조를 보세요: 그는 음악을 만듭니다, '비록 “나는 음악적 재능이 전혀 없다”고 인정함에도 불구하고요.'"
+            },
+            {
+              "english": "Why is this detail important? It proves that AI lowers the skill barrier for creators.",
+              "korean": "왜 이 세부 사항이 중요할까요? AI가 창작자들의 기술적 진입 장벽을 낮춰준다는 점을 증명하기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "His latest song got over 3 million streams, making him the first AI artist to sign with a real record label.",
+          "chunkReading": "His latest song / got over 3 million streams, / making him the first AI artist / to sign with a real record label.",
+          "directKorean": "그의 최신 곡은 / 3백만 회 이상의 스트리밍을 얻었습니다, / 그를 최초의 AI 아티스트로 만들면서 / 실제 음반사와 계약한.",
+          "naturalKorean": "그의 최신 곡은 3백만 회가 넘는 스트리밍을 기록했고, 이로써 그는 실제 음반사와 정식 계약을 체결한 최초의 AI 아티스트가 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "over 3 million streams",
+              "meaning": "3백만 회 이상의 스트리밍",
+              "use": "quantitative noun phrase indicating substantial commercial listening volume",
+              "example": "The indie track achieved over 3 million streams in its opening month."
+            },
+            {
+              "chunk": "making him the first AI artist to sign",
+              "meaning": "그를 계약한 최초의 AI 아티스트로 만들며",
+              "use": "participial clause of result followed by an infinitive modifying the ordinal noun phrase",
+              "example": "Her breakthrough album sold out, making her the first student to win the regional prize."
+            },
+            {
+              "chunk": "a real record label",
+              "meaning": "실제 음반사(레코드사)",
+              "use": "noun phrase emphasizing an established, legitimate commercial music company",
+              "example": "Signing with a real record label provided the creator with professional marketing support."
+            }
+          ],
+          "mustKnowGrammar": "Main clause with past simple verb ('got'); comma + present participle ('making him...') indicating result; infinitive clause ('to sign with a real record label') modifying 'the first AI artist'.",
+          "feynmanExplanation": "Millions of people listened to his track online, / and an actual music company was so impressed / that they offered him a professional contract—the very first one ever given to an AI creator!",
+          "feynmanExplanationKo": "수백만 명의 사람들이 온라인에서 그의 노래를 들었고, / 실제 음반사가 이에 깊은 인상을 받아 / 그에게 정식 계약을 제안했습니다. AI 창작자에게 주어진 역사상 최초의 계약이었습니다!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the result clause: 'making him the first AI artist to sign with a real record label.'",
+              "korean": "결과를 나타내는 분사구문에 주목하세요: '그를 실제 음반사와 계약한 최초의 AI 아티스트로 만들면서.'"
+            },
+            {
+              "english": "How many streams did he get? Over 3 million streams.",
+              "korean": "그는 몇 회의 스트리밍을 기록했나요? 3백만 회 이상입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "As McCann uses AI tools like Suno and Udio, more young creators are exploring these new technologies to express their creativity.",
+          "chunkReading": "As McCann uses AI tools / like Suno and Udio, / more young creators / are exploring these new technologies / to express their creativity.",
+          "directKorean": "맥캔이 AI 도구들을 사용함에 따라 / Suno와 Udio 같은, / 더 많은 젊은 창작자들은 / 이러한 새로운 기술들을 탐색하고 있습니다 / 자신들의 창의성을 표현하기 위해.",
+          "naturalKorean": "맥캔이 Suno나 Udio 같은 AI 도구들을 활용함에 따라, 점점 더 많은 젊은 창작자들이 자신의 창의성을 표현하기 위해 이러한 신기술을 적극적으로 탐색하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "AI tools like Suno and Udio",
+              "meaning": "Suno와 Udio 같은 AI 도구들",
+              "use": "noun phrase with prepositional exemplification naming specific generative audio platforms",
+              "example": "Generative AI tools like Suno and Udio allow users to make songs from text prompts."
+            },
+            {
+              "chunk": "exploring these new technologies",
+              "meaning": "이러한 신기술들을 탐색(시도)하는 것",
+              "use": "verb phrase denoting active experimentation with novel digital tools",
+              "example": "High school students are exploring these new technologies in their media classes."
+            },
+            {
+              "chunk": "to express their creativity",
+              "meaning": "자신들의 창의성을 표현하기 위해",
+              "use": "infinitive of purpose explaining the artistic motivation for using software",
+              "example": "Artists use digital tablets to express their creativity without buying expensive paints."
+            }
+          ],
+          "mustKnowGrammar": "Subordinating clause of concurrent progression introduced by 'As'; present continuous main clause ('are exploring'); infinitive of purpose ('to express their creativity').",
+          "feynmanExplanation": "Because Oliver showed that it works, / lots of other teenagers and young creators are trying out programs like Suno and Udio / to turn their own fun ideas into real songs.",
+          "feynmanExplanationKo": "올리버가 성공할 수 있음을 직접 보여주었기 때문에, / 수많은 십 대들과 젊은 창작자들이 Suno와 Udio 같은 프로그램을 써보며 / 자신들의 재미있는 아이디어를 실제 노래로 만들어보고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the two named tools: Suno and Udio. What are they? Generative AI music applications.",
+              "korean": "언급된 두 가지 도구를 보세요: Suno와 Udio입니다. 이것들은 무엇인가요? 생성형 AI 음악 프로그램들입니다."
+            },
+            {
+              "english": "Why are young creators using them? 'To express their creativity.'",
+              "korean": "젊은 창작자들은 왜 이것들을 사용하나요? '자신들의 창의성을 표현하기 위해서'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "But this shift isn’t without its challenges.",
+          "chunkReading": "But this shift / isn’t without / its challenges.",
+          "directKorean": "그러나 이러한 변화는 / 없는 것이 아닙니다 / 그 어려움(도전 과제)들이.",
+          "naturalKorean": "그러나 이러한 변화에 어려움이나 도전 과제가 전혀 없는 것은 아닙니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "this shift",
+              "meaning": "이러한 변화(전환)",
+              "use": "noun phrase referring to the transition toward AI-generated music creation",
+              "example": "This shift toward digital streaming altered how musicians earn revenue."
+            },
+            {
+              "chunk": "isn’t without its challenges",
+              "meaning": "어려움(도전 과제)이 없는 것은 아니다",
+              "use": "litotes (double negative) creating a balanced transition from positive opportunities to emerging problems",
+              "example": "Transitioning to solar power is beneficial, but it isn’t without its challenges."
+            }
+          ],
+          "mustKnowGrammar": "Coordinating adversative conjunction 'But' introducing a transitional pivot; litotes construction using negative verb + preposition 'without' ('isn't without its challenges').",
+          "feynmanExplanation": "Even though this sounds super cool and exciting, / it is also causing some serious problems / that people in the music business have to deal with.",
+          "feynmanExplanationKo": "이 모든 것이 대단히 멋지고 흥미롭게 들리지만, / 동시에 음악계 사람들이 반드시 해결해야 할 / 몇 가지 심각한 문제들을 일으키고 있기도 합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at sentence 5: 'But this shift isn’t without its challenges.' It acts as the turning point of the whole article.",
+              "korean": "5번 문장을 보세요: '그러나 이러한 변화에 어려움이 없는 것은 아닙니다.' 글 전체의 핵심 전환점 역할을 합니다."
+            },
+            {
+              "english": "Notice the literary device: litotes, or double negative. It means there are definitely challenges.",
+              "korean": "문학적 표현인 완곡 어법(이중 부정)에 주목하세요. 분명한 도전 과제들이 존재한다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Some traditional musicians are worried that AI-generated songs could hurt their industry.",
+          "chunkReading": "Some traditional musicians / are worried that / AI-generated songs / could hurt their industry.",
+          "directKorean": "몇몇 전통 음악가들은 / 걱정하고 있습니다 / AI가 생성한 노래들이 / 자신들의 산업을 해칠 수 있다고.",
+          "naturalKorean": "일부 전통 음악가들은 AI가 생성한 노래들이 자신들의 음악 산업에 피해를 줄 수 있다고 우려합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "traditional musicians",
+              "meaning": "전통 음악가들",
+              "use": "noun phrase referring to artists who rely on human instrumental and vocal performance",
+              "example": "Traditional musicians spend decades refining their technique on acoustic instruments."
+            },
+            {
+              "chunk": "worried that AI-generated songs could hurt",
+              "meaning": "AI 생성 곡들이 피해를 줄 수 있다고 걱정하는",
+              "use": "adjective complement clause with modal verb expressing apprehension about negative consequences",
+              "example": "Authors were worried that computer-written books could hurt book sales."
+            },
+            {
+              "chunk": "hurt their industry",
+              "meaning": "자신들의 산업에 타격을 주다(해치다)",
+              "use": "transitive verb phrase describing financial damage, job displacement, or cultural loss",
+              "example": "Digital piracy threatened to hurt their industry in the early 2000s."
+            }
+          ],
+          "mustKnowGrammar": "Predicate adjective with that-clause complement ('are worried that...'); modal auxiliary 'could' expressing potential risk or future harm.",
+          "feynmanExplanation": "Musicians who spent their whole lives practicing piano, violin, or singing / are afraid that cheap, instant computer songs / will take away their jobs and listeners.",
+          "feynmanExplanationKo": "평생 동안 피아노나 바이올린을 연습하고 노래를 훈련해 온 음악가들은, / 값싸고 순식간에 만들어지는 컴퓨터 노래들이 / 자신들의 일자리와 청중을 빼앗아 갈까 봐 두려워하고 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Who is worried? 'Some traditional musicians.'",
+              "korean": "누가 걱정하고 있나요? '일부 전통 음악가들'입니다."
+            },
+            {
+              "english": "What are they worried about? 'That AI-generated songs could hurt their industry.'",
+              "korean": "그들은 무엇을 걱정하나요? 'AI가 만든 노래들이 자신들의 산업을 해칠 수 있다는 것'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Major record labels are even filing lawsuits to protect their rights and profits.",
+          "chunkReading": "Major record labels / are even filing lawsuits / to protect their rights and profits.",
+          "directKorean": "대형 음반사들은 / 소송을 제기하기까지 하고 있습니다 / 자신들의 권리와 수익을 보호하기 위해.",
+          "naturalKorean": "대형 음반사들은 자신들의 권리와 이익을 보호하기 위해 소송을 제기하기까지 하고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Major record labels",
+              "meaning": "대형 음반사들",
+              "use": "noun phrase referring to dominant international music publishing corporations",
+              "example": "Major record labels control the rights to millions of world-famous songs."
+            },
+            {
+              "chunk": "are even filing lawsuits",
+              "meaning": "소송을 제기하기까지 하고 있다",
+              "use": "progressive verb phrase with focusing adverb 'even' emphasizing an aggressive, escalatory legal step",
+              "example": "Tech firms are even filing lawsuits to block rival products."
+            },
+            {
+              "chunk": "to protect their rights and profits",
+              "meaning": "자신들의 권리와 수익을 지키기 위해",
+              "use": "infinitive of purpose denoting institutional defense of copyright assets and financial income",
+              "example": "The studio registered new trademarks to protect its rights and profits."
+            }
+          ],
+          "mustKnowGrammar": "Present continuous active verb phrase ('are filing') with focusing adverb 'even'; plural direct object ('lawsuits'); infinitive clause of purpose ('to protect their rights and profits').",
+          "feynmanExplanation": "The big music companies are taking tech companies to court, / saying: 'You used our artists' recordings to teach your AI, / and you are taking our money!'",
+          "feynmanExplanationKo": "거대 음반사들은 IT 기업들을 법정으로 끌고 가며 말합니다: / '너희가 우리 아티스트들의 음원을 무단으로 가져다 AI를 훈련시켰고, / 우리 돈을 빼앗아가고 있다!'",
+          "teachingTranscript": [
+            {
+              "english": "Notice the adverb 'even': 'are even filing lawsuits.' It shows how serious the conflict has become.",
+              "korean": "'even(심지어 ~까지 하다)'이라는 부사에 주목하세요: '소송을 제기하기까지 하고 있다.' 갈등이 얼마나 심각해졌는지 보여줍니다."
+            },
+            {
+              "english": "Why are labels filing lawsuits? 'To protect their rights and profits.'",
+              "korean": "음반사들은 왜 소송을 제기하나요? '자신들의 권리와 이익을 지키기 위해서'입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "“It’s a total boom.",
+          "chunkReading": "“It’s a total boom.",
+          "directKorean": "“그것은 완전한 붐(대유행)입니다.",
+          "naturalKorean": "“완전한 붐이자 대유행입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "total boom",
+              "meaning": "완전한 호황, 엄청난 붐(급성장)",
+              "use": "noun phrase describing sudden, explosive economic or cultural expansion",
+              "example": "The launch of smartphone apps created a total boom in digital software."
+            }
+          ],
+          "mustKnowGrammar": "First unit of an attributed split quotation; contracted copular clause ('It's') followed by predicate noun with emphatic adjective ('a total boom').",
+          "feynmanExplanation": "The expert says AI music is exploding in popularity everywhere right now—like fireworks going off all at once!",
+          "feynmanExplanationKo": "전문가는 지금 AI 음악의 인기가 사방에서 폭발적으로 치솟고 있다고 말합니다. 마치 한꺼번에 터지는 불꽃놀이처럼요!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the first metaphor: 'a total boom.' What does 'boom' mean in business and culture? Rapid, explosive growth.",
+              "korean": "첫 번째 비유를 보세요: 'a total boom.' 비즈니스와 문화에서 '붐'은 무엇을 의미하나요? 급격하고 폭발적인 성장을 뜻합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "original": "It’s a tsunami,” says expert Josh Antonuccio about AI music’s growth.",
+          "chunkReading": "It’s a tsunami,” / says expert Josh Antonuccio / about AI music’s growth.",
+          "directKorean": "그것은 쓰나미입니다,” / 전문가 조시 안토누치오는 말합니다 / AI 음악의 성장에 대해.",
+          "naturalKorean": "쓰나미처럼 거대합니다”라고 전문가 조시 안토누치오는 AI 음악의 성장에 대해 평합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "It’s a tsunami",
+              "meaning": "그것은 쓰나미(거대한 파도)입니다",
+              "use": "metaphorical assertion conveying an overpowering, unstoppable force transforming the industry",
+              "example": "The sudden rise of social media was a tsunami for traditional newspapers."
+            },
+            {
+              "chunk": "says expert Josh Antonuccio",
+              "meaning": "전문가 조시 안토누치오는 말한다",
+              "use": "inverted reporting verb and attributed subject identifying the academic/industry authority",
+              "example": "“Prices will stabilize soon,” says expert Dr. Miller about current inflation."
+            },
+            {
+              "chunk": "about AI music’s growth",
+              "meaning": "AI 음악의 성장에 대해",
+              "use": "prepositional phrase specifying the topic of expert evaluation",
+              "example": "Critics shared different views about the streaming platform's growth."
+            }
+          ],
+          "mustKnowGrammar": "Second unit of the attributed quote; inverted reporting clause ('says expert Josh Antonuccio') following the quotation; prepositional phrase ('about AI music's growth').",
+          "feynmanExplanation": "Next, he compares it to a giant ocean wave called a tsunami—meaning it is moving so fast and is so huge that nobody can easily stop it.",
+          "feynmanExplanationKo": "이어서 그는 그것을 쓰나미라는 거대한 파도에 비유합니다. 너무나 빠르고 거대하게 밀려오고 있어서 그 누구도 쉽게 막을 수 없다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Who is speaking here? Expert Josh Antonuccio.",
+              "korean": "여기서 누가 말하고 있나요? 전문가 조시 안토누치오입니다."
+            },
+            {
+              "english": "What second metaphor does he use? 'A tsunami'—an unstoppable natural force changing everything in its path.",
+              "korean": "그가 사용한 두 번째 비유는 무엇인가요? '쓰나미'입니다. 경로에 있는 모든 것을 바꾸어 놓는 거스를 수 없는 거대한 힘을 뜻합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "original": "With both excitement and concern, the future of music is changing, and it seems anyone could create the next big hit!",
+          "chunkReading": "With both excitement and concern, / the future of music is changing, / and it seems / anyone could create / the next big hit!",
+          "directKorean": "흥분과 우려 둘 다와 함께, / 음악의 미래는 변화하고 있습니다, / 그리고 보입니다 / 누구라도 만들 수 있을 것처럼 / 다음의 거대한 히트곡을!",
+          "naturalKorean": "기대와 우려가 교차하는 가운데 음악의 미래는 급변하고 있으며, 이제는 누구라도 다음번 대형 히트곡을 만들어낼 수 있을 것처럼 보입니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "With both excitement and concern",
+              "meaning": "흥분(기대)과 우려 둘 다를 안고",
+              "use": "prepositional phrase using correlative 'both A and B' to establish dual emotional/economic reality",
+              "example": "With both excitement and concern, doctors welcomed the new medical scanner."
+            },
+            {
+              "chunk": "the future of music is changing",
+              "meaning": "음악의 미래가 변화하고 있다",
+              "use": "present continuous clause declaring profound industry transformation",
+              "example": "As streaming takes over, the future of music is changing rapidly."
+            },
+            {
+              "chunk": "it seems anyone could create",
+              "meaning": "누구라도 만들 수 있을 것처럼 보인다",
+              "use": "hedged matrix clause with modal 'could' indicating widespread potential participation",
+              "example": "With accessible cameras, it seems anyone could create a viral short movie."
+            },
+            {
+              "chunk": "the next big hit",
+              "meaning": "다음의 대형 히트곡",
+              "use": "idiomatic noun phrase designating a chart-topping popular song",
+              "example": "Every studio executive is searching for the next big hit."
+            }
+          ],
+          "mustKnowGrammar": "Fronted prepositional phrase pairing opposite feelings ('With both excitement and concern'); present continuous main clause ('the future of music is changing'); compound coordinator 'and' introducing a hedged evaluation ('it seems anyone could create the next big hit').",
+          "feynmanExplanation": "Some people are super excited while others are worried, / but one thing is clear: / music is changing completely, / and any regular kid in their bedroom might make the next song that the whole world sings!",
+          "feynmanExplanationKo": "어떤 사람들은 엄청나게 기대하고 어떤 사람들은 크게 걱정하지만, / 한 가지만은 분명합니다: / 음악이 완전히 바뀌고 있으며, / 자기 방에 있는 평범한 아이라도 전 세계인이 따라 부를 다음번 대형 히트곡을 만들어낼 수 있다는 점입니다!",
+          "teachingTranscript": [
+            {
+              "english": "Notice the balanced phrase that opens the final sentence: 'With both excitement and concern.'",
+              "korean": "마지막 문장을 여는 균형 잡힌 표현에 주목하세요: '흥분과 우려 둘 다를 안고.'"
+            },
+            {
+              "english": "Notice the cautious hedge: 'it seems anyone could create the next big hit!' It suggests immense democratic potential.",
+              "korean": "조심스러운 추측 표현에 주목하세요: '누구라도 다음 대형 히트곡을 만들 수 있을 것처럼 보인다!' 엄청난 대중적 참여 가능성을 시사합니다."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
