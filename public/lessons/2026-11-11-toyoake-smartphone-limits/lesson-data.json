@@ -1,0 +1,1106 @@
+{
+  "lessonTitle": "Japanese Town Wants Limits on Smartphone Use",
+  "ofsUnit": "Unit 5 — Technology, Society & Well-Being",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Civic / Current-Affairs Article",
+  "writingType": "Evidence-Based Analytical Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Students explain a public guideline, compare viewpoints, use evidence and attribution, and express cause/effect, contrast and cautious evaluation based on Source F.",
+  "warmUp": {
+    "title": "Warm-up",
+    "instructions": "Discuss these three questions with a partner. You do not need outside legal or local government knowledge; answer using your personal screen routines, understanding of public guidelines, and logical reasoning about technology habits.",
+    "questions": [
+      {
+        "question": "How much time do you typically spend on your smartphone or screen devices each day, and what activities take up most of that time?",
+        "sentenceStarter": "On a typical day, I usually spend about... on screen devices, mainly for..."
+      },
+      {
+        "question": "What is the difference between a voluntary public guideline meant to encourage healthy reflection and a strict legal rule enforced by penalties?",
+        "sentenceStarter": "While a strict legal rule requires compliance through official penalties, a voluntary public guideline focuses on..."
+      },
+      {
+        "question": "When considering smartphone use, how can communities balance the benefits of digital devices (such as online learning and music) with concerns about family time and school attendance?",
+        "sentenceStarter": "Communities can balance technology benefits with social well-being by..."
+      }
+    ],
+    "sentenceStarters": [
+      "On a typical day, I usually spend about... on screen devices, mainly for...",
+      "While a strict legal rule requires compliance through official penalties, a voluntary public guideline focuses on...",
+      "Communities can balance technology benefits with social well-being by..."
+    ]
+  },
+  "article": {
+    "title": "Japanese Town Wants Limits on Smartphone Use",
+    "source": "Source: The Guardian",
+    "sourceNote": "Source: The Guardian",
+    "paragraphs": [
+      "The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day! This idea is being discussed by the local lawmakers after being suggested by Mayor Masafumi Koki. He explained that the limit won’t be enforced strictly; it’s meant to help families think about how much time they spend on devices. “The two-hour limit... is merely a guideline... to encourage citizens,” he said.",
+      "This plan, if approved in October, won’t apply to work or school activities, like online learning or exercising while listening to music. Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.",
+      "Some people worry that two hours isn’t enough for activities like reading or watching a movie. The mayor recognizes that while smartphones are useful, they can also lead to students missing school or families spending less time together."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key terms from Source F. Focus on each word's part of speech, accessible English definition, concise Korean equivalent, and contextual example sentence.",
+    "items": [
+      {
+        "word": "propose",
+        "partOfSpeech": "verb",
+        "definition": "to officially put forward an idea, plan, or suggestion for consideration and formal discussion",
+        "korean": "제안하다, 발의하다",
+        "example": "The town council decided to propose a new policy to promote healthy digital habits among young people."
+      },
+      {
+        "word": "smartphone usage",
+        "partOfSpeech": "noun phrase",
+        "definition": "the amount of time or manner in which people operate and interact with handheld mobile touchscreen phones",
+        "korean": "스마트폰 사용(량)",
+        "example": "Researchers monitored daily smartphone usage to understand how screen hours affect teenage sleep patterns."
+      },
+      {
+        "word": "enforce strictly",
+        "partOfSpeech": "verb phrase (verb + adverb)",
+        "definition": "to firmly make people obey a law, rule, or regulation through formal inspection and mandatory penalties",
+        "korean": "엄격하게 시행[집행]하다",
+        "example": "Officials clarified that the recommendation would not be enforced strictly through police checks or fines."
+      },
+      {
+        "word": "guideline",
+        "partOfSpeech": "noun",
+        "definition": "an official recommendation or advisory standard intended to guide behavior rather than punish disobedience",
+        "korean": "지침, 가이드라인",
+        "example": "The advisory committee released a voluntary guideline urging students to take regular screen breaks."
+      },
+      {
+        "word": "residents",
+        "partOfSpeech": "noun (plural)",
+        "definition": "the people who permanently live, reside, and make their homes in a particular town, city, or neighborhood",
+        "korean": "주민들",
+        "example": "Local residents gathered at the community center to debate the proposed neighborhood traffic regulations."
+      },
+      {
+        "word": "lawmakers",
+        "partOfSpeech": "noun (plural)",
+        "definition": "elected or appointed government officials who debate, write, amend, and vote on municipal bylaws and legislation",
+        "korean": "입법자들, 지방의원들",
+        "example": "Municipal lawmakers met to discuss whether the mayor's advisory resolution should be formally adopted."
+      },
+      {
+        "word": "consultation period",
+        "partOfSpeech": "noun phrase",
+        "definition": "a designated window of time during which public officials formally seek opinions, comments, and survey feedback from citizens",
+        "korean": "의견 수렴 기간 (공청회/협의 기간)",
+        "example": "During the month-long consultation period, community members submitted hundreds of written comments."
+      },
+      {
+        "word": "feedback",
+        "partOfSpeech": "noun",
+        "definition": "reactions, opinions, survey responses, and evaluative comments provided by people about a plan or service",
+        "korean": "의견, 피드백",
+        "example": "Town authorities carefully reviewed citizen feedback before finalizing their draft recommendation."
+      },
+      {
+        "word": "against the proposal",
+        "partOfSpeech": "prepositional phrase",
+        "definition": "in direct opposition to or disagreeing with a suggested plan, measure, or official policy",
+        "korean": "제안에 반대하는",
+        "example": "A significant majority of survey participants were against the proposal to restrict evening screen hours."
+      },
+      {
+        "word": "spend time together",
+        "partOfSpeech": "verb phrase",
+        "definition": "to share company, engage in mutual communication, and participate in shared household activities with family members",
+        "korean": "함께 시간을 보내다",
+        "example": "The community project encourages parents and children to spend time together without digital interruptions."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea",
+    "question": "Which statement best expresses the main idea of the article?",
+    "options": [
+      "The town of Toyoake has enacted strict legal penalties and daily fines to confiscate smartphones from all 69,000 residents.",
+      "Toyoake is considering a non-strict two-hour smartphone guideline to encourage reflection, while residents and the mayor recognize both concerns and possible benefits.",
+      "Mayor Masafumi Koki decided to ban all online learning, remote work, and exercise music across Japanese elementary and secondary schools.",
+      "Japanese lawmakers rejected the two-hour limit entirely because 80% of residents voted that reading and movies should be illegal."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "O Correct! The article explains that Toyoake's proposed two-hour limit is merely an unenforced guideline suggested by Mayor Koki to encourage reflection, while highlighting citizen concerns (such as reading/movies and 80% opposition) alongside recognized risks like missed school and lost family time.",
+      "incorrect": "X Incorrect. Look for the balanced central thesis: Toyoake is proposing an unenforced two-hour guideline to foster reflection, while both the public's opposition (80% against, movie/reading limitations) and the mayor's concerns (missed school, family time) are acknowledged."
+    },
+    "explanation": "The passage outlines Toyoake's proposed two-hour smartphone guideline—noting it is an advisory measure without strict enforcement that exempts work and school—while reporting strong public opposition (80% against) alongside the mayor's rationale regarding student attendance and family time."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer these 6 multiple-choice questions based strictly on the details in Source F.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, what specific plan is being proposed in the Japanese town of Toyoake and how many residents does it involve?",
+        "options": [
+          "A plan to ban all mobile phones completely for its 690,000 citizens.",
+          "A plan to limit smartphone usage for its 69,000 residents to just two hours a day.",
+          "A proposal to provide free government tablet computers to 6,900 students.",
+          "A mandatory tax on electronic devices owned by its 69,000 residents."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 explicitly states: 'The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day!'",
+          "incorrect": "X Incorrect. Paragraph 1 specifies that Toyoake is proposing to limit smartphone usage for its 69,000 residents to just two hours a day."
+        },
+        "explanation": "Paragraph 1: 'The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day!'"
+      },
+      {
+        "id": "rc2",
+        "question": "According to Paragraph 1, who suggested this idea, and who is currently discussing it?",
+        "options": [
+          "It was suggested by high school principals and is being discussed by national police.",
+          "It was suggested by Mayor Masafumi Koki and is being discussed by the local lawmakers.",
+          "It was suggested by a smartphone manufacturer and is being discussed by medical doctors.",
+          "It was suggested by the national prime minister and is being discussed by Tokyo judges."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 reports: 'This idea is being discussed by the local lawmakers after being suggested by Mayor Masafumi Koki.'",
+          "incorrect": "X Incorrect. Paragraph 1 clearly indicates the idea was suggested by Mayor Masafumi Koki and is being discussed by local lawmakers."
+        },
+        "explanation": "Paragraph 1: 'This idea is being discussed by the local lawmakers after being suggested by Mayor Masafumi Koki.'"
+      },
+      {
+        "id": "rc3",
+        "question": "According to Mayor Masafumi Koki in Paragraph 1, how will the limit be implemented, and what is its true purpose?",
+        "options": [
+          "It will be enforced strictly with criminal fines to punish anyone using screens after sunset.",
+          "It won’t be enforced strictly; it is merely an advisory guideline meant to help families think about device time and encourage citizens.",
+          "It will automatically shut down wireless internet networks across the town after two hours.",
+          "It is a compulsory medical mandate designed to seize digital devices from minors."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 1 states that the mayor explained the limit 'won’t be enforced strictly; it’s meant to help families think about how much time they spend on devices' and is 'merely a guideline... to encourage citizens.'",
+          "incorrect": "X Incorrect. The text states that the limit will not be strictly enforced, serving merely as a guideline to encourage citizens and help families reflect on device time."
+        },
+        "explanation": "Paragraph 1: 'He explained that the limit won’t be enforced strictly; it’s meant to help families think about how much time they spend on devices. “The two-hour limit... is merely a guideline... to encourage citizens,” he said.'"
+      },
+      {
+        "id": "rc4",
+        "question": "According to Paragraph 2, when could the plan be approved, and what activities are exempted from the limit?",
+        "options": [
+          "If approved in December, it won’t apply to video gaming tournaments.",
+          "If approved in October, it won’t apply to work or school activities, like online learning or exercising while listening to music.",
+          "If approved in August, it won’t apply to television broadcasts or landline telephone calls.",
+          "If approved in October, it will strictly apply to all workplace computers and school classrooms."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 states: 'This plan, if approved in October, won’t apply to work or school activities, like online learning or exercising while listening to music.'",
+          "incorrect": "X Incorrect. Paragraph 2 specifies approval in October and explicitly exempts work or school activities, such as online learning or exercising while listening to music."
+        },
+        "explanation": "Paragraph 2: 'This plan, if approved in October, won’t apply to work or school activities, like online learning or exercising while listening to music.'"
+      },
+      {
+        "id": "rc5",
+        "question": "What public response does Paragraph 2 report regarding the consultation period?",
+        "options": [
+          "Residents unanimously celebrated the plan and asked to reduce the limit to one hour.",
+          "Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.",
+          "No residents submitted comments because they were completely unaware of the proposal.",
+          "About 80% of residents voted to ban smartphone sales entirely in local retail shops."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 2 reports: 'Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.'",
+          "incorrect": "X Incorrect. Paragraph 2 expressly highlights that many residents shared their thoughts and about 80% of feedback during the consultation period was against the proposal."
+        },
+        "explanation": "Paragraph 2: 'Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.'"
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraph 3, what specific concern do some residents raise, and what risks does the mayor recognize?",
+        "options": [
+          "Residents worry phones cost too much money, while the mayor believes smartphones have no practical use.",
+          "Residents worry two hours isn’t enough for activities like reading or watching a movie, while the mayor recognizes smartphones can lead to missing school or families spending less time together.",
+          "Residents worry battery chargers cause fires, while the mayor argues that smartphones improve test scores.",
+          "Residents worry the town will buy too many books, while the mayor claims screens keep families united."
+        ],
+        "correctIndex": 1,
+        "feedback": {
+          "correct": "O Correct! Paragraph 3 notes residents worry two hours is not enough for reading or movies, while the mayor recognizes that despite being useful, smartphones can lead to students missing school or families spending less time together.",
+          "incorrect": "X Incorrect. Paragraph 3 details that some people worry two hours is insufficient for reading or watching a movie, while the mayor recognizes useful smartphones can also lead to students missing school or families spending less time together."
+        },
+        "explanation": "Paragraph 3: 'Some people worry that two hours isn’t enough for activities like reading or watching a movie. The mayor recognizes that while smartphones are useful, they can also lead to students missing school or families spending less time together.'"
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Respond to each prompt using direct, factual details from Source F. After writing your response, click 'Compare with Model' to evaluate your work against an exemplar answer.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "According to Paragraph 1, what is the town of Toyoake proposing, and why does Mayor Masafumi Koki emphasize that it is merely an unenforced guideline?",
+        "placeholder": "According to Paragraph 1, Toyoake is proposing...",
+        "modelAnswer": "According to Paragraph 1, the town of Toyoake is proposing a plan to limit smartphone usage for its 69,000 residents to two hours a day. Mayor Masafumi Koki emphasized that the limit will not be strictly enforced because it is merely an advisory guideline intended to encourage citizens and help families reflect on how much time they spend on digital devices.",
+        "compareTip": "Ensure you cite the town of Toyoake, its 69,000 residents, the two-hour daily limit, Mayor Masafumi Koki, and the explanation that it is an unenforced guideline meant to encourage reflection."
+      },
+      {
+        "id": "ev2",
+        "question": "According to Paragraph 2, what exceptions are built into the proposal, and what did public feedback reveal during the consultation period?",
+        "placeholder": "Paragraph 2 explains that if approved in October, the plan...",
+        "modelAnswer": "Paragraph 2 explains that if approved in October, the plan will not apply to work or school activities, such as online learning or exercising while listening to music. However, citizen feedback gathered during the consultation period revealed strong opposition, with about 80% of responses against the proposal.",
+        "compareTip": "Check that you identified the October timeline, the exemptions for work, school, online learning, and exercise music, and the statistic that about 80% of consultation feedback was against the proposal."
+      },
+      {
+        "id": "ev3",
+        "question": "According to Paragraph 3, why does the article present both the usefulness of smartphones and the social risks identified by the mayor?",
+        "placeholder": "Paragraph 3 balances opposing views by explaining...",
+        "modelAnswer": "Paragraph 3 balances both perspectives by acknowledging that some residents worry two hours is not enough for legitimate activities like reading or watching a movie. At the same time, the mayor recognizes that while smartphones are useful tools, excessive screen time can also lead to negative consequences, such as students missing school or families spending less time together.",
+        "compareTip": "Make sure you include resident worries regarding reading or watching movies, the mayor's acknowledgment that smartphones are useful, and his warnings about students missing school and families spending less time together."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Target Structures: Modal & Negative Forms, Passive Voice, Reported Speech, Purpose, Contrast with While, Cause/Effect & Quantity Expressions",
+    "languagePatterns": [
+      {
+        "pattern": "1. Negative & Modal Auxiliary Forms (won’t / isn’t / can)",
+        "explanation": "Use contracted modal auxiliaries ('won’t apply', 'won’t be enforced') and negative copulas ('isn’t enough') to specify official boundaries, exemptions, and perceived limitations.",
+        "example": "The advisory code won’t impose legal penalties, but critics insist three hours isn’t sufficient for research.",
+        "sourceExample": "He explained that the limit won’t be enforced strictly... won’t apply to work or school activities... isn’t enough..."
+      },
+      {
+        "pattern": "2. Present Passive Voice (is being discussed / after being suggested)",
+        "explanation": "Use present progressive and prepositional passive constructions to describe policy measures currently undergoing democratic review.",
+        "example": "The proposed traffic reduction plan is currently being discussed by the municipal council.",
+        "sourceExample": "This idea is being discussed by the local lawmakers after being suggested by Mayor Masafumi Koki."
+      },
+      {
+        "pattern": "3. Reported Speech & Attribution Verbs (explained that / recognizes that / said)",
+        "explanation": "Attribute policy rationale and institutional positions clearly using reporting verbs followed by complement clauses or direct speech.",
+        "example": "The superintendent explained that the recommendation was designed to foster independent study habits.",
+        "sourceExample": "He explained that the limit won’t be enforced strictly... “The two-hour limit... is merely a guideline,” he said."
+      },
+      {
+        "pattern": "4. Purpose & Intended Function (meant to / to encourage / to help)",
+        "explanation": "Clarify the educational and social aims of a public policy using passive purpose adjectives ('is meant to') and infinitive phrases.",
+        "example": "The municipal guidelines are meant to encourage healthy lifestyle reflection rather than mandate behavior.",
+        "sourceExample": "...it’s meant to help families think about how much time they spend on devices. “...merely a guideline... to encourage citizens...”"
+      },
+      {
+        "pattern": "5. Concessive Contrast with 'While' (while smartphones are useful, they can also...)",
+        "explanation": "Structure nuanced, balanced claims by admitting an acknowledged advantage in a subordinate clause before presenting an accompanying concern in the main clause.",
+        "example": "While digital screens are essential for modern coursework, they can also disrupt nocturnal rest.",
+        "sourceExample": "The mayor recognizes that while smartphones are useful, they can also lead to students missing school..."
+      },
+      {
+        "pattern": "6. Cause/Effect & Quantity Expressions (lead to / about 80% / just two hours)",
+        "explanation": "Link screen behaviors to social outcomes using causal phrasal verbs ('lead to') while citing precise quantitative metrics ('69,000 residents', 'about 80% of feedback').",
+        "example": "Unregulated evening device usage can lead to classroom fatigue, prompting about 70% of educators to express concern.",
+        "sourceExample": "...limit smartphone usage for its 69,000 residents to just two hours a day... about 80% of feedback... lead to students missing school..."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Draft a single, grammatically complete sentence for each prompt applying the target language structures. Adhere to the target word count and compare your draft with the model.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Write a sentence using passive voice ('is being discussed') and 'proposing' to state Toyoake's plan to limit smartphone usage for its 69,000 residents.",
+        "placeholder": "The town of Toyoake in Japan is proposing a plan to limit...",
+        "modelAnswer": "Proposing a two-hour daily limit for its 69,000 residents, Toyoake's smartphone plan is currently being discussed by lawmakers after Mayor Koki suggested it.",
+        "compareTip": "Verify that your sentence mentions Toyoake, 69,000 residents, the two-hour limit, and uses 'is being discussed' alongside Mayor Koki's suggestion.",
+        "targetWords": 24,
+        "minWords": 18,
+        "maxWords": 36
+      },
+      {
+        "id": "wp2",
+        "question": "Write a sentence using 'won’t be enforced strictly' and 'meant to help' to explain Mayor Masafumi Koki's purpose for the two-hour guideline.",
+        "placeholder": "Mayor Masafumi Koki explained that the two-hour guideline won’t be enforced strictly because...",
+        "modelAnswer": "Mayor Masafumi Koki explained that the two-hour limit won’t be enforced strictly because it is merely a guideline meant to help families reflect on device time.",
+        "compareTip": "Ensure you included Mayor Masafumi Koki, 'won’t be enforced strictly', and the purpose phrase 'meant to help families'.",
+        "targetWords": 26,
+        "minWords": 18,
+        "maxWords": 38
+      },
+      {
+        "id": "wp3",
+        "question": "Write a sentence using 'about 80% of feedback' and 'against the proposal' to report the public reaction during the consultation period while noting school and work exemptions.",
+        "placeholder": "Although the plan won’t apply to work or school activities, about 80% of feedback...",
+        "modelAnswer": "Even though the plan won’t apply to work or school activities, about 80% of feedback during the consultation period was against the proposal.",
+        "compareTip": "Check that your sentence highlights the work/school exemptions and accurately reports that about 80% of feedback during the consultation was against the proposal.",
+        "targetWords": 24,
+        "minWords": 18,
+        "maxWords": 36
+      },
+      {
+        "id": "wp4",
+        "question": "Write a balanced claim using 'while smartphones are useful' and 'can also lead to' to contrast resident worries (reading/movies) with the mayor's concerns (missing school/family time).",
+        "placeholder": "While residents worry two hours isn’t enough for reading or movies, the mayor recognizes that while smartphones are useful, they...",
+        "modelAnswer": "While residents worry two hours isn’t enough for reading or movies, the mayor recognizes that useful smartphones can also lead to students missing school.",
+        "compareTip": "Confirm your sentence uses 'while' to contrast residents' leisure concerns (reading/movies) with the mayor's warnings about useful smartphones leading to missed school.",
+        "targetWords": 23,
+        "minWords": 18,
+        "maxWords": 36
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Final Writing Task",
+    "instructions": "Write a well-structured evidence-based analytical explanation paragraph answering the prompt below. Adhere strictly to the word count target and verify your draft against the checklist.",
+    "prompt": "According to the article, why is Toyoake’s smartphone guideline controversial? Write an evidence-based explanation paragraph of 100–140 words. Include at least three specific details from the text, explain the proposal and its voluntary nature, contrast the opposing viewpoints of residents and the mayor, use cause-and-effect and contrast language, and provide objective attribution.",
+    "checklist": [
+      "clear topic sentence stating why Toyoake’s proposed smartphone guideline is controversial",
+      "at least three accurate details from the original text (e.g., Toyoake's 69,000 residents, Mayor Masafumi Koki, two-hour guideline, October approval, work/school exemptions, 80% opposition)",
+      "explanation that the limit won't be strictly enforced and is merely an advisory guideline meant to encourage reflection",
+      "presentation of residents' concerns (e.g., 80% consultation feedback against the proposal, two hours being insufficient for reading or watching movies)",
+      "presentation of Mayor Masafumi Koki's rationale (smartphones are useful but can lead to students missing school or families spending less time together)",
+      "accurate cause-and-effect language (e.g., 'lead to', 'meant to help') and contrast markers (e.g., 'while', 'however', 'even though')",
+      "explicit source-reporting attribution (e.g., 'According to the article', 'The Guardian reports that', 'the mayor recognizes')",
+      "no outside legal, technical, health, or policy assumptions absent from the text",
+      "logical organization, transitional coherence, and a balanced concluding evaluation",
+      "strictly 100–140 words"
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "modelAnswer": "According to the article, Toyoake’s smartphone guideline is controversial because it attempts to regulate personal digital habits despite strong public opposition. Proposed by Mayor Masafumi Koki for Toyoake’s 69,000 residents, the plan suggests limiting smartphone usage to two hours daily. The mayor clarified that this measure won’t be enforced strictly; it is merely an advisory guideline meant to encourage families to reflect on screen time, with exemptions for work, school, and exercise music. Nonetheless, about 80% of feedback during the consultation period was against the proposal. Many residents worry that two hours is not enough for reading or watching movies. In contrast, the mayor emphasizes that while smartphones are undeniably useful, excessive use can lead to students missing school and families spending less time together.",
+    "compareTip": "Review your draft against the checklist: confirm explicit source attribution, inclusion of the proposal details (Toyoake, 69,000 residents, two-hour limit, Mayor Koki), the non-strict advisory nature with work/school exemptions, the opposing citizen views (80% against, reading/movies), the mayor's concerns (missing school, less family time), and a strict word count between 100 and 140 words."
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "instructions": "Review your final writing piece against these six criteria before submitting your work.",
+    "items": [
+      {
+        "text": "My writing is strictly based on the details in Source F without inventing outside legal statutes, municipal fines, or health studies."
+      },
+      {
+        "text": "I clearly explained that Toyoake's proposal is an unenforced two-hour daily guideline suggested by Mayor Koki to encourage reflection."
+      },
+      {
+        "text": "I cited at least three specific textual details (e.g., 69,000 residents, October approval timeline, work/school exemptions, or 80% consultation feedback)."
+      },
+      {
+        "text": "I presented both sides of the controversy: resident objections (reading, watching movies, 80% opposition) and the mayor's concerns (missed school, lost family time)."
+      },
+      {
+        "text": "I used accurate contrast markers ('while', 'in contrast') and cause-and-effect connectors ('lead to', 'meant to') to structure my explanation."
+      },
+      {
+        "text": "My paragraph includes proper attribution ('According to the article', 'the mayor recognizes') and contains strictly 100–140 words."
+      }
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 1,
+        "rationale": "Option B accurately synthesizes the full scope of the article: Toyoake's proposed two-hour smartphone guideline is an advisory measure without strict enforcement that aims to foster family reflection, while recognizing significant public opposition (80% against, reading/movie limits) alongside the mayor's concerns regarding student absenteeism and lost family time."
+      },
+      "readingComprehension": [
+        {
+          "id": "rc1",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 explicitly states: 'The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day!'"
+        },
+        {
+          "id": "rc2",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 reports that the idea was suggested by Mayor Masafumi Koki and is being discussed by local lawmakers."
+        },
+        {
+          "id": "rc3",
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 specifies that the mayor explained the limit won’t be strictly enforced; it is merely an advisory guideline intended to encourage citizens and help families reflect on screen time."
+        },
+        {
+          "id": "rc4",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 notes the plan could be approved in October and will not apply to work or school activities, like online learning or exercising while listening to music."
+        },
+        {
+          "id": "rc5",
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 states: 'Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.'"
+        },
+        {
+          "id": "rc6",
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 explains that some people worry two hours isn’t enough for reading or movies, while the mayor recognizes that useful smartphones can also lead to students missing school or families spending less time together."
+        }
+      ],
+      "evidenceFromText": [
+        {
+          "id": "ev1",
+          "modelAnswer": "According to Paragraph 1, the town of Toyoake is proposing a plan to limit smartphone usage for its 69,000 residents to two hours a day. Mayor Masafumi Koki emphasized that the limit will not be strictly enforced because it is merely an advisory guideline intended to encourage citizens and help families reflect on how much time they spend on digital devices."
+        },
+        {
+          "id": "ev2",
+          "modelAnswer": "Paragraph 2 explains that if approved in October, the plan will not apply to work or school activities, such as online learning or exercising while listening to music. However, citizen feedback gathered during the consultation period revealed strong opposition, with about 80% of responses against the proposal."
+        },
+        {
+          "id": "ev3",
+          "modelAnswer": "Paragraph 3 balances both perspectives by acknowledging that some residents worry two hours is not enough for legitimate activities like reading or watching a movie. At the same time, the mayor recognizes that while smartphones are useful tools, excessive screen time can also lead to negative consequences, such as students missing school or families spending less time together."
+        }
+      ]
+    },
+    "modelAnswer": {
+      "finalWritingTask": "According to the article, Toyoake’s smartphone guideline is controversial because it attempts to regulate personal digital habits despite strong public opposition. Proposed by Mayor Masafumi Koki for Toyoake’s 69,000 residents, the plan suggests limiting smartphone usage to two hours daily. The mayor clarified that this measure won’t be enforced strictly; it is merely an advisory guideline meant to encourage families to reflect on screen time, with exemptions for work, school, and exercise music. Nonetheless, about 80% of feedback during the consultation period was against the proposal. Many residents worry that two hours is not enough for reading or watching movies. In contrast, the mayor emphasizes that while smartphones are undeniably useful, excessive use can lead to students missing school and families spending less time together."
+    },
+    "rubric": {
+      "title": "Analytical Writing Rubric (Grade 9 ESL)",
+      "categories": [
+        {
+          "name": "Content & Ideas",
+          "description": "Clear controlling idea explaining why Toyoake's guideline is controversial; comprehensive understanding of the proposal, voluntary nature, and opposing viewpoints in Source F.",
+          "score4": "Develops a perceptive, balanced controlling idea that thoroughly articulates the municipal guideline (69,000 residents, two hours, voluntary nature) alongside citizen pushback and administrative concerns.",
+          "score3": "States a clear controlling idea identifying both public opposition and mayoral intent; accurately references the core controversy of the article.",
+          "score2": "Presents a one-sided perspective focusing exclusively on citizen anger or exclusively on the mayor's warnings without balancing both sides.",
+          "score1": "Lacks a clear controlling idea or introduces irrelevant outside legal, medical, or national policy claims absent from Source F."
+        },
+        {
+          "name": "Evidence Use",
+          "description": "Accuracy, relevance, and density of factual details cited directly from Source F without outside embellishment.",
+          "score4": "Seamlessly integrates at least three highly specific textual details (e.g., Toyoake, 69,000 residents, Mayor Masafumi Koki, October approval, work/school exemptions, 80% opposition, reading/movie worries).",
+          "score3": "Includes two or three accurate details from the text with minor omissions in textual specificity.",
+          "score2": "Provides only one or two vague references with minimal textual precision.",
+          "score1": "Provides inaccurate evidence or relies on fabricated legal penalties not found in Source F."
+        },
+        {
+          "name": "Target Language/Structure",
+          "description": "Effective use of modal/negative forms, passive voice, reported speech, purpose phrases, contrast with 'while', and causal expressions.",
+          "score4": "Expertly demonstrates sophisticated contrast ('while', 'nonetheless', 'in contrast'), passive structures ('is being discussed', 'suggested by'), and precise attribution.",
+          "score3": "Uses contrast and cause-and-effect transitions accurately with minor mechanical lapses; includes clear attribution.",
+          "score2": "Demonstrates inconsistent use of target connectors; weak or missing attribution of source claims.",
+          "score1": "Frequent grammatical breakdowns that impede academic clarity; completely lacks source attribution."
+        },
+        {
+          "name": "Organization",
+          "description": "Logical paragraph progression, cohesive transitions, thematic balance, and strong concluding synthesis.",
+          "score4": "Follows an exemplary logical progression from the controversial proposal to its advisory character, shifts smoothly to resident opposition, and concludes with the mayor's balanced rationale.",
+          "score3": "Logically structured with clear progression and appropriate transitions between the proposal and public reactions.",
+          "score2": "Somewhat disjointed structure; abrupt transitions between government plans and citizen opposition.",
+          "score1": "Unconnected list of sentences lacking paragraph unity, flow, and coherence."
+        },
+        {
+          "name": "Accuracy",
+          "description": "Strict compliance with the 100–140 word count parameter, mechanical precision, spelling, and academic register.",
+          "score4": "Word count is strictly between 100 and 140 words; flawless punctuation, academic register, and spelling throughout.",
+          "score3": "Word count is between 95 and 145 words; minor punctuation errors that do not hinder academic comprehension.",
+          "score2": "Noticeably under or over length (80–94 or 146–160 words); noticeable mechanical or spelling errors.",
+          "score1": "Severe word count violation (<80 or >160 words); persistent errors that disrupt readability."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "1. Text Identity and Civic Context",
+        "note": "The article is an informational current-affairs report credited to 'Source: The Guardian' titled 'Japanese Town Wants Limits on Smartphone Use.' It explores municipal governance and digital wellness in modern Japan, focusing on how a local government attempts to influence citizens' private technology habits through non-punitive public policy."
+      },
+      {
+        "topic": "2. Toyoake Municipality and Demographic Scope",
+        "note": "Toyoake is a real municipality in Aichi Prefecture, Japan, with approximately 69,000 residents. Emphasize to students that this is a municipal (town-level) initiative rather than a nationwide Japanese law, demonstrating how local governments often experiment with community wellness guidelines."
+      },
+      {
+        "topic": "3. Mayor Masafumi Koki's Leadership",
+        "note": "The policy was suggested by Mayor Masafumi Koki and submitted to local lawmakers for deliberation. Guide students to recognize the administrative chain: a mayor proposes an initiative, and municipal legislators debate its adoption on behalf of the community."
+      },
+      {
+        "topic": "4. The Two-Hour Limit Parameter",
+        "note": "The suggested threshold is 'just two hours a day.' Help students conceptualize this duration: for teenagers accustomed to multiple hours of social media, streaming, and gaming, a two-hour total represents a significant behavioural contraction."
+      },
+      {
+        "topic": "5. Non-Strict Enforcement and Advisory Character",
+        "note": "A central textual nuance is that the limit 'won’t be enforced strictly' and is 'merely a guideline... to encourage citizens.' There are no police checks, software trackers, or monetary fines. Its primary purpose is moral suasion and behavioural nudge, encouraging families to reflect on screen time."
+      },
+      {
+        "topic": "6. Practical Exemptions for School, Work, and Exercise",
+        "note": "Paragraph 2 clarifies that the proposal will not apply to work or school activities, including online learning or exercising while listening to music. This demonstrates policy practicality: officials distinguish between productive/educational screen time and passive entertainment."
+      },
+      {
+        "topic": "7. The October Timeline and Democratic Process",
+        "note": "The text notes: 'This plan, if approved in October...' This conditional phrasing ('if approved') signals ongoing legislative deliberation rather than an already finalized or implemented statute."
+      },
+      {
+        "topic": "8. Consultation Period and the 80% Opposition Feedback",
+        "note": "During a formal public consultation period, about 80% of submitted feedback was against the proposal. Highlight this striking statistic: it shows a vibrant democratic feedback mechanism where four out of five participating citizens actively pushed back against municipal intrusion into private daily routines."
+      },
+      {
+        "topic": "9. Resident Arguments: Reading and Watching Movies",
+        "note": "Residents specifically argue that two hours is insufficient for culturally enriching or relaxing pastimes like reading digital books or watching a full-length feature film. This illustrates how digital screens now combine essential cultural consumption with casual browsing."
+      },
+      {
+        "topic": "10. The Mayor's Duality: Usefulness versus Social Hazards",
+        "note": "Paragraph 3 highlights the mayor's nuanced perspective: he explicitly recognizes that smartphones are useful tools, yet warns they can lead to students missing school (school absenteeism/truancy) and families spending less time communicating together."
+      },
+      {
+        "topic": "11. Disciplinary Literacy: Guideline versus Legal Mandate",
+        "note": "Teach students to distinguish carefully between an unenforced advisory guideline (moral suasion) and a punitive statutory ban. Many ESL students conflate any government announcement with a criminal law enforced by police; correcting this distinction is essential."
+      },
+      {
+        "topic": "12. Strict Factual Scope and Avoiding Outside Extrapolation",
+        "note": "Caution students against importing outside legal cases (such as Kagawa Prefecture's gaming ordinance), medical screen-time guidelines from the WHO, or invented Japanese constitutional controversies. All writing must be strictly grounded in the 164 words of Source F."
+      },
+      {
+        "topic": "13. Isolation from Prior Source Lessons",
+        "note": "Source F is an isolated study of digital wellness in Unit 5 (Technology, Society & Well-Being). Do not cross-reference AI music (Source E), colonialism in Singapore or Congo (Sources C and D), or earlier environmental units."
+      },
+      {
+        "topic": "14. ESL Scaffolding for G1 and G2 Learners",
+        "note": "For G1 learners, scaffold the debate using a clear binary frame: 'Mayor's Intent (family reflection, less missed school) vs. Resident Resistance (80% against, reading/movies need time)'. For G2 learners, demand sophisticated concession syntax using 'while', 'even though', and precise nominalizations like 'consultation feedback'."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": "1. Hook & Opening (5 mins)",
+        "durationMinutes": 5,
+        "objective": "Engage students with the concept of a government setting a two-hour smartphone guideline and introduce Source F from The Guardian.",
+        "scriptEn": "Good morning, class! Imagine your local mayor announcing that everyone in your town should limit their smartphone use to just two hours a day! How would you react? Today we explore Source F from The Guardian, which takes us to the town of Toyoake in Japan. We will examine why Mayor Masafumi Koki proposed this two-hour guideline, how 80% of residents reacted, and how communities grapple with the balance between useful technology and family well-being.",
+        "scriptKo": "좋은 아침입니다, 여러분! 여러분이 사는 동네의 시장님이 모든 주민에게 하루 스마트폰 사용을 딱 2시간으로 제한하라고 발표한다고 상상해 보세요! 여러분은 어떻게 반응하시겠습니까? 오늘 우리는 The Guardian의 Source F를 통해 일본의 도요아케시로 가봅니다. 고키 마사후미 시장이 왜 이 2시간 지침을 제안했는지, 주민의 80%가 어떻게 반응했는지, 그리고 현대 사회가 유용한 기술과 가족의 안녕 사이에서 어떻게 균형을 잡으려 하는지 함께 살펴볼 것입니다.",
+        "studentActions": "Open the lesson app, read the lesson title and goal, and prepare their notebooks for analytical discussion.",
+        "misconceptionFeedback": "Clarify that the proposed policy is an advisory guideline to encourage reflection, not a criminal law enforced by police fines.",
+        "transition": "Let us begin with our Warm-up questions to examine our own screen habits and the purpose of public guidelines."
+      },
+      {
+        "phase": "2. Warm-up Discussion (10 mins)",
+        "durationMinutes": 10,
+        "objective": "Activate prior knowledge regarding daily screen time, guidelines versus strict laws, and balancing digital benefits with family life.",
+        "scriptEn": "Turn to your partner and examine our three Warm-up questions. Question 1 asks about your typical daily screen routine. Question 2 contrasts a voluntary guideline with a strictly enforced rule. Question 3 asks how communities can balance the undeniable benefits of digital devices with family time and student attendance. Use our sentence starters to frame your answers.",
+        "scriptKo": "짝과 함께 3가지 워밍업 질문을 살펴보세요. 1번 질문은 여러분의 일상적인 화면 사용 시간에 대해 묻습니다. 2번 질문은 자율적인 가이드라인과 엄격하게 집행되는 규칙의 차이를 대조합니다. 3번 질문은 디지털 기기의 명백한 이점과 가족 간의 시간 및 출석 문제 사이에서 공동체가 어떻게 균형을 맞출 수 있는지 묻습니다. 문장 시작 표현을 활용하여 답변을 구성해 보세요.",
+        "studentActions": "Discuss each question in pairs, write short responses using the provided sentence starters, and share viewpoints with the class.",
+        "misconceptionFeedback": "Remind students that public health or community guidelines rely on awareness rather than punitive coercion.",
+        "transition": "Now let us turn to the authentic text of Source F to see exactly what Toyoake is proposing."
+      },
+      {
+        "phase": "3. Article Reading & Integrity Check (12 mins)",
+        "durationMinutes": 12,
+        "objective": "Perform close reading of Source F, verifying paragraph boundaries, factual details, and exact quotations.",
+        "scriptEn": "Let us read Source F together. Follow along carefully as we read the headline and three paragraphs. Notice that Paragraph 1 establishes the town, the 69,000 residents, the two-hour limit, and Mayor Koki's emphasis that this is merely an unenforced guideline. Paragraph 2 highlights work and school exemptions and the 80% opposition in consultation feedback. Paragraph 3 contrasts resident worries about movies and reading with the mayor's concerns about missing school and family time.",
+        "scriptKo": "Source F를 함께 읽어보겠습니다. 제목과 3개 단락을 주의 깊게 따라와 주세요. 1단락은 도요아케시, 69,000명의 주민, 2시간 제한, 그리고 이것이 강제 집행되지 않는 단순한 가이드라인이라는 고키 시장의 설명을 제시합니다. 2단락은 직장과 학교 활동의 예외 적용과 의견 수렴에서 나타난 80%의 반대 의견을 다룹니다. 3단락은 영화와 독서에 대한 주민들의 우려와 결석 및 가족 시간에 대한 시장의 우려를 대조합니다.",
+        "studentActions": "Track the reading, underline key figures (69,000, two hours, 80%), and highlight the mayor's direct quotes.",
+        "misconceptionFeedback": "Emphasize that the ellipses '...' inside the quote are original textual punctuation, not sentence breaks.",
+        "transition": "With the text clearly understood, let us master the 10 essential vocabulary terms in context."
+      },
+      {
+        "phase": "4. Vocabulary in Context (10 mins)",
+        "durationMinutes": 10,
+        "objective": "Master 10 academic and civic terms from Source F, connecting English definitions, Korean meanings, and context examples.",
+        "scriptEn": "Examine our 10 vocabulary terms: propose, smartphone usage, enforce strictly, guideline, residents, lawmakers, consultation period, feedback, against the proposal, and spend time together. Notice how 'guideline' contrasts with 'enforce strictly', and how 'consultation period' provides the setting where 80% of feedback was 'against the proposal'.",
+        "scriptKo": "10개의 어휘를 살펴봅시다: propose(제안하다), smartphone usage(스마트폰 사용량), enforce strictly(엄격히 집행하다), guideline(지침), residents(주민들), lawmakers(지방의원들), consultation period(의견 수렴 기간), feedback(의견/피드백), against the proposal(제안에 반대하는), spend time together(함께 시간을 보내다). 'guideline'이 'enforce strictly'와 어떻게 대조되는지, 그리고 'consultation period' 동안 80%의 피드백이 어떻게 'against the proposal'이었는지 확인하세요.",
+        "studentActions": "Read each term, pronounce it aloud, review the Korean definition and example sentence, and record notes.",
+        "misconceptionFeedback": "Ensure students understand that 'against the proposal' functions as a prepositional phrase expressing direct disagreement.",
+        "transition": "Let us now verify our factual comprehension through the Main Idea question and the 6 Reading Comprehension items."
+      },
+      {
+        "phase": "5. Main Idea & Comprehension Check (18 mins)",
+        "durationMinutes": 18,
+        "objective": "Evaluate understanding of the central thesis and verify 6 factual items with immediate O/X feedback and paragraph citations.",
+        "scriptEn": "First, complete the Main Idea question. Look for the balanced answer that mentions both the non-strict two-hour guideline and the competing perspectives. Next, answer the 6 Reading Comprehension questions. For each question, eliminate distractors that invent fines or outside laws, and verify your answer against the exact sentence in Paragraphs 1, 2, or 3.",
+        "scriptKo": "먼저 주제(Main Idea) 문제를 풀어보세요. 강제 집행되지 않는 2시간 지침과 상충하는 관점들을 모두 담고 있는 균형 잡힌 보기를 찾으세요. 이어서 6개의 독해 확인 문제를 풉니다. 벌금이나 외부 법률을 날조한 오답들을 배제하고, 1, 2, 3단락의 정확한 문장과 일치하는지 대조해 보세요.",
+        "studentActions": "Select answers for the Main Idea and 6 Comprehension MCQs, read the O/X explanations, and note textual references.",
+        "misconceptionFeedback": "Warn students against choosing options that claim phones will be confiscated or that the guideline is a criminal law.",
+        "transition": "Now let us practice extracting and synthesizing direct textual evidence in the Evidence from Text section."
+      },
+      {
+        "phase": "6. Evidence from the Text (12 mins)",
+        "durationMinutes": 12,
+        "objective": "Synthesize textual facts to answer 3 structured prompts, utilizing model comparisons to refine completeness.",
+        "scriptEn": "In the Evidence section, answer our three prompts. Prompt 1 asks what Toyoake is proposing and why Mayor Koki stresses it is an unenforced guideline. Prompt 2 asks about the exemptions and consultation feedback. Prompt 3 explores the balance between smartphone usefulness and social hazards. Write your answer, check the word count, and click 'Compare with Model' to evaluate your work.",
+        "scriptKo": "본문 근거 제시 섹션의 3개 질문에 답해 보세요. 1번은 도요아케시의 제안 내용과 고키 시장이 비강제 지침임을 강조한 이유를 묻습니다. 2번은 예외 조항과 의견 수렴 결과를 묻습니다. 3번은 스마트폰의 유용성과 사회적 위험 사이의 균형을 다룹니다. 답안을 작성한 후 '모범 답안과 비교' 버튼을 눌러 점검하세요.",
+        "studentActions": "Draft written responses in the textareas, monitor word counts, reveal model answers, and self-assess against compare tips.",
+        "misconceptionFeedback": "Ensure students explicitly include the work/school exemptions in Prompt 2 and both reading/movies and missed school in Prompt 3.",
+        "transition": "Let us examine our Language Focus structures before applying them in writing practice."
+      },
+      {
+        "phase": "7. Language Focus, Writing Practice & Final Task (18 mins)",
+        "durationMinutes": 18,
+        "objective": "Apply target structures (modals, passive, reported speech, purpose, while, cause/effect) in 4 practice prompts and draft the final 100–140 word paragraph.",
+        "scriptEn": "Review our Language Focus patterns: modal negatives like 'won’t be enforced strictly', passives like 'is being discussed', reporting frames like 'he explained that', and concessive clauses with 'while'. Complete Writing Practice prompts 1 to 4. Then tackle our Final Writing Task: explain why Toyoake's smartphone guideline is controversial in 100 to 140 words. Include 3 text details, the voluntary guideline, opposing viewpoints, and cause/effect language.",
+        "scriptKo": "'won’t be enforced strictly'와 같은 조동사 부정형, 'is being discussed' 같은 수동태, 'he explained that' 같은 전달 표현, 그리고 'while'을 활용한 양보 구문 등 언어 집중 패턴을 복습하세요. 쓰기 연습 1~4번을 완료한 후 최종 과제에 도전합니다: 도요아케시의 스마트폰 지침이 왜 논란이 되는지 100~140단어로 서술하세요. 본문의 구체적 근거 3개, 자율 지침의 성격, 상반된 관점, 그리고 인과 언어가 반드시 포함되어야 합니다.",
+        "studentActions": "Complete the 4 writing practice exercises, draft the final paragraph, run the rule-based check, and verify the 100–140 word parameter.",
+        "misconceptionFeedback": "Ensure students stay strictly between 100 and 140 words and present both the 80% resident opposition and the mayor's rationale.",
+        "transition": "Finally, verify your work against the six Self-Check criteria before submitting your paragraph."
+      },
+      {
+        "phase": "8. Self-Check & Submission (5 mins)",
+        "durationMinutes": 5,
+        "objective": "Complete the 6 Self-Check validation items, review draft metrics, and submit final work.",
+        "scriptEn": "Check off each of the 6 Self-Check items. Did you base your writing strictly on Source F? Did you explain that the guideline is not strictly enforced? Did you cite 69,000 residents, the October timeline, or the 80% feedback? Is your word count strictly between 100 and 140 words? When all six boxes are checked, click Submit. Excellent civic analysis and academic writing today, Grade 9 scholars!",
+        "scriptKo": "6개의 자체 점검 기준을 하나씩 확인하며 체크하세요. 철저히 Source F에만 근거했나요? 지침이 엄격하게 강제 집행되지 않는다는 점을 설명했나요? 69,000명의 주민, 10월 승인 시점, 또는 80%의 피드백을 인용했나요? 단어 수가 정확히 100~140단어 사이인가요? 6개 항목을 모두 점검했다면 제출 버튼을 누르세요. 오늘 여러분 모두 훌륭한 시민적 분석과 학술적 글쓰기를 완성했습니다, 9학년 여러분!",
+        "studentActions": "Check all 6 Self-Check items, submit work, verify local storage status, and conclude the lesson.",
+        "misconceptionFeedback": "Ensure no student submits before confirming their draft meets the strict 100–140 word parameter.",
+        "transition": "Dismiss class and prepare teacher review based on the analytical writing rubric."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "option": "Option 1: The Two-Hour Device Guideline Hook",
+        "english": "Good morning, scholars. / Imagine unlocking your phone right now / and seeing a message from your local town hall: / 'Please limit your smartphone use to just two hours a day.' / How would you feel? / Would you support it as a healthy community reminder, / or would you reject it as government overreach? / Today we visit the town of Toyoake in Japan, / where Mayor Masafumi Koki proposed this exact guideline / for 69,000 residents. / We will discover how 80% of citizens pushed back, / and why balancing digital convenience with family well-being / has ignited an intense municipal debate.",
+        "directKorean": "좋은 아침입니다, 학생 여러분. / 지금 당장 스마트폰을 잠금 해제했을 때 / 지역 구청에서 보낸 이런 메시지를 본다고 상상해 보세요: / '스마트폰 사용을 하루 딱 2시간으로 제한해 주십시오.' / 여러분은 어떤 기분이 들까요? / 건강한 공동체를 위한 조언으로 지지하시겠습니까, / 아니면 정부의 지나친 간섭이라며 거부하시겠습니까? / 오늘 우리는 일본의 도요아케시를 방문합니다, / 그곳에서 고키 마사후미 시장이 바로 이 지침을 제안했습니다 / 69,000명의 주민들을 위해. / 우리는 주민의 80%가 어떻게 반대했는지, / 그리고 디지털 편의성과 가족의 안녕 사이에서 균형을 잡는 일이 / 왜 치열한 지역적 논쟁을 촉발했는지 알아볼 것입니다.",
+        "naturalKorean": "좋은 아침입니다, 여러분. 지금 스마트폰을 켰을 때 구청에서 '하루 스마트폰 사용을 2시간으로 제한해 주세요'라는 알림이 와 있다면 어떤 기분이 들까요? 건강한 생활을 돕는 좋은 조언이라며 반길까요, 아니면 사생활에 대한 지나친 간섭이라며 불만을 느낄까요? 오늘 우리는 일본의 도요아케시로 가봅니다. 고키 마사후미 시장이 69,000명의 주민을 위해 바로 이 2시간 지침을 제안했기 때문입니다. 주민의 무려 80%가 왜 반대 의견을 냈는지, 유용한 디지털 기기와 소중한 가족 시간 사이에서 어떤 치열한 고민이 오갔는지 함께 살펴보겠습니다.",
+        "purpose": "Hooks student interest through an immediate personal scenario of receiving a municipal screen-time limit."
+      },
+      {
+        "option": "Option 2: Critical Disciplinary & Civic Policy Hook",
+        "english": "Welcome, class. / In Grade 9 academic English, / we evaluate public policies / through careful, evidence-based inquiry. / When local governments address technology habits, / a crucial distinction arises: / is the policy an enforceable legal mandate, / or is it merely an advisory guideline / meant to encourage reflection? / In Source F from The Guardian, / we examine Mayor Koki's proposal in Toyoake, Japan. / We will analyze why exemptions for school and work were included, / why 80% of consultation feedback opposed the measure, / and how municipal leaders balance digital utility against social well-being. / Our goal today / is to write a rigorous analytical paragraph / capturing both sides of this controversy.",
+        "directKorean": "환영합니다, 학생 여러분. / 9학년 학술 영어 수업에서, / 우리는 공공 정책을 평가합니다 / 신중하고 근거 중심의 탐구를 통해. / 지방 정부가 기술 사용 습관을 다룰 때, / 결정적인 차이점이 발생합니다: / 그 정책이 강제 집행 가능한 법적 명령인가, / 아니면 단순한 자율적 지침인가 / 성찰을 독려하기 위한? / The Guardian의 Source F에서, / 우리는 일본 도요아케시 고키 시장의 제안을 검토합니다. / 우리는 왜 학교와 직장 활동에 예외가 포함되었는지, / 왜 의견 수렴 피드백의 80%가 이 조치에 반대했는지, / 그리고 지자체 지도자들이 디지털 유용성과 사회적 안녕 사이에서 어떻게 균형을 잡는지 분석할 것입니다. / 오늘 우리의 목표는 / 엄격하고 분석적인 단락을 작성하는 것입니다 / 이 논란의 양면을 모두 포착해 내는.",
+        "naturalKorean": "환영합니다, 여러분. 9학년 학술 영어 수업에서는 공공 정책을 근거 중심으로 엄밀하게 분석합니다. 지자체가 시민들의 기술 습관에 개입할 때 반드시 짚어야 할 핵심 질문이 있습니다. 바로 이 정책이 벌금을 동반한 강제 법안인지, 아니면 시민 스스로 생각해보게 하는 자율적 권고 지침인지의 여부입니다. The Guardian의 Source F를 통해 우리는 일본 도요아케시의 사례를 살펴봅니다. 학업과 업무 예외 조항에도 불구하고 왜 주민의 80%가 반대했는지, 그리고 시장은 왜 여전히 결석과 가족 소통 단절을 우려하는지 분석하며, 이 논쟁의 양면을 균형 있게 다루는 학술 글쓰기를 완성해 봅시다.",
+        "purpose": "Focuses on civic literacy, distinguishing advisory guidelines from statutory mandates, and evaluating public consultation data."
+      },
+      {
+        "option": "Option 3: Technology, Society & Well-Being Hook",
+        "english": "Hello, everyone. / Look at the central tension in Unit 5: / technology brings incredible power to read, learn, and communicate, / yet it can also pull us away from classrooms and family conversations. / Mayor Masafumi Koki recognized this exact dilemma: / smartphones are useful, / but they can also lead to students missing school / and families spending less time together. / When Toyoake proposed a two-hour guideline, / residents asked: Is two hours enough for a movie or a book? / Today we will master the language of cause, effect, and contrast / so you can explain why this simple guideline / became one of the most talked-about civic debates in Japan.",
+        "directKorean": "안녕하세요, 여러분. / 5단원의 핵심적인 긴장을 보세요: / 기술은 읽고, 배우고, 소통하는 놀라운 힘을 가져오지만, / 동시에 우리를 교실과 가족 간의 대화로부터 멀어지게 만들 수도 있습니다. / 고키 마사후미 시장은 이 정확한 딜레마를 인식했습니다: / 스마트폰은 유용하지만, / 학생들이 학교를 결석하게 만들고 / 가족들이 함께 보내는 시간을 줄어들게 할 수도 있다고. / 도요아케시가 2시간 지침을 제안했을 때, / 주민들은 물었습니다: 2시간이 영화 한 편이나 책 한 권 보기에 충분한가? / 오늘 우리는 원인, 결과, 대조의 언어를 마스터할 것입니다 / 여러분이 왜 이 단순한 지침이 / 일본에서 가장 뜨겁게 논의된 시민적 논쟁 중 하나가 되었는지 설명할 수 있도록.",
+        "naturalKorean": "안녕하세요, 여러분. 5단원의 핵심 주제를 생각해 봅시다. 디지털 기술은 우리에게 끝없는 학습과 소통의 기회를 주지만, 동시에 교실 출석을 방해하고 가족과의 소중한 대화를 앗아가기도 합니다. 고키 마사후미 시장 역시 이 딜레마를 잘 알고 있었습니다. 스마트폰이 매우 유용하지만, 학생들의 결석을 유발하고 가족이 함께하는 시간을 줄일 수 있다는 점을 인정한 것입니다. 반면 주민들은 2시간이 영화를 보거나 독서를 하기에 턱없이 부족하다고 호소했습니다. 오늘 우리는 원인과 결과, 대조를 나타내는 정확한 영어 표현을 익혀 이 흥미로운 논쟁을 멋진 학술 단락으로 서술해 볼 것입니다.",
+        "purpose": "Connects directly to the Unit 5 overarching theme of technology, society, and well-being."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "focus": "Personal Screen Routines and Daily Digital Habits",
+        "teacherTalk": "Encourage students to estimate their actual daily device hours honestly. Ask: Between messaging friends, listening to music, watching videos, studying online, and gaming, how many hours do you realistically accumulate? Point out that many people are surprised to discover their daily screen time easily exceeds four to six hours, which helps them appreciate why a two-hour limit would feel very restrictive.",
+        "sampleStudentAnswer": "On a typical day, I usually spend about four to five hours on screen devices, mainly for watching videos, texting classmates, and completing homework assignments.",
+        "followUpQuestion": "If you were asked to cut your non-school device time down to just two hours today, what specific digital activity would you sacrifice first?"
+      },
+      "q2": {
+        "focus": "Advisory Guidelines versus Enforceable Legal Rules",
+        "teacherTalk": "Clarify the civic and legal distinction between advisory standards and mandatory statutes. An enforceable rule carries legal authority, monitoring mechanisms, and penalties (like traffic tickets or school detentions). A guideline, like Toyoake's, is an educational recommendation designed to prompt self-reflection and social mindfulness without punishment.",
+        "sampleStudentAnswer": "While a strict legal rule requires compliance through official penalties like fines, a voluntary public guideline focuses on raising awareness and helping citizens voluntarily rethink their habits.",
+        "followUpQuestion": "Do you think voluntary guidelines are effective at changing human habits, or do people simply ignore recommendations that lack penalties?"
+      },
+      "q3": {
+        "focus": "Balancing Digital Benefits with Social and Educational Well-Being",
+        "teacherTalk": "Guide students to examine trade-offs. Digital devices provide indispensable educational resources, exercise motivation through music, and global knowledge. However, unregulated usage can erode family interactions, disrupt sleep, and lead to school absenteeism. Emphasize that finding balance requires setting intentional boundaries rather than imposing blanket bans.",
+        "sampleStudentAnswer": "Communities can balance technology benefits with social well-being by creating practical exemptions for education and exercise while encouraging families to establish screen-free mealtimes and bedtime routines.",
+        "followUpQuestion": "Why did Mayor Koki specifically choose to exempt online learning and exercise music from the proposed two-hour smartphone limit?"
+      }
+    },
+    "sourceReadingGuide": {
+      "sourceLayout": "Source F consists of a title ('Japanese Town Wants Limits on Smartphone Use') followed by three distinct paragraphs and an official source line ('Source: The Guardian'). Paragraph 1 introduces the town of Toyoake, its 69,000 residents, the two-hour proposal, and Mayor Masafumi Koki's explanation that it is an unenforced guideline. Paragraph 2 details the October timeline, work/school exemptions, and the 80% opposition in consultation feedback. Paragraph 3 details resident concerns regarding reading and movies, alongside the mayor's warnings about useful devices leading to missed school and less family time.",
+      "citationGuidance": "Source: The Guardian. Note that The Guardian is an international news organization known for objective civic reporting on global social trends and local government policies.",
+      "paragraphBoundaries": "Preserve the 3-paragraph structure strictly. Ensure the title and the final 'Source: The Guardian' note are rendered distinctly from the three body paragraphs.",
+      "historicalSequence": "Mayor Masafumi Koki suggests two-hour smartphone guideline -> Local lawmakers discuss proposal for Toyoake's 69,000 residents -> Clarification that limit will not be strictly enforced -> Plan scheduled for potential October approval with work/school exemptions -> Public consultation period held -> About 80% of feedback opposes the proposal -> Residents cite insufficient time for reading and movies -> Mayor recognizes device utility while warning of missed school and diminished family time.",
+      "resourceCauseEffectChain": "Proliferation of Smartphones -> Increased Device Usage in Families -> Mayor Suggests 2-Hour Daily Guideline -> Public Consultation Period -> 80% Citizen Pushback (Reading/Movies Need Time) -> Administrative Defense: Advisory Nature, Work/School Exemptions, Protecting School Attendance and Family Cohesion.",
+      "finalMetaphor": "The author contrasts the undeniable utility of smartphones ('smartphones are useful') against their subtle social harms ('lead to students missing school or families spending less time together'). The guideline is described by the mayor as 'merely a guideline... to encourage citizens.'"
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "propose",
+        "smartphone usage",
+        "residents",
+        "lawmakers",
+        "enforce strictly",
+        "guideline",
+        "encourage citizens",
+        "exemptions",
+        "consultation period",
+        "feedback against the proposal"
+      ],
+      "paradoxStructures": [
+        "Even though the mayor emphasized that the two-hour limit would not be strictly enforced, about 80% of consultation feedback was against the proposal.",
+        "While smartphones are recognized as useful tools for learning and music, excessive screen time can also lead to students missing school.",
+        "Although the municipal guideline exempts work and school activities, residents argue that two hours is still insufficient for reading or watching movies."
+      ],
+      "causeEffectLanguage": [
+        "after being suggested by Mayor Masafumi Koki, the plan is being discussed by local lawmakers",
+        "it is meant to help families think about how much time they spend on devices",
+        "excessive smartphone usage can also lead to students missing school or families spending less time together",
+        "consequently, about 80% of feedback during the consultation period opposed the guideline"
+      ],
+      "passiveVoiceFormulas": [
+        "is proposing a plan to limit smartphone usage",
+        "is being discussed by the local lawmakers",
+        "after being suggested by Mayor Masafumi Koki",
+        "won’t be enforced strictly",
+        "is meant to help families think about device time"
+      ],
+      "chronologicalSequencing": [
+        "Initially, Mayor Masafumi Koki suggested a two-hour smartphone guideline for Toyoake's 69,000 residents...",
+        "Following this suggestion, the idea began being discussed by local lawmakers...",
+        "During the subsequent public consultation period, about 80% of feedback opposed the measure...",
+        "Looking ahead to potential approval in October, officials clarified that work and school activities would remain exempt..."
+      ],
+      "contrastMarkers": [
+        "He explained that the limit won’t be enforced strictly; however, many residents remain skeptical...",
+        "While smartphones are useful, they can also lead to students missing school...",
+        "In contrast to strict legal prohibitions, this policy is merely an advisory guideline...",
+        "On the one hand, residents argue two hours is inadequate for reading or movies; on the other hand, the mayor worries about lost family time..."
+      ],
+      "attributionPhrases": [
+        "According to the article,",
+        "As reported by The Guardian,",
+        "Mayor Masafumi Koki explained that,",
+        "The mayor recognizes that while smartphones are useful,"
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence: State that Toyoake's proposed smartphone guideline is controversial because it attempts to regulate personal digital routines despite strong public opposition.",
+        "2. Proposal Details: Detail the proposal for Toyoake's 69,000 residents, the two-hour limit, and Mayor Koki's explanation that it is an unenforced advisory guideline.",
+        "3. Exemptions & Public Opposition: Explain the work/school exemptions alongside the fact that about 80% of consultation feedback was against the proposal (insufficient time for reading/movies).",
+        "4. Mayoral Rationale: Present the mayor's balanced reasoning—acknowledging phone utility while warning about missed school and lost family time.",
+        "5. Concluding Synthesis: Conclude with a balanced summary of the ongoing tension between municipal wellness advice and personal digital freedom."
+      ],
+      "sentenceStarters": [
+        "According to the article, the town of Toyoake in Japan is proposing...",
+        "Suggested by Mayor Masafumi Koki, the plan aims to...",
+        "Although officials clarified that the limit won’t be enforced strictly and exempts work or school...",
+        "Public reaction during the consultation period was overwhelmingly critical, with about 80% of feedback...",
+        "While residents worry that two hours is not enough for reading or watching movies, the mayor argues that...",
+        "Ultimately, the controversy reflects the delicate balance between recognizing useful technology and..."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "error": "Toyoake police will arrest all 69,000 residents if they touch phone over two hours.",
+          "correction": "Mayor Masafumi Koki explained that the two-hour limit won’t be enforced strictly, as it is merely an advisory guideline meant to encourage families to reflect on screen time.",
+          "explanation": "Korean ESL students frequently confuse local advisory guidelines with criminal laws. The text explicitly states the limit 'won’t be enforced strictly' and is 'merely a guideline'—there are no police arrests or legal fines."
+        },
+        {
+          "error": "The plan bans online learning and exercise music in October.",
+          "correction": "If approved in October, the plan won’t apply to work or school activities, like online learning or exercising while listening to music.",
+          "explanation": "Watch out for negative auxiliary meaning: 'won’t apply to' means those activities are exempted from the limit, not that they are banned."
+        },
+        {
+          "error": "All people in Japan voted 80% against smartphones forever.",
+          "correction": "About 80% of feedback during Toyoake's local consultation period was against the two-hour guideline proposal.",
+          "explanation": "Do not generalize local consultation feedback to an entire nation or an absolute ban on phones; the 80% opposition was specific to the feedback submitted during Toyoake's consultation period."
+        },
+        {
+          "error": "Mayor Koki hates smartphones and says they have zero use for students.",
+          "correction": "The mayor recognizes that while smartphones are useful, they can also lead to students missing school or families spending less time together.",
+          "explanation": "The text demonstrates balanced reasoning: the mayor explicitly acknowledges that smartphones 'are useful', while pointing out specific hazards like absenteeism and diminished family interaction."
+        }
+      ],
+      "g1Scaffold": "Provide a structured sentence frame: 'According to the article, Toyoake is proposing a two-hour smartphone guideline for 69,000 residents. Mayor Koki explained that it won’t be strictly enforced and exempts work and school. However, about 80% of feedback was against the proposal because residents worry two hours is not enough for reading or movies. In contrast, the mayor warns that smartphones can lead to missing school and less family time.'",
+      "g2Extension": "Prompt advanced students to analyze the civic tension between municipal paternalism and personal autonomy: how local governments use 'moral suasion' and voluntary nudges to address public welfare issues without infringing upon individual legal rights.",
+      "teacherCorrectionPriorities": [
+        "Strictly enforce the 100–140 word parameter (penalize drafts under 100 or over 140 words).",
+        "Verify explicit source attribution ('According to the article' or 'As reported by The Guardian').",
+        "Ensure at least three distinct textual details are cited (e.g., Toyoake, 69,000 residents, Mayor Masafumi Koki, October approval, work/school exemptions, 80% opposition).",
+        "Check that the unenforced, advisory nature of the guideline is clearly stated.",
+        "Confirm that both resident opposition (reading/movies, 80% against) and the mayor's concerns (missed school, less family time) are balanced."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source F consists of exactly three paragraphs and 8 sentences. Below is the complete sentence-by-sentence analytical guide featuring slash-chunked reading, direct and natural Korean translations, must-know vocabulary and grammar breakdowns, Feynman-style pedagogical explanations, and classroom teaching transcripts.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "original": "The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day!",
+          "chunkReading": "The town of Toyoake in Japan / is proposing a plan / to limit smartphone usage / for its 69,000 residents / to just two hours a day!",
+          "directKorean": "일본의 도요아케시는 / 계획을 제안하고 있습니다 / 스마트폰 사용을 제한하기 위한 / 69,000명의 주민들을 위해 / 하루에 단 2시간으로!",
+          "naturalKorean": "일본의 도요아케시가 69,000명의 주민들을 대상으로 스마트폰 사용을 하루 단 2시간으로 제한하는 방안을 추진하고 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "is proposing a plan",
+              "meaning": "계획(방안)을 제안[추진]하고 있다",
+              "use": "present continuous active verb phrase showing an active municipal initiative",
+              "example": "The city council is proposing a plan to construct new bicycle lanes."
+            },
+            {
+              "chunk": "to limit smartphone usage",
+              "meaning": "스마트폰 사용(량)을 제한하기 위한",
+              "use": "infinitive phrase indicating the specific regulatory purpose of the plan",
+              "example": "Many parents decide to limit smartphone usage during weeknight study hours."
+            },
+            {
+              "chunk": "to just two hours a day",
+              "meaning": "하루에 단 2시간으로",
+              "use": "prepositional phrase expressing a quantitative time cap with the restrictive adverb 'just'",
+              "example": "Doctors recommend restricting recreational screen time to just two hours a day."
+            }
+          ],
+          "mustKnowGrammar": "Subject noun phrase ('The town of Toyoake in Japan') followed by present continuous verb ('is proposing'); direct object ('a plan') modified by an infinitive phrase of restriction ('to limit smartphone usage... to just two hours a day').",
+          "feynmanExplanation": "Imagine a whole town where the leaders say: / 'Hey everyone, let us try not to use our phones for more than two hours every day!' / That is exactly what this town in Japan is suggesting to all 69,000 people living there.",
+          "feynmanExplanationKo": "마을 지도자들이 다 함께 모여 이렇게 말한다고 상상해 보세요: / '여러분, 우리 모두 스마트폰을 하루에 2시간 넘게 쓰지 않도록 해봅시다!' / 일본의 한 도시가 그곳에 사는 69,000명의 모든 주민들에게 제안하고 있는 내용이 바로 이것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at Sentence 1: 'The town of Toyoake in Japan is proposing a plan to limit smartphone usage for its 69,000 residents to just two hours a day!' Notice the exclamation mark.",
+              "korean": "1번 문장을 보세요: '일본의 도요아케시가 69,000명의 주민들을 위해 스마트폰 사용을 하루 단 2시간으로 제한하는 계획을 제안하고 있습니다!' 느낌표에 주목하세요."
+            },
+            {
+              "english": "What is the town's name, and how many people live there? Toyoake, and 69,000 residents.",
+              "korean": "도시의 이름은 무엇이고, 몇 명의 주민이 살고 있나요? 도요아케이며, 69,000명의 주민입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "original": "This idea is being discussed by the local lawmakers after being suggested by Mayor Masafumi Koki.",
+          "chunkReading": "This idea / is being discussed by the local lawmakers / after being suggested / by Mayor Masafumi Koki.",
+          "directKorean": "이 아이디어는 / 지방 의원들에 의해 논의되고 있습니다 / 제안된 이후에 / 고키 마사후미 시장에 의해.",
+          "naturalKorean": "이 구상은 고키 마사후미 시장이 제안한 뒤, 현재 지역 지방 의원들에 의해 논의되고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "is being discussed by",
+              "meaning": "~에 의해 논의되고 있다",
+              "use": "present continuous passive voice expressing ongoing legislative deliberation",
+              "example": "The environmental regulation is being discussed by municipal representatives."
+            },
+            {
+              "chunk": "after being suggested by",
+              "meaning": "~에 의해 제안된 이후에",
+              "use": "preposition followed by passive gerund showing the originator of an idea",
+              "example": "The budget review began after being suggested by the finance committee."
+            },
+            {
+              "chunk": "local lawmakers",
+              "meaning": "지역 입법자들 (지방의회 의원들)",
+              "use": "noun phrase referring to municipal councilors or local legislative officials",
+              "example": "Local lawmakers voted to approve funding for the new community park."
+            }
+          ],
+          "mustKnowGrammar": "Demonstrative subject ('This idea') with present continuous passive ('is being discussed by the local lawmakers'); temporal prepositional clause with passive gerund ('after being suggested by Mayor Masafumi Koki').",
+          "feynmanExplanation": "The town's mayor, Mr. Koki, came up with the idea first, / and now the local town council members are sitting down together / to talk about whether it is a good plan or not.",
+          "feynmanExplanationKo": "이 도시의 시장인 고키 씨가 먼저 이 아이디어를 냈고, / 지금은 지역 시의원들이 다 함께 둘러앉아 / 이것이 좋은 계획인지 아닌지 진지하게 이야기하고 있는 중입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Who suggested the plan, and who is discussing it now? Mayor Masafumi Koki suggested it, and local lawmakers are discussing it.",
+              "korean": "누가 이 계획을 제안했고, 지금 누가 논의하고 있나요? 고키 마사후미 시장이 제안했고, 지방 의원들이 논의하고 있습니다."
+            },
+            {
+              "english": "Notice the passive voice: 'is being discussed' and 'after being suggested'. This highlights the democratic deliberative process.",
+              "korean": "'is being discussed'와 'after being suggested'라는 수동태에 주목하세요. 이는 민주적인 심의 과정을 잘 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "original": "He explained that the limit won’t be enforced strictly; it’s meant to help families think about how much time they spend on devices.",
+          "chunkReading": "He explained that / the limit won’t be enforced strictly; / it’s meant to help families / think about how much time / they spend on devices.",
+          "directKorean": "그는 설명했습니다 / 그 제한이 엄격하게 집행되지는 않을 것이라고; / 그것은 가족들을 돕기 위한 취지라고 / 얼마나 많은 시간을 / 그들이 전자기기에 쓰고 있는지 생각해보도록.",
+          "naturalKorean": "그는 이 제한이 엄격하게 강제 집행되지는 않을 것이며, 가족들이 전자기기에 얼마나 많은 시간을 쓰는지 스스로 돌아보도록 돕기 위한 취지라고 설명했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "won’t be enforced strictly",
+              "meaning": "엄격하게 강제 집행되지는 않을 것이다",
+              "use": "negative modal passive indicating that adherence will not involve fines or punishment",
+              "example": "The library rule won’t be enforced strictly, serving only as a polite reminder."
+            },
+            {
+              "chunk": "it’s meant to help",
+              "meaning": "~를 돕기 위한 취지이다 [의도된 것이다]",
+              "use": "passive purpose idiom explaining the constructive aim behind a measure",
+              "example": "The community seminar is meant to help residents manage their household budgets."
+            },
+            {
+              "chunk": "spend on devices",
+              "meaning": "전자기기에 (시간을) 쓰다",
+              "use": "verb phrase describing time allocation across digital gadgets like phones and tablets",
+              "example": "Teenagers often underestimate how much time they spend on devices each weekend."
+            }
+          ],
+          "mustKnowGrammar": "Main clause with reporting verb ('He explained that...'); noun complement clause containing future negative passive ('the limit won’t be enforced strictly'); semicolon connecting a coordinated clause with passive purpose structure ('it’s meant to help families think...') and embedded indirect question ('how much time they spend on devices').",
+          "feynmanExplanation": "The mayor promised that police will not go around checking people's phones. / Instead, the rule is just like a helpful nudge / to get moms, dads, and kids talking about how much they stare at screens.",
+          "feynmanExplanationKo": "시장님은 경찰이 돌아다니며 사람들의 휴대폰을 일일이 검사하지는 않을 것이라고 약속했습니다. / 대신 이 규칙은 부모님과 자녀들이 화면을 얼마나 오래 쳐다보고 있는지 / 함께 이야기를 나누어보도록 돕는 유익한 조언과 같은 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the semicolon in Sentence 3. The mayor clarifies two key points: first, it will not be enforced strictly; second, it is meant to prompt family reflection.",
+              "korean": "3번 문장의 세미콜론을 보세요. 시장은 두 가지 핵심을 명확히 합니다: 첫째, 엄격히 강제되지 않을 것이며, 둘째, 가족의 성찰을 돕기 위한 취지라는 점입니다."
+            },
+            {
+              "english": "Why is the phrase 'won’t be enforced strictly' so essential? Because it proves this is an advisory guideline, not a criminal ban.",
+              "korean": "'won’t be enforced strictly'라는 어구가 왜 그렇게 중요할까요? 이것이 형사적 금지령이 아니라 권고 지침임을 증명하기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "original": "“The two-hour limit... is merely a guideline... to encourage citizens,” he said.",
+          "chunkReading": "“The two-hour limit... / is merely a guideline... / to encourage citizens,” / he said.",
+          "directKorean": "“2시간 제한은... / 단지 가이드라인일 뿐입니다... / 시민들을 격려하기 위한,” / 그가 말했습니다.",
+          "naturalKorean": "“2시간 제한은... 시민들을 독려하기 위한... 지침에 불과합니다”라고 그는 말했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "merely a guideline",
+              "meaning": "단지 지침(가이드라인)일 뿐인",
+              "use": "limiting adverb 'merely' emphasizing the voluntary, non-punitive nature of the standard",
+              "example": "The teacher stressed that the reading schedule was merely a guideline for pacing."
+            },
+            {
+              "chunk": "to encourage citizens",
+              "meaning": "시민들을 독려[격려]하기 위한",
+              "use": "infinitive phrase of purpose highlighting positive motivation rather than coercion",
+              "example": "The mayor launched the fitness challenge to encourage citizens to exercise regularly."
+            }
+          ],
+          "mustKnowGrammar": "Direct quotation with original ellipses indicating non-sentence pauses/omissions; copula ('is') followed by predicate noun phrase with adverbial modifier ('merely a guideline') and infinitive of purpose ('to encourage citizens'); reporting tag ('he said').",
+          "feynmanExplanation": "The mayor said in his own words: / 'Do not worry, we are not punishing you! / This is just a friendly tip to encourage everyone in our town to make healthier choices.'",
+          "feynmanExplanationKo": "시장님은 자신의 말로 이렇게 확인해 주었습니다: / '걱정하지 마세요, 여러분을 처벌하려는 것이 아닙니다! / 우리 동네의 모든 분들이 더 건강한 선택을 하도록 격려하는 친절한 조언일 뿐입니다.'",
+          "teachingTranscript": [
+            {
+              "english": "Notice the ellipses '...' inside the quote. Do they create new sentences? No! They are pauses in the spoken quotation.",
+              "korean": "따옴표 안의 말줄임표 '...'를 보세요. 이것이 새로운 문장을 만드나요? 아닙니다! 인용된 말 속의 쉼표나 생략을 나타낼 뿐입니다."
+            },
+            {
+              "english": "What word does Mayor Koki use to describe the limit? 'merely a guideline'. 'Merely' means 'only' or 'just'.",
+              "korean": "고키 시장은 그 제한을 설명하기 위해 어떤 단어를 사용하나요? 'merely a guideline'입니다. 'Merely'는 '단지 ~에 불과한'이라는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "original": "This plan, if approved in October, won’t apply to work or school activities, like online learning or exercising while listening to music.",
+          "chunkReading": "This plan, / if approved in October, / won’t apply to work or school activities, / like online learning / or exercising while listening to music.",
+          "directKorean": "이 계획은, / 만약 10월에 승인된다면, / 직장이나 학교 활동에는 적용되지 않을 것입니다, / 온라인 학습이나 / 음악을 들으며 운동하는 것과 같은.",
+          "naturalKorean": "만약 10월에 승인된다 하더라도, 이 계획은 온라인 학습이나 음악을 들으며 운동하는 것과 같은 직장이나 학교 활동에는 적용되지 않을 것입니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "if approved in October",
+              "meaning": "만약 10월에 승인된다면",
+              "use": "parenthetical conditional clause indicating the projected legislative timeline",
+              "example": "The municipal budget, if approved in October, will take effect next spring."
+            },
+            {
+              "chunk": "won’t apply to",
+              "meaning": "~에는 적용되지 않을 것이다",
+              "use": "negative modal verb phrase explicitly establishing regulatory exemptions",
+              "example": "The quiet-hour rules won’t apply to official emergency response vehicles."
+            },
+            {
+              "chunk": "exercising while listening to music",
+              "meaning": "음악을 들으며 운동하는 것",
+              "use": "gerund phrase with temporal preposition clause describing simultaneous physical and digital activity",
+              "example": "Many runners enjoy exercising while listening to music through wireless headphones."
+            }
+          ],
+          "mustKnowGrammar": "Subject ('This plan') interrupted by parenthetical conditional clause ('if approved in October'); modal negative predicate ('won’t apply to work or school activities'); prepositional exemplar phrase introduced by 'like' coordinating two gerund phrases ('online learning or exercising while listening to music').",
+          "feynmanExplanation": "If this plan passes in October, you do not need to worry about schoolwork! / Doing homework online or playing songs on your phone while jogging / does not count against your two hours at all.",
+          "feynmanExplanationKo": "이 계획이 10월에 통과되더라도 학교 공부에 대해서는 전혀 걱정할 필요가 없습니다! / 온라인으로 과제를 하거나 조깅하면서 휴대폰으로 음악을 틀어놓는 것은 / 2시간 제한에 전혀 포함되지 않기 때문입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Sentence 5 gives crucial policy exceptions. What activities are exempt? Work and school activities, including online learning and exercising while listening to music.",
+              "korean": "5번 문장은 매우 중요한 정책적 예외를 제시합니다. 어떤 활동들이 면제되나요? 온라인 학습과 음악을 들으며 운동하는 것을 포함한 직장 및 학교 활동입니다."
+            },
+            {
+              "english": "When might the plan be approved? In October. Notice the conditional 'if approved'.",
+              "korean": "그 계획은 언제 승인될 수 있나요? 10월입니다. 'if approved'라는 조건 표현에 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "original": "Many residents are sharing their thoughts, and about 80% of feedback during a consultation period was against the proposal.",
+          "chunkReading": "Many residents are sharing their thoughts, / and about 80% of feedback / during a consultation period / was against the proposal.",
+          "directKorean": "많은 주민들이 자신들의 생각을 나누고 있으며, / 약 80%의 피드백이 / 의견 수렴 기간 동안의 / 그 제안에 반대했습니다.",
+          "naturalKorean": "많은 주민들이 의견을 활발히 나누고 있는 가운데, 의견 수렴 기간 동안 접수된 피드백의 약 80%가 이 제안에 반대하는 입장이었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "sharing their thoughts",
+              "meaning": "자신들의 생각[의견]을 나누고 있는",
+              "use": "idiomatic present continuous phrase describing public civic participation",
+              "example": "Citizens attended the town hall, actively sharing their thoughts on property zoning."
+            },
+            {
+              "chunk": "during a consultation period",
+              "meaning": "의견 수렴(공청회) 기간 동안에",
+              "use": "temporal prepositional phrase identifying an official public engagement window",
+              "example": "Over five hundred letters were received during a consultation period last month."
+            },
+            {
+              "chunk": "about 80% of feedback was against the proposal",
+              "meaning": "피드백의 약 80%가 그 제안에 반대했다",
+              "use": "quantitative statistical clause indicating substantial public opposition",
+              "example": "Surveys revealed that about 80% of feedback was against the proposal to close the library."
+            }
+          ],
+          "mustKnowGrammar": "Compound sentence joined by coordinating conjunction ('and'); first clause in present continuous ('Many residents are sharing their thoughts'); second clause with quantitative percentage subject ('about 80% of feedback during a consultation period') and prepositional complement ('was against the proposal').",
+          "feynmanExplanation": "The town asked citizens: 'What do you think of this idea?' / People spoke up loudly! / Eight out of every ten people said: 'No, we do not want this smartphone rule!'",
+          "feynmanExplanationKo": "시에서 시민들에게 물었습니다: '이 아이디어에 대해 어떻게 생각하시나요?' / 시민들은 분명하게 목소리를 냈습니다! / 열 명 중 여덟 명이 이렇게 답한 것입니다: '아니요, 우리는 이런 스마트폰 규칙을 원치 않습니다!'",
+          "teachingTranscript": [
+            {
+              "english": "Look at the proportion in Sentence 6: 'about 80% of feedback during a consultation period was against the proposal.' That is four out of five responses opposing the guideline!",
+              "korean": "6번 문장의 비율을 보세요: '의견 수렴 기간 동안 피드백의 약 80%가 그 제안에 반대했습니다.' 5명 중 4명이 이 지침에 반대한 것입니다!"
+            },
+            {
+              "english": "What does this tell us about the democratic process in Toyoake? Residents actively participate in public consultations and express strong dissent.",
+              "korean": "이것이 도요아케시의 민주적 절차에 대해 무엇을 말해주나요? 주민들이 공공 의견 수렴에 적극적으로 참여하고 강력한 반대 의사를 표현한다는 점입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "original": "Some people worry that two hours isn’t enough for activities like reading or watching a movie.",
+          "chunkReading": "Some people worry that / two hours isn’t enough / for activities / like reading or watching a movie.",
+          "directKorean": "어떤 사람들은 걱정합니다 / 2시간은 충분하지 않다고 / 활동들을 하기에 / 독서나 영화 감상과 같은.",
+          "naturalKorean": "어떤 이들은 독서나 영화 감상 같은 여가 활동을 즐기기에는 2시간이 턱없이 부족하다고 우려합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "worry that two hours isn’t enough",
+              "meaning": "2시간이 충분하지 않다고 걱정하다",
+              "use": "mental verb followed by that-clause stating a specific practical objection",
+              "example": "Commuters worry that thirty minutes isn’t enough time to catch the connecting train."
+            },
+            {
+              "chunk": "for activities like reading or watching a movie",
+              "meaning": "독서나 영화 감상과 같은 활동들에",
+              "use": "prepositional phrase with examples illustrating culturally legitimate screen usage",
+              "example": "Tablets are commonly used for activities like reading or watching a movie during travel."
+            }
+          ],
+          "mustKnowGrammar": "Indefinite plural subject ('Some people'); reporting/mental verb ('worry'); noun complement clause introduced by 'that' with singular duration subject ('two hours') taking singular contracted verb ('isn’t enough'); prepositional phrase specifying activities with coordinating gerunds ('reading or watching a movie').",
+          "feynmanExplanation": "A lot of folks said: 'Wait a second! A movie takes two full hours all by itself! / And what if I am reading an e-book on my tablet? / Two hours is just way too short for normal hobbies!'",
+          "feynmanExplanationKo": "많은 사람들이 이렇게 말했습니다: '잠깐만요! 영화 한 편만 봐도 꼬박 2시간이 걸리잖아요! / 태블릿으로 전자책을 읽고 있다면 어떡하고요? / 평범한 취미 생활을 하기에도 2시간은 너무 짧습니다!'",
+          "teachingTranscript": [
+            {
+              "english": "Why do some residents oppose the two-hour limit? Because two hours isn't enough for activities like reading an e-book or watching a movie.",
+              "korean": "일부 주민들이 왜 2시간 제한에 반대하나요? 전자책을 읽거나 영화를 보는 등의 활동을 하기에 2시간이 충분하지 않기 때문입니다."
+            },
+            {
+              "english": "Notice the grammar of 'two hours isn't enough': a quantity of time is treated as a singular unit here.",
+              "korean": "'two hours isn't enough'의 문법에 주목하세요: 시간의 양은 여기서 단수 단위로 취급됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "original": "The mayor recognizes that while smartphones are useful, they can also lead to students missing school or families spending less time together.",
+          "chunkReading": "The mayor recognizes that / while smartphones are useful, / they can also lead to / students missing school / or families spending less time together.",
+          "directKorean": "시장은 인정합니다 / 스마트폰이 유용하지만, / 그것들이 또한 초래할 수 있다는 점을 / 학생들이 학교를 결석하거나 / 가족들이 함께 보내는 시간이 줄어드는 것을.",
+          "naturalKorean": "시장은 스마트폰이 유용하다는 점을 인정하면서도, 한편으로는 학생들이 학교를 결석하게 되거나 가족들이 함께 보내는 시간이 줄어드는 결과로 이어질 수도 있다는 점을 짚고 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "recognizes that while",
+              "meaning": "~인 한편 ~라는 점을 인정하다",
+              "use": "reporting verb introducing a concessive subordinate clause followed by the main assertion",
+              "example": "The principal recognizes that while digital tablets assist learning, they can also cause distraction."
+            },
+            {
+              "chunk": "can also lead to",
+              "meaning": "또한 ~로 이어질[초래할] 수 있다",
+              "use": "modal causal phrasal verb linking technology habits to negative social consequences",
+              "example": "Late-night gaming can also lead to students arriving exhausted at school."
+            },
+            {
+              "chunk": "students missing school",
+              "meaning": "학생들이 학교를 결석하는 것",
+              "use": "noun phrase with participle/gerund expressing chronic student absenteeism",
+              "example": "Officials expressed concern about students missing school due to unregulated internet addictions."
+            },
+            {
+              "chunk": "families spending less time together",
+              "meaning": "가족들이 함께 보내는 시간이 줄어드는 것",
+              "use": "noun phrase with participle describing weakened domestic communication and cohesion",
+              "example": "Silent dinner tables show families spending less time together in direct conversation."
+            }
+          ],
+          "mustKnowGrammar": "Subject ('The mayor') followed by cognitive reporting verb ('recognizes'); complement clause introduced by 'that' containing a concessive dependent clause introduced by 'while' ('while smartphones are useful'); main clause with modal auxiliary ('can also lead to') governing two parallel gerund phrases with overt semantic subjects ('students missing school or families spending less time together').",
+          "feynmanExplanation": "The mayor says: 'Look, I know phones are super helpful in our daily lives. / But when kids stay up all night on screens, they miss school the next morning, / and parents and children stop having real conversations together.'",
+          "feynmanExplanationKo": "시장님은 이렇게 말합니다: '저도 휴대폰이 일상생활에서 매우 편리하다는 것을 잘 압니다. / 하지만 밤새 화면만 보다가 다음 날 학교를 결석하는 학생들이 생기고, / 부모와 자녀가 마주 보고 진솔한 대화를 나누는 시간이 점점 사라지고 있습니다.'",
+          "teachingTranscript": [
+            {
+              "english": "Examine the closing sentence: 'The mayor recognizes that while smartphones are useful, they can also lead to students missing school or families spending less time together.'",
+              "korean": "마지막 문장을 살펴보세요: '시장은 스마트폰이 유용하지만, 학생들이 학교를 결석하거나 가족들이 함께 보내는 시간이 줄어드는 결과로 이어질 수도 있다는 점을 인정합니다.'"
+            },
+            {
+              "english": "Notice how 'while' balances both sides: phones are useful, but excessive use creates school absenteeism and weakens family bonds.",
+              "korean": "'while'이 어떻게 양면의 균형을 맞추는지 주목하세요: 휴대폰은 유용하지만, 과도한 사용은 학생 결석을 초래하고 가족 간의 유대를 약화시킵니다."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
