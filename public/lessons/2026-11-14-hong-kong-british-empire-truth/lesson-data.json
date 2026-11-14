@@ -14,19 +14,22 @@
         "id": "wu1",
         "topic": "Race, Power, and Legal Rights",
         "question": "How do ruling authorities historically use racial or ethnic differences to justify treating groups of people unequally under the law?",
-        "promptKo": "지배 권력은 역사적으로 민족이나 인종의 차이를 어떻게 이용하여 법 앞에서 사람들을 불평등하게 대우하는 것을 정당화했는가?"
+        "promptKo": "지배 권력은 역사적으로 민족이나 인종의 차이를 어떻게 이용하여 법 앞에서 사람들을 불평등하게 대우하는 것을 정당화했는가?",
+        "sentenceStarter": "In many historical contexts, ruling authorities justified inequality by claiming that..."
       },
       {
         "id": "wu2",
         "topic": "Comparing Political Systems (Hong Kong vs. Mainland China)",
         "question": "When analyzing colonial Hong Kong, why is it also important to examine the political and social conditions in mainland China during the same historical period?",
-        "promptKo": "식민지 홍콩을 분석할 때, 동일한 역사적 시기 중국 본토의 정치적·사회적 상황을 함께 살펴보는 것이 왜 중요한가?"
+        "promptKo": "식민지 홍콩을 분석할 때, 동일한 역사적 시기 중국 본토의 정치적·사회적 상황을 함께 살펴보는 것이 왜 중요한가?",
+        "sentenceStarter": "Comparing colonial Hong Kong to mainland China provides perspective because..."
       },
       {
         "id": "wu3",
         "topic": "Different Forms of Inequality (Colonial vs. Dynastic)",
         "question": "In what ways can a minority governing group (such as colonial administrators or imperial conquerors) enforce control over a vastly larger majority population?",
-        "promptKo": "소수의 통치 집단(예: 식민지 관료나 제국 정복자)은 어떤 방식으로 대다수의 주민을 통제하고 권력을 유지하는가?"
+        "promptKo": "소수의 통치 집단(예: 식민지 관료나 제국 정복자)은 어떤 방식으로 대다수의 주민을 통제하고 권력을 유지하는가?",
+        "sentenceStarter": "A small minority can maintain control over a large population by using legal discrimination and..."
       }
     ],
     "sentenceStarters": [
@@ -37,8 +40,8 @@
   },
   "article": {
     "title": "Hong Kong and the surprising truth about the British Empire",
-    "source": "Source G:",
-    "sourceNote": "George Lai: ‘Hong Kong and the surprising truth about the British Empire’, Spectator Magazine (2022)",
+    "sourceLabel": "Source G:",
+    "citation": "George Lai: ‘Hong Kong and the surprising truth about the British Empire’, Spectator Magazine (2022)",
     "paragraphs": [
       "Of course, we shouldn’t forget the flaws in colonial rule in Hong Kong. Especially in the early period before World War II, racism and discrimination manifestly existed. For much of the time of British rule, the top level of government was dominated by white British except for a few ethnic Chinese appointed to the Legislative and Executive Council. In the 19th century, Chinese people were often treated differently and more harshly than Caucasians by the colonial law enforcement and justice system. And from 1904 to 1946, for ‘public health’ reasons (in response to the bubonic plague epidemic that ran from 1894 to 1929, to protect Europeans from the ‘poor hygiene practices’ of the Chinese), ethnic Chinese people were banned by law from living in one area of Hong Kong. This was effectively a form of legalised segregation.",
       "But how did life in China compare? The Chinese government was not democratic, so ordinary Chinese people hardly had more power in China. And while ordinary people in Hong Kong would not have seen their leadership as representative, the same was true on the mainland: up until 1912, Chinese people in China were not even ruled by people of the same ethnicity, nor were they treated equally.",
@@ -50,84 +53,74 @@
     "instructions": "Study the 10 key academic and historical terms below. Examine their meanings in English and Korean, alongside contextual example sentences from the study of colonial governance.",
     "items": [
       {
-        "id": "v1",
-        "term": "colonial rule",
+        "word": "colonial rule",
         "partOfSpeech": "noun phrase",
-        "meaningEn": "The control, governance, and administration of a territory and its people by a foreign foreign sovereign power.",
-        "meaningKo": "식민 지배 (외국 주권국에 의한 영토 및 주민 통치)",
-        "example": "Under British colonial rule, executive decisions in Hong Kong were directed by colonial officials."
+        "korean": "식민 지배 (외국 주권국에 의한 영토 및 주민 통치)",
+        "definition": "The control, governance, and administration of a territory and its people by a foreign sovereign power.",
+        "sentence": "Under British colonial rule, executive decisions in Hong Kong were directed by colonial officials."
       },
       {
-        "id": "v2",
-        "term": "manifestly",
+        "word": "manifestly",
         "partOfSpeech": "adverb",
-        "meaningEn": "In a way that is clear, obvious, unmistakable, or clearly apparent to observers.",
-        "meaningKo": "명백하게, 분명히 (누가 보아도 명확하게)",
-        "example": "Racial disparities in 19th-century colonial administration manifestly existed in housing and justice."
+        "korean": "명백하게, 분명히 (누가 보아도 명확하게)",
+        "definition": "In a way that is clear, obvious, unmistakable, or clearly apparent to observers.",
+        "sentence": "Racial disparities in 19th-century colonial administration manifestly existed in housing and justice."
       },
       {
-        "id": "v3",
-        "term": "dominated",
+        "word": "dominated",
         "partOfSpeech": "verb (past tense)",
-        "meaningEn": "Exercised control, overwhelming influence, or majority power over an institution or territory.",
-        "meaningKo": "지배했다, 압도적으로 장악했다",
-        "example": "White British officials dominated the higher ranks of the civil administration and judiciary."
+        "korean": "지배했다, 압도적으로 장악했다",
+        "definition": "Exercised control, overwhelming influence, or majority power over an institution or territory.",
+        "sentence": "White British officials dominated the higher ranks of the civil administration and judiciary."
       },
       {
-        "id": "v4",
-        "term": "appointed",
+        "word": "appointed",
         "partOfSpeech": "verb (past participle / passive)",
-        "meaningEn": "Officially assigned or chosen for a position, council, or office by an authority rather than elected.",
-        "meaningKo": "임명된 (선거가 아닌 권력자에 의해 직책에 지명된)",
-        "example": "Only a tiny handful of elite ethnic Chinese leaders were appointed to the colonial advisory councils."
+        "korean": "임명된 (선거가 아닌 권력자에 의해 직책에 지명된)",
+        "definition": "Officially assigned or chosen for a position, council, or office by an authority rather than elected.",
+        "sentence": "Only a tiny handful of elite ethnic Chinese leaders were appointed to the colonial advisory councils."
       },
       {
-        "id": "v5",
-        "term": "law enforcement",
+        "word": "law enforcement",
         "partOfSpeech": "noun phrase",
-        "meaningEn": "The police and legal agencies responsible for compelling obedience to statutes and maintaining order.",
-        "meaningKo": "법 집행 기관, 사법 경찰 당국",
-        "example": "Colonial law enforcement penalised local Chinese residents far more severely than European residents."
+        "korean": "법 집행 기관, 사법 경찰 당국",
+        "definition": "The police and legal agencies responsible for compelling obedience to statutes and maintaining order.",
+        "sentence": "Colonial law enforcement penalised local Chinese residents far more severely than European residents."
       },
       {
-        "id": "v6",
-        "term": "segregation",
+        "word": "segregation",
         "partOfSpeech": "noun",
-        "meaningEn": "The institutionalised physical and social separation of racial or ethnic groups by law or custom.",
-        "meaningKo": "인종 격리, 거주 분리 정책 (법률·제도적 강제 분리)",
-        "example": "Restricting Chinese residents from living in designated European zones established legalised segregation."
+        "korean": "인종 격리, 거주 분리 정책 (법률·제도적 강제 분리)",
+        "definition": "The institutionalised physical and social separation of racial or ethnic groups by law or custom.",
+        "sentence": "Restricting Chinese residents from living in designated European zones established legalised segregation."
       },
       {
-        "id": "v7",
-        "term": "representative",
+        "word": "representative",
         "partOfSpeech": "adjective",
-        "meaningEn": "Consisting of elected delegates chosen by the public to speak and legislate on their behalf.",
-        "meaningKo": "대표성을 띤, 대의적인 (시민의 의사를 대변하는)",
-        "example": "Neither colonial Hong Kong nor dynastic China possessed representative governance elected by the public."
+        "korean": "대표성을 띤, 대의적인 (시민의 의사를 대변하는)",
+        "definition": "Consisting of elected delegates chosen by the public to speak and legislate on their behalf.",
+        "sentence": "Neither colonial Hong Kong nor dynastic China possessed representative governance elected by the public."
       },
       {
-        "id": "v8",
-        "term": "ethnicity",
+        "word": "ethnicity",
         "partOfSpeech": "noun",
-        "meaningEn": "The social group or cultural identity characterised by common ancestral heritage, language, or culture.",
-        "meaningKo": "민족, 민족성 (공통의 문화·언어·혈통 집단)",
-        "example": "Until 1912, the majority Han Chinese population were ruled by an imperial dynasty of different ethnicity."
+        "korean": "민족, 민족성 (공통의 문화·언어·혈통 집단)",
+        "definition": "The social group or cultural identity characterised by common ancestral heritage, language, or culture.",
+        "sentence": "Until 1912, the majority Han Chinese population were ruled by an imperial dynasty of different ethnicity."
       },
       {
-        "id": "v9",
-        "term": "alien conqueror",
+        "word": "alien conqueror",
         "partOfSpeech": "noun phrase",
-        "meaningEn": "An external, foreign, or outside group that takes military control of another culture or territory.",
-        "meaningKo": "외래 침략자, 이민족 정복자",
-        "example": "The Manchu ruling class functioned as alien conquerors who imposed strict cultural controls over China."
+        "korean": "외래 침략자, 이민족 정복자",
+        "definition": "An external, foreign, or outside group that takes military control of another culture or territory.",
+        "sentence": "The Manchu ruling class functioned as alien conquerors who imposed strict cultural controls over China."
       },
       {
-        "id": "v10",
-        "term": "preferential treatment",
+        "word": "preferential treatment",
         "partOfSpeech": "noun phrase",
-        "meaningEn": "Special legal, social, or economic advantages and privileges granted to one group over another.",
-        "meaningKo": "우대, 특혜 대우 (특정 집단에 부여되는 법적·사회적 혜택)",
-        "example": "Imperial statutes granted preferential treatment to Manchus, providing them lighter legal punishments."
+        "korean": "우대, 특혜 대우 (특정 집단에 부여되는 법적·사회적 혜택)",
+        "definition": "Special legal, social, or economic advantages and privileges granted to one group over another.",
+        "sentence": "Imperial statutes granted preferential treatment to Manchus, providing them lighter legal punishments."
       }
     ]
   },
@@ -137,7 +130,7 @@
     "options": [
       "Colonial Hong Kong experienced severe racial and institutional inequality under British rule, and a comparison with mainland China reveals that ordinary Chinese people were similarly unrepresented and dominated by a privileged Manchu minority.",
       "British colonial governance in Hong Kong was completely fair and democratic compared to the imperial system of Qing dynasty China.",
-      "The bubonic plague epidemic was the primary reason why Hong Kong’s government was successfully reformed into a modern democratic democracy.",
+      "The bubonic plague epidemic was the primary reason why Hong Kong’s government was successfully reformed into a modern democratic system.",
       "Mainland China enjoyed equal legal rights and democratic representation until British forces invaded and captured Hong Kong in the 17th century."
     ],
     "correctIndex": 0,
@@ -145,7 +138,7 @@
       "correct": "Excellent! You recognized that Source G candidly acknowledges British colonial flaws and discrimination while comparing them to the unrepresentative, ethnically unequal rule of the Manchu dynasty in China.",
       "incorrect": "Review the text: paragraph 1 outlines British racial discrimination and segregation, while paragraphs 2 and 3 explain that mainland China was also ruled non-democratically by an alien Manchu minority with preferential privileges."
     },
-    "explanation": "Option A is correct because Source G examines the flaws of British colonial rule (racism, white monopoly of high offices, legal bias, segregation) in Paragraph 1, and in Paragraphs 2–3 compares this with mainland China, showing that ordinary Chinese were also ruled without representation by an alien Manchu minority who enjoyed legal, political, and economic privileges.\n\nOption B is incorrect because Source G explicitly stresses the \"flaws in colonial rule,\" \"racism and discrimination,\" harsher legal treatment, and \"legalised segregation.\"\nOption C is incorrect because the plague (1894–1929) was used as a public health pretext to ban Chinese residents from one area, which the author describes as legalised segregation, not democratic reform.\nOption D is incorrect because China was not democratic before 1912; it was ruled by Manchus who conquered China in the 17th century, not the British."
+    "explanation": "Option A is correct (O): Source G examines the flaws of British colonial rule (racism, white monopoly of high offices, legal bias, segregation) in Paragraph 1, and in Paragraphs 2–3 compares this with mainland China, showing that ordinary Chinese were also ruled without representation by an alien Manchu minority who enjoyed legal, political, and economic privileges.\nOption B is incorrect (X): Source G explicitly stresses the \"flaws in colonial rule,\" \"racism and discrimination,\" harsher legal treatment, and \"legalised segregation.\"\nOption C is incorrect (X): The plague (1894–1929) was used as a public health pretext to ban Chinese residents from one area, which the author describes as legalised segregation, not democratic reform.\nOption D is incorrect (X): China was not democratic before 1912; it was ruled by Manchus who conquered China in the 17th century, not the British."
   },
   "readingComprehension": {
     "title": "Reading Comprehension",
@@ -162,7 +155,7 @@
         ],
         "correctIndex": 1,
         "paragraphRef": "Paragraph 1",
-        "explanation": "Option B is correct (O). Paragraph 1 explicitly states: \"Especially in the early period before World War II, racism and discrimination manifestly existed.\"\nOption A is incorrect (X): The text states top government was dominated by white British officials, not universal suffrage.\nOption C is incorrect (X): The text notes Chinese people were treated differently and more harshly by law enforcement and justice.\nOption D is incorrect (X): The text confirms top governance was dominated by white British with only a few Chinese appointed."
+        "explanation": "Option B is correct (O): Paragraph 1 explicitly states: \"Especially in the early period before World War II, racism and discrimination manifestly existed.\"\nOption A is incorrect (X): The text states top government was dominated by white British officials, not universal suffrage.\nOption C is incorrect (X): The text notes Chinese people were treated differently and more harshly by law enforcement and justice.\nOption D is incorrect (X): The text confirms top governance was dominated by white British with only a few Chinese appointed."
       },
       {
         "id": "rc2",
@@ -175,7 +168,7 @@
         ],
         "correctIndex": 1,
         "paragraphRef": "Paragraph 1",
-        "explanation": "Option B is correct (O). Paragraph 1 states: \"For much of the time of British rule, the top level of government was dominated by white British except for a few ethnic Chinese appointed to the Legislative and Executive Council.\"\nOption A is incorrect (X): The leadership was not representative or elected.\nOption C is incorrect (X): Manchus ruled China, not the colonial councils of Hong Kong.\nOption D is incorrect (X): The top level was dominated by white British officials, not equally divided."
+        "explanation": "Option B is correct (O): Paragraph 1 states: \"For much of the time of British rule, the top level of government was dominated by white British except for a few ethnic Chinese appointed to the Legislative and Executive Council.\"\nOption A is incorrect (X): The leadership was not representative or elected.\nOption C is incorrect (X): Manchus ruled China, not the colonial councils of Hong Kong.\nOption D is incorrect (X): The top level was dominated by white British officials, not equally divided."
       },
       {
         "id": "rc3",
@@ -188,7 +181,7 @@
         ],
         "correctIndex": 1,
         "paragraphRef": "Paragraph 1",
-        "explanation": "Option B is correct (O). Paragraph 1 explains: \"from 1904 to 1946, for ‘public health’ reasons (in response to the bubonic plague epidemic that ran from 1894 to 1929, to protect Europeans from the ‘poor hygiene practices’ of the Chinese), ethnic Chinese people were banned by law from living in one area of Hong Kong.\"\nOption A is incorrect (X): The law was enacted locally as a public health measure, not an economic treaty.\nOption C is incorrect (X): It was a legal ban (\"banned by law\"), not a voluntary choice.\nOption D is incorrect (X): The text terms this exclusionary law \"effectively a form of legalised segregation.\""
+        "explanation": "Option B is correct (O): Paragraph 1 explains: \"from 1904 to 1946, for ‘public health’ reasons (in response to the bubonic plague epidemic that ran from 1894 to 1929, to protect Europeans from the ‘poor hygiene practices’ of the Chinese), ethnic Chinese people were banned by law from living in one area of Hong Kong.\"\nOption A is incorrect (X): The law was enacted locally as a public health measure, not an economic treaty.\nOption C is incorrect (X): It was a legal ban (\"banned by law\"), not a voluntary choice.\nOption D is incorrect (X): The text terms this exclusionary law \"effectively a form of legalised segregation.\""
       },
       {
         "id": "rc4",
@@ -201,7 +194,7 @@
         ],
         "correctIndex": 2,
         "paragraphRef": "Paragraph 2",
-        "explanation": "Option C is correct (O). Paragraph 2 notes: \"The Chinese government was not democratic, so ordinary Chinese people hardly had more power in China. And while ordinary people in Hong Kong would not have seen their leadership as representative, the same was true on the mainland: up until 1912, Chinese people in China were not even ruled by people of the same ethnicity, nor were they treated equally.\"\nOption A is incorrect (X): Mainland China was not democratic.\nOption B is incorrect (X): The text states ordinary people hardly had more power in China.\nOption D is incorrect (X): Neither group enjoyed representative or equal governance."
+        "explanation": "Option C is correct (O): Paragraph 2 notes: \"The Chinese government was not democratic, so ordinary Chinese people hardly had more power in China. And while ordinary people in Hong Kong would not have seen their leadership as representative, the same was true on the mainland: up until 1912, Chinese people in China were not even ruled by people of the same ethnicity, nor were they treated equally.\"\nOption A is incorrect (X): Mainland China was not democratic.\nOption B is incorrect (X): The text states ordinary people hardly had more power in China.\nOption D is incorrect (X): Neither group enjoyed representative or equal governance."
       },
       {
         "id": "rc5",
@@ -214,7 +207,7 @@
         ],
         "correctIndex": 1,
         "paragraphRef": "Paragraph 3",
-        "explanation": "Option B is correct (O). Paragraph 3 specifies: \"the Chinese government from which the British took Hong Kong was not, in fact, Chinese. Instead, it was Manchurian: a group of people who had conquered China in the 17th century. The Manchu ruled over China as alien conquerors...\"\nOption A is incorrect (X): The government was not Han Chinese or a republic; it was Manchu imperial dynastic rule.\nOption C is incorrect (X): The text clearly identifies the government as Manchurian.\nOption D is incorrect (X): 1912 was the end of the dynasty, not when Hong Kong was taken."
+        "explanation": "Option B is correct (O): Paragraph 3 specifies: \"the Chinese government from which the British took Hong Kong was not, in fact, Chinese. Instead, it was Manchurian: a group of people who had conquered China in the 17th century. The Manchu ruled over China as alien conquerors...\"\nOption A is incorrect (X): The government was not Han Chinese or a republic; it was Manchu imperial dynastic rule.\nOption C is incorrect (X): The text clearly identifies the government as Manchurian.\nOption D is incorrect (X): 1912 was the end of the dynasty, not when Hong Kong was taken."
       },
       {
         "id": "rc6",
@@ -227,145 +220,138 @@
         ],
         "correctIndex": 2,
         "paragraphRef": "Paragraph 3",
-        "explanation": "Option C is correct (O). Paragraph 3 explains that the Manchus maintained power \"with racist and discriminatory practices,\" set themselves up as a \"privileged minority separate from and superior to the Chinese people,\" dominated the top level of government despite being a 1% minority, and received \"preferential treatment over Chinese people legally, politically and economically; they were dealt with more leniently under the law.\"\nOption A is incorrect (X): The Manchus set themselves up as a separate, superior minority, not equal partners.\nOption B is incorrect (X): They dominated the top level of government.\nOption D is incorrect (X): They maintained their own discriminatory privileges."
+        "explanation": "Option C is correct (O): Paragraph 3 explains that the Manchus maintained power \"with racist and discriminatory practices,\" set themselves up as a \"privileged minority separate from and superior to the Chinese people,\" dominated the top level of government despite being a 1% minority, and received \"preferential treatment over Chinese people legally, politically and economically; they were dealt with more leniently under the law.\"\nOption A is incorrect (X): The Manchus set themselves up as a separate, superior minority, not equal partners.\nOption B is incorrect (X): They dominated the top level of government.\nOption D is incorrect (X): They maintained their own discriminatory privileges."
       }
     ]
   },
   "evidenceFromText": {
-    "title": "Evidence From Text",
-    "instructions": "Write concise, evidence-based responses citing specific facts, quotes, and historical details from Source G. Then click Compare to view the model answer and evaluation tips.",
+    "title": "Evidence from the Text",
+    "instructions": "Write concise, evidence-based responses citing specific facts, quotes, and historical details from Source G. Then click Check & Compare to evaluate your answer and view the model.",
     "prompts": [
       {
         "id": "ev1",
-        "prompt": "Identify two pieces of evidence from Paragraph 1 demonstrating racial discrimination and inequality under British colonial rule in Hong Kong.",
+        "question": "Identify two pieces of evidence from Paragraph 1 demonstrating racial discrimination and inequality under British colonial rule in Hong Kong.",
         "paragraphRef": "Paragraph 1",
-        "minWords": 30,
-        "targetWords": "35–55 words",
         "modelAnswer": "According to Paragraph 1, the top tier of Hong Kong’s colonial government was dominated by white British officials, while 19th-century Chinese residents faced harsher treatment under colonial law enforcement. Additionally, from 1904 to 1946, ethnic Chinese were banned by law from living in one area, creating \"legalised segregation.\"",
-        "compareTips": "Check whether your answer references: (1) white British dominance of top government / harsher 19th-century judicial treatment, and (2) the 1904–1946 residential ban as \"legalised segregation.\"",
-        "guidance": "Quote or paraphrase key phrases from Paragraph 1: \"dominated by white British,\" \"treated differently and more harshly,\" and \"effectively a form of legalised segregation.\""
+        "compareTip": "Check whether your answer references: (1) white British dominance of top government / harsher 19th-century judicial treatment, and (2) the 1904–1946 residential ban as \"legalised segregation.\""
       },
       {
         "id": "ev2",
-        "prompt": "Based on Paragraph 2, how does George Lai compare the political representation and rights of ordinary people in colonial Hong Kong with those in mainland China?",
+        "question": "Based on Paragraph 2, how does George Lai compare the political representation and rights of ordinary people in colonial Hong Kong with those in mainland China?",
         "paragraphRef": "Paragraph 2",
-        "minWords": 30,
-        "targetWords": "35–55 words",
         "modelAnswer": "In Paragraph 2, Lai explains that neither population had representative leadership. Because mainland China was not democratic, ordinary Chinese people \"hardly had more power\" than Hong Kong residents. Furthermore, until 1912, mainland Chinese were neither ruled by people of their own ethnicity nor treated equally by the imperial state.",
-        "compareTips": "Ensure your response mentions: (1) neither population had representative leadership, (2) mainland Chinese \"hardly had more power,\" and (3) until 1912 mainland Chinese were not ruled by their own ethnicity or treated equally.",
-        "guidance": "Focus on the author's direct comparison between ordinary Hong Kong residents and mainland Chinese before 1912."
+        "compareTip": "Ensure your response mentions: (1) neither population had representative leadership, (2) mainland Chinese \"hardly had more power,\" and (3) until 1912 mainland Chinese were not ruled by their own ethnicity or treated equally."
       },
       {
         "id": "ev3",
-        "prompt": "According to Paragraph 3, what evidence shows that the Manchu ruling class functioned as a privileged minority in China?",
+        "question": "According to Paragraph 3, what evidence shows that the Manchu ruling class functioned as a privileged minority in China?",
         "paragraphRef": "Paragraph 3",
-        "minWords": 30,
-        "targetWords": "40–60 words",
         "modelAnswer": "Paragraph 3 demonstrates that the Manchus, comprising barely one per cent of China’s population, ruled as \"alien conquerors\" who dominated the top levels of government. They maintained power through discriminatory practices, enjoyed preferential treatment legally, politically, and economically, and were dealt with more leniently under the law.",
-        "compareTips": "Confirm your answer includes: (1) Manchus were a 1% minority ruling as \"alien conquerors,\" (2) dominated top government ranks, and (3) received preferential treatment and more lenient legal punishment.",
-        "guidance": "Highlight the contrast between the Manchus' tiny population share (a little more than 1 per cent) and their outsized institutional privileges."
+        "compareTip": "Confirm your answer includes: (1) Manchus were a 1% minority ruling as \"alien conquerors,\" (2) dominated top government ranks, and (3) received preferential treatment and more lenient legal punishment."
       }
     ]
   },
   "languageFocus": {
     "title": "Language Focus: Colonial Governance, Historical Contrast & Cautious Attribution",
     "topic": "Comparative Analysis and Evidence Attribution in Historical Texts",
-    "languagePatterns": [
+    "explanation": "To write an objective historical comparison based on Source G, combine passive structures for institutional actions, precise chronological markers, cause-and-effect links, contrast connectors, and cautious attribution.",
+    "patterns": [
       {
-        "pattern": "Passive Voice in Historical Governance",
+        "name": "1. Passive Voice in Historical Governance",
         "explanation": "Used to describe institutional policies, legal restrictions, and systemic actions where the power structure or law is emphasized.",
-        "examples": [
-          "...the top level of government was dominated by white British...",
-          "...ethnic Chinese people were banned by law from living in one area...",
-          "...they were dealt with more leniently under the law."
-        ]
+        "example": "Ethnic Chinese residents were banned by law from living in designated districts and were dealt with more harshly by colonial courts.",
+        "sourceExample": "...the top level of government was dominated by white British... / ...ethnic Chinese people were banned by law... / ...they were dealt with more leniently under the law."
       },
       {
-        "pattern": "Historical Time Expressions & Chronology",
+        "name": "2. Historical Time Expressions & Chronology",
         "explanation": "Precise dates and chronological markers establish sequence and contextual boundaries across different eras.",
-        "examples": [
-          "Especially in the early period before World War II...",
-          "In the 19th century...",
-          "And from 1904 to 1946...",
-          "...up until 1912, Chinese people in China were not even ruled by people of the same ethnicity..."
-        ]
+        "example": "Before World War II, and specifically from 1904 to 1946, colonial authorities enforced residential exclusion.",
+        "sourceExample": "Especially in the early period before World War II... / In the 19th century... / And from 1904 to 1946... / ...up until 1912..."
       },
       {
-        "pattern": "Cause and Effect Connectors",
-        "explanation": "Connects historical triggers (such as epidemics or conquests) to resulting policies and societal conditions.",
-        "examples": [
-          "for ‘public health’ reasons (in response to the bubonic plague epidemic...)",
-          "The Chinese government was not democratic, so ordinary Chinese people hardly had more power in China.",
-          "Because the Chinese government from which the British took Hong Kong was not, in fact, Chinese."
-        ]
+        "name": "3. Cause and Effect Connectors",
+        "explanation": "Connects historical triggers (such as epidemics or military conquests) to resulting policies and societal conditions.",
+        "example": "Because the imperial government was not ethnic Chinese, the Manchu minority maintained control through discriminatory practices.",
+        "sourceExample": "...for ‘public health’ reasons (in response to the bubonic plague epidemic...) / The Chinese government was not democratic, so ordinary Chinese people hardly had more power..."
       },
       {
-        "pattern": "Contrast and Comparative Markers",
+        "name": "4. Contrast and Comparative Markers",
         "explanation": "Enables nuanced comparison between two systems without oversimplifying either side.",
-        "examples": [
-          "Chinese people were often treated differently and more harshly than Caucasians...",
-          "And while ordinary people in Hong Kong would not have seen their leadership as representative, the same was true on the mainland...",
-          "Manchus dominated the top level of China’s government, despite only making up a little more than 1 per cent..."
-        ]
+        "example": "While colonial Hong Kong lacked representative democracy, the same was true on the mainland, despite the Manchus making up barely one per cent of China’s population.",
+        "sourceExample": "Chinese people were often treated differently and more harshly than Caucasians... / And while ordinary people in Hong Kong would not have seen their leadership as representative, the same was true on the mainland..."
       },
       {
-        "pattern": "Relative Clauses and Historical Appositives",
+        "name": "5. Relative Clauses and Historical Appositives",
         "explanation": "Provides essential historical identification and background information within compact sentences.",
-        "examples": [
-          "...the Chinese government from which the British took Hong Kong...",
-          "...it was Manchurian: a group of people who had conquered China in the 17th century."
-        ]
+        "example": "The Manchus, an alien conqueror minority who had conquered China in the 17th century, ruled over the ethnic Chinese majority.",
+        "sourceExample": "...the Chinese government from which the British took Hong Kong... / ...it was Manchurian: a group of people who had conquered China in the 17th century."
       },
       {
-        "pattern": "Semicolons & Cautious Source Attribution",
+        "name": "6. Semicolons & Cautious Source Attribution",
         "explanation": "Links closely related independent clauses and grounds analytical claims in the author’s published source.",
-        "examples": [
-          "They received preferential treatment over Chinese people legally, politically and economically; they were dealt with more leniently under the law.",
-          "According to George Lai in Source G...",
-          "As the article in Spectator Magazine highlights..."
-        ]
+        "example": "According to George Lai in Source G, the Manchus received preferential treatment; consequently, they were dealt with more leniently under the law.",
+        "sourceExample": "They received preferential treatment over Chinese people legally, politically and economically; they were dealt with more leniently under the law."
       }
     ]
   },
   "writingPractice": {
-    "title": "Writing Practice: Targeted Sentence Construction",
-    "instructions": "Complete each of the four writing prompts using the specified target language structure and evidence from Source G. Compare your response with the model.",
+    "title": "Writing Practice",
+    "instructions": "Complete each of the four writing prompts using complete sentences, lesson vocabulary, and evidence from Source G. Click Check & Compare for instant rule-based feedback and model comparison.",
     "prompts": [
       {
         "id": "wp1",
-        "prompt": "Write 1–2 sentences explaining the 1904–1946 residential ban in Hong Kong using passive voice and a cause-and-effect phrase.",
-        "targetLanguage": "Passive voice (\"were banned by law\") + Cause/effect (\"in response to\" or \"for public health reasons\")",
-        "minWords": 20,
-        "targetWords": "25–40 words",
+        "prompt": "Write 1–2 sentences explaining the 1904–1946 residential ban in Hong Kong using passive voice (\"were banned by law\") and a cause-and-effect phrase (\"in response to\" or \"for public health reasons\").",
+        "targetWords": 15,
+        "targetConnectors": [
+          "in response to",
+          "because",
+          "therefore",
+          "as a result",
+          "due to"
+        ],
         "modelAnswer": "Between 1904 and 1946, ethnic Chinese residents were banned by law from living in a designated area of Hong Kong for \"public health\" reasons in response to a plague epidemic, creating legalised segregation.",
-        "compareTips": "Verify that your sentence uses the passive construction \"were banned by law\" and identifies the plague epidemic / public health justification."
+        "compareTip": "Verify that your sentence uses the passive construction \"were banned by law\" and identifies the plague epidemic / public health justification."
       },
       {
         "id": "wp2",
-        "prompt": "Write 1–2 sentences comparing political representation in colonial Hong Kong and mainland China using a contrast marker (\"while\" or \"similarly\").",
-        "targetLanguage": "Contrast marker (\"while\" / \"the same was true\")",
-        "minWords": 20,
-        "targetWords": "25–40 words",
+        "prompt": "Write 1–2 sentences comparing political representation in colonial Hong Kong and mainland China using a contrast marker (\"while\" or \"however\").",
+        "targetWords": 15,
+        "targetConnectors": [
+          "while",
+          "however",
+          "although",
+          "whereas",
+          "similarly"
+        ],
         "modelAnswer": "While ordinary people in colonial Hong Kong lacked representative government under British rule, the same was true on the mainland, where an undemocratic regime denied ordinary Chinese people political power.",
-        "compareTips": "Check that you balance both Hong Kong and mainland China while highlighting their shared absence of representative democracy."
+        "compareTip": "Check that you balance both Hong Kong and mainland China while highlighting their shared absence of representative democracy."
       },
       {
         "id": "wp3",
-        "prompt": "Write 1–2 sentences explaining how the Manchus maintained power despite their small population, using \"despite\" and an explanation of preferential treatment.",
-        "targetLanguage": "Concession marker (\"despite\") + \"preferential treatment\"",
-        "minWords": 20,
-        "targetWords": "25–40 words",
+        "prompt": "Write 1–2 sentences explaining how the Manchus maintained power despite their small population, using \"despite\" and the term \"preferential treatment\".",
+        "targetWords": 15,
+        "targetConnectors": [
+          "despite",
+          "although",
+          "because",
+          "therefore"
+        ],
         "modelAnswer": "Despite constituting barely one per cent of China’s population, the Manchus maintained autocratic control by dominating government offices and granting themselves preferential legal, political, and economic treatment over the Chinese majority.",
-        "compareTips": "Ensure you include the concession regarding the 1% minority and their institutional advantages / legal leniency."
+        "compareTip": "Ensure you include the concession regarding the 1% minority and their institutional advantages / legal leniency."
       },
       {
         "id": "wp4",
-        "prompt": "Write 2–3 sentences synthesizing Source G’s comparison of inequality under British colonial rule and Manchu imperial rule, with cautious attribution.",
-        "targetLanguage": "Attribution frame (\"According to Source G\" / \"George Lai argues\") + comparative synthesis",
-        "minWords": 30,
-        "targetWords": "35–55 words",
+        "prompt": "Write 2–3 sentences synthesizing Source G’s comparison of inequality under British colonial rule and Manchu imperial rule, with cautious attribution (\"According to Source G\" or \"George Lai explains\").",
+        "targetWords": 20,
+        "targetConnectors": [
+          "while",
+          "however",
+          "similarly",
+          "because",
+          "therefore"
+        ],
         "modelAnswer": "According to George Lai in Source G, systemic inequality existed in both territories. While British colonial authorities subjected ethnic Chinese to racial discrimination and residential segregation, the Manchu rulers in China similarly functioned as alien conquerors who secured legal privileges over the ethnic Chinese majority.",
-        "compareTips": "Check that you attribute the comparison to Source G / George Lai and balance both British colonial flaws and Manchu dynastic privileges."
+        "compareTip": "Check that you attribute the comparison to Source G / George Lai and balance both British colonial flaws and Manchu dynastic privileges."
       }
     ]
   },
@@ -381,77 +367,80 @@
       "Employs academic connectors of contrast and cause/effect (e.g., \"while,\" \"however,\" \"because,\" \"despite\").",
       "Meets the target length of 100–140 words with grammatical precision."
     ],
-    "wordTarget": "100–140 words",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "targetConnectors": [
+      "while",
+      "however",
+      "because",
+      "despite",
+      "so",
+      "thus",
+      "therefore",
+      "overall",
+      "in conclusion"
+    ],
     "modelAnswer": "According to George Lai in Source G, colonial Hong Kong and mainland China both suffered from systemic inequality and unrepresentative rule. In Hong Kong, British authorities maintained racial hierarchy before World War II. The top government level was dominated by white British officials, Chinese residents faced harsher legal enforcement, and a 1904–1946 public health law enforced legalised residential segregation. However, ordinary people lacked democratic rights on the mainland as well. Until 1912, China was ruled by the Manchus, an alien conqueror minority who conquered China in the 17th century. Making up barely one per cent of the population, Manchus retained supremacy through discriminatory practices and received preferential legal, political, and economic treatment. Thus, both territories experienced governance dominated by privileged ruling elites.",
-    "compareTip": "Evaluate your draft against the model: Did you cite Source G? Did you detail both British racial segregation in Hong Kong and the Manchu minority’s preferential legal treatment in China? Verify your exact word count (100–140 words)."
+    "compareGuide": "Evaluate your draft against the model: Did you cite Source G? Did you detail both British racial segregation in Hong Kong and the Manchu minority’s preferential legal treatment in China? Verify your exact word count (100–140 words).",
+    "revisionTips": [
+      "Include clear source attribution (\"According to George Lai in Source G...\").",
+      "Ensure you present specific details from both colonial Hong Kong (P1) and Manchu-ruled China (P2–P3).",
+      "Check passive voice verbs (\"was dominated by\", \"were banned by law\") and comparative connectors (\"however\", \"despite\", \"while\").",
+      "End with a concluding synthesis sentence starting with \"Thus,\" \"Overall,\" or \"In conclusion,\" and stay within 100–140 words."
+    ]
   },
   "selfCheck": {
     "title": "Self-Check Checklist",
     "instructions": "Review your analytical paragraph against each of the 6 criteria below before submitting your work.",
     "items": [
-      {
-        "id": "sc1",
-        "label": "I identified specific examples of racial discrimination and judicial bias under British colonial rule in Hong Kong."
-      },
-      {
-        "id": "sc2",
-        "label": "I cited the 1904–1946 residential exclusion policy and explained its character as legalised segregation."
-      },
-      {
-        "id": "sc3",
-        "label": "I compared the lack of democratic representation in colonial Hong Kong with the unrepresentative government in mainland China."
-      },
-      {
-        "id": "sc4",
-        "label": "I explained how the Manchu minority ruled China as alien conquerors and enjoyed preferential legal, political, and economic treatment."
-      },
-      {
-        "id": "sc5",
-        "label": "I used appropriate contrastive and cause-and-effect transition words (such as \"while,\" \"however,\" \"because,\" \"despite\") to connect historical ideas."
-      },
-      {
-        "id": "sc6",
-        "label": "I attributed evidence clearly to Source G / George Lai and verified that my paragraph is between 100 and 140 words."
-      }
+      "I identified specific examples of racial discrimination and judicial bias under British colonial rule in Hong Kong.",
+      "I cited the 1904–1946 residential exclusion policy and explained its character as legalised segregation.",
+      "I compared the lack of democratic representation in colonial Hong Kong with the unrepresentative government in mainland China.",
+      "I explained how the Manchu minority ruled China as alien conquerors and enjoyed preferential legal, political, and economic treatment.",
+      "I used appropriate contrastive and cause-and-effect transition words (such as \"while,\" \"however,\" \"because,\" \"despite\") to connect historical ideas.",
+      "I attributed evidence clearly to Source G / George Lai and verified that my paragraph is between 100 and 140 words."
     ]
   },
   "teacher": {
     "answerKey": {
       "mainIdea": {
         "correctIndex": 0,
-        "explanation": "Option A synthesizes both parts of Source G: the critique of British racial discrimination and segregation in Hong Kong (P1) and the comparison to mainland China's non-democratic, Manchu-dominated minority rule with legal privilege (P2-P3)."
+        "rationale": "Option A synthesizes both parts of Source G: the critique of British racial discrimination and segregation in Hong Kong (P1) and the comparison to mainland China's non-democratic, Manchu-dominated minority rule with legal privilege (P2-P3)."
       },
       "readingComprehension": {
         "rc1": {
           "correctIndex": 1,
-          "explanation": "P1 explicitly states that racism and discrimination manifestly existed, particularly before World War II."
+          "rationale": "P1 explicitly states that racism and discrimination manifestly existed, particularly before World War II."
         },
         "rc2": {
           "correctIndex": 1,
-          "explanation": "P1 notes the top level of government was dominated by white British, except for a few appointed ethnic Chinese."
+          "rationale": "P1 notes the top level of government was dominated by white British, except for a few appointed ethnic Chinese."
         },
         "rc3": {
           "correctIndex": 1,
-          "explanation": "P1 details that from 1904 to 1946, for \"public health\" reasons related to plague, ethnic Chinese were banned by law from living in one area."
+          "rationale": "P1 details that from 1904 to 1946, for \"public health\" reasons related to plague, ethnic Chinese were banned by law from living in one area."
         },
         "rc4": {
           "correctIndex": 2,
-          "explanation": "P2 explains China was not democratic, ordinary Chinese people hardly had more power, and leadership was not representative."
+          "rationale": "P2 explains China was not democratic, ordinary Chinese people hardly had more power, and leadership was not representative."
         },
         "rc5": {
           "correctIndex": 1,
-          "explanation": "P3 states the government was Manchurian: alien conquerors who had conquered China in the 17th century."
+          "rationale": "P3 states the government was Manchurian: alien conquerors who had conquered China in the 17th century."
         },
         "rc6": {
           "correctIndex": 2,
-          "explanation": "P3 highlights that Manchus maintained power through discriminatory practices, dominated top offices despite being 1% of the population, and received preferential legal, political, and economic treatment."
+          "rationale": "P3 highlights that Manchus maintained power through discriminatory practices, dominated top offices despite being 1% of the population, and received preferential legal, political, and economic treatment."
         }
       },
       "evidenceFromText": {
-        "ev1": "Top government dominated by white British officials; harsher legal enforcement/justice for Chinese; 1904-1946 residential ban as legalised segregation.",
+        "ev1": "Top government dominated by white British officials; harsher legal enforcement/justice for Chinese; 1904–1946 residential ban as legalised segregation.",
         "ev2": "Neither Hong Kong nor mainland had representative leadership; mainland Chinese had no democracy and hardly more power; until 1912 they were ruled by a different ethnicity and treated unequally.",
         "ev3": "Manchus were barely 1% of population; ruled as alien conquerors; dominated top government; received preferential treatment legally, politically, and economically; dealt with more leniently under law."
-      }
+      },
+      "languageFocus": "Passive voice in governance (was dominated by, were banned by law); chronological markers (before World War II, 1904–1946, up until 1912, 17th century); cause/effect (in response to, because, so); contrast (while, despite, instead); relative clauses and cautious attribution."
     },
     "modelAnswer": {
       "finalWritingTask": "According to George Lai in Source G, colonial Hong Kong and mainland China both suffered from systemic inequality and unrepresentative rule. In Hong Kong, British authorities maintained racial hierarchy before World War II. The top government level was dominated by white British officials, Chinese residents faced harsher legal enforcement, and a 1904–1946 public health law enforced legalised residential segregation. However, ordinary people lacked democratic rights on the mainland as well. Until 1912, China was ruled by the Manchus, an alien conqueror minority who conquered China in the 17th century. Making up barely one per cent of the population, Manchus retained supremacy through discriminatory practices and received preferential legal, political, and economic treatment. Thus, both territories experienced governance dominated by privileged ruling elites."
@@ -460,290 +449,321 @@
       "title": "Evidence-Based Comparative Writing Rubric (OFS G9 ESL)",
       "categories": [
         {
-          "name": "Content & Ideas",
-          "descriptors": {
-            "advanced": "Thoroughly explains both British colonial flaws in Hong Kong and Manchu imperial governance in China with deep analytical insight and nuanced comparison.",
-            "proficient": "Accurately explains both Hong Kong’s colonial discrimination and China’s Manchu minority rule with clear comparative points.",
-            "developing": "Mentions both systems but description is uneven, focusing heavily on one side while providing vague details about the other.",
-            "beginning": "Provides minimal historical information; fails to compare Hong Kong and China meaningfully."
-          }
+          "criterion": "Content & Ideas",
+          "description": "Accuracy and depth of comparison between British colonial Hong Kong and Manchu-ruled mainland China.",
+          "score4": "Thoroughly explains both British colonial flaws in Hong Kong and Manchu imperial governance in China with deep analytical insight and nuanced comparison.",
+          "score3": "Accurately explains both Hong Kong’s colonial discrimination and China’s Manchu minority rule with clear comparative points.",
+          "score2": "Mentions both systems but description is uneven, focusing heavily on one side while providing vague details about the other.",
+          "score1": "Provides minimal historical information; fails to compare Hong Kong and China meaningfully."
         },
         {
-          "name": "Evidence Use",
-          "descriptors": {
-            "advanced": "Skillfully integrates at least three specific textual details (e.g., white British dominance, 1904–1946 ban, 17th-century Manchu conquest, 1% minority privilege) with flawless attribution.",
-            "proficient": "Includes two to three accurate textual details from Source G with clear author or source attribution.",
-            "developing": "Includes one or two details, but relies heavily on vague references or omits attribution.",
-            "beginning": "Lacks textual evidence or misrepresents facts from Source G."
-          }
+          "criterion": "Evidence Use",
+          "description": "Integration of specific textual details from Source G with cautious author attribution.",
+          "score4": "Skillfully integrates at least three specific textual details (e.g., white British dominance, 1904–1946 ban, 17th-century Manchu conquest, 1% minority privilege) with flawless attribution.",
+          "score3": "Includes two to three accurate textual details from Source G with clear author or source attribution.",
+          "score2": "Includes one or two details, but relies heavily on vague references or omits attribution.",
+          "score1": "Lacks textual evidence or misrepresents facts from Source G."
         },
         {
-          "name": "Target Language/Structure",
-          "descriptors": {
-            "advanced": "Masterfully employs passive voice (\"was dominated by,\" \"were banned\"), precise time markers, cause-and-effect clauses, and sophisticated contrast markers.",
-            "proficient": "Accurately uses passive voice and appropriate contrast connectors (\"while,\" \"however,\" \"despite\") to link historical evidence.",
-            "developing": "Attempts passive voice and comparative connectors, but shows recurring grammatical awkwardness.",
-            "beginning": "Relies on simple sentence fragments with little to no comparative structure or academic connectors."
-          }
+          "criterion": "Target Language/Structure",
+          "description": "Use of passive voice, chronological markers, cause/effect structures, contrast markers, and relative clauses.",
+          "score4": "Masterfully employs passive voice (\"was dominated by,\" \"were banned\"), precise time markers, cause-and-effect clauses, and sophisticated contrast markers.",
+          "score3": "Accurately uses passive voice and appropriate contrast connectors (\"while,\" \"however,\" \"despite\") to link historical evidence.",
+          "score2": "Attempts passive voice and comparative connectors, but shows recurring grammatical awkwardness.",
+          "score1": "Relies on simple sentence fragments with little to no comparative structure or academic connectors."
         },
         {
-          "name": "Organization",
-          "descriptors": {
-            "advanced": "Follows an impeccable logical flow from topic sentence with attribution, to Hong Kong evidence, mainland China comparison, and a cohesive concluding synthesis.",
-            "proficient": "Presents a clear structure with an identifiable topic sentence, supporting points, and a reasonable concluding statement.",
-            "developing": "Ideas are somewhat disconnected or jump abruptly between Hong Kong and China without smooth transitions.",
-            "beginning": "Lacks paragraph cohesion; reads as an unstructured list of sentences."
-          }
+          "criterion": "Organization",
+          "description": "Logical paragraph flow from attribution and Hong Kong evidence to mainland comparison and conclusion.",
+          "score4": "Follows an impeccable logical flow from topic sentence with attribution, to Hong Kong evidence, mainland China comparison, and a cohesive concluding synthesis.",
+          "score3": "Presents a clear structure with an identifiable topic sentence, supporting points, and a reasonable concluding statement.",
+          "score2": "Ideas are somewhat disconnected or jump abruptly between Hong Kong and China without smooth transitions.",
+          "score1": "Lacks paragraph cohesion; reads as an unstructured list of sentences."
         },
         {
-          "name": "Accuracy",
-          "descriptors": {
-            "advanced": "Exhibits high grammatical control, accurate academic vocabulary, correct spelling and punctuation, and strictly adheres to the 100–140 word target.",
-            "proficient": "Demonstrates good grammatical accuracy with minor ESL errors that do not impede comprehension; meets word count.",
-            "developing": "Frequent errors in verb tense, passive formation, or word choice; falls slightly outside the word count range.",
-            "beginning": "Pervasive grammatical errors obscure meaning; significantly under or over length."
-          }
+          "criterion": "Accuracy",
+          "description": "Grammatical precision, academic vocabulary, spelling/punctuation, and word target (100–140 words).",
+          "score4": "Exhibits high grammatical control, accurate academic vocabulary, correct spelling and punctuation, and strictly adheres to the 100–140 word target.",
+          "score3": "Demonstrates good grammatical accuracy with minor ESL errors that do not impede comprehension; meets word count.",
+          "score2": "Frequent errors in verb tense, passive formation, or word choice; falls slightly outside the word count range.",
+          "score1": "Pervasive grammatical errors obscure meaning; significantly under or over length."
         }
       ]
     },
     "teacherNotes": [
       {
         "topic": "Racism and Pre-WWII Discrimination in Hong Kong",
-        "detail": "Paragraph 1 candidly addresses systemic flaws in early British colonial rule, emphasizing that racism and discrimination were manifest realities, particularly prior to the Second World War."
+        "note": "Paragraph 1 candidly addresses systemic flaws in early British colonial rule, emphasizing that racism and discrimination were manifest realities, particularly prior to the Second World War."
       },
       {
         "topic": "White British Monopolization of Executive Authority",
-        "detail": "For most of the colonial era, the highest decision-making echelons of the Hong Kong government were held exclusively by white British expatriates, excluding the local population from executive influence."
+        "note": "For most of the colonial era, the highest decision-making echelons of the Hong Kong government were held exclusively by white British expatriates, excluding the local population from executive influence."
       },
       {
         "topic": "Token Chinese Representation on Colonial Councils",
-        "detail": "The author notes that only a tiny handful of elite ethnic Chinese individuals were appointed to the Legislative Council (LegCo) and Executive Council (ExCo), serving advisory rather than representative roles."
+        "note": "The author notes that only a tiny handful of elite ethnic Chinese individuals were appointed to the Legislative Council (LegCo) and Executive Council (ExCo), serving advisory rather than representative roles."
       },
       {
         "topic": "19th-Century Law Enforcement and Judicial Disparity",
-        "detail": "Colonial police and courts applied disparate standards: ethnic Chinese residents were subjected to harsher penal codes, heavier surveillance, and more severe punishments than European residents."
+        "note": "Colonial police and courts applied disparate standards: ethnic Chinese residents were subjected to harsher penal codes, heavier surveillance, and more severe punishments than European residents."
       },
       {
         "topic": "The 1904–1946 Residential Exclusion Law (The Peak)",
-        "detail": "For over four decades, colonial ordinances prohibited ethnic Chinese from residing in prestigious high-elevation zones like Victoria Peak, explicitly codifying racial zoning in statute."
+        "note": "For over four decades, colonial ordinances prohibited ethnic Chinese from residing in prestigious high-elevation zones like Victoria Peak, explicitly codifying racial zoning in statute."
       },
       {
         "topic": "Bubonic Plague (1894–1929) as a Sanitized Pretext",
-        "detail": "Colonial authorities justified residential bans by citing public health protection against plague outbreaks, blaming Chinese hygiene practices rather than acknowledging colonial neglect."
+        "note": "Colonial authorities justified residential bans by citing public health protection against plague outbreaks, blaming Chinese hygiene practices rather than acknowledging colonial neglect."
       },
       {
         "topic": "Legalised Segregation Disguised as Public Health",
-        "detail": "The author explicitly defines the residential ban as \"effectively a form of legalised segregation,\" emphasizing that medical rationales masked racial separation."
+        "note": "The author explicitly defines the residential ban as \"effectively a form of legalised segregation,\" emphasizing that medical rationales masked racial separation."
       },
       {
         "topic": "Absence of Democracy and Representation in Mainland China",
-        "detail": "Paragraph 2 shifts the comparative frame: ordinary mainland Chinese people had no democratic franchise or representative government, possessing no greater political agency than Hong Kongers."
+        "note": "Paragraph 2 shifts the comparative frame: ordinary mainland Chinese people had no democratic franchise or representative government, possessing no greater political agency than Hong Kongers."
       },
       {
         "topic": "The Manchus as an Alien Ruling Ethnicity (Qing Dynasty)",
-        "detail": "Until the 1912 revolution, China was ruled by the Qing dynasty, composed of ethnically distinct Manchus rather than the majority Han Chinese population."
+        "note": "Until the 1912 revolution, China was ruled by the Qing dynasty, composed of ethnically distinct Manchus rather than the majority Han Chinese population."
       },
       {
         "topic": "17th-Century Military Conquest and Imperial Hegemony",
-        "detail": "The Manchus conquered China in 1644 and governed as foreign conquerors, imposing cultural mandates (such as the queue hairstyle) and discriminatory laws to enforce subservience."
+        "note": "The Manchus conquered China in the 17th century and governed as foreign conquerors, imposing discriminatory practices to maintain control over the culturally different ethnic Chinese majority."
       },
       {
         "topic": "Institutionalised Minority Privilege and Social Superiority",
-        "detail": "Paragraph 3 stresses that the Manchus deliberately structured the imperial state to position themselves as a separate, superior ruling caste above the ethnic Chinese majority."
+        "note": "Paragraph 3 stresses that the Manchus deliberately structured the imperial state to position themselves as a separate, superior ruling caste above the ethnic Chinese majority."
       },
       {
         "topic": "The 1 Per Cent Demographic Anomaly in Governance",
-        "detail": "Despite constituting barely more than one per cent of the total population, Manchus monopolized the supreme military, administrative, and ministerial posts across imperial China."
+        "note": "Despite constituting barely more than one per cent of the total population, Manchus monopolized the top level of China’s government."
       },
       {
         "topic": "Triple Preferential Treatment and Legal Leniency",
-        "detail": "Manchus enjoyed systemic advantages legally, politically, and economically, including separate judicial procedures, state stipends, and lighter criminal penalties."
+        "note": "Manchus enjoyed systemic advantages legally, politically, and economically, and were dealt with more leniently under the law compared to ordinary Chinese people."
       }
     ],
     "teachingScript": [
       {
         "phase": 1,
-        "name": "Opening & Historical Context Activation",
+        "phaseName": "Opening & Historical Context Activation",
         "duration": "5 minutes",
-        "objectives": [
-          "Introduce the historical inquiry of Source G regarding British colonial rule in Hong Kong.",
-          "Establish a balanced, analytical mindset examining both colonial flaws and contemporary comparative contexts."
-        ],
-        "teacherActions": [
+        "objective": "Introduce Source G regarding British colonial rule in Hong Kong and establish an analytical comparative mindset.",
+        "actions": [
           "Display the title and author citation of Source G on the whiteboard.",
-          "Prompt students to consider how historians evaluate colonial systems without romanticization or oversimplification."
+          "Prompt students to consider how historians evaluate colonial systems using primary/secondary evidence without oversimplification."
         ],
         "scriptEn": "Good morning, Grade 9. Today, we are investigating Source G by George Lai, published in Spectator Magazine. When we study the British Empire, we must look honestly at historical evidence. In Hong Kong, British rule had severe systemic flaws, including racial discrimination and legalised segregation. But the author asks an equally vital historical question: how did life and governance compare across the border in mainland China during that exact same era? Let us open our text and examine the evidence objectively.",
         "scriptKo": "안녕하세요, 9학년 여러분. 오늘 우리는 Spectator 매거진에 실린 조지 라이의 Source G를 탐구합니다. 대영제국을 연구할 때 우리는 역사적 증거를 정직하게 살펴보아야 합니다. 홍콩에서 영국의 통치는 인종 차별과 법제화된 격리를 포함한 심각한 제도적 결함을 가지고 있었습니다. 그러나 저자는 똑같이 중요한 역사적 질문을 던집니다: 바로 그 동일한 역사적 시기에 국경 너머 중국 본토의 삶과 통치는 어떠했는가? 텍스트를 펴고 객관적으로 증거를 검토해 봅시다.",
-        "expectedStudentAction": "Students locate Source G, note the author and publication, and prepare for comparative analysis.",
-        "formativeCheckAndCorrection": "Ensure students do not assume colonial rule was flawless; emphasize that Source G explicitly documents colonial racism.",
+        "studentActions": "Students locate Source G, note the author and publication, and prepare for comparative analysis.",
+        "misconception": "Students may assume the article either wholly defends or wholly condemns one government without recognizing the dual critique.",
+        "correctiveFeedback": "Emphasize that Source G explicitly documents British colonial racism while simultaneously exposing Manchu minority privilege in China.",
         "transition": "Let us begin with our three Warm-up inquiry questions to activate our conceptual framework."
       },
       {
         "phase": 2,
-        "name": "Warm-up Inquiry & Concept Mapping",
+        "phaseName": "Warm-up Inquiry & Concept Mapping",
         "duration": "10 minutes",
-        "objectives": [
-          "Discuss the mechanisms through which ruling minorities justify inequality.",
-          "Explore why comparative frameworks are essential in historical evaluation."
-        ],
-        "teacherActions": [
+        "objective": "Discuss mechanisms through which ruling minorities justify inequality and why comparative context matters.",
+        "actions": [
           "Guide student pairs through the three Warm-up questions.",
           "Record student responses on the board under two headings: \"Colonial Flaws\" and \"Comparative Baseline.\""
         ],
         "scriptEn": "Turn to your partner and examine Warm-up Question 1: How do governing authorities use racial categories to justify unequal laws? Think about how laws in the 19th and early 20th centuries were framed. Then look at Question 2: Why must we look at China when evaluating Hong Kong? And Question 3: How does a tiny ruling class—whether British officials or imperial conquerors—maintain authority over millions of people? Take three minutes to discuss with your partner.",
         "scriptKo": "짝과 함께 워밍업 1번 질문을 보세요: 통치 당국은 불평등한 법률을 정당화하기 위해 인종적 범주를 어떻게 이용하는가? 19세기와 20세기 초 법률이 어떻게 만들어졌는지 생각해 보세요. 그런 다음 2번 질문을 봅니다: 홍콩을 평가할 때 왜 중국 본토를 함께 보아야 하는가? 그리고 3번: 소수의 지배 계급—영국 관료든 제국 정복자든—은 어떻게 수백만 명의 사람들을 통제하는가? 3분간 짝과 토론해 보세요.",
-        "expectedStudentAction": "Students brainstorm examples of legal bias, health pretexts, and minority governance.",
-        "formativeCheckAndCorrection": "If students focus only on modern politics, redirect them to 19th- and early 20th-century historical governance.",
+        "studentActions": "Students brainstorm examples of legal bias, health pretexts, and minority governance using sentence starters.",
+        "misconception": "Students might drift into modern 21st-century politics instead of historical colonial/dynastic systems.",
+        "correctiveFeedback": "Redirect students to 19th- and early 20th-century historical governance and legal structures.",
         "transition": "Now, let us read Source G closely to see exactly how George Lai articulates these two systems."
       },
       {
         "phase": 3,
-        "name": "Guided Source Reading & Boundary Analysis",
+        "phaseName": "Guided Source Reading & Boundary Analysis",
         "duration": "12 minutes",
-        "objectives": [
-          "Read Source G aloud with correct phrasing and chunking.",
-          "Identify the structural shift between Paragraph 1 (Hong Kong) and Paragraphs 2–3 (Mainland China)."
-        ],
-        "teacherActions": [
+        "objective": "Read Source G aloud with correct phrasing and identify the structural shift between P1 and P2–P3.",
+        "actions": [
           "Read each paragraph with emphasis on transitional questions (\"But how did life in China compare?\", \"Why?\").",
           "Highlight paragraph boundaries and confirm the continuous nature of Paragraph 3 across the page break."
         ],
         "scriptEn": "Listen carefully as we read Source G. Notice the author’s structure. Paragraph 1 focuses entirely on Hong Kong: racism before World War II, white British dominance, judicial bias, and the 1904–1946 residential ban. Then look at the opening of Paragraph 2: \"But how did life in China compare?\" That is our pivot point. Paragraph 2 contrasts political power, and Paragraph 3 reveals the surprising historical truth: the Qing government was not ethnic Chinese, but an alien Manchu minority. Let us trace these three paragraphs together.",
         "scriptKo": "Source G를 읽을 때 주의 깊게 들어보세요. 저자의 글 구조에 주목하세요. 1문단은 전적으로 홍콩에 집중합니다: 제2차 세계대전 이전의 인종차별, 백인 영국인의 지배, 사법적 편향, 1904~1946년 거주지 제한. 그리고 2문단의 시작을 보세요: \"그렇다면 중국에서의 삶은 어떻게 비교되었을까요?\" 이것이 바로 전환점입니다. 2문단은 정치적 권력을 비교하고, 3문단은 놀라운 역사적 사실을 밝힙니다: 청나라 정부는 한족 중국인이 아니라 외래 만주족 소수 집단이었다는 점입니다. 세 문단을 함께 따라가 봅시다.",
-        "expectedStudentAction": "Students track the text with highlighters, marking chronological dates (19th century, 1904–1946, 1894–1929, 1912, 17th century).",
-        "formativeCheckAndCorrection": "Verify students observe that Paragraph 3 continues seamlessly across the layout divider as one cohesive paragraph.",
+        "studentActions": "Students track the text with highlighters, marking chronological dates (19th century, 1904–1946, 1894–1929, 1912, 17th century).",
+        "misconception": "Students may treat the visual divider inside Paragraph 3 as a new paragraph break.",
+        "correctiveFeedback": "Verify students recognize Paragraph 3 as one continuous, unbroken 7-sentence paragraph across the divider.",
         "transition": "With our reading established, let us master the academic vocabulary essential for analyzing these institutions."
       },
       {
         "phase": 4,
-        "name": "Vocabulary in Context & Academic Nuance",
+        "phaseName": "Vocabulary in Context & Academic Nuance",
         "duration": "10 minutes",
-        "objectives": [
-          "Deepen comprehension of the 10 core academic and legal terms in Source G.",
-          "Differentiate between elected representation and authoritarian appointment."
-        ],
-        "teacherActions": [
+        "objective": "Deepen comprehension of the 10 core academic and legal terms in Source G.",
+        "actions": [
           "Elicit student definitions for key phrases: \"alien conqueror,\" \"legalised segregation,\" and \"preferential treatment.\"",
           "Clarify the distinction between ethnic majority and ruling minority."
         ],
         "scriptEn": "Let us examine our 10 vocabulary words. Notice word number 6: \"segregation.\" In Hong Kong, this was not informal; it was \"legalised segregation\" enacted by statute between 1904 and 1946. Now look at word number 9: \"alien conqueror.\" Why does the author describe the Manchus as \"alien\"? Because they came from outside China proper and conquered it in the 17th century. And look at word number 10: \"preferential treatment.\" The Manchus gave themselves legal leniency and economic benefits. Keep these precise terms in mind for your writing.",
         "scriptKo": "10개의 어휘를 살펴봅시다. 6번 단어인 \"segregation(격리)\"을 보세요. 홍콩에서는 이것이 단순한 관습이 아니라 1904년부터 1946년까지 법으로 제정된 \"법제화된 격리\"였습니다. 이제 9번 단어인 \"alien conqueror(외래 정복자)\"를 보세요. 왜 저자는 만주족을 \"alien\"으로 묘사했을까요? 그들은 중국 본토 외부에서 와서 17세기에 중국을 무력 정복했기 때문입니다. 그리고 10번 단어인 \"preferential treatment(특혜 대우)\"를 보세요. 만주족은 스스로에게 법적 관용과 경제적 혜택을 부여했습니다. 여러분의 글쓰기를 위해 이 정확한 용어들을 잘 기억해 두세요.",
-        "expectedStudentAction": "Students complete matching and contextual sentence checks for the 10 vocabulary terms.",
-        "formativeCheckAndCorrection": "Ensure students understand that \"alien\" in historical contexts means foreign or external to the native culture, not extraterrestrial.",
+        "studentActions": "Students complete contextual matching and review Korean translations and example sentences.",
+        "misconception": "Students often misinterpret \"alien\" as science-fiction or modern immigration status rather than \"foreign/non-native conquerors.\"",
+        "correctiveFeedback": "Clarify that \"alien conqueror\" refers to an external ethnicity conquering and governing a culturally distinct native population.",
         "transition": "Now, let us break down each of the 16 sentences in Source G with rigorous grammatical and analytical precision."
       },
       {
         "phase": 5,
-        "name": "Detailed Sentence-by-Sentence Breakdown (16 Sentences)",
+        "phaseName": "Detailed Sentence-by-Sentence Breakdown (16 Sentences)",
         "duration": "18 minutes",
-        "objectives": [
-          "Analyze the grammatical syntax, chunking, and historical meaning of all 16 sentences.",
-          "Model Feynman simplified explanations to ensure conceptual clarity for ESL learners."
-        ],
-        "teacherActions": [
-          "Walk through Sentences 1–6 (Paragraph 1: Hong Kong flaws), Sentences 7–9 (Paragraph 2: Comparative representation), and Sentences 10–16 (Paragraph 3: Manchu minority rule).",
+        "objective": "Analyze the grammatical syntax, chunking, and historical meaning of all 16 sentences.",
+        "actions": [
+          "Walk through Sentences 1–6 (Paragraph 1), Sentences 7–9 (Paragraph 2), and Sentences 10–16 (Paragraph 3).",
           "Check pronunciation, passive verb constructions, and Korean direct translations."
         ],
         "scriptEn": "We will now examine each of the 16 sentences. Notice Sentence 4: \"In the 19th century, Chinese people were often treated differently and more harshly than Caucasians by the colonial law enforcement and justice system.\" This is a passive construction with an adverb of comparison: \"more harshly than.\" In Sentence 5, look at the parenthetical clause: it explains that the plague epidemic from 1894 to 1929 was used as the pretext to ban Chinese residents. In Sentence 15, notice the concession: \"despite only making up a little more than 1 per cent.\" Let us read each sentence chunk by chunk.",
         "scriptKo": "이제 16개 문장 전체를 하나씩 살펴보겠습니다. 4번 문장을 주목하세요: \"19세기에 중국인들은 식민지 법 집행 및 사법 제도에 의해 코카서스인(백인)보다 종종 다르게, 그리고 더 가혹하게 대우받았습니다.\" 이것은 비교 부사 \"more harshly than\"이 포함된 수동태 구문입니다. 5번 문장에서는 괄호 안의 삽입구를 보세요: 1894년부터 1929년까지 지속된 흑사병 유행이 중국인 거주를 금지하는 구실로 사용되었음을 설명합니다. 15번 문장에서는 양보 구문 \"despite only making up a little more than 1 per cent\"에 주목하세요. 문장별로 덩어리(chunk)를 지어 함께 읽어봅시다.",
-        "expectedStudentAction": "Students read aloud in chunks, annotate grammatical subjects and passive verbs, and review Feynman explanations.",
-        "formativeCheckAndCorrection": "Address any confusion regarding \"Caucasians\" (European/white residents) and the timeline of the bubonic plague.",
+        "studentActions": "Students read aloud in slash-chunked segments, annotate passive verbs, and review Feynman explanations.",
+        "misconception": "Students may confuse the dates of the plague epidemic (1894–1929) with the residential ban dates (1904–1946).",
+        "correctiveFeedback": "Draw a timeline on the board separating the 1894–1929 epidemic from the 1904–1946 residential segregation ordinance.",
         "transition": "With every sentence mastered, let us verify our understanding through the comprehension and evidence prompts."
       },
       {
         "phase": 6,
-        "name": "Comprehension Verification & Evidence Synthesis",
+        "phaseName": "Comprehension Verification & Evidence Synthesis",
         "duration": "12 minutes",
-        "objectives": [
-          "Verify student answers for Main Idea, Reading Comprehension (6 MCQs), and Evidence from Text (3 prompts).",
-          "Train students to cite exact textual evidence with author attribution."
-        ],
-        "teacherActions": [
+        "objective": "Verify student answers for Main Idea, Reading Comprehension (6 MCQs), and Evidence from Text (3 prompts).",
+        "actions": [
           "Review the 6 MCQ explanations, clarifying why distractors are incorrect.",
-          "Guide students through the 3 Evidence written responses, focusing on quote integration."
+          "Guide students through the 3 Evidence written responses, focusing on quote integration and Check & Compare."
         ],
-        "scriptEn": "Look at Comprehension Question 3: Why were ethnic Chinese banned from one area? Notice option B: it was for \"public health\" reasons during the plague epidemic, but option B also highlights that it served as legalised segregation. In Evidence Prompt 2, make sure you quote Lai’s observation that ordinary mainlanders \"hardly had more power\" and were \"not even ruled by people of the same ethnicity.\" Use your highlighters to verify each claim directly against Source G.",
-        "scriptKo": "독해 3번 문제를 보세요: 왜 중국인들은 특정 지역 거주가 금지되었나요? B번 선지를 보세요: 흑사병 유행 기간 동안 \"공중보건\"이라는 명분이었지만, 그것이 실질적으로 법제화된 격리 역할을 했다는 점을 짚어냅니다. 증거 제시 2번 문항에서는 본토의 평범한 사람들이 \"거의 더 많은 권력을 갖지 못했고\" \"동일한 민족에 의해 통치되지도 않았다\"는 라이의 서술을 직접 인용하세요. 형광펜으로 Source G의 텍스트와 대조하며 확인하세요.",
-        "expectedStudentAction": "Students verify MCQ answers against text lines and draft their 3 written evidence responses.",
-        "formativeCheckAndCorrection": "Correct students who write unsupported opinions; insist on exact textual evidence from Source G.",
+        "scriptEn": "Look at Comprehension Question 3: Why were ethnic Chinese banned from one area? Notice option B: it was for \"public health\" reasons during the plague epidemic, and it served as legalised segregation. In Evidence Prompt 2, make sure you quote Lai’s observation that ordinary mainlanders \"hardly had more power\" and were \"not even ruled by people of the same ethnicity.\" Use your Check & Compare button to evaluate your evidence overlap.",
+        "scriptKo": "독해 3번 문제를 보세요: 왜 중국인들은 특정 지역 거주가 금지되었나요? B번 선지를 보세요: 흑사병 유행 기간 동안 \"공중보건\"이라는 명분이었지만, 실질적으로 법제화된 격리 역할을 했다는 점을 짚어냅니다. 증거 제시 2번 문항에서는 본토의 평범한 사람들이 \"거의 더 많은 권력을 갖지 못했고\" \"동일한 민족에 의해 통치되지도 않았다\"는 라이의 서술을 직접 인용하세요. Check & Compare 버튼으로 자신의 근거를 점검해 보세요.",
+        "studentActions": "Students verify MCQ answers against text lines, draft their 3 evidence responses, and use Check & Compare.",
+        "misconception": "Students often answer Evidence prompts from memory without quoting or closely paraphrasing Source G.",
+        "correctiveFeedback": "Insist on exact textual evidence from Source G and check for 3-word phrase overlap or quotation marks.",
         "transition": "Now, let us bring our evidence, comparative language, and vocabulary into our timed analytical writing task."
       },
       {
         "phase": 7,
-        "name": "Timed Analytical Writing Task (100–140 Words)",
+        "phaseName": "Timed Analytical Writing Task (100–140 Words)",
         "duration": "18 minutes",
-        "objectives": [
-          "Draft a rigorous 100–140 word comparative analysis answering the prompt.",
-          "Incorporate author attribution, Hong Kong colonial evidence, mainland Manchu evidence, and comparative transition words."
-        ],
-        "teacherActions": [
-          "Set a 15-minute silent writing timer on the board.",
-          "Circulate to monitor student drafts, checking word counts and ESL sentence structures."
+        "objective": "Draft a rigorous 100–140 word comparative analysis answering the prompt with attribution.",
+        "actions": [
+          "Set an 18-minute writing window and display the Writing Support outline.",
+          "Circulate to monitor student drafts, checking word counts, passive voice, and comparative structures."
         ],
         "scriptEn": "You now have 18 minutes for the final writing task. Your prompt asks: \"According to Source G, how does the article compare inequality in colonial Hong Kong and China?\" Remember your checklist: start with clear attribution to George Lai in Source G. Present the flaws in Hong Kong—white dominance, legal bias, and residential segregation. Then use a strong transition like \"However\" or \"Similarly\" to examine China—unrepresentative rule, the 17th-century Manchu conquest, and the 1 per cent minority’s preferential legal treatment. Aim for 115 to 130 words.",
         "scriptKo": "이제 최종 글쓰기 과제를 수행할 18분이 주어집니다. 질문은 다음과 같습니다: \"Source G에 따르면, 기사는 식민지 홍콩과 중국의 불평등을 어떻게 비교하고 있는가?\" 체크리스트를 기억하세요: Source G의 조지 라이를 언급하는 명확한 출처 명시로 시작하세요. 홍콩의 결함들—백인 지배, 사법 편향, 거주 분리—을 제시하세요. 그런 다음 \"However\"나 \"Similarly\" 같은 강력한 연결어를 사용하여 중국을 분석하세요—비대의적 통치, 17세기 만주족 정복, 1% 소수 집단의 특혜적 법 대우. 115~130단어를 목표로 작성하세요.",
-        "expectedStudentAction": "Students write independently, monitoring their word count and adhering to the 6-point checklist.",
-        "formativeCheckAndCorrection": "Intervene if students forget to attribute Source G or fail to balance both Hong Kong and mainland China.",
+        "studentActions": "Students write independently, use Check & Compare for rule-based feedback, and refine their drafts to 100–140 words.",
+        "misconception": "Korean ESL students often omit passive voice (\"Chinese banned\" instead of \"Chinese were banned\") or miss a concluding transition.",
+        "correctiveFeedback": "Intervene individually on passive forms and remind students to start their concluding sentence with \"Thus,\" or \"Overall,\".",
         "transition": "Pens down. Let us conduct our self-check and evaluate against the rubric."
       },
       {
         "phase": 8,
-        "name": "Rubric-Based Self-Check & Classroom Synthesis",
+        "phaseName": "Rubric-Based Self-Check & Classroom Synthesis",
         "duration": "5 minutes",
-        "objectives": [
-          "Evaluate writing drafts against the 6 Self-Check criteria and 5 rubric dimensions.",
-          "Synthesize key historical takeaways regarding comparative analysis of imperial systems."
-        ],
-        "teacherActions": [
+        "objective": "Evaluate writing drafts against the 6 Self-Check criteria and 5 rubric dimensions before final submission.",
+        "actions": [
           "Guide students through the 6 self-check tick boxes.",
-          "Reveal the hidden model answer and facilitate comparative self-reflection."
+          "Reveal the model answer via Check & Compare and facilitate final submission."
         ],
-        "scriptEn": "Look at the Self-Check checklist. Check 1: Did you identify British colonial racism and legal bias? Check 2: Did you mention the 1904–1946 segregation policy? Check 3: Did you compare representation with China? Check 4: Did you explain the Manchu alien conqueror minority and their preferential treatment? Check 5: Did you use contrast connectors like \"while\" and \"despite\"? Check 6: Is your word count between 100 and 140 words? Review the model answer and note where you can enhance your academic precision.",
-        "scriptKo": "자가 점검 체크리스트를 보세요. 1번: 영국의 식민지 인종차별과 사법적 편향을 밝혔는가? 2번: 1904~1946년 격리 정책을 언급했는가? 3번: 중국과의 정치적 대표성을 비교했는가? 4번: 만주족 외래 정복자 소수 집단과 그들의 특혜 대우를 설명했는가? 5번: \"while\"과 \"despite\" 같은 대조 연결어를 사용했는가? 6번: 단어 수가 100~140단어 사이인가? 모범 답안을 확인하고 여러분의 글에서 학술적 정확성을 보완할 점을 찾아보세요.",
-        "expectedStudentAction": "Students verify each checklist item, compare their text to the model, and submit their responses.",
-        "formativeCheckAndCorrection": "Confirm that all students record their final word counts and verify submission status.",
+        "scriptEn": "Look at the Self-Check checklist. Check 1: Did you identify British colonial racism and legal bias? Check 2: Did you mention the 1904–1946 segregation policy? Check 3: Did you compare representation with China? Check 4: Did you explain the Manchu alien conqueror minority and their preferential treatment? Check 5: Did you use contrast connectors like \"while\" and \"despite\"? Check 6: Is your word count between 100 and 140 words? Review the model answer and click Submit.",
+        "scriptKo": "자가 점검 체크리스트를 보세요. 1번: 영국의 식민지 인종차별과 사법적 편향을 밝혔는가? 2번: 1904~1946년 격리 정책을 언급했는가? 3번: 중국과의 정치적 대표성을 비교했는가? 4번: 만주족 외래 정복자 소수 집단과 그들의 특혜 대우를 설명했는가? 5번: \"while\"과 \"despite\" 같은 대조 연결어를 사용했는가? 6번: 단어 수가 100~140단어 사이인가? 모범 답안을 확인한 후 제출(Submit)을 누르세요.",
+        "studentActions": "Students verify all 6 checklist items, compare against the 122-word model answer, and submit their attempt.",
+        "misconception": "Students may submit without entering Student Name or Student Code.",
+        "correctiveFeedback": "Confirm all students enter their name and student code cleanly before submitting.",
         "transition": "Outstanding historical analysis today, Grade 9. You have mastered rigorous evidence-based comparison."
       }
     ],
     "teachersOpeningScript": [
       {
-        "english": "Welcome, class. Today / we are examining Source G, / an article by George Lai in Spectator Magazine / analyzing the reality of the British Empire / and colonial governance in Hong Kong.",
-        "korean": "여러분 환영합니다. 오늘 우리는 / 대영제국의 실상과 / 홍콩에서의 식민 통치를 분석한 / Spectator 매거진에 실린 조지 라이의 글 / Source G를 검토합니다."
+        "label": "Opening 1 — Framing the Historical Inquiry",
+        "english": "Welcome, class. / Today we are examining Source G, / an article by George Lai in Spectator Magazine / analyzing the reality of the British Empire / and colonial governance in Hong Kong.",
+        "korean": "여러분 환영합니다. / 오늘 우리는 대영제국의 실상과 / 홍콩에서의 식민 통치를 분석한 / Spectator 매거진에 실린 조지 라이의 글 / Source G를 검토합니다.",
+        "teachingPurpose": "Establish source attribution and historical focus immediately."
       },
       {
-        "english": "Our historical objective / is to look honestly at colonial injustices—/ such as racial inequality, judicial bias, / and legalised residential segregation—/ while simultaneously comparing them / to the autocratic, alien conqueror rule / of the Manchu dynasty in mainland China.",
-        "korean": "우리의 역사적 학습 목표는 / 인종적 불평등, 사법적 편향, / 그리고 법제화된 거주지 격리와 같은 / 식민지의 부당함을 정직하게 바라보면서, / 동시에 그것을 중국 본토 만주족 왕조의 / 독재적이고 외래 정복자적인 통치와 / 비교 분석하는 것입니다."
+        "label": "Opening 2 — Balancing Critique & Comparison",
+        "english": "Our objective / is to look honestly at colonial injustices—/ such as racial inequality, judicial bias, / and legalised residential segregation—/ while simultaneously comparing them / to the autocratic, alien conqueror rule / of the Manchu dynasty in mainland China.",
+        "korean": "우리의 학습 목표는 / 인종적 불평등, 사법적 편향, / 그리고 법제화된 거주지 격리와 같은 / 식민지의 부당함을 정직하게 바라보면서, / 동시에 그것을 중국 본토 만주족 왕조의 / 독재적이고 외래 정복자적인 통치와 / 비교 분석하는 것입니다.",
+        "teachingPurpose": "Prevent binary oversimplification by pairing colonial critique with dynastic comparison."
       },
       {
+        "label": "Opening 3 — Analytical Writing Goal",
         "english": "By using precise evidence and source attribution, / we will master how historians / compare two distinct systems of governance / without falling into simplistic generalizations.",
-        "korean": "정확한 증거와 출처 인용을 활용하여, / 우리는 역사가들이 / 단순화된 일반화에 빠지지 않고 / 두 개의 서로 다른 통치 체제를 어떻게 비교하는지 / 완벽하게 익히게 될 것입니다."
+        "korean": "정확한 증거와 출처 인용을 활용하여, / 우리는 역사가들이 / 단순화된 일반화에 빠지지 않고 / 두 개의 서로 다른 통치 체제를 어떻게 비교하는지 / 완벽하게 익히게 될 것입니다.",
+        "teachingPurpose": "Connect reading analysis directly to the 100–140 word writing task."
       }
     ],
     "warmUpTeacherGuide": {
       "q1": {
+        "question": "How do ruling authorities historically use racial or ethnic differences to justify treating groups of people unequally under the law?",
         "focus": "Race, Power, and Legal Discrimination",
-        "scaffolding": "Ask students how laws can treat people differently based on race. Point to historical examples where certain ethnic groups received harsher punishments or were restricted from owning property or living in certain districts.",
-        "modelStudentResponse": "Historically, colonial regimes created unequal laws by claiming that European populations required protection or superior status, resulting in harsher penal codes and segregated residential spaces for native populations."
+        "teacherTalk": "Ask students how laws can treat people differently based on race. Point to historical examples where certain ethnic groups received harsher punishments or were restricted from living in specific zones.",
+        "sampleStudentAnswer": "Historically, colonial regimes created unequal laws by claiming that European populations required protection or superior status, resulting in harsher penal codes and segregated residential spaces for native populations.",
+        "followUpQuestion": "What happens when prejudice is written directly into public health or residential laws?",
+        "korean": "지배 권력은 역사적으로 인종이나 민족 차이를 이용해 어떻게 법적 불평등을 정당화했는가?",
+        "likelyResponses": [
+          "They made different rules for different races.",
+          "They claimed one group was superior or cleaner."
+        ],
+        "usefulLanguage": [
+          "judicial disparity",
+          "legalised segregation",
+          "pretext",
+          "dominated by"
+        ],
+        "caution": "Keep discussion anchored in historical governance systems rather than modern personal anecdotes.",
+        "purpose": "Prepare students for Paragraph 1’s description of judicial bias and the 1904–1946 residential ban."
       },
       "q2": {
+        "question": "When analyzing colonial Hong Kong, why is it also important to examine the political and social conditions in mainland China during the same historical period?",
         "focus": "Comparative Historical Methodology",
-        "scaffolding": "Prompt students to consider why assessing a colonial territory in isolation can be misleading. To understand whether people were better or worse off, one must evaluate what alternatives existed in neighboring societies at that time.",
-        "modelStudentResponse": "Comparing Hong Kong to mainland China provides necessary historical context, showing whether ordinary citizens possessed greater democratic freedom or equal rights under the neighboring regional power."
+        "teacherTalk": "Prompt students to consider why assessing a territory in isolation can be misleading. To evaluate political freedom or representation, historians compare contemporary systems side by side.",
+        "sampleStudentAnswer": "Comparing Hong Kong to mainland China provides necessary historical context, showing whether ordinary citizens possessed greater democratic freedom or equal rights under the neighboring regional power.",
+        "followUpQuestion": "Can two different governments both lack democratic representation at the same time?",
+        "korean": "식민지 홍콩을 분석할 때 같은 시기 중국 본토의 상황을 함께 살펴보는 것이 왜 중요한가?",
+        "likelyResponses": [
+          "To see if people in China had more rights or less.",
+          "To understand the full historical context."
+        ],
+        "usefulLanguage": [
+          "representative leadership",
+          "democratic rights",
+          "comparative context"
+        ],
+        "caution": "Remind students that recognizing flaws in China does not excuse British colonial flaws—both are critically analyzed.",
+        "purpose": "Bridge Paragraph 1 (Hong Kong) to Paragraph 2 (Mainland China)."
       },
       "q3": {
+        "question": "In what ways can a minority governing group (such as colonial administrators or imperial conquerors) enforce control over a vastly larger majority population?",
         "focus": "Mechanisms of Ruling Minority Control",
-        "scaffolding": "Discuss how a demographic minority (like the 1% Manchus or British colonial administrators) holds power over millions. Highlight legal monopolization, military force, institutional privileges, and dividing populations.",
-        "modelStudentResponse": "A small ruling minority maintains control over a vast majority by monopolizing high government offices, enacting discriminatory laws, establishing separate legal privileges for themselves, and preventing democratic representation."
+        "teacherTalk": "Discuss how a demographic minority (such as colonial officials or the 1% Manchu elite) holds power over millions through institutional monopolies and legal privileges.",
+        "sampleStudentAnswer": "A small ruling minority maintains control over a vast majority by monopolizing high government offices, enacting discriminatory laws, establishing separate legal privileges for themselves, and preventing democratic representation.",
+        "followUpQuestion": "How does legal leniency for rulers reinforce their superiority over ordinary subjects?",
+        "korean": "소수의 통치 집단은 어떤 방식으로 다수의 민중을 통제하고 권력을 유지하는가?",
+        "likelyResponses": [
+          "By controlling all top government positions.",
+          "By making laws that favor their own group."
+        ],
+        "usefulLanguage": [
+          "privileged minority",
+          "alien conquerors",
+          "preferential treatment",
+          "leniently"
+        ],
+        "caution": "Clarify the historical distinction between demographic size and political/legal power.",
+        "purpose": "Scaffold Paragraph 3’s account of Manchu minority dominance."
       }
     },
     "sourceReadingGuide": {
-      "sourceLayout": "Source G consists of a source label (\"Source G:\"), a formal publication citation (\"George Lai: ‘Hong Kong and the surprising truth about the British Empire’, Spectator Magazine (2022)\"), and three prose paragraphs. Note that Paragraph 3 continues across the layout divider as a single unbroken paragraph.",
+      "title": "Source G Reading & Layout Guide",
+      "description": "Guide students through the exact structure and continuity of Source G without adding external history.",
+      "sourceLayout": "Source G consists of a source label (\"Source G:\"), a formal citation (\"George Lai: ‘Hong Kong and the surprising truth about the British Empire’, Spectator Magazine (2022)\"), and three prose paragraphs. Note that Paragraph 3 continues across the page divider as a single unbroken paragraph.",
       "citationGuidance": "Always instruct students to cite the author \"George Lai\" and the publication \"Spectator Magazine (2022)\" when introducing evidence.",
       "paragraphBoundaries": "Paragraph 1 (6 sentences) establishes British colonial flaws in Hong Kong. Paragraph 2 (3 sentences) introduces the comparative question regarding mainland China. Paragraph 3 (7 sentences) explains the Manchurian dynasty as alien conquerors ruling over ethnic Chinese.",
-      "historicalSequence": "17th Century (Manchu conquest of China) -> 19th Century (British capture of Hong Kong, judicial bias) -> 1894-1929 (Bubonic plague epidemic) -> 1904-1946 (Residential segregation law) -> Up until 1912 (Qing dynasty fall; end of Manchu rule) -> Before World War II (Pre-war racism and colonial hierarchy).",
-      "resourceCauseEffectChain": "17th-century Manchu conquest -> Establishment of 1% privileged ruling minority -> Systemic discrimination and legal leniency for Manchus -> 1840s British acquisition of Hong Kong -> White British monopoly of colonial councils -> 1894 plague -> 1904-1946 residential segregation law.",
-      "finalMetaphor": "The Dual Facets of Imperial Power: Both British colonial administrators and Manchu imperial rulers operated as unrepresentative minority elites who utilized legal systems and racial hierarchies to maintain dominance over Chinese populations."
+      "historicalSequence": "17th Century (Manchu conquest of China) -> 19th Century (British capture of Hong Kong, judicial bias) -> 1894–1929 (Bubonic plague epidemic) -> 1904–1946 (Residential segregation law) -> Up until 1912 (End of Qing/Manchu rule) -> Before World War II (Pre-war colonial racism).",
+      "causeEffectChain": "17th-century Manchu conquest -> 1% privileged ruling minority -> Discriminatory practices and legal leniency -> British acquisition of Hong Kong -> White British monopoly of top government -> 1894 plague -> 1904–1946 residential segregation law.",
+      "comparativeTheme": "Both British colonial administrators in Hong Kong and Manchu imperial rulers in China operated as unrepresentative minority elites who maintained dominance through racial or ethnic discrimination and unequal legal treatment."
     },
     "finalWritingSupport": {
       "sourceVocabulary": [
@@ -758,46 +778,39 @@
         "alien conqueror (외래 정복자)",
         "preferential treatment (특혜 대우)"
       ],
-      "paradoxStructures": [
-        "While colonial Hong Kong suffered from racial inequality, mainland China was similarly devoid of democratic freedom.",
-        "Although Manchus comprised barely one per cent of the population, they dominated the entire imperial hierarchy."
-      ],
-      "causeEffectLanguage": [
-        "for public health reasons in response to...",
-        "because the imperial government was not ethnic Chinese, it imposed...",
-        "so ordinary people hardly had more power..."
-      ],
-      "passiveVoiceFormulas": [
-        "was dominated by [ruling elite]",
-        "were treated differently and more harshly than [group]",
-        "were banned by law from [action]",
-        "were dealt with more leniently under the law"
-      ],
-      "chronologicalSequencing": [
-        "In the 17th century...",
-        "In the 19th century...",
-        "From 1904 to 1946...",
-        "Up until 1912...",
-        "Before World War II..."
+      "usefulConnectors": [
+        "According to George Lai in Source G,",
+        "While [System A]..., [System B]...",
+        "However,",
+        "Similarly,",
+        "Because",
+        "In response to",
+        "Despite making up only...",
+        "Thus,"
       ],
       "contrastMarkers": [
         "However, ...",
-        "While [System A] exhibited [flaw], [System B] similarly demonstrated [flaw]...",
-        "Instead of democratic representation, ...",
-        "Despite making up only a tiny minority, ..."
+        "While ordinary people in Hong Kong..., the same was true on the mainland.",
+        "Instead, it was Manchurian...",
+        "Despite only making up a little more than 1 per cent..."
+      ],
+      "causeEffectLanguage": [
+        "for ‘public health’ reasons in response to...",
+        "so ordinary Chinese people hardly had more power...",
+        "Because the Chinese government was not, in fact, Chinese..."
       ],
       "attributionPhrases": [
         "According to George Lai in Source G, ...",
-        "As reported in Spectator Magazine, ...",
-        "The author points out that ...",
-        "Lai’s historical comparison highlights that ..."
+        "As reported in Spectator Magazine (2022), ...",
+        "Lai points out that ...",
+        "Source G highlights that ..."
       ],
       "paragraphOutline": [
         "1. Topic Sentence: Attribute to Source G / George Lai and state that both colonial Hong Kong and dynastic China exhibited systemic inequality and unrepresentative governance.",
         "2. Hong Kong Evidence: Detail British colonial flaws—white dominance of high offices, judicial bias, and the 1904–1946 residential ban as legalised segregation.",
-        "3. Contrast/Transition: Use \"Similarly\" or \"However\" to transition to mainland China’s lack of democracy and non-representative leadership.",
+        "3. Contrast/Transition: Use \"However\" or \"Similarly\" to transition to mainland China’s lack of democracy and non-representative leadership.",
         "4. Mainland China Evidence: Explain that the Manchus conquered China in the 17th century, ruled as alien conquerors despite being a 1% minority, and enjoyed preferential legal and economic treatment.",
-        "5. Concluding Synthesis: Conclude that both populations were subjected to governance by privileged, unaccountable ruling elites."
+        "5. Concluding Synthesis: Conclude with \"Thus,\" or \"Overall,\" summarizing that both populations were subjected to governance by privileged, unrepresentative ruling elites."
       ],
       "sentenceStarters": [
         "According to George Lai in Source G, colonial Hong Kong and mainland China both experienced...",
@@ -805,33 +818,38 @@
         "Specifically, between 1904 and 1946, colonial authorities enforced legalised segregation by...",
         "Across the border in mainland China, ordinary citizens similarly lacked...",
         "Because China was governed by Manchu alien conquerors who comprised barely one per cent of the population, ...",
-        "Ultimately, Lai demonstrates that both societies were governed by..."
+        "Thus, Lai demonstrates that both societies were governed by..."
       ],
       "koreanEslErrorPairs": [
         {
-          "koreanKonglish": "Hong Kong British was very racism and China was also not good.",
-          "naturalEnglish": "British colonial authorities in Hong Kong practiced overt racism, while mainland China similarly lacked democratic governance.",
+          "mistake": "Hong Kong British was very racism and China was also not good.",
+          "correction": "British colonial authorities in Hong Kong practiced overt racism, while mainland China similarly lacked democratic governance.",
           "explanation": "\"Racism\"은 명사이므로 주격 보어로 \"was very racism\"이라고 쓸 수 없습니다. 형용사 racist를 쓰거나 \"practiced overt racism\"과 같이 동사구를 사용해야 하며, \"not good\" 대신 학술적 표현인 \"lacked democratic governance\"를 씁니다."
         },
         {
-          "koreanKonglish": "In 1904 to 1946, Chinese people banned to live in Hong Kong one area.",
-          "naturalEnglish": "From 1904 to 1946, ethnic Chinese people were banned by law from living in one area of Hong Kong.",
+          "mistake": "In 1904 to 1946, Chinese people banned to live in Hong Kong one area.",
+          "correction": "From 1904 to 1946, ethnic Chinese people were banned by law from living in one area of Hong Kong.",
           "explanation": "기간을 나타낼 때는 \"From A to B\"를 사용하며, 주민들이 법에 의해 금지당한 것이므로 능동형이 아닌 수동태 \"were banned by law from living\"을 써야 합니다."
         },
         {
-          "koreanKonglish": "Manchu was only 1% but they dominated China government by preferential treatment.",
-          "naturalEnglish": "Despite making up barely one per cent of the population, the Manchus dominated the highest levels of government and enjoyed preferential treatment.",
+          "mistake": "Manchu was only 1% but they dominated China government by preferential treatment.",
+          "correction": "Despite making up barely one per cent of the population, the Manchus dominated the highest levels of government and enjoyed preferential treatment.",
           "explanation": "\"Manchu was only 1%\"는 구어체적이며 부정확합니다. \"Despite making up barely one per cent of the population\"과 같은 양보 분사구문을 사용하여 학술적 문장으로 전환합니다."
         },
         {
-          "koreanKonglish": "Source G say that ordinary people had no power both Hong Kong and China.",
-          "naturalEnglish": "According to Source G, ordinary people lacked political representation in both colonial Hong Kong and mainland China.",
+          "mistake": "Source G say that ordinary people had no power both Hong Kong and China.",
+          "correction": "According to Source G, ordinary people lacked political representation in both colonial Hong Kong and mainland China.",
           "explanation": "주어-동사 수 일치(Source G says)를 지켜야 하며, \"had no power both\" 대신 \"lacked political representation in both A and B\"와 같이 명확하고 격식 있는 표현을 구사해야 합니다."
         }
       ],
+      "teacherCorrectionFocus": [
+        "Verify accurate attribution to Source G / George Lai in the opening sentence.",
+        "Check factual balance between Hong Kong colonial flaws (P1) and mainland China Manchu minority privileges (P2–P3).",
+        "Correct passive voice errors in historical governance verbs (\"was dominated by\", \"were banned by law\", \"were dealt with\").",
+        "Ensure adherence to the 100–140 word range and use of a clear concluding transition (\"Thus,\" or \"Overall,\")."
+      ],
       "g1Scaffold": "For G1 ESL students: Provide the structured paragraph frame with blanks for dates (1904–1946, 17th century, 1912) and key phrases (\"dominated by white British,\" \"legalised segregation,\" \"alien conquerors,\" \"preferential treatment\").",
-      "g2Extension": "For G2 ESL students: Encourage students to critically analyze the rhetorical effect of Lai’s comparative strategy, integrating complex compound-complex sentences with semicolons and concessive clauses (\"despite,\" \"whereas\").",
-      "teacherCorrectionPriorities": "Prioritize: (1) Accurate attribution to Source G / George Lai; (2) Factual balance between Hong Kong colonial flaws and China's Manchu dynastic privileges; (3) Correct passive voice formation in historical contexts; (4) Adherence to the 100–140 word target."
+      "g2Extension": "For G2 ESL students: Encourage students to critically analyze the rhetorical effect of Lai’s comparative strategy, integrating complex compound-complex sentences with semicolons and concessive clauses (\"despite,\" \"whereas\")."
     },
     "detailedReadingGuide": {
       "sourceLayoutNote": "Source G is composed of exactly 3 prose paragraphs following the Source Label and Citation. P1 contains 6 sentences detailing British colonial inequality in Hong Kong. P2 contains 3 sentences contrasting representation with mainland China. P3 contains 7 sentences detailing the Manchu alien conqueror dynasty and their minority privileges. Note that P3 continues seamlessly across the visual page break as one continuous paragraph.",
@@ -1053,7 +1071,7 @@
               "korean": "6번 문장의 강력한 결론을 보세요: '이것은 실질적으로 법제화된 격리의 한 형태였습니다.' 여기서 'effectively'는 무슨 뜻인가요?"
             },
             {
-              "english": "It means 'in reality' or 'in practice,' striping away the official excuses to define the policy truthfully.",
+              "english": "It means 'in reality' or 'in practice,' stripping away the official excuses to define the policy truthfully.",
               "korean": "공식적인 변명을 걷어내고 그 정책의 실질적인 본질을 사실 그대로 규정하는 '실질적으로는'이라는 뜻입니다."
             }
           ]
@@ -1185,7 +1203,7 @@
             }
           ],
           "mustKnowGrammar": "Single-word interrogative sentence acting as a dramatic rhetorical hook.",
-          "feynmanExplanation": "Why was this true? / Let us find out!",
+          "feynmanExplanation": "Why was this true? / Let us find out! /",
           "feynmanExplanationKo": "왜 그랬을까요? / 그 이유를 알아봅시다!",
           "teachingTranscript": [
             {
