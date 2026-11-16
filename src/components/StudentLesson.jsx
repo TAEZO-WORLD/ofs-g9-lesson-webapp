@@ -46,6 +46,7 @@ export default function StudentLesson({
         lessonGoal={lessonData.lessonGoal}
         sourceLabel={lessonData.article?.sourceLabel}
         citation={lessonData.article?.citation}
+        sourceNote={lessonData.article?.sourceNote}
       />
       <WarmUp data={lessonData.warmUp} />
       <ArticleReading data={lessonData.article} />

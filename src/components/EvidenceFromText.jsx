@@ -41,6 +41,7 @@ export default function EvidenceFromText({
               checkType="evidence"
               articleText={articleText}
               onCheck={onWritingCheck}
+              showWordCount={true}
             />
           </div>
         );

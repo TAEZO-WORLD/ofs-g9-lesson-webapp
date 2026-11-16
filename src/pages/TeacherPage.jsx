@@ -25,6 +25,7 @@ export default function TeacherPage() {
               lessonGoal={lessonData.lessonGoal}
               sourceLabel={lessonData.article?.sourceLabel}
               citation={lessonData.article?.citation}
+              sourceNote={lessonData.article?.sourceNote}
             />
             <TeacherPanel teacher={lessonData.teacher} lessonData={lessonData} />
             <StudentSubmissionsMonitor lessonSlug={lessonSlug} lessonData={lessonData} />

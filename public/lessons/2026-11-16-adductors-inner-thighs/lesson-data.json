@@ -1,0 +1,1138 @@
+{
+  "lessonTitle": "Why Your Inner Thighs Are Super Important!",
+  "ofsUnit": "Unit 2 — Health, Movement & Body Systems",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Grade 9 English informational health/fitness reading",
+  "writingType": "Evidence-Based Informational Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Identify adductors, explain how they support stability and balance, understand both exercises, and write an evidence-based explanation using Source WP without making medical claims.",
+  "warmUp": {
+    "title": "Warm-up: Everyday Leg Movement, Balance & Muscle Strength",
+    "instructions": "Discuss or write brief answers to these three questions using your everyday experience with sports, walking, or sitting in class. No prior anatomy knowledge is required.",
+    "questions": [
+      {
+        "id": "wu1",
+        "topic": "Leg Movement in Daily Life and Sports",
+        "question": "When you kick a ball, run, or jump, which parts of your legs do you notice working the most, and how do your legs stay under control?",
+        "promptKo": "공을 차거나 달리거나 점프할 때 다리의 어느 부분이 가장 많이 움직인다고 느끼며, 다리가 흔들리지 않고 균형을 유지하는 데 무엇이 도움이 되나요?",
+        "sentenceStarter": "When I run, jump, or kick a ball, my legs stay under control because..."
+      },
+      {
+        "id": "wu2",
+        "topic": "Keeping Your Balance",
+        "question": "In what daily situations or sports is keeping your balance especially important, and what happens when your body loses stability?",
+        "promptKo": "일상생활이나 스포츠에서 균형을 유지하는 것이 특히 중요한 상황은 언제이며, 몸의 안정성이 떨어지면 어떤 일이 생기나요?",
+        "sentenceStarter": "Keeping my balance is especially important when I..., because without stability..."
+      },
+      {
+        "id": "wu3",
+        "topic": "Weak Muscles and Sitting Too Long",
+        "question": "How might weak muscles or sitting for long hours at school affect how your body feels when you stand up and move?",
+        "promptKo": "근육이 약하거나 학교에서 너무 오래 앉아 있으면, 일어나서 움직일 때 몸의 느낌에 어떤 영향을 줄 수 있을까요?",
+        "sentenceStarter": "If muscles become weak from sitting too long at school, a person might feel..."
+      }
+    ],
+    "sentenceStarters": [
+      "When I run, jump, or kick a ball, my legs stay under control because...",
+      "Keeping my balance is especially important when I..., because without stability...",
+      "If muscles become weak from sitting too long at school, a person might feel..."
+    ]
+  },
+  "article": {
+    "title": "Why Your Inner Thighs Are Super Important!",
+    "source": "Source: WP",
+    "sourceNote": "Source: Teacher-provided classroom source image. Citation/source label reproduced as supplied.",
+    "paragraphs": [
+      "Did you know that your inner thighs do a lot more than just help you kick a soccer ball?",
+      "They’re called adductors, and they help keep your body stable when you walk, run, or jump! These muscles help pull your legs together and are important for keeping your balance.",
+      "If they’re weak, you could end up with aches and pains, especially in your lower back or knees. This can happen to anyone, from athletes to kids who sit too long at school!",
+      "To strengthen your adductors, try some fun exercises like the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, or the side-lying leg lift, where you carefully lift your lower leg while lying on your side. Strengthening your inner thighs can help you move better and feel great, so give it a try!"
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study these 10 key words and exercise terms from Source WP. Review each English definition, Korean meaning, and example sentence.",
+    "items": [
+      {
+        "word": "inner thighs",
+        "partOfSpeech": "noun phrase (plural)",
+        "korean": "허벅지 안쪽 (부위/근육)",
+        "definition": "The inside part of your upper legs, between your hips and knees.",
+        "sentence": "Did you know that your inner thighs do a lot more than just help you kick a soccer ball?"
+      },
+      {
+        "word": "adductors",
+        "partOfSpeech": "noun (plural)",
+        "korean": "내전근 (허벅지 안쪽 근육)",
+        "definition": "The muscles on the inside of the thighs that help pull your legs together and support stability.",
+        "sentence": "They’re called adductors, and they help keep your body stable when you walk, run, or jump!"
+      },
+      {
+        "word": "stable",
+        "partOfSpeech": "adjective",
+        "korean": "안정적인, 흔들리지 않는",
+        "definition": "Steady, firm, and well-supported so your body does not wobble or tip over easily.",
+        "sentence": "Strong adductors help keep your body stable when you walk, run, or jump."
+      },
+      {
+        "word": "balance",
+        "partOfSpeech": "noun",
+        "korean": "균형",
+        "definition": "The ability to stay upright and steady without falling while standing or moving.",
+        "sentence": "These muscles help pull your legs together and are important for keeping your balance."
+      },
+      {
+        "word": "aches and pains",
+        "partOfSpeech": "noun phrase (plural)",
+        "korean": "쑤시고 아픈 통증, 잔통증",
+        "definition": "Mild or ongoing physical discomfort or soreness in muscles or joints.",
+        "sentence": "If they’re weak, you could end up with aches and pains, especially in your lower back or knees."
+      },
+      {
+        "word": "lower back",
+        "partOfSpeech": "noun phrase",
+        "korean": "허리 아래쪽 (요추 부위)",
+        "definition": "The bottom part of your back, just above your hips and waist.",
+        "sentence": "Weak inner thigh muscles could contribute to discomfort in your lower back or knees."
+      },
+      {
+        "word": "strengthen",
+        "partOfSpeech": "verb",
+        "korean": "강화하다, 튼튼하게 하다",
+        "definition": "To make a muscle or part of the body stronger through regular movement or exercise.",
+        "sentence": "To strengthen your adductors, you can practice simple exercises on the floor."
+      },
+      {
+        "word": "bridge with squeeze",
+        "partOfSpeech": "noun phrase",
+        "korean": "무릎 사이에 베개를 끼우고 엉덩이를 드는 브리지 운동",
+        "definition": "An exercise where you lie on your back with a pillow between your knees and lift your hips.",
+        "sentence": "In the bridge with squeeze, you hold a pillow between your knees while lifting your hips."
+      },
+      {
+        "word": "side-lying leg lift",
+        "partOfSpeech": "noun phrase",
+        "korean": "옆으로 누워 아래쪽 다리를 들어 올리는 운동",
+        "definition": "An exercise where you lie on your side and carefully lift your lower leg.",
+        "sentence": "During a side-lying leg lift, you lie on one side and gently raise your lower leg."
+      },
+      {
+        "word": "lower leg",
+        "partOfSpeech": "noun phrase",
+        "korean": "(옆으로 누웠을 때) 바닥 쪽의 아래쪽 다리",
+        "definition": "The leg positioned underneath, closer to the floor, when you are lying on your side.",
+        "sentence": "In the side-lying leg lift, you carefully lift your lower leg while lying on your side."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea Question",
+    "question": "Which statement best summarizes the main idea of Source WP?",
+    "options": [
+      "The inner thigh muscles, called adductors, support stability and balance, and strengthening them with simple exercises can help prevent weakness-related discomfort and improve movement.",
+      "Soccer players are the only people who need strong inner thighs because kicking a ball is the main function of the adductors.",
+      "Kids who sit at school should avoid walking, running, and jumping until a doctor treats their knees and lower back.",
+      "The bridge with squeeze is much harder than the side-lying leg lift and requires special gym equipment."
+    ],
+    "correctIndex": 0,
+    "feedback": {
+      "correct": "Correct! Source WP explains what adductors do for stability and balance, what could happen if they are weak, and how two simple exercises can strengthen them.",
+      "incorrect": "Check all four paragraphs: Source WP defines adductors, explains their role in movement and balance, notes possible aches from weakness, and introduces two simple exercises."
+    },
+    "explanation": "Option A is correct (O): Source WP introduces the inner thighs as adductors (P1–P2), explains that they keep the body stable, pull the legs together, and support balance (P2), warns that weak adductors could lead to aches and pains in the lower back or knees for athletes or students who sit too long (P3), and suggests two exercises to strengthen them so you can move better and feel great (P4).\nOption B is incorrect (X): Paragraph 1 specifically says inner thighs \"do a lot more than just help you kick a soccer ball,\" and Paragraph 3 says weakness can happen to anyone, including kids at school.\nOption C is incorrect (X): Source WP never advises avoiding walking, running, or jumping, nor does it mention doctors or medical treatment.\nOption D is incorrect (X): Source WP calls both \"fun exercises\" and uses a simple pillow rather than gym equipment, without comparing their difficulty."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer all 6 questions using only the information stated in Source WP.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraphs 1 and 2, what are your inner thigh muscles called, and what does the article say about kicking a soccer ball?",
+        "options": [
+          "They are called lower legs, and kicking a soccer ball is the only thing they do.",
+          "They are called adductors, and they do much more than just help you kick a soccer ball.",
+          "They are called lower backs, and they only work when you sit at school.",
+          "They are called bridges, and they are used only by professional soccer athletes."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraphs 1–2",
+        "explanation": "Option B is correct (O): Paragraph 1 asks whether inner thighs \"do a lot more than just help you kick a soccer ball?\" and Paragraph 2 identifies them: \"They’re called adductors.\"\nOption A is incorrect (X): \"Lower leg\" refers to the leg lifted in the side-lying leg lift (P4), not the name of the inner thigh muscles, and P1 states they do \"a lot more.\"\nOption C is incorrect (X): \"Lower back\" is a body area where aches and pains could happen (P3), not the muscle name.\nOption D is incorrect (X): \"Bridge with squeeze\" is an exercise name (P4), not the muscle name."
+      },
+      {
+        "id": "rc2",
+        "question": "According to Paragraph 2, when do the adductors help keep your body stable?",
+        "options": [
+          "Only when you lie on your back with a pillow",
+          "Only when you sit at a desk for a long time",
+          "When you walk, run, or jump",
+          "Only when you kick a soccer ball"
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option C is correct (O): Paragraph 2 states directly: \"they help keep your body stable when you walk, run, or jump!\"\nOption A is incorrect (X): Lying on your back with a pillow describes the bridge with squeeze exercise in Paragraph 4.\nOption B is incorrect (X): Sitting too long at school is mentioned in Paragraph 3 as a situation linked to weakness, not stability.\nOption D is incorrect (X): Paragraph 1 says they do \"a lot more than just help you kick a soccer ball.\""
+      },
+      {
+        "id": "rc3",
+        "question": "Besides keeping your body stable, what other two things does Paragraph 2 say these muscles help do?",
+        "options": [
+          "Lift your hips and bend your lower back",
+          "Pull your legs together and keep your balance",
+          "Stretch your arms and strengthen your neck",
+          "Protect your pillow and speed up your sitting"
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option B is correct (O): Sentence 3 in Paragraph 2 says: \"These muscles help pull your legs together and are important for keeping your balance.\"\nOption A is incorrect (X): Lifting your hips is an action in the bridge with squeeze (P4), and bending the lower back is not mentioned.\nOption C is incorrect (X): Arms and neck are not mentioned anywhere in Source WP.\nOption D is incorrect (X): This mixes unrelated words from Paragraphs 3 and 4."
+      },
+      {
+        "id": "rc4",
+        "question": "According to Paragraph 3, what could happen if your adductors are weak, and who can this happen to?",
+        "options": [
+          "You could get aches and pains in your lower back or knees, and it can happen to anyone from athletes to kids who sit too long at school.",
+          "You will permanently lose your ability to walk, and it only happens to older adults.",
+          "You will feel pain only in your shoulders, and it only affects professional runners.",
+          "You will immediately break a knee bone, and it only happens when playing soccer."
+        ],
+        "correctIndex": 0,
+        "paragraphRef": "Paragraph 3",
+        "explanation": "Option A is correct (O): Paragraph 3 states: \"If they’re weak, you could end up with aches and pains, especially in your lower back or knees. This can happen to anyone, from athletes to kids who sit too long at school!\"\nOption B is incorrect (X): Source WP says you \"could end up with aches and pains,\" never claiming permanent loss of walking or limiting it to older adults.\nOption C is incorrect (X): Shoulders are never mentioned, and Paragraph 3 explicitly says \"anyone,\" including kids at school.\nOption D is incorrect (X): Broken bones are never mentioned in Source WP."
+      },
+      {
+        "id": "rc5",
+        "question": "How do you perform the bridge with squeeze according to Paragraph 4?",
+        "options": [
+          "You stand on one foot and kick a soccer ball across the room.",
+          "You lie on your side and lift your top leg toward the ceiling.",
+          "You sit in a chair at school and press your knees against a desk.",
+          "You lie on your back with a pillow between your knees and lift your hips."
+        ],
+        "correctIndex": 3,
+        "paragraphRef": "Paragraph 4",
+        "explanation": "Option D is correct (O): Paragraph 4 describes the bridge with squeeze as the exercise \"where you lie on your back with a pillow between your knees and lift your hips.\"\nOption A is incorrect (X): Source WP does not describe a one-foot kicking exercise.\nOption B is incorrect (X): Lying on your side is part of the side-lying leg lift, and even there you lift your lower leg, not your top leg.\nOption C is incorrect (X): Sitting at school is mentioned in Paragraph 3, not as an exercise in Paragraph 4."
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraph 4, how do you do the side-lying leg lift, and what is the article’s final message?",
+        "options": [
+          "You lie on your back and lift both legs quickly; doing this cures all knee injuries forever.",
+          "You carefully lift your lower leg while lying on your side; strengthening your inner thighs can help you move better and feel great.",
+          "You jump as high as possible; athletes must do this exercise every hour at school.",
+          "You squeeze a pillow while walking; inner thighs only matter during soccer games."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 4",
+        "explanation": "Option B is correct (O): Paragraph 4 describes \"the side-lying leg lift, where you carefully lift your lower leg while lying on your side\" and concludes: \"Strengthening your inner thighs can help you move better and feel great, so give it a try!\"\nOption A is incorrect (X): You lie on your side (not your back) and lift carefully (not quickly), and Source WP never promises a cure for all injuries.\nOption C is incorrect (X): Jumping is mentioned in P2 as a movement adductors stabilize, not as an exercise instruction in P4.\nOption D is incorrect (X): The pillow is used while lying on your back in the bridge with squeeze, not while walking."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Write short, evidence-based answers using exact details from Source WP. Then click Check & Compare to run the rule-based check and compare with a model.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "What are the inner thigh muscles called, and what three movement or stability functions do they perform according to Paragraph 2?",
+        "paragraphRef": "Paragraph 2",
+        "modelAnswer": "According to Paragraph 2, the inner thighs are called \"adductors.\" They help keep your body stable when you walk, run, or jump, help pull your legs together, and are important for keeping your balance.",
+        "compareTip": "Check that you named \"adductors\" and included all three functions from Paragraph 2: (1) keeping your body stable when walking, running, or jumping, (2) pulling your legs together, and (3) keeping your balance.",
+        "compareTips": [
+          "Name the muscles accurately (\"adductors\").",
+          "Include keeping the body stable during walking, running, or jumping.",
+          "Include pulling legs together and keeping balance."
+        ]
+      },
+      {
+        "id": "ev2",
+        "question": "According to Paragraph 3, what two problem areas could experience aches and pains if adductors are weak, and which two groups of people does the text say this can happen to?",
+        "paragraphRef": "Paragraph 3",
+        "modelAnswer": "Paragraph 3 explains that if adductors are weak, a person \"could end up with aches and pains, especially in your lower back or knees.\" The text notes this can happen to anyone, naming both \"athletes\" and \"kids who sit too long at school.\"",
+        "compareTip": "Confirm that you used cautious wording (\"could end up with aches and pains\"), listed both body areas (\"lower back or knees\"), and named both groups (\"athletes\" and \"kids who sit too long at school\").",
+        "compareTips": [
+          "Identify both problem areas: lower back and knees.",
+          "Identify both groups mentioned: athletes and kids who sit too long at school.",
+          "Use cautious source language (\"could end up with\") rather than medical certainty."
+        ]
+      },
+      {
+        "id": "ev3",
+        "question": "Using evidence from Paragraph 4, compare the body position and movement required in the \"bridge with squeeze\" and the \"side-lying leg lift.\"",
+        "paragraphRef": "Paragraph 4",
+        "modelAnswer": "In Paragraph 4, the \"bridge with squeeze\" requires lying on your back with a pillow between your knees and lifting your hips. By contrast, in the \"side-lying leg lift,\" you lie on your side and carefully lift your lower leg.",
+        "compareTip": "Check that your comparison contrasts both body position (lying on your back with a pillow between your knees vs. lying on your side) and movement (lifting your hips vs. carefully lifting your lower leg).",
+        "compareTips": [
+          "Describe the bridge with squeeze accurately (on your back, pillow between knees, lift hips).",
+          "Describe the side-lying leg lift accurately (on your side, carefully lift lower leg).",
+          "Use a comparison signal such as \"by contrast,\" \"while,\" or \"whereas.\""
+        ]
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus: Definitions, Conditionals, Purpose & Exercise Descriptions",
+    "topic": "Explaining Body Functions, Cause/Effect, and Exercise Steps from Source WP",
+    "explanation": "Source WP uses clear, accessible informational grammar to define a body part, show what happens under certain conditions, explain purpose, and describe exercise steps accurately.",
+    "patterns": [
+      {
+        "name": "1. Definition / Naming Structure (\"They’re called...\")",
+        "explanation": "Introduces a specific term for something already familiar to the reader.",
+        "example": "The muscles on the inside of the legs are called adductors.",
+        "sourceExample": "They’re called adductors, and they help keep your body stable when you walk, run, or jump!"
+      },
+      {
+        "name": "2. Cause and Effect (\"could end up with...\", \"can help you...\")",
+        "explanation": "Shows possible results cautiously using modals like \"could\" and \"can\" instead of guaranteed medical promises.",
+        "example": "Without regular movement, students could end up with discomfort, whereas simple exercises can help them move comfortably.",
+        "sourceExample": "If they’re weak, you could end up with aches and pains, especially in your lower back or knees. / Strengthening your inner thighs can help you move better and feel great, so give it a try!"
+      },
+      {
+        "name": "3. Time Clauses with \"when\" and \"while\"",
+        "explanation": "Connects muscle function or exercise action to the exact moment an activity happens.",
+        "example": "Your leg muscles work together when you jump and while you hold an exercise pose.",
+        "sourceExample": "...they help keep your body stable when you walk, run, or jump! / ...where you carefully lift your lower leg while lying on your side."
+      },
+      {
+        "name": "4. Conditional Clause with \"if\"",
+        "explanation": "States a condition (weak adductors) and its possible consequence (aches and pains).",
+        "example": "If your inner thighs are weak, your knees or lower back could feel sore.",
+        "sourceExample": "If they’re weak, you could end up with aches and pains, especially in your lower back or knees."
+      },
+      {
+        "name": "5. Purpose Infinitive (\"To strengthen...\")",
+        "explanation": "Begins a sentence with \"To + base verb\" to explain why someone performs the exercises.",
+        "example": "To strengthen your inner thighs, you can practice slow, controlled floor exercises.",
+        "sourceExample": "To strengthen your adductors, try some fun exercises like the bridge with squeeze..."
+      },
+      {
+        "name": "6. Relative Clauses with \"where...\"",
+        "explanation": "Adds a clear step-by-step description directly after the name of an exercise.",
+        "example": "One simple exercise is the bridge with squeeze, where you place a pillow between your knees.",
+        "sourceExample": "...the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, or the side-lying leg lift, where you carefully lift your lower leg while lying on your side."
+      },
+      {
+        "name": "7. Action Verbs for Movement and Exercises",
+        "explanation": "Uses clear, concrete verbs to show everyday movement and exact exercise instructions.",
+        "example": "People kick, walk, run, and jump every day, and during exercises they lie down and lift carefully.",
+        "sourceExample": "...kick a soccer ball... / ...walk, run, or jump! / ...pull your legs together... / ...lie on your back... and lift your hips... / ...carefully lift your lower leg while lying on your side."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete all four writing prompts using clear, complete sentences and evidence from Source WP. Avoid adding outside medical claims or promises. Click Check & Compare after each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "prompt": "Define what the adductors are and explain how they help your body during everyday movement, using \"called adductors\" and \"when\".",
+        "targetWords": 12,
+        "targetConnectors": [
+          "when",
+          "and",
+          "while",
+          "because"
+        ],
+        "targetVocabulary": [
+          "inner thighs",
+          "adductors",
+          "stable",
+          "balance"
+        ],
+        "modelAnswer": "The muscles in your inner thighs are called adductors, and they help keep your body stable when you walk, run, or jump while also keeping your balance.",
+        "compareTip": "Check that your sentence defines adductors as inner thigh muscles and uses \"when\" to show when they keep the body stable."
+      },
+      {
+        "id": "wp2",
+        "prompt": "Write 1–2 sentences explaining the cause and effect of weak adductors using an \"If...\" conditional clause and cautious language (\"could\").",
+        "targetWords": 12,
+        "targetConnectors": [
+          "if",
+          "because",
+          "so",
+          "as a result"
+        ],
+        "targetVocabulary": [
+          "adductors",
+          "aches and pains",
+          "lower back"
+        ],
+        "modelAnswer": "If your adductors are weak, you could end up with aches and pains in your lower back or knees. According to Source WP, this can happen to athletes or kids who sit too long at school.",
+        "compareTip": "Verify that you started or built your sentence with \"If...\" and used cautious modal language (\"could\") rather than medical certainty."
+      },
+      {
+        "id": "wp3",
+        "prompt": "Write 1–2 sentences describing the sequence of steps for one exercise from Source WP, using \"To strengthen\" and \"where\" (or sequence words like \"first\" and \"then\").",
+        "targetWords": 14,
+        "targetConnectors": [
+          "while",
+          "then",
+          "first",
+          "because"
+        ],
+        "targetVocabulary": [
+          "strengthen",
+          "bridge with squeeze",
+          "side-lying leg lift",
+          "lower leg"
+        ],
+        "modelAnswer": "To strengthen your adductors, you can try the bridge with squeeze, where you first lie on your back with a pillow between your knees and then lift your hips.",
+        "compareTip": "Confirm that your steps match Source WP accurately and use \"To strengthen\" plus \"where\" or clear sequence words."
+      },
+      {
+        "id": "wp4",
+        "prompt": "Write 1–2 sentences comparing the bridge with squeeze and the side-lying leg lift using a contrast word (\"while\" or \"whereas\").",
+        "targetWords": 14,
+        "targetConnectors": [
+          "while",
+          "whereas",
+          "however",
+          "in contrast"
+        ],
+        "targetVocabulary": [
+          "bridge with squeeze",
+          "side-lying leg lift",
+          "lower leg"
+        ],
+        "modelAnswer": "In the bridge with squeeze, you lie on your back with a pillow between your knees and lift your hips, whereas in the side-lying leg lift, you lie on your side and carefully lift your lower leg.",
+        "compareTip": "Check that you compared both body position and movement accurately using a clear contrast connector."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task: Evidence-Based Explanation Paragraph",
+    "instructions": "Write a 100–140 word informational paragraph answering the exact question below based strictly on Source WP. Do not add outside anatomy facts, medical diagnoses, or treatment promises.",
+    "prompt": "Why are the adductors important, and how can a person strengthen them according to Source WP?",
+    "checklist": [
+      "Defines adductors as the inner thigh muscles and states their role in pulling the legs together.",
+      "Explains how adductors keep the body stable (walk, run, jump) and help keep balance.",
+      "Includes at least one consequence of weak adductors (aches and pains in the lower back or knees; athletes or kids sitting too long).",
+      "Accurately describes both exercises from Source WP: bridge with squeeze and side-lying leg lift.",
+      "Ends with a clear concluding sentence based only on Source WP, with no medical diagnosis or treatment promises.",
+      "Meets the 100–140 word count target and uses target grammar (when, if, to strengthen, where)."
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "targetVocabulary": [
+      "inner thighs",
+      "adductors",
+      "stable",
+      "balance",
+      "aches and pains",
+      "lower back",
+      "strengthen",
+      "bridge with squeeze",
+      "side-lying leg lift",
+      "lower leg"
+    ],
+    "targetConnectors": [
+      "when",
+      "if",
+      "while",
+      "whereas",
+      "however",
+      "because",
+      "so",
+      "overall",
+      "in conclusion",
+      "therefore"
+    ],
+    "modelAnswer": "According to Source WP, the inner thigh muscles are called adductors and are essential for daily movement. They help keep the body stable when you walk, run, or jump, while pulling your legs together to maintain balance. However, if these muscles are weak, anyone, from athletes to kids sitting too long at school, could end up with aches and pains, especially in the lower back or knees. To strengthen the adductors, Source WP suggests two exercises: the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, and the side-lying leg lift, where you carefully lift your lower leg while lying on your side. Overall, strengthening your inner thighs can help you move better and feel great.",
+    "compareGuide": "Compare your draft with the model: Did you define adductors, explain stability/balance and pulling legs together, mention a possible consequence of weakness, describe both exercises accurately, and end with a source-based conclusion in 100–140 words without medical claims?",
+    "revisionTips": [
+      "Attribute ideas clearly to Source WP (\"According to Source WP...\", \"Source WP suggests...\").",
+      "Use cautious source verbs (\"could end up with\", \"can help\") and avoid medical diagnoses or cure claims.",
+      "Check that both exercises (\"bridge with squeeze\" and \"side-lying leg lift\") keep exact Source WP body positions and movements.",
+      "End with a concluding transition such as \"Overall,\" or \"In conclusion,\" and keep your paragraph between 100 and 140 words."
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Check all 6 items before submitting your lesson work.",
+    "items": [
+      "Understanding: I understand the main idea and all key facts in Source WP without adding outside information.",
+      "Vocabulary: I can use key terms from the lesson, such as adductors, stable, balance, aches and pains, and strengthen.",
+      "Function: I explained how adductors keep the body stable when walking, running, or jumping, pull the legs together, and support balance.",
+      "Evidence: I cited Source WP accurately to describe possible aches and pains from weak adductors without making medical claims or promises.",
+      "Exercise Description: I clearly and accurately described both the bridge with squeeze and the side-lying leg lift.",
+      "Word Count: I checked that my Writing Task paragraph is between 100 and 140 words and ends with a clear conclusion."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 0,
+        "rationale": "Option A accurately captures all four paragraphs of Source WP: defining inner thighs as adductors, explaining stability/balance, noting possible aches and pains from weakness, and presenting two strengthening exercises."
+      },
+      "readingComprehension": {
+        "rc1": {
+          "correctIndex": 1,
+          "rationale": "P1 notes inner thighs do a lot more than just help kick a soccer ball, and P2 names them \"adductors.\""
+        },
+        "rc2": {
+          "correctIndex": 2,
+          "rationale": "P2 explicitly states they help keep your body stable \"when you walk, run, or jump!\""
+        },
+        "rc3": {
+          "correctIndex": 1,
+          "rationale": "P2 Sentence 3 states: \"These muscles help pull your legs together and are important for keeping your balance.\""
+        },
+        "rc4": {
+          "correctIndex": 0,
+          "rationale": "P3 states weak adductors could lead to aches and pains, especially in the lower back or knees, and can happen to anyone from athletes to kids who sit too long at school."
+        },
+        "rc5": {
+          "correctIndex": 3,
+          "rationale": "P4 defines the bridge with squeeze as \"where you lie on your back with a pillow between your knees and lift your hips.\""
+        },
+        "rc6": {
+          "correctIndex": 1,
+          "rationale": "P4 defines the side-lying leg lift as \"where you carefully lift your lower leg while lying on your side\" and closes with \"Strengthening your inner thighs can help you move better and feel great, so give it a try!\""
+        }
+      },
+      "evidenceFromText": {
+        "ev1": "Called \"adductors\" (P2); keep body stable when you walk, run, or jump; pull legs together; important for keeping balance.",
+        "ev2": "Two areas: lower back or knees (\"aches and pains\"). Two groups: athletes and kids who sit too long at school.",
+        "ev3": "Bridge with squeeze: lie on your back with a pillow between your knees and lift hips. Side-lying leg lift: lie on your side and carefully lift your lower leg."
+      },
+      "writingPractice": {
+        "wp1": "The muscles in your inner thighs are called adductors, and they help keep your body stable when you walk, run, or jump while also keeping your balance.",
+        "wp2": "If your adductors are weak, you could end up with aches and pains in your lower back or knees. According to Source WP, this can happen to athletes or kids who sit too long at school.",
+        "wp3": "To strengthen your adductors, you can try the bridge with squeeze, where you first lie on your back with a pillow between your knees and then lift your hips.",
+        "wp4": "In the bridge with squeeze, you lie on your back with a pillow between your knees and lift your hips, whereas in the side-lying leg lift, you lie on your side and carefully lift your lower leg."
+      },
+      "languageFocus": "Definition/naming (\"They’re called adductors\"); cause/effect with cautious modals (\"could end up with\", \"can help\"); time clauses (\"when you walk, run, or jump\", \"while lying on your side\"); conditional (\"If they’re weak\"); purpose infinitive (\"To strengthen your adductors\"); relative clauses with \"where...\"; concrete action verbs (kick, walk, run, jump, pull, lie, lift).",
+      "writingTask": "According to Source WP, the inner thigh muscles are called adductors and are essential for daily movement. They help keep the body stable when you walk, run, or jump, while pulling your legs together to maintain balance. However, if these muscles are weak, anyone, from athletes to kids sitting too long at school, could end up with aches and pains, especially in the lower back or knees. To strengthen the adductors, Source WP suggests two exercises: the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, and the side-lying leg lift, where you carefully lift your lower leg while lying on your side. Overall, strengthening your inner thighs can help you move better and feel great."
+    },
+    "modelAnswer": "According to Source WP, the inner thigh muscles are called adductors and are essential for daily movement. They help keep the body stable when you walk, run, or jump, while pulling your legs together to maintain balance. However, if these muscles are weak, anyone, from athletes to kids sitting too long at school, could end up with aches and pains, especially in the lower back or knees. To strengthen the adductors, Source WP suggests two exercises: the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, and the side-lying leg lift, where you carefully lift your lower leg while lying on your side. Overall, strengthening your inner thighs can help you move better and feel great.",
+    "rubric": {
+      "title": "Evidence-Based Informational Explanation Rubric (OFS G9 ESL)",
+      "categories": [
+        {
+          "criterion": "Content & Ideas",
+          "description": "Complete and accurate explanation of adductor importance, weakness consequences, and both exercises strictly from Source WP.",
+          "score4": "Clearly defines adductors, explains stability/balance and pulling legs together, states weakness consequences, and accurately describes both exercises with zero outside medical claims.",
+          "score3": "Covers adductor functions, weakness consequences, and both exercises accurately with minor omission of detail.",
+          "score2": "Covers some ideas from Source WP, but omits either a consequence of weakness or details of one exercise, or adds minor unsupported claims.",
+          "score1": "Minimal or inaccurate content; omits core functions or exercises, or relies on outside medical diagnosis/promises."
+        },
+        {
+          "criterion": "Evidence Use",
+          "description": "Accurate integration of Source WP details with cautious source attribution and no medical diagnosis or guarantees.",
+          "score4": "Skillfully integrates exact details from P1–P4 (stability during walk/run/jump, lower back/knees, athletes/kids at school, pillow/hips, lower leg) attributed to Source WP using cautious modals.",
+          "score3": "Includes clear details from Source WP with explicit attribution and mostly cautious wording.",
+          "score2": "Uses general ideas from the text with weak attribution or occasional overstated medical claims (e.g., \"cures knee pain\").",
+          "score1": "Lacks specific evidence from Source WP or invents medical facts not in the passage."
+        },
+        {
+          "criterion": "Target Language/Structure",
+          "description": "Effective use of definition, cause/effect, when/if clauses, purpose (\"to strengthen\"), relative clauses (\"where...\"), and action verbs.",
+          "score4": "Naturally and accurately combines definition (\"called adductors\"), \"when\"/\"if\" clauses, purpose infinitive (\"to strengthen\"), \"where\" relative clauses, and precise action verbs.",
+          "score3": "Uses most target structures accurately (e.g., \"when\", \"if\", \"to strengthen\", \"where\") with clear meaning.",
+          "score2": "Attempts target structures or connectors, but shows recurring errors in clause connection or verb forms.",
+          "score1": "Relies only on simple disconnected clauses with little or no target grammar from Language Focus."
+        },
+        {
+          "criterion": "Organization",
+          "description": "Logical paragraph progression from definition/importance to weakness consequence, both exercises, and a concluding summary.",
+          "score4": "Flows smoothly from topic sentence with attribution to functions, weakness consequence, both exercises, and a cohesive concluding sentence (\"Overall,\" / \"In conclusion,\").",
+          "score3": "Follows a clear paragraph order with identifiable topic, supporting details, and concluding statement.",
+          "score2": "Ideas are loosely ordered or jump between functions and exercises without clear transitions.",
+          "score1": "Lacks paragraph unity or omits a clear opening or concluding sentence."
+        },
+        {
+          "criterion": "Accuracy",
+          "description": "Control of grammar, spelling, punctuation, source vocabulary (e.g., hyphenated \"side-lying leg lift\"), and 100–140 word target.",
+          "score4": "High grammatical accuracy, accurate spelling and punctuation (including \"side-lying leg lift\" and \"aches and pains\"), and strictly within 100–140 words.",
+          "score3": "Good grammatical control with minor ESL errors that do not obscure meaning; meets 100–140 word range.",
+          "score2": "Noticeable grammar, subject-verb, or preposition errors, or slightly under/over the 100–140 word target.",
+          "score1": "Frequent errors interfere with comprehension, or word count is far outside 100–140 words."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "Defining Adductors Strictly from Source WP",
+        "note": "In Source WP, \"adductors\" are introduced simply as the name for the inner thigh muscles (\"They’re called adductors\"). Keep definitions at this accessible Grade 9 informational level without adding Latin muscle names (e.g., adductor magnus/longus) or outside physiology."
+      },
+      {
+        "topic": "Core Source Terms Coverage (10 Target Items)",
+        "note": "Ensure students distinguish all 10 terms in context: inner thighs (inside upper legs), adductors (inner thigh muscles), stable (steady during movement), balance (staying upright), aches and pains (general soreness/discomfort), lower back (bottom of back), strengthen (make stronger), bridge with squeeze (back-lying, pillow between knees, lift hips), side-lying leg lift (side-lying, lift lower leg), and lower leg (the leg closer to the floor when lying on your side)."
+      },
+      {
+        "topic": "Separating Source Claims from Teacher Explanation",
+        "note": "Explicitly model the boundary between what Source WP states (functions, possible aches and pains in lower back or knees, two exercises) and teacher-provided grammar/ESL scaffolding (how \"if\", \"when\", \"to strengthen\", and \"where\" clauses work). Students must attribute claims to Source WP rather than stating them as personal medical expertise."
+      },
+      {
+        "topic": "Non-Medical Caution: No Diagnosis or Treatment Guarantees",
+        "note": "Source WP is a general informational fitness reading, NOT medical advice. Highlight the author’s cautious modals: \"could end up with aches and pains\" and \"can help you move better and feel great.\" Explicitly forbid students from writing medical diagnoses, clinical claims, or cure guarantees (e.g., do NOT write \"this cures knee injury\" or \"sitting causes permanent damage\")."
+      },
+      {
+        "topic": "G1 vs. G2 ESL Differentiation",
+        "note": "For G1 students, provide sentence frames (\"According to Source WP, adductors are...\", \"If they are weak, ...\", \"To strengthen them, ...\") and highlight the two \"where...\" exercise descriptions visually. For G2 students, challenge them to combine the two exercises with \"whereas\" or \"while\" and maintain consistent cautious attribution throughout a 115–130 word paragraph."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": 1,
+        "phaseName": "Lead-in & Warm-up Activation",
+        "duration": "5 minutes",
+        "objective": "Activate everyday awareness of leg movement, balance, and sitting fatigue without requiring prior anatomy knowledge.",
+        "actions": [
+          "Display the Lesson Header title (\"Why Your Inner Thighs Are Super Important!\") and source note.",
+          "Preview the 3 Warm-up questions on leg movement, balance, and weak muscles from sitting."
+        ],
+        "scriptEn": "Good morning, class. / Today we are reading Source WP: / \"Why Your Inner Thighs Are Super Important!\" / Before we read, look at the three Warm-up questions. / You do not need any medical or anatomy terms yet. / Just think about kicking a ball, / keeping your balance, / and how your body feels after sitting at school.",
+        "scriptKo": "안녕하세요, 여러분. / 오늘 우리는 Source WP인 / \"Why Your Inner Thighs Are Super Important!\"를 읽을 것입니다. / 읽기 전에 세 가지 워밍업 질문을 보세요. / 아직 의학 용어나 해부학 지식이 전혀 필요하지 않습니다. / 공을 차는 것, / 균형을 잡는 것, / 그리고 학교에 오래 앉아 있을 때 몸이 어떤지 일상 경험으로 생각해 보세요.",
+        "studentActions": "Students read the 3 Warm-up prompts, discuss briefly with a partner, or jot short answers using the sentence starters.",
+        "misconception": "Students may worry that they do not know medical muscle names before reading.",
+        "correctiveFeedback": "Reassure students that Warm-up focuses only on everyday movement, balance, and comfort; the text itself will introduce the muscle name.",
+        "transition": "Now let us preview the 10 key vocabulary terms from Source WP so every phrase in the reading feels clear."
+      },
+      {
+        "phase": 2,
+        "phaseName": "Vocabulary Introduction",
+        "duration": "10 minutes",
+        "objective": "Build student familiarity with all 10 required vocabulary terms, especially exercise phrases and movement nouns.",
+        "actions": [
+          "Model pronunciation for \"adductors\", \"stable\", \"aches and pains\", \"strengthen\", and \"side-lying leg lift\".",
+          "Check comprehension of \"lower back\" vs. \"lower leg\" and confirm \"side-lying leg lift\" keeps its hyphen."
+        ],
+        "scriptEn": "Let us look at the ten vocabulary items in context. / First, notice the muscle name: \"adductors.\" / Say it with me: ad-DUC-tors. / Next, look closely at two phrases that both contain the word \"lower\": / \"lower back\" means the bottom part of your back, / while \"lower leg\" in the side-lying leg lift / means the leg underneath, closer to the floor. / Also notice that \"side-lying leg lift\" stays hyphenated.",
+        "scriptKo": "이제 문맥 속 어휘 10개를 살펴봅시다. / 먼저 근육 이름인 \"adductors(내전근)\"를 보세요. / 함께 따라 읽어 봅시다: ad-DUC-tors. / 다음으로, 둘 다 \"lower\"가 들어가는 두 표현을 구별해 봅시다: / \"lower back\"은 허리 아래쪽을 뜻하고, / side-lying leg lift에서의 \"lower leg\"는 / 옆으로 누웠을 때 바닥에 가까운 아래쪽 다리를 뜻합니다. / 또한 \"side-lying leg lift\"에는 하이픈(-)이 유지된다는 점도 확인하세요.",
+        "studentActions": "Students repeat key words aloud, check Korean meanings, and underline \"lower back\" vs. \"lower leg\" in their notes.",
+        "misconception": "Students often confuse \"lower leg\" (below the knee vs. bottom leg when lying on one’s side) or omit the hyphen in \"side-lying\".",
+        "correctiveFeedback": "Clarify that in Source WP’s side-lying leg lift, \"lower leg\" means the bottom leg resting on the floor while lying on your side.",
+        "transition": "With these 10 terms clear, let us read the exact Source WP passage for the gist."
+      },
+      {
+        "phase": 3,
+        "phaseName": "Gist Reading (Exact Source WP & Main Idea)",
+        "duration": "12 minutes",
+        "objective": "Read the exact 4-paragraph Source WP passage aloud and verify understanding of the Main Idea.",
+        "actions": [
+          "Read all 4 paragraphs and \"Source: WP\" aloud in exact canonical form without paraphrasing.",
+          "Guide students to select and justify the single best Main Idea option."
+        ],
+        "scriptEn": "Let us read Source WP together / from the title down to \"Source: WP.\" / Follow each paragraph carefully: / Paragraph 1 opens with a question about kicking a soccer ball. / Paragraph 2 names the adductors and explains stability and balance. / Paragraph 3 explains what could happen if they are weak. / Paragraph 4 introduces two exercises to strengthen them. / After reading, answer the Main Idea question.",
+        "scriptKo": "제목부터 \"Source: WP\"까지 / Source WP 본문을 함께 읽어 봅시다. / 각 문단을 주의 깊게 따라오세요: / 1문단은 축구공을 차는 것에 대한 질문으로 시작합니다. / 2문단은 내전근의 이름을 밝히고 안정성과 균형을 설명합니다. / 3문단은 이 근육들이 약할 때 생길 수 있는 일을 설명합니다. / 4문단은 이를 강화하는 두 가지 운동을 소개합니다. / 읽은 뒤 중심 생각(Main Idea) 문제를 풀어 보세요.",
+        "studentActions": "Students track the 4 paragraphs silently while listening, then select their answer for the Main Idea MCQ.",
+        "misconception": "Students might pick an option that exaggerates soccer or invents medical advice.",
+        "correctiveFeedback": "Point back to P1 (\"a lot more than just help you kick a soccer ball\") and confirm Option A covers all 4 paragraphs.",
+        "transition": "Now let us examine each sentence in detail and practice finding exact text evidence."
+      },
+      {
+        "phase": 4,
+        "phaseName": "Detail & Evidence Analysis",
+        "duration": "10 minutes",
+        "objective": "Complete the 6 Reading Comprehension MCQs and 3 Evidence from the Text responses using only Source WP.",
+        "actions": [
+          "Walk through the 6 Comprehension questions and paragraph references.",
+          "Have students draft the 3 Evidence responses (function, two problems/groups, compare exercises) and run Check & Compare."
+        ],
+        "scriptEn": "Now move to Reading Comprehension / and Evidence from the Text. / For every answer, stay strictly inside Source WP. / In Evidence 1, find three functions in Paragraph 2. / In Evidence 2, identify the two body areas / and the two groups of people in Paragraph 3. / Notice the word \"could\": / Source WP does not diagnose or promise a cure. / In Evidence 3, compare the two exercises in Paragraph 4.",
+        "scriptKo": "이제 세부 독해(Reading Comprehension)와 / 본문 근거 찾기(Evidence from the Text)로 넘어갑시다. / 모든 답은 반드시 Source WP 본문 안에서만 찾아야 합니다. / 근거 1번에서는 2문단의 세 가지 기능을 찾으세요. / 근거 2번에서는 3문단의 두 신체 부위와 / 두 집단의 사람들을 파악하세요. / \"could\"라는 단어에 주목하세요: / Source WP는 의학적 진단이나 완치를 보장하지 않습니다. / 근거 3번에서는 4문단의 두 운동을 비교해 보세요.",
+        "studentActions": "Students answer RC1–RC6, write Evidence 1–3 in the textareas, and click Check & Compare.",
+        "misconception": "Students frequently state medical absolutes (\"weak adductors always cause back injury\") instead of matching \"could end up with aches and pains\".",
+        "correctiveFeedback": "Remind students to use cautious source phrasing (\"could end up with\", \"can help\") and verify 3-word overlap in Check & Compare.",
+        "transition": "Let us now examine the grammar patterns Source WP uses to explain functions, conditions, and exercise steps."
+      },
+      {
+        "phase": 5,
+        "phaseName": "Language Focus & Sentence-by-Sentence Guide",
+        "duration": "18 minutes",
+        "objective": "Teach the 7 Language Focus structures and walk through all 7 sentences of Source WP using chunking and Feynman explanations.",
+        "actions": [
+          "Highlight definition (\"called adductors\"), cause/effect, \"when\", \"if\", purpose (\"to strengthen\"), \"where...\" relative clauses, and action verbs.",
+          "Guide students through Sentences 1–7 (P1=1, P2=2, P3=2, P4=2) with chunk reading and Korean translation."
+        ],
+        "scriptEn": "Look closely at our Language Focus patterns / using exact sentences from Source WP. / First, \"They’re called adductors\" gives a clear name. / Second, \"when you walk, run, or jump\" / tells us the time of movement. / Third, \"If they’re weak, you could end up with...\" / shows a conditional cause and effect. / Fourth, \"To strengthen your adductors\" expresses purpose, / and \"where you lie on your back...\" / uses a \"where\" clause to explain each exercise step.",
+        "scriptKo": "Source WP의 실제 문장을 활용한 / Language Focus 문법 패턴을 자세히 봅시다. / 첫째, \"They’re called adductors\"는 명확한 이름을 제시합니다. / 둘째, \"when you walk, run, or jump\"는 / 움직임의 시점을 알려줍니다. / 셋째, \"If they’re weak, you could end up with...\"는 / 조건과 그 가능한 결과를 보여줍니다. / 넷째, \"To strengthen your adductors\"는 목적을 나타내고, / \"where you lie on your back...\"는 / \"where\" 관계절로 각 운동의 동작을 설명합니다.",
+        "studentActions": "Students read the 7 sentences in slash chunks, underline grammar markers (when, if, to strengthen, where), and review examples.",
+        "misconception": "Students often misuse \"where\" as a question word instead of a relative adverb explaining an exercise (\"an exercise where you lie...\").",
+        "correctiveFeedback": "Show how \"where\" connects the exercise name (\"bridge with squeeze\") directly to the position and action performed during it.",
+        "transition": "Now let us practice building these exact sentence patterns in Writing Practice."
+      },
+      {
+        "phase": 6,
+        "phaseName": "Guided Writing Practice (4 Items)",
+        "duration": "12 minutes",
+        "objective": "Have students write 4 focused sentences covering definition, \"if\" cause/effect, exercise sequence, and exercise comparison.",
+        "actions": [
+          "Guide students through Writing Practice prompts 1–4 (define, \"if\" cause/effect, sequence, compare).",
+          "Have students click Check & Compare to verify word counts, connectors, and model answers."
+        ],
+        "scriptEn": "Now complete the four Writing Practice items. / Item 1 asks you to define adductors / using \"called adductors\" and \"when.\" / Item 2 asks for an \"If...\" cause-and-effect sentence / with cautious wording like \"could.\" / Item 3 asks you to sequence one exercise / using \"To strengthen\" and \"where.\" / Item 4 asks you to compare both exercises / using \"while\" or \"whereas.\" / Click Check & Compare after each one.",
+        "scriptKo": "이제 네 개의 Writing Practice 문항을 작성해 봅시다. / 1번은 \"called adductors\"와 \"when\"을 사용해 내전근을 정의하는 문항입니다. / 2번은 \"could\" 같은 신중한 표현과 함께 / \"If...\" 원인-결과 문장을 쓰는 것입니다. / 3번은 \"To strengthen\"과 \"where\"를 사용해 / 한 가지 운동의 순서를 설명하는 것입니다. / 4번은 \"while\"이나 \"whereas\"로 두 운동을 비교합니다. / 각 문항마다 Check & Compare를 눌러 점검하세요.",
+        "studentActions": "Students draft all 4 practice items, inspect live word counts, and run rule-based Writing Check.",
+        "misconception": "Students may omit the subject or verb after \"whereas/while\" or forget to include both exercises in Item 4.",
+        "correctiveFeedback": "Check that both clauses around \"while\" or \"whereas\" have complete subjects and verbs (\"you lie on your back... whereas you lie on your side...\").",
+        "transition": "You now have all the building blocks for the 100–140 word Writing Task."
+      },
+      {
+        "phase": 7,
+        "phaseName": "Independent Writing Task (100–140 Words)",
+        "duration": "18 minutes",
+        "objective": "Write a 100–140 word evidence-based paragraph answering the exact Source WP prompt without medical claims.",
+        "actions": [
+          "Display the Writing Task prompt, checklist, and paragraph outline.",
+          "Monitor live word counts, connector usage, and non-medical wording as students draft and revise."
+        ],
+        "scriptEn": "You have 18 minutes for the Writing Task. / Answer this exact question: / \"Why are the adductors important, / and how can a person strengthen them according to Source WP?\" / Check every requirement on your list: / definition and pulling legs together, / stability and balance, / one weakness consequence, / both exercises described accurately, / and a concluding sentence. / Aim for 100 to 140 words, / and stay strictly inside Source WP without medical promises.",
+        "scriptKo": "이제 Writing Task를 작성할 18분이 주어집니다. / 다음 정확한 질문에 답하세요: / \"Source WP에 따르면 내전근이 왜 중요하며, 어떻게 강화할 수 있는가?\" / 체크리스트의 모든 요소를 확인하세요: / 정의와 다리를 모으는 기능, / 안정성과 균형, / 약할 때 생길 수 있는 결과 한 가지 이상, / 두 가지 운동에 대한 정확한 설명, / 그리고 결론 문장입니다. / 100~140단어를 목표로 작성하고, / 의학적 약속 없이 철저히 Source WP 내용만 사용하세요.",
+        "studentActions": "Students write their 100–140 word paragraph, click Check & Compare, and revise using the feedback and checklist.",
+        "misconception": "Students may write under 100 words, forget the concluding transition (\"Overall,\"), or claim exercises \"cure\" injuries.",
+        "correctiveFeedback": "Prompt students to check the live word count, verify \"side-lying leg lift\" spelling, and ensure a clear concluding sentence.",
+        "transition": "Finish your final edits and move to the Self-Check and Submission bar."
+      },
+      {
+        "phase": 8,
+        "phaseName": "Self-Check & Submission",
+        "duration": "5 minutes",
+        "objective": "Complete the 6-item Self-Check, verify student name and code, and submit work.",
+        "actions": [
+          "Walk through all 6 Self-Check criteria (understanding, vocabulary, function, evidence, exercise description, word count).",
+          "Confirm every student enters their Name and Student Code and submits cleanly."
+        ],
+        "scriptEn": "Before clicking Submit, / review all six Self-Check boxes: / Did you show clear understanding of Source WP? / Did you use lesson vocabulary? / Did you explain adductor function and stability? / Did you include evidence without medical claims? / Did you describe both exercises accurately? / And is your paragraph 100 to 140 words? / Enter your Student Name and Student Code, / then click Submit.",
+        "scriptKo": "제출(Submit)을 누르기 전에 / 여섯 가지 자가 점검(Self-Check) 항목을 모두 확인하세요: / Source WP를 정확히 이해했나요? / 핵심 어휘를 사용했나요? / 내전근의 기능과 안정성을 설명했나요? / 의학적 과장 없이 본문 근거를 포함했나요? / 두 운동을 정확히 묘사했나요? / 그리고 단어 수가 100~140단어 사이인가요? / 학생 이름과 학생 코드를 입력한 뒤 / 제출 버튼을 누르세요.",
+        "studentActions": "Students tick all 6 Self-Check items, enter their name and student code, and click Submit.",
+        "misconception": "Students sometimes click Submit before entering their Student Code or checking their final word count.",
+        "correctiveFeedback": "Verify Name and Student Code are filled in and confirm whether the submission banner reports cloud or local save.",
+        "transition": "Great work today explaining movement evidence clearly and responsibly from Source WP."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "label": "Opening 1 — Introducing Source WP",
+        "english": "Welcome, Grade 9. / Today we are reading Source WP, / titled \"Why Your Inner Thighs Are Super Important!\" / We will discover what these muscles do / when you walk, run, jump, or keep your balance.",
+        "korean": "9학년 여러분 환영합니다. / 오늘 우리는 \"Why Your Inner Thighs Are Super Important!\"라는 제목의 / Source WP를 읽습니다. / 걷고, 달리고, 점프하거나 균형을 잡을 때 / 이 근육들이 어떤 역할을 하는지 알아볼 것입니다.",
+        "teachingPurpose": "Orient students to the exact title and practical movement focus of Source WP without requiring prior anatomy."
+      },
+      {
+        "label": "Opening 2 — Source Boundaries & Non-Medical Framing",
+        "english": "Remember our reading rule: / we explain only what Source WP says. / Notice the author uses cautious words / like \"could end up with\" and \"can help,\" / so we do not add outside medical diagnoses or promises.",
+        "korean": "우리의 읽기 규칙을 기억하세요: / 오직 Source WP에 나온 내용만 설명합니다. / 저자가 \"could end up with(~할 수도 있다)\"와 \"can help(도움이 될 수 있다)\"처럼 / 신중한 표현을 쓴다는 점에 주목하며, / 외부의 의학적 진단이나 완치 약속은 덧붙이지 않습니다.",
+        "teachingPurpose": "Establish strict source fidelity and guard against medical overclaims from the very start."
+      },
+      {
+        "label": "Opening 3 — Reading-to-Writing Bridge",
+        "english": "By mastering key movement terms / and grammar tools like \"when,\" \"if,\" \"to strengthen,\" and \"where,\" / you will write a clear 100–140 word explanation / answering why adductors matter and how to strengthen them.",
+        "korean": "핵심 움직임 어휘와 / \"when\", \"if\", \"to strengthen\", \"where\" 같은 문법 도구를 익혀, / 내전근이 왜 중요하며 어떻게 강화할 수 있는지 설명하는 / 명확한 100~140단어 글을 쓰게 될 것입니다.",
+        "teachingPurpose": "Connect vocabulary and grammar scaffolding directly to the Writing Task prompt."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "question": "When you kick a ball, run, or jump, which parts of your legs do you notice working the most, and how do your legs stay under control?",
+        "focus": "Everyday Leg Movement (No Prior Anatomy Required)",
+        "teacherTalk": "Read aloud in chunks: / \"When you kick a ball, / run, or jump, / which parts of your legs / do you notice working the most?\" / Invite everyday words like \"front of legs,\" \"knees,\" or \"inside of legs.\"",
+        "sampleStudentAnswer": "When I kick a soccer ball or run quickly, I feel the front and inside of my legs working to keep my legs steady and pointed in the right direction.",
+        "followUpQuestion": "What happens if your legs swing out too wide when you run or land from a jump?",
+        "korean": "공을 차거나 달리거나 점프할 때 다리의 어느 부분이 가장 많이 일한다고 느끼며, 다리가 어떻게 안정적으로 통제되나요?",
+        "likelyResponses": [
+          "I feel my thighs and knees working when I run or kick.",
+          "My legs stay straight so I do not slip or fall."
+        ],
+        "usefulLanguage": [
+          "kick a ball",
+          "walk, run, or jump",
+          "under control",
+          "steady"
+        ],
+        "caution": "Do not expect or require technical anatomy terms during Warm-up; the text introduces \"adductors\" in Paragraph 2.",
+        "purpose": "Bridge to Paragraph 1 and Paragraph 2: kicking a soccer ball vs. keeping your body stable when walking, running, or jumping."
+      },
+      "q2": {
+        "question": "In what daily situations or sports is keeping your balance especially important, and what happens when your body loses stability?",
+        "focus": "Stability and Balance in Everyday Life",
+        "teacherTalk": "Read in chunks: / \"In what daily situations or sports / is keeping your balance / especially important?\" / Ask students to think about stairs, sports turns, or standing on one leg.",
+        "sampleStudentAnswer": "Keeping balance is especially important when I turn quickly in sports or walk up stairs, because losing stability can make me wobble or stumble.",
+        "followUpQuestion": "How do your left and right legs work together to keep you balanced?",
+        "korean": "일상이나 스포츠에서 균형을 잡는 것이 특히 중요한 상황은 언제이며, 몸이 안정성을 잃으면 어떻게 되나요?",
+        "likelyResponses": [
+          "Balance is important in soccer, basketball, or riding a bus.",
+          "If I lose stability, my body wobbles."
+        ],
+        "usefulLanguage": [
+          "keeping your balance",
+          "stable",
+          "pull together"
+        ],
+        "caution": "Keep examples grounded in everyday balance rather than clinical balance disorders.",
+        "purpose": "Bridge to Paragraph 2: adductors keeping the body stable and pulling the legs together for balance."
+      },
+      "q3": {
+        "question": "How might weak muscles or sitting for long hours at school affect how your body feels when you stand up and move?",
+        "focus": "Muscle Weakness and Sitting Too Long",
+        "teacherTalk": "Read in chunks: / \"How might weak muscles / or sitting for long hours at school / affect how your body feels?\" / Connect directly to students’ own school-day experience.",
+        "sampleStudentAnswer": "If muscles feel weak after sitting at a desk all day, my back or legs can feel stiff or sore when I finally stand up and walk around.",
+        "followUpQuestion": "Why might both active athletes and students who sit at school need to care for the same muscles?",
+        "korean": "근육이 약하거나 학교에서 오래 앉아 있으면, 일어서서 움직일 때 몸의 느낌에 어떤 영향을 줄 수 있을까요?",
+        "likelyResponses": [
+          "My back or knees feel stiff after sitting through classes.",
+          "Weak muscles make moving feel uncomfortable."
+        ],
+        "usefulLanguage": [
+          "weak muscles",
+          "sit too long",
+          "aches and pains",
+          "lower back"
+        ],
+        "caution": "Remind students to use cautious words (\"might\", \"could\") and avoid diagnosing medical problems.",
+        "purpose": "Bridge to Paragraph 3 and Paragraph 4: weakness causing possible aches and pains in anyone (athletes to students), and simple exercises to strengthen them."
+      }
+    },
+    "sourceReadingGuide": {
+      "title": "Source WP Reading & Layout Guide",
+      "description": "Use Source WP verbatim as supplied. Do not paraphrase, translate inside the reading block, or add outside anatomy/medical facts.",
+      "sourceLayout": "Title (\"Why Your Inner Thighs Are Super Important!\"), followed by 4 prose paragraphs (7 sentences total), and the exact footer label \"Source: WP\". Outside the reading block, display \"Source: Teacher-provided classroom source image. Citation/source label reproduced as supplied.\"",
+      "paragraphBoundaries": "Paragraph 1 has 1 sentence (hook question). Paragraph 2 has 2 sentences (naming adductors and listing functions). Paragraph 3 has 2 sentences (weakness consequences and who is affected). Paragraph 4 has 2 sentences (two exercises and closing encouragement). No divider markers exist.",
+      "hyphenAndApostropheCheck": "Preserve curly apostrophes in \"They’re\" (P2) and \"they’re\" (P3), and preserve the hyphen in \"side-lying leg lift\" (P4).",
+      "nonMedicalBoundary": "Point out cautious modals (\"could end up with\", \"can help\") so students write evidence-based explanations without medical diagnosis or cure promises."
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source WP has 1 title, 4 paragraphs, 7 sentences (P1=1, P2=2, P3=2, P4=2), and \"Source: WP\". No divider marker.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "paragraph": "Paragraph 1",
+          "original": "Did you know that your inner thighs do a lot more than just help you kick a soccer ball?",
+          "chunkReading": "Did you know / that your inner thighs / do a lot more than / just help you kick a soccer ball?",
+          "directKorean": "여러분은 알고 있었나요 / 여러분의 허벅지 안쪽이 / 훨씬 더 많은 일을 한다는 것을 / 단지 여러분이 축구공을 차도록 돕는 것보다?",
+          "naturalKorean": "여러분의 허벅지 안쪽 근육이 단순히 축구공을 차는 것을 돕는 일보다 훨씬 더 많은 역할을 한다는 사실을 알고 계셨나요?",
+          "mustKnowChunks": [
+            {
+              "chunk": "Did you know that...",
+              "meaning": "~라는 것을 알고 있었나요?",
+              "use": "engaging informational opening question to spark curiosity",
+              "example": "Did you know that simple floor exercises can help your legs stay steady?"
+            },
+            {
+              "chunk": "do a lot more than just...",
+              "meaning": "단지 ~하는 것보다 훨씬 더 많은 일을 하다",
+              "use": "comparative phrase showing an underestimated role",
+              "example": "Your leg muscles do a lot more than just help you stand up."
+            }
+          ],
+          "mustKnowGrammar": "Interrogative opening (\"Did you know\") + noun clause (\"that your inner thighs do...\") + comparative structure (\"more than just + bare infinitive help...\").",
+          "feynmanExplanation": "The writer starts with a friendly question. / Most people think inner thighs / only help when you kick a ball in sports. / Actually, those muscles / do many bigger jobs every day!",
+          "feynmanExplanationKo": "글쓴이는 친근한 질문으로 글을 시작합니다. / 대부분의 사람들은 허벅지 안쪽이 / 운동할 때 공을 찰 때만 쓰인다고 생각하기 쉽습니다. / 하지만 실제로 그 근육들은 / 매일 훨씬 더 크고 중요한 일들을 하고 있습니다!",
+          "teachingTranscript": [
+            {
+              "english": "Look at Sentence 1: \"Did you know that your inner thighs do a lot more than just help you kick a soccer ball?\" Why does the writer start with a question?",
+              "korean": "1번 문장을 보세요: \"허벅지 안쪽이 단순히 축구공을 차는 것보다 훨씬 더 많은 일을 한다는 걸 알고 있었나요?\" 왜 글쓴이는 질문으로 시작할까요?"
+            },
+            {
+              "english": "To catch our attention and show that inner thighs matter for everyday movement, not only soccer.",
+              "korean": "우리의 관심을 끌고, 허벅지 안쪽이 축구뿐 아니라 일상적인 움직임 전반에 중요하다는 점을 보여주기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "paragraph": "Paragraph 2",
+          "original": "They’re called adductors, and they help keep your body stable when you walk, run, or jump!",
+          "chunkReading": "They’re called adductors, / and they help keep your body stable / when you walk, run, or jump!",
+          "directKorean": "그것들은 내전근이라고 불립니다, / 그리고 그것들은 여러분의 몸을 안정적으로 유지하도록 돕습니다 / 여러분이 걷거나, 달리거나, 점프할 때!",
+          "naturalKorean": "그 근육들은 내전근이라고 불리며, 여러분이 걷거나 달리거나 점프할 때 몸을 안정적으로 유지하도록 도와줍니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "They’re called adductors",
+              "meaning": "그것들은 내전근(adductors)이라고 불린다",
+              "use": "passive naming/definition pattern introducing a body term",
+              "example": "The muscles inside the upper legs are called adductors."
+            },
+            {
+              "chunk": "keep your body stable",
+              "meaning": "몸을 안정적으로 유지하다",
+              "use": "verb + object + adjective complement showing physical stability",
+              "example": "Strong leg muscles help keep your body stable on uneven ground."
+            },
+            {
+              "chunk": "when you walk, run, or jump",
+              "meaning": "걷거나, 달리거나, 점프할 때",
+              "use": "time clause with parallel action verbs",
+              "example": "Your legs work together when you walk, run, or jump."
+            }
+          ],
+          "mustKnowGrammar": "Passive naming clause (\"They’re called adductors\") + coordinating conjunction (\"and\") + \"help + bare infinitive (keep)\" + object (\"your body\") + adjective (\"stable\") + time clause (\"when you walk, run, or jump\").",
+          "feynmanExplanation": "First, we learn the real name: / your inner thigh muscles are called adductors. / Think of them like steady helpers. / Whenever you walk, run, or jump, / they keep your body from wobbling.",
+          "feynmanExplanationKo": "먼저 이 근육의 진짜 이름을 배웁니다: / 허벅지 안쪽 근육은 내전근(adductors)이라고 부릅니다. / 이것을 흔들림을 잡아주는 든든한 도우미라고 생각해 보세요. / 우리가 걷거나 달리거나 점프할 때마다 / 몸이 흔들리지 않도록 잡아줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "In Sentence 2, what are the inner thighs called, and when do they keep your body stable?",
+              "korean": "2번 문장에서 허벅지 안쪽 근육의 이름은 무엇이며, 언제 몸을 안정적으로 유지해 주나요?"
+            },
+            {
+              "english": "They are called adductors, and they keep your body stable when you walk, run, or jump.",
+              "korean": "내전근(adductors)이라고 불리며, 걷거나 달리거나 점프할 때 몸을 안정적으로 유지해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "paragraph": "Paragraph 2",
+          "original": "These muscles help pull your legs together and are important for keeping your balance.",
+          "chunkReading": "These muscles / help pull your legs together / and are important / for keeping your balance.",
+          "directKorean": "이 근육들은 / 여러분의 다리를 함께 모으도록 돕습니다 / 그리고 중요합니다 / 여러분의 균형을 유지하는 데.",
+          "naturalKorean": "이 근육들은 두 다리를 안쪽으로 모아주며, 균형을 유지하는 데도 중요합니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "pull your legs together",
+              "meaning": "다리를 함께 안쪽으로 당기다(모으다)",
+              "use": "action verb phrase explaining the core mechanical role of adductors",
+              "example": "Adductors pull your legs together toward the center of your body."
+            },
+            {
+              "chunk": "important for keeping your balance",
+              "meaning": "균형을 유지하는 데 중요한",
+              "use": "adjective + preposition \"for\" + gerund phrase",
+              "example": "Steady footwork is important for keeping your balance."
+            }
+          ],
+          "mustKnowGrammar": "Compound predicate sharing subject (\"These muscles\"): \"help pull...\" + \"and are important for + gerund (keeping your balance).\"",
+          "feynmanExplanation": "What else do adductors do? / They gently pull your two legs inward / toward each other. / Because they hold your legs in place, / they are key for keeping your balance.",
+          "feynmanExplanationKo": "내전근은 또 어떤 일을 할까요? / 두 다리를 서로 안쪽 방향으로 / 부드럽게 당겨 모으는 역할을 합니다. / 이렇게 다리를 제자리에 잘 잡아주기 때문에 / 몸의 균형을 유지하는 데 핵심적인 역할을 합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice Sentence 3 gives two more functions of the adductors. What are they?",
+              "korean": "3번 문장이 내전근의 두 가지 기능을 더 알려준다는 점에 주목하세요. 무엇인가요?"
+            },
+            {
+              "english": "They help pull your legs together, and they are important for keeping your balance.",
+              "korean": "다리를 함께 모으도록 돕고, 균형을 유지하는 데 중요합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "paragraph": "Paragraph 3",
+          "original": "If they’re weak, you could end up with aches and pains, especially in your lower back or knees.",
+          "chunkReading": "If they’re weak, / you could end up with aches and pains, / especially in your lower back or knees.",
+          "directKorean": "만약 그것들이 약하다면, / 여러분은 쑤시고 아픈 통증을 겪게 될 수도 있습니다, / 특히 여러분의 허리 아래쪽이나 무릎에서.",
+          "naturalKorean": "만약 이 근육들이 약하다면, 특히 허리 아래쪽이나 무릎 부위에 통증이 생길 수도 있습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "If they’re weak",
+              "meaning": "만약 그것들이 약하다면",
+              "use": "conditional clause introducing cause of possible discomfort",
+              "example": "If your leg muscles are weak, movement can feel harder."
+            },
+            {
+              "chunk": "could end up with aches and pains",
+              "meaning": "통증을 겪게 될 수도 있다 (신중한 가능성 표현)",
+              "use": "cautious modal + phrasal verb showing a possible negative result without medical certainty",
+              "example": "Without balance support, a person could end up with aches and pains."
+            }
+          ],
+          "mustKnowGrammar": "Conditional \"if\" clause (\"If they’re weak\") + main clause with cautious modal (\"could\") + phrasal verb (\"end up with\") + focus adverb (\"especially\") + prepositional location phrase (\"in your lower back or knees\").",
+          "feynmanExplanation": "Here is a warning using \"if.\" / If your inner thighs are not strong, / other body parts have to work extra hard. / That could lead to aches and pains / in your lower back or knees—though it says \"could,\" not \"always.\"",
+          "feynmanExplanationKo": "여기에 \"if\"를 사용한 주의 내용이 나옵니다. / 만약 허벅지 안쪽이 약하다면 / 다른 신체 부위가 무리해서 일하게 됩니다. / 그 결과 허리 아래쪽이나 무릎에 통증이 생길 수도 있는데, / \"반드시\"가 아니라 \"생길 수도 있다(could)\"고 신중히 말합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look closely at the word \"could\" in Sentence 4: \"you could end up with aches and pains.\" Does the text say this happens to everyone for sure?",
+              "korean": "4번 문장의 \"could\"라는 단어를 자세히 보세요: \"통증이 생길 수도 있다.\" 이 글이 모든 사람에게 반드시 일어난다고 단정하나요?"
+            },
+            {
+              "english": "No! \"Could\" shows a possibility, not a medical diagnosis or guarantee.",
+              "korean": "아닙니다! \"could\"는 의학적 진단이나 보장이 아니라 하나의 가능성을 나타냅니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "paragraph": "Paragraph 3",
+          "original": "This can happen to anyone, from athletes to kids who sit too long at school!",
+          "chunkReading": "This can happen to anyone, / from athletes / to kids who sit too long at school!",
+          "directKorean": "이것은 누구에게나 일어날 수 있습니다, / 운동선수들로부터 / 학교에서 너무 오래 앉아 있는 아이들에 이르기까지!",
+          "naturalKorean": "이런 일은 운동선수부터 학교에서 너무 오래 앉아 있는 학생들까지 누구에게나 생길 수 있습니다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "This can happen to anyone",
+              "meaning": "이것은 누구에게나 일어날 수 있다",
+              "use": "generalizing statement showing wide relevance",
+              "example": "Muscle stiffness can happen to anyone after a long trip."
+            },
+            {
+              "chunk": "from athletes to kids who sit too long at school",
+              "meaning": "운동선수부터 학교에서 너무 오래 앉아 있는 아이들까지",
+              "use": "\"from A to B\" range phrase with a \"who\" relative clause",
+              "example": "Simple stretches are useful for everyone, from runners to students who sit at desks."
+            }
+          ],
+          "mustKnowGrammar": "Demonstrative subject (\"This\") + modal (\"can happen to\") + range prepositional phrase (\"from athletes to kids\") + defining relative clause (\"who sit too long at school\").",
+          "feynmanExplanation": "Who can have weak adductors? / Not just sports players! / Someone who exercises hard can get sore, / and a student who sits in class too long / can also end up with weak inner thighs.",
+          "feynmanExplanationKo": "누구의 내전근이 약해질 수 있을까요? / 운동선수들만 그런 것이 아닙니다! / 격하게 운동하는 사람도 아플 수 있고, / 교실에 너무 오래 앉아 있는 학생 역시 / 허벅지 안쪽 근육이 약해질 수 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "In Sentence 5, why does the author mention both athletes and kids who sit too long at school?",
+              "korean": "5번 문장에서 저자는 왜 운동선수와 학교에 너무 오래 앉아 있는 아이들을 함께 언급할까요?"
+            },
+            {
+              "english": "To show that weak adductors can affect anyone, whether very active or sitting for long hours.",
+              "korean": "운동량이 많든 오래 앉아 있든 상관없이 내전근 약화가 누구에게나 일어날 수 있음을 보여주기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "paragraph": "Paragraph 4",
+          "original": "To strengthen your adductors, try some fun exercises like the bridge with squeeze, where you lie on your back with a pillow between your knees and lift your hips, or the side-lying leg lift, where you carefully lift your lower leg while lying on your side.",
+          "chunkReading": "To strengthen your adductors, / try some fun exercises / like the bridge with squeeze, / where you lie on your back with a pillow between your knees and lift your hips, / or the side-lying leg lift, / where you carefully lift your lower leg while lying on your side.",
+          "directKorean": "여러분의 내전근을 강화하기 위해, / 재미있는 운동 몇 가지를 해 보세요 / 브리지 위드 스퀴즈 같은, / 거기서 여러분은 무릎 사이에 베개를 끼고 등을 대고 누워 엉덩이를 들어 올립니다, / 또는 사이드라잉 레그 리프트 같은, / 거기서 여러분은 옆으로 누운 채 아래쪽 다리를 조심스럽게 들어 올립니다.",
+          "naturalKorean": "내전근을 강화하려면, 무릎 사이에 베개를 끼고 등을 대고 누워 엉덩이를 들어 올리는 브리지 위드 스퀴즈나, 옆으로 누운 상태에서 아래쪽 다리를 조심스럽게 들어 올리는 사이드라잉 레그 리프트 같은 재미있는 운동을 해 보세요.",
+          "mustKnowChunks": [
+            {
+              "chunk": "To strengthen your adductors",
+              "meaning": "내전근을 강화하기 위해",
+              "use": "sentence-initial purpose infinitive (\"To + verb\")",
+              "example": "To strengthen your legs, practice slow and steady movements."
+            },
+            {
+              "chunk": "where you lie on your back with a pillow between your knees and lift your hips",
+              "meaning": "무릎 사이에 베개를 끼고 등을 대고 누워 엉덩이를 들어 올리는 (운동)",
+              "use": "non-defining relative clause with \"where\" explaining exercise posture and action",
+              "example": "Try a gentle floor exercise where you lie on your back and lift your hips."
+            },
+            {
+              "chunk": "where you carefully lift your lower leg while lying on your side",
+              "meaning": "옆으로 누운 채 아래쪽 다리를 조심스럽게 들어 올리는 (운동)",
+              "use": "relative clause with \"where\" + reduced time clause \"while lying\"",
+              "example": "Do the side-lying leg lift, where you carefully lift your lower leg while lying on your side."
+            }
+          ],
+          "mustKnowGrammar": "Purpose infinitive (\"To strengthen your adductors\") + imperative main verb (\"try some fun exercises\") + two examples introduced by \"like\", each defined by a \"where...\" relative clause; notice hyphenated compound modifier (\"side-lying\") and participial time phrase (\"while lying\").",
+          "feynmanExplanation": "Now the writer gives two easy ways to exercise! / First is the bridge with squeeze: / lie on your back, put a pillow between your knees, and lift your hips. / Second is the side-lying leg lift: / lie on one side and carefully lift your bottom leg.",
+          "feynmanExplanationKo": "이제 글쓴이는 두 가지 쉬운 운동 방법을 알려줍니다! / 첫째는 브리지 위드 스퀴즈입니다: / 등을 대고 누워 무릎 사이에 베개를 끼우고 엉덩이를 들어 올립니다. / 둘째는 사이드라잉 레그 리프트입니다: / 옆으로 누워서 바닥 쪽에 있는 아래쪽 다리를 조심스럽게 들어 올립니다.",
+          "teachingTranscript": [
+            {
+              "english": "Compare the two \"where...\" clauses in Sentence 6. How are the body positions different in each exercise?",
+              "korean": "6번 문장의 두 \"where...\" 절을 비교해 봅시다. 각 운동에서 몸의 자세가 어떻게 다른가요?"
+            },
+            {
+              "english": "In the bridge with squeeze, you lie on your back with a pillow between your knees and lift your hips. In the side-lying leg lift, you lie on your side and carefully lift your lower leg.",
+              "korean": "브리지 위드 스퀴즈에서는 무릎 사이에 베개를 끼고 등을 대고 누워 엉덩이를 들어 올리고, 사이드라잉 레그 리프트에서는 옆으로 누워 아래쪽 다리를 조심스럽게 들어 올립니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "paragraph": "Paragraph 4",
+          "original": "Strengthening your inner thighs can help you move better and feel great, so give it a try!",
+          "chunkReading": "Strengthening your inner thighs / can help you move better and feel great, / so give it a try!",
+          "directKorean": "여러분의 허벅지 안쪽을 강화하는 것은 / 여러분이 더 잘 움직이고 기분이 아주 좋게 느끼도록 도울 수 있습니다, / 그러니 한 번 시도해 보세요!",
+          "naturalKorean": "허벅지 안쪽을 강화하면 더 잘 움직이고 상쾌한 기분을 느끼는 데 도움이 될 수 있으니, 꼭 한 번 해 보세요!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Strengthening your inner thighs",
+              "meaning": "허벅지 안쪽을 강화하는 것",
+              "use": "gerund phrase acting as the sentence subject",
+              "example": "Strengthening your core muscles can support everyday movement."
+            },
+            {
+              "chunk": "can help you move better and feel great",
+              "meaning": "더 잘 움직이고 기분 좋게 느끼도록 도울 수 있다",
+              "use": "cautious modal \"can\" + compound bare infinitives",
+              "example": "Regular stretching can help you move better and feel energized."
+            },
+            {
+              "chunk": "so give it a try",
+              "meaning": "그러니 한 번 시도해 보세요",
+              "use": "friendly encouraging imperative conclusion",
+              "example": "The exercise is simple to do at home, so give it a try!"
+            }
+          ],
+          "mustKnowGrammar": "Gerund subject (\"Strengthening your inner thighs\") + cautious modal verb phrase (\"can help you move better and feel great\") + coordinating result conjunction (\"so\") + encouraging imperative (\"give it a try\").",
+          "feynmanExplanation": "Finally, the writer ends with encouragement. / Making your inner thighs stronger / can help you move more smoothly and feel good. / Notice it says \"can help,\" not a guarantee, / and invites you to try the exercises!",
+          "feynmanExplanationKo": "마지막으로 글쓴이는 격려의 말로 마무리합니다. / 허벅지 안쪽을 더 튼튼하게 만들면 / 더 부드럽게 움직이고 기분도 좋아지는 데 도움이 될 수 있습니다. / 단정적인 보장이 아니라 \"도움이 될 수 있다(can help)\"고 표현하며 / 운동을 시도해 보라고 권유합니다!",
+          "teachingTranscript": [
+            {
+              "english": "Look at the closing sentence: \"Strengthening your inner thighs can help you move better and feel great, so give it a try!\" How does this sum up the passage?",
+              "korean": "마지막 문장을 보세요: \"허벅지 안쪽을 강화하면 더 잘 움직이고 기분이 아주 좋아지는 데 도움이 될 수 있으니 시도해 보세요!\" 이 문장이 글 전체를 어떻게 마무리하나요?"
+            },
+            {
+              "english": "It connects strengthening the adductors directly to moving better and feeling great, ending on an encouraging, non-medical note.",
+              "korean": "내전근을 강화하는 것을 더 나은 움직임과 좋은 컨디션으로 연결하며, 과장된 의학적 약속 없이 격려하는 어조로 마무리합니다."
+            }
+          ]
+        }
+      ]
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "inner thighs (허벅지 안쪽)",
+        "adductors (내전근)",
+        "stable (안정적인)",
+        "balance (균형)",
+        "aches and pains (쑤시고 아픈 통증)",
+        "lower back (허리 아래쪽)",
+        "strengthen (강화하다)",
+        "bridge with squeeze (브리지 위드 스퀴즈)",
+        "side-lying leg lift (사이드라잉 레그 리프트)",
+        "lower leg (아래쪽 다리)"
+      ],
+      "usefulConnectors": [
+        "According to Source WP,",
+        "First,",
+        "when",
+        "while",
+        "However,",
+        "If",
+        "To strengthen",
+        "whereas",
+        "Overall,"
+      ],
+      "attributionPhrases": [
+        "According to Source WP, ...",
+        "Source WP explains that ...",
+        "Source WP suggests ...",
+        "As described in Source WP, ..."
+      ],
+      "paragraphOutline": [
+        "1. Topic & Definition: Attribute to Source WP, define inner thigh muscles as adductors, and state their importance for daily movement.",
+        "2. Functions: Explain that adductors keep the body stable when you walk, run, or jump, pull your legs together, and maintain balance.",
+        "3. Weakness Consequence (Cautious): Use \"If\" and \"could\" to state that weak adductors could lead to aches and pains in the lower back or knees for athletes or kids sitting too long at school.",
+        "4. Both Exercises: Use \"To strengthen\" and \"where\" to describe both the bridge with squeeze (back, pillow between knees, lift hips) and the side-lying leg lift (side, carefully lift lower leg).",
+        "5. Conclusion: End with \"Overall,\" or \"In conclusion,\" summarizing that strengthening inner thighs can help you move better and feel great (no medical promises)."
+      ],
+      "sentenceFrames": [
+        "According to Source WP, the inner thigh muscles are called adductors and help...",
+        "They keep the body stable when you..., while pulling your legs together to maintain...",
+        "However, if these muscles are weak, a person could end up with...",
+        "To strengthen the adductors, Source WP suggests two exercises: the bridge with squeeze, where..., and the side-lying leg lift, where...",
+        "Overall, strengthening your inner thighs can help you..."
+      ],
+      "koreanEslErrorPairs": [
+        {
+          "mistake": "Inner thighs are call adductors and they important for keep balance.",
+          "correction": "The inner thigh muscles are called adductors, and they are important for keeping your balance.",
+          "explanation": "수동태 \"are called\"에서 과거분사 called를 써야 하며, 형용사 important 앞에는 be동사(are)가 필요합니다. 또한 전치사 for 뒤에는 동사원형이 아닌 동명사(keeping)를 사용해야 합니다."
+        },
+        {
+          "mistake": "If adductors weak, you will definitely get serious lower back disease.",
+          "correction": "If your adductors are weak, you could end up with aches and pains in your lower back or knees.",
+          "explanation": "조건절 \"If adductors are weak\"에 동사(are)가 빠졌으며, Source WP는 질병을 진단하거나 단정(\"definitely get disease\")하지 않고 \"could end up with aches and pains\"라고 신중하게 서술합니다."
+        },
+        {
+          "mistake": "Bridge with squeeze is you lie back and lift hip, side lying leg lift is lift leg.",
+          "correction": "In the bridge with squeeze, you lie on your back with a pillow between your knees and lift your hips, whereas in the side-lying leg lift, you carefully lift your lower leg while lying on your side.",
+          "explanation": "운동 이름을 설명할 때는 \"where you lie...\" 관계절이나 \"whereas\" 같은 대조 연결어를 쓰고, \"side-lying leg lift\"의 하이픈과 \"pillow between your knees\", \"lower leg\" 같은 핵심 세부 사항을 정확히 포함해야 합니다."
+        },
+        {
+          "mistake": "Doing this exercises cure all knee pain 100% forever.",
+          "correction": "Overall, strengthening your inner thighs can help you move better and feel great.",
+          "explanation": "Source WP는 의학적 완치나 100% 보장을 약속하지 않으므로 \"cure\"나 \"100%\" 같은 과장된 의학 표현을 피하고, 본문의 신중한 표현(\"can help you move better and feel great\")을 그대로 따라야 합니다."
+        }
+      ],
+      "teacherCorrectionFocus": [
+        "Verify accurate Source WP attribution (\"According to Source WP...\") and zero outside anatomy or medical claims.",
+        "Check that students include stability/balance, pulling legs together, one weakness consequence, and both exercises.",
+        "Correct passive/be-verb omissions (\"are called\", \"are weak\") and preposition + gerund errors (\"important for keeping\").",
+        "Confirm exact spelling of \"side-lying leg lift\", cautious modals (\"could\", \"can\"), concluding transition (\"Overall,\"), and 100–140 word count."
+      ],
+      "safeWordingGuidance": "Keep every student claim grounded strictly in Source WP. Replace medical promises (\"cures injury\", \"prevents disease\", \"guarantees recovery\") with cautious source phrases (\"could end up with aches and pains\", \"can help you move better and feel great\").",
+      "g1Scaffold": "For G1 ESL students: Provide the 5-sentence paragraph frame with target connectors (\"According to Source WP,\", \"when\", \"If\", \"To strengthen\", \"Overall,\") and check off the two \"where...\" clauses as they copy key phrases accurately.",
+      "g2Extension": "For G2 ESL students: Challenge students to synthesize both exercises in one balanced complex sentence using \"whereas\" and both \"where...\" relative clauses while keeping their paragraph concise between 115 and 130 words."
+    }
+  }
+}

@@ -1,12 +1,15 @@
-export default function LessonHeader({ lessonTitle, ofsUnit, lessonGoal, sourceLabel, citation }) {
+export default function LessonHeader({ lessonTitle, ofsUnit, lessonGoal, sourceLabel, citation, sourceNote }) {
   return (
     <header className="lesson-hero">
       <p className="lesson-hero__unit">{ofsUnit}</p>
       <h1>{lessonTitle}</h1>
-      {(sourceLabel || citation) && (
+      {(sourceLabel || citation || sourceNote) && (
         <div className="lesson-hero__source-info" style={{ marginTop: '0.5rem', fontSize: '0.9rem', color: 'var(--color-navy-soft)' }}>
           {sourceLabel && <span style={{ fontWeight: 700, marginRight: '0.4rem' }}>{sourceLabel}</span>}
           {citation && <span style={{ fontStyle: 'italic' }}>{citation}</span>}
+          {!sourceLabel && !citation && sourceNote && (
+            <span style={{ fontStyle: 'italic' }}>{sourceNote}</span>
+          )}
         </div>
       )}
       <div className="lesson-hero__goal">
