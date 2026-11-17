@@ -5,10 +5,16 @@ export default function LessonHeader({ lessonTitle, ofsUnit, lessonGoal, sourceL
       <h1>{lessonTitle}</h1>
       {(sourceLabel || citation || sourceNote) && (
         <div className="lesson-hero__source-info" style={{ marginTop: '0.5rem', fontSize: '0.9rem', color: 'var(--color-navy-soft)' }}>
-          {sourceLabel && <span style={{ fontWeight: 700, marginRight: '0.4rem' }}>{sourceLabel}</span>}
-          {citation && <span style={{ fontStyle: 'italic' }}>{citation}</span>}
-          {!sourceLabel && !citation && sourceNote && (
-            <span style={{ fontStyle: 'italic' }}>{sourceNote}</span>
+          {(sourceLabel || citation) && (
+            <div>
+              {sourceLabel && <span style={{ fontWeight: 700, marginRight: '0.4rem' }}>{sourceLabel}</span>}
+              {citation && <span style={{ fontStyle: 'italic' }}>{citation}</span>}
+            </div>
+          )}
+          {sourceNote && (
+            <div style={{ fontStyle: 'italic', marginTop: (sourceLabel || citation) ? '0.2rem' : 0 }}>
+              {sourceNote}
+            </div>
           )}
         </div>
       )}

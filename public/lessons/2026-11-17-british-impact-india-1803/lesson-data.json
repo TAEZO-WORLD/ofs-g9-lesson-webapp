@@ -1,0 +1,1725 @@
+{
+  "lessonTitle": "The Rise of the British Empire in India, 1700-1900",
+  "ofsUnit": "Unit 4 — Colonialism, Empire & Resistance",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Grade 9 History Reading (Exact Unadapted Source)",
+  "writingType": "Evidence-Based Historical Cause-and-Effect & Chronology Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Trace how British power in India shifted from commerce to East India Company rule and British Crown control (1600–1900), analyzing chronology, cause and effect, hierarchy, resistance, mixed legacy, and source attribution using Source H.",
+  "warmUp": {
+    "title": "Warm-up: Commerce, Political Power & Mixed Legacies",
+    "instructions": "Discuss or write short answers to the three questions below before reading Source H. Use the sentence starters to organize your ideas.",
+    "questions": [
+      {
+        "id": "wu1",
+        "topic": "Commerce vs. Conquest",
+        "question": "Why might a foreign group begin its presence in another country through trade rather than military conquest, and how could business interests gradually turn into political control?",
+        "promptKo": "왜 외국 세력이 군사적 정복이 아니라 무역으로 다른 나라에 진출할 수 있으며, 상업적 이익이 어떻게 점차 정치적 통제로 바뀔 수 있을까요?",
+        "sentenceStarter": "A foreign group might start with trade rather than conquest because..., and commerce could turn into rule when..."
+      },
+      {
+        "id": "wu2",
+        "topic": "Instability and Opportunity",
+        "question": "When a powerful central ruler or empire weakens and instability spreads, what kinds of opportunities can open up for regional rivals and outside powers?",
+        "promptKo": "강력한 중앙 통치자나 제국이 약화되고 불안정이 퍼질 때, 지역 경쟁 세력과 외부 세력에게 어떤 기회들이 열릴 수 있을까요?",
+        "sentenceStarter": "When a central empire loses stability, regional powers and outsiders can gain opportunities by..."
+      },
+      {
+        "id": "wu3",
+        "topic": "Mixed Effects of Foreign Rule",
+        "question": "If an imperial power builds infrastructure and schools while also causing discrimination, repression, or economic harm, why should historians examine both sides together?",
+        "promptKo": "제국 권력이 기반 시설과 학교를 세우는 동시에 차별, 억압, 경제적 피해를 초래했다면, 역사가들은 왜 양면을 함께 살펴보아야 할까요?",
+        "sentenceStarter": "Historians should examine both the benefits and harms of imperial rule because..."
+      }
+    ],
+    "sentenceStarters": [
+      "A foreign group might start with trade rather than conquest because..., and commerce could turn into rule when...",
+      "When a central empire loses stability, regional powers and outsiders can gain opportunities by...",
+      "Historians should examine both the benefits and harms of imperial rule because..."
+    ]
+  },
+  "article": {
+    "title": "The Rise of the British Empire in India, 1700-1900",
+    "sourceLabel": "Source H:",
+    "citation": "Fritz Blackwell, The British Impact on India: 1700-1900, Association of Asian Studies (2008)",
+    "sourceNote": "Source: Teacher-provided classroom source image. Citation reproduced as supplied.",
+    "paragraphs": [
+      "The British presence in India began not with conquest but with commerce. When the East India Company was founded in 1600, its goal was trade in spices, cotton, and textiles. Initially weak and dependent, the English merchants arrived in a land dominated by the powerful Mughal Empire. They were hardly seen as a threat. But the death of Emperor Aurangzeb in 1707 ushered in instability, and the decline of Mughal authority created opportunities for regional powers—and for the British.",
+      "A decisive moment came in 1757 at the Battle of Plassey. With only a few thousand troops, Robert Clive defeated the Nawab of Bengal and gained the right to collect revenue. This marked the Company’s shift from trade to rule. By 1803, the British occupied Delhi, turning the Mughal emperor into a figurehead. From then on, the Company became synonymous with British power in India.",
+      "Parliament in London soon recognized the dangers of a private company exercising near-sovereign power. Through acts passed in the late 18th century, the British government imposed oversight. Yet the Company continued to expand, supported by a new bureaucracy and an emerging class of Indians who worked within it.",
+      "Relations between rulers and ruled hardened over time. Early social mixing gave way to racial prejudice, missionary zeal, and a sense of cultural superiority. Tensions exploded in the great uprising of 1857, when Indian soldiers, princes, and civilians rose against British authority. Brutally suppressed, the rebellion ended Company rule. From 1858, India became a formal colony under the British Crown, with Queen Victoria later proclaimed Empress of India.",
+      "By 1900, India had been transformed. The Raj brought railways, law, and English education, but also racism, repression, and famine. Most importantly, it inadvertently sowed the seeds of nationalism, giving diverse peoples a shared identity that would one day drive the struggle for independence."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study the 10 key historical and academic terms from Source H. Review each term’s English definition, Korean meaning, and historical example sentence.",
+    "items": [
+      {
+        "word": "commerce",
+        "partOfSpeech": "noun",
+        "korean": "상업, 무역 (상품을 사고파는 활동)",
+        "definition": "The activity of buying and selling goods, especially on a large scale between regions or countries.",
+        "sentence": "The British presence in India began not with conquest but with commerce in spices, cotton, and textiles."
+      },
+      {
+        "word": "conquest",
+        "partOfSpeech": "noun",
+        "korean": "정복 (무력으로 영토나 지배권을 차지함)",
+        "definition": "The act of taking control of a country, territory, or people by military force.",
+        "sentence": "Early English merchants focused on trade rather than military conquest under the powerful Mughal Empire."
+      },
+      {
+        "word": "revenue",
+        "partOfSpeech": "noun",
+        "korean": "세입, 세수 (정부나 통치자가 거두는 조세 수입)",
+        "definition": "Income, especially taxes collected by a government or ruling authority to fund administration.",
+        "sentence": "After the Battle of Plassey in 1757, Robert Clive gained the right to collect revenue in Bengal."
+      },
+      {
+        "word": "figurehead",
+        "partOfSpeech": "noun",
+        "korean": "명목상의 지도자, 허수아비 (직함만 있고 실권이 없는 인물)",
+        "definition": "A person who holds an important official title or position without any real political power.",
+        "sentence": "By 1803, the British occupied Delhi, turning the Mughal emperor into a figurehead."
+      },
+      {
+        "word": "near-sovereign",
+        "partOfSpeech": "adjective",
+        "korean": "준주권적인, 주권 국가에 가까운",
+        "definition": "Possessing almost the full governing authority and independence of a sovereign state.",
+        "sentence": "Parliament in London recognized the dangers of a private company exercising near-sovereign power."
+      },
+      {
+        "word": "oversight",
+        "partOfSpeech": "noun",
+        "korean": "감독, 관리 (권력 남용을 막기 위한 감시와 통제)",
+        "definition": "The official responsibility of watching, supervising, and regulating an organization’s actions.",
+        "sentence": "Through acts passed in the late 18th century, the British government imposed oversight on the Company."
+      },
+      {
+        "word": "bureaucracy",
+        "partOfSpeech": "noun",
+        "korean": "관료제, 행정 조직 (규칙과 부서에 따라 운영되는 관리 체계)",
+        "definition": "A structured system of government administration operated by appointed officials and departments.",
+        "sentence": "The Company continued to expand, supported by a new bureaucracy and an emerging class of Indians."
+      },
+      {
+        "word": "racial prejudice",
+        "partOfSpeech": "noun phrase",
+        "korean": "인종적 편견 (인종을 이유로 한 불공정한 선입견과 차별 태도)",
+        "definition": "An unfair negative attitude or biased judgment directed toward people because of their race.",
+        "sentence": "Early social mixing gave way to racial prejudice, missionary zeal, and a sense of cultural superiority."
+      },
+      {
+        "word": "uprising",
+        "partOfSpeech": "noun",
+        "korean": "봉기, 반란 (통치 권력에 맞선 대규모 저항)",
+        "definition": "An organized, often armed rebellion by a population or group against ruling authority.",
+        "sentence": "Tensions exploded in the great uprising of 1857, which ultimately ended Company rule."
+      },
+      {
+        "word": "nationalism",
+        "partOfSpeech": "noun",
+        "korean": "민족주의 (공동의 정체성과 자결권을 중시하는 의식)",
+        "definition": "A shared political consciousness and loyalty uniting people around a common national identity and desire for self-rule.",
+        "sentence": "Most importantly, the Raj inadvertently sowed the seeds of nationalism that would drive the struggle for independence."
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea Question",
+    "question": "Which statement best summarizes the central idea of Source H?",
+    "options": [
+      "British involvement in India began peacefully in 1600 with trade, shifted to Company rule after Mughal decline and military expansion, became formal British Crown rule after the 1857 uprising, and transformed India with both modernization and harsh colonial harms that sparked nationalism.",
+      "The East India Company invaded Delhi in 1600 with overwhelming military strength and ruled India peacefully without facing any rebellion or parliamentary oversight until 1900.",
+      "After Parliament passed oversight acts in the late 18th century, the British government immediately ended Company expansion and handed full independence to Indian princes in 1858.",
+      "Under the British Raj, India experienced only economic benefits such as railways, law, and English education, while racial prejudice and famine existed only under Mughal rule."
+    ],
+    "correctIndex": 0,
+    "feedback": {
+      "correct": "Well done! You traced the full arc of Source H: commerce (1600) → Mughal decline (1707) → Company rule (1757/1803) → parliamentary oversight → 1857 uprising and Crown rule (1858) → mixed legacy and nationalism by 1900.",
+      "incorrect": "Check the full timeline of Source H: British presence began with commerce in 1600, shifted to Company rule after 1707/1757/1803, became a formal Crown colony in 1858 after the 1857 uprising, and left both positive and harmful legacies by 1900."
+    },
+    "explanation": "Option A is correct (O): It accurately captures all five paragraphs of Source H—from 1600 trade (P1), to Plassey 1757 and Delhi 1803 (P2), parliamentary oversight and bureaucracy (P3), the 1857 uprising and 1858 Crown rule (P4), and the mixed 1900 legacy plus nationalism (P5).\nOption B is incorrect (X): In 1600 the English merchants were \"weak and dependent,\" Delhi was occupied in 1803 (not 1600), and they faced both oversight (P3) and the 1857 uprising (P4).\nOption C is incorrect (X): Despite oversight, the Company \"continued to expand\" (P3), and in 1858 India became a formal Crown colony, not independent (P4).\nOption D is incorrect (X): Source H explicitly pairs railways, law, and English education with \"racism, repression, and famine\" under the Raj (P5)."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer all 6 questions based strictly on Source H. Choose the single best option for each question.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, how were the English merchants perceived when the East India Company was founded in 1600?",
+        "options": [
+          "They immediately conquered Mughal territory with a massive army.",
+          "They were initially weak and dependent, focused on trade in spices, cotton, and textiles, and hardly seen as a threat.",
+          "They were invited by Emperor Aurangzeb to collect revenue across Bengal.",
+          "They replaced the Mughal Empire as the sole ruler of Delhi in 1600."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 1",
+        "explanation": "Option B is correct (O): Paragraph 1 states that when founded in 1600, the Company’s goal was \"trade in spices, cotton, and textiles,\" and the \"Initially weak and dependent\" merchants \"were hardly seen as a threat\" in a land dominated by the powerful Mughal Empire.\nOption A is incorrect (X): Paragraph 1 explicitly says the British presence \"began not with conquest but with commerce.\"\nOption C is incorrect (X): Aurangzeb died in 1707, and revenue rights in Bengal came in 1757 under Robert Clive, not in 1600.\nOption D is incorrect (X): The British occupied Delhi by 1803 (P2), over two centuries after 1600."
+      },
+      {
+        "id": "rc2",
+        "question": "According to Paragraph 1, what happened after the death of Emperor Aurangzeb in 1707?",
+        "options": [
+          "Mughal central authority grew stronger and expelled all European merchants.",
+          "Parliament in London immediately declared India a formal colony under Queen Victoria.",
+          "Instability followed and the decline of Mughal authority created opportunities for regional powers and the British.",
+          "The East India Company stopped trading in spices, cotton, and textiles."
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "Paragraph 1",
+        "explanation": "Option C is correct (O): Paragraph 1 directly notes that \"the death of Emperor Aurangzeb in 1707 ushered in instability, and the decline of Mughal authority created opportunities for regional powers—and for the British.\"\nOption A is incorrect (X): Mughal authority declined rather than grew stronger after 1707.\nOption B is incorrect (X): India became a formal colony under the British Crown from 1858 (P4), not 1707.\nOption D is incorrect (X): Paragraph 1 gives no indication that the Company halted trade in 1707; instability opened new opportunities for them."
+      },
+      {
+        "id": "rc3",
+        "question": "Why does Paragraph 2 describe the 1757 Battle of Plassey as a \"decisive moment\"?",
+        "options": [
+          "Robert Clive defeated the Nawab of Bengal and gained the right to collect revenue, marking the Company’s shift from trade to rule.",
+          "Indian soldiers and princes rose up and ended British Company rule in Bengal.",
+          "Parliament in London removed the East India Company from Bengal and took direct control.",
+          "Robert Clive signed an agreement making the Mughal emperor the ruler of London."
+        ],
+        "correctIndex": 0,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option A is correct (O): Paragraph 2 explains that at Plassey in 1757, Robert Clive defeated the Nawab of Bengal with only a few thousand troops and \"gained the right to collect revenue. This marked the Company’s shift from trade to rule.\"\nOption B is incorrect (X): The great uprising that ended Company rule occurred in 1857 (P4), a century later.\nOption C is incorrect (X): Parliamentary oversight occurred in the late 18th century (P3), and direct Crown rule began in 1858 (P4).\nOption D is incorrect (X): Source H makes no such claim; instead, by 1803 the Mughal emperor became a figurehead."
+      },
+      {
+        "id": "rc4",
+        "question": "What had changed by 1803 according to Paragraph 2?",
+        "options": [
+          "The British withdrew from Delhi and restored full sovereignty to the Mughal emperor.",
+          "The British occupied Delhi, turning the Mughal emperor into a figurehead while the Company became synonymous with British power in India.",
+          "Queen Victoria had already been proclaimed Empress of India in Delhi.",
+          "The British Raj had finished building railways and English schools across Delhi."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option B is correct (O): Paragraph 2 states: \"By 1803, the British occupied Delhi, turning the Mughal emperor into a figurehead. From then on, the Company became synonymous with British power in India.\"\nOption A is incorrect (X): The British occupied Delhi rather than withdrawing.\nOption C is incorrect (X): Queen Victoria was proclaimed Empress of India later, after 1858 Crown rule began (P4).\nOption D is incorrect (X): Railways and English education are described as part of the Raj’s transformation by 1900 (P5)."
+      },
+      {
+        "id": "rc5",
+        "question": "According to Paragraph 3, how did the East India Company respond after the British government imposed oversight in the late 18th century?",
+        "options": [
+          "The Company dissolved immediately because Parliament banned private trade.",
+          "The Company shut down its bureaucracy and dismissed all Indian employees.",
+          "The Company continued to expand, supported by a new bureaucracy and an emerging class of Indians who worked within it.",
+          "The Company surrendered all political authority directly to the British Crown in the 1780s."
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "Paragraph 3",
+        "explanation": "Option C is correct (O): Paragraph 3 explains that even after late-18th-century parliamentary acts imposed oversight, \"Yet the Company continued to expand, supported by a new bureaucracy and an emerging class of Indians who worked within it.\"\nOption A is incorrect (X): Company rule did not end until after the 1857 uprising (P4).\nOption B is incorrect (X): Far from shutting down, a new bureaucracy and Indian staff supported its continued expansion.\nOption D is incorrect (X): Formal Crown rule began in 1858, not in the late 18th century."
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraphs 4 and 5, what were the major political consequences of the 1857 uprising and the Raj by 1900?",
+        "options": [
+          "Company rule strengthened after 1857, preventing any Crown involvement or nationalist movement.",
+          "The 1857 uprising ended Company rule and led to British Crown rule in 1858; by 1900, the Raj brought railways, law, and English education alongside racism, repression, and famine, inadvertently sowing the seeds of nationalism.",
+          "Early social mixing returned immediately after 1857, eliminating all racial prejudice and famine by 1900.",
+          "Queen Victoria granted India immediate independence in 1858 because the uprising was peacefully resolved."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraphs 4–5",
+        "explanation": "Option B is correct (O): Paragraph 4 states the brutally suppressed 1857 rebellion \"ended Company rule\" and led to formal Crown colony status from 1858; Paragraph 5 adds that by 1900, the Raj brought railways, law, and English education alongside racism, repression, and famine, while inadvertently sowing the seeds of nationalism.\nOption A is incorrect (X): The rebellion ended Company rule, and Crown rule took over in 1858.\nOption C is incorrect (X): Paragraph 5 explicitly confirms that racism, repression, and famine remained under the Raj.\nOption D is incorrect (X): The rebellion was \"Brutally suppressed\" and India became a formal colony in 1858, not independent."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Answer each prompt using specific dates, names, quotes, or close paraphrases from Source H. Click Check & Compare to review your evidence.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "question": "Using evidence from Paragraphs 1 and 2, explain how British involvement in India shifted from commerce to political rule between 1600 and 1803.",
+        "paragraphRef": "Paragraphs 1–2",
+        "modelAnswer": "According to Paragraphs 1 and 2, the East India Company began in 1600 with trade in \"spices, cotton, and textiles\" and was \"hardly seen as a threat.\" However, Emperor Aurangzeb’s death in 1707 caused Mughal decline, and in 1757 Robert Clive defeated the Nawab of Bengal at the Battle of Plassey and \"gained the right to collect revenue,\" marking the \"shift from trade to rule.\" By 1803, the British occupied Delhi and turned the Mughal emperor into a \"figurehead.\"",
+        "compareTip": "Verify that you cited: (1) 1600 commerce in spices, cotton, and textiles; (2) 1707 Mughal instability/decline; (3) 1757 Battle of Plassey / Clive gaining revenue rights; and (4) 1803 Delhi occupation / figurehead emperor.",
+        "compareTips": [
+          "Cite 1600 trade in spices, cotton, and textiles and initial weakness under the Mughal Empire.",
+          "Connect Aurangzeb’s death in 1707 to instability and opportunities for the British.",
+          "Include 1757 Plassey (Robert Clive gaining the right to collect revenue) and 1803 Delhi (Mughal emperor turned into a figurehead)."
+        ]
+      },
+      {
+        "id": "ev2",
+        "question": "Based on Paragraph 4, what caused the great uprising of 1857, and how did it transform British governance in India in 1858?",
+        "paragraphRef": "Paragraph 4",
+        "modelAnswer": "Paragraph 4 explains that relations \"hardened over time\" as early social mixing \"gave way to racial prejudice, missionary zeal, and a sense of cultural superiority.\" These tensions exploded in the \"great uprising of 1857,\" when Indian soldiers, princes, and civilians rose against British authority. Although \"Brutally suppressed,\" the rebellion \"ended Company rule,\" and from 1858 India became \"a formal colony under the British Crown.\"",
+        "compareTip": "Check that your response cites hardening relations (racial prejudice, missionary zeal, cultural superiority), the 1857 uprising of soldiers/princes/civilians, brutal suppression ending Company rule, and 1858 formal Crown colony status.",
+        "compareTips": [
+          "Mention the shift from early social mixing to racial prejudice, missionary zeal, and cultural superiority.",
+          "Name the 1857 uprising involving Indian soldiers, princes, and civilians.",
+          "Note that brutal suppression still ended Company rule, leading to a formal British Crown colony in 1858."
+        ]
+      },
+      {
+        "id": "ev3",
+        "question": "According to Paragraph 5, how does Source H describe the mixed legacy of the British Raj by 1900?",
+        "paragraphRef": "Paragraph 5",
+        "modelAnswer": "Paragraph 5 states that by 1900, the Raj brought \"railways, law, and English education,\" but also \"racism, repression, and famine.\" Most importantly, it \"inadvertently sowed the seeds of nationalism,\" giving diverse peoples a \"shared identity\" that would later drive the struggle for independence.",
+        "compareTip": "Ensure your answer includes both sides of the Raj’s legacy (railways, law, English education vs. racism, repression, famine) plus the unintended rise of nationalism and shared identity.",
+        "compareTips": [
+          "Include the institutional/infrastructure changes: railways, law, and English education.",
+          "Balance them with the harms: racism, repression, and famine.",
+          "Include the key long-term consequence: inadvertently sowing the seeds of nationalism and a shared identity for independence."
+        ]
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus: Historical Chronology, Voice & Balanced Synthesis",
+    "topic": "Expressing Transformation from Commerce to Empire in Academic History",
+    "explanation": "To explain historical change accurately based on Source H, use chronological anchors, passive voice for institutional actions, cause-and-effect verbs, contrast markers, compact participial phrases, and explicit source attribution.",
+    "patterns": [
+      {
+        "name": "1. Chronology & Historical Time Markers",
+        "explanation": "Anchors each stage of transformation on a clear timeline using exact dates and sequence expressions.",
+        "example": "In 1600, the Company focused on trade; by 1803, it occupied Delhi; and from 1858, India became a Crown colony.",
+        "sourceExample": "in 1600... / in 1707... / in 1757... / By 1803... / From then on... / in the late 18th century... / From 1858... / By 1900..."
+      },
+      {
+        "name": "2. Passive Voice in Historical Events & Institutions",
+        "explanation": "Highlights institutional actions, legal changes, and historical outcomes without shifting focus away from the affected society or institution.",
+        "example": "The East India Company was founded in 1600, and by 1900 India had been transformed under imperial rule.",
+        "sourceExample": "When the East India Company was founded in 1600... / They were hardly seen as a threat. / By 1900, India had been transformed."
+      },
+      {
+        "name": "3. Cause and Effect Language",
+        "explanation": "Shows how one event—such as Mughal decline, military victory, or rebellion—triggered political and social consequences.",
+        "example": "Emperor Aurangzeb’s death ushered in instability, which created opportunities for British expansion.",
+        "sourceExample": "...ushered in instability, and the decline of Mughal authority created opportunities... / This marked the Company’s shift... / ...ended Company rule. / ...sowed the seeds of nationalism..."
+      },
+      {
+        "name": "4. Contrast & Concession Markers",
+        "explanation": "Signals unexpected continuities or balances positive infrastructure against severe colonial harms.",
+        "example": "Although Parliament imposed oversight, the Company continued to expand; likewise, the Raj brought railways, yet also repression and famine.",
+        "sourceExample": "...began not with conquest but with commerce. / Yet the Company continued to expand... / ...railways, law, and English education, but also racism, repression, and famine."
+      },
+      {
+        "name": "5. Participial Phrases for Concise Historical Synthesis",
+        "explanation": "Packs background conditions, causes, or results smoothly into complex academic sentences.",
+        "example": "Brutally suppressed, the 1857 uprising nevertheless ended Company rule, turning India into a Crown colony.",
+        "sourceExample": "Initially weak and dependent, ... / ...turning the Mughal emperor into a figurehead. / ...supported by a new bureaucracy... / Brutally suppressed, ... / ...giving diverse peoples a shared identity..."
+      },
+      {
+        "name": "6. Cautious Source Attribution",
+        "explanation": "Keeps historical claims anchored to Fritz Blackwell’s text rather than presenting unsupported outside facts.",
+        "example": "According to Fritz Blackwell in Source H, the 1857 uprising ended Company rule and led to direct Crown governance.",
+        "sourceExample": "According to Source H, ... / Fritz Blackwell explains in Source H that ... / As Source H notes, ..."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete all four writing prompts using complete sentences, target vocabulary, and evidence strictly from Source H. Click Check & Compare after each response.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "prompt": "Timeline: Write 2 sentences tracing three key turning points in Source H (such as 1600, 1707, 1757, 1803, 1857–1858, or 1900) using clear chronological markers.",
+        "targetWords": 20,
+        "targetVocabulary": [
+          "commerce",
+          "conquest",
+          "uprising",
+          "figurehead"
+        ],
+        "targetConnectors": [
+          "in 1600",
+          "in 1757",
+          "by 1803",
+          "from 1858",
+          "by 1900",
+          "after",
+          "then"
+        ],
+        "modelAnswer": "In 1600, the East India Company began with commerce, yet after Emperor Aurangzeb’s death in 1707 created instability, British power expanded rapidly. By 1803, the British occupied Delhi, and from 1858 India became a formal colony under the British Crown.",
+        "compareTip": "Check that your sentences place dates in accurate chronological order and connect early trade to later political control.",
+        "compareTips": [
+          "Use at least three accurate dates from Source H in chronological sequence.",
+          "Show progression from trade to Company rule to Crown colony."
+        ]
+      },
+      {
+        "id": "wp2",
+        "prompt": "Revenue to Rule: Write 1–2 sentences explaining how the 1757 Battle of Plassey caused the East India Company to shift from trade to rule, using cause-and-effect language.",
+        "targetWords": 16,
+        "targetVocabulary": [
+          "revenue",
+          "commerce",
+          "conquest",
+          "figurehead"
+        ],
+        "targetConnectors": [
+          "because",
+          "therefore",
+          "as a result",
+          "consequently",
+          "so",
+          "thus"
+        ],
+        "modelAnswer": "At the Battle of Plassey in 1757, Robert Clive defeated the Nawab of Bengal and gained the right to collect revenue. As a result, the Company shifted from trade to political rule and eventually turned the Mughal emperor into a figurehead by 1803.",
+        "compareTip": "Verify that you link Clive’s victory and revenue collection directly to the shift from trade to rule.",
+        "compareTips": [
+          "Name Robert Clive, 1757, the Battle of Plassey, and the right to collect revenue.",
+          "Include a clear cause-and-effect connector such as \"as a result\" or \"because\"."
+        ]
+      },
+      {
+        "id": "wp3",
+        "prompt": "Passive Oversight & Expansion: Write 1–2 sentences using passive voice (\"was founded\", \"were passed\", or \"supported by\") to explain why parliamentary oversight did not stop Company expansion.",
+        "targetWords": 16,
+        "targetVocabulary": [
+          "near-sovereign",
+          "oversight",
+          "bureaucracy"
+        ],
+        "targetConnectors": [
+          "yet",
+          "however",
+          "although",
+          "despite"
+        ],
+        "modelAnswer": "Although oversight was imposed through acts passed in the late 18th century to curb near-sovereign power, the Company continued to expand because it was supported by a new bureaucracy and Indian staff working within it.",
+        "compareTip": "Ensure you use at least one passive construction (\"was imposed\" / \"were passed\" / \"was supported by\") and a contrast marker (\"yet\" / \"although\").",
+        "compareTips": [
+          "Use passive voice correctly (e.g., \"oversight was imposed\", \"acts passed\", \"supported by\").",
+          "Mention both the new bureaucracy and the emerging class of Indians working within it."
+        ]
+      },
+      {
+        "id": "wp4",
+        "prompt": "Balanced Legacy & Attribution: Write 2 sentences using source attribution (\"According to Source H\") and a contrast marker (\"but also\", \"however\", or \"while\") to summarize the Raj’s mixed consequences by 1900.",
+        "targetWords": 20,
+        "targetVocabulary": [
+          "racial prejudice",
+          "nationalism",
+          "uprising"
+        ],
+        "targetConnectors": [
+          "however",
+          "while",
+          "but also",
+          "although",
+          "consequently"
+        ],
+        "modelAnswer": "According to Source H, the British Raj transformed India by 1900 by bringing railways, law, and English education, while also causing racism, repression, and famine. However, this rule inadvertently sowed the seeds of nationalism by giving diverse peoples a shared identity.",
+        "compareTip": "Confirm that you cite Source H, balance both benefits and harms from Paragraph 5, and mention nationalism.",
+        "compareTips": [
+          "Begin with explicit attribution to Source H or Fritz Blackwell.",
+          "Balance railways/law/English education against racism/repression/famine and add nationalism."
+        ]
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task: Historical Transformation Paragraph",
+    "instructions": "Write a 100–140 word evidence-based paragraph answering the prompt below. Rely strictly on Source H without adding outside facts.",
+    "prompt": "According to Source H, how did British power in India develop from commerce into empire, and what were its consequences?",
+    "checklist": [
+      "Attributes ideas clearly to Fritz Blackwell / Source H.",
+      "Includes at least 3 specific historical details from Source H (dates, names, or events).",
+      "Traces clear chronology from 1600 commerce → 1707/1757/1803 Company rule → 1857/1858 Crown rule → 1900.",
+      "Uses cause-and-effect language (e.g., \"caused\", \"consequently\", \"shifting\", \"ended\").",
+      "Balances both benefits (railways, law, English education) and harms (racism, repression, famine, plus nationalism).",
+      "Meets the 100–140 word length requirement with accurate grammar and concluding transition."
+    ],
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "targetConnectors": [
+      "however",
+      "despite",
+      "consequently",
+      "therefore",
+      "because",
+      "as a result",
+      "while",
+      "yet",
+      "overall",
+      "thus"
+    ],
+    "modelAnswer": "According to Fritz Blackwell in Source H, British power in India developed gradually from trade into formal imperial rule. Initially, the East India Company, founded in 1600, sought commerce in spices, cotton, and textiles under the Mughal Empire. However, Emperor Aurangzeb’s death in 1707 caused instability, creating opportunities for the British. In 1757, Robert Clive’s victory at the Battle of Plassey secured revenue rights, shifting the Company from trade to rule, and by 1803, the British occupied Delhi. Despite parliamentary oversight, Company expansion persisted until the 1857 uprising ended Company rule, making India a British Crown colony in 1858. Consequently, the Raj brought railways, law, and English education, yet also racism, repression, and famine, inadvertently sowing the seeds of nationalism.",
+    "compareGuide": "Compare your draft with the 120-word model: Did you attribute to Source H, trace the chronology (1600 → 1707 → 1757 → 1803 → 1857/1858 → 1900), explain cause and effect, and balance both benefits and harms under the Raj including nationalism?",
+    "revisionTips": [
+      "Start with explicit source attribution (\"According to Fritz Blackwell in Source H...\").",
+      "Check that your chronology moves clearly from 1600 commerce to 1757 Plassey/revenue, 1803 Delhi, 1857–1858 Crown rule, and 1900.",
+      "Include both sides of the Raj’s legacy (railways, law, English education vs. racism, repression, famine) and nationalism.",
+      "End with a clear concluding transition (\"Consequently,\", \"Thus,\", or \"Overall,\") and verify 100–140 words."
+    ]
+  },
+  "selfCheck": {
+    "title": "Self-Check Checklist",
+    "instructions": "Check off all 6 items below after reviewing your paragraph before submitting.",
+    "items": [
+      "Understanding: I accurately explained how British power shifted from East India Company commerce to Company rule and British Crown control.",
+      "Chronology: I sequenced key historical dates clearly (such as 1600, 1707, 1757, 1803, 1857, 1858, and 1900).",
+      "Evidence: I included at least three specific details and attribution to Fritz Blackwell / Source H without adding outside facts.",
+      "Balance: I addressed both institutional developments (railways, law, English education) and harms (racism, repression, famine) plus nationalism.",
+      "Language: I used chronology markers, passive voice, cause-and-effect connectors, and contrast or participial structures accurately.",
+      "Word Count: I verified that my final paragraph is between 100 and 140 words and ends with a clear concluding sentence."
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 0,
+        "rationale": "Option A synthesizes the full trajectory of Source H across all 5 paragraphs: 1600 trade, 1707 Mughal decline, 1757/1803 Company rule, late-18th-century oversight/bureaucracy, 1857 uprising and 1858 Crown colony, and 1900 mixed legacy and nationalism."
+      },
+      "readingComprehension": {
+        "rc1": {
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 states the East India Company (founded 1600) sought trade in spices, cotton, and textiles, and the initially weak and dependent English merchants were hardly seen as a threat."
+        },
+        "rc2": {
+          "correctIndex": 2,
+          "rationale": "Paragraph 1 explains that Emperor Aurangzeb’s death in 1707 ushered in instability, and the decline of Mughal authority created opportunities for regional powers and for the British."
+        },
+        "rc3": {
+          "correctIndex": 0,
+          "rationale": "Paragraph 2 identifies the 1757 Battle of Plassey, where Robert Clive defeated the Nawab of Bengal and gained the right to collect revenue, marking the Company’s shift from trade to rule."
+        },
+        "rc4": {
+          "correctIndex": 1,
+          "rationale": "Paragraph 2 reports that by 1803, the British occupied Delhi, turning the Mughal emperor into a figurehead and making the Company synonymous with British power in India."
+        },
+        "rc5": {
+          "correctIndex": 2,
+          "rationale": "Paragraph 3 notes that even after late-18th-century acts imposed oversight, the Company continued to expand, supported by a new bureaucracy and an emerging class of Indians working within it."
+        },
+        "rc6": {
+          "correctIndex": 1,
+          "rationale": "Paragraphs 4 and 5 show that the brutally suppressed 1857 uprising ended Company rule and led to Crown colony status in 1858, and by 1900 the Raj brought railways, law, and English education alongside racism, repression, and famine while inadvertently sowing nationalism."
+        }
+      },
+      "evidenceFromText": {
+        "ev1": "1600 East India Company trade in spices, cotton, and textiles; initially weak/dependent under Mughal Empire; 1707 Aurangzeb’s death causing instability and decline; 1757 Battle of Plassey where Robert Clive defeated the Nawab of Bengal and gained revenue collection rights (shift from trade to rule); 1803 occupation of Delhi turning the Mughal emperor into a figurehead.",
+        "ev2": "Relations hardened over time as early social mixing gave way to racial prejudice, missionary zeal, and cultural superiority; tensions exploded in the great uprising of 1857 (Indian soldiers, princes, civilians); brutally suppressed, the rebellion ended Company rule; from 1858 India became a formal colony under the British Crown (Queen Victoria later proclaimed Empress of India).",
+        "ev3": "By 1900 the Raj brought railways, law, and English education, but also racism, repression, and famine; most importantly, it inadvertently sowed the seeds of nationalism, giving diverse peoples a shared identity that would drive the struggle for independence."
+      },
+      "writingPractice": {
+        "wp1": "Chronological sequence linking 1600 commerce, 1707 Mughal instability, 1757 Plassey / 1803 Delhi, and 1858 Crown rule (or 1900 transformation) with explicit time markers.",
+        "wp2": "Explains 1757 Battle of Plassey: Clive defeated the Nawab of Bengal, gained revenue collection rights, and thereby shifted the Company from trade to rule.",
+        "wp3": "Uses passive voice (e.g., oversight was imposed, acts passed, supported by) to show Company expansion continued despite late-18th-century parliamentary oversight due to a new bureaucracy and Indian staff.",
+        "wp4": "Uses source attribution (\"According to Source H\") and contrast (\"while\", \"but also\", \"however\") to balance railways/law/English education against racism/repression/famine and nationalism."
+      },
+      "languageFocus": "Chronology markers (in 1600, in 1707, in 1757, By 1803, From 1858, By 1900); passive voice (was founded, were hardly seen, had been transformed, proclaimed); cause/effect (ushered in, created opportunities, ended Company rule, sowed the seeds of); contrast (not... but, Yet, but also); participial phrases (Initially weak and dependent, turning..., supported by..., Brutally suppressed, giving...); cautious source attribution (According to Fritz Blackwell in Source H).",
+      "writingTask": "Model target (115–130 words; current model = 120 words): must attribute to Source H / Fritz Blackwell, cite at least 3 historical details, trace commerce (1600) → Company rule (1757/1803) → Crown rule (1858) → 1900 consequences, use cause/effect, and balance benefits (railways, law, English education) with harms (racism, repression, famine) and nationalism."
+    },
+    "modelAnswer": "According to Fritz Blackwell in Source H, British power in India developed gradually from trade into formal imperial rule. Initially, the East India Company, founded in 1600, sought commerce in spices, cotton, and textiles under the Mughal Empire. However, Emperor Aurangzeb’s death in 1707 caused instability, creating opportunities for the British. In 1757, Robert Clive’s victory at the Battle of Plassey secured revenue rights, shifting the Company from trade to rule, and by 1803, the British occupied Delhi. Despite parliamentary oversight, Company expansion persisted until the 1857 uprising ended Company rule, making India a British Crown colony in 1858. Consequently, the Raj brought railways, law, and English education, yet also racism, repression, and famine, inadvertently sowing the seeds of nationalism.",
+    "rubric": {
+      "title": "Evidence-Based Historical Analysis Rubric (OFS G9 ESL)",
+      "categories": [
+        {
+          "criterion": "Content & Ideas",
+          "description": "Accuracy and completeness in explaining the shift from British commerce to Company rule and Crown empire, plus 1900 consequences.",
+          "score4": "Accurately and insightfully traces the complete progression from commerce (1600) to Company rule (1757/1803) and formal Crown rule (1858), explaining both positive and harmful consequences including nationalism.",
+          "score3": "Clearly explains how British trade became Company and Crown rule and identifies major consequences by 1900 with accurate historical logic.",
+          "score2": "Covers part of the progression or omits either the transition mechanism (revenue/1857) or one side of the Raj’s mixed consequences.",
+          "score1": "Provides minimal or inaccurate historical ideas; misses the core shift from commerce to empire."
+        },
+        {
+          "criterion": "Evidence Use",
+          "description": "Integration of at least 3 specific textual details from Source H with explicit attribution and no unsupported outside facts.",
+          "score4": "Integrates three or more exact historical details (dates, figures, institutions) strictly from Source H with seamless attribution to Fritz Blackwell / Source H.",
+          "score3": "Includes at least three accurate details from Source H with clear source attribution and no outside fabrication.",
+          "score2": "Includes one or two details, uses vague attribution, or introduces minor unsupported outside facts.",
+          "score1": "Lacks specific evidence from Source H, omits attribution, or relies on unverified external claims."
+        },
+        {
+          "criterion": "Target Language/Structure",
+          "description": "Effective use of chronology markers, passive voice, cause-and-effect connectors, contrast markers, and participial phrases.",
+          "score4": "Skillfully combines chronological markers, passive constructions, cause-and-effect links, contrast markers, and participial phrases.",
+          "score3": "Correctly uses chronological markers, cause-and-effect connectors, and at least one passive or contrast structure.",
+          "score2": "Attempts target connectors or passive voice, but displays recurring grammatical errors or repetitive simple clauses.",
+          "score1": "Relies on disconnected simple sentences or fragments without target historical structures."
+        },
+        {
+          "criterion": "Organization",
+          "description": "Logical chronological flow from topic attribution through Company and Crown phases to a clear concluding synthesis.",
+          "score4": "Follows a seamless chronological and causal flow from attributed topic sentence through each historical stage to a strong concluding sentence.",
+          "score3": "Shows clear chronological organization with an identifiable opening, supporting stages, and concluding sentence.",
+          "score2": "Events appear out of chronological order or transitions between Company rule, 1857, and 1900 are abrupt.",
+          "score1": "Lacks coherent sequence or paragraph structure."
+        },
+        {
+          "criterion": "Accuracy",
+          "description": "Grammatical precision, accurate spelling of names/dates/terms, and strict adherence to 100–140 words.",
+          "score4": "Demonstrates high grammatical accuracy, exact spelling of Source H terms and dates, and strictly meets 100–140 words.",
+          "score3": "Shows solid grammatical control with minor ESL errors that do not obscure meaning; stays within 100–140 words.",
+          "score2": "Frequent errors in verb tense, passive formation, or word choice, or falls slightly outside 100–140 words.",
+          "score1": "Pervasive errors impede comprehension or length is far outside 100–140 words."
+        }
+      ]
+    },
+    "teacherNotes": [
+      {
+        "topic": "Canonical Citation & Scope Control",
+        "note": "Reproduce the source citation exactly as supplied: \"Source H: Fritz Blackwell, The British Impact on India: 1700-1900, Association of Asian Studies (2008)\" and title \"The Rise of the British Empire in India, 1700-1900\". Outside the reading box, note: \"Source: Teacher-provided classroom source image. Citation reproduced as supplied.\""
+      },
+      {
+        "topic": "Page Break & Paragraph 4 Continuity",
+        "note": "In the classroom handout image, a gray divider line represents a page break inside Paragraph 4. Teach Paragraph 4 (\"Relations between rulers and ruled...\" through \"...Empress of India.\") as one continuous 5-sentence paragraph without inserting a divider marker."
+      },
+      {
+        "topic": "Core Historical Arc: Commerce → Company → Crown",
+        "note": "Guide students to track the three-stage political transformation: (1) 1600 commerce in spices, cotton, and textiles under the Mughal Empire; (2) 1757 Plassey revenue collection and 1803 Delhi occupation turning the Company into rule; (3) 1857 uprising ending Company rule and 1858 formal British Crown colony."
+      },
+      {
+        "topic": "Key Names & Institutions in Source H",
+        "note": "Verify exact spellings and roles of all named entities in Source H: East India Company, Mughal Empire, Emperor Aurangzeb (died 1707), Robert Clive, Nawab of Bengal (Battle of Plassey, 1757), Delhi (occupied 1803), Parliament in London, Queen Victoria (Empress of India), and The Raj."
+      },
+      {
+        "topic": "Chronological Anchors (1600–1900)",
+        "note": "Clarify why the title/citation uses \"1700-1900\" while Paragraph 1 begins in 1600: 1600 marks the East India Company’s founding as background, whereas the major shift begins after Aurangzeb’s death in 1707 and spans through 1757, 1803, the late 18th century, 1857, 1858, and 1900."
+      },
+      {
+        "topic": "Why Revenue Rights (1757) Meant Rule",
+        "note": "Emphasize Sentence 7–8 logic: gaining the right to collect revenue (taxes) after defeating the Nawab of Bengal moved the Company beyond buying/selling goods into sovereign fiscal power—hence \"shift from trade to rule.\""
+      },
+      {
+        "topic": "Limits of Parliamentary Oversight (Paragraph 3)",
+        "note": "Highlight the tension between Sentences 11–12 and Sentence 13: Parliament recognized the danger of \"near-sovereign power\" and passed late-18th-century oversight acts, YET expansion continued via a new bureaucracy and an emerging class of Indians working within it."
+      },
+      {
+        "topic": "Balanced Raj Legacy & Unintended Nationalism (Paragraph 5)",
+        "note": "Prevent one-sided summaries. Source H explicitly balances infrastructure/institutions (railways, law, English education) against severe harms (racism, repression, famine), concluding that British rule \"inadvertently sowed the seeds of nationalism.\""
+      },
+      {
+        "topic": "Unsupported-Fact Control (Strict Text Boundary)",
+        "note": "Do NOT introduce outside historical details not present in Source H—for example, avoid naming the Regulating Act of 1773, Pitt’s India Act, specific troop counts beyond \"a few thousand,\" greased cartridges/Sepoy Mutiny terminology, the Indian National Congress, Gandhi, or 1947 Partition. Keep all comprehension and writing evidence strictly grounded in Source H."
+      },
+      {
+        "topic": "G1 vs. G2 ESL Instructional Differentiation",
+        "note": "For G1 learners, provide timeline boxes (1600 → 1707 → 1757 → 1803 → 1857–1858 → 1900) and sentence frames for passive/causal verbs. For G2 learners, focus on compact participial modifiers (\"Brutally suppressed\", \"turning...\", \"supported by...\") and nuanced evaluation of unintended nationalism."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": 1,
+        "phaseName": "Opening, Source Framing & Warm-up Preview",
+        "duration": "5 minutes",
+        "objective": "Introduce Source H by Fritz Blackwell, frame the commerce-to-empire inquiry, and launch the three Warm-up questions.",
+        "actions": [
+          "Display the Lesson Header showing Unit 4, title, citation, and classroom source note.",
+          "Preview the central question: how a trading company evolved into an imperial ruler.",
+          "G1 Scaffold: Point to the key contrast words \"commerce\" vs. \"conquest\" and \"benefits\" vs. \"harms\" on the board.",
+          "G2 Extension: Ask students to predict what might turn a private business into a governing authority."
+        ],
+        "scriptEn": "Good morning, Grade 9. / Today we are studying Source H by Fritz Blackwell: / \"The Rise of the British Empire in India, 1700-1900.\" / Notice our central puzzle: / how did a weak trading company from 1600 / become the ruler of India, / and what were its consequences by 1900? / Before we read, look at the three Warm-up questions / about commerce versus conquest, / instability creating opportunity, / and mixed historical effects.",
+        "scriptKo": "[직독직해] 좋은 아침입니다, 9학년 여러분. / 오늘 우리는 프리츠 블랙웰의 Source H인 / \"인도에서의 대영제국 부상, 1700-1900\"을 공부합니다. / 우리의 핵심 질문에 주목하세요: / 1600년의 약한 무역 회사가 / 어떻게 인도의 지배자가 되었고, / 1900년까지 어떤 결과를 낳았을까요? / 읽기 전에 먼저 상업 대 정복, / 기회를 만드는 불안정, / 그리고 복합적인 역사적 영향에 관한 세 가지 워밍업 질문을 살펴봅시다. [자연스러운 해석] 여러분 안녕하세요. 오늘은 프리츠 블랙웰의 Source H를 통해 1600년 무역 회사로 출발한 영국 세력이 어떻게 인도 제국 지배로 이어졌고 어떤 복합적 결과를 낳았는지 함께 탐구해 봅시다.",
+        "directKorean": "좋은 아침입니다, 9학년 여러분. / 오늘 우리는 프리츠 블랙웰의 Source H인 / \"인도에서의 대영제국 부상, 1700-1900\"을 공부합니다. / 우리의 핵심 질문에 주목하세요: / 1600년의 약한 무역 회사가 / 어떻게 인도의 지배자가 되었고, / 1900년까지 어떤 결과를 낳았을까요? / 읽기 전에 먼저 상업 대 정복, / 기회를 만드는 불안정, / 그리고 복합적인 역사적 영향에 관한 세 가지 워밍업 질문을 살펴봅시다.",
+        "naturalKorean": "여러분 안녕하세요. 오늘은 프리츠 블랙웰의 Source H를 통해 1600년 무역 회사로 출발한 영국 세력이 어떻게 인도 제국 지배로 이어졌고 어떤 복합적 결과를 낳았는지 함께 탐구해 봅시다.",
+        "studentActions": "Students read the Header citation/source note and preview the 3 Warm-up questions.",
+        "misconception": "Students may assume Britain conquered India immediately in 1600 through a massive invasion.",
+        "correctiveFeedback": "Remind students that we are testing that assumption against Source H, which starts with trade rather than conquest.",
+        "transition": "Let us begin with the three Warm-up questions to build our conceptual vocabulary.",
+        "g1Scaffold": "Provide bilingual glosses for commerce (상업), conquest (정복), and instability (불안정).",
+        "g2Extension": "Ask students to hypothesize why local rulers might underestimate early foreign traders."
+      },
+      {
+        "phase": 2,
+        "phaseName": "Warm-up Discussion & Historical Bridge",
+        "duration": "10 minutes",
+        "objective": "Activate background reasoning on commerce vs. conquest, power vacuums, and balanced historical evaluation.",
+        "actions": [
+          "Have pairs discuss or jot brief answers to Warm-up Questions 1–3 using the provided sentence starters.",
+          "Elicit 2–3 student responses per question and bridge directly to Source H.",
+          "G1 Scaffold: Allow students to complete the given sentence starters with simple examples.",
+          "G2 Extension: Challenge students to explain how tax collection connects commerce to state rule."
+        ],
+        "scriptEn": "Take five minutes with your partner / to answer the three Warm-up questions. / First, why would a foreign group start with trade instead of war? / Second, when a strong empire weakens, / who steps into the gap? / Third, why must historians examine both railways or schools / alongside racism or harm? / Use the sentence starters to organize your ideas.",
+        "scriptKo": "[직독직해] 짝과 함께 5분 동안 / 세 가지 워밍업 질문에 답해 보세요. / 첫째, 왜 외국 세력은 전쟁 대신 무역으로 시작할까요? / 둘째, 강한 제국이 약해질 때, / 누가 그 빈틈으로 들어올까요? / 셋째, 왜 역사가들은 철도나 학교 같은 요소와 함께 / 인종차별이나 피해를 같이 살펴보아야 할까요? / 문장 시작 표현을 활용해 생각을 정리해 보세요. [자연스러운 해석] 짝과 5분간 세 가지 워밍업 질문을 이야기해 봅시다. 무역이 어떻게 통치로 이어지는지, 중앙 권력의 약화가 외부 세력에 어떤 기회를 주는지, 그리고 식민 지배의 명암을 왜 함께 보아야 하는지 문장 틀을 활용해 정리해 보세요.",
+        "directKorean": "짝과 함께 5분 동안 / 세 가지 워밍업 질문에 답해 보세요. / 첫째, 왜 외국 세력은 전쟁 대신 무역으로 시작할까요? / 둘째, 강한 제국이 약해질 때, / 누가 그 빈틈으로 들어올까요? / 셋째, 왜 역사가들은 철도나 학교 같은 요소와 함께 / 인종차별이나 피해를 같이 살펴보아야 할까요? / 문장 시작 표현을 활용해 생각을 정리해 보세요.",
+        "naturalKorean": "짝과 5분간 세 가지 워밍업 질문을 이야기해 봅시다. 무역이 어떻게 통치로 이어지는지, 중앙 권력의 약화가 외부 세력에 어떤 기회를 주는지, 그리고 식민 지배의 명암을 왜 함께 보아야 하는지 문장 틀을 활용해 정리해 보세요.",
+        "studentActions": "Students write short warm-up notes or share responses using the three sentence starters.",
+        "misconception": "Students may discuss unrelated modern companies or judge empires as purely \"all good\" or \"all bad.\"",
+        "correctiveFeedback": "Acknowledge ideas briefly, then emphasize balanced historical analysis—looking at both causes and mixed consequences.",
+        "transition": "Now let us read the exact text of Source H and trace how Fritz Blackwell builds this story.",
+        "g1Scaffold": "Pair G1 students and model Q1 aloud using the starter before independent discussion.",
+        "g2Extension": "Prompt G2 students to connect Q2 (power vacuum) to historical transitions in sovereignty."
+      },
+      {
+        "phase": 3,
+        "phaseName": "Exact Reading & Chronology Mapping",
+        "duration": "12 minutes",
+        "objective": "Read all 5 paragraphs of Source H verbatim, verify P4 continuity across the gray page break, and map key dates.",
+        "actions": [
+          "Read Source H aloud paragraph by paragraph while students track dates (1600, 1707, 1757, 1803, late 18th century, 1857, 1858, 1900).",
+          "Explicitly note that Paragraph 4 is one continuous 5-sentence paragraph across the classroom image’s gray page divider.",
+          "G1 Scaffold: Have students circle every year in the passage and draw arrows connecting Commerce → Company → Crown.",
+          "G2 Extension: Have students identify where the tone shifts from weak dependence (P1) to hardening relations (P4) and unintended irony (P5)."
+        ],
+        "scriptEn": "Follow along carefully as we read Source H. / Notice there are five paragraphs. / In Paragraph 1, underline 1600 and 1707. / In Paragraph 2, circle 1757 and 1803. / In Paragraph 3, watch the contrast word \"Yet.\" / In Paragraph 4, remember that the gray line on the original handout / was only a page break—/ Paragraph 4 stays one continuous paragraph / from \"Relations\" to \"Empress of India.\" / Finally, look at 1900 in Paragraph 5.",
+        "scriptKo": "[직독직해] Source H를 읽는 동안 주의 깊게 따라오세요. / 다섯 개의 문단이 있다는 점에 주목하세요. / 1문단에서는 1600년과 1707년에 밑줄을 그으세요. / 2문단에서는 1757년과 1803년에 동그라미를 치세요. / 3문단에서는 대조어 \"Yet\"을 확인하세요. / 4문단에서는 원본 유인물의 회색 선이 / 단지 페이지 나눔일 뿐이라는 점을 기억하세요—/ 4문단은 \"Relations\"부터 \"Empress of India\"까지 / 끊어지지 않는 하나의 문단입니다. / 마지막으로 5문단의 1900년을 보세요. [자연스러운 해석] 이제 Source H 원문을 5개 문단으로 나누어 함께 읽겠습니다. 각 문단의 핵심 연대(1600, 1707, 1757, 1803, 1857~1858, 1900)에 표시를 하고, 원본의 회색 선은 페이지 구분일 뿐 4문단이 하나의 연속된 문단임을 확인하세요.",
+        "directKorean": "Source H를 읽는 동안 주의 깊게 따라오세요. / 다섯 개의 문단이 있다는 점에 주목하세요. / 1문단에서는 1600년과 1707년에 밑줄을 그으세요. / 2문단에서는 1757년과 1803년에 동그라미를 치세요. / 3문단에서는 대조어 \"Yet\"을 확인하세요. / 4문단에서는 원본 유인물의 회색 선이 / 단지 페이지 나눔일 뿐이라는 점을 기억하세요—/ 4문단은 \"Relations\"부터 \"Empress of India\"까지 / 끊어지지 않는 하나의 문단입니다. / 마지막으로 5문단의 1900년을 보세요.",
+        "naturalKorean": "이제 Source H 원문을 5개 문단으로 나누어 함께 읽겠습니다. 각 문단의 핵심 연대(1600, 1707, 1757, 1803, 1857~1858, 1900)에 표시를 하고, 원본의 회색 선은 페이지 구분일 뿐 4문단이 하나의 연속된 문단임을 확인하세요.",
+        "studentActions": "Students read along, highlight key years and actors, and confirm the 5-paragraph structure.",
+        "misconception": "Students may split Paragraph 4 into two separate paragraphs because of the gray page break on the handout image.",
+        "correctiveFeedback": "Point out that Paragraph 4 is one continuous 5-sentence unit linking hardened relations to 1857 and 1858.",
+        "transition": "With the storyline mapped, let us study the 10 key vocabulary terms in context.",
+        "g1Scaffold": "Display a 5-box timeline matching Paragraphs 1–5 for visual tracking.",
+        "g2Extension": "Ask students to mark every shift in agency (who acts: merchants → Clive → Parliament → Indians → the Raj)."
+      },
+      {
+        "phase": 4,
+        "phaseName": "Vocabulary in Context (10 Key Terms)",
+        "duration": "10 minutes",
+        "objective": "Ensure accurate English and Korean comprehension of all 10 required historical terms in Source H.",
+        "actions": [
+          "Review each of the 10 terms: commerce, conquest, revenue, figurehead, near-sovereign, oversight, bureaucracy, racial prejudice, uprising, nationalism.",
+          "Check word parts (e.g., near-sovereign, figurehead) and contrast pairs (commerce vs. conquest; oversight vs. expansion).",
+          "G1 Scaffold: Drill pronunciation and Korean meanings for abstract terms (revenue, figurehead, oversight, bureaucracy).",
+          "G2 Extension: Have students explain how \"revenue\" causes the shift from \"commerce\" to \"near-sovereign\" rule."
+        ],
+        "scriptEn": "Let us examine our 10 key vocabulary terms. / Notice how they tell the story by themselves: / First, \"commerce\" versus \"conquest.\" / Next, collecting \"revenue\" turns the emperor into a \"figurehead.\" / Then, Parliament worries about \"near-sovereign\" power / and imposes \"oversight,\" / while a \"bureaucracy\" helps expansion. / Later, \"racial prejudice\" fuels the 1857 \"uprising,\" / and finally, the Raj plants \"nationalism.\"",
+        "scriptKo": "[직독직해] 10개의 핵심 어휘를 살펴봅시다. / 이 단어들이 그 자체로 어떻게 이야기를 들려주는지 보세요: / 먼저, \"상업(commerce)\" 대 \"정복(conquest)\"입니다. / 다음으로, \"세입(revenue)\" 징수는 황제를 \"명목상 지도자(figurehead)\"로 만듭니다. / 그다음 의회는 \"준주권적(near-sovereign)\" 권력을 우려해 / \"감독(oversight)\"을 부과하지만, / \"관료제(bureaucracy)\"가 확장을 돕습니다. / 이후 \"인종적 편견(racial prejudice)\"이 1857년 \"봉기(uprising)\"를 촉발하고, / 마침내 라지는 \"민족주의(nationalism)\"의 씨앗을 뿌립니다. [자연스러운 해석] 10개의 핵심 어휘만 순서대로 따라가도 글 전체의 흐름이 보입니다. 상업에서 출발해 세입 징수와 관료제를 거쳐 통치로 이어지고, 인종적 편견과 봉기를 지나 민족주의로 귀결되는 핵심 개념들을 한국어 뜻과 예문으로 익혀 봅시다.",
+        "directKorean": "10개의 핵심 어휘를 살펴봅시다. / 이 단어들이 그 자체로 어떻게 이야기를 들려주는지 보세요: / 먼저, \"상업(commerce)\" 대 \"정복(conquest)\"입니다. / 다음으로, \"세입(revenue)\" 징수는 황제를 \"명목상 지도자(figurehead)\"로 만듭니다. / 그다음 의회는 \"준주권적(near-sovereign)\" 권력을 우려해 / \"감독(oversight)\"을 부과하지만, / \"관료제(bureaucracy)\"가 확장을 돕습니다. / 이후 \"인종적 편견(racial prejudice)\"이 1857년 \"봉기(uprising)\"를 촉발하고, / 마침내 라지는 \"민족주의(nationalism)\"의 씨앗을 뿌립니다.",
+        "naturalKorean": "10개의 핵심 어휘만 순서대로 따라가도 글 전체의 흐름이 보입니다. 상업에서 출발해 세입 징수와 관료제를 거쳐 통치로 이어지고, 인종적 편견과 봉기를 지나 민족주의로 귀결되는 핵심 개념들을 한국어 뜻과 예문으로 익혀 봅시다.",
+        "studentActions": "Students match definitions, Korean glosses, and Source H sentences across the 10 vocabulary cards.",
+        "misconception": "Students often confuse \"oversight\" (supervision) with its secondary meaning (\"accidental mistake\") or misunderstand \"revenue\" as simple shop profit.",
+        "correctiveFeedback": "Clarify that in government history, \"oversight\" means official supervision and \"revenue\" means public taxation.",
+        "transition": "Now let us examine all 21 sentences closely for chunking, grammar, and historical logic.",
+        "g1Scaffold": "Review Korean meanings and break multi-syllable words (bu-reau-cra-cy, sov-er-eign) aloud.",
+        "g2Extension": "Ask students to group the 10 words into three categories: Economy/Power, Administration, and Resistance/Identity."
+      },
+      {
+        "phase": 5,
+        "phaseName": "Detailed 21-Sentence Guide & Language Focus",
+        "duration": "18 minutes",
+        "objective": "Walk through the 21 sentences of Source H using chunk reading, Korean translation, Feynman explanations, and the 6 Language Focus patterns.",
+        "actions": [
+          "Model chunk reading (`/`) and grammar breakdown for key sentences across P1–P5 (including S3, S5, S7, S9, S13, S17, S18, S20, S21).",
+          "Highlight the 6 Language Focus patterns: chronology, passive voice, cause/effect, contrast, participial phrases, and attribution.",
+          "G1 Scaffold: Focus on chunk reading, direct Korean order, and passive verbs (\"was founded\", \"were hardly seen\", \"had been transformed\").",
+          "G2 Extension: Analyze participial reductions (\"Initially weak...\", \"turning...\", \"Brutally suppressed\", \"giving...\") and \"with\"-absolute clauses."
+        ],
+        "scriptEn": "Let us analyze how the 21 sentences work. / Look at Sentence 5: / \"But the death of Emperor Aurangzeb in 1707 / ushered in instability.\" / Look at Sentence 9: / \"turning the Mughal emperor into a figurehead\"—/ that participial phrase shows the result. / In Sentence 17, / \"Brutally suppressed, the rebellion ended Company rule.\" / And in Sentence 20, / notice the exact balance: / \"railways, law, and English education, / but also racism, repression, and famine.\"",
+        "scriptKo": "[직독직해] 이제 21개 문장이 어떻게 작동하는지 분석해 봅시다. / 5번 문장을 보세요: / \"그러나 1707년 아우랑제브 황제의 죽음은 / 불안정을 불러왔습니다.\" / 9번 문장을 보세요: / \"무굴 황제를 허수아비로 만들면서\"—/ 이 분사구문이 결과를 보여줍니다. / 17번 문장에서는, / \"잔혹하게 진압되었지만, 그 반란은 회사 통치를 끝냈습니다.\" / 그리고 20번 문장에서는 / 정확한 균형을 보세요: / \"철도, 법, 그리고 영어 교육, / 그러나 또한 인종차별, 억압, 그리고 기근.\" [자연스러운 해석] 이제 21개 문장을 의미 덩어리(chunk)로 끊어 읽으며 핵심 문법과 논리를 정리해 봅시다. 연대기 표지, 수동태, 인과관계, 대조, 분사구문이 역사적 전환점을 얼마나 압축적으로 전달하는지 확인해 보세요.",
+        "directKorean": "이제 21개 문장이 어떻게 작동하는지 분석해 봅시다. / 5번 문장을 보세요: / \"그러나 1707년 아우랑제브 황제의 죽음은 / 불안정을 불러왔습니다.\" / 9번 문장을 보세요: / \"무굴 황제를 허수아비로 만들면서\"—/ 이 분사구문이 결과를 보여줍니다. / 17번 문장에서는, / \"잔혹하게 진압되었지만, 그 반란은 회사 통치를 끝냈습니다.\" / 그리고 20번 문장에서는 / 정확한 균형을 보세요: / \"철도, 법, 그리고 영어 교육, / 그러나 또한 인종차별, 억압, 그리고 기근.\"",
+        "naturalKorean": "이제 21개 문장을 의미 덩어리(chunk)로 끊어 읽으며 핵심 문법과 논리를 정리해 봅시다. 연대기 표지, 수동태, 인과관계, 대조, 분사구문이 역사적 전환점을 얼마나 압축적으로 전달하는지 확인해 보세요.",
+        "studentActions": "Students read slash-chunked sentences aloud, review Feynman explanations, and study the 6 Language Focus cards.",
+        "misconception": "Students may misread \"Brutally suppressed, the rebellion ended Company rule\" as meaning the rebellion brutally suppressed the Company.",
+        "correctiveFeedback": "Show that \"suppressed\" is a passive participle modifying \"the rebellion\": the rebellion WAS suppressed, yet it ended Company rule.",
+        "transition": "Now let us check our reading comprehension and practice citing textual evidence.",
+        "g1Scaffold": "Read P1 and P2 chunks chorally and review direct vs. natural Korean side by side.",
+        "g2Extension": "Have students rewrite Sentence 17 and Sentence 18 as full finite clauses to verify comprehension of reduced participles."
+      },
+      {
+        "phase": 6,
+        "phaseName": "Main Idea, Comprehension & Evidence Check",
+        "duration": "12 minutes",
+        "objective": "Complete the 1 Main Idea MCQ, 6 Reading Comprehension MCQs, and 3 Evidence from the Text written responses with rule-based check.",
+        "actions": [
+          "Have students select Main Idea and RC1–RC6 independently before checking evidence.",
+          "Guide students to write Evidence 1–3 using direct phrases from Source H and click \"Check & Compare\".",
+          "G1 Scaffold: Point students to the paragraphRef hint (P1–P5) for each comprehension and evidence item.",
+          "G2 Extension: Require direct short quotations (e.g., \"shift from trade to rule\", \"inadvertently sowed the seeds\") in Evidence responses."
+        ],
+        "scriptEn": "Now complete the Main Idea question / and the six Reading Comprehension questions. / Remember: every answer must come strictly from Source H, / not from outside facts. / Next, write your three Evidence responses: / first on commerce to rule, / second on the 1857 uprising and Crown colony, / and third on the Raj’s mixed legacy. / Click \"Check & Compare\" to test your quoting and overlap.",
+        "scriptKo": "[직독직해] 이제 중심 생각 문제와 / 여섯 개의 독해 문제를 풀어 보세요. / 기억하세요: 모든 답은 외부 지식이 아니라 / 철저히 Source H 본문에서 나와야 합니다. / 다음으로 세 개의 증거 제시 문항을 작성하세요: / 첫째는 상업에서 통치로의 전환, / 둘째는 1857년 봉기와 왕실 식민지, / 셋째는 라지의 복합적 유산입니다. / \"Check & Compare\"를 눌러 인용과 핵심어 포함 여부를 점검해 보세요. [자연스러운 해석] 이제 중심 생각 1문항과 독해 6문항을 본문 근거에 기반해 풀고, 3개의 텍스트 증거 쓰기 문항을 작성해 봅시다. 외부 배경지식이 아닌 Source H의 표현을 직접 인용하거나 정확히 바꾸어 쓴 뒤 Check & Compare로 확인하세요.",
+        "directKorean": "이제 중심 생각 문제와 / 여섯 개의 독해 문제를 풀어 보세요. / 기억하세요: 모든 답은 외부 지식이 아니라 / 철저히 Source H 본문에서 나와야 합니다. / 다음으로 세 개의 증거 제시 문항을 작성하세요: / 첫째는 상업에서 통치로의 전환, / 둘째는 1857년 봉기와 왕실 식민지, / 셋째는 라지의 복합적 유산입니다. / \"Check & Compare\"를 눌러 인용과 핵심어 포함 여부를 점검해 보세요.",
+        "naturalKorean": "이제 중심 생각 1문항과 독해 6문항을 본문 근거에 기반해 풀고, 3개의 텍스트 증거 쓰기 문항을 작성해 봅시다. 외부 배경지식이 아닌 Source H의 표현을 직접 인용하거나 정확히 바꾸어 쓴 뒤 Check & Compare로 확인하세요.",
+        "studentActions": "Students complete Main Idea + 6 MCQs, draft 3 evidence responses, check word counts, and inspect rule-based feedback + Compare Tips.",
+        "misconception": "Students may bring in outside facts (like Gandhi, Salt March, or Partition) that are not in Source H.",
+        "correctiveFeedback": "Enforce unsupported-fact control: verify every claim directly against Source H’s five paragraphs.",
+        "transition": "Now let us apply our target grammar in the four Writing Practice items and draft the final Writing Task.",
+        "g1Scaffold": "Allow students to check paragraph numbers before drafting Evidence 1–3.",
+        "g2Extension": "Ask students to verify why the three wrong options in each MCQ fail based on Source H."
+      },
+      {
+        "phase": 7,
+        "phaseName": "Writing Practice & Timed Writing Task (100–140 Words)",
+        "duration": "18 minutes",
+        "objective": "Complete the 4 scaffolded Writing Practice items and compose a 100–140 word paragraph answering the exact Writing Task prompt.",
+        "actions": [
+          "Allocate 6 minutes for the 4 Writing Practice prompts (timeline, revenue→rule, passive oversight, balanced legacy).",
+          "Allocate 12 minutes for the 100–140 word Writing Task with 3 details, chronology, cause/effect, benefit/harm, and attribution.",
+          "G1 Scaffold: Provide the 5-step Writing Support outline and sentence starters during drafting.",
+          "G2 Extension: Encourage combining cause/effect and participial phrases while keeping tight control of 115–130 words."
+        ],
+        "scriptEn": "Complete the four Writing Practice items first / to practice timeline markers, cause and effect, / passive oversight, and balanced legacy. / Then write your 100 to 140 word paragraph / answering the exact prompt: / \"According to Source H, how did British power in India develop from commerce into empire, / and what were its consequences?\" / Include at least three details, chronology, cause and effect, / both benefits and harms, and clear attribution. / Use \"Check & Compare\" before revealing the model.",
+        "scriptKo": "[직독직해] 먼저 네 개의 쓰기 연습 문항을 완성하여 / 연대기 표지, 인과관계, / 수동태 감독 표현, 그리고 균형 잡힌 유산 서술을 연습하세요. / 그런 다음 정확한 질문에 답하는 / 100~140단어 문단을 작성하세요: / \"Source H에 따르면, 인도에서의 영국 권력은 어떻게 상업에서 제국으로 발전했으며, / 그 결과는 무엇이었는가?\" / 최소 세 가지 세부 사실, 연대기, 인과관계, / 긍정적·부정적 측면, 그리고 명확한 출처 명시를 포함하세요. / 모범 답안을 보기 전에 먼저 \"Check & Compare\"를 사용하세요. [자연스러운 해석] 먼저 4개의 쓰기 연습 문항으로 연대기, 인과관계, 수동태, 균형 표현을 다진 뒤, 본 과제에서 100~140단어 분량의 완성된 문단을 작성합시다. 반드시 Source H를 출처로 밝히고 3가지 이상의 근거, 시간 순서, 긍정적·부정적 결과를 모두 담아내세요.",
+        "directKorean": "먼저 네 개의 쓰기 연습 문항을 완성하여 / 연대기 표지, 인과관계, / 수동태 감독 표현, 그리고 균형 잡힌 유산 서술을 연습하세요. / 그런 다음 정확한 질문에 답하는 / 100~140단어 문단을 작성하세요: / \"Source H에 따르면, 인도에서의 영국 권력은 어떻게 상업에서 제국으로 발전했으며, / 그 결과는 무엇이었는가?\" / 최소 세 가지 세부 사실, 연대기, 인과관계, / 긍정적·부정적 측면, 그리고 명확한 출처 명시를 포함하세요. / 모범 답안을 보기 전에 먼저 \"Check & Compare\"를 사용하세요.",
+        "naturalKorean": "먼저 4개의 쓰기 연습 문항으로 연대기, 인과관계, 수동태, 균형 표현을 다진 뒤, 본 과제에서 100~140단어 분량의 완성된 문단을 작성합시다. 반드시 Source H를 출처로 밝히고 3가지 이상의 근거, 시간 순서, 긍정적·부정적 결과를 모두 담아내세요.",
+        "studentActions": "Students complete wp1–wp4, draft the 100–140 word paragraph, monitor live word count, and run Check & Compare.",
+        "misconception": "Students may exceed 140 words by retelling every minor detail or forget to end with a concluding transition.",
+        "correctiveFeedback": "Coach students to synthesize dates concisely and begin their final sentence with \"Consequently,\", \"Thus,\", or \"Overall,\".",
+        "transition": "Pens down—let us run our final Self-Check and submit your work.",
+        "g1Scaffold": "Guide G1 students step by step through the 5-sentence Paragraph Outline in Writing Support.",
+        "g2Extension": "Challenge G2 students to integrate a participial phrase and precise historical contrast within 115–130 words."
+      },
+      {
+        "phase": 8,
+        "phaseName": "Self-Check, Model Comparison & Submission",
+        "duration": "5 minutes",
+        "objective": "Verify all 6 Self-Check criteria, compare drafts with the hidden model answer, and submit with Student Name and Code.",
+        "actions": [
+          "Walk through all 6 Self-Check boxes (understanding, chronology, evidence, balance, language, word count).",
+          "Have students compare their paragraph with the 120-word model answer and submit with Student Name and Student Code.",
+          "G1 Scaffold: Double-check that Student Name, Student Code, and 100–140 word count are complete before clicking Submit.",
+          "G2 Extension: Have students note one specific language upgrade from the model answer for future historical essays."
+        ],
+        "scriptEn": "Check all six items in your Self-Check list: / understanding of commerce to Crown, / clear chronology, three details with attribution, / balanced benefits and harms, target language, / and 100 to 140 words. / Compare your draft with the model answer, / enter your Student Name and Student Code, / and click \"Submit lesson.\" / Great historical analysis today!",
+        "scriptKo": "[직독직해] 자가 점검 체크리스트의 여섯 항목을 모두 확인하세요: / 상업에서 왕실로의 변화 이해, / 명확한 연대기, 출처가 포함된 세 가지 세부 근거, / 혜택과 피해의 균형, 목표 언어 사용, / 그리고 100~140단어 분량. / 모범 답안과 자신의 글을 비교한 뒤, / 학생 이름과 학생 코드를 입력하고 / \"Submit lesson\"을 누르세요. / 오늘 훌륭한 역사 분석이었습니다! [자연스러운 해석] 마지막으로 6가지 자가 점검 항목을 모두 확인하고 모범 답안과 비교해 보세요. 이름과 학생 코드를 정확히 입력한 뒤 제출하면 오늘 수업이 마무리됩니다. 수고 많았습니다!",
+        "directKorean": "자가 점검 체크리스트의 여섯 항목을 모두 확인하세요: / 상업에서 왕실로의 변화 이해, / 명확한 연대기, 출처가 포함된 세 가지 세부 근거, / 혜택과 피해의 균형, 목표 언어 사용, / 그리고 100~140단어 분량. / 모범 답안과 자신의 글을 비교한 뒤, / 학생 이름과 학생 코드를 입력하고 / \"Submit lesson\"을 누르세요. / 오늘 훌륭한 역사 분석이었습니다!",
+        "naturalKorean": "마지막으로 6가지 자가 점검 항목을 모두 확인하고 모범 답안과 비교해 보세요. 이름과 학생 코드를 정확히 입력한 뒤 제출하면 오늘 수업이 마무리됩니다. 수고 많았습니다!",
+        "studentActions": "Students complete the 6 Self-Check ticks, compare against the revealed model answer, enter name/code, and submit.",
+        "misconception": "Students may forget to enter their Student Code or click Submit before checking their word count.",
+        "correctiveFeedback": "Verify every student enters both Student Name and Student Code cleanly so attempts are tracked separately.",
+        "transition": "Next class, we will compare Source H with other unit sources on empire and resistance.",
+        "g1Scaffold": "Confirm submission banner appears and check auto-graded MCQ feedback.",
+        "g2Extension": "Have students reflect on how Source H’s attribution and balance strengthen historical arguments."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "label": "Opening 1 — Introducing Source H & Central Question",
+        "english": "Welcome, Grade 9. / Today we are examining Source H by Fritz Blackwell, / \"The Rise of the British Empire in India, 1700-1900,\" / published by the Association of Asian Studies in 2008.",
+        "korean": "환영합니다, 9학년 여러분. / 오늘 우리는 프리츠 블랙웰이 쓰고 / 2008년 아시아학회(Association of Asian Studies)에서 출판한 Source H, / \"인도에서의 대영제국 부상, 1700-1900\"을 살펴봅니다.",
+        "naturalKorean": "9학년 여러분 환영합니다. 오늘은 2008년 아시아학회에서 간행된 프리츠 블랙웰의 글인 Source H를 함께 분석해 보겠습니다.",
+        "teachingPurpose": "Establish exact source attribution and historical scope immediately."
+      },
+      {
+        "label": "Opening 2 — Tracking Commerce → Company → Crown",
+        "english": "Our central task / is to trace how a weak trading company founded in 1600 / shifted from commerce to political rule / after Mughal decline and the 1757 Battle of Plassey, / and finally became direct British Crown rule in 1858.",
+        "korean": "우리의 핵심 과제는 / 1600년에 설립된 약한 무역 회사가 / 무굴 제국의 쇠퇴와 1757년 플라시 전투 이후 / 어떻게 상업에서 정치적 통치로 전환되었고, / 마침내 1858년 영국 왕실의 직접 통치로 이어졌는지 추적하는 것입니다.",
+        "naturalKorean": "오늘 수업에서는 1600년 작은 무역 회사로 출발한 영국 세력이 어떻게 회사 통치를 거쳐 1858년 영국 왕실 직할 식민지로 전환되었는지 그 흐름을 따라가 봅니다.",
+        "teachingPurpose": "Give students the three-stage chronological scaffold before reading."
+      },
+      {
+        "label": "Opening 3 — Strict Evidence & Balanced Analysis",
+        "english": "As historians, / we will rely strictly on the evidence inside Source H—/ balancing infrastructure and education / against racism, repression, famine, / and the unintended rise of Indian nationalism.",
+        "korean": "역사가로서 우리는 / 오직 Source H 안의 증거에만 근거하여—/ 기반 시설과 교육을 / 인종차별, 억압, 기근, / 그리고 의도치 않은 민족주의의 부상과 균형 있게 분석할 것입니다.",
+        "naturalKorean": "또한 외부 추측을 배제하고 Source H에 나온 근거만을 바탕으로, 제국 지배가 남긴 성과와 피해, 그리고 민족주의의 싹틈을 균형 있게 정리해 보겠습니다.",
+        "teachingPurpose": "Reinforce unsupported-fact control and balanced evaluation."
+      }
+    ],
+    "warmUpTeacherGuide": {
+      "q1": {
+        "question": "Why might a foreign group begin its presence in another country through trade rather than military conquest, and how could business interests gradually turn into political control?",
+        "focus": "Commerce vs. Conquest",
+        "teacherTalk": "Ask students to think about cost, risk, and local power. A small trading company cannot conquer a huge empire at first, so it begins with trade—but protecting profits or gaining tax rights can turn trade into rule.",
+        "sampleStudentAnswer": "A foreign group may begin with trade because it lacks the army to conquer a strong country; however, business can turn into political control if the company gains military force or the right to collect taxes.",
+        "followUpQuestion": "Why is collecting taxes such an important step away from ordinary trade?",
+        "korean": "왜 외국 세력은 군사적 정복이 아니라 무역으로 진출하며, 상업적 이익이 어떻게 정치적 통제로 바뀔 수 있을까요?",
+        "likelyResponses": [
+          "They want spices or goods first, not war.",
+          "When they get land or tax power, they start acting like a government."
+        ],
+        "usefulLanguage": [
+          "commerce",
+          "conquest",
+          "dependent",
+          "revenue",
+          "rule"
+        ],
+        "caution": "Keep answers conceptual and avoid importing unrelated modern corporations.",
+        "purpose": "Bridge directly to Paragraph 1 (1600 trade) and Paragraph 2 (1757 revenue collection)."
+      },
+      "q2": {
+        "question": "When a powerful central ruler or empire weakens and instability spreads, what kinds of opportunities can open up for regional rivals and outside powers?",
+        "focus": "Instability and Opportunity",
+        "teacherTalk": "Prompt students to visualize a power vacuum: when central authority fades, local leaders compete and foreign traders can form alliances or win influence.",
+        "sampleStudentAnswer": "When a central empire weakens and becomes unstable, regional rivals can claim independence and outside powers can expand their territory and influence.",
+        "followUpQuestion": "Why might local rulers fail to see weak foreign merchants as a threat at first?",
+        "korean": "강력한 중앙 제국이 약화되고 불안정이 퍼질 때, 지역 경쟁 세력과 외부 세력에게 어떤 기회가 열릴 수 있을까요?",
+        "likelyResponses": [
+          "Nobody is strong enough to stop them anymore.",
+          "Outsiders can make deals or fight smaller rivals one by one."
+        ],
+        "usefulLanguage": [
+          "instability",
+          "decline",
+          "authority",
+          "opportunities",
+          "regional powers"
+        ],
+        "caution": "Connect the idea back to political fragmentation rather than general personal conflicts.",
+        "purpose": "Bridge directly to Emperor Aurangzeb’s death in 1707 and the decline of Mughal authority (P1)."
+      },
+      "q3": {
+        "question": "If an imperial power builds infrastructure and schools while also causing discrimination, repression, or economic harm, why should historians examine both sides together?",
+        "focus": "Mixed Effects of Imperial Rule",
+        "teacherTalk": "Guide students beyond simple \"good vs. bad\" binaries. Show how an empire can build railways and schools while enforcing racism, repression, and famine.",
+        "sampleStudentAnswer": "Historians should examine both benefits and harms because focusing on only one side gives an incomplete picture of how imperial rule transformed society and sparked resistance.",
+        "followUpQuestion": "How might shared hardship under foreign rule unexpectedly unite diverse peoples?",
+        "korean": "제국 권력이 기반 시설과 학교를 세우는 동시에 차별·억압·피해를 초래했다면, 역사가들은 왜 양면을 함께 보아야 할까요?",
+        "likelyResponses": [
+          "Looking at only one side hides the full truth.",
+          "People experienced both changes and suffering at the same time."
+        ],
+        "usefulLanguage": [
+          "racism",
+          "repression",
+          "famine",
+          "mixed legacy",
+          "nationalism"
+        ],
+        "caution": "Ensure students do not treat railways or education as excusing racism, repression, or famine.",
+        "purpose": "Bridge directly to Paragraph 5 (Raj’s mixed legacy and unintended seeds of nationalism)."
+      }
+    },
+    "sourceReadingGuide": {
+      "title": "Source H Canonical Reading & Boundary Reference",
+      "description": "Exact unadapted text reference for Fritz Blackwell’s Source H without outside historical additions.",
+      "sourceLabel": "Source H:",
+      "citation": "Fritz Blackwell, The British Impact on India: 1700-1900, Association of Asian Studies (2008)",
+      "sourceTitle": "The Rise of the British Empire in India, 1700-1900",
+      "sourceLayout": "Five prose paragraphs following the Source H label, citation, and title. The gray divider line in the classroom handout image marks a page break inside Paragraph 4; Paragraph 4 remains one unbroken 5-sentence paragraph.",
+      "paragraphBoundaries": "P1 = 5 sentences (1600 commerce & 1707 Mughal decline); P2 = 5 sentences (1757 Plassey/revenue & 1803 Delhi/figurehead); P3 = 3 sentences (late-18th-century parliamentary oversight & Company bureaucracy); P4 = 5 sentences continuous across page break (hardened relations, 1857 uprising, 1858 Crown colony); P5 = 3 sentences (1900 transformation, mixed Raj legacy, nationalism). Total = 21 sentences.",
+      "chronologyChain": "1600 (East India Company founded for trade) → 1707 (death of Emperor Aurangzeb, Mughal decline) → 1757 (Battle of Plassey, Robert Clive gains revenue rights) → late 18th century (Parliamentary oversight acts) → 1803 (British occupy Delhi, Mughal emperor becomes figurehead) → 1857 (great uprising ends Company rule) → 1858 (formal British Crown colony; Victoria later Empress of India) → 1900 (Raj transformation and seeds of nationalism).",
+      "causeEffectChain": "Mughal instability (1707) → opportunities for British → Plassey victory & revenue collection (1757) → shift from trade to rule → Delhi occupation (1803) & bureaucracy expansion → racial prejudice/cultural superiority → 1857 uprising → end of Company rule & 1858 Crown colony → mixed Raj effects → shared identity & nationalism.",
+      "unsupportedFactControl": "Teach strictly from Source H. Do not require or accept outside facts not in the passage (such as specific act names, exact troop figures, Sepoy/cartridge details, Gandhi, or 1947 Partition) as text evidence."
+    },
+    "finalWritingSupport": {
+      "sourceVocabulary": [
+        "commerce (상업, 무역)",
+        "conquest (정복)",
+        "revenue (세입, 조세 수입)",
+        "figurehead (명목상의 지도자)",
+        "near-sovereign (준주권적인)",
+        "oversight (감독, 관리)",
+        "bureaucracy (관료제)",
+        "racial prejudice (인종적 편견)",
+        "uprising (봉기, 반란)",
+        "nationalism (민족주의)"
+      ],
+      "usefulConnectors": [
+        "According to Fritz Blackwell in Source H,",
+        "Initially,",
+        "However,",
+        "As a result,",
+        "By 1803,",
+        "Despite",
+        "Consequently,",
+        "Thus,"
+      ],
+      "contrastMarkers": [
+        "not with conquest but with commerce",
+        "However, ...",
+        "Yet the Company continued to expand...",
+        "Despite parliamentary oversight, ...",
+        "railways, law, and English education, but also racism, repression, and famine"
+      ],
+      "causeEffectLanguage": [
+        "ushered in instability, creating opportunities for...",
+        "gained the right to collect revenue, shifting the Company from trade to rule",
+        "ended Company rule, making India a formal Crown colony",
+        "Consequently, the Raj brought... and inadvertently sowed the seeds of nationalism"
+      ],
+      "attributionPhrases": [
+        "According to Fritz Blackwell in Source H, ...",
+        "Source H explains that ...",
+        "As Blackwell notes in Source H, ...",
+        "According to Source H, ..."
+      ],
+      "paragraphOutline": [
+        "1. Topic Sentence & Attribution: Attribute to Fritz Blackwell in Source H and state that British power developed gradually from commerce into formal imperial rule.",
+        "2. Origins & Turning Point (1600–1757): Note the 1600 East India Company trade under the Mughal Empire, Aurangzeb’s death in 1707, and Clive’s 1757 Battle of Plassey revenue victory.",
+        "3. Consolidation & Oversight (1803 & P3): Explain the 1803 occupation of Delhi (figurehead emperor) and continued expansion via bureaucracy despite late-18th-century parliamentary oversight.",
+        "4. Crisis & Crown Rule (1857–1858): Explain how hardening relations triggered the 1857 uprising, ending Company rule and making India a British Crown colony in 1858.",
+        "5. Concluding Synthesis (1900 Legacy): Conclude with \"Consequently,\" or \"Overall,\", balancing railways, law, and English education against racism, repression, famine, and unintended nationalism."
+      ],
+      "sentenceFrames": [
+        "According to Fritz Blackwell in Source H, British power in India developed from...",
+        "Initially, the East India Company, founded in 1600, sought...",
+        "However, Emperor Aurangzeb’s death in 1707 created instability, and in 1757...",
+        "By 1803, the British occupied Delhi, turning...",
+        "Although Parliament imposed oversight, Company expansion persisted until the 1857 uprising...",
+        "Consequently, by 1900, the Raj brought..., yet also..., inadvertently sowing the seeds of nationalism."
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "East India Company founded in 1600 for conquest India.",
+          "correction": "The East India Company was founded in 1600 for commerce in spices, cotton, and textiles, not conquest.",
+          "explanation": "회사가 설립된 것이므로 수동태 \"was founded\"를 써야 하며, 1600년 목적은 정복(conquest)이 아니라 상업(commerce)이었음을 정확히 반영해야 합니다."
+        },
+        {
+          "mistake": "In 1757, Robert Clive collect revenue and shift to rule.",
+          "correction": "In 1757, Robert Clive gained the right to collect revenue, shifting the Company from trade to rule.",
+          "explanation": "과거 시제 일치를 지켜 \"gained\"를 쓰고, 결과를 나타내는 분사구문 \"shifting...\" 또는 \"which shifted...\"를 연결해야 자연스럽습니다."
+        },
+        {
+          "mistake": "Although Parliament imposed oversight, but the Company expanded.",
+          "correction": "Although Parliament imposed oversight, the Company continued to expand.",
+          "explanation": "한국인 학습자가 자주 범하는 오류로, \"Although\"와 \"but\"을 한 문장에 동시에 쓰지 않습니다. 둘 중 하나만 선택하세요."
+        },
+        {
+          "mistake": "The Raj only brought good things like railways and education, or only bad things.",
+          "correction": "Consequently, the Raj brought railways, law, and English education, yet also racism, repression, and famine, inadvertently sowing the seeds of nationalism.",
+          "explanation": "Source H의 5문단은 긍정적 변화와 심각한 폐해, 그리고 민족주의의 싹틈을 모두 제시하므로 대조 연결어(\"yet also\" / \"but also\")로 균형을 맞추어야 합니다."
+        }
+      ],
+      "teacherCorrectionFocus": [
+        "Check explicit attribution to Fritz Blackwell / Source H in the opening sentence.",
+        "Verify accurate chronological progression (1600 → 1707 → 1757 → 1803 → 1857/1858 → 1900) without unsupported outside facts.",
+        "Correct passive voice omissions (\"was founded\", \"was suppressed\", \"had been transformed\") and double-conjunction errors (\"Although... but...\").",
+        "Confirm balanced 1900 consequences (both railways/law/English education and racism/repression/famine + nationalism) and 100–140 word count."
+      ],
+      "g1Scaffold": "Provide G1 students with the 5-step outline and sentence frames containing exact year prompts (1600, 1707, 1757, 1803, 1857–1858, 1900) and key vocabulary cues.",
+      "g2Extension": "Challenge G2 students to synthesize oversight and bureaucracy concisely via concessive and participial structures (\"Despite parliamentary oversight...\", \"turning...\", \"inadvertently sowing...\") within 115–130 words."
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Source H consists of the exact Source Label (\"Source H:\"), Citation, Title, and 5 paragraphs totaling 21 sentences (P1=5, P2=5, P3=3, P4=5, P5=3). Note that the gray divider line in the classroom image marks a page break inside Paragraph 4, which remains one continuous 5-sentence paragraph.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "paragraph": "Paragraph 1",
+          "original": "The British presence in India began not with conquest but with commerce.",
+          "chunkReading": "The British presence in India / began / not with conquest / but with commerce.",
+          "directKorean": "영국의 존재는 인도에서의 / 시작했다 / 정복이 아니라 / 상업(무역)으로.",
+          "naturalKorean": "인도에서의 영국 진출은 정복이 아니라 상업으로 시작되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "The British presence in India",
+              "meaning": "인도에서의 영국 진출(존재)",
+              "use": "noun phrase introducing a foreign power’s early involvement in a region",
+              "example": "The British presence in India expanded slowly over two centuries."
+            },
+            {
+              "chunk": "not with conquest but with commerce",
+              "meaning": "정복이 아니라 상업으로",
+              "use": "correlative contrast structure (not A but B) highlighting peaceful trade origins",
+              "example": "Many overseas trading posts began not with conquest but with commerce."
+            }
+          ],
+          "mustKnowGrammar": "Simple past verb (\"began\") paired with parallel prepositional contrast (\"not with conquest but with commerce\") to set the historical thesis of Paragraph 1.",
+          "feynmanExplanation": "When British ships first came to India, / they did not arrive as an invading army. / Instead, they came as business traders / looking to buy and sell goods.",
+          "feynmanExplanationKo": "영국 배들이 처음 인도에 왔을 때, / 그들은 침략군으로 온 것이 아니었습니다. / 대신에 그들은 물건을 사고팔려는 / 상인들로 왔습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at Sentence 1: \"not with conquest but with commerce.\" How does this contrast shape our understanding of early British history in India?",
+              "korean": "1번 문장의 \"정복이 아니라 상업으로\"라는 표현을 보세요. 이 대조는 인도에서의 초기 영국 역사를 이해하는 데 어떤 틀을 제시하나요?"
+            },
+            {
+              "english": "It establishes the starting point of the timeline: trade came long before military and political empire.",
+              "korean": "연대기의 출발점을 잡아 줍니다: 군사적·정치적 제국보다 무역이 훨씬 먼저 시작되었다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "paragraph": "Paragraph 1",
+          "original": "When the East India Company was founded in 1600, its goal was trade in spices, cotton, and textiles.",
+          "chunkReading": "When the East India Company / was founded in 1600, / its goal was / trade in spices, cotton, and textiles.",
+          "directKorean": "동인도 회사가 / 1600년에 설립되었을 때, / 그것의 목표는 ~였다 / 향신료, 면화, 그리고 직물 무역.",
+          "naturalKorean": "1600년에 동인도 회사가 설립되었을 때, 그 목표는 향신료, 면화, 직물 무역이었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "was founded in 1600",
+              "meaning": "1600년에 설립되었다",
+              "use": "passive past verb + year establishing an exact institutional origin",
+              "example": "The trading company was founded in 1600 to manage overseas commerce."
+            },
+            {
+              "chunk": "trade in spices, cotton, and textiles",
+              "meaning": "향신료, 면화, 직물 무역",
+              "use": "noun phrase specifying the core commodities of early trade",
+              "example": "European merchants sought trade in spices, cotton, and textiles across Asia."
+            }
+          ],
+          "mustKnowGrammar": "Adverbial time clause (\"When the East India Company was founded in 1600\") using past passive (\"was founded\"), followed by main clause with possessive determiner (\"its\") and linking verb (\"was\").",
+          "feynmanExplanation": "In the year 1600, / British merchants started a business group called the East India Company. / At the very beginning, / their only plan was to trade valuable items like spices, cotton, and cloth.",
+          "feynmanExplanationKo": "1600년에 영국 상인들은 / 동인도 회사라는 무역 단체를 세웠습니다. / 맨 처음에 그들의 유일한 계획은 / 향신료, 면화, 직물 같은 귀한 물품을 거래하는 것이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What key institution and date appear in Sentence 2, and why is \"was founded\" passive?",
+              "korean": "2번 문장에 어떤 핵심 기관과 연도가 등장하며, 왜 \"was founded\"가 수동태로 쓰였나요?"
+            },
+            {
+              "english": "The East India Company in 1600. The passive highlights the organization’s establishment as a milestone on the timeline.",
+              "korean": "1600년의 동인도 회사입니다. 수동태는 연대기에서 이 기관의 설립 자체를 중요한 이정표로 부각합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "paragraph": "Paragraph 1",
+          "original": "Initially weak and dependent, the English merchants arrived in a land dominated by the powerful Mughal Empire.",
+          "chunkReading": "Initially weak and dependent, / the English merchants arrived / in a land / dominated by the powerful Mughal Empire.",
+          "directKorean": "처음에는 약하고 의존적인 상태로, / 영국 상인들은 도착했다 / 한 땅에 / 강력한 무굴 제국에 의해 지배되던.",
+          "naturalKorean": "처음에는 약하고 의존적이었던 영국 상인들은 강력한 무굴 제국이 지배하는 땅에 도착했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Initially weak and dependent",
+              "meaning": "처음에는 약하고 의존적인",
+              "use": "fronted adjective phrase describing the subject’s early vulnerability",
+              "example": "Initially weak and dependent, the settlement relied on local rulers for protection."
+            },
+            {
+              "chunk": "dominated by the powerful Mughal Empire",
+              "meaning": "강력한 무굴 제국에 의해 지배되는",
+              "use": "past participial modifier showing who held real power at the time",
+              "example": "Merchants entered a region dominated by the powerful Mughal Empire."
+            }
+          ],
+          "mustKnowGrammar": "Fronted adjectival modifier (\"Initially weak and dependent\") describing \"the English merchants\"; past tense intransitive verb (\"arrived\"); noun (\"a land\") modified by reduced passive relative clause (\"dominated by...\").",
+          "feynmanExplanation": "These English traders were not strong at first. / They needed permission and help from local rulers to do business. / Why? / Because India was controlled by a huge, strong government called the Mughal Empire.",
+          "feynmanExplanationKo": "이 영국 상인들은 처음에는 강하지 않았습니다. / 장사를 하려면 현지 통치자의 허락과 도움이 필요했습니다. / 왜냐하면 인도는 무굴 제국이라는 / 거대하고 강력한 국가가 다스리고 있었기 때문입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the contrast in power in Sentence 3: the merchants were \"weak and dependent,\" while the Mughal Empire was \"powerful.\"",
+              "korean": "3번 문장의 힘의 대조를 보세요: 상인들은 \"약하고 의존적\"이었던 반면, 무굴 제국은 \"강력\"했습니다."
+            },
+            {
+              "english": "That power imbalance explains why nobody expected a small group of traders to take over the country.",
+              "korean": "그러한 힘의 불균형 때문에 아무도 소수의 상인 집단이 나라를 장악하리라고 예상하지 못했던 것입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "paragraph": "Paragraph 1",
+          "original": "They were hardly seen as a threat.",
+          "chunkReading": "They / were hardly seen / as a threat.",
+          "directKorean": "그들은 / 거의 여겨지지 않았다 / 위협으로.",
+          "naturalKorean": "그들은 거의 위협으로 여겨지지 않았습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "were hardly seen as",
+              "meaning": "거의 ~로 여겨지지 않았다",
+              "use": "passive perception verb + negative-frequency adverb (\"hardly\")",
+              "example": "Early trading posts were hardly seen as a military danger."
+            },
+            {
+              "chunk": "as a threat",
+              "meaning": "위협으로",
+              "use": "prepositional complement identifying perceived danger",
+              "example": "Small merchant fleets were not viewed as a threat by imperial rulers."
+            }
+          ],
+          "mustKnowGrammar": "Short simple passive clause (\"They were hardly seen as a threat\"): subject pronoun (\"They\" = the English merchants) + passive verb (\"were... seen\") + semi-negative adverb (\"hardly\" = almost not).",
+          "feynmanExplanation": "Because the English merchants had very little power, / the Mughal rulers did not worry about them. / To the empire, / these traders did not look dangerous at all.",
+          "feynmanExplanationKo": "영국 상인들이 가진 힘이 매우 작았기 때문에, / 무굴 통치자들은 그들을 걱정하지 않았습니다. / 제국의 눈에 이 상인들은 / 전혀 위험해 보이지 않았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Be careful with the word \"hardly\" in Sentence 4. Does \"hardly seen\" mean \"seen very hard\"?",
+              "korean": "4번 문장의 \"hardly\"라는 단어에 주의하세요. \"hardly seen\"이 \"매우 열심히 보았다\"라는 뜻인가요?"
+            },
+            {
+              "english": "No! \"Hardly\" is a negative adverb meaning \"almost not at all.\" So they were almost never viewed as dangerous.",
+              "korean": "아닙니다! \"hardly\"는 \"거의 ~않다\"라는 부정 부사입니다. 즉, 거의 위협으로 보이지 않았다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "paragraph": "Paragraph 1",
+          "original": "But the death of Emperor Aurangzeb in 1707 ushered in instability, and the decline of Mughal authority created opportunities for regional powers—and for the British.",
+          "chunkReading": "But the death of Emperor Aurangzeb / in 1707 / ushered in instability, / and the decline of Mughal authority / created opportunities / for regional powers—and for the British.",
+          "directKorean": "그러나 아우랑제브 황제의 죽음은 / 1707년의 / 불안정을 불러왔고, / 그리고 무굴 권위의 쇠퇴는 / 기회들을 만들어 냈다 / 지역 세력들을 위한—그리고 영국인들을 위한.",
+          "naturalKorean": "그러나 1707년 아우랑제브 황제의 죽음은 불안정을 불러왔고, 무굴 제국 권위의 쇠퇴는 지역 세력들과 영국인들에게 기회를 만들어 주었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "ushered in instability",
+              "meaning": "불안정을 불러왔다(초래했다)",
+              "use": "transitive phrasal verb marking the start of a turbulent period",
+              "example": "The ruler’s sudden death ushered in instability across the provinces."
+            },
+            {
+              "chunk": "the decline of Mughal authority",
+              "meaning": "무굴 권위의 쇠퇴",
+              "use": "nominalized cause phrase summarizing weakening central power",
+              "example": "The decline of Mughal authority allowed local governors to act independently."
+            },
+            {
+              "chunk": "created opportunities for...",
+              "meaning": "~에게 기회를 만들어 주었다",
+              "use": "cause-and-effect verb phrase linking power vacuum to expansion",
+              "example": "Political division created opportunities for outside trading companies."
+            }
+          ],
+          "mustKnowGrammar": "Compound sentence joined by \", and\"; turning-point adverb (\"But\"); em dash (\"—\") before \"and for the British\" adds sharp rhetorical emphasis to the British entering a power vacuum.",
+          "feynmanExplanation": "Everything changed in 1707 / when Emperor Aurangzeb died. / Without a strong central emperor, / fighting and disorder spread across the land. / Local leaders saw a chance to gain power, / and the British saw their chance too.",
+          "feynmanExplanationKo": "1707년 아우랑제브 황제가 사망하면서 모든 것이 바뀌었습니다. / 강력한 중앙 황제가 사라지자 / 나라 전역에 혼란과 불안정이 퍼졌습니다. / 지역 세력들이 권력을 잡을 기회를 보았고, / 영국인들 역시 자신들의 기회를 보았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does Sentence 5 use an em dash before \"and for the British\"?",
+              "korean": "5번 문장에서 왜 \"and for the British\" 앞에 대시(—)를 사용했을까요?"
+            },
+            {
+              "english": "It slows the reader down to highlight the turning point: Mughal instability after 1707 opened the door for British power.",
+              "korean": "독자의 시선을 멈추게 하여 전환점을 강조합니다: 1707년 이후 무굴의 불안정이 영국 세력 확장의 문을 열어 주었다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "paragraph": "Paragraph 2",
+          "original": "A decisive moment came in 1757 at the Battle of Plassey.",
+          "chunkReading": "A decisive moment / came in 1757 / at the Battle of Plassey.",
+          "directKorean": "결정적인 순간이 / 왔다 / 1757년 플라시 전투에서.",
+          "naturalKorean": "결정적인 순간은 1757년 플라시 전투에서 찾아왔습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "A decisive moment",
+              "meaning": "결정적인 순간",
+              "use": "topic-setting noun phrase signaling a major historical turning point",
+              "example": "A decisive moment arrived when the trading company won control of tax revenue."
+            },
+            {
+              "chunk": "at the Battle of Plassey",
+              "meaning": "플라시 전투에서",
+              "use": "prepositional location phrase naming a pivotal 1757 battle",
+              "example": "British forces gained political leverage at the Battle of Plassey."
+            }
+          ],
+          "mustKnowGrammar": "Simple past clause with subject (\"A decisive moment\"), intransitive verb (\"came\"), temporal phrase (\"in 1757\"), and locative phrase (\"at the Battle of Plassey\").",
+          "feynmanExplanation": "Now we reach a huge turning point in 1757. / A major fight called the Battle of Plassey took place. / This single battle changed the British role in India forever.",
+          "feynmanExplanationKo": "이제 1757년의 거대한 전환점에 이릅니다. / 플라시 전투라는 중요한 싸움이 벌어졌습니다. / 이 한 번의 전투가 인도에서 영국의 역할을 영원히 바꾸어 놓았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how Sentence 6 opens Paragraph 2 cleanly with a date and event: 1757, the Battle of Plassey.",
+              "korean": "6번 문장이 1757년과 플라시 전투라는 연도와 사건으로 2문단을 명쾌하게 여는 방식에 주목하세요."
+            },
+            {
+              "english": "When you write your timeline in the Writing Task, 1757 is the critical bridge between commerce and rule.",
+              "korean": "Writing Task에서 연대기를 쓸 때, 1757년은 상업과 통치를 잇는 핵심 다리입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "paragraph": "Paragraph 2",
+          "original": "With only a few thousand troops, Robert Clive defeated the Nawab of Bengal and gained the right to collect revenue.",
+          "chunkReading": "With only a few thousand troops, / Robert Clive defeated / the Nawab of Bengal / and gained / the right to collect revenue.",
+          "directKorean": "겨우 수천 명의 병력만으로, / 로버트 클라이브는 물리쳤다 / 벵골의 나와브(지방 태수)를 / 그리고 얻었다 / 세입(세금)을 징수할 권리를.",
+          "naturalKorean": "겨우 수천 명의 병력만으로 로버트 클라이브는 벵골의 나와브를 물리치고 세금을 징수할 권리를 얻었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "With only a few thousand troops",
+              "meaning": "겨우 수천 명의 병력만으로",
+              "use": "fronted prepositional phrase emphasizing small military size",
+              "example": "With only a few thousand troops, the commander won a strategic victory."
+            },
+            {
+              "chunk": "gained the right to collect revenue",
+              "meaning": "세입(세금)을 징수할 권리를 얻었다",
+              "use": "verb + infinitive-modified object marking transition to taxation authority",
+              "example": "Once the company gained the right to collect revenue, it functioned like a state."
+            }
+          ],
+          "mustKnowGrammar": "Fronted instrument/condition phrase (\"With only a few thousand troops\"); compound predicate with two past-tense transitive verbs (\"defeated... and gained...\") sharing subject \"Robert Clive\".",
+          "feynmanExplanation": "A British leader named Robert Clive had only a small army of a few thousand soldiers. / Even so, he beat the local ruler, the Nawab of Bengal. / As his prize, / the Company got the power to collect taxes from the people there.",
+          "feynmanExplanationKo": "로버트 클라이브라는 영국 지도자는 겨우 수천 명의 작은 군대만 가지고 있었습니다. / 그런데도 그는 지역 통치자인 벵골의 나와브를 이겼습니다. / 그 결과 회사는 그곳 주민들로부터 세금을 거둘 권리를 얻었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why is \"gained the right to collect revenue\" so important in Sentence 7?",
+              "korean": "7번 문장에서 \"세입(세금)을 징수할 권리를 얻었다\"는 점이 왜 그렇게 중요한가요?"
+            },
+            {
+              "english": "Because collecting taxes is a core power of government, not a normal merchant business.",
+              "korean": "세금을 거두는 것은 일반 상인의 사업이 아니라 정부의 핵심 권력이기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "paragraph": "Paragraph 2",
+          "original": "This marked the Company’s shift from trade to rule.",
+          "chunkReading": "This marked / the Company’s shift / from trade to rule.",
+          "directKorean": "이것은 보여주었다(표시했다) / 회사의 전환을 / 무역에서 통치로의.",
+          "naturalKorean": "이는 회사가 무역에서 통치로 전환되었음을 보여줍니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "This marked",
+              "meaning": "이것은 ~을 획기적으로 보여주었다(이정표가 되었다)",
+              "use": "anaphoric demonstrative subject summarizing a turning-point consequence",
+              "example": "This marked a turning point in the region’s political history."
+            },
+            {
+              "chunk": "shift from trade to rule",
+              "meaning": "무역에서 통치로의 전환",
+              "use": "directional noun phrase (from A to B) capturing the central transformation",
+              "example": "Collecting local taxes accelerated the shift from trade to rule."
+            }
+          ],
+          "mustKnowGrammar": "Cohesive pronoun subject (\"This\") referring back to winning revenue collection in Sentence 7; transitive past verb (\"marked\"); possessive noun (\"Company’s\") + directional prepositional phrase (\"from trade to rule\").",
+          "feynmanExplanation": "Before this moment, / the Company only bought and sold goods. / Now it was collecting taxes and governing land. / That is why this battle was the exact point where business turned into political control.",
+          "feynmanExplanationKo": "이 순간 이전까지 회사는 물건을 사고팔기만 했습니다. / 이제 회사는 세금을 걷고 땅을 다스리게 되었습니다. / 그래서 이 전투가 바로 장사가 정치적 지배로 바뀐 정확한 시점이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "In Sentence 8, what does the pronoun \"This\" refer to?",
+              "korean": "8번 문장에서 대명사 \"This\"는 무엇을 가리키나요?"
+            },
+            {
+              "english": "It refers to Clive’s 1757 victory at Plassey and gaining the right to collect revenue in Bengal.",
+              "korean": "1757년 플라시에서의 클라이브의 승리와 벵골 세입 징수권 획득 전체를 가리킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "paragraph": "Paragraph 2",
+          "original": "By 1803, the British occupied Delhi, turning the Mughal emperor into a figurehead.",
+          "chunkReading": "By 1803, / the British occupied Delhi, / turning the Mughal emperor / into a figurehead.",
+          "directKorean": "1803년 무렵, / 영국은 델리를 점령했다, / 무굴 황제를 바꾸어 놓으면서 / 허수아비(명목상 지도자)로.",
+          "naturalKorean": "1803년 무렵 영국은 델리를 점령하여 무굴 황제를 이름뿐인 존재로 전락시켰습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "By 1803",
+              "meaning": "1803년 무렵에는(1803년까지)",
+              "use": "chronological deadline marker indicating cumulative expansion",
+              "example": "By 1803, British forces had reached the imperial capital."
+            },
+            {
+              "chunk": "turning ... into a figurehead",
+              "meaning": "~을 명목상의(실권 없는) 존재로 전락시키면서",
+              "use": "resultative participial phrase showing loss of real political authority",
+              "example": "Military occupation succeeded in turning the monarch into a figurehead."
+            }
+          ],
+          "mustKnowGrammar": "Temporal marker (\"By 1803\"); main clause (\"the British occupied Delhi\"); comma + present participial result clause (\"turning the Mughal emperor into a figurehead\") showing immediate political consequence.",
+          "feynmanExplanation": "By the year 1803, / British forces took over the Mughal capital city of Delhi. / The Mughal emperor still had a royal title, / but he had zero real power left. / He was now only a symbol while the British made the real decisions.",
+          "feynmanExplanationKo": "1803년 무렵, 영국군은 무굴 제국의 수도인 델리를 점령했습니다. / 무굴 황제는 여전히 황제라는 칭호를 가지고 있었지만, / 실제 권력은 전혀 남아 있지 않았습니다. / 영국이 실제 결정을 내리는 동안 황제는 그저 상징에 불과하게 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the participial phrase \"turning the Mughal emperor into a figurehead.\" How does this reverse Paragraph 1?",
+              "korean": "분사구문 \"무굴 황제를 허수아비로 만들면서\"를 보세요. 이것이 1문단의 상황을 어떻게 뒤집나요?"
+            },
+            {
+              "english": "In Paragraph 1, the Mughal Empire was \"powerful\" and English merchants were \"weak.\" By 1803, the roles have completely reversed.",
+              "korean": "1문단에서는 무굴 제국이 \"강력\"하고 영국 상인들이 \"약했\"지만, 1803년에는 역할이 완전히 역전되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "paragraph": "Paragraph 2",
+          "original": "From then on, the Company became synonymous with British power in India.",
+          "chunkReading": "From then on, / the Company became / synonymous with / British power in India.",
+          "directKorean": "그때부터, / 회사는 되었다 / 동의어(동의적인 존재)가 / 인도 내 영국 권력과.",
+          "naturalKorean": "그때부터 동인도 회사는 인도 내 영국 권력 그 자체를 뜻하게 되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "From then on",
+              "meaning": "그때부터 줄곧",
+              "use": "chronological transition marking a permanent new state",
+              "example": "From then on, the Company acted as the dominant authority in the region."
+            },
+            {
+              "chunk": "became synonymous with",
+              "meaning": "~와 동일시되었다(동의어가 되었다)",
+              "use": "linking verb + adjective phrase expressing complete equivalence",
+              "example": "Over time, the organization became synonymous with imperial rule."
+            }
+          ],
+          "mustKnowGrammar": "Sentence-initial temporal adverbial (\"From then on\"); linking verb (\"became\") + predicate adjective (\"synonymous with\") + noun phrase (\"British power in India\").",
+          "feynmanExplanation": "After 1803, / people no longer saw the East India Company as just a normal business. / Whenever someone talked about British power in India, / they meant the Company itself.",
+          "feynmanExplanationKo": "1803년 이후로 사람들은 더 이상 동인도 회사를 단순한 상점으로 보지 않았습니다. / 누군가 인도에서의 영국 권력을 말할 때, / 그것은 곧 동인도 회사 자체를 의미하게 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What does \"synonymous with British power\" mean in Sentence 10?",
+              "korean": "10번 문장에서 \"영국 권력과 동의어가 되었다\"는 것은 무슨 뜻인가요?"
+            },
+            {
+              "english": "It means the private company and British state power in India were effectively the same thing in practice.",
+              "korean": "민간 회사와 인도 내 영국 국가 권력이 실제로는 사실상 같은 것으로 여겨졌다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "paragraph": "Paragraph 3",
+          "original": "Parliament in London soon recognized the dangers of a private company exercising near-sovereign power.",
+          "chunkReading": "Parliament in London / soon recognized / the dangers / of a private company / exercising near-sovereign power.",
+          "directKorean": "런던의 의회는 / 곧 인식했다 / 위험들을 / 민간 회사가 / 주권 국가에 가까운 권력을 행사하는 것의.",
+          "naturalKorean": "런던의 의회는 곧 민간 회사가 주권 국가에 가까운 권력을 행사하는 것의 위험성을 인식했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Parliament in London",
+              "meaning": "런던의 영국 의회",
+              "use": "subject noun phrase distinguishing metropolitan lawmakers from the overseas Company",
+              "example": "Parliament in London debated how to regulate overseas trading corporations."
+            },
+            {
+              "chunk": "exercising near-sovereign power",
+              "meaning": "주권 국가에 가까운 권력을 행사하는",
+              "use": "gerund/participial phrase describing quasi-governmental authority",
+              "example": "A private firm exercising near-sovereign power raised alarms among lawmakers."
+            }
+          ],
+          "mustKnowGrammar": "Subject (\"Parliament in London\"); past verb (\"soon recognized\"); direct object (\"the dangers\") + prepositional phrase containing a gerund clause (\"of a private company exercising near-sovereign power\") with \"a private company\" as the semantic subject of \"exercising\".",
+          "feynmanExplanation": "Back in London, / British lawmakers realized there was a big problem. / A private business was acting almost like an independent country, / with its own army and tax power. / Parliament saw how risky that was.",
+          "feynmanExplanationKo": "멀리 런던에 있던 영국 의회는 큰 문제가 있음을 깨달았습니다. / 한 민간 기업이 자체 군대와 세금 징수권을 가지고 / 거의 독립 국가처럼 행동하고 있었던 것입니다. / 의회는 그것이 얼마나 위험한지 알아차렸습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look closely at the hyphenated term \"near-sovereign power\" in Sentence 11. Why did Parliament see this as dangerous?",
+              "korean": "11번 문장의 하이픈 단어 \"near-sovereign power(준주권적 권력)\"를 보세요. 왜 의회가 이를 위험하다고 보았나요?"
+            },
+            {
+              "english": "Because a private business was acting almost like an independent nation, raising concerns about unchecked authority.",
+              "korean": "민간 기업이 거의 독립 국가처럼 행동하여 통제되지 않은 권력에 대한 우려를 낳았기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "paragraph": "Paragraph 3",
+          "original": "Through acts passed in the late 18th century, the British government imposed oversight.",
+          "chunkReading": "Through acts / passed in the late 18th century, / the British government / imposed oversight.",
+          "directKorean": "법안들을 통해 / 18세기 후반에 통과된, / 영국 정부는 / 감독을 부과했다.",
+          "naturalKorean": "18세기 후반에 통과된 법안들을 통해 영국 정부는 회사에 대한 감독을 부과했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Through acts passed in the late 18th century",
+              "meaning": "18세기 후반에 통과된 법안들을 통해",
+              "use": "prepositional means phrase + passive participle modifier",
+              "example": "Through acts passed in the late 18th century, lawmakers sought greater accountability."
+            },
+            {
+              "chunk": "imposed oversight",
+              "meaning": "감독을 부과했다",
+              "use": "formal verb-object collocation expressing state regulation",
+              "example": "The central government imposed oversight on the expanding trading corporation."
+            }
+          ],
+          "mustKnowGrammar": "Fronted prepositional phrase of means (\"Through acts passed in the late 18th century\") with reduced passive modifier (\"passed\"); active main clause (\"the British government imposed oversight\"). Note: do not invent specific act names not in Source H.",
+          "feynmanExplanation": "To control the Company, / the British government passed new laws in the late 1700s. / These laws were meant to watch over and limit / what the Company was doing in India.",
+          "feynmanExplanationKo": "회사를 통제하기 위해 영국 정부는 1700년대 후반에 새로운 법들을 통과시켰습니다. / 이 법들은 회사가 인도에서 하는 일들을 / 감시하고 제한하기 위한 것이었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Note for accuracy: Source H says \"acts passed in the late 18th century\" without naming individual statutes.",
+              "korean": "정확성을 위해 유의하세요: Source H는 개별 법령 이름을 대지 않고 \"18세기 후반에 통과된 법안들\"이라고만 기술합니다."
+            },
+            {
+              "english": "So in our summaries, we should stick strictly to \"acts passed in the late 18th century\" and \"imposed oversight.\"",
+              "korean": "따라서 요약할 때도 \"18세기 후반에 통과된 법안들\"과 \"감독을 부과했다\"라는 표현에 충실해야 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "paragraph": "Paragraph 3",
+          "original": "Yet the Company continued to expand, supported by a new bureaucracy and an emerging class of Indians who worked within it.",
+          "chunkReading": "Yet / the Company continued to expand, / supported by a new bureaucracy / and an emerging class of Indians / who worked within it.",
+          "directKorean": "그럼에도 불구하고 / 회사는 계속해서 확장했다, / 새로운 관료제에 의해 뒷받침되면서 / 그리고 새롭게 부상하는 인도인 계층에 의해 / 그 안에서 일했던.",
+          "naturalKorean": "그럼에도 불구하고 회사는 새로운 관료제와 그 안에서 일하는 신흥 인도인 계층의 뒷받침을 받으며 계속 확장했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Yet the Company continued to expand",
+              "meaning": "그럼에도 회사는 계속 확장했다",
+              "use": "contrast conjunction (\"Yet\") showing limits of parliamentary oversight",
+              "example": "Yet the Company continued to expand despite new regulations from London."
+            },
+            {
+              "chunk": "supported by a new bureaucracy",
+              "meaning": "새로운 관료제의 뒷받침을 받아",
+              "use": "passive participial phrase explaining institutional support for growth",
+              "example": "Colonial rule endured, supported by a new bureaucracy of clerks and officials."
+            },
+            {
+              "chunk": "an emerging class of Indians who worked within it",
+              "meaning": "그 안에서 일하는 신흥 인도인 계층",
+              "use": "noun phrase + relative clause showing local administrative participation",
+              "example": "Governance relied on an emerging class of Indians who worked within it."
+            }
+          ],
+          "mustKnowGrammar": "Contrastive coordinator (\"Yet\") challenging Sentence 12; main clause (\"the Company continued to expand\"); passive participial modifier (\"supported by...\") governing compound agents (\"a new bureaucracy and an emerging class of Indians\") with defining relative clause (\"who worked within it\", where \"it\" = the new bureaucracy/Company).",
+          "feynmanExplanation": "Even with those new laws from London, / the Company did not stop growing. / It built a big system of government offices and workers, / and a new group of local Indian workers / helped run that system from the inside.",
+          "feynmanExplanationKo": "런던에서 만든 새로운 법에도 불구하고, 회사는 성장을 멈추지 않았습니다. / 회사는 거대한 행정 조직과 관리 체계를 세웠고, / 그 안에서 일하는 새로운 인도인 계층이 / 그 체제가 돌아가도록 뒷받침했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Look at the contrast word \"Yet\" in Sentence 13. Did parliamentary oversight stop the Company’s expansion?",
+              "korean": "13번 문장의 대조어 \"Yet(그럼에도 불구하고)\"을 보세요. 의회의 감독이 회사의 확장을 멈추었나요?"
+            },
+            {
+              "english": "No—expansion continued because a new bureaucracy and Indian staff working within it kept the system running.",
+              "korean": "아닙니다. 새로운 관료제와 그 안에서 일한 인도인 계층이 체제를 지탱했기 때문에 확장은 계속되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "paragraph": "Paragraph 4",
+          "original": "Relations between rulers and ruled hardened over time.",
+          "chunkReading": "Relations / between rulers and ruled / hardened over time.",
+          "directKorean": "관계는 / 통치자들과 피통치자들 사이의 / 시간이 지남에 따라 경직되었다(험악해졌다).",
+          "naturalKorean": "통치자와 피통치자 사이의 관계는 시간이 지나면서 점차 경직되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Relations between rulers and ruled",
+              "meaning": "통치자와 피통치자 사이의 관계",
+              "use": "topic noun phrase framing imperial hierarchy",
+              "example": "Relations between rulers and ruled grew increasingly tense."
+            },
+            {
+              "chunk": "hardened over time",
+              "meaning": "시간이 지나면서 경직되었다(굳어졌다)",
+              "use": "intransitive change-of-state verb + time phrase",
+              "example": "Social divisions hardened over time as distance replaced early cooperation."
+            }
+          ],
+          "mustKnowGrammar": "Simple topic sentence opening Paragraph 4: plural subject (\"Relations\") + prepositional modifier (\"between rulers and ruled\", using adjectival participles as nouns) + intransitive past verb (\"hardened\") + time adverbial (\"over time\").",
+          "feynmanExplanation": "As time passed, / the relationship between the British rulers and the Indian people became colder and stricter. / They did not mix together comfortably anymore.",
+          "feynmanExplanationKo": "시간이 흐르면서, / 영국 통치자들과 인도 민중 사이의 관계는 점점 차갑고 엄격해졌습니다. / 그들은 더 이상 편하게 어울리지 않게 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice how Sentence 14 sets up Paragraph 4 in just eight words: \"Relations between rulers and ruled hardened over time.\"",
+              "korean": "14번 문장이 단 여덟 단어로 4문단의 주제를 어떻게 여는지 보세요: \"통치자와 피통치자 사이의 관계는 시간이 지나면서 경직되었습니다.\""
+            },
+            {
+              "english": "Remember also that Paragraph 4 continues across the gray page break as one unbroken 5-sentence paragraph.",
+              "korean": "또한 회색 구분선(페이지 나눔)을 건너뛰더라도 4문단은 끊어지지 않는 하나의 5문장짜리 문단이라는 점을 기억하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "paragraph": "Paragraph 4",
+          "original": "Early social mixing gave way to racial prejudice, missionary zeal, and a sense of cultural superiority.",
+          "chunkReading": "Early social mixing / gave way to / racial prejudice, missionary zeal, / and a sense of cultural superiority.",
+          "directKorean": "초기의 사회적 어울림은 / 자리를 내주었다(변했다) / 인종적 편견, 선교적 열정, / 그리고 문화적 우월감으로.",
+          "naturalKorean": "초기의 사회적 교류는 인종적 편견, 선교적 열정, 그리고 문화적 우월감으로 대체되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "gave way to",
+              "meaning": "~에 자리를 내주다(~로 바뀌다)",
+              "use": "idiomatic phrasal verb tracking historical shift from one attitude to another",
+              "example": "Early curiosity gave way to strict social separation."
+            },
+            {
+              "chunk": "racial prejudice, missionary zeal, and a sense of cultural superiority",
+              "meaning": "인종적 편견, 선교적 열정, 그리고 문화적 우월감",
+              "use": "triadic noun phrase listing the ideological drivers of tension",
+              "example": "Policies reflected racial prejudice, missionary zeal, and a sense of cultural superiority."
+            }
+          ],
+          "mustKnowGrammar": "Subject (\"Early social mixing\"); past phrasal verb (\"gave way to\"); three-item parallel object list (\"racial prejudice, missionary zeal, and a sense of cultural superiority\").",
+          "feynmanExplanation": "Earlier on, British and Indian people sometimes mixed socially. / Later, that disappeared. / Instead, British attitudes shifted toward unfair racial bias, / strong religious efforts to convert people, / and believing their own culture was better.",
+          "feynmanExplanationKo": "초기에는 영국인과 인도인이 사회적으로 어울리기도 했습니다. / 하지만 나중에는 그런 모습이 사라졌습니다. / 대신 불공정한 인종적 편견, / 종교를 전파하려는 강한 선교적 열정, / 그리고 자기 문화가 더 우월하다는 인식이 자리 잡았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "What three attitudes replaced \"early social mixing\" in Sentence 15?",
+              "korean": "15번 문장에서 \"초기의 사회적 어울림\"을 대체한 세 가지 태도는 무엇인가요?"
+            },
+            {
+              "english": "Racial prejudice, missionary zeal, and a sense of cultural superiority—all three fed growing resentment.",
+              "korean": "인종적 편견, 선교적 열정, 그리고 문화적 우월감이며, 이 세 가지가 모두 갈등을 키웠습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "paragraph": "Paragraph 4",
+          "original": "Tensions exploded in the great uprising of 1857, when Indian soldiers, princes, and civilians rose against British authority.",
+          "chunkReading": "Tensions exploded / in the great uprising of 1857, / when Indian soldiers, princes, and civilians / rose against British authority.",
+          "directKorean": "긴장이 폭발했다 / 1857년의 대봉기에서, / 그때 인도 군인들, 군주들, 그리고 민간인들이 / 영국 권위에 맞서 일어났다.",
+          "naturalKorean": "1857년 인도 군인과 왕공, 민간인들이 영국 권위에 맞서 일어난 대봉기에서 긴장이 폭발했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Tensions exploded in the great uprising of 1857",
+              "meaning": "긴장이 1857년 대봉기에서 폭발했다",
+              "use": "vivid cause-and-effect clause naming a major historical rebellion",
+              "example": "Years of resentment meant tensions exploded in the great uprising of 1857."
+            },
+            {
+              "chunk": "rose against British authority",
+              "meaning": "영국 권위에 맞서 일어났다(봉기했다)",
+              "use": "intransitive verb + preposition denoting armed or collective resistance",
+              "example": "Diverse groups across northern regions rose against British authority."
+            }
+          ],
+          "mustKnowGrammar": "Main clause (\"Tensions exploded in the great uprising of 1857\"); non-defining relative time clause (\", when...\") with compound subject (\"Indian soldiers, princes, and civilians\") and past verb (\"rose\", past of \"rise\").",
+          "feynmanExplanation": "All that anger finally burst open in 1857. / A massive rebellion broke out. / Indian soldiers, local princes, and everyday citizens / joined together to fight against British rule.",
+          "feynmanExplanationKo": "쌓여 있던 그 모든 분노가 마침내 1857년에 폭발했습니다. / 거대한 반란이 일어난 것입니다. / 인도 군인들, 지역 왕공들, 그리고 평범한 시민들이 / 영국 통치에 맞서 함께 일어났습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Which three groups rose against British authority in 1857 according to Sentence 16?",
+              "korean": "16번 문장에 따르면 1857년에 영국 권위에 맞서 일어난 세 집단은 누구인가요?"
+            },
+            {
+              "english": "Indian soldiers, princes, and civilians—notice the text shows wide participation across society.",
+              "korean": "인도 군인들, 왕공들, 그리고 민간인들입니다. 본문이 사회 여러 계층의 폭넓은 참여를 보여준다는 점에 주목하세요."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "paragraph": "Paragraph 4",
+          "original": "Brutally suppressed, the rebellion ended Company rule.",
+          "chunkReading": "Brutally suppressed, / the rebellion / ended Company rule.",
+          "directKorean": "잔혹하게 진압된 채, / 그 반란은 / 회사의 통치를 끝냈다.",
+          "naturalKorean": "그 반란은 잔혹하게 진압되었지만, 결국 동인도 회사의 통치를 끝냈습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Brutally suppressed",
+              "meaning": "잔혹하게 진압된",
+              "use": "fronted passive participial phrase packing a whole clause into two words",
+              "example": "Brutally suppressed, the revolt nonetheless forced major political change."
+            },
+            {
+              "chunk": "ended Company rule",
+              "meaning": "회사의 통치를 끝냈다",
+              "use": "concise verb-object phrase marking the end of an era",
+              "example": "The upheaval of 1857 permanently ended Company rule."
+            }
+          ],
+          "mustKnowGrammar": "Compact six-word sentence with fronted passive participial phrase (\"Brutally suppressed\", meaning \"Although it was brutally suppressed\") modifying subject (\"the rebellion\"), followed by transitive verb (\"ended\") and object (\"Company rule\").",
+          "feynmanExplanation": "British forces crushed the uprising with extreme violence. / Even though the rebellion failed to win, / it proved the Company could no longer control India. / As a result, the East India Company lost its power to rule.",
+          "feynmanExplanationKo": "영국군은 극도로 잔혹한 폭력으로 이 봉기를 진압했습니다. / 비록 반란 자체는 승리하지 못했지만, / 회사가 더 이상 인도를 통제할 수 없다는 사실이 드러났습니다. / 그 결과 동인도 회사는 통치권을 잃고 말았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "How does the two-word opener \"Brutally suppressed\" function grammatically in Sentence 17?",
+              "korean": "17번 문장의 두 단어 도입부 \"Brutally suppressed\"는 문법적으로 어떤 기능을 하나요?"
+            },
+            {
+              "english": "It is a reduced passive participle clause showing concession: even though the rebellion was brutally crushed, it still ended Company rule.",
+              "korean": "양보의 의미를 담은 축약 수동 분사구문입니다: 비록 잔혹하게 진압되었지만, 그럼에도 회사 통치를 끝냈다는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "paragraph": "Paragraph 4",
+          "original": "From 1858, India became a formal colony under the British Crown, with Queen Victoria later proclaimed Empress of India.",
+          "chunkReading": "From 1858, / India became a formal colony / under the British Crown, / with Queen Victoria / later proclaimed Empress of India.",
+          "directKorean": "1858년부터, / 인도는 공식 식민지가 되었다 / 영국 왕실 아래의, / 빅토리아 여왕이 / 나중에 인도의 여제로 선포되면서.",
+          "naturalKorean": "1858년부터 인도는 영국 왕실 직할의 공식 식민지가 되었고, 이후 빅토리아 여왕이 인도 여제로 선포되었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "a formal colony under the British Crown",
+              "meaning": "영국 왕실 직할의 공식 식민지",
+              "use": "noun phrase marking direct imperial governance replacing private Company rule",
+              "example": "After 1858, India was governed as a formal colony under the British Crown."
+            },
+            {
+              "chunk": "with Queen Victoria later proclaimed Empress of India",
+              "meaning": "이후 빅토리아 여왕이 인도 여제로 선포되면서",
+              "use": "absolute \"with + noun + past participle\" phrase adding a subsequent imperial milestone",
+              "example": "Direct imperial rule deepened, with Queen Victoria later proclaimed Empress of India."
+            }
+          ],
+          "mustKnowGrammar": "Time marker (\"From 1858\"); linking main clause (\"India became a formal colony under the British Crown\"); trailing \"with\"-absolute construction (\"with Queen Victoria later proclaimed Empress of India\") using passive participle \"proclaimed\".",
+          "feynmanExplanation": "Starting in 1858, / the British government itself took direct control of India / instead of leaving it to a private company. / India officially became a colony of the British Crown, / and Queen Victoria was later given the title Empress of India.",
+          "feynmanExplanationKo": "1858년부터는 민간 회사에 맡기는 대신 / 영국 정부(왕실)가 직접 인도를 다스리기 시작했습니다. / 인도는 공식적으로 영국 왕실의 식민지가 되었고, / 빅토리아 여왕은 나중에 인도의 여제라는 칭호를 받았습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Track the shift from Sentence 17 to Sentence 18: 1857 ended Company rule, and 1858 began Crown rule.",
+              "korean": "17번 문장에서 18번 문장으로의 전환을 따라가 보세요: 1857년에 회사 통치가 끝나고, 1858년에 왕실 통치가 시작되었습니다."
+            },
+            {
+              "english": "That completes the three-stage political arc of Source H: commerce (1600) to Company rule (1757/1803) to Crown colony (1858).",
+              "korean": "이로써 Source H의 3단계 정치적 흐름이 완성됩니다: 상업(1600)에서 회사 통치(1757/1803)로, 그리고 왕실 식민지(1858)로의 변화입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "paragraph": "Paragraph 5",
+          "original": "By 1900, India had been transformed.",
+          "chunkReading": "By 1900, / India / had been transformed.",
+          "directKorean": "1900년 무렵에는, / 인도는 / 변모해 있었다.",
+          "naturalKorean": "1900년 무렵 인도는 완전히 변모해 있었습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "By 1900",
+              "meaning": "1900년 무렵에는",
+              "use": "chronological endpoint phrase marking the end of the source’s 1700–1900 span",
+              "example": "By 1900, imperial institutions had reshaped daily life across the subcontinent."
+            },
+            {
+              "chunk": "had been transformed",
+              "meaning": "변모해 있었다(변화되어 있었다)",
+              "use": "past perfect passive emphasizing completed structural change by a benchmark year",
+              "example": "The country’s economy and administration had been transformed over two centuries."
+            }
+          ],
+          "mustKnowGrammar": "Temporal boundary (\"By 1900\") paired naturally with past perfect passive (\"had been transformed\") to show that deep transformation was already complete by the year 1900.",
+          "feynmanExplanation": "Look at the year 1900, the end of our timeline. / By that point, India looked very different from before. / Centuries of trade, Company rule, and Crown control / had completely reshaped the country.",
+          "feynmanExplanationKo": "연대기의 마지막 시점인 1900년을 보세요. / 그 무렵 인도는 이전과는 완전히 다른 모습이 되어 있었습니다. / 수세기에 걸친 무역, 회사 통치, 그리고 왕실 지배가 / 나라의 모습을 완전히 바꾸어 놓았던 것입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why is the past perfect passive \"had been transformed\" used with \"By 1900\" in Sentence 19?",
+              "korean": "19번 문장에서 왜 \"By 1900\"과 함께 과거완료 수동태 \"had been transformed\"가 쓰였나요?"
+            },
+            {
+              "english": "\"By + past year\" signals a completed result before that date, and the passive shows India was shaped by external imperial forces.",
+              "korean": "\"By + 과거 연도\"는 그 시점 이전에 완료된 결과를 나타내며, 수동태는 인도가 외부 제국 세력에 의해 변화되었음을 보여줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "paragraph": "Paragraph 5",
+          "original": "The Raj brought railways, law, and English education, but also racism, repression, and famine.",
+          "chunkReading": "The Raj brought / railways, law, and English education, / but also / racism, repression, and famine.",
+          "directKorean": "영국령 인도(라지)는 가져왔다 / 철도, 법, 그리고 영어 교육을, / 그러나 또한 / 인종차별, 억압, 그리고 기근을.",
+          "naturalKorean": "영국령 인도(라지)는 철도와 법, 영어 교육을 가져왔지만, 동시에 인종차별과 억압, 기근도 초래했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "railways, law, and English education",
+              "meaning": "철도, 법, 그리고 영어 교육",
+              "use": "parallel noun triad summarizing institutional/infrastructure changes under the Raj",
+              "example": "Supporters often point to railways, law, and English education built during the era."
+            },
+            {
+              "chunk": "but also racism, repression, and famine",
+              "meaning": "뿐만 아니라 인종차별, 억압, 기근 역시",
+              "use": "balanced contrastive triad presenting severe human harms alongside benefits",
+              "example": "Infrastructure grew, but also racism, repression, and famine devastated millions."
+            }
+          ],
+          "mustKnowGrammar": "Balanced parallel structure (\"The Raj brought [A, B, and C], but also [X, Y, and Z]\"), contrasting three institutional developments against three severe social and human harms.",
+          "feynmanExplanation": "Under British Crown rule—known as the Raj—/ two very different things happened at the same time. / On one side, the British built train lines, legal courts, and English schools. / On the other side, people suffered racism, harsh political control, and deadly hunger.",
+          "feynmanExplanationKo": "‘라지(Raj)’로 알려진 영국 왕실의 지배 아래에서 / 정반대의 두 가지 일이 동시에 일어났습니다. / 한쪽에서는 철도, 법률 제도, 영어 교육이 도입되었습니다. / 다른 한쪽에서는 사람들이 인종차별과 가혹한 정치적 억압, 그리고 끔찍한 기근에 시달렸습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Notice the exact three-on-three balance in Sentence 20: railways, law, and English education vs. racism, repression, and famine.",
+              "korean": "20번 문장의 정확한 3대 3 균형에 주목하세요: 철도·법·영어 교육 대 인종차별·억압·기근입니다."
+            },
+            {
+              "english": "In your Writing Task, you must include both sides of this mixed legacy rather than praising or condemning one side alone.",
+              "korean": "Writing Task에서도 어느 한쪽만 칭찬하거나 비판하지 말고, 이 복합적 유산의 양면을 모두 담아내야 합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "paragraph": "Paragraph 5",
+          "original": "Most importantly, it inadvertently sowed the seeds of nationalism, giving diverse peoples a shared identity that would one day drive the struggle for independence.",
+          "chunkReading": "Most importantly, / it inadvertently sowed the seeds of nationalism, / giving diverse peoples a shared identity / that would one day drive / the struggle for independence.",
+          "directKorean": "가장 중요하게는, / 그것은 의도치 않게 민족주의의 씨앗을 뿌렸다, / 다양한 민족(사람)들에게 공유된 정체성을 주면서 / 언젠가 이끌게 될 / 독립을 위한 투쟁을.",
+          "naturalKorean": "무엇보다도 그것은 의도치 않게 민족주의의 씨앗을 뿌려, 다양한 사람들에게 훗날 독립 투쟁을 이끌 공동의 정체성을 부여했습니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "inadvertently sowed the seeds of nationalism",
+              "meaning": "의도치 않게 민족주의의 씨앗을 뿌렸다",
+              "use": "adverb + metaphor expressing an unintended long-term consequence",
+              "example": "Shared grievances inadvertently sowed the seeds of nationalism across regions."
+            },
+            {
+              "chunk": "giving diverse peoples a shared identity",
+              "meaning": "다양한 사람들에게 공동의 정체성을 부여하면서",
+              "use": "participial result phrase explaining how nationalism formed",
+              "example": "Common opposition united groups, giving diverse peoples a shared identity."
+            },
+            {
+              "chunk": "drive the struggle for independence",
+              "meaning": "독립을 위한 투쟁을 이끌다(추동하다)",
+              "use": "verb + noun phrase pointing toward future decolonization",
+              "example": "That sense of unity would later drive the struggle for independence."
+            }
+          ],
+          "mustKnowGrammar": "Superlative discourse marker (\"Most importantly\"); main clause (\"it inadvertently sowed the seeds of nationalism\"); present participial result clause (\"giving diverse peoples a shared identity\"); relative clause with future-in-the-past modal (\"that would one day drive the struggle for independence\").",
+          "feynmanExplanation": "Here is the biggest twist of all. / The British did not plan for India to unite against them. / Yet by bringing different groups together under one rule and common hardship, / British rule accidentally planted nationalism. / That shared identity would later push Indians to fight for independence.",
+          "feynmanExplanationKo": "여기에 가장 큰 반전이 있습니다. / 영국은 인도가 자신들에게 맞서 하나로 뭉치기를 원하지 않았습니다. / 하지만 서로 다른 집단들을 하나의 통치와 공통의 경험 아래 묶어 놓으면서, / 영국 지배는 의도치 않게 민족주의를 싹틔웠습니다. / 그 공동의 정체성이 훗날 인도인들이 독립을 위해 싸우게 만드는 원동력이 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Why does Sentence 21 use the adverb \"inadvertently\" (\"without intending to\")?",
+              "korean": "21번 문장에서 왜 부사 \"inadvertently(의도치 않게)\"를 사용했을까요?"
+            },
+            {
+              "english": "Because the British aimed to strengthen their empire, not create a unified Indian identity that would eventually end their rule.",
+              "korean": "영국의 목적은 제국을 강화하는 것이었지, 결국 자신들의 지배를 끝낼 통합된 인도인 정체성을 만들어 내는 것이 아니었기 때문입니다."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
