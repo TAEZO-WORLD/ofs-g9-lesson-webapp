@@ -1,6 +1,13 @@
 {
-  "latest": "2026-11-17-india-company-crown",
+  "latest": "2026-11-18-government-shutdown",
   "lessons": [
+    {
+      "slug": "2026-11-18-government-shutdown",
+      "title": "What Happens When a Government Shuts Down?",
+      "ofsUnit": "Unit 5 — Government, Public Services & Civic Decision-Making",
+      "textType": "Grade 9 Civics Reading (Exact Unadapted Source)",
+      "date": "2026-11-18"
+    },
     {
       "slug": "2026-11-17-india-company-crown",
       "title": "The Rise of the British Empire in India, 1700-1900",
