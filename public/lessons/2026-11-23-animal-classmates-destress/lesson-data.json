@@ -1,0 +1,1173 @@
+{
+  "lessonTitle": "Animal Classmates Help Students Destress!",
+  "ofsUnit": "Unit 2 — School Community, Animals & Well-Being",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Grade 9 Informational Human-Interest Reading (Exact Unadapted Source)",
+  "writingType": "Evidence-Based Informational Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Explore how campus animals are part of school community life, explain how they help make school calmer and friendlier while keeping a cautious contrast with official therapy pets, and write a source-attributed explanation paragraph.",
+  "warmUp": {
+    "title": "Warm-up: School Stress, Animals in School & Peaceful Communities",
+    "instructions": "Write brief answers (1–2 complete sentences each) to the three warm-up questions below before reading the article. Use the sentence starters if helpful.",
+    "questions": [
+      {
+        "id": "wu1",
+        "topic": "School Stress",
+        "question": "During a busy school day, what moments or situations feel most stressful for students, and what helps them stay calm?",
+        "promptKo": "바쁜 학교생활 중에 학생들에게 가장 스트레스가 느껴지는 순간이나 상황은 무엇이며, 차분함을 유지하는 데 무엇이 도움이 되나요?",
+        "sentenceStarter": "During a busy school day, stressful moments often happen when..., and students can stay calm by..."
+      },
+      {
+        "id": "wu2",
+        "topic": "Animals in School",
+        "question": "If friendly animals lived on a school campus and students could visit them between classes, how might that change the mood at school?",
+        "promptKo": "만약 다정한 동물들이 학교 캠퍼스에 살면서 학생들이 수업 사이에 찾아갈 수 있다면, 학교 분위기가 어떻게 달라질 수 있을까요?",
+        "sentenceStarter": "If friendly animals lived on a school campus, visiting them between classes might..."
+      },
+      {
+        "id": "wu3",
+        "topic": "A Calm and Friendly School",
+        "question": "What makes a school community feel friendlier and more peaceful for teens, especially during difficult or stressful moments?",
+        "promptKo": "특히 힘들거나 스트레스가 많은 순간에 청소년들에게 학교 공동체가 더 다정하고 평화롭게 느껴지게 만드는 요소는 무엇일까요?",
+        "sentenceStarter": "A school community feels friendlier and more peaceful when..."
+      }
+    ],
+    "sentenceStarters": [
+      "During a busy school day, stressful moments often happen when..., and students can stay calm by...",
+      "If friendly animals lived on a school campus, visiting them between classes might...",
+      "A school community feels friendlier and more peaceful when..."
+    ]
+  },
+  "article": {
+    "title": "Animal Classmates Help Students Destress!",
+    "sourceNote": "Source: BBC.",
+    "paragraphs": [
+      "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.",
+      "The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987. Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.",
+      "Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond. Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+      "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study all 10 target vocabulary items from the article. Review each English definition, Korean meaning, exact source example, and student example.",
+    "items": [
+      {
+        "word": "classmates",
+        "partOfSpeech": "noun (plural)",
+        "korean": "반 친구들, 학급 동료들",
+        "definition": "Fellow students or members who share the same school day, classroom, or learning community.",
+        "sourceExample": "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.",
+        "studentExample": "My classmates and I encourage each other before difficult presentations.",
+        "sentence": "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks. (Student example: My classmates and I encourage each other before difficult presentations.)"
+      },
+      {
+        "word": "unusual",
+        "partOfSpeech": "adjective",
+        "korean": "특이한, 흔하지 않은, 색다른",
+        "definition": "Different from what is ordinary, common, or expected in a typical setting.",
+        "sourceExample": "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.",
+        "studentExample": "Having peacocks and turtles on a high school campus is an unusual school tradition.",
+        "sentence": "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks. (Student example: Having peacocks and turtles on a high school campus is an unusual school tradition.)"
+      },
+      {
+        "word": "religious order",
+        "partOfSpeech": "noun phrase",
+        "korean": "수도회, 종교 공동체",
+        "definition": "A formal community of religious members who live together and follow shared spiritual and service commitments.",
+        "sourceExample": "The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987.",
+        "studentExample": "Members of the religious order live on campus and care for the school community.",
+        "sentence": "The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987. (Student example: Members of the religious order live on campus and care for the school community.)"
+      },
+      {
+        "word": "collection",
+        "partOfSpeech": "noun",
+        "korean": "모음, 집단 (함께 모인 무리)",
+        "definition": "A group of things or animals gathered and kept together in one place over time.",
+        "sourceExample": "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.",
+        "studentExample": "Over time, the school’s collection of animals expanded to include many species.",
+        "sentence": "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day. (Student example: Over time, the school’s collection of animals expanded to include many species.)"
+      },
+      {
+        "word": "menagerie",
+        "partOfSpeech": "noun",
+        "korean": "다양한 동물 무리, (한곳에 모아 기르는) 동물 컬렉션",
+        "definition": "A varied and interesting collection of different kinds of animals kept together.",
+        "sourceExample": "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.",
+        "studentExample": "With dogs, parrots, turtles, fish, and peacocks, the campus felt like a lively menagerie.",
+        "sentence": "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day. (Student example: With dogs, parrots, turtles, fish, and peacocks, the campus felt like a lively menagerie.)"
+      },
+      {
+        "word": "bond closely",
+        "partOfSpeech": "verb phrase (verb + adverb)",
+        "korean": "친밀한 유대감을 형성하다, 아주 가까워지다",
+        "definition": "To form a warm, trusting, and close emotional connection with someone or an animal.",
+        "sourceExample": "Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond.",
+        "studentExample": "Students who visit the courtyard dogs every day often bond closely with their favorites.",
+        "sentence": "Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond. (Student example: Students who visit the courtyard dogs every day often bond closely with their favorites.)"
+      },
+      {
+        "word": "therapy pets",
+        "partOfSpeech": "noun phrase (plural)",
+        "korean": "치료 도우미 동물, 테라피 펫",
+        "definition": "Animals officially trained or certified to visit people for structured emotional or health support.",
+        "sourceExample": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+        "studentExample": "Even though the campus animals are not official therapy pets, students still enjoy their company.",
+        "sentence": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety. (Student example: Even though the campus animals are not official therapy pets, students still enjoy their company.)"
+      },
+      {
+        "word": "reduce",
+        "partOfSpeech": "verb",
+        "korean": "줄이다, 완화하다",
+        "definition": "To make something smaller in amount, degree, or intensity.",
+        "sourceExample": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+        "studentExample": "Taking a short walk outside between classes can help reduce everyday school stress.",
+        "sentence": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety. (Student example: Taking a short walk outside between classes can help reduce everyday school stress.)"
+      },
+      {
+        "word": "peaceful",
+        "partOfSpeech": "adjective",
+        "korean": "평화로운, 차분하고 고요한",
+        "definition": "Calm, quiet, and free from worry, conflict, or loud tension.",
+        "sourceExample": "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.",
+        "studentExample": "Sitting beside a calm dog in the courtyard makes lunch break feel more peaceful.",
+        "sentence": "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments. (Student example: Sitting beside a calm dog in the courtyard makes lunch break feel more peaceful.)"
+      },
+      {
+        "word": "stressful",
+        "partOfSpeech": "adjective",
+        "korean": "스트레스를 주는, 긴장되는",
+        "definition": "Causing mental worry, pressure, or emotional strain.",
+        "sourceExample": "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.",
+        "studentExample": "Exam week is one of the most stressful times of the semester for ninth graders.",
+        "sentence": "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments. (Student example: Exam week is one of the most stressful times of the semester for ninth graders.)"
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea Question",
+    "question": "Which statement best summarizes the main idea of the article?",
+    "options": [
+      "A New York high school trains official therapy dogs to replace school counselors and medically treat anxiety.",
+      "Only dogs and peacocks are allowed in classrooms at Kellenberg Memorial High School because other pets are too noisy.",
+      "At Kellenberg Memorial High School, a growing group of campus and staff animals helps students stay calm and makes school feel friendlier and more peaceful, even though they are not official therapy pets.",
+      "Members of a Catholic religious order started bringing pets to a New York school in 1987 to teach biology classes about turtles and fish."
+    ],
+    "correctIndex": 2,
+    "feedback": {
+      "correct": "Correct! Option C captures the whole article: the campus menagerie and staff dogs at Kellenberg Memorial High School, how visits help students stay calm and make school friendlier, and the principal’s clarification that they are not official therapy pets.",
+      "incorrect": "Review all four paragraphs: look at who lives with the animals, how students feel around them, and what Principal Kenneth Hoagland clarifies about official therapy pets."
+    },
+    "explanation": "Option A is incorrect (X): Paragraph 3 explicitly states that \"the animals aren’t official therapy pets,\" and the article never mentions training them to replace counselors or medically treat anxiety.\nOption B is incorrect (X): Paragraph 1 lists dogs, parrots, turtles, fish, and peacocks as \"an unusual group of classmates,\" without saying only dogs and peacocks are allowed or mentioning noise.\nOption C is correct (O): It accurately brings together all four paragraphs—the unusual animal classmates at Kellenberg Memorial High School (P1), the religious order’s growing menagerie since 1987 that helps students stay calm (P2), teen visits with dogs like Matthias and the clarification that they aren’t official therapy pets yet help reduce fear, stress, and anxiety (P3), and staff dogs making school feel friendlier and more peaceful (P4).\nOption D is incorrect (X): While Paragraph 2 mentions the Catholic religious order bringing pets when the school opened in 1987, the article never mentions biology classes."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer all 6 questions using only the information stated in the article.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to Paragraph 1, where is Kellenberg Memorial High School located, and which animals do students share their school day with?",
+        "options": [
+          "It is in New York, and students share their school day only with dogs and cats.",
+          "It is in New York, and students share their school day with dogs, parrots, turtles, fish, and even peacocks.",
+          "It is in London, and students share their school day with dogs, parrots, turtles, and rabbits.",
+          "It is in New York, and students share their school day only with certified therapy dogs."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 1",
+        "explanation": "Option A is incorrect (X): Cats are never mentioned in the article.\nOption B is correct (O): Paragraph 1 explicitly states: \"At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.\"\nOption C is incorrect (X): The school is in New York (not London, even though the source label is BBC), and rabbits are not mentioned.\nOption D is incorrect (X): Paragraph 1 names five kinds of animals, and Paragraph 3 states they are not official therapy pets."
+      },
+      {
+        "id": "rc2",
+        "question": "According to Paragraph 2, who do the animals live with on campus, and when did the tradition begin?",
+        "options": [
+          "They live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987.",
+          "They live in student dormitories with ninth graders who arrived in 1987.",
+          "They live with local zoo keepers who donated the animals after 1987.",
+          "They live only in Principal Kenneth Hoagland’s office since the school opened in 1997."
+        ],
+        "correctIndex": 0,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option A is correct (O): Paragraph 2 states verbatim: \"The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987.\"\nOption B is incorrect (X): Student dormitories are not mentioned.\nOption C is incorrect (X): Zookeepers and donations are outside inventions not in the text.\nOption D is incorrect (X): The school opened in 1987, not 1997, and the animals live with members of a Catholic religious order."
+      },
+      {
+        "id": "rc3",
+        "question": "How has the group of animals changed over time, and what do students say about spending time with them in Paragraph 2?",
+        "options": [
+          "The number of animals has shrunk each year, so only a few dogs remain on campus.",
+          "The collection stayed the same size since 1987, and students visit it only after school.",
+          "The collection has grown into a full menagerie, and students say it makes classes much shorter.",
+          "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day."
+        ],
+        "correctIndex": 3,
+        "paragraphRef": "Paragraph 2",
+        "explanation": "Option A is incorrect (X): The collection has grown, not shrunk.\nOption B is incorrect (X): It did not stay the same size, and Paragraph 3 notes teens visit between classes.\nOption C is incorrect (X): The article never says animals make classes shorter.\nOption D is correct (O): Paragraph 2 states: \"Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.\""
+      },
+      {
+        "id": "rc4",
+        "question": "In Paragraph 3, when do many teens visit the dogs, and who is Matthias?",
+        "options": [
+          "Teens visit the dogs only during exams, and Matthias is a parrot who sits in classrooms.",
+          "Teens visit the dogs after graduation, and Matthias is a staff member who brings fish.",
+          "Many teens visit the dogs between classes, and Matthias is a small terrier who joins walks around the courtyard pond.",
+          "Teens visit the dogs before breakfast, and Matthias is an official therapy dog trainer."
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "Paragraph 3",
+        "explanation": "Option A is incorrect (X): Teens visit between classes, and Matthias is a small terrier, not a parrot.\nOption B is incorrect (X): Graduation and fish-bringing staff are not in the text.\nOption C is correct (O): Paragraph 3 states: \"Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond.\"\nOption D is incorrect (X): Breakfast and therapy dog trainers are not mentioned."
+      },
+      {
+        "id": "rc5",
+        "question": "What does Principal Kenneth Hoagland say about the animals’ official status and their effect on students in Paragraph 3?",
+        "options": [
+          "He says the animals are certified medical therapy pets that cure mental health conditions.",
+          "He says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+          "He says the animals aren’t allowed near students because they increase stress and fear.",
+          "He says the animals are official therapy pets provided by New York hospitals."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Paragraph 3",
+        "explanation": "Option A is incorrect (X): The article makes no medical cure claim and explicitly says they are not official therapy pets.\nOption B is correct (O): Paragraph 3 states: \"Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\"\nOption C is incorrect (X): Teens visit them between classes and the animals help reduce—not increase—fear, stress, and anxiety.\nOption D is incorrect (X): Hospitals are never mentioned, and they are not official therapy pets."
+      },
+      {
+        "id": "rc6",
+        "question": "According to Paragraph 4, who else brings dogs to school, and how does having animals nearby make school feel?",
+        "options": [
+          "Parents bring dogs on weekends, making school feel louder and busier.",
+          "Neighbors bring dogs during sports games, making school feel more competitive.",
+          "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.",
+          "Students from other schools bring peacocks, making the cafeteria feel crowded."
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "Paragraph 4",
+        "explanation": "Option A is incorrect (X): Parents and weekends are not mentioned, and the mood is friendlier and more peaceful, not louder.\nOption B is incorrect (X): Neighbors and sports games are not in the article.\nOption C is correct (O): Paragraph 4 states: \"Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.\"\nOption D is incorrect (X): Other schools and the cafeteria are outside details not in the source."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Write 1–2 sentences for each prompt using direct quotes or close paraphrases from the article. Click \"Check & Compare\" to check your evidence.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Give evidence from the article showing that animals are a regular part of school life at Kellenberg Memorial High School.",
+        "question": "Give evidence from the article showing that animals are a regular part of school life at Kellenberg Memorial High School.",
+        "compareTips": [
+          "Did you mention that students share their school day with dogs, parrots, turtles, fish, and peacocks?",
+          "Did you mention that the animals live on campus with a Catholic religious order (since 1987), teens visit dogs between classes, or staff members bring their own dogs?"
+        ],
+        "compareTip": "Check that you cited specific school-life details (species, living on campus since 1987, visits between classes, or staff dogs) directly from Paragraphs 1–4.",
+        "modelAnswer": "According to the article, students at Kellenberg Memorial High School in New York \"share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.\" The animals \"live on campus with members of a Catholic religious order,\" many teens \"visit the dogs between classes,\" and \"staff members also bring their own dogs.\""
+      },
+      {
+        "id": "ev2",
+        "statement": "Explain, using evidence from the text, how the growing collection and daily visits support calm for students.",
+        "question": "Explain, using evidence from the text, how the growing collection and daily visits support calm for students.",
+        "compareTips": [
+          "Did you mention that the collection has grown into a \"full menagerie\" and spending time with the animals helps students \"stay calm during a busy day\"?",
+          "Did you include visits between classes (such as bonding with Matthias) or how animals nearby make school feel \"friendlier and more peaceful, especially during stressful moments\"?"
+        ],
+        "compareTip": "Verify that you linked the growing menagerie and student visits directly to staying calm and feeling friendlier and more peaceful.",
+        "modelAnswer": "The article states that \"over the years, the collection has grown into a full menagerie,\" and students say \"spending time with the animals helps them stay calm during a busy day.\" Teens also visit the dogs between classes and bond closely with favorites like Matthias, while staff dogs nearby make school \"feel friendlier and more peaceful, especially during stressful moments.\""
+      },
+      {
+        "id": "ev3",
+        "statement": "What does the article say about whether the animals are official therapy pets, and how does it describe their effect carefully?",
+        "question": "What does the article say about whether the animals are official therapy pets, and how does it describe their effect carefully?",
+        "compareTips": [
+          "Did you quote or paraphrase Principal Kenneth Hoagland saying the animals \"aren’t official therapy pets\"?",
+          "Did you include the balanced contrast (\"but they help reduce fear, stress, and anxiety\") without turning it into a medical treatment claim?"
+        ],
+        "compareTip": "Make sure you included both parts of Principal Hoagland’s statement: not official therapy pets, yet helping reduce fear, stress, and anxiety.",
+        "modelAnswer": "Principal Kenneth Hoagland explains that \"the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\" The article presents them as campus and staff pets that offer everyday comfort rather than certified therapy animals or medical treatment."
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Relative Clauses, Appositives, Cause/Effect, Contrast, Time Phrases & Well-Being Vocabulary",
+    "instructions": "Study these 6 key grammar and language patterns from the article before completing Writing Practice and the Writing Task.",
+    "patterns": [
+      {
+        "name": "1. Relative Clauses (who, that)",
+        "explanation": "Use \"who\" to add information about people or named animals treated as companions, and \"that\" to specify things or groups. Note also contractions with curly apostrophes like \"aren’t\" (= are not) in the article, or \"they’re\" (= they are) in everyday writing.",
+        "example": "Students visit campus dogs that live at the school, including Matthias, who joins walks around the pond.",
+        "sourceExample": "members of a Catholic religious order, who began bringing pets when the school opened in 1987. / Matthias, a small terrier who joins walks around the courtyard pond."
+      },
+      {
+        "name": "2. Appositives (Renaming with Extra Detail)",
+        "explanation": "Place a descriptive noun phrase right after a name, separated by commas, to explain who or what someone is concisely.",
+        "example": "Matthias, a small terrier, walks with students around the courtyard pond.",
+        "sourceExample": "favorites like Matthias, a small terrier who joins walks around the courtyard pond."
+      },
+      {
+        "name": "3. Cause and Effect (helps, makes)",
+        "explanation": "Use \"helps + object + base verb\" (helps them stay calm; help reduce...) and \"makes + object + base verb + comparative adjective\" (makes school feel friendlier and more peaceful) to explain positive effects clearly.",
+        "example": "Having animals nearby helps students stay calm and makes the campus feel more peaceful.",
+        "sourceExample": "spending time with the animals helps them stay calm... / they help reduce fear, stress, and anxiety. / having animals nearby makes school feel friendlier and more peaceful"
+      },
+      {
+        "name": "4. Cautious Contrast (but, although, however)",
+        "explanation": "Use contrast connectors to show an important limit alongside a benefit: acknowledge that the animals are NOT official therapy pets while noting how they help.",
+        "example": "Although the animals aren’t official therapy pets, they help reduce fear, stress, and anxiety.",
+        "sourceExample": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety."
+      },
+      {
+        "name": "5. Frequency & Time Phrases",
+        "explanation": "Time and frequency phrases anchor when the tradition started, how it grew, and when students interact with the animals.",
+        "example": "Over the years, students have visited the dogs between classes, especially during stressful moments.",
+        "sourceExample": "when the school opened in 1987 / Over the years / during a busy day / between classes / especially during stressful moments"
+      },
+      {
+        "name": "6. Precise Well-Being Vocabulary & Source Attribution",
+        "explanation": "Use exact words from the article (classmates, unusual, religious order, menagerie, bond closely, therapy pets, reduce, peaceful, stressful) and attribute facts with \"According to the article,\" or \"Principal Kenneth Hoagland says...\". Avoid overclaiming medical cures.",
+        "example": "According to the article, bonding closely with the campus menagerie helps make stressful moments feel more peaceful.",
+        "sourceExample": "students say... / Principal Kenneth Hoagland says... / Source: BBC."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete all 4 writing items below using complete sentences and information strictly from the article. Click \"Check & Compare\" after each item.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Relative Clause (who / that): Write 1–2 sentences using \"who\" or \"that\" to describe the religious order that brought pets in 1987 or Matthias at the courtyard pond.",
+        "placeholder": "Write 1–2 sentences with a relative clause (who or that)...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "who",
+          "that",
+          "when",
+          "and"
+        ],
+        "targetVocabulary": [
+          "religious order",
+          "bond closely",
+          "classmates",
+          "unusual"
+        ],
+        "compareTips": [
+          "Did you use a relative clause with \"who\" or \"that\" accurately?",
+          "Did you match exact facts from the article (Catholic religious order in 1987, or Matthias the small terrier around the courtyard pond)?"
+        ],
+        "compareTip": "Check that your relative clause (\"who\" or \"that\") correctly modifies a person, animal, or pet from the article.",
+        "modelAnswer": "At Kellenberg Memorial High School, the animals live with members of a Catholic religious order who began bringing pets when the school opened in 1987, and some teens bond with Matthias, a small terrier who joins walks around the courtyard pond."
+      },
+      {
+        "id": "wp2",
+        "question": "Evidence Sentence with Attribution: Write 1–2 sentences beginning with \"According to the article,\" to show how animals are part of daily life at the school.",
+        "placeholder": "Begin with \"According to the article,\" and cite specific details...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "and",
+          "also"
+        ],
+        "targetVocabulary": [
+          "classmates",
+          "unusual",
+          "collection",
+          "menagerie"
+        ],
+        "compareTips": [
+          "Did you start with clear attribution (\"According to the article,\")?",
+          "Did you name specific animals (dogs, parrots, turtles, fish, peacocks) or staff bringing their own dogs?"
+        ],
+        "compareTip": "Verify that your sentence uses clear attribution and accurate details without adding outside facts.",
+        "modelAnswer": "According to the article, students share their school day with dogs, parrots, turtles, fish, and even peacocks, and staff members also bring their own dogs to school."
+      },
+      {
+        "id": "wp3",
+        "question": "Cautious Contrast (but / although / however): Write 1–2 sentences contrasting the animals’ status (not official therapy pets) with how they help students.",
+        "placeholder": "Write 1–2 sentences using but, although, or however...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "but",
+          "although",
+          "however",
+          "even though"
+        ],
+        "targetVocabulary": [
+          "therapy pets",
+          "reduce",
+          "stressful"
+        ],
+        "compareTips": [
+          "Did you state clearly that the animals aren’t official therapy pets?",
+          "Did you use \"but\", \"although\", or \"however\" to explain that they help reduce fear, stress, and anxiety without making a medical cure claim?"
+        ],
+        "compareTip": "Check that you kept the contrast cautious: not official therapy pets, yet helping reduce fear, stress, and anxiety.",
+        "modelAnswer": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but spending time with them helps reduce fear, stress, and anxiety."
+      },
+      {
+        "id": "wp4",
+        "question": "Cause & Effect (helps / makes): Write 1–2 sentences using \"helps\" and/or \"makes\" to explain how spending time with or having animals nearby affects students.",
+        "placeholder": "Write 1–2 sentences using helps and makes...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "and",
+          "because",
+          "so",
+          "especially"
+        ],
+        "targetVocabulary": [
+          "menagerie",
+          "peaceful",
+          "stressful",
+          "reduce"
+        ],
+        "compareTips": [
+          "Did you use \"helps ... stay calm\" or \"makes school feel friendlier and more peaceful\"?",
+          "Did you connect it to a busy day or stressful moments as stated in the article?"
+        ],
+        "compareTip": "Check verb patterns after \"helps\" (base verb: stay/reduce) and \"makes\" (school feel friendlier and more peaceful).",
+        "modelAnswer": "Spending time with the campus menagerie helps students stay calm during a busy day, and having animals nearby makes school feel friendlier and more peaceful during stressful moments."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "According to the article, how do animals make school life calmer and friendlier for students?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "Start with clear source attribution (e.g., \"According to the article,\").",
+      "Include at least 3 specific details from the article (e.g., Kellenberg Memorial High School in New York, the 5 animal species, Catholic religious order since 1987, Matthias around the courtyard pond, staff dogs).",
+      "Include one cautious contrast explaining that the animals aren’t official therapy pets, yet help reduce fear, stress, and anxiety (without making medical claims).",
+      "Use cause-and-effect language (\"helps ... stay calm\", \"makes school feel friendlier and more peaceful\") and target structures (relative clause or appositive).",
+      "Write 100–140 words using only facts from the article, ending with a clear concluding sentence (\"Overall,\" or \"In conclusion,\")."
+    ],
+    "targetVocabulary": [
+      "classmates",
+      "unusual",
+      "religious order",
+      "collection",
+      "menagerie",
+      "bond closely",
+      "therapy pets",
+      "reduce",
+      "peaceful",
+      "stressful"
+    ],
+    "targetConnectors": [
+      "but",
+      "although",
+      "however",
+      "because",
+      "so",
+      "when",
+      "overall",
+      "in conclusion",
+      "therefore",
+      "while"
+    ],
+    "compareGuide": "Check that your paragraph answers the exact prompt (\"According to the article, how do animals make school life calmer and friendlier for students?\"), includes 3+ source details, keeps a cautious contrast with official therapy pets, uses cause/effect (\"helps\", \"makes\"), and stays within 100–140 words.",
+    "revisionTips": [
+      "Start with \"According to the article,\" and avoid adding any facts not stated in the BBC text.",
+      "Check your cautious contrast: write that the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety—never claim they medically treat or cure students.",
+      "Check comparative adjectives: \"friendlier\" and \"more peaceful\" (not \"more friendlier\" or \"peacefuller\").",
+      "End with a concluding sentence starting with \"Overall,\" or \"In conclusion,\" and keep your word count between 100 and 140 words."
+    ],
+    "modelAnswer": "According to the article, animals at Kellenberg Memorial High School in New York make school life calmer and friendlier for students in several ways. Living on campus with members of a Catholic religious order who began bringing pets in 1987, a growing menagerie of dogs, parrots, turtles, fish, and peacocks helps students stay calm during a busy day. Many teens visit the dogs between classes and bond closely with favorites like Matthias, a small terrier who joins courtyard pond walks. Principal Kenneth Hoagland notes that the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety. Overall, because staff members also bring their own dogs, having animals nearby makes school feel friendlier and more peaceful during stressful moments."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your work and check all 6 boxes before submitting your lesson.",
+    "items": [
+      "School & Animals Details: I accurately named Kellenberg Memorial High School in New York, the unusual classmates, and campus/staff dogs.",
+      "History & Calm Evidence: I explained how the Catholic religious order began bringing pets in 1987 and how the growing menagerie helps students stay calm.",
+      "Matthias & Visits: I included how teens visit dogs between classes and bond closely with favorites like Matthias around the courtyard pond.",
+      "Cautious Contrast (No Medical Claim): I noted Principal Kenneth Hoagland’s point that the animals aren’t official therapy pets, without claiming medical treatment.",
+      "Target Language & Attribution: I used attribution (\"According to the article,\"), relative clauses or appositives, cause/effect (\"helps\", \"makes\"), and \"but\".",
+      "Word Count & Check: My Writing Task is 100–140 words and I tested it with \"Check & Compare.\""
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 2,
+        "rationale": "Option C synthesizes all four paragraphs accurately: the unusual campus menagerie and staff dogs at Kellenberg Memorial High School, how spending time with them helps students stay calm and makes school feel friendlier and more peaceful, and the cautious clarification that they are not official therapy pets."
+      },
+      "readingComprehension": {
+        "rc1": {
+          "correctIndex": 1,
+          "rationale": "Paragraph 1 states: \"At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.\""
+        },
+        "rc2": {
+          "correctIndex": 0,
+          "rationale": "Paragraph 2 states: \"The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987.\""
+        },
+        "rc3": {
+          "correctIndex": 3,
+          "rationale": "Paragraph 2 states: \"Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.\""
+        },
+        "rc4": {
+          "correctIndex": 2,
+          "rationale": "Paragraph 3 states: \"Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond.\""
+        },
+        "rc5": {
+          "correctIndex": 1,
+          "rationale": "Paragraph 3 states: \"Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\""
+        },
+        "rc6": {
+          "correctIndex": 2,
+          "rationale": "Paragraph 4 states: \"Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.\""
+        }
+      },
+      "evidenceFromText": {
+        "ev1": "According to the article, students at Kellenberg Memorial High School in New York \"share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.\" The animals \"live on campus with members of a Catholic religious order,\" many teens \"visit the dogs between classes,\" and \"staff members also bring their own dogs.\"",
+        "ev2": "The article states that \"over the years, the collection has grown into a full menagerie,\" and students say \"spending time with the animals helps them stay calm during a busy day.\" Teens also visit the dogs between classes and bond closely with favorites like Matthias, while staff dogs nearby make school \"feel friendlier and more peaceful, especially during stressful moments.\"",
+        "ev3": "Principal Kenneth Hoagland explains that \"the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\" The article presents them as campus and staff pets that offer everyday comfort rather than certified therapy animals or medical treatment."
+      },
+      "languageFocus": [
+        "Relative clauses (who, that): \"...who began bringing pets when the school opened in 1987\"; \"...Matthias, a small terrier who joins walks around the courtyard pond\"; restrictive \"that\" for things/animals.",
+        "Appositives: \"Matthias, a small terrier...\"",
+        "Cause/effect (helps, makes): \"helps them stay calm\", \"help reduce fear, stress, and anxiety\", \"makes school feel friendlier and more peaceful\".",
+        "Contrast (but): \"the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\"",
+        "Frequency/time phrases: \"when the school opened in 1987\", \"Over the years\", \"during a busy day\", \"between classes\", \"especially during stressful moments\".",
+        "Well-being vocabulary & contractions: classmates, unusual, religious order, collection, menagerie, bond closely, therapy pets, reduce, peaceful, stressful; curly apostrophe contraction \"aren’t\" (and \"they’re\" as a parallel plural contraction example)."
+      ],
+      "writingPractice": {
+        "wp1": "At Kellenberg Memorial High School, the animals live with members of a Catholic religious order who began bringing pets when the school opened in 1987, and some teens bond with Matthias, a small terrier who joins walks around the courtyard pond.",
+        "wp2": "According to the article, students share their school day with dogs, parrots, turtles, fish, and even peacocks, and staff members also bring their own dogs to school.",
+        "wp3": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but spending time with them helps reduce fear, stress, and anxiety.",
+        "wp4": "Spending time with the campus menagerie helps students stay calm during a busy day, and having animals nearby makes school feel friendlier and more peaceful during stressful moments."
+      },
+      "writingTask": "Must be 100–140 words answering \"According to the article, how do animals make school life calmer and friendlier for students?\" with source attribution, 3+ specific source details, one cautious contrast with official therapy pets (\"aren’t official therapy pets, but...\"), cause/effect (\"helps\", \"makes\"), and zero medical overclaims or outside facts."
+    },
+    "modelAnswer": "According to the article, animals at Kellenberg Memorial High School in New York make school life calmer and friendlier for students in several ways. Living on campus with members of a Catholic religious order who began bringing pets in 1987, a growing menagerie of dogs, parrots, turtles, fish, and peacocks helps students stay calm during a busy day. Many teens visit the dogs between classes and bond closely with favorites like Matthias, a small terrier who joins courtyard pond walks. Principal Kenneth Hoagland notes that the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety. Overall, because staff members also bring their own dogs, having animals nearby makes school feel friendlier and more peaceful during stressful moments.",
+    "rubric": [
+      {
+        "criterion": "Content & Ideas",
+        "description": "Explains how campus and staff animals make school life calmer and friendlier, including the cautious limit on therapy-pet status.",
+        "excellent": "Fully answers the prompt with clear explanation of how the menagerie, visits between classes, and staff dogs support calm and friendliness, while noting they are not official therapy pets.",
+        "developing": "Addresses how animals help students feel calmer or friendlier, but omits either the cautious contrast with official therapy pets or staff/campus community details.",
+        "beginning": "Gives a vague or incomplete response or turns the article into an unsupported medical claim about treating anxiety."
+      },
+      {
+        "criterion": "Evidence Use",
+        "description": "Integrates at least 3 accurate source details with clear attribution and zero outside facts.",
+        "excellent": "Begins with clear attribution (\"According to the article,\") and accurately integrates 3+ details (Kellenberg Memorial High School in New York, 5 species, Catholic religious order/1987, Matthias/courtyard pond, Principal Hoagland, staff dogs) with zero outside facts.",
+        "developing": "Includes 1–2 specific details or weak attribution; minor vagueness in citing the school, animals, or principal.",
+        "beginning": "Relies on general opinions about pets or invents outside facts about therapy certification or medical effects."
+      },
+      {
+        "criterion": "Target Language/Structure",
+        "description": "Applies relative clauses (who/that), appositives, cause/effect (helps/makes), contrast (but), time phrases, and lesson vocabulary.",
+        "excellent": "Accurately uses relative clauses/appositives, \"helps + obj + verb\" and \"makes + obj + feel + comparative\", cautious contrast (\"but\"/\"although\"), time phrases, and well-being vocabulary.",
+        "developing": "Uses some target vocabulary or cause/effect language, but repeats simple structures or omits contrast or relative clauses.",
+        "beginning": "Shows minimal use of target structures or makes repeated verb-pattern errors after \"helps\" or \"makes\"."
+      },
+      {
+        "criterion": "Organization",
+        "description": "Presents a coherent informational explanation from school context and history to daily student interactions, cautious contrast, and conclusion.",
+        "excellent": "Strong attributed topic sentence, logical grouping of campus menagerie, visits/Matthias, cautious therapy-pet contrast, staff dogs, and a clear concluding sentence.",
+        "developing": "Generally readable sequence, though transitions between ideas or the final concluding sentence feel abrupt.",
+        "beginning": "Ideas appear disconnected or lack a topic sentence and concluding wrap-up."
+      },
+      {
+        "criterion": "Accuracy",
+        "description": "Grammar, spelling, capitalization, comparatives (\"friendlier\", \"more peaceful\"), punctuation, and 100–140 word count.",
+        "excellent": "Strictly 100–140 words; accurate capitalization (Kellenberg Memorial High School, New York, Catholic, Matthias, Principal Kenneth Hoagland), comparatives, and punctuation.",
+        "developing": "Minor grammar, capitalization, or comparative slips (\"more friendlier\") that do not obscure meaning, or word count slightly outside 100–140.",
+        "beginning": "Frequent grammar or mechanics errors that interfere with meaning, or far outside the 100–140 word range."
+      }
+    ],
+    "teacherNotes": [
+      {
+        "topic": "1. Unusual Classmates on Campus (Paragraph 1)",
+        "note": "Introduce Kellenberg Memorial High School in New York and the five exact animal types listed: dogs, parrots, turtles, fish, and even peacocks. Do not invent breeds (beyond Matthias the terrier in P3) or classroom rules not in the text."
+      },
+      {
+        "topic": "2. 1987 History & Growing Menagerie (Paragraph 2)",
+        "note": "Highlight who the animals live with on campus (members of a Catholic religious order, who began bringing pets when the school opened in 1987) and how the collection has grown into a full menagerie that helps students stay calm during a busy day."
+      },
+      {
+        "topic": "3. Student Visits, Matthias & Courtyard Pond (Paragraph 3)",
+        "note": "Focus on the daily routine: many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond."
+      },
+      {
+        "topic": "4. Cautious Contrast — Not Official Therapy Pets (No Medical Claim)",
+        "note": "Emphasize Principal Kenneth Hoagland’s careful phrasing: the animals \"aren’t official therapy pets, but they help reduce fear, stress, and anxiety.\" Teach students NOT to turn the article into a medical claim—never say the animals cure, diagnose, or medically treat anxiety disorders."
+      },
+      {
+        "topic": "5. Staff Dogs & a Friendlier, More Peaceful School (Paragraph 4)",
+        "note": "Connect Paragraph 4 to school community: staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": 1,
+        "phaseName": "Opening & Lesson Framing",
+        "duration": "5 minutes",
+        "objective": "Introduce the human-interest topic, school-community focus, and strict source-fidelity rule.",
+        "teacherActions": "Greet students, display the exact title \"Animal Classmates Help Students Destress!\" and \"Source: BBC.\", and explain that all claims must stay strictly inside the 4-paragraph article without medical overclaims.",
+        "scriptEn": "Good morning, everyone! / Today we are reading / a human-interest article from BBC: / \"Animal Classmates Help Students Destress!\" / Notice the two words / \"Animal Classmates.\" / As we read, / remember our key rule: / rely only on evidence / inside the four paragraphs, / without inventing medical claims.",
+        "scriptKo": "안녕하세요 여러분! 오늘 우리는 BBC의 휴먼 인터레스트 기사 \"Animal Classmates Help Students Destress!\"를 읽습니다. \"동물 급우(Animal Classmates)\"라는 표현에 주목하세요. 읽는 동안 핵심 규칙을 기억합시다. 의학적 주장을 과장하거나 외부 사실을 덧붙이지 않고 오직 4개 문단 안의 근거만 사용합니다.",
+        "studentActions": "Students preview the title, Unit 2 goal, and Source: BBC. attribution (G1: identify the key topic words \"animal classmates\" and \"destress\"; G2: predict why the title calls animals \"classmates\").",
+        "misconception": "Assuming \"Help Students Destress!\" means the animals are certified medical therapy animals or work inside every classroom.",
+        "correctiveFeedback": "Explain that the headline introduces the story, and we will read Principal Kenneth Hoagland’s exact words in Paragraph 3 to check their official status (G1: underline \"help\"; G2: contrast \"help destress\" with \"official therapy pets\").",
+        "transition": "Before reading the article, let us share ideas in three short warm-up questions."
+      },
+      {
+        "phase": 2,
+        "phaseName": "Warm-up Discussion",
+        "duration": "10 minutes",
+        "objective": "Activate prior ideas about school stress, campus animals, and what makes a school feel calm and friendly.",
+        "teacherActions": "Guide pairs through Warm-up Q1–Q3, modeling the sentence starters and collecting 2–3 brief student responses.",
+        "scriptEn": "Look at Warm-up Question 1: / When do students feel stressed / during a busy school day, / and what helps them stay calm? / Now Question 2: / How might friendly animals on campus / change the mood between classes? / Finally, Question 3: / What makes a school feel / friendlier and more peaceful?",
+        "scriptKo": "워밍업 1번 질문을 봅시다. 바쁜 학교생활 중 학생들은 언제 스트레스를 느끼고, 무엇이 차분함을 유지하게 해 주나요? 다음 2번: 캠퍼스에 다정한 동물들이 있으면 수업 사이 분위기가 어떻게 달라질까요? 마지막 3번: 무엇이 학교를 더 다정하고 평화롭게 느끼게 할까요?",
+        "studentActions": "Students discuss in pairs and write 1–2 sentences for each question (G1: complete the sentence starters; G2: include a specific school-day moment and feeling word).",
+        "misconception": "Jumping into claims that pets cure mental illness or belong in every school without limits.",
+        "correctiveFeedback": "Keep warm-up ideas grounded in everyday feelings like calm, comfort, and friendliness (G1: use \"stay calm\" / \"feel peaceful\"; G2: give concrete school examples like passing periods or tests).",
+        "transition": "Now let us read the exact 4-paragraph BBC article to see what happens at Kellenberg Memorial High School."
+      },
+      {
+        "phase": 3,
+        "phaseName": "Close Reading & Visual Context Separation",
+        "duration": "12 minutes",
+        "objective": "Read all 4 paragraphs with chunking while separating visual photo/title emphasis from factual article claims.",
+        "teacherActions": "Read Paragraphs 1–4 aloud with slash pauses; guide students to track the 6 source sentences and note that any accompanying photo or title overlay is visual context only.",
+        "scriptEn": "Follow the four paragraphs carefully. / Paragraph 1 names the school / and five unusual classmates. / Paragraph 2 explains / who lives with the animals / since 1987, / and how the menagerie helps calm. / Paragraph 3 introduces Matthias / and the principal’s careful rule / about therapy pets. / Paragraph 4 adds staff dogs / and a friendlier, more peaceful school.",
+        "scriptKo": "네 개의 문단을 차근차근 따라 읽어 봅시다. 1문단은 학교 이름과 다섯 종류의 특별한 동물 급우들을 소개합니다. 2문단은 1987년부터 누가 동물들과 함께 사는지, 그리고 그 동물 무리가 어떻게 차분함에 도움이 되는지 설명합니다. 3문단은 마티아스와 교장 선생님의 신중한 치료 도우미 동물 구분을, 4문단은 교직원들의 반려견과 더 다정하고 평화로운 학교를 덧붙입니다.",
+        "studentActions": "Students follow the 4 paragraphs, circle time phrases (\"in 1987\", \"between classes\"), and underline Principal Hoagland’s contrast (\"aren’t official therapy pets, but...\") (G1: highlight animal names and feelings; G2: mark who/that clauses and appositives).",
+        "misconception": "Treating photo details or headline styling as extra factual claims not written in the 4 paragraphs.",
+        "correctiveFeedback": "Remind students that any visual photo or title emphasis only frames the human-interest story; only words inside the 4 paragraphs count as article facts (G1: point to exact paragraph numbers; G2: verify no outside details are added).",
+        "transition": "Next, let us study all 10 vocabulary items in context."
+      },
+      {
+        "phase": 4,
+        "phaseName": "Vocabulary in Context",
+        "duration": "10 minutes",
+        "objective": "Master all 10 target vocabulary items with definitions, Korean meanings, source quotes, and student examples.",
+        "teacherActions": "Model pronunciation and review meanings for classmates, unusual, religious order, collection, menagerie, bond closely, therapy pets, reduce, peaceful, and stressful.",
+        "scriptEn": "Let us examine our ten vocabulary cards. / Pair \"collection\" and \"menagerie\": / over the years, / a group of pets grew / into a full menagerie. / Notice \"bond closely\" / and \"therapy pets\": / students bond closely with Matthias, / yet the animals aren’t / official therapy pets. / Finally, connect \"reduce,\" / \"peaceful,\" and \"stressful.\"",
+        "scriptKo": "열 개의 어휘 카드를 살펴봅시다. \"collection(모음)\"과 \"menagerie(다양한 동물 무리)\"를 연결해 보세요. 세월이 흐르며 반려동물 모음이 완전한 동물 무리로 자랐습니다. \"bond closely(친밀한 유대감을 형성하다)\"와 \"therapy pets(치료 도우미 동물)\"도 주목하세요. 학생들은 마티아스와 가까워지지만, 그 동물들은 공식 치료 도우미 동물은 아닙니다. 마지막으로 \"reduce\", \"peaceful\", \"stressful\"을 연결해 봅시다.",
+        "studentActions": "Students read the 10 vocab cards, compare the source example with the student example, and practice pronouncing \"menagerie\" and \"religious order\" (G1: match Korean glosses to source quotes; G2: use two target terms in an original school sentence).",
+        "misconception": "Confusing \"therapy pets\" with ordinary school pets, or misspelling \"peaceful\" / \"stressful\" with double-l (-full).",
+        "correctiveFeedback": "Highlight the single \"-l\" suffix in \"peaceful\" and \"stressful\" and clarify that \"therapy pets\" implies official training/status, which the principal says these animals do not have (G1: check \"-ful\" spelling; G2: explain why \"official\" matters).",
+        "transition": "Now let us check comprehension and text evidence."
+      },
+      {
+        "phase": 5,
+        "phaseName": "Main Idea, Comprehension & Evidence",
+        "duration": "18 minutes",
+        "objective": "Complete 1 Main Idea MCQ, 6 Comprehension MCQs, and 3 Evidence responses using Check & Compare.",
+        "teacherActions": "Have students complete Main Idea and rc1–rc6 independently, verify paragraph references, then draft ev1–ev3 and run Check & Compare.",
+        "scriptEn": "Complete the Main Idea question / and all six Comprehension questions. / Match each question / to its exact paragraph: / Paragraph 1 for school and animals, / Paragraph 2 for 1987 and calm, / Paragraph 3 for Matthias and therapy pets, / and Paragraph 4 for staff dogs. / Then write Evidence 1 to 3 / and click Check & Compare.",
+        "scriptKo": "Main Idea 문제와 6개의 Comprehension 문제를 풀어 보세요. 각 문제를 정확한 문단과 연결하세요. 1문단은 학교와 동물들, 2문단은 1987년과 차분함, 3문단은 마티아스와 치료 도우미 동물 여부, 4문단은 교직원 반려견입니다. 그런 다음 Evidence 1~3을 쓰고 Check & Compare를 누르세요.",
+        "studentActions": "Students answer all 7 MCQs, write ev1–ev3 with quotes/paraphrases, and inspect rule-based checks and hidden models (G1: quote key source phrases directly; G2: combine quotes smoothly with attribution).",
+        "misconception": "Overstating ev3 by claiming the animals are therapy dogs or provide medical therapy.",
+        "correctiveFeedback": "Direct students back to Paragraph 3: Principal Hoagland says they \"aren’t official therapy pets, but they help reduce fear, stress, and anxiety\" (G1: copy the exact contrast; G2: paraphrase cautiously without medical words like \"treat\" or \"cure\").",
+        "transition": "With the evidence clear, let us examine our Language Focus patterns and practice writing."
+      },
+      {
+        "phase": 6,
+        "phaseName": "Language Focus & Writing Practice",
+        "duration": "12 minutes",
+        "objective": "Practice relative clauses (who/that), appositives, cause/effect (helps/makes), contrast (but), and time phrases in wp1–wp4.",
+        "teacherActions": "Walk through the 6 Language Focus patterns, contrast \"aren’t\" / \"they’re\" contraction spelling, check comparative \"friendlier\" and \"more peaceful\", and supervise wp1–wp4.",
+        "scriptEn": "Check our six Language Focus tools: / relative clauses with \"who\" and \"that,\" / appositives like \"Matthias, a small terrier,\" / cause and effect with \"helps\" and \"makes,\" / contrast with \"but,\" / time phrases, / and precise well-being vocabulary. / Now write Practice items 1 to 4 / and test each with Check & Compare.",
+        "scriptKo": "여섯 가지 Language Focus 도구를 확인합시다. \"who\"와 \"that\"을 쓴 관계절, \"Matthias, a small terrier\" 같은 동격 어구, \"helps\"와 \"makes\"를 쓴 인과 표현, \"but\"을 쓴 대조, 시간 표현, 그리고 정확한 웰빙 어휘입니다. 이제 Writing Practice 1~4번을 작성하고 각각 Check & Compare로 점검하세요.",
+        "studentActions": "Students draft wp1–wp4 and review rule-based feedback on sentence completeness, word count, vocabulary, and connectors (G1: follow the Language Focus examples closely; G2: combine an appositive and a relative clause in wp1).",
+        "misconception": "Writing \"helps them staying calm\" or \"makes school feeling more friendlier\" instead of base verbs and correct comparatives.",
+        "correctiveFeedback": "Drill \"helps them stay calm\" (not \"staying\") and \"makes school feel friendlier and more peaceful\" (not \"more friendlier\") (G1: check verb endings; G2: vary contrast connectors).",
+        "transition": "Now you are ready to put everything together in the 100–140 word Writing Task."
+      },
+      {
+        "phase": 7,
+        "phaseName": "Writing Task & Check/Compare",
+        "duration": "18 minutes",
+        "objective": "Write, check, and revise a 100–140 word paragraph answering the exact prompt with attribution, 3+ details, cautious contrast, and cause/effect.",
+        "teacherActions": "Review the exact prompt, checklist, and 100–140 word target; circulate while students draft, click Check & Compare, inspect the hidden 115–130 word model, and revise.",
+        "scriptEn": "Read our Writing Task prompt carefully: / \"According to the article, / how do animals make school life / calmer and friendlier for students?\" / Write 100 to 140 words. / Include source attribution, / at least three article details, / cause and effect with \"helps\" and \"makes,\" / and one cautious contrast / about official therapy pets. / Click Check & Compare, / then revise carefully.",
+        "scriptKo": "Writing Task 질문을 정확히 읽어 봅시다. \"According to the article, how do animals make school life calmer and friendlier for students?\"에 대해 100~140단어로 작성하세요. 출처 밝히기, 본문 세부 사실 3가지 이상, \"helps\"와 \"makes\"를 활용한 인과 표현, 그리고 공식 치료 도우미 동물이 아니라는 신중한 대조를 반드시 포함하세요. Check & Compare를 눌러 점검한 뒤 수정하세요.",
+        "studentActions": "Students draft 100–140 words, run Check & Compare, compare with the hidden model after checking, and polish grammar and attribution (G1: follow the 5-step Paragraph Outline; G2: integrate relative clauses, appositives, and comparative adjectives smoothly).",
+        "misconception": "Going under 100 words, omitting the cautious therapy-pet contrast, or claiming the school uses animals as medical therapy.",
+        "correctiveFeedback": "Check word count (100–140), verify \"According to the article,\" at the start, confirm \"aren’t official therapy pets, but...\" is present, and check \"Overall,\" in the closing sentence.",
+        "transition": "Before submitting, complete every item in Self-Check."
+      },
+      {
+        "phase": 8,
+        "phaseName": "Self-Check, Submission & Wrap-up",
+        "duration": "5 minutes",
+        "objective": "Complete the 6-item Self-Check, submit work with Student Name and Student Code, and summarize key takeaways.",
+        "teacherActions": "Verify students check all 6 Self-Check boxes, enter Student Name and Student Code, click Submit lesson, and confirm submission receipt.",
+        "scriptEn": "Check all six Self-Check boxes / to verify your school details, / Matthias, / the cautious therapy-pet contrast, / language tools, / and 100 to 140 word count. / Enter your Student Name / and Student Code, / then click Submit lesson. / Great work writing with careful evidence today!",
+        "scriptKo": "Self-Check의 6개 항목을 모두 체크하여 학교 세부 정보, 마티아스, 공식 치료 도우미 동물과의 신중한 대조, 언어 표현, 그리고 100~140단어 분량을 확인하세요. Student Name과 Student Code를 입력하고 Submit lesson을 누르세요. 오늘 신중한 근거를 바탕으로 아주 잘 썼습니다!",
+        "studentActions": "Students check all 6 boxes, submit name/code/answers, and review post-submission MCQ explanations (G1: verify word count and name/code fields; G2: inspect any missed MCQ rationales).",
+        "misconception": "Forgetting Student Name or Student Code, or leaving Self-Check unchecked before submitting.",
+        "correctiveFeedback": "Remind students to verify every required field before clicking Submit lesson and note that each attempt is recorded separately.",
+        "transition": "In our next Unit 2 lesson, we will continue exploring how school communities support student well-being."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "label": "Step 1 — Welcome & Title Framing",
+        "english": "Welcome to Unit 2! / Today we are reading a short BBC article / titled \"Animal Classmates Help Students Destress!\" / Notice how the title / calls animals \"classmates\" / and connects them to helping students destress.",
+        "directKorean": "Unit 2에 오신 것을 환영합니다! / 오늘 우리는 짧은 BBC 기사를 읽습니다 / \"Animal Classmates Help Students Destress!\"라는 제목의 / 제목이 어떻게 / 동물들을 \"학급 친구들\"이라고 부르고 / 학생들의 스트레스를 푸는 데 도움을 주는 것과 연결하는지 주목하세요.",
+        "naturalKorean": "Unit 2 수업에 오신 것을 환영합니다! 오늘 우리는 \"Animal Classmates Help Students Destress!\"라는 BBC 기사를 읽습니다. 제목이 동물들을 어떻게 \"학급 친구\"로 부르며 학생들의 스트레스 완화와 연결하는지 살펴봅시다.",
+        "teachingPurpose": "Introduce the Unit 2 well-being theme and frame the title without inventing facts outside the text."
+      },
+      {
+        "label": "Step 2 — Visual Context vs. Evidence-Only Rule",
+        "english": "Remember our careful-evidence rule: / photos and title design / are visual context only. / Every answer and paragraph we write / must come strictly from / the four paragraphs and \"Source: BBC.\" / with zero medical overclaims.",
+        "directKorean": "우리의 신중한 근거 규칙을 기억하세요: / 사진과 제목 디자인은 / 시각적 맥락일 뿐입니다. / 우리가 쓰는 모든 답과 문단은 / 엄격하게 네 개의 문단과 \"Source: BBC.\"에서만 나와야 합니다 / 의학적 과장 주장 없이.",
+        "naturalKorean": "오늘의 핵심 규칙을 기억합시다. 사진이나 제목 강조 같은 시각 요소는 분위기를 보여 주는 맥락일 뿐입니다. 우리의 모든 답과 글쓰기는 의학적 과장 없이 오직 4개 문단과 \"Source: BBC.\"의 내용에만 근거해야 합니다.",
+        "teachingPurpose": "Establish strict separation between visual presentation and textual claims before Warm-up."
+      }
+    ],
+    "warmUpTeacherGuide": [
+      {
+        "question": "During a busy school day, what moments or situations feel most stressful for students, and what helps them stay calm?",
+        "focus": "Connecting students’ daily school stress to healthy, realistic calming moments",
+        "teacherTalk": "Think about a busy school day / from first period to afternoon. / Which moments feel stressful, / and what simple things / help you stay calm?",
+        "korean": "1교시부터 오후까지 바쁜 학교 하루를 떠올려 보세요. 어떤 순간이 스트레스를 주고, 어떤 간단한 일들이 차분함을 유지하는 데 도움이 되나요?",
+        "sampleAnswer": "During a busy school day, stressful moments often happen before tests or presentations, and students can stay calm by taking a short walk or talking with friends.",
+        "likelyResponses": [
+          "Tests, homework deadlines, and crowded hallways feel stressful.",
+          "Talking to friends, breathing, or taking a short break outdoors helps me stay calm."
+        ],
+        "followUp": "Keep \"busy day\" and \"stay calm\" in mind—we will see those exact ideas in Paragraph 2 of our article.",
+        "teacherFollowUpKorean": "\"바쁜 하루(busy day)\"와 \"차분함을 유지하다(stay calm)\"라는 표현을 기억해 두세요. 기사 2문단에서 바로 그 내용을 보게 됩니다.",
+        "usefulLanguage": [
+          "busy day",
+          "stressful moments",
+          "stay calm",
+          "reduce stress"
+        ],
+        "caution": "Keep discussion supportive and everyday; avoid clinical or medical diagnoses.",
+        "purpose": "Prepare students for the stress/calm vocabulary in Paragraphs 2–4."
+      },
+      {
+        "question": "If friendly animals lived on a school campus and students could visit them between classes, how might that change the mood at school?",
+        "focus": "Predicting how campus animals might affect passing periods and teen well-being",
+        "teacherTalk": "Imagine walking between classes / and seeing friendly campus pets / near a courtyard pond. / How might visiting them for a few minutes / change how school feels?",
+        "korean": "수업 사이에 복도나 안뜰 연못 근처를 걷다가 다정한 캠퍼스 반려동물을 만난다고 상상해 보세요. 몇 분간 동물들을 찾는 것이 학교 분위기를 어떻게 바꿀까요?",
+        "sampleAnswer": "If friendly animals lived on a school campus, visiting them between classes might help teens relax and make the school day feel happier.",
+        "likelyResponses": [
+          "Students might smile more and feel less nervous between hard classes.",
+          "People might talk more with each other while walking the dogs."
+        ],
+        "followUp": "In Paragraph 3, check which specific animal teens visit around the courtyard pond.",
+        "teacherFollowUpKorean": "3문단에서 십 대 학생들이 안뜰 연못 주변에서 어떤 특정 동물을 찾아가는지 확인해 봅시다.",
+        "usefulLanguage": [
+          "on campus",
+          "between classes",
+          "bond closely",
+          "visit"
+        ],
+        "caution": "Remind students that once reading begins, all specific animal names must come strictly from the text.",
+        "purpose": "Prime students for Paragraph 3 (Matthias, courtyard pond, and visits between classes)."
+      },
+      {
+        "question": "What makes a school community feel friendlier and more peaceful for teens, especially during difficult or stressful moments?",
+        "focus": "Linking shared community care to \"friendlier\" and \"more peaceful\"",
+        "teacherTalk": "What makes a school feel / like a warm, welcoming place? / Think about people, shared spaces, / and even pets brought by staff. / What creates a friendlier, / more peaceful school?",
+        "korean": "학교가 따뜻하고 반겨 주는 공간처럼 느껴지게 하는 것은 무엇일까요? 사람들과 공간, 심지어 교직원이 데려오는 반려동물까지 떠올려 보세요. 무엇이 더 다정하고 평화로운 학교를 만들까요?",
+        "sampleAnswer": "A school community feels friendlier and more peaceful when students and staff share calming moments together during stressful times.",
+        "likelyResponses": [
+          "Kind teachers, supportive classmates, and calm shared spaces make school friendlier.",
+          "Having animals nearby could help people feel welcome during stressful weeks."
+        ],
+        "followUp": "Look at Paragraph 4 to see who else brings dogs to school and the exact two adjectives students use.",
+        "teacherFollowUpKorean": "4문단에서 누가 또 개들을 학교에 데려오는지, 그리고 학생들이 쓰는 정확한 두 가지 형용사를 찾아보세요.",
+        "usefulLanguage": [
+          "friendlier",
+          "more peaceful",
+          "nearby",
+          "staff members"
+        ],
+        "caution": "Keep focus on community atmosphere rather than therapy claims.",
+        "purpose": "Prepare students for Paragraph 4’s staff-dogs detail and comparative adjectives."
+      }
+    ],
+    "sourceReadingGuide": {
+      "title": "Source Reading, Visible Emphasis & Photo Visual Context Guide",
+      "description": "The canonical BBC article is presented unadapted across its exact title, 4 paragraphs, and outside attribution (\"Source: BBC.\"). Any visual emphasis and accompanying photograph are visual context only—never treat them as extra factual claims.",
+      "points": [
+        "Outside Reading Attribution: Display \"Source: BBC.\" outside the reading container exactly as supplied.",
+        "Text Structure: 1 Title (\"Animal Classmates Help Students Destress!\") + 4 Paragraphs containing 6 source sentences total (P1: 1 sentence; P2: 2 sentences; P3: 2 sentences; P4: 1 sentence). Preserve exact curly apostrophe in \"aren’t\" and exact wording (\"helps\", \"friendlier\", \"more peaceful\").",
+        "Visual Emphasis Guide: Any bolding, color contrast, or headline overlay in the supplied visual layout highlights the human-interest hook (\"Animal Classmates\" / \"Destress!\") for visual readability only. It does not add new claims, statistics, or therapy endorsements.",
+        "Photo Visual Context Guide: When viewing the supplied photo alongside the story, treat it strictly as visual context showing the school/animal setting—never invent animal breeds, student quotes, ages, therapy vests, certifications, or health outcomes from the image alone. Separate visual observation (\"The photo visually frames the story\") from article evidence (\"Paragraph 3 states...\")."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Detailed guide covers the Title (Entry 1), all 6 source sentences in exact order (Entries 2–7), and the Source line separately (Entry 8) with zero merging or splitting.",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "paragraph": "Title",
+          "original": "Animal Classmates Help Students Destress!",
+          "chunkReading": "Animal Classmates / Help Students / Destress!",
+          "directKorean": "동물 급우들이 / 학생들을 돕는다 / 스트레스를 풀도록!",
+          "naturalKorean": "동물 친구들이 학생들의 스트레스 해소를 돕는다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Animal Classmates",
+              "meaning": "동물 급우들 (함께 학교생활을 하는 동물들)",
+              "use": "동물을 학생들과 학교 하루를 함께하는 존재로 친근하게 부른 비유적 표현입니다.",
+              "example": "At the school, dogs and peacocks act like unusual animal classmates."
+            },
+            {
+              "chunk": "help + 목적어 + 동사원형 (Destress)",
+              "meaning": "~가 스트레스를 풀도록 돕다",
+              "use": "help 뒤에는 동사원형(destress)이나 to부정사가 와서 도움을 주는 결과를 나타냅니다.",
+              "example": "Short breaks help students destress during exam week."
+            }
+          ],
+          "mustKnowGrammar": "복수 주어(Animal Classmates)에 맞춰 현재시제 동사 Help가 쓰였고, help + 목적어(Students) + 목적격보어(동사원형 Destress) 5형식 구조입니다. 느낌표(!)가 붙은 인간미 있는 뉴스 헤드라인입니다.",
+          "feynmanExplanation": "Imagine going to school / and seeing friendly animals around you. / This headline calls those animals / \"classmates\" / because they share the school day with teens. / The word \"destress\" / means to relax and feel less pressure.",
+          "feynmanExplanationKo": "학교에 갔는데 주변에 다정한 동물들이 있다고 상상해 보세요. 이 제목은 동물들이 십 대 학생들과 학교 하루를 함께 보낸다는 뜻으로 \"급우(classmates)\"라고 부릅니다. \"destress\"는 긴장을 풀고 부담감을 줄인다는 뜻입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why does the title call the animals \"classmates,\" and what does \"destress\" mean?",
+              "korean": "교사: 제목에서 왜 동물들을 \"classmates(급우)\"라고 불렀으며, \"destress\"는 무슨 뜻일까요?"
+            },
+            {
+              "english": "Student: Because students share their school day with them, and \"destress\" means to reduce stress and feel calmer.",
+              "korean": "학생: 학생들이 동물들과 학교 하루를 함께 보내기 때문이고, \"destress\"는 스트레스를 줄이고 더 차분해지는 것을 뜻합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "paragraph": "Paragraph 1 (Sentence 1)",
+          "original": "At Kellenberg Memorial High School in New York, students share their school day with an unusual group of classmates: dogs, parrots, turtles, fish, and even peacocks.",
+          "chunkReading": "At Kellenberg Memorial High School / in New York, / students share their school day / with an unusual group of classmates: / dogs, parrots, turtles, fish, / and even peacocks.",
+          "directKorean": "뉴욕에 있는 켈렌버그 메모리얼 고등학교에서, / 학생들은 그들의 학교 하루를 나눈다 / 흔치 않은 급우 집단과: / 개, 앵무새, 거북이, 물고기, / 그리고 심지어 공작새들까지.",
+          "naturalKorean": "뉴욕의 켈렌버그 메모리얼 고등학교에서는 학생들이 개, 앵무새, 거북이, 물고기, 심지어 공작새까지 함께하는 색다른 ‘동물 급우’들과 학교생활을 보낸다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "share their school day with ~",
+              "meaning": "~와 학교 하루를 함께 보내다",
+              "use": "share A with B 구조로 공간이나 시간을 함께 나누어 가짐을 표현합니다.",
+              "example": "Students share their school day with several campus pets."
+            },
+            {
+              "chunk": "an unusual group of classmates",
+              "meaning": "독특한(흔치 않은) 급우 무리",
+              "use": "콜론(:) 앞에서 독자의 호기심을 끈 뒤 콜론 뒤에 구체적 목록을 제시합니다.",
+              "example": "The room held an unusual group of visitors: musicians, bakers, and painters."
+            }
+          ],
+          "mustKnowGrammar": "장소 부사구(At Kellenberg Memorial High School in New York)로 문장을 열고, 주어(students) + 동사(share) + 목적어(their school day) + 전치사구(with ~) 구조 뒤에 콜론(:)을 사용해 다섯 가지 동물을 병렬 나열했습니다. 부사 even은 \"심지어 ~까지\"라는 놀라움을 강조합니다.",
+          "feynmanExplanation": "First, / the article tells us where this happens: / a high school in New York. / Next, / it introduces an unexpected surprise. / Instead of only human students, / dogs, parrots, turtles, fish, / and even peacocks share the campus day.",
+          "feynmanExplanationKo": "먼저 이 글은 이 일이 어디에서 일어나는지, 즉 뉴욕의 한 고등학교를 알려 줍니다. 다음으로 뜻밖의 놀라움을 소개합니다. 사람 학생들만 있는 것이 아니라 개, 앵무새, 거북이, 물고기, 심지어 공작새까지 학교 하루를 함께합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What punctuation mark introduces the five animals, and which word adds surprise before \"peacocks\"?",
+              "korean": "교사: 다섯 가지 동물을 소개하기 전에 어떤 문장부호가 쓰였고, \"peacocks\" 앞에서 놀라움을 더하는 단어는 무엇인가요?"
+            },
+            {
+              "english": "Student: A colon (:) introduces the list, and \"even\" adds surprise before peacocks.",
+              "korean": "학생: 콜론(:)이 목록을 열고, \"even\"이 공작새 앞에서 놀라움을 더해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "paragraph": "Paragraph 2 (Sentence 2)",
+          "original": "The animals live on campus with members of a Catholic religious order, who began bringing pets when the school opened in 1987.",
+          "chunkReading": "The animals live on campus / with members of a Catholic religious order, / who began bringing pets / when the school opened in 1987.",
+          "directKorean": "그 동물들은 캠퍼스에서 산다 / 가톨릭 수도회 구성원들과 함께, / 그들은 반려동물을 데려오기 시작했다 / 학교가 1987년에 문을 열었을 때.",
+          "naturalKorean": "이 동물들은 1987년 학교가 개교했을 때부터 반려동물을 데려오기 시작한 가톨릭 수도회 구성원들과 함께 교내에서 살고 있다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "live on campus",
+              "meaning": "교내(캠퍼스 안)에서 살다",
+              "use": "on campus는 학교 부지 내부를 가리키는 전치사 관용구입니다.",
+              "example": "Several small dogs live on campus all year."
+            },
+            {
+              "chunk": "members of a Catholic religious order",
+              "meaning": "가톨릭 수도회 구성원들",
+              "use": "종교 공동체 소속 구성원을 가리키며, 뒤의 콤마+who절이 이들을 부연 설명합니다.",
+              "example": "The campus garden is cared for by members of a Catholic religious order."
+            }
+          ],
+          "mustKnowGrammar": "계속적 용법의 주격 관계대명사 who(, who began...)가 앞의 members of a Catholic religious order를 부연 설명합니다. begin 뒤에는 동명사(bringing)가 왔고, 시간 부사절 접속사 when(when the school opened in 1987)이 시작 시점을 밝힙니다.",
+          "feynmanExplanation": "You might wonder / who owns and takes care of these animals. / This sentence answers that question. / They live on campus / with members of a Catholic religious order. / Those members started bringing pets / right when the school opened in 1987.",
+          "feynmanExplanationKo": "누가 이 동물들을 기르고 돌보는지 궁금할 수 있습니다. 이 문장이 그 답을 줍니다. 동물들은 가톨릭 수도회 구성원들과 함께 교내에 삽니다. 그 구성원들이 1987년 학교가 문을 열었을 때부터 반려동물을 데려오기 시작했습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at \", who began bringing pets.\" Who does \"who\" refer back to, and when did this begin?",
+              "korean": "교사: \", who began bringing pets\"를 보세요. \"who\"는 누구를 가리키며, 이 일은 언제 시작되었나요?"
+            },
+            {
+              "english": "Student: \"Who\" refers to the members of a Catholic religious order, and it began when the school opened in 1987.",
+              "korean": "학생: \"who\"는 가톨릭 수도회 구성원들을 가리키고, 1987년 학교가 문을 열었을 때 시작되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "paragraph": "Paragraph 2 (Sentence 3)",
+          "original": "Over the years, the collection has grown into a full menagerie, and students say spending time with the animals helps them stay calm during a busy day.",
+          "chunkReading": "Over the years, / the collection has grown into a full menagerie, / and students say / spending time with the animals / helps them stay calm / during a busy day.",
+          "directKorean": "여러 해가 지나면서, / 그 모음은 완전한 동물 무리로 자랐다, / 그리고 학생들은 말한다 / 동물들과 시간을 보내는 것이 / 그들이 차분함을 유지하도록 돕는다고 / 바쁜 하루 동안.",
+          "naturalKorean": "세월이 흐르며 이 동물들은 다양한 동물 무리(메나저리)로 늘어났고, 학생들은 동물들과 시간을 보내는 것이 바쁜 하루 동안 차분함을 유지하는 데 도움이 된다고 말한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Over the years",
+              "meaning": "여러 해에 걸쳐, 세월이 흐르면서",
+              "use": "1987년부터 현재까지 이어진 점진적 변화를 나타낼 때 현재완료(has grown)와 잘 어울립니다.",
+              "example": "Over the years, the club has grown into a major school tradition."
+            },
+            {
+              "chunk": "has grown into a full menagerie",
+              "meaning": "완전한 다종 동물 무리로 자라났다",
+              "use": "현재완료(has grown)는 과거에서 지금까지 이어진 성장 결과를 나타냅니다.",
+              "example": "What began as two pets has grown into a full menagerie."
+            },
+            {
+              "chunk": "helps them stay calm",
+              "meaning": "그들이 차분함을 유지하도록 돕는다",
+              "use": "동명사 주어(spending time...)는 단수 취급하여 동사 helps에 -s를 붙입니다.",
+              "example": "Listening to quiet music helps students stay calm before quizzes."
+            }
+          ],
+          "mustKnowGrammar": "현재완료(has grown)가 1987년 이후 지금까지의 변화를 나타냅니다. 등위접속사 and 뒤에는 students say (that) ... 명사절이 오며, 그 안의 주어는 동명사구(spending time with the animals)이므로 단수 동사 helps를 쓰고, help + 목적어(them) + 동사원형(stay calm)이 이어집니다.",
+          "feynmanExplanation": "From 1987 until today, / more animals joined the campus. / Now it is a \"menagerie,\" / which means a varied group of animals. / Students say that spending time with them / helps everyone stay calm / when school gets busy.",
+          "feynmanExplanationKo": "1987년부터 오늘날까지 더 많은 동물이 캠퍼스에 모였습니다. 이제는 다양한 동물 무리를 뜻하는 \"menagerie\"가 되었습니다. 학생들은 동물들과 시간을 보내면 학교생활이 바쁠 때도 차분함을 유지하는 데 도움이 된다고 말합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why is \"helps\" singular with an -s here? Find the subject of \"helps.\"",
+              "korean": "교사: 여기서 왜 \"helps\"가 단수형(-s)일까요? \"helps\"의 주어를 찾아보세요."
+            },
+            {
+              "english": "Student: The subject is the gerund phrase \"spending time with the animals,\" which is singular.",
+              "korean": "학생: 주어가 동명사구 \"spending time with the animals\"이기 때문에 단수 취급합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "paragraph": "Paragraph 3 (Sentence 4)",
+          "original": "Many teens visit the dogs between classes, and some bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond.",
+          "chunkReading": "Many teens visit the dogs between classes, / and some bond closely / with favorites like Matthias, / a small terrier / who joins walks around the courtyard pond.",
+          "directKorean": "많은 십 대들이 수업 사이에 개들을 찾아간다, / 그리고 일부는 친밀히 유대감을 쌓는다 / 마티아스 같은 인기 동물들과, / 작은 테리어인 / 안뜰 연못 주변 산책에 함께하는.",
+          "naturalKorean": "많은 십 대 학생들이 수업 사이에 개들을 찾아가며, 일부는 안뜰 연못가 산책에 함께하는 작은 테리어 ‘마티아스’ 같은 인기 동물들과 깊은 유대감을 형성한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "between classes",
+              "meaning": "수업과 수업 사이에 (쉬는 시간에)",
+              "use": "일상적인 학교 시간표의 틈을 가리키는 빈도·시간 표현입니다.",
+              "example": "Students often chat by their lockers between classes."
+            },
+            {
+              "chunk": "bond closely with ~",
+              "meaning": "~와 친밀한 유대감을 형성하다",
+              "use": "단순히 구경하는 것이 아니라 정서적으로 가까워짐을 나타냅니다.",
+              "example": "Teens bond closely with pets they visit every day."
+            }
+          ],
+          "mustKnowGrammar": "favorites like Matthias 뒤에 콤마(,)로 연결된 동격 어구(a small terrier)가 Matthias가 어떤 동물인지 설명하고, 그 뒤를 주격 관계대명사절(who joins walks around the courtyard pond)이 수식합니다. named animal에게 사람처럼 who를 써서 친근한 급우 느낌을 살렸습니다.",
+          "feynmanExplanation": "What does a normal day look like / with these animals? / Teens visit the dogs / during short breaks between classes. / Some students grow close to favorites / such as Matthias, / a little terrier who walks with them / around the courtyard pond.",
+          "feynmanExplanationKo": "이 동물들과 보내는 평범한 하루는 어떤 모습일까요? 십 대 학생들은 수업 사이의 짧은 휴식 시간에 개들을 찾아갑니다. 일부 학생들은 안뜰 연못가를 함께 산책하는 작은 테리어 마티아스 같은 인기 동물들과 아주 가까워집니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Spot both grammar tools describing Matthias: the appositive and the relative clause.",
+              "korean": "교사: 마티아스를 설명하는 두 가지 문법 장치, 즉 동격 어구와 관계대명사절을 찾아보세요."
+            },
+            {
+              "english": "Student: \"a small terrier\" is the appositive, and \"who joins walks around the courtyard pond\" is the relative clause.",
+              "korean": "학생: \"a small terrier\"가 동격 어구이고, \"who joins walks around the courtyard pond\"가 관계대명사절입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "paragraph": "Paragraph 3 (Sentence 5)",
+          "original": "Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+          "chunkReading": "Principal Kenneth Hoagland says / the animals aren’t official therapy pets, / but they help reduce fear, stress, and anxiety.",
+          "directKorean": "케네스 호글랜드 교장 선생님은 말한다 / 그 동물들은 공식 치료 도우미 동물이 아니라고, / 하지만 그들은 두려움, 스트레스, 불안을 줄이는 데 도움을 준다고.",
+          "naturalKorean": "케네스 호글랜드 교장은 그 동물들이 공식적인 치료 도우미 동물은 아니지만, 두려움과 스트레스, 불안을 덜어 주는 데 도움이 된다고 말한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "aren’t official therapy pets",
+              "meaning": "공식 치료 도우미 동물(테라피 펫)이 아니다",
+              "use": "사실을 정확하고 조심스럽게 선을 그어 설명할 때 씁니다. (aren’t = are not 축약형)",
+              "example": "The campus dogs aren’t official therapy pets, though students enjoy visiting them."
+            },
+            {
+              "chunk": "help reduce fear, stress, and anxiety",
+              "meaning": "두려움, 스트레스, 불안을 줄이는 데 도움을 주다",
+              "use": "help + 동사원형(reduce) 뒤에 세 명사(fear, stress, anxiety)가 병렬 나열됩니다. \"치유하다(cure)\"가 아니라 \"줄이는 것을 돕다(help reduce)\"라는 신중한 표현입니다.",
+              "example": "Quiet walks can help reduce fear, stress, and anxiety before exams."
+            }
+          ],
+          "mustKnowGrammar": "전달동사 says 뒤에 목적어절(the animals aren’t official therapy pets)이 오며, 축약형 aren’t(are not, 복수 축약형 they’re = they are와 같은 패턴)가 둥근 아포스트로피(’)와 함께 쓰였습니다. 등위접속사 but이 공식 지위의 한계와 실제 도움 사이의 대조를 연결합니다. \"therapy pets\"는 공식 훈련·인증 동물을 뜻하며, 이 글은 의학적 치료가 아니라 일상적 완화 도움을 조심스럽게 진술합니다.",
+          "feynmanExplanation": "The principal adds an important boundary / so readers do not misunderstand. / He clearly says the animals / are not \"official therapy pets,\" / meaning they are not certified medical helpers. / Still, / they help lower fear, stress, and anxiety / in everyday school life.",
+          "feynmanExplanationKo": "교장 선생님은 독자가 오해하지 않도록 중요한 선을 긋습니다. 그는 이 동물들이 \"공식 치료 도우미 동물\"이 아니라고, 즉 인증된 의료 보조 동물이 아니라고 분명히 말합니다. 그럼에도 일상 학교생활에서 두려움과 스트레스, 불안을 낮추는 데 도움을 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why is it important that Principal Hoagland says \"aren’t official therapy pets, but they help reduce...\" instead of saying they \"treat\" anxiety?",
+              "korean": "교사: 호글랜드 교장 선생님이 불안을 \"치료한다(treat)\"고 말하지 않고 \"공식 치료 도우미 동물은 아니지만 줄이는 데 도움을 준다\"고 말한 것이 왜 중요할까요?"
+            },
+            {
+              "english": "Student: Because it stays accurate and cautious: they are everyday campus pets, not certified therapy pets or medical treatment.",
+              "korean": "학생: 정확하고 신중한 표현이기 때문입니다. 동물들은 인증된 치료 도우미 동물이나 의학적 치료가 아니라 일상적인 교내 반려동물입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "paragraph": "Paragraph 4 (Sentence 6)",
+          "original": "Staff members also bring their own dogs, and students say having animals nearby makes school feel friendlier and more peaceful, especially during stressful moments.",
+          "chunkReading": "Staff members also bring their own dogs, / and students say / having animals nearby / makes school feel friendlier and more peaceful, / especially during stressful moments.",
+          "directKorean": "교직원들도 역시 자신의 개들을 데려온다, / 그리고 학생들은 말한다 / 동물들이 가까이에 있는 것이 / 학교를 더 다정하고 더 평화롭게 느껴지도록 만든다고, / 특히 스트레스가 많은 순간 동안에.",
+          "naturalKorean": "교직원들도 자신의 반려견을 데려오며, 학생들은 특히 스트레스가 큰 순간에 동물들이 곁에 있으면 학교가 더 다정하고 평화롭게 느껴진다고 말한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "makes school feel friendlier and more peaceful",
+              "meaning": "학교가 더 다정하고 더 평화롭게 느껴지게 만들다",
+              "use": "사역동사 make + 목적어(school) + 동사원형(feel) + 비교급 형용사 병렬(friendlier and more peaceful) 구조입니다.",
+              "example": "Kind greetings make a classroom feel friendlier and more peaceful."
+            },
+            {
+              "chunk": "especially during stressful moments",
+              "meaning": "특히 스트레스가 큰 순간에",
+              "use": "부사 especially로 가장 의미가 큰 상황(stressful moments)을 콕 집어 강조합니다.",
+              "example": "Music helps me relax, especially during stressful moments."
+            }
+          ],
+          "mustKnowGrammar": "also가 교직원의 참여를 추가하고, 동명사구 주어(having animals nearby)가 단수 동사 makes를 취합니다. 사역동사 makes 뒤에는 동사원형 feel이 오고, 비교급 규칙이 다른 두 형용사 friendlier(-y → -ier)와 more peaceful(2음절 이상 + more)이 병렬을 이룹니다. 부사 especially는 앞의 문장을 수식하며 강조 대상을 좁혀 줍니다.",
+          "feynmanExplanation": "It is not only the religious order / who shares pets at school. / Staff members bring their own dogs too. / Students say that just having animals nearby / makes school feel friendlier and more peaceful, / especially when moments feel stressful.",
+          "feynmanExplanationKo": "학교에서 반려동물을 함께 나누는 것은 수도회 구성원들만이 아닙니다. 교직원들도 자신의 반려견을 데려옵니다. 학생들은 동물들이 가까이 있는 것만으로도 특히 스트레스가 느껴지는 순간에 학교가 더 다정하고 평화롭게 느껴진다고 말합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Compare the two comparatives after \"feel\": why is one \"friendlier\" and the other \"more peaceful\"?",
+              "korean": "교사: \"feel\" 뒤의 두 비교급을 비교해 보세요. 왜 하나는 \"friendlier\"이고 다른 하나는 \"more peaceful\"일까요?"
+            },
+            {
+              "english": "Student: \"Friendly\" ends in -y so it becomes \"friendlier,\" while \"peaceful\" takes \"more peaceful.\"",
+              "korean": "학생: \"friendly\"는 -y로 끝나서 \"friendlier\"가 되고, \"peaceful\"은 \"more peaceful\"이 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "paragraph": "Source Line",
+          "original": "Source: BBC.",
+          "chunkReading": "Source: / BBC.",
+          "directKorean": "출처: / BBC.",
+          "naturalKorean": "출처: BBC.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Source: BBC.",
+              "meaning": "출처: 영국 공영방송 BBC 보도",
+              "use": "읽기 본문 바깥에 원문 출처를 명확히 밝힐 때 씁니다.",
+              "example": "According to the BBC article, students visit the campus dogs between classes."
+            }
+          ],
+          "mustKnowGrammar": "명사 Source와 콜론(:) 뒤에 언론사 이름 BBC와 마침표(.)가 오는 출처 표기 형식입니다. 본문 내용과 구분하여 읽기 영역 바깥에 배치합니다.",
+          "feynmanExplanation": "Every careful summary / shows where its information came from. / Here, \"Source: BBC.\" / tells us the news organization / that published this story. / We keep this line outside the four reading paragraphs / and cite the article clearly in our writing.",
+          "feynmanExplanationKo": "신중한 요약 글은 정보가 어디에서 왔는지 항상 밝힙니다. 여기서 \"Source: BBC.\"는 이 이야기를 보도한 언론사를 알려 줍니다. 이 줄은 4개의 읽기 문단 바깥에 두고, 글쓰기에서는 기사에 근거해 명확히 인용합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Where do we show \"Source: BBC.\", and how should you cite the text in your Writing Task?",
+              "korean": "교사: \"Source: BBC.\"는 어디에 표시하며, Writing Task에서는 본문을 어떻게 인용해야 할까요?"
+            },
+            {
+              "english": "Student: We show \"Source: BBC.\" outside the reading paragraphs, and start our paragraph with \"According to the article,\".",
+              "korean": "학생: \"Source: BBC.\"는 읽기 문단 바깥에 표시하고, 문단은 \"According to the article,\"로 시작합니다."
+            }
+          ]
+        }
+      ]
+    },
+    "finalWritingSupport": {
+      "sentenceFrames": [
+        "Attribution + Context: According to the article, animals at Kellenberg Memorial High School in New York help make school life calmer and friendlier for students.",
+        "History & Menagerie: Living on campus with members of a Catholic religious order who began bringing pets in 1987, the growing menagerie of dogs, parrots, turtles, fish, and peacocks helps students stay calm during a busy day.",
+        "Visits & Matthias: Many teens visit the dogs between classes and bond closely with favorites like Matthias, a small terrier who joins walks around the courtyard pond.",
+        "Cautious Contrast + Staff Dogs + Conclusion: Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety; overall, with staff members also bringing their own dogs, having animals nearby makes school feel friendlier and more peaceful during stressful moments."
+      ],
+      "usefulVocabulary": [
+        "classmates",
+        "unusual",
+        "religious order",
+        "collection",
+        "menagerie",
+        "bond closely",
+        "therapy pets",
+        "reduce",
+        "peaceful",
+        "stressful",
+        "courtyard pond",
+        "campus"
+      ],
+      "usefulConnectors": [
+        "who",
+        "that",
+        "when",
+        "between classes",
+        "over the years",
+        "especially",
+        "because",
+        "so",
+        "overall",
+        "in conclusion"
+      ],
+      "contrastMarkers": [
+        "but",
+        "although",
+        "however",
+        "even though"
+      ],
+      "causeEffectLanguage": [
+        "helps them stay calm",
+        "help reduce fear, stress, and anxiety",
+        "makes school feel friendlier and more peaceful",
+        "because",
+        "so"
+      ],
+      "attributionPhrases": [
+        "According to the article,",
+        "Students say that",
+        "Principal Kenneth Hoagland says",
+        "As described in the BBC article,"
+      ],
+      "paragraphOutline": [
+        "1. Topic & Attribution: Begin with \"According to the article,\" naming Kellenberg Memorial High School in New York and the unusual animal classmates.",
+        "2. Campus History & Calm: Explain the Catholic religious order (since 1987), the growing menagerie, and how spending time with the animals helps students stay calm during a busy day.",
+        "3. Daily Visits & Matthias: Describe teens visiting dogs between classes and bonding closely with Matthias, a small terrier who joins walks around the courtyard pond.",
+        "4. Cautious Contrast: State Principal Kenneth Hoagland’s point that the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+        "5. Staff Dogs & Conclusion: End with \"Overall,\" noting that staff members also bring their own dogs, making school feel friendlier and more peaceful during stressful moments."
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "The school uses certified therapy dogs to treat and cure students’ mental anxiety disorders.",
+          "correction": "According to the article, Principal Kenneth Hoagland says the animals aren’t official therapy pets, but they help reduce fear, stress, and anxiety.",
+          "explanation": "Medical-claim & factual error: never call them official/certified therapy pets or claim they medically treat or cure disorders."
+        },
+        {
+          "mistake": "Spending time with the animals helps students staying calm and makes school feeling more friendlier.",
+          "correction": "Spending time with the animals helps students stay calm and makes school feel friendlier and more peaceful.",
+          "explanation": "Verb-pattern and comparative error: use base verbs after \"helps ... stay\" and \"makes ... feel\", and write \"friendlier\" (not \"more friendlier\")."
+        },
+        {
+          "mistake": "Matthias is a small terrier which join walks and the religious order bring pets in 1987.",
+          "correction": "Matthias, a small terrier who joins walks around the courtyard pond, is a favorite, and members of a Catholic religious order began bringing pets when the school opened in 1987.",
+          "explanation": "Agreement and tense error: match singular \"joins\", use the source’s \"who\" for Matthias, and use past tense \"began\" for 1987."
+        },
+        {
+          "mistake": "Students only visit dogs after school, and the school also keeps cats and rabbits on campus.",
+          "correction": "Many teens visit the dogs between classes, and students share their school day with dogs, parrots, turtles, fish, and peacocks, while staff members also bring their own dogs.",
+          "explanation": "Source-detail error: stick strictly to \"between classes\" and the exact animals named in Paragraphs 1 and 4 without inventing cats or rabbits."
+        }
+      ],
+      "teacherCorrectionFocus": [
+        "Check 100–140 word count, clear opening attribution (\"According to the article,\"), and a concluding sentence starting with \"Overall,\" or \"In conclusion,\".",
+        "Verify at least 3 specific source details (school/New York, 5 animals, 1987/religious order, Matthias/courtyard pond, staff dogs) with zero invented details.",
+        "Confirm the cautious contrast (\"aren’t official therapy pets, but they help reduce fear, stress, and anxiety\") with zero medical treatment/cure claims.",
+        "Check relative clauses (who/that), appositives, \"helps ... stay/reduce\", \"makes ... feel\", and accurate comparatives (\"friendlier and more peaceful\")."
+      ],
+      "g1Scaffold": "Provide G1 students the 5-step Paragraph Outline and sentence frames, guiding them to fill in exact names (Kellenberg Memorial High School, Matthias), use \"helps ... stay calm\" and \"makes school feel friendlier and more peaceful\", and include \"aren’t official therapy pets, but...\".",
+      "g2Extension": "Challenge G2 students to smoothly combine an appositive with a relative clause (\"Matthias, a small terrier who...\"), include both campus menagerie and staff dogs, and maintain 115–130 words with zero factual drift."
+    }
+  }
+}

@@ -1,6 +1,13 @@
 {
-  "latest": "2026-11-18-government-shutdown",
+  "latest": "2026-11-23-animal-classmates-destress",
   "lessons": [
+    {
+      "slug": "2026-11-23-animal-classmates-destress",
+      "title": "Animal Classmates Help Students Destress!",
+      "ofsUnit": "Unit 2 — School Community, Animals & Well-Being",
+      "textType": "Grade 9 Informational Human-Interest Reading (Exact Unadapted Source)",
+      "date": "2026-11-23"
+    },
     {
       "slug": "2026-11-18-government-shutdown",
       "title": "What Happens When a Government Shuts Down?",
