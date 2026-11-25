@@ -1,6 +1,13 @@
 {
-  "latest": "2026-11-23-animal-classmates-destress",
+  "latest": "2026-11-25-trade-surplus-deficit",
   "lessons": [
+    {
+      "slug": "2026-11-25-trade-surplus-deficit",
+      "title": "Trade Surplus & Deficit: Understanding How Countries Buy and Sell",
+      "ofsUnit": "Unit 3 — Global Trade & Economic Ideas",
+      "textType": "Grade 9 Economics Reading (Exact Unadapted Source)",
+      "date": "2026-11-25"
+    },
     {
       "slug": "2026-11-23-animal-classmates-destress",
       "title": "Animal Classmates Help Students Destress!",

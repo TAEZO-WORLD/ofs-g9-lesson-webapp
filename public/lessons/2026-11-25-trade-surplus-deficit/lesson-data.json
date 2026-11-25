@@ -1,0 +1,1691 @@
+{
+  "lessonTitle": "Trade Surplus & Deficit: Understanding How Countries Buy and Sell",
+  "ofsUnit": "Unit 3 — Global Trade & Economic Ideas",
+  "level": "OFS Grade 9 International English G1/G2 ESL",
+  "textType": "Grade 9 Economics Reading (Exact Unadapted Source)",
+  "writingType": "Evidence-Based Economics Explanation Paragraph",
+  "duration": "90 minutes",
+  "lessonGoal": "Understand trade, exports, imports, trade surplus, and trade deficit using the exact article and the fictional Toylandia–Snackville example, and write an evidence-based explanation paragraph.",
+  "warmUp": {
+    "title": "Warm-up: Buying, Selling, Imports, Exports & Balance",
+    "instructions": "Write short answers (1–2 complete sentences each) to the three warm-up questions below before reading the article. Use the sentence starters if helpful.",
+    "questions": [
+      {
+        "id": "wu1",
+        "topic": "Buying and Selling",
+        "question": "What everyday items like food, toys, clothes, or technology do people or countries buy and sell with one another?",
+        "promptKo": "사람들이나 나라들은 음식, 장난감, 옷, 기술 제품 같은 일상 물품중 어떤 것들을 서로 사고파나요?",
+        "sentenceStarter": "Countries and people often buy and sell everyday things like..."
+      },
+      {
+        "id": "wu2",
+        "topic": "Import and Export",
+        "question": "In your own words, what is the difference between a country selling products to another country (export) and buying products from another country (import)?",
+        "promptKo": "한 나라가 다른 나라에 제품을 판는 것(수출)과 다른 나라에서 제품을 사오는 것(수입)은 어떻게 다른가요?",
+        "sentenceStarter": "Selling products to another country means..., while buying products from another country means..."
+      },
+      {
+        "id": "wu3",
+        "topic": "More Sold Than Bought",
+        "question": "Imagine you sold more craft projects than you bought from friends. Would you end up with extra money or less money, and why?",
+        "promptKo": "친구들에게서 산 것보다 더 많은 공예품을 팔았다고 상상해 보세요. 돈이 남을까요, 부족할까요? 그 이유는 무엇인가요?",
+        "sentenceStarter": "If I sold more craft projects than I bought, I would have... because..."
+      }
+    ],
+    "sentenceStarters": [
+      "Countries and people often buy and sell everyday things like...",
+      "Selling products to another country means..., while buying products from another country means...",
+      "If I sold more craft projects than I bought, I would have... because..."
+    ]
+  },
+  "article": {
+    "title": "Trade Surplus & Deficit: Understanding How Countries Buy and Sell",
+    "sourceNote": "Source: Teacher-provided classroom source images. Article wording reproduced as supplied.",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "pageLabel": "Image 1 — Introduction, Origin of the Words & What Is Trade?",
+        "title": "Trade Surplus & Deficit: Understanding How Countries Buy and Sell",
+        "paragraphs": [
+          "Every day, countries around the world trade things like food, toys, clothes, cars, and even technology. But how do we know if a country is winning or losing in trade? That’s where two important ideas come in: trade surplus and trade deficit. Let’s explore what they mean and why they matter!"
+        ],
+        "sections": [
+          {
+            "heading": "Origin of the Words",
+            "paragraphs": [
+              "The word “trade” comes from Middle Low German trāde or trade, meaning “path, course, or track,” and later came to mean process of buying and selling goods and services.",
+              "“Surplus” comes from the Latin word “superplus,” meaning “more than what is needed,” while “deficit” comes from the Latin “deficere,” meaning “to fail” or “to lack.”"
+            ]
+          },
+          {
+            "heading": "What Is Trade?",
+            "intro": "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports).",
+            "bullets": [
+              "Exports = things a country sells",
+              "Imports = things a country buys"
+            ],
+            "paragraphsAfterBullets": [
+              "A country keeps track of how much money it earns from exports and how much it spends on imports. Comparing these two numbers tells us whether the country has a trade surplus or a trade deficit."
+            ]
+          }
+        ]
+      },
+      {
+        "pageNumber": 2,
+        "pageLabel": "Image 2 — What is Trade Surplus and Deficit? & Toylandia–Snackville",
+        "sections": [
+          {
+            "heading": "What is Trade Surplus and Deficit?",
+            "paragraphs": [
+              "A trade surplus happens when a country sells more goods and services to other countries than it buys from them. Imagine if you sold more of your cool craft projects than you bought from your friends; you’d have a surplus!",
+              "Conversely, a trade deficit occurs when a country buys more than it sells. A deficit isn’t always bad. Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.",
+              "Let’s take a look at two fictional countries: Toylandia and Snackville. As the name indicates, Toylandia specializes in making toys and Snackville specializes in making snacks.",
+              "If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million. Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells."
+            ]
+          }
+        ]
+      }
+    ],
+    "paragraphs": [
+      "Every day, countries around the world trade things like food, toys, clothes, cars, and even technology. But how do we know if a country is winning or losing in trade? That’s where two important ideas come in: trade surplus and trade deficit. Let’s explore what they mean and why they matter!",
+      "Origin of the Words",
+      "The word “trade” comes from Middle Low German trāde or trade, meaning “path, course, or track,” and later came to mean process of buying and selling goods and services.",
+      "“Surplus” comes from the Latin word “superplus,” meaning “more than what is needed,” while “deficit” comes from the Latin “deficere,” meaning “to fail” or “to lack.”",
+      "What Is Trade?",
+      "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports).",
+      "Exports = things a country sells",
+      "Imports = things a country buys",
+      "A country keeps track of how much money it earns from exports and how much it spends on imports. Comparing these two numbers tells us whether the country has a trade surplus or a trade deficit.",
+      "What is Trade Surplus and Deficit?",
+      "A trade surplus happens when a country sells more goods and services to other countries than it buys from them. Imagine if you sold more of your cool craft projects than you bought from your friends; you’d have a surplus!",
+      "Conversely, a trade deficit occurs when a country buys more than it sells. A deficit isn’t always bad. Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.",
+      "Let’s take a look at two fictional countries: Toylandia and Snackville. As the name indicates, Toylandia specializes in making toys and Snackville specializes in making snacks.",
+      "If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million. Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells."
+    ]
+  },
+  "vocabularyInContext": {
+    "title": "Vocabulary in Context",
+    "instructions": "Study all 10 target vocabulary items from the article. Review each English definition, Korean meaning, exact source example, and student example.",
+    "items": [
+      {
+        "word": "trade",
+        "partOfSpeech": "verb / noun",
+        "korean": "무역하다, 교역하다 / 무역, 교역",
+        "definition": "The process of buying and selling goods and services between people or countries.",
+        "sourceExample": "Every day, countries around the world trade things like food, toys, clothes, cars, and even technology.",
+        "studentExample": "Countries trade food, clothes, and technology with one another every day.",
+        "sentence": "Every day, countries around the world trade things like food, toys, clothes, cars, and even technology. (Student example: Countries trade food, clothes, and technology with one another every day.)"
+      },
+      {
+        "word": "goods",
+        "partOfSpeech": "noun (plural)",
+        "korean": "상품, 물품, 재화",
+        "definition": "Physical things that people make, buy, or sell, such as food, toys, clothes, or cars.",
+        "sourceExample": "The word “trade” comes from Middle Low German trāde or trade, meaning “path, course, or track,” and later came to mean process of buying and selling goods and services.",
+        "studentExample": "Toys and snacks are examples of goods that two countries can buy and sell.",
+        "sentence": "The word “trade” comes from Middle Low German trāde or trade, meaning “path, course, or track,” and later came to mean process of buying and selling goods and services. (Student example: Toys and snacks are examples of goods that two countries can buy and sell.)"
+      },
+      {
+        "word": "services",
+        "partOfSpeech": "noun (plural)",
+        "korean": "서비스, 용역",
+        "definition": "Useful work or help that people or businesses provide and sell to others.",
+        "sourceExample": "A trade surplus happens when a country sells more goods and services to other countries than it buys from them.",
+        "studentExample": "Global trade includes both physical goods and helpful services.",
+        "sentence": "A trade surplus happens when a country sells more goods and services to other countries than it buys from them. (Student example: Global trade includes both physical goods and helpful services.)"
+      },
+      {
+        "word": "exports",
+        "partOfSpeech": "noun (plural)",
+        "korean": "수출품, 수출",
+        "definition": "Things a country sells and sends to another country.",
+        "sourceExample": "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports).",
+        "studentExample": "Toylandia earns money from its exports when it sells toys to Snackville.",
+        "sentence": "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports). (Student example: Toylandia earns money from its exports when it sells toys to Snackville.)"
+      },
+      {
+        "word": "imports",
+        "partOfSpeech": "noun (plural)",
+        "korean": "수입품, 수입",
+        "definition": "Things a country buys and brings in from another country.",
+        "sourceExample": "A country keeps track of how much money it earns from exports and how much it spends on imports.",
+        "studentExample": "Snackville spends $100 million on toy imports from Toylandia.",
+        "sentence": "A country keeps track of how much money it earns from exports and how much it spends on imports. (Student example: Snackville spends $100 million on toy imports from Toylandia.)"
+      },
+      {
+        "word": "surplus",
+        "partOfSpeech": "noun",
+        "korean": "흑자, 잉여 (필요 이상으로 남는 것)",
+        "definition": "An amount more than what is needed or spent; in trade, selling more to other countries than buying from them.",
+        "sourceExample": "“Surplus” comes from the Latin word “superplus,” meaning “more than what is needed,” while “deficit” comes from the Latin “deficere,” meaning “to fail” or “to lack.”",
+        "studentExample": "Because Toylandia sells $100 million and buys $70 million, it has a $30 million surplus.",
+        "sentence": "“Surplus” comes from the Latin word “superplus,” meaning “more than what is needed,” while “deficit” comes from the Latin “deficere,” meaning “to fail” or “to lack.” (Student example: Because Toylandia sells $100 million and buys $70 million, it has a $30 million surplus.)"
+      },
+      {
+        "word": "deficit",
+        "partOfSpeech": "noun",
+        "korean": "적자, 부족",
+        "definition": "A lack or shortfall; in trade, buying more from other countries than selling to them.",
+        "sourceExample": "Conversely, a trade deficit occurs when a country buys more than it sells.",
+        "studentExample": "A trade deficit is not always bad if people want the products they import.",
+        "sentence": "Conversely, a trade deficit occurs when a country buys more than it sells. (Student example: A trade deficit is not always bad if people want the products they import.)"
+      },
+      {
+        "word": "conversely",
+        "partOfSpeech": "adverb",
+        "korean": "반대로, 역으로",
+        "definition": "In the opposite way; used to introduce a contrasting situation.",
+        "sourceExample": "Conversely, a trade deficit occurs when a country buys more than it sells.",
+        "studentExample": "Toylandia has a trade surplus; conversely, Snackville has a trade deficit.",
+        "sentence": "Conversely, a trade deficit occurs when a country buys more than it sells. (Student example: Toylandia has a trade surplus; conversely, Snackville has a trade deficit.)"
+      },
+      {
+        "word": "specializes",
+        "partOfSpeech": "verb (3rd person singular)",
+        "korean": "전문화하다, 특화하다",
+        "definition": "Focuses mainly on making or doing one particular kind of product or activity.",
+        "sourceExample": "As the name indicates, Toylandia specializes in making toys and Snackville specializes in making snacks.",
+        "studentExample": "Because Snackville specializes in making snacks, it sells snacks worth $70 million to Toylandia.",
+        "sentence": "As the name indicates, Toylandia specializes in making toys and Snackville specializes in making snacks. (Student example: Because Snackville specializes in making snacks, it sells snacks worth $70 million to Toylandia.)"
+      },
+      {
+        "word": "at home",
+        "partOfSpeech": "prepositional phrase",
+        "korean": "자국 내에서, 국내에서",
+        "definition": "Inside one’s own country, rather than in foreign countries.",
+        "sourceExample": "Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.",
+        "studentExample": "When a country does not make enough of a product at home, it imports that product.",
+        "sentence": "Sometimes countries import things, because people want them or because they don’t make enough of certain products at home. (Student example: When a country does not make enough of a product at home, it imports that product.)"
+      }
+    ]
+  },
+  "mainIdeaQuestion": {
+    "title": "Main Idea Question",
+    "question": "Which statement best summarizes the main idea of the article?",
+    "options": [
+      "A trade deficit is always harmful for any country, so countries should stop buying imports from their trading partners.",
+      "By comparing how much money a country earns from exports and spends on imports, we can tell whether it has a trade surplus or a trade deficit, as shown by Toylandia and Snackville.",
+      "The Latin word \"superplus\" is the only reason countries trade food, toys, clothes, cars, and technology.",
+      "Toylandia and Snackville are real nations that compete to see which one can sell snacks worth $100 million."
+    ],
+    "correctIndex": 1,
+    "feedback": {
+      "correct": "Correct! Option B brings together exports vs. imports, comparing money earned and spent to identify a trade surplus or trade deficit, and the Toylandia–Snackville example.",
+      "incorrect": "Check all four parts of the article: the intro question, word origins, exports/imports comparison, and the fictional Toylandia–Snackville example."
+    },
+    "explanation": "Option A is incorrect (X): The article explicitly states, \"A deficit isn’t always bad,\" and explains that countries import things people want or do not make enough of at home.\nOption B is correct (O): It accurately summarizes the whole article—defining exports (sells) and imports (buys), comparing money earned vs. spent to tell surplus from deficit, and illustrating both with Toylandia and Snackville.\nOption C is incorrect (X): \"Origin of the Words\" explains where \"trade,\" \"surplus,\" and \"deficit\" come from, not why countries trade.\nOption D is incorrect (X): The article states Toylandia and Snackville are \"two fictional countries,\" and Toylandia sells toys worth $100 million while Snackville makes snacks."
+  },
+  "readingComprehension": {
+    "title": "Reading Comprehension",
+    "instructions": "Answer all 6 questions using only the information stated in the article.",
+    "questions": [
+      {
+        "id": "rc1",
+        "question": "According to the introduction, what kinds of things do countries trade every day, and what two ideas help us know if a country is winning or losing in trade?",
+        "options": [
+          "Countries trade only toys and snacks, and the two ideas are Middle Low German and Latin.",
+          "Countries trade things like food, toys, clothes, cars, and technology, and the two ideas are trade surplus and trade deficit.",
+          "Countries trade only money and craft projects, and the two ideas are exports and snacks.",
+          "Countries trade only services, and the two ideas are specialization and domestic growth."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "Introduction",
+        "explanation": "Option A is incorrect (X): Toys and snacks appear later in the fictional example, and Middle Low German/Latin are word origins.\nOption B is correct (O): The introduction states: \"Every day, countries around the world trade things like food, toys, clothes, cars, and even technology... That’s where two important ideas come in: trade surplus and trade deficit.\"\nOption C is incorrect (X): Craft projects appear later as a personal analogy, not as the intro list of traded items.\nOption D is incorrect (X): The intro lists physical goods like food, toys, clothes, cars, and technology, and names trade surplus and trade deficit."
+      },
+      {
+        "id": "rc2",
+        "question": "According to \"Origin of the Words,\" what do the historical roots of \"trade,\" \"surplus,\" and \"deficit\" mean?",
+        "options": [
+          "\"Trade\" comes from Middle Low German trāde or trade (\"path, course, or track\"), \"surplus\" from Latin \"superplus\" (\"more than what is needed\"), and \"deficit\" from Latin \"deficere\" (\"to fail\" or \"to lack\").",
+          "\"Trade\" comes from Latin \"deficere\" (\"to sell\"), while \"surplus\" and \"deficit\" both come from Middle Low German.",
+          "\"Trade\" means \"craft projects,\" \"surplus\" means \"exports,\" and \"deficit\" means \"snacks.\"",
+          "\"Trade\" comes from Latin \"superplus,\" meaning \"to lack,\" while \"deficit\" means \"more than what is needed.\""
+        ],
+        "correctIndex": 0,
+        "paragraphRef": "Origin of the Words",
+        "explanation": "Option A is correct (O): \"Origin of the Words\" matches every root and meaning verbatim: Middle Low German trāde/trade (\"path, course, or track\"), Latin \"superplus\" (\"more than what is needed\"), and Latin \"deficere\" (\"to fail\" or \"to lack\").\nOption B is incorrect (X): \"deficere\" is the Latin root of \"deficit,\" not \"trade.\"\nOption C is incorrect (X): These meanings are not from \"Origin of the Words.\"\nOption D is incorrect (X): This reverses the meanings of \"surplus\" and \"deficit\" and assigns the wrong origin to \"trade.\""
+      },
+      {
+        "id": "rc3",
+        "question": "In the section \"What Is Trade?\", how are exports and imports defined?",
+        "options": [
+          "Exports are things a country buys, and imports are things a country sells.",
+          "Exports are things a country sells, and imports are things a country buys.",
+          "Exports are products made at home that are never traded, and imports are services only.",
+          "Exports are always worth $100 million, and imports are always worth $70 million."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "What Is Trade?",
+        "explanation": "Option A is incorrect (X): This swaps the two definitions.\nOption B is correct (O): \"What Is Trade?\" states both in the paragraph and the two bullet points: \"Exports = things a country sells\" and \"Imports = things a country buys.\"\nOption C is incorrect (X): Exports are sold to another country, and neither term is limited to services.\nOption D is incorrect (X): $100 million and $70 million are specific numbers in the fictional Toylandia–Snackville example, not general definitions."
+      },
+      {
+        "id": "rc4",
+        "question": "According to \"What Is Trade?\", how does a country determine whether it has a trade surplus or a trade deficit?",
+        "options": [
+          "By counting how many kinds of food, cars, and toys it makes at home.",
+          "By checking the Latin origin of its economic terms.",
+          "By keeping track of how much money it earns from exports and how much it spends on imports, and comparing these two numbers.",
+          "By asking friends whether they want to buy cool craft projects."
+        ],
+        "correctIndex": 2,
+        "paragraphRef": "What Is Trade?",
+        "explanation": "Option A is incorrect (X): Counting product types does not determine surplus or deficit.\nOption B is incorrect (X): Word origins explain vocabulary history, not trade balance calculation.\nOption C is correct (O): \"What Is Trade?\" states verbatim: \"A country keeps track of how much money it earns from exports and how much it spends on imports. Comparing these two numbers tells us whether the country has a trade surplus or a trade deficit.\"\nOption D is incorrect (X): Craft projects are an analogy in the next section, not how a country measures trade."
+      },
+      {
+        "id": "rc5",
+        "question": "According to \"What is Trade Surplus and Deficit?\", when does a trade deficit occur, and why does the article say a deficit isn’t always bad?",
+        "options": [
+          "It occurs when a country sells more than it buys, and it isn’t bad because craft projects are fun.",
+          "It occurs when a country buys more than it sells, and it isn’t always bad because people may want imported things or the country may not make enough of certain products at home.",
+          "It occurs when a country stops all imports, and it isn’t bad because exports earn zero money.",
+          "It occurs only in fictional countries, and it isn’t bad because real countries never import food."
+        ],
+        "correctIndex": 1,
+        "paragraphRef": "What is Trade Surplus and Deficit?",
+        "explanation": "Option A is incorrect (X): Selling more than buying is a trade surplus, not a trade deficit.\nOption B is correct (O): The section states: \"Conversely, a trade deficit occurs when a country buys more than it sells. A deficit isn’t always bad. Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.\"\nOption C is incorrect (X): Stopping all imports would not cause a deficit.\nOption D is incorrect (X): Toylandia and Snackville are a fictional illustration of a general concept."
+      },
+      {
+        "id": "rc6",
+        "question": "In the fictional Toylandia and Snackville example, why does Toylandia have a trade surplus of $30 million while Snackville has a trade deficit of $30 million?",
+        "options": [
+          "Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, while Snackville buys more than it sells.",
+          "Toylandia sells snacks worth $70 million and buys toys worth $100 million from Snackville.",
+          "Both Toylandia and Snackville sell $100 million worth of goods to each other.",
+          "Toylandia has a deficit of $30 million because it specializes in making toys instead of snacks."
+        ],
+        "correctIndex": 0,
+        "paragraphRef": "What is Trade Surplus and Deficit? (Toylandia & Snackville)",
+        "explanation": "Option A is correct (O): The final paragraph states: \"If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million. Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells.\"\nOption B is incorrect (X): Toylandia specializes in toys ($100 million) and Snackville specializes in snacks ($70 million), not the reverse.\nOption C is incorrect (X): $100 million vs. $70 million leaves a $30 million difference, not equal sales.\nOption D is incorrect (X): Toylandia has a trade surplus of $30 million, while Snackville has the $30 million deficit."
+      }
+    ]
+  },
+  "evidenceFromText": {
+    "title": "Evidence from the Text",
+    "instructions": "Write 1–2 sentences for each prompt using direct quotes or close paraphrases from the article. Click \"Check & Compare\" to check your evidence.",
+    "prompts": [
+      {
+        "id": "ev1",
+        "statement": "Give evidence from \"What Is Trade?\" explaining what exports and imports are and how a country tracks them.",
+        "question": "Give evidence from \"What Is Trade?\" explaining what exports and imports are and how a country tracks them.",
+        "compareTips": [
+          "Did you state that exports are \"things a country sells\" and imports are \"things a country buys\"?",
+          "Did you include that a country \"keeps track of how much money it earns from exports and how much it spends on imports\" and compares those two numbers?"
+        ],
+        "compareTip": "Check that you included both definitions (exports = sells; imports = buys) and comparing money earned vs. spent.",
+        "modelAnswer": "According to \"What Is Trade?\", \"Exports = things a country sells\" and \"Imports = things a country buys.\" The article explains that a country \"keeps track of how much money it earns from exports and how much it spends on imports,\" and comparing these two numbers tells whether it has a trade surplus or a trade deficit."
+      },
+      {
+        "id": "ev2",
+        "statement": "Give evidence from the article explaining the difference between a trade surplus and a trade deficit, including why a deficit is not always bad.",
+        "question": "Give evidence from the article explaining the difference between a trade surplus and a trade deficit, including why a deficit is not always bad.",
+        "compareTips": [
+          "Did you explain that a trade surplus happens when a country \"sells more goods and services to other countries than it buys from them,\" whereas a trade deficit occurs when it \"buys more than it sells\"?",
+          "Did you include that \"A deficit isn’t always bad\" because people want imported things or countries \"don’t make enough of certain products at home\"?"
+        ],
+        "compareTip": "Make sure your evidence contrasts surplus (sells more than buys) with deficit (buys more than sells) and cites the two reasons a deficit isn’t always bad.",
+        "modelAnswer": "The article explains that a trade surplus happens when a country \"sells more goods and services to other countries than it buys from them,\" while \"a trade deficit occurs when a country buys more than it sells.\" It adds that \"A deficit isn’t always bad\" because countries sometimes import things \"because people want them or because they don’t make enough of certain products at home.\""
+      },
+      {
+        "id": "ev3",
+        "statement": "Cite the Toylandia and Snackville example with the exact dollar amounts ($100 million, $70 million, $30 million) to show surplus and deficit.",
+        "question": "Cite the Toylandia and Snackville example with the exact dollar amounts ($100 million, $70 million, $30 million) to show surplus and deficit.",
+        "compareTips": [
+          "Did you note that Toylandia and Snackville are fictional countries specializing in toys and snacks?",
+          "Did you cite all three amounts accurately ($100 million in toys sold, $70 million in snacks bought, and a $30 million surplus for Toylandia / $30 million deficit for Snackville)?"
+        ],
+        "compareTip": "Verify that Toylandia and Snackville are identified as fictional and that $100 million, $70 million, and $30 million are attached to the right country.",
+        "modelAnswer": "In the article’s fictional example, \"Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million,\" giving Toylandia \"a trade surplus of $30 million.\" \"Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells.\""
+      }
+    ]
+  },
+  "languageFocus": {
+    "title": "Language Focus",
+    "topic": "Comparison, Contrast, Cause/Effect, Parentheses, Quantifiers & Economic Vocabulary",
+    "instructions": "Study these 6 key grammar and language patterns from the article before completing Writing Practice and the Writing Task.",
+    "patterns": [
+      {
+        "name": "1. Comparison (more ... than)",
+        "explanation": "Use \"more + noun/noun phrase + than\" or \"more than\" to compare how much a country sells and buys when identifying a surplus or deficit.",
+        "example": "A country has a trade surplus when it sells more goods and services than it buys.",
+        "sourceExample": "A trade surplus happens when a country sells more goods and services to other countries than it buys from them."
+      },
+      {
+        "name": "2. Contrast (Conversely, while, on the other hand, but)",
+        "explanation": "Use contrast words to show opposite sides of trade: \"Conversely,\" starts a contrasting sentence, \"while\" joins contrasting clauses, and \"on the other hand\" highlights the partner country’s opposite balance.",
+        "example": "Toylandia has a $30 million trade surplus; conversely, Snackville has a $30 million trade deficit.",
+        "sourceExample": "Conversely, a trade deficit occurs when a country buys more than it sells. / Snackville, on the other hand, has a trade deficit of $30 million..."
+      },
+      {
+        "name": "3. Cause and Effect (because, happens when, occurs when, tells us whether)",
+        "explanation": "Use \"because\" to give reasons why countries import or why a deficit occurs, and use \"happens when\" / \"occurs when\" to explain what creates a surplus or deficit.",
+        "example": "Snackville has a trade deficit because it buys more than it sells.",
+        "sourceExample": "Sometimes countries import things, because people want them or because they don’t make enough of certain products at home. / ...because it buys more than it sells."
+      },
+      {
+        "name": "4. Parentheses for Definitions ((called exports), (called imports))",
+        "explanation": "Parentheses smoothly insert a short technical term right after its everyday explanation so readers learn economic terms in context.",
+        "example": "When a country sells products abroad (called exports), it earns money from trade.",
+        "sourceExample": "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports)."
+      },
+      {
+        "name": "5. Quantifiers & Exact Dollar Amounts (more, only, enough, $100M / $70M / $30M)",
+        "explanation": "Quantifiers like \"more,\" \"only,\" and \"enough\" show relative size, while exact dollar figures (\"$100 million,\" \"$70 million,\" \"$30 million\") prove the arithmetic difference ($100M − $70M = $30M).",
+        "example": "Toylandia earns $100 million from exports and spends only $70 million on imports, creating a $30 million surplus.",
+        "sourceExample": "If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million."
+      },
+      {
+        "name": "6. Economic Vocabulary & Source Attribution",
+        "explanation": "Use accurate lesson terms (trade, goods, services, exports, imports, surplus, deficit, specializes, at home) and attribute facts with \"According to the article,\" while keeping Toylandia and Snackville fictional.",
+        "example": "According to the article, countries compare money earned from exports and spent on imports to find a surplus or deficit.",
+        "sourceExample": "Let’s take a look at two fictional countries: Toylandia and Snackville."
+      }
+    ]
+  },
+  "writingPractice": {
+    "title": "Writing Practice",
+    "instructions": "Complete all 4 writing items below using complete sentences and information strictly from the article. Click \"Check & Compare\" after each item.",
+    "prompts": [
+      {
+        "id": "wp1",
+        "question": "Definition (exports & imports): Write 1–2 sentences defining exports and imports, using parentheses like \"(called exports)\" and \"(called imports)\" or clear definition verbs.",
+        "placeholder": "Define exports and imports using details from \"What Is Trade?\"...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "and",
+          "while"
+        ],
+        "targetVocabulary": [
+          "trade",
+          "exports",
+          "imports",
+          "goods",
+          "services"
+        ],
+        "compareTips": [
+          "Did you clearly state that exports are things a country sells and imports are things a country buys?",
+          "Did you use parentheses or clear parallel definitions accurately?"
+        ],
+        "compareTip": "Check that exports = sells to another country and imports = buys from another country.",
+        "modelAnswer": "Trade happens when a country sells goods and services to another country (called exports) and buys things from another country (called imports)."
+      },
+      {
+        "id": "wp2",
+        "question": "Comparison (more ... than & money numbers): Write 1–2 sentences explaining how a country compares export earnings and import spending to identify a trade surplus.",
+        "placeholder": "Explain the money comparison and use \"more ... than\"...",
+        "targetWords": 12,
+        "targetConnectors": [
+          "when",
+          "and"
+        ],
+        "targetVocabulary": [
+          "exports",
+          "imports",
+          "surplus",
+          "goods",
+          "services"
+        ],
+        "compareTips": [
+          "Did you mention tracking money earned from exports and money spent on imports?",
+          "Did you use \"more ... than\" to define a trade surplus?"
+        ],
+        "compareTip": "Verify that you compared money earned from exports with money spent on imports using \"more ... than.\"",
+        "modelAnswer": "By comparing how much money it earns from exports and spends on imports, a country sees it has a trade surplus when it sells more goods and services than it buys."
+      },
+      {
+        "id": "wp3",
+        "question": "Contrast & Cause/Effect (while / conversely / because): Write 1–2 sentences contrasting a trade surplus and a trade deficit, and explain why a deficit is not always bad.",
+        "placeholder": "Contrast surplus and deficit, then add a reason with \"because\"...",
+        "targetWords": 14,
+        "targetConnectors": [
+          "conversely",
+          "while",
+          "because",
+          "but"
+        ],
+        "targetVocabulary": [
+          "surplus",
+          "deficit",
+          "conversely",
+          "imports",
+          "at home"
+        ],
+        "compareTips": [
+          "Did you use a contrast word (\"while,\" \"conversely,\" or \"on the other hand\")?",
+          "Did you explain with \"because\" that a deficit isn’t always bad when people want imports or a country doesn’t make enough products at home?"
+        ],
+        "compareTip": "Check both parts: contrasting surplus vs. deficit, and giving the article’s \"because\" reasons why a deficit isn’t always bad.",
+        "modelAnswer": "A trade surplus means selling more than buying; conversely, a trade deficit occurs when a country buys more than it sells, which isn’t always bad because people want certain products or don’t make enough at home."
+      },
+      {
+        "id": "wp4",
+        "question": "Fictional Example ($100M / $70M / $30M): Write 1–2 sentences explaining the Toylandia and Snackville trade balance using exact dollar amounts and \"while\" or \"on the other hand.\"",
+        "placeholder": "Explain Toylandia ($100M) and Snackville ($70M) and the $30M balance...",
+        "targetWords": 14,
+        "targetConnectors": [
+          "while",
+          "on the other hand",
+          "because",
+          "but"
+        ],
+        "targetVocabulary": [
+          "specializes",
+          "surplus",
+          "deficit",
+          "exports",
+          "imports"
+        ],
+        "compareTips": [
+          "Did you note that Toylandia and Snackville are fictional countries?",
+          "Did you state $100 million, $70 million, and $30 million accurately for Toylandia (surplus) and Snackville (deficit)?"
+        ],
+        "compareTip": "Double-check the math and roles: Toylandia sells $100 million and buys $70 million ($30 million surplus); Snackville has a $30 million deficit because it buys more than it sells.",
+        "modelAnswer": "In the fictional example, Toylandia sells $100 million in toys to Snackville but buys only $70 million in snacks, giving Toylandia a $30 million trade surplus, while Snackville has a $30 million trade deficit because it buys more than it sells."
+      }
+    ]
+  },
+  "writingTask": {
+    "title": "Writing Task",
+    "prompt": "According to the article, what are imports and exports, and how do countries know whether they have a trade surplus or deficit?",
+    "wordTarget": {
+      "min": 100,
+      "max": 140
+    },
+    "checklist": [
+      "Start with clear source attribution (\"According to the article,\").",
+      "Define both exports (things a country sells) and imports (things a country buys).",
+      "Include at least 3 specific details from the article (e.g., comparing money earned from exports and spent on imports, surplus vs. deficit definitions, why a deficit isn’t always bad).",
+      "Use comparison (\"more ... than\"), contrast (\"while,\" \"conversely,\" or \"on the other hand\"), and cause/effect (\"because,\" \"therefore\").",
+      "Include the fictional Toylandia and Snackville example with exact amounts ($100 million, $70 million, $30 million) without outside macroeconomic claims.",
+      "Write 100–140 words and click \"Check & Compare\" before submitting."
+    ],
+    "targetVocabulary": [
+      "trade",
+      "goods",
+      "services",
+      "exports",
+      "imports",
+      "surplus",
+      "deficit",
+      "conversely",
+      "specializes",
+      "at home"
+    ],
+    "targetConnectors": [
+      "while",
+      "conversely",
+      "on the other hand",
+      "because",
+      "therefore",
+      "but",
+      "if",
+      "for example"
+    ],
+    "compareGuide": "Check that your paragraph answers the exact prompt (\"According to the article, what are imports and exports, and how do countries know whether they have a trade surplus or deficit?\"), includes attribution, 3+ details, comparison, cause/effect, the Toylandia–Snackville $100M/$70M/$30M example, and stays within 100–140 words.",
+    "revisionTips": [
+      "Open with \"According to the article,\" and define both exports and imports accurately.",
+      "Check your comparison and contrast: use \"more ... than\" for surplus/deficit and \"while\" or \"conversely\" to separate the two.",
+      "Verify exact dollar amounts in the fictional example: $100 million toys sold, $70 million snacks bought, $30 million surplus for Toylandia, and $30 million deficit for Snackville.",
+      "Stay strictly within the article—do not add outside economics concepts or real-world countries—and keep your word count between 100 and 140 words."
+    ],
+    "modelAnswer": "According to the article, exports are things a country sells to other countries, while imports are things a country buys from them. Countries keep track of how much money they earn from exports and spend on imports, and comparing these two numbers shows whether they have a trade surplus or a trade deficit. A trade surplus happens when a country sells more goods and services than it buys. Conversely, a trade deficit occurs when a country buys more than it sells, often because people want certain products or do not make enough at home. For example, fictional Toylandia sells $100 million in toys to Snackville but buys only $70 million in snacks; therefore, Toylandia has a $30 million surplus, while Snackville has a $30 million deficit."
+  },
+  "selfCheck": {
+    "title": "Self-Check",
+    "instructions": "Review your work and check all 6 boxes before submitting your lesson.",
+    "items": [
+      "Attribution & Definitions: I started with \"According to the article,\" and clearly defined exports and imports.",
+      "Money Comparison: I explained how countries track money earned from exports and spent on imports to find a surplus or deficit.",
+      "Surplus vs. Deficit & Nuance: I explained that surplus means selling more than buying, deficit means buying more than selling, and a deficit isn’t always bad.",
+      "Toylandia & Snackville Example: I accurately included the fictional $100 million, $70 million, and $30 million amounts without inventing outside macroeconomics.",
+      "Target Language: I used comparison (\"more ... than\"), contrast (\"while\" / \"conversely\"), and cause/effect (\"because\" / \"therefore\").",
+      "Word Count & Check: My Writing Task is 100–140 words and I tested it with \"Check & Compare.\""
+    ]
+  },
+  "teacher": {
+    "answerKey": {
+      "mainIdea": {
+        "correctIndex": 1,
+        "rationale": "Option B accurately synthesizes the entire article: defining exports and imports, comparing money earned from exports and spent on imports to identify a trade surplus or trade deficit, and illustrating the idea with the fictional Toylandia–Snackville example."
+      },
+      "readingComprehension": {
+        "rc1": {
+          "correctIndex": 1,
+          "rationale": "The Introduction states that countries trade things like food, toys, clothes, cars, and technology, and introduces trade surplus and trade deficit to answer how we know if a country is winning or losing in trade."
+        },
+        "rc2": {
+          "correctIndex": 0,
+          "rationale": "\"Origin of the Words\" states verbatim: \"trade\" from Middle Low German trāde or trade (\"path, course, or track\"), \"surplus\" from Latin \"superplus\" (\"more than what is needed\"), and \"deficit\" from Latin \"deficere\" (\"to fail\" or \"to lack\")."
+        },
+        "rc3": {
+          "correctIndex": 1,
+          "rationale": "\"What Is Trade?\" states both in prose and bullets: \"Exports = things a country sells\" and \"Imports = things a country buys.\""
+        },
+        "rc4": {
+          "correctIndex": 2,
+          "rationale": "\"What Is Trade?\" explains that a country keeps track of how much money it earns from exports and how much it spends on imports, and comparing these two numbers tells whether it has a trade surplus or a trade deficit."
+        },
+        "rc5": {
+          "correctIndex": 1,
+          "rationale": "\"What is Trade Surplus and Deficit?\" defines a deficit as buying more than selling and notes: \"A deficit isn’t always bad. Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.\""
+        },
+        "rc6": {
+          "correctIndex": 0,
+          "rationale": "The final paragraph states: \"If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million. Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells.\""
+        }
+      },
+      "evidenceFromText": {
+        "ev1": "According to \"What Is Trade?\", \"Exports = things a country sells\" and \"Imports = things a country buys.\" The article explains that a country \"keeps track of how much money it earns from exports and how much it spends on imports,\" and comparing these two numbers tells whether it has a trade surplus or a trade deficit.",
+        "ev2": "The article explains that a trade surplus happens when a country \"sells more goods and services to other countries than it buys from them,\" while \"a trade deficit occurs when a country buys more than it sells.\" It adds that \"A deficit isn’t always bad\" because countries sometimes import things \"because people want them or because they don’t make enough of certain products at home.\"",
+        "ev3": "In the article’s fictional example, \"Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million,\" giving Toylandia \"a trade surplus of $30 million.\" \"Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells.\""
+      },
+      "languageFocus": [
+        "Comparison (more ... than): \"sells more goods and services to other countries than it buys from them\"; \"sold more of your cool craft projects than you bought\".",
+        "Contrast (Conversely, while, on the other hand, but): \"while ‘deficit’ comes from...\"; \"Conversely, a trade deficit occurs...\"; \"Snackville, on the other hand, has a trade deficit...\"; \"sells toys worth $100 million... but only buys snacks worth $70 million\".",
+        "Cause/effect (because, happens when, occurs when): \"because people want them or because they don’t make enough of certain products at home\"; \"because it buys more than it sells\".",
+        "Parentheses: \"(called exports)\", \"(called imports)\".",
+        "Quantifiers & exact amounts: \"more,\" \"only,\" \"enough,\" \"$100 million,\" \"$70 million,\" \"$30 million.\"",
+        "Economic vocabulary & attribution: trade, goods, services, exports, imports, surplus, deficit, conversely, specializes, at home; \"According to the article,\"."
+      ],
+      "writingPractice": {
+        "wp1": "Trade happens when a country sells goods and services to another country (called exports) and buys things from another country (called imports).",
+        "wp2": "By comparing how much money it earns from exports and spends on imports, a country sees it has a trade surplus when it sells more goods and services than it buys.",
+        "wp3": "A trade surplus means selling more than buying; conversely, a trade deficit occurs when a country buys more than it sells, which isn’t always bad because people want certain products or don’t make enough at home.",
+        "wp4": "In the fictional example, Toylandia sells $100 million in toys to Snackville but buys only $70 million in snacks, giving Toylandia a $30 million trade surplus, while Snackville has a $30 million trade deficit because it buys more than it sells."
+      },
+      "writingTask": "Must be 100–140 words answering \"According to the article, what are imports and exports, and how do countries know whether they have a trade surplus or deficit?\" with attribution, 3+ details, comparison, cause/effect, the fictional Toylandia–Snackville example ($100M/$70M/$30M), and zero outside macroeconomics."
+    },
+    "modelAnswer": "According to the article, exports are things a country sells to other countries, while imports are things a country buys from them. Countries keep track of how much money they earn from exports and spend on imports, and comparing these two numbers shows whether they have a trade surplus or a trade deficit. A trade surplus happens when a country sells more goods and services than it buys. Conversely, a trade deficit occurs when a country buys more than it sells, often because people want certain products or do not make enough at home. For example, fictional Toylandia sells $100 million in toys to Snackville but buys only $70 million in snacks; therefore, Toylandia has a $30 million surplus, while Snackville has a $30 million deficit.",
+    "rubric": [
+      {
+        "criterion": "Content & Ideas",
+        "description": "Accurately defines imports and exports and explains how countries compare money earned vs. spent to tell surplus from deficit, noting a deficit is not always bad.",
+        "excellent": "Fully answers both parts of the prompt: clearly defines exports and imports, explains comparing export earnings vs. import spending, contrasts surplus and deficit (including why a deficit isn’t always bad), and illustrates with Toylandia and Snackville.",
+        "developing": "Defines imports/exports or surplus/deficit, but leaves out the money comparison, why a deficit isn’t always bad, or part of the Toylandia–Snackville logic.",
+        "beginning": "Confuses imports with exports or surplus with deficit, or relies on outside macroeconomic opinions rather than the article."
+      },
+      {
+        "criterion": "Evidence Use",
+        "description": "Integrates at least 3 accurate article details with clear source attribution and exact fictional example figures without outside economics.",
+        "excellent": "Opens with clear attribution (\"According to the article,\") and accurately integrates 3+ details (exports/imports definitions, money comparison, surplus/deficit nuance, and fictional Toylandia $100M / Snackville $70M / $30M balance) with zero outside claims.",
+        "developing": "Includes 1–2 details or partial numbers, or has weak source attribution.",
+        "beginning": "Lacks source attribution or brings in outside facts (such as tariffs, GDP, real countries, or policy judgments) not in the text."
+      },
+      {
+        "criterion": "Target Language/Structure",
+        "description": "Uses comparison (\"more ... than\"), contrast (\"while,\" \"conversely,\" \"on the other hand\"), cause/effect (\"because,\" \"therefore\"), and lesson vocabulary.",
+        "excellent": "Accurately applies comparison (\"more ... than\"), contrast (\"while,\" \"conversely,\" \"on the other hand\"), cause/effect (\"because,\" \"therefore\"), and economic vocabulary (trade, goods, services, exports, imports, surplus, deficit).",
+        "developing": "Uses some target vocabulary or connectors, but repeats basic clauses or omits comparison or contrast.",
+        "beginning": "Shows minimal use of target structures or makes frequent errors with comparison (\"more ... than\") or cause/effect clauses."
+      },
+      {
+        "criterion": "Organization",
+        "description": "Follows a logical sequence from definitions and comparison to surplus/deficit contrast and the Toylandia–Snackville example.",
+        "excellent": "Clear attributed opening defining exports and imports, smooth progression through money comparison and surplus vs. deficit, and a cohesive concluding Toylandia–Snackville example.",
+        "developing": "Understandable order overall, though transitions between definitions, comparison, and the example feel abrupt.",
+        "beginning": "Ideas appear out of order or lack a clear topic sentence and closing example."
+      },
+      {
+        "criterion": "Accuracy",
+        "description": "Grammar, spelling, capitalization (Toylandia, Snackville), exact dollar amounts ($100 million, $70 million, $30 million), punctuation, and 100–140 word count.",
+        "excellent": "Strictly 100–140 words; accurate verb agreement (\"specializes,\" \"occurs\"), capitalization, dollar formatting, and punctuation.",
+        "developing": "Minor grammar, capitalization, or punctuation slips that do not block meaning, or slightly outside 100–140 words.",
+        "beginning": "Frequent grammar or number/dollar errors that confuse meaning, or far outside the 100–140 word range."
+      }
+    ],
+    "teacherNotes": [
+      {
+        "topic": "1. Lesson Flow: Origins → Trade → Imports/Exports → Comparison → Surplus/Deficit → Fictional Amounts",
+        "note": "Follow the canonical sequence strictly: begin with the everyday trade hook in the intro, check word origins (Middle Low German trāde/trade; Latin superplus and deficere), define trade via exports and imports, show how comparing money earned vs. spent determines the balance, contrast trade surplus vs. trade deficit, and conclude with Toylandia ($100M) and Snackville ($70M)."
+      },
+      {
+        "topic": "2. Deficit Is Not Always Bad Here",
+        "note": "Emphasize the article’s balanced statement: \"A deficit isn’t always bad.\" Guide students to cite the exact two reasons given in the text: people want imported things, or countries do not make enough of certain products at home."
+      },
+      {
+        "topic": "3. Keep Toylandia & Snackville Fictional — No Macro Judgment",
+        "note": "Treat Toylandia and Snackville strictly as fictional teaching countries illustrating $100 million − $70 million = $30 million. Do not introduce outside macroeconomic topics (exchange rates, tariffs, GDP, debt, real-world country balances, or normative winners/losers judgments beyond the text)."
+      },
+      {
+        "topic": "4. Two Ordered Source Images & Exact Text Preservation",
+        "note": "Any diagrams or maps in the two teacher-provided classroom source images are visual context only; never reconstruct visual-only labels as canonical prose. Preserve exact diacritic \"trāde\", curly quotes/apostrophes (\"That’s\", \"isn’t\", \"don’t\", \"you’d\", \"Let’s\"), lowercase \"is\" in \"What is Trade Surplus and Deficit?\", and exact dollar figures ($100 million, $70 million, $30 million)."
+      }
+    ],
+    "teachingScript": [
+      {
+        "phase": 1,
+        "phaseName": "Opening & Source Framing",
+        "duration": "5 minutes",
+        "objective": "Introduce the Unit 3 global-trade topic, exact title, and source-only evidence rule.",
+        "teacherActions": "Greet students, display the exact title and outside source attribution, and explain that diagrams/maps in classroom images are visual context only while answers must come from the canonical text.",
+        "scriptEn": "Good morning, everyone! / Today we begin a Unit 3 economics reading: / \"Trade Surplus & Deficit: / Understanding How Countries Buy and Sell.\" / Notice the two words / \"surplus\" and \"deficit.\" / As we read the two source pages, / remember our key rule: / diagrams and maps are visual context only, / and every answer must come / directly from the wording in the article.",
+        "scriptKo": "안녕하세요 여러분! 오늘은 Unit 3 경제 읽기 지문 \"Trade Surplus & Deficit: Understanding How Countries Buy and Sell\"을 함께 읽습니다. \"surplus(흑자)\"와 \"deficit(적자)\"라는 두 단어에 주목하세요. 두 페이지의 자료를 읽을 때 꼭 기억할 규칙이 있습니다. 도표나 지도는 시각적 이해를 돕는 용도이며, 모든 답은 반드시 본문의 정확한 문장에서 찾아야 합니다.",
+        "studentActions": "Students read the title, Unit 3 goal, and outside attribution (G1: identify the key words \"buy,\" \"sell,\" \"surplus,\" and \"deficit\"; G2: predict what \"winning or losing in trade\" might refer to).",
+        "misconception": "Assuming \"winning or losing in trade\" means a real-world trade war or bringing in outside economic terms like tariffs or GDP.",
+        "correctiveFeedback": "Clarify that the article answers this simply by comparing exports and imports and keeping the Toylandia–Snackville example purely fictional (G1: point to \"buy and sell\" in the title; G2: note we stay inside the text without outside macroeconomics).",
+        "transition": "Before reading, let us activate our everyday ideas with three warm-up questions."
+      },
+      {
+        "phase": 2,
+        "phaseName": "Warm-up Discussion",
+        "duration": "10 minutes",
+        "objective": "Activate everyday ideas about buying/selling, exports/imports, and selling more than buying.",
+        "teacherActions": "Guide pairs through Warm-up Q1–Q3 using sentence starters and elicit brief oral and written responses.",
+        "scriptEn": "Let us look at Warm-up Question 1: / What everyday things do countries buy and sell? / Next, Question 2: / How is selling to another country / different from buying from another country? / Finally, Question 3: / If you sold more craft projects / than you bought from friends, / would you have extra money or less money?",
+        "scriptKo": "워밍업 1번 질문을 봅시다. 나라들은 일상에서 어떤 물건들을 사고파나요? 2번은 다른 나라에 파는 것과 사오는 것의 차이입니다. 3번은 친구들에게서 산 것보다 공예품을 더 많이 팔았을 때 돈이 남는지 생각해 보는 질문입니다.",
+        "studentActions": "Students discuss in pairs and write 1–2 sentences per question (G1: complete the provided starters; G2: give a concrete example of buying vs. selling and explain why extra money remains).",
+        "misconception": "Confusing \"import\" (buying in) with \"export\" (selling out) or saying buying more leaves extra money.",
+        "correctiveFeedback": "Use the prefix clue: ex- = out (sell out), im- = in (buy in), and remind students that selling more brings more money in than goes out (G1: match \"export = sell\", \"import = buy\"; G2: explain the direction of goods and money).",
+        "transition": "Now let us read the exact article across both source pages in order."
+      },
+      {
+        "phase": 3,
+        "phaseName": "Close Reading & Visual Separation",
+        "duration": "12 minutes",
+        "objective": "Read the intro, 3 section headings, 2 bullets, and all 18 sentences in order while separating visual diagrams/maps from text.",
+        "teacherActions": "Read Image 1 and Image 2 aloud with slash pauses; check the flow from origins → trade → imports/exports → comparison → surplus/deficit → Toylandia/Snackville ($100M/$70M/$30M).",
+        "scriptEn": "Follow the article step by step. / First, the introduction asks / how we know if a country is winning or losing. / Next, \"Origin of the Words\" explains / trāde, superplus, and deficere. / Then \"What Is Trade?\" defines exports and imports / and compares money earned and spent. / Finally, \"What is Trade Surplus and Deficit?\" / explains both terms, / notes a deficit isn’t always bad, / and tests Toylandia and Snackville.",
+        "scriptKo": "글의 흐름을 차례대로 따라가 봅시다. 먼저 도입부는 한 나라가 무역에서 이기고 있는지 지고 있는지 어떻게 알 수 있는지 묻습니다. 다음 \"Origin of the Words\"는 trāde, superplus, deficere의 어원을 설명하고, \"What Is Trade?\"는 수출과 수입을 정의한 뒤 번 돈과 쓴 돈을 비교합니다. 마지막 \"What is Trade Surplus and Deficit?\"에서는 두 개념과 적자가 항상 나쁜 것은 아닌 이유, 그리고 Toylandia와 Snackville 예시를 살펴봅니다.",
+        "studentActions": "Students track headings, underline \"(called exports)\" and \"(called imports)\", and verify the $100M − $70M = $30M subtraction (G1: highlight Exports = sells, Imports = buys, and the three dollar numbers; G2: trace the transition from word origins to the fictional numbers).",
+        "misconception": "Treating Toylandia and Snackville as real countries or judging a trade deficit as automatically bad.",
+        "correctiveFeedback": "Point directly to \"two fictional countries\" and \"A deficit isn’t always bad\" (G1: circle \"fictional\" and \"isn’t always bad\"; G2: list the two \"because\" reasons given in the text).",
+        "transition": "Now let us study all 10 target vocabulary items from the reading."
+      },
+      {
+        "phase": 4,
+        "phaseName": "Vocabulary in Context",
+        "duration": "10 minutes",
+        "objective": "Master all 10 exact vocabulary items with definitions, Korean meanings, source quotes, and student examples.",
+        "teacherActions": "Review pronunciation, word forms, and context for trade, goods, services, exports, imports, surplus, deficit, conversely, specializes, and at home.",
+        "scriptEn": "Check our ten vocabulary cards. / Group \"trade,\" \"goods,\" and \"services\" first: / trade means buying and selling goods and services. / Next, pair \"exports\" and \"imports,\" / then \"surplus\" and \"deficit.\" / Notice \"conversely\" signals the opposite case, / \"specializes\" means focusing on one product, / and \"at home\" means inside one’s own country.",
+        "scriptKo": "10개의 어휘 카드를 살펴봅시다. 먼저 \"trade\", \"goods\", \"services\"를 묶어 보세요. 무역은 재화와 서비스를 사고파는 것입니다. 다음으로 \"exports\"와 \"imports\", \"surplus\"와 \"deficit\"를 짝지어 봅시다. \"conversely\"는 반대 상황을 연결하고, \"specializes\"는 특정 제품에 집중하는 것, \"at home\"은 자국 내에서를 뜻합니다.",
+        "studentActions": "Students compare each source example with its student example and practice saying \"conversely\" and \"specializes\" (G1: match Korean glosses to the 10 terms; G2: use two paired terms like exports/imports or surplus/deficit in one sentence).",
+        "misconception": "Thinking \"at home\" means inside a student’s house rather than inside one’s own country.",
+        "correctiveFeedback": "Explain that in economics texts like this one, \"at home\" means domestically inside the country (G1: note Korean \"자국 내에서\"; G2: contrast \"at home\" with \"other countries\").",
+        "transition": "Now let us check comprehension and text evidence."
+      },
+      {
+        "phase": 5,
+        "phaseName": "Main Idea, Comprehension & Evidence",
+        "duration": "18 minutes",
+        "objective": "Complete 1 Main Idea MCQ, 6 Comprehension MCQs, and 3 Evidence prompts with Check & Compare.",
+        "teacherActions": "Have students complete Main Idea and rc1–rc6 individually, verify references, and then draft ev1–ev3 and run Check & Compare.",
+        "scriptEn": "Answer the Main Idea question / and all six Comprehension questions / using only the article. / Check each section carefully: / Introduction, Origin of the Words, / What Is Trade?, and Toylandia and Snackville. / Then write Evidence 1, 2, and 3 / and click Check & Compare / to review your quotes and model answers.",
+        "scriptKo": "오직 본문 내용만 사용해 Main Idea 1문제와 Comprehension 6문제를 풀어 보세요. 도입부, 어원, 무역의 의미, 그리고 Toylandia와 Snackville 예시를 각각 대조하세요. 그런 뒤 Evidence 1~3을 쓰고 Check & Compare를 눌러 근거와 모범 답안을 비교하세요.",
+        "studentActions": "Students complete the 7 MCQs, write ev1–ev3 using direct quotes/paraphrases, and check rule-based feedback (G1: copy exact definitions and numbers from the text; G2: combine quotes smoothly with attribution).",
+        "misconception": "Reversing Toylandia ($100M sold, $70M bought → $30M surplus) and Snackville ($30M deficit) in rc6 or ev3.",
+        "correctiveFeedback": "Have students write a quick T-chart: Toylandia (+$100M exports, −$70M imports = +$30M surplus) vs. Snackville (+$70M exports, −$100M imports = −$30M deficit) (G1: check who sells toys; G2: explain why Snackville’s deficit matches Toylandia’s surplus).",
+        "transition": "With the evidence clear, let us examine our Language Focus structures and complete Writing Practice."
+      },
+      {
+        "phase": 6,
+        "phaseName": "Language Focus & Writing Practice",
+        "duration": "12 minutes",
+        "objective": "Practice comparison, contrast, cause/effect, parentheses, quantifiers, and economic vocabulary in wp1–wp4.",
+        "teacherActions": "Model the 6 Language Focus patterns, highlight \"more ... than,\" parentheses, and \"because,\" and monitor students as they complete wp1–wp4.",
+        "scriptEn": "Review our six Language Focus tools: / comparison with \"more ... than,\" / contrast with \"conversely,\" \"while,\" and \"on the other hand,\" / cause and effect with \"because,\" / parentheses for definitions, / quantifiers and exact dollar numbers, / and economic vocabulary. / Complete Practice items 1 to 4 / and click Check & Compare after each.",
+        "scriptKo": "6가지 Language Focus 표현을 확인합니다. \"more ... than\"을 쓴 비교, \"conversely\", \"while\", \"on the other hand\"를 쓴 대조, \"because\"를 쓴 인과, 정의를 넣는 괄호, 수량사와 정확한 달러 수치, 그리고 경제 어휘입니다. Writing Practice 1~4번을 작성하고 각각 Check & Compare로 점검하세요.",
+        "studentActions": "Students write wp1–wp4 and inspect rule-based checks for completeness, target vocabulary, and connectors (G1: adapt Language Focus frames; G2: combine contrast and cause/effect in wp3 and wp4).",
+        "misconception": "Writing \"more goods than it buy\" (missing -s on singular verb \"buys\") or placing \"while\" without two complete clauses.",
+        "correctiveFeedback": "Check third-person singular \"-s\" (\"a country sells ... buys\", \"occurs\", \"specializes\") and verify both clauses around \"while\" (G1: circle subject \"a country\" + \"-s\"; G2: combine \"while\" and \"because\" cleanly).",
+        "transition": "Now you are ready for the 100–140 word Writing Task."
+      },
+      {
+        "phase": 7,
+        "phaseName": "Writing Task & Check/Compare",
+        "duration": "18 minutes",
+        "objective": "Write, check, and revise a 100–140 word explanation paragraph answering the exact prompt.",
+        "teacherActions": "Review the exact prompt, checklist, Final Writing Support outline, and 100–140 word range; guide students through Check & Compare and revision.",
+        "scriptEn": "Read the exact Writing Task prompt: / \"According to the article, / what are imports and exports, / and how do countries know / whether they have a trade surplus or deficit?\" / Write 100 to 140 words. / Include attribution, / three or more article details, / comparison and cause/effect, / and the Toylandia and Snackville example. / Click Check & Compare, / review the hidden model, / and revise carefully.",
+        "scriptKo": "Writing Task 질문을 정확히 읽어 봅시다. \"According to the article, what are imports and exports, and how do countries know whether they have a trade surplus or deficit?\"에 대해 100~140단어로 작성하세요. 출처 표기, 3가지 이상의 본문 세부 정보, 비교와 인과 표현, 그리고 Toylandia와 Snackville 예시를 포함하세요. Check & Compare를 눌러 모범 답안과 비교한 뒤 수정하세요.",
+        "studentActions": "Students draft 100–140 words, run Check & Compare, compare against the hidden 115–130 word model, and revise (G1: follow the 5-step Paragraph Outline; G2: polish transitions like \"conversely\" and \"therefore\" and check exact math).",
+        "misconception": "Adding outside macroeconomic claims (tariffs, real countries, policy advice) or slipping under 100 words.",
+        "correctiveFeedback": "Check word count (100–140), verify \"According to the article,\" at the start, confirm $100 million / $70 million / $30 million, and remove any outside facts not in the text.",
+        "transition": "Before submitting, complete every item in Self-Check."
+      },
+      {
+        "phase": 8,
+        "phaseName": "Self-Check, Submission & Wrap-up",
+        "duration": "5 minutes",
+        "objective": "Complete the 6-item Self-Check, submit with Student Name and Student Code, and wrap up.",
+        "teacherActions": "Ensure students check all 6 Self-Check boxes, fill in Student Name and Student Code, click Submit lesson, and review post-submission MCQ rationales.",
+        "scriptEn": "Check all six Self-Check items / to verify your attribution, / exports and imports definitions, / money comparison, / surplus and deficit contrast, / Toylandia and Snackville numbers, / and 100 to 140 word count. / Enter your Student Name / and Student Code, / then click Submit lesson. / Great work today!",
+        "scriptKo": "Self-Check의 6개 항목을 모두 체크해 출처 표기, 수출·수입 정의, 금액 비교, 흑자·적자 대조, Toylandia와 Snackville 수치, 그리고 100~140단어 분량을 확인하세요. Student Name과 Student Code를 입력하고 Submit lesson을 누르세요. 오늘 수고 많았습니다!",
+        "studentActions": "Students check all 6 boxes, submit their work, and review MCQ feedback (G1: confirm name, code, and 100–140 word count; G2: inspect any missed rationale).",
+        "misconception": "Leaving Student Name or Student Code blank or forgetting to click Check & Compare before submitting.",
+        "correctiveFeedback": "Remind students that each submission attempt is saved separately by Student Code and both fields are required to submit.",
+        "transition": "In our next Unit 3 lesson, we will build on these foundational global-trade ideas."
+      }
+    ],
+    "teachersOpeningScript": [
+      {
+        "label": "Step 1 — Welcome & Title Framing",
+        "english": "Welcome to Unit 3! / Today we are reading an economics explainer: / \"Trade Surplus & Deficit: / Understanding How Countries Buy and Sell.\" / Notice how the subtitle connects / surplus and deficit directly to / how countries buy and sell.",
+        "directKorean": "Unit 3에 오신 것을 환영합니다! / 오늘 우리는 경제 설명 글을 읽습니다: / \"Trade Surplus & Deficit: / Understanding How Countries Buy and Sell.\" / 부제가 어떻게 / 흑자와 적자를 직접 연결하는지 주목하세요 / 나라들이 사고파는 방식과.",
+        "naturalKorean": "Unit 3 수업에 오신 것을 환영합니다! 오늘은 \"Trade Surplus & Deficit: Understanding How Countries Buy and Sell\"이라는 경제 설명 지문을 읽습니다. 부제가 무역 흑자와 적자를 나라들이 사고파는 과정과 어떻게 연결하는지 살펴봅시다.",
+        "teachingPurpose": "Frame the economic concepts simply around buying and selling without outside jargon."
+      },
+      {
+        "label": "Step 2 — Visual-Only & Fictional-Example Rule",
+        "english": "Keep two rules in mind today: / First, diagrams and maps in the images / are visual context only. / Second, Toylandia and Snackville / are fictional teaching examples, / so do not add outside macroeconomics / or real-world policy judgments.",
+        "directKorean": "오늘 두 가지 규칙을 명심하세요: / 첫째, 이미지 속 도표와 지도는 / 시각적 맥락일 뿐입니다. / 둘째, Toylandia와 Snackville은 / 가상의 수업 예시이므로, / 외부 거시경제학이나 / 현실 정책 판단을 덧붙이지 마세요.",
+        "naturalKorean": "오늘은 두 가지 규칙을 꼭 지켜야 합니다. 첫째, 교실 이미지의 도표와 지도는 시각 자료일 뿐 본문 텍스트로 수정하거나 추가 사실을 만들어 내지 않습니다. 둘째, Toylandia와 Snackville은 가상 국가이므로 외부 거시경제 지식이나 가치 판단을 섞지 않습니다.",
+        "teachingPurpose": "Prevent visual-label hallucination and outside macroeconomic drift before reading."
+      }
+    ],
+    "warmUpTeacherGuide": [
+      {
+        "question": "What everyday items like food, toys, clothes, or technology do people or countries buy and sell with one another?",
+        "focus": "Activating everyday goods traded between countries",
+        "teacherTalk": "Think about what you ate, / wore, or used today. / Which everyday items / do countries buy and sell / around the world?",
+        "korean": "오늘 먹거나 입거나 사용한 물건을 떠올려 보세요. 세계 여러 나라는 어떤 일상 물품을 사고파나요?",
+        "sampleAnswer": "Countries and people often buy and sell everyday things like food, clothes, toys, cars, and phones.",
+        "likelyResponses": [
+          "Countries trade food, clothes, cars, and electronics.",
+          "People buy snacks and toys made in other places."
+        ],
+        "followUp": "Notice in the opening sentence which five examples the article names.",
+        "teacherFollowUpKorean": "도입부 첫 문장에서 글이 어떤 다섯 가지 예시를 드는지 확인해 보세요.",
+        "usefulLanguage": [
+          "trade",
+          "goods",
+          "food",
+          "toys",
+          "clothes",
+          "technology"
+        ],
+        "caution": "Keep examples simple and everyday; avoid real-world trade disputes.",
+        "purpose": "Prepare students for Paragraph 1’s trade examples."
+      },
+      {
+        "question": "In your own words, what is the difference between a country selling products to another country (export) and buying products from another country (import)?",
+        "focus": "Distinguishing export (sell) from import (buy)",
+        "teacherTalk": "Look at the two prefixes: / ex- means out, / and im- means in. / When a country sends goods out to sell, / what is that called? / And when it brings goods in to buy?",
+        "korean": "두 접두사를 보세요. ex-는 밖으로, im-은 안으로를 뜻합니다. 물건을 밖으로 내보내 판는 것과 안으로 들여와 사는 것은 어떻게 다를까요?",
+        "sampleAnswer": "Selling products to another country means exporting and earning money, while buying products from another country means importing and spending money.",
+        "likelyResponses": [
+          "Exports go out to other countries, and imports come in.",
+          "Exports earn money and imports cost money."
+        ],
+        "followUp": "Check the two bullet points under \"What Is Trade?\" to verify the exact short definitions.",
+        "teacherFollowUpKorean": "\"What Is Trade?\" 아래 두 개의 불릿 포인트에서 짧은 정의를 확인해 보세요.",
+        "usefulLanguage": [
+          "exports",
+          "imports",
+          "sells",
+          "buys"
+        ],
+        "caution": "Prevent students from reversing sell/buy on exports and imports.",
+        "purpose": "Anchor exports vs. imports before reading."
+      },
+      {
+        "question": "Imagine you sold more craft projects than you bought from friends. Would you end up with extra money or less money, and why?",
+        "focus": "Intuitive grasp of \"more sold than bought\" (surplus vs. deficit)",
+        "teacherTalk": "Imagine a class craft fair. / If you sell more craft projects / than you buy from friends, / do you earn more money than you spend? / What if you buy more than you sell?",
+        "korean": "반 공예품 장터를 상상해 보세요. 친구에게서 산 것보다 더 많이 팔았다면 쓴 돈보다 번 돈이 더 많을까요? 반대로 판 것보다 더 많이 샀다면 어떨까요?",
+        "sampleAnswer": "If I sold more craft projects than I bought, I would have extra money because I earned more than I spent.",
+        "likelyResponses": [
+          "I would have extra money because selling brings money in.",
+          "If I bought more than I sold, I would spend more than I earned."
+        ],
+        "followUp": "Look for that exact craft-project analogy in \"What is Trade Surplus and Deficit?\".",
+        "teacherFollowUpKorean": "\"What is Trade Surplus and Deficit?\" 문단에서 바로 그 공예품 비유를 찾아보세요.",
+        "usefulLanguage": [
+          "more than",
+          "surplus",
+          "deficit",
+          "because"
+        ],
+        "caution": "Keep focus on comparing money earned vs. money spent, not personal moral judgment.",
+        "purpose": "Prime students for the craft-projects analogy and Toylandia–Snackville math."
+      }
+    ],
+    "sourceReadingGuide": {
+      "title": "Source Reading, Two Ordered Images & Visual-Only Context Guide",
+      "description": "The canonical article is reproduced verbatim across two ordered classroom source pages (Image 1 and Image 2). Diagrams and maps in the supplied images are visual-only context; outside reading attribution is displayed separately.",
+      "points": [
+        "Outside Attribution: \"Source: Teacher-provided classroom source images. Article wording reproduced as supplied.\" is shown outside the reading container.",
+        "Two Ordered Pages: Page 1 covers the title, 4-sentence introduction, \"Origin of the Words\", and \"What Is Trade?\" (including the 2 bullet points). Page 2 covers \"What is Trade Surplus and Deficit?\" including the craft-project analogy, why a deficit isn’t always bad, and the Toylandia–Snackville example.",
+        "Diagrams & Maps Visual-Only Rule: Any arrows, trade icons, toy/snack illustrations, or world/fictional country maps in the classroom images are purely visual aids. Never transcribe visual-only labels as canonical text or invent extra numbers from them.",
+        "Exact Orthography Preserved: Diacritic \"trāde\", curly quotes/apostrophes (\"That’s\", \"Let’s\", \"you’d\", \"isn’t\", \"don’t\"), lowercase \"is\" in \"What is Trade Surplus and Deficit?\", semicolon (\"friends; you’d\"), comma (\"things, because\"), and exact dollar figures ($100 million, $70 million, $30 million)."
+      ]
+    },
+    "detailedReadingGuide": {
+      "sourceLayoutNote": "Covers 100% of the canonical article with zero merging or splitting across 24 sequential entries: Title (Entry 1), Intro Sentences 1–4 (Entries 2–5), Heading 1 (Entry 6), Origin Sentences 5–6 (Entries 7–8), Heading 2 (Entry 9), Trade Sentence 7 (Entry 10), Bullets 1–2 (Entries 11–12), Trade Sentences 8–9 (Entries 13–14), Heading 3 (Entry 15), and Surplus/Deficit & Toylandia–Snackville Sentences 10–18 (Entries 16–24).",
+      "sentenceAnalysis": [
+        {
+          "sentenceNumber": 1,
+          "paragraph": "Title (Heading 1)",
+          "original": "Trade Surplus & Deficit: Understanding How Countries Buy and Sell",
+          "chunkReading": "Trade Surplus & Deficit: / Understanding / How Countries Buy and Sell",
+          "directKorean": "무역 흑자와 적자: / 이해하기 / 나라들이 어떻게 사고파는지",
+          "naturalKorean": "무역 흑자와 적자: 국가 간 매매의 원리 이해하기",
+          "mustKnowChunks": [
+            {
+              "chunk": "Trade Surplus & Deficit",
+              "meaning": "무역 흑자와 무역 적자",
+              "use": "앰퍼샌드(&)로 두 핵심 경제 개념을 나란히 제시합니다.",
+              "example": "Today’s lesson focuses on trade surplus & deficit."
+            },
+            {
+              "chunk": "Understanding How Countries Buy and Sell",
+              "meaning": "나라들이 어떻게 사고파는지 이해하기",
+              "use": "동명사(Understanding) 뒤에 의문사절(How + 주어 + 동사)가 목적어로 옵니다.",
+              "example": "Understanding how countries buy and sell helps explain trade balance."
+            }
+          ],
+          "mustKnowGrammar": "콜론(:) 앞에 주제 명사구(Trade Surplus & Deficit)를 두고, 뒤에 동명사구 부제(Understanding How Countries Buy and Sell)를 붙인 설명문 제목입니다. 의문사 how는 간접의문문이므로 주어(Countries) + 동사(Buy and Sell) 어순을 취합니다.",
+          "feynmanExplanation": "Look at the title first. / It pairs two big trade ideas: / \"surplus\" and \"deficit.\" / Then the subtitle explains / what those words are really about: / how countries buy and sell things with each other.",
+          "feynmanExplanationKo": "먼저 제목을 보세요. \"흑자(surplus)\"와 \"적자(deficit)\"라는 두 가지 큰 무역 개념을 짝지어 보여 줍니다. 그리고 부제는 이 두 단어가 실제로 나라들이 서로 물건을 사고파는 방식에 관한 것임을 설명합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: According to the title, what everyday actions connect to trade surplus and deficit?",
+              "korean": "교사: 제목에 따르면 무역 흑자와 적자는 어떤 일상 행동과 연결되나요?"
+            },
+            {
+              "english": "Student: Buying and selling between countries.",
+              "korean": "학생: 나라들 간에 사고파는 행동입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 2,
+          "paragraph": "Introduction (Sentence 1)",
+          "original": "Every day, countries around the world trade things like food, toys, clothes, cars, and even technology.",
+          "chunkReading": "Every day, / countries around the world / trade things / like food, toys, clothes, cars, / and even technology.",
+          "directKorean": "매일, / 전 세계의 나라들은 / 물건들을 교역한다 / 음식, 장난감, 옷, 자동차, / 그리고 심지어 기술 제품 같은.",
+          "naturalKorean": "매일 전 세계 나라들은 음식, 장난감, 옷, 자동차, 심지어 기술 제품까지 다양한 것들을 교역한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Every day (vs. everyday)",
+              "meaning": "매일 (부사구)",
+              "use": "띄어 쓴 Every day는 \"매일\"이라는 시간 부사구이고, 붙여 쓴 everyday는 \"일상의\"라는 형용사입니다.",
+              "example": "Every day, people use goods traded from other countries."
+            },
+            {
+              "chunk": "things like ~, and even ~",
+              "meaning": "~, 그리고 심지어 ~까지 같은 것들",
+              "use": "전치사 like로 구체적 예시를 열거하고, even으로 마지막 항목을 강조합니다.",
+              "example": "The shop sells things like snacks, games, and even small robots."
+            }
+          ],
+          "mustKnowGrammar": "시간 부사구 Every day가 문두에 오고 복수 주어(countries around the world)에 현재시제 동사 trade(\"교역하다\")가 이어집니다. 전치사 like 뒤에 5개 명사가 병렬 나열되었습니다.",
+          "feynmanExplanation": "Trade happens all the time / around the entire world. / Countries buy and sell / everyday items like food, toys, and clothes. / They also trade bigger items / like cars and even technology.",
+          "feynmanExplanationKo": "무역은 전 세계에서 늘 일어납니다. 나라들은 음식, 장난감, 옷 같은 일상 물품을 사고팝니다. 자동차나 심지어 기술 제품 같은 더 큰 물건들도 거래합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Is \"trade\" a noun or a verb in this sentence, and what five examples follow \"like\"?",
+              "korean": "교사: 이 문장에서 \"trade\"는 명사인가요 동사인가요? 그리고 \"like\" 뒤에 나오는 다섯 가지 예시는 무엇인가요?"
+            },
+            {
+              "english": "Student: It is a verb (\"countries ... trade\"), and the five examples are food, toys, clothes, cars, and technology.",
+              "korean": "학생: 동사(\"countries ... trade\")이고, 다섯 가지 예시는 food, toys, clothes, cars, technology입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 3,
+          "paragraph": "Introduction (Sentence 2)",
+          "original": "But how do we know if a country is winning or losing in trade?",
+          "chunkReading": "But / how do we know / if a country is winning or losing / in trade?",
+          "directKorean": "하지만 / 우리는 어떻게 알 수 있을까 / 한 나라가 이기고 있는지 지고 있는지 / 무역에서?",
+          "naturalKorean": "하지만 한 나라가 무역에서 이기고 있는지 지고 있는지를 우리는 어떻게 알 수 있을까?",
+          "mustKnowChunks": [
+            {
+              "chunk": "how do we know if ~",
+              "meaning": "~인지 우리가 어떻게 알 수 있을까",
+              "use": "접속사 if는 \"~인지 아닌지\"(whether)를 뜻하는 명사절을 이끌어 know의 목적어 역할을 합니다.",
+              "example": "How do we know if a store earned a profit?"
+            }
+          ],
+          "mustKnowGrammar": "의문사 how + do + 주어(we) + 동사원형(know) 의문문 뒤에 명사절 접속사 if(\"~인지\") + 현재진행형(is winning or losing)이 왔습니다. 여기서 if는 조건(\"~라면\")이 아니라 \"~인지\"입니다.",
+          "feynmanExplanation": "Everyone trades, / so a natural question comes up. / How can we tell / whether a country is ahead or behind? / This question hooks the reader / before introducing two key terms.",
+          "feynmanExplanationKo": "모든 나라가 무역을 하니 자연스러운 질문이 생깁니다. 한 나라가 앞서고 있는지 뒤처지고 있는지 어떻게 알 수 있을까요? 이 질문은 두 핵심 용어를 소개하기 전에 독자의 관심을 끌어 당깁니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Does \"if\" mean \"on the condition that\" or \"whether\" in \"know if a country is winning or losing\"?",
+              "korean": "교사: \"know if a country is winning or losing\"에서 \"if\"는 \"만약 ~라면\"인가요, \"~인지 아닌지(whether)\"인가요?"
+            },
+            {
+              "english": "Student: It means \"whether,\" introducing the noun clause after \"know.\"",
+              "korean": "학생: \"know\" 뒤에 오는 명사절을 이끄는 \"~인지(whether)\"라는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 4,
+          "paragraph": "Introduction (Sentence 3)",
+          "original": "That’s where two important ideas come in: trade surplus and trade deficit.",
+          "chunkReading": "That’s where / two important ideas come in: / trade surplus / and trade deficit.",
+          "directKorean": "바로 그곳이 / 두 가지 중요한 개념이 등장하는 지점이다: / 무역 흑자 / 그리고 무역 적자.",
+          "naturalKorean": "바로 그 지점에서 무역 흑자와 무역 적자라는 두 가지 중요한 개념이 등장한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "That’s where ~ come in",
+              "meaning": "바로 그것이 ~가 등장하는(쓰이는) 지점이다",
+              "use": "앞 문장의 질문과 뒤의 해결 개념을 자연스럽게 이어 줍니다. (That’s = That is)",
+              "example": "That’s where careful planning comes in."
+            }
+          ],
+          "mustKnowGrammar": "축약형 That’s(That is)와 관계부사 where(선행사 the point 생략) 구문 뒤에 콜론(:)을 두어 two important ideas의 구체적 내용(trade surplus and trade deficit)을 제시했습니다.",
+          "feynmanExplanation": "To answer that question, / we need two special ideas. / They are called \"trade surplus\" / and \"trade deficit.\" / The colon right before them / points directly to those two terms.",
+          "feynmanExplanationKo": "그 질문에 답하려면 두 가지 특별한 개념이 필요합니다. 바로 \"무역 흑자(trade surplus)\"와 \"무역 적자(trade deficit)\"입니다. 바로 앞의 콜론(:)이 이 두 용어를 딱 집어 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What two ideas does the colon introduce after \"come in\"?",
+              "korean": "교사: \"come in\" 뒤의 콜론(:)이 소개하는 두 가지 개념은 무엇인가요?"
+            },
+            {
+              "english": "Student: Trade surplus and trade deficit.",
+              "korean": "학생: 무역 흑자(trade surplus)와 무역 적자(trade deficit)입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 5,
+          "paragraph": "Introduction (Sentence 4)",
+          "original": "Let’s explore what they mean and why they matter!",
+          "chunkReading": "Let’s explore / what they mean / and why they matter!",
+          "directKorean": "함께 탐구해 보자 / 그것들이 무엇을 의미하는지 / 그리고 왜 중요한지!",
+          "naturalKorean": "이제 그 두 개념이 무엇을 뜻하고 왜 중요한지 함께 알아보자!",
+          "mustKnowChunks": [
+            {
+              "chunk": "why they matter",
+              "meaning": "그것들이 왜 중요한지",
+              "use": "자동사 matter는 \"중요하다(be important)\"라는 뜻입니다.",
+              "example": "Let’s explore what exports mean and why they matter."
+            }
+          ],
+          "mustKnowGrammar": "청유문 Let’s(Let us) + 동사원형(explore) 뒤에 두 개의 간접의문문 명사절(what they mean / why they matter)이 병렬로 연결되었습니다.",
+          "feynmanExplanation": "Here the writer invites us / to learn two things together. / First, what do \"surplus\" and \"deficit\" mean? / Second, why are they important? / The exclamation mark keeps the tone friendly.",
+          "feynmanExplanationKo": "여기서 글쓴이는 독자에게 두 가지를 함께 배우자고 권합니다. 첫째, \"흑자\"와 \"적자\"가 무슨 뜻인가요? 둘째, 왜 중요할까요? 끝의 느낌표가 친근한 분위기를 살립니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What does the verb \"matter\" mean in \"why they matter\"?",
+              "korean": "교사: \"why they matter\"에서 동사 \"matter\"는 무슨 뜻인가요?"
+            },
+            {
+              "english": "Student: It means \"are important.\"",
+              "korean": "학생: \"중요하다\"라는 뜻입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 6,
+          "paragraph": "Section 1 Heading (Heading 2)",
+          "original": "Origin of the Words",
+          "chunkReading": "Origin / of the Words",
+          "directKorean": "기원 / 그 단어들의",
+          "naturalKorean": "단어의 어원",
+          "mustKnowChunks": [
+            {
+              "chunk": "Origin of the Words",
+              "meaning": "단어들의 기원(어원)",
+              "use": "섹션 제목으로, 핵심 용어들이 어디서 유래했는지 안내합니다.",
+              "example": "The section \"Origin of the Words\" traces history before definitions."
+            }
+          ],
+          "mustKnowGrammar": "명사(Origin) + 전치사구(of the Words)로 구성된 섹션 제목입니다.",
+          "feynmanExplanation": "Before giving economics rules, / this section looks back in time. / \"Origin\" means where something began. / It shows how old languages / shaped the words we use today.",
+          "feynmanExplanationKo": "경제 규칙을 설명하기 전에 이 장은 시간을 거슬러 올라갑니다. \"Origin\"은 무언가가 시작된 곳을 뜻합니다. 옛 언어들이 오늘날 우리가 쓰는 단어를 어떻게 만들었는지 보여 줍니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What does this heading tell us we are about to learn?",
+              "korean": "교사: 이 제목은 우리가 곧 무엇을 배울 것임을 알려 주나요?"
+            },
+            {
+              "english": "Student: Where the words \"trade,\" \"surplus,\" and \"deficit\" came from.",
+              "korean": "학생: \"trade\", \"surplus\", \"deficit\" 단어들이 어디서 왔는지입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 7,
+          "paragraph": "Section 1, Paragraph 1 (Sentence 5)",
+          "original": "The word “trade” comes from Middle Low German trāde or trade, meaning “path, course, or track,” and later came to mean process of buying and selling goods and services.",
+          "chunkReading": "The word “trade” / comes from Middle Low German trāde or trade, / meaning “path, course, or track,” / and later came to mean / process of buying and selling goods and services.",
+          "directKorean": "\"trade\"라는 단어는 / 중세 저지 독일어 trāde 또는 trade에서 왔다, / \"길, 경로, 또는 발자국\"을 뜻하는, / 그리고 나중에 ~를 의미하게 되었다 / 재화와 서비스를 사고파는 과정을.",
+          "naturalKorean": "\"trade\"라는 단어는 \"길, 경로, 발자국\"을 뜻하는 중세 저지 독일어 trāde 또는 trade에서 유래했으며, 후에 재화와 서비스를 사고파는 과정을 뜻하게 되었다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "comes from ~",
+              "meaning": "~에서 유래하다(오다)",
+              "use": "어원을 설명할 때 가장 자주 쓰는 동사구입니다.",
+              "example": "The word \"trade\" comes from Middle Low German."
+            },
+            {
+              "chunk": "came to mean ~",
+              "meaning": "~를 의미하게 되었다",
+              "use": "시간이 지나며 단어의 뜻이 바뀐 결과를 나타냅니다.",
+              "example": "Over time, the word came to mean buying and selling."
+            }
+          ],
+          "mustKnowGrammar": "분사구문 meaning “path, course, or track,”이 앞의 옛 단어 trāde or trade를 수식합니다. 장음 기호(ā)가 있는 trāde 철자와 동명사 병렬(buying and selling goods and services)에 주의하세요. (원문 표기 그대로 mean process of~로 관사가 생략되어 있음에 유의)",
+          "feynmanExplanation": "Long ago, / \"trade\" did not mean shopping or business. / In an old German language, / trāde meant a path or track / that people walked along. / Later, / it came to mean the path / of buying and selling goods and services.",
+          "feynmanExplanationKo": "옛날에는 \"trade\"가 상거래를 뜻하지 않았습니다. 옛 독일어에서 trāde는 사람들이 따라 걷는 길이나 자취를 뜻했습니다. 그러다 나중에 재화와 서비스를 사고파는 과정을 뜻하게 되었습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What did Middle Low German trāde originally mean, and what did it later come to mean?",
+              "korean": "교사: 중세 저지 독일어 trāde는 원래 무슨 뜻이었고, 나중에는 무슨 뜻이 되었나요?"
+            },
+            {
+              "english": "Student: It originally meant \"path, course, or track,\" and later came to mean process of buying and selling goods and services.",
+              "korean": "학생: 원래 \"길, 경로, 발자국\"을 뜻했고, 나중에는 재화와 서비스를 사고파는 과정을 뜻하게 되었습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 8,
+          "paragraph": "Section 1, Paragraph 2 (Sentence 6)",
+          "original": "“Surplus” comes from the Latin word “superplus,” meaning “more than what is needed,” while “deficit” comes from the Latin “deficere,” meaning “to fail” or “to lack.”",
+          "chunkReading": "“Surplus” comes from / the Latin word “superplus,” / meaning “more than what is needed,” / while “deficit” comes from / the Latin “deficere,” / meaning “to fail” or “to lack.”",
+          "directKorean": "\"Surplus\"는 ~에서 왔다 / 라틴어 단어 \"superplus\"에서, / \"필요한 것보다 더 많은\"을 뜻하는, / 반면 \"deficit\"은 ~에서 왔다 / 라틴어 \"deficere\"에서, / \"부족하다\"나 \"모자라다\"를 뜻하는.",
+          "naturalKorean": "\"Surplus\"는 \"필요한 것보다 더 많은\"을 뜻하는 라틴어 \"superplus\"에서 왔으며, 반면 \"deficit\"은 \"실패하다\" 또는 \"부족하다\"를 뜻하는 라틴어 \"deficere\"에서 유래했다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "while (contrast)",
+              "meaning": "~인 반면에",
+              "use": "두 대상(\"Surplus\"와 \"deficit\")의 차이를 한 문장 안에서 대조할 때 쓰는 접속사입니다.",
+              "example": "Toylandia has a surplus, while Snackville has a deficit."
+            },
+            {
+              "chunk": "more than what is needed",
+              "meaning": "필요한 것보다 더 많은",
+              "use": "선행사를 포함한 관계대명사 what(~하는 것)이 쓰였습니다.",
+              "example": "A surplus means having more than what is needed."
+            }
+          ],
+          "mustKnowGrammar": "대조 접속사 while(\"~인 반면에\")이 두 절을 연결합니다. 각 절 끝의 분사구문(meaning “more than what is needed,” / meaning “to fail” or “to lack.”)이 라틴어 단어 superplus와 deficere를 대칭적으로 풀어 줍니다.",
+          "feynmanExplanation": "Now we learn the Latin roots / of our two main terms. / \"Surplus\" comes from \"superplus,\" / meaning extra or more than needed. / Meanwhile, / \"deficit\" comes from \"deficere,\" / meaning to lack or fall short.",
+          "feynmanExplanationKo": "이제 두 핵심 용어의 라틴어 어원을 배웁니다. \"Surplus\"는 필요한 것보다 더 많음을 뜻하는 \"superplus\"에서 왔습니다. 반면 \"deficit\"은 모자라고 부족함을 뜻하는 \"deficere\"에서 왔습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Which word connects to \"more than what is needed,\" and how does \"while\" link the two clauses?",
+              "korean": "교사: 어떤 단어가 \"필요한 것보다 더 많은\"과 연결되며, \"while\"은 두 절을 어떻게 이어 주나요?"
+            },
+            {
+              "english": "Student: \"Surplus\" (\"superplus\") connects to more than needed, and \"while\" contrasts it with \"deficit\" (\"deficere\").",
+              "korean": "학생: \"Surplus\"(\"superplus\")가 필요 이상을 뜻하고, \"while\"이 그것을 \"deficit\"(\"deficere\")와 대조해 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 9,
+          "paragraph": "Section 2 Heading (Heading 3)",
+          "original": "What Is Trade?",
+          "chunkReading": "What / Is Trade?",
+          "directKorean": "무엇인가 / 무역은?",
+          "naturalKorean": "무역이란 무엇인가?",
+          "mustKnowChunks": [
+            {
+              "chunk": "What Is Trade?",
+              "meaning": "무역이란 무엇인가?",
+              "use": "질문형 소제목으로 정의와 핵심 구성 요소(수출·수입)를 이끌어 냅니다.",
+              "example": "Under \"What Is Trade?\", the text defines exports and imports."
+            }
+          ],
+          "mustKnowGrammar": "의문사 What + be동사 Is + 주어 Trade? 형태의 제목입니다. (Is의 대문자 표기는 원문 그대로 유지합니다.)",
+          "feynmanExplanation": "Now that we know the word origins, / this heading asks a simple question. / What is trade? / The next lines will break trade / into two clear actions: selling and buying.",
+          "feynmanExplanationKo": "이제 단어의 어원을 알았으니 이 제목은 간단한 질문을 던집니다. 무역이란 무엇일까요? 이어지는 문장들은 무역을 팔기와 사기라는 두 가지 명확한 행동으로 나누어 설명합니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What two terms will answer \"What Is Trade?\" right below this heading?",
+              "korean": "교사: 이 제목 바래 아래에서 \"What Is Trade?\"에 답하는 두 가지 용어는 무엇인가요?"
+            },
+            {
+              "english": "Student: Exports and imports.",
+              "korean": "학생: 수출(exports)과 수입(imports)입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 10,
+          "paragraph": "Section 2, Paragraph 1 (Sentence 7)",
+          "original": "Trade happens when one country sells things to another country (called exports) and buys things from another country (called imports).",
+          "chunkReading": "Trade happens / when one country sells things to another country / (called exports) / and buys things from another country / (called imports).",
+          "directKorean": "무역은 일어난다 / 한 나라가 다른 나라에 물건을 팔 때 / (수출이라고 불리는) / 그리고 다른 나라로부터 물건을 살 때 / (수입이라고 불리는).",
+          "naturalKorean": "무역은 한 나라가 다른 나라에 물건을 팔고(수출), 다른 나라로부터 물건을 살 때(수입) 일어난다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "(called exports) / (called imports)",
+              "meaning": "(수출이라 불리는) / (수입이라 불리는)",
+              "use": "괄호 안의 과거분사 called + 명사는 앞 내용의 전문 용어를 짧게 붙여 주는 동격 설명입니다.",
+              "example": "Countries sell goods abroad (called exports) and buy goods from abroad (called imports)."
+            },
+            {
+              "chunk": "sells things to ~ / buys things from ~",
+              "meaning": "~에게 물건을 팔다 / ~에서 물건을 사다",
+              "use": "sell A to B(팔는 방향 to) vs. buy A from B(사오는 출처 from) 전치사 대비에 주의합니다.",
+              "example": "Toylandia sells toys to Snackville and buys snacks from Snackville."
+            }
+          ],
+          "mustKnowGrammar": "시간 접속사 when절 안에서 단수 주어 one country에 맞춘 두 동사 sells와 buys가 and로 병렬 연결되었습니다. 괄호 안의 (called exports)와 (called imports)는 각각 정의를 보충합니다.",
+          "feynmanExplanation": "Trade is simply two-way buying and selling / between countries. / When a country sends goods out to sell, / we call those \"exports.\" / When it buys goods from elsewhere, / we call those \"imports.\"",
+          "feynmanExplanationKo": "무역은 나라들 사이에서 일어나는 양방향 사고팔기입니다. 한 나라가 물건을 밖으로 내보내 팔 때 그것을 \"수출(exports)\"이라 부르고, 다른 나라에서 사올 때 \"수입(imports)\"이라 부릅니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why does the writer put \"(called exports)\" and \"(called imports)\" in parentheses?",
+              "korean": "교사: 글쓴이가 왜 \"(called exports)\"와 \"(called imports)\"를 괄호 안에 넣었을까요?"
+            },
+            {
+              "english": "Student: To give the exact terms right after explaining \"sells things\" and \"buys things.\"",
+              "korean": "학생: \"물건을 판다\"와 \"물건을 산다\"를 설명한 바로 뒤에 정확한 용어를 알려 주기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 11,
+          "paragraph": "Section 2, Bullet 1",
+          "original": "Exports = things a country sells",
+          "chunkReading": "Exports / = things a country sells",
+          "directKorean": "수출 / = 한 나라가 파는 것들",
+          "naturalKorean": "수출 = 한 나라가 파는 물건들",
+          "mustKnowChunks": [
+            {
+              "chunk": "things a country sells",
+              "meaning": "한 나라가 파는 것들",
+              "use": "things (that) a country sells에서 목적격 관계대명사 that이 생략되어 명사 things를 수식합니다.",
+              "example": "Toys are things Toylandia sells to Snackville."
+            }
+          ],
+          "mustKnowGrammar": "등호(=)를 사용한 간결한 불릿 정의입니다. things 뒤에 목적격 관계대명사 that/which가 생략된 수식절(a country sells)가 왔습니다.",
+          "feynmanExplanation": "This bullet point is a quick memory card. / Keep it simple: / Exports = things going out / that a country sells. / Picture the \"ex-\" in \"exit.\"",
+          "feynmanExplanationKo": "이 불릿 포인트는 한눈에 외우는 요약 카드입니다. 간단하게 기억하세요. Exports = 나라가 밖으로 파는 것들입니다. \"exit(출구)\"의 \"ex-\"를 떠올리세요.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: In six short words, what does the first bullet define?",
+              "korean": "교사: 첫 번째 불릿 포인트는 무엇을 간단히 정의하나요?"
+            },
+            {
+              "english": "Student: Exports = things a country sells.",
+              "korean": "학생: Exports = 한 나라가 파는 것들입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 12,
+          "paragraph": "Section 2, Bullet 2",
+          "original": "Imports = things a country buys",
+          "chunkReading": "Imports / = things a country buys",
+          "directKorean": "수입 / = 한 나라가 사는 것들",
+          "naturalKorean": "수입 = 한 나라가 사오는 물건들",
+          "mustKnowChunks": [
+            {
+              "chunk": "things a country buys",
+              "meaning": "한 나라가 사는 것들",
+              "use": "things (that) a country buys 구조로, 단수 주어 a country에 -s(buys)를 붙입니다.",
+              "example": "Snacks are things Toylandia buys from Snackville."
+            }
+          ],
+          "mustKnowGrammar": "첫 번째 불릿과 완벽한 대구를 이루는 등호(=) 정의입니다. 목적격 관계대명사 생략 구조(things a country buys)이며 buys의 3인칭 단수 -s를 유지합니다.",
+          "feynmanExplanation": "This second bullet gives the opposite side. / Imports = things coming in / that a country buys. / Picture the \"im-\" as \"in,\" / bringing products into the country.",
+          "feynmanExplanationKo": "두 번째 불릿은 반대쪽 개념을 알려 줍니다. Imports = 나라 안으로 사들여오는 것들입니다. \"im-\"을 \"in(안으로)\"으로 떠올리세요.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: How do the two bullets help us keep exports and imports straight?",
+              "korean": "교사: 두 불릿 포인트가 수출과 수입을 헷갈리지 않도록 어떻게 도와주나요?"
+            },
+            {
+              "english": "Student: They give a short side-by-side rule: Exports = sells, Imports = buys.",
+              "korean": "학생: Exports = 파는 것, Imports = 사는 것이라는 짧은 대조 규칙을 보여 줍니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 13,
+          "paragraph": "Section 2, Paragraph after Bullets (Sentence 8)",
+          "original": "A country keeps track of how much money it earns from exports and how much it spends on imports.",
+          "chunkReading": "A country keeps track of / how much money it earns from exports / and how much it spends on imports.",
+          "directKorean": "한 나라는 기록하며 추적한다 / 수출로 얼마나 많은 돈을 버는지 / 그리고 수입에 얼마나 많이 쓰는지.",
+          "naturalKorean": "한 나라는 수출을 통해 얼마의 돈을 벌고 수입에 얼마를 쓰는지 기록한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "keeps track of ~",
+              "meaning": "~을 꾸준히 기록하고 파악하다",
+              "use": "숫자나 금액을 빠뜨리지 않고 계산·추적할 때 쓰는 관용 표현입니다.",
+              "example": "A country keeps track of money earned and spent."
+            },
+            {
+              "chunk": "earns from exports / spends on imports",
+              "meaning": "수출로(에서) 벌다 / 수입에 쓰다",
+              "use": "earn money from ~ / spend money on ~ 전치사 호응에 주의하세요.",
+              "example": "Toylandia earns $100 million from exports and spends $70 million on imports."
+            }
+          ],
+          "mustKnowGrammar": "keeps track of 뒤에 두 개의 간접의문문(how much money it earns from exports / how much it spends on imports)이 and로 연결되었습니다. 두 번째 how much 뒤에는 money가 생략되었습니다.",
+          "feynmanExplanation": "Next, / countries count the money. / They watch two numbers carefully. / One is money earned from selling exports, / and the other is money spent on buying imports.",
+          "feynmanExplanationKo": "다음으로 나라들은 돈을 셉니다. 두 가지 숫자를 꼼꼼히 살핍니다. 하나는 수출을 팔아 번 돈이고, 다른 하나는 수입을 사는 데 쓴 돈입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Which prepositions pair with \"earns\" and \"spends\" here?",
+              "korean": "교사: 여기서 \"earns\"와 \"spends\"는 각각 어떤 전치사와 짝을 이루나요?"
+            },
+            {
+              "english": "Student: \"Earns from\" exports, and \"spends on\" imports.",
+              "korean": "학생: \"earns from\" exports, 그리고 \"spends on\" imports입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 14,
+          "paragraph": "Section 2, Paragraph after Bullets (Sentence 9)",
+          "original": "Comparing these two numbers tells us whether the country has a trade surplus or a trade deficit.",
+          "chunkReading": "Comparing these two numbers / tells us / whether the country has / a trade surplus or a trade deficit.",
+          "directKorean": "이 두 숫자를 비교하는 것은 / 우리에게 알려 준다 / 그 나라가 가졌는지 / 무역 흑자를 또는 무역 적자를.",
+          "naturalKorean": "이 두 숫자를 비교하면 그 나라가 무역 흑자인지 무역 적자인지 알 수 있다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Comparing these two numbers tells us whether ~",
+              "meaning": "이 두 숫자를 비교하는 것은 ~인지 알려 준다",
+              "use": "동명사 주어(Comparing...) + 단수 동사(tells) + whether A or B 구조입니다.",
+              "example": "Comparing exports and imports tells us whether trade is in surplus or deficit."
+            }
+          ],
+          "mustKnowGrammar": "동명사구 주어 Comparing these two numbers는 단수 취급하여 tells(-s)를 쓰고, 간접목적어 us 뒤에 whether ~ or ~ 명사절이 직접목적어로 옵니다.",
+          "feynmanExplanation": "Once you have both numbers, / put them side by side. / Compare money earned / with money spent. / That comparison immediately shows / whether the country has a surplus or a deficit.",
+          "feynmanExplanationKo": "두 숫자를 모두 구했다면 나란히 놓고 비교해 보세요. 번 돈과 쓴 돈을 비교하면 그 나라가 흑자인지 적자인지 바로 알 수 있습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why does \"tells\" end in -s here even though \"numbers\" is plural?",
+              "korean": "교사: \"numbers\"가 복수인데도 왜 동사 \"tells\"에 -s가 붙었나요?"
+            },
+            {
+              "english": "Student: Because the subject is the singular gerund phrase \"Comparing these two numbers.\"",
+              "korean": "학생: 주어가 단수 취급하는 동명사구 \"Comparing these two numbers\"이기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 15,
+          "paragraph": "Section 3 Heading (Heading 4)",
+          "original": "What is Trade Surplus and Deficit?",
+          "chunkReading": "What / is Trade Surplus and Deficit?",
+          "directKorean": "무엇인가 / 무역 흑자와 적자는?",
+          "naturalKorean": "무역 흑자와 적자란 무엇인가?",
+          "mustKnowChunks": [
+            {
+              "chunk": "What is Trade Surplus and Deficit?",
+              "meaning": "무역 흑자와 적자란 무엇인가?",
+              "use": "소문자 is 표기를 포함해 원문 제목 그대로 두 개념의 정의와 예시를 열어 줍니다.",
+              "example": "In \"What is Trade Surplus and Deficit?\", the article compares both terms."
+            }
+          ],
+          "mustKnowGrammar": "Trade Surplus and Deficit을 하나의 묶음 주제로 보아 단수 동사 is를 쓴 섹션 제목입니다. (소문자 is 철자 원문 그대로 보존)",
+          "feynmanExplanation": "Now we move to Page 2. / This heading asks for exact meanings: / what is a trade surplus, / and what is a trade deficit? / Next, / we will see both definitions, / a craft analogy, / and a fictional country example.",
+          "feynmanExplanationKo": "이제 2페이지로 넘어갑니다. 이 제목은 무역 흑자와 무역 적자의 정확한 뜻을 묻습니다. 이어서 두 정의와 공예품 비유, 그리고 가상 국가 예시를 보게 됩니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Look at the capitalization in \"What is Trade Surplus and Deficit?\" compared to \"What Is Trade?\".",
+              "korean": "교사: \"What Is Trade?\"와 \"What is Trade Surplus and Deficit?\"의 대소문자 표기를 비교해 보세요."
+            },
+            {
+              "english": "Student: The second heading uses lowercase \"is,\" and we preserve the source spelling exactly.",
+              "korean": "학생: 두 번째 제목은 소문자 \"is\"를 쓰며, 우리는 원문 표기를 그대로 유지합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 16,
+          "paragraph": "Section 3, Paragraph 1 (Sentence 10)",
+          "original": "A trade surplus happens when a country sells more goods and services to other countries than it buys from them.",
+          "chunkReading": "A trade surplus happens / when a country sells more goods and services / to other countries / than it buys from them.",
+          "directKorean": "무역 흑자는 일어난다 / 한 나라가 더 많은 재화와 서비스를 팔 때 / 다른 나라들에게 / 그들로부터 사는 것보다.",
+          "naturalKorean": "무역 흑자는 한 나라가 다른 나라들로부터 사는 것보다 더 많은 재화와 서비스를 팔 때 발생한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "sells more ~ than it buys",
+              "meaning": "사는 것보다 더 많은 ~을 팔다",
+              "use": "more + 명사 + than ~ 비교 구문으로 흑자의 핵심 조건(판매 > 구매)을 정의합니다.",
+              "example": "A surplus happens when a country sells more than it buys."
+            }
+          ],
+          "mustKnowGrammar": "happens when 조건·시간 접속사 뒤에 비교구문 more goods and services ... than it buys from them이 왔습니다. 대명사 it은 a country를, them은 other countries를 가리킵니다.",
+          "feynmanExplanation": "Here is the simple rule / for a trade surplus. / Exports are bigger than imports. / A country sells more goods and services / to other countries / than it buys from them.",
+          "feynmanExplanationKo": "무역 흑자의 간단한 규칙이 있습니다. 수출이 수입보다 더 큽니다. 한 나라가 다른 나라들로부터 사는 것보다 다른 나라들에 파는 재화와 서비스가 더 많습니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What do \"it\" and \"them\" refer back to in \"than it buys from them\"?",
+              "korean": "교사: \"than it buys from them\"에서 \"it\"과 \"them\"은 각각 무엇을 가리키나요?"
+            },
+            {
+              "english": "Student: \"It\" refers to \"a country,\" and \"them\" refers to \"other countries.\"",
+              "korean": "학생: \"it\"은 \"a country\"를, \"them\"은 \"other countries\"를 가리킵니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 17,
+          "paragraph": "Section 3, Paragraph 1 (Sentence 11)",
+          "original": "Imagine if you sold more of your cool craft projects than you bought from your friends; you’d have a surplus!",
+          "chunkReading": "Imagine if you sold / more of your cool craft projects / than you bought from your friends; / you’d have a surplus!",
+          "directKorean": "상상해 보라 / 네가 더 많은 멋진 공예품을 팔았다면 / 친구들에게서 산 것보다; / 너는 흑자를 갖게 될 것이다!",
+          "naturalKorean": "친구들에게서 산 것보다 네 멋진 공예품을 더 많이 팔았다고 상상해 보자. 그러면 너에겐 흑자가 생긴다!",
+          "mustKnowChunks": [
+            {
+              "chunk": "Imagine if you sold ~; you’d have ~",
+              "meaning": "네가 ~했다고 상상해 보자; 너는 ~을 갖게 될 것이다",
+              "use": "가정법 과거(sold / bought → you’d = you would)로 일상 비유를 만듭니다.",
+              "example": "Imagine if you earned more than you spent; you’d have extra money!"
+            }
+          ],
+          "mustKnowGrammar": "명령문 Imagine + 가정법 if절(sold ... bought) 뒤에 세미콜론(;)이 오고, 주절 you’d(you would) have a surplus!가 결과를 보여 줍니다.",
+          "feynmanExplanation": "To make this easy to picture, / think about friends trading crafts. / Suppose you sell more craft items / than you buy from friends. / Because more money comes in than goes out, / you end up with a surplus!",
+          "feynmanExplanationKo": "이해하기 쉽게 친구들과 공예품을 사고파는 상황을 떠올려 보세요. 친구에게서 산 것보다 더 많은 공예품을 판다면, 나간 돈보다 들어온 돈이 많아 흑자가 생깁니다!",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What two words does \"you’d\" stand for here, and why does the sentence use past tense \"sold\" and \"bought\"?",
+              "korean": "교사: 여기서 \"you’d\"는 무엇의 줄임말이며, 왜 과거형 \"sold\"와 \"bought\"를 썼나요?"
+            },
+            {
+              "english": "Student: \"You’d\" stands for \"you would,\" and past forms mark an imaginary \"Imagine if\" scenario.",
+              "korean": "학생: \"you’d\"는 \"you would\"의 줄임말이고, \"Imagine if\" 가정 상황을 나타내기 위해 과거형을 썼습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 18,
+          "paragraph": "Section 3, Paragraph 2 (Sentence 12)",
+          "original": "Conversely, a trade deficit occurs when a country buys more than it sells.",
+          "chunkReading": "Conversely, / a trade deficit occurs / when a country buys more / than it sells.",
+          "directKorean": "반대로, / 무역 적자는 발생한다 / 한 나라가 더 많이 살 때 / 파는 것보다.",
+          "naturalKorean": "반대로 무역 적자는 한 나라가 파는 것보다 더 많이 살 때 발생한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "Conversely, ~ occurs when ~",
+              "meaning": "반대로, ~은 ~할 때 발생한다",
+              "use": "문두 부사 Conversely는 앞 문단(흑자)의 정반대 개념(적자)을 도입합니다.",
+              "example": "Conversely, a trade deficit occurs when imports exceed exports."
+            }
+          ],
+          "mustKnowGrammar": "연결부사 Conversely로 전환하고 단수 주어(a trade deficit) + 단수 동사(occurs) + when 부사절(buys more than it sells)로 흑자 정의와 대칭을 이루었습니다.",
+          "feynmanExplanation": "Now flip the direction around. / \"Conversely\" tells us / the opposite case is coming. / A trade deficit happens / when a country buys more / than it sells.",
+          "feynmanExplanationKo": "이제 방향을 반대로 뒤집어 봅시다. \"Conversely\"는 반대 상황이 나온다는 신호입니다. 무역 적자는 한 나라가 파는 것보다 더 많이 살 때 일어납니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why does the writer start this paragraph with \"Conversely,\"?",
+              "korean": "교사: 글쓴이는 왜 이 문단을 \"Conversely,\"로 시작했나요?"
+            },
+            {
+              "english": "Student: To signal the opposite case: buying more than selling (a deficit) instead of selling more than buying (a surplus).",
+              "korean": "학생: 파는 것보다 더 많이 사는 반대 상황(적자)을 알리기 위해서입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 19,
+          "paragraph": "Section 3, Paragraph 2 (Sentence 13)",
+          "original": "A deficit isn’t always bad.",
+          "chunkReading": "A deficit / isn’t always bad.",
+          "directKorean": "적자는 / 항상 나쁜 것은 아니다.",
+          "naturalKorean": "적자가 항상 나쁜 것만은 아니다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "isn’t always ~",
+              "meaning": "항상 ~인 것은 아니다 (부분부정)",
+              "use": "부정어(isn’t) + always는 \"절대 아니다\"가 아니라 \"늘 그런 것은 아니다\"라는 균형 잡힌 부분부정입니다.",
+              "example": "A trade deficit isn’t always bad for a country."
+            }
+          ],
+          "mustKnowGrammar": "축약형 isn’t(is not) + 빈도부사 always가 부분부정을 이룸니다. 5단어의 짧은 문장으로 오해를 바로잡는 핵심 문장입니다.",
+          "feynmanExplanation": "The word \"deficit\" sounds negative, / so readers might worry. / This short sentence pauses / to correct that idea. / Having a trade deficit / is not always a bad thing.",
+          "feynmanExplanationKo": "\"적자\"라는 단어가 부정적으로 들려 독자가 걱정할 수 있습니다. 이 짧은 문장은 그 오해를 바로잡습니다. 무역 적자를 갖는 것이 항상 나쁜 것만은 아닙니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Does \"isn’t always bad\" mean a deficit is never bad, or only not bad in every case?",
+              "korean": "교사: \"isn’t always bad\"는 적자가 절대 나쁘지 않다는 뜻인가요, 항상 나쁜 것만은 아니라는 뜻인가요?"
+            },
+            {
+              "english": "Student: Not bad in every case (\"partial negation\").",
+              "korean": "학생: 항상 나쁜 것만은 아니라는 부분부정입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 20,
+          "paragraph": "Section 3, Paragraph 2 (Sentence 14)",
+          "original": "Sometimes countries import things, because people want them or because they don’t make enough of certain products at home.",
+          "chunkReading": "Sometimes countries import things, / because people want them / or because they don’t make enough / of certain products at home.",
+          "directKorean": "때로 나라들은 물건을 수입한다, / 사람들이 그것들을 원하기 때문에 / 또는 자국 내에서 특정 제품을 / 충분히 만들지 않기 때문에.",
+          "naturalKorean": "때로 나라들은 사람들이 그 물건을 원하거나 자국 내에서 특정 제품을 충분히 생산하지 못하기 때문에 수입한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "because ~ or because ~",
+              "meaning": "~기 때문에 또는 ~기 때문에",
+              "use": "이유 접속사 because절 두 개를 or로 병렬 연결해 두 가지 원인을 분명히 제시합니다.",
+              "example": "Countries import goods because citizens want them or lack supply at home."
+            },
+            {
+              "chunk": "enough of certain products at home",
+              "meaning": "자국 내에서 특정 제품을 충분히",
+              "use": "수량사 enough + of + 명사구와 국내를 뜻하는 at home이 결합했습니다.",
+              "example": "Toylandia does not make enough snacks at home."
+            }
+          ],
+          "mustKnowGrammar": "because절 두 개가 or로 병렬을 이룸니다. 앞의 them은 things를, 뒤의 주어 they는 countries를 가리키며, 축약형 don’t(do not)와 부사구 at home(\"국내에서\")이 쓰였습니다. (원문 쉼표 things, because 그대로 보존)",
+          "feynmanExplanation": "Why would a country buy more / than it sells? / The article gives two simple reasons. / First, people want those goods. / Second, the country does not make enough / of certain items at home.",
+          "feynmanExplanationKo": "왜 한 나라가 파는 것보다 더 많이 살까요? 글은 두 가지 간단한 이유를 듭니다. 첫째, 사람들이 그 물건을 원하기 때문입니다. 둘째, 자국 내에서 특정 제품을 충분히 만들지 못하기 때문입니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What two reasons does the article give for why countries import things?",
+              "korean": "교사: 나라들이 물건을 수입하는 두 가지 이유로 본문은 무엇을 드나요?"
+            },
+            {
+              "english": "Student: Because people want them, or because countries don’t make enough of certain products at home.",
+              "korean": "학생: 사람들이 그것을 원하거나, 국내에서 특정 제품을 충분히 만들지 않기 때문입니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 21,
+          "paragraph": "Section 3, Paragraph 3 (Sentence 15)",
+          "original": "Let’s take a look at two fictional countries: Toylandia and Snackville.",
+          "chunkReading": "Let’s take a look at / two fictional countries: / Toylandia and Snackville.",
+          "directKorean": "함께 살펴보자 / 두 가상의 나라를: / 토이랜디아와 스낵빌.",
+          "naturalKorean": "가상의 두 나라인 토이랜디아와 스낵빌을 예로 살펴보자.",
+          "mustKnowChunks": [
+            {
+              "chunk": "two fictional countries",
+              "meaning": "두 가상의 나라(상상의 나라)",
+              "use": "형용사 fictional은 실제 국가가 아닌 설명용 가상 예시임을 분명히 밝힙니다.",
+              "example": "Toylandia and Snackville are two fictional countries in the example."
+            }
+          ],
+          "mustKnowGrammar": "청유문 Let’s take a look at + 명사구(two fictional countries) 뒤에 콜론(:)으로 두 가상 국가 이름 Toylandia and Snackville을 소개했습니다.",
+          "feynmanExplanation": "To show the math clearly, / the writer invents two pretend countries. / One is named Toylandia, / and the other is Snackville. / Remember, / both places are completely fictional.",
+          "feynmanExplanationKo": "계산을 분명하게 보여 주기 위해 글쓴이는 가상의 두 나라를 만듭니다. 하나는 Toylandia이고 다른 하나는 Snackville입니다. 둘 다 완전히 상상의 나라임을 기억하세요.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Are Toylandia and Snackville real places on a world map?",
+              "korean": "교사: Toylandia와 Snackville은 세계 지도에 있는 실제 나라인가요?"
+            },
+            {
+              "english": "Student: No, the text says they are \"two fictional countries.\"",
+              "korean": "학생: 아니요, 본문에서 \"두 가상의 나라(two fictional countries)\"라고 말합니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 22,
+          "paragraph": "Section 3, Paragraph 3 (Sentence 16)",
+          "original": "As the name indicates, Toylandia specializes in making toys and Snackville specializes in making snacks.",
+          "chunkReading": "As the name indicates, / Toylandia specializes in making toys / and Snackville specializes in making snacks.",
+          "directKorean": "이름이 나타내듯, / 토이랜디아는 장난감 만들기를 전문으로 하고 / 스낵빌은 간식 만들기를 전문으로 한다.",
+          "naturalKorean": "이름에서 알 수 있듯이 토이랜디아는 장난감 제조에, 스낵빌은 간식 제조에 특화되어 있다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "specializes in + -ing",
+              "meaning": "~하는 것을 전문으로 하다(특화되어 있다)",
+              "use": "전치사 in 뒤에 동명사(making)가 옵니다.",
+              "example": "Toylandia specializes in making toys."
+            }
+          ],
+          "mustKnowGrammar": "양태 접속사 As(As the name indicates = \"이름이 보여 주듯\") 뒤에 대칭적인 두 절(Toylandia specializes in making toys and Snackville specializes in making snacks)이 왔습니다.",
+          "feynmanExplanation": "Each country’s name gives a clue / about what it makes best. / Toylandia focuses on making toys, / while Snackville focuses on making snacks. / That sets up a clean trade / between the two.",
+          "feynmanExplanationKo": "각 나라의 이름이 무엇을 가장 잘 만드는지 힌트를 줍니다. Toylandia는 장난감 제조에, Snackville은 간식 제조에 집중합니다. 이렇게 두 나라 사이의 깔끔한 무역 구도가 잡힙니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: What verb form follows \"specializes in\" in both clauses?",
+              "korean": "교사: 두 절 모두 \"specializes in\" 뒤에 어떤 동사 형태가 왔나요?"
+            },
+            {
+              "english": "Student: The -ing gerund \"making\" (\"making toys\" and \"making snacks\").",
+              "korean": "학생: -ing 동명사 \"making\"(\"making toys\"와 \"making snacks\")이 왔습니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 23,
+          "paragraph": "Section 3, Paragraph 4 (Sentence 17)",
+          "original": "If Toylandia sells toys worth $100 million to Snackville but only buys snacks worth $70 million, it has a trade surplus of $30 million.",
+          "chunkReading": "If Toylandia sells toys worth $100 million / to Snackville / but only buys snacks worth $70 million, / it has a trade surplus of $30 million.",
+          "directKorean": "만약 토이랜디아가 1억 달러 가치의 장난감을 판다면 / 스낵빌에 / 하지만 7천만 달러 가치의 간식만 산다면, / 그 나라는 3천만 달러의 무역 흑자를 갖는다.",
+          "naturalKorean": "만약 토이랜디아가 스낵빌에 1억 달러어치 장난감을 팔고 7천만 달러어치 간식만 사온다면, 토이랜디아는 3천만 달러의 무역 흑자를 기록한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "worth $100 million / worth $70 million",
+              "meaning": "1억 달러 가치의 / 7천만 달러 가치의",
+              "use": "형용사 worth + 금액이 명사(toys / snacks) 뒤에서 가치를 수식합니다.",
+              "example": "Toylandia exported toys worth $100 million."
+            },
+            {
+              "chunk": "a trade surplus of $30 million",
+              "meaning": "3천만 달러의 무역 흑자",
+              "use": "$100 million(수출) − $70 million(수입) = $30 million(흑자) 산술 차액입니다.",
+              "example": "Comparing $100 million and $70 million gives a surplus of $30 million."
+            }
+          ],
+          "mustKnowGrammar": "조건절 If + Toylandia sells ... but only buys ... 안에서 부사 only가 $70 million이 $100 million보다 적음을 강조합니다. 주절의 it은 Toylandia를 가리키며, $100 million − $70 million = $30 million 계산으로 흑자 금액이 나옵니다.",
+          "feynmanExplanation": "Look at the exact numbers / for Toylandia. / It earns $100 million by selling toys, / and spends only $70 million buying snacks. / Subtract $70 million from $100 million, / and Toylandia has a $30 million surplus.",
+          "feynmanExplanationKo": "Toylandia의 정확한 숫자를 보세요. 장난감을 팔아 1억 달러($100 million)를 벌고, 간식을 사는 데 7천만 달러($70 million)만 썼습니다. $100 million에서 $70 million을 빼면 Toylandia는 $30 million의 무역 흑자를 갖게 됩니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Show the math: how do we get $30 million for Toylandia?",
+              "korean": "교사: 계산을 보여 주세요. Toylandia의 $30 million은 어떻게 나오나요?"
+            },
+            {
+              "english": "Student: $100 million earned from selling toys minus $70 million spent buying snacks equals a $30 million surplus.",
+              "korean": "학생: 장난감 판매로 번 $100 million에서 간식 구매에 쓴 $70 million을 빼면 $30 million 흑자가 됩니다."
+            }
+          ]
+        },
+        {
+          "sentenceNumber": 24,
+          "paragraph": "Section 3, Paragraph 4 (Sentence 18)",
+          "original": "Snackville, on the other hand, has a trade deficit of $30 million because it buys more than it sells.",
+          "chunkReading": "Snackville, on the other hand, / has a trade deficit of $30 million / because it buys more than it sells.",
+          "directKorean": "스낵빌은, 반면에, / 3천만 달러의 무역 적자를 갖는다 / 파는 것보다 더 많이 사기 때문에.",
+          "naturalKorean": "반면 스낵빌은 파는 것보다 더 많이 사기 때문에 3천만 달러의 무역 적자를 기록한다.",
+          "mustKnowChunks": [
+            {
+              "chunk": "on the other hand",
+              "meaning": "반면에, 다른 한편으로는",
+              "use": "주어 Snackville 뒤에 쌍쉼표(, on the other hand,)로 삽입되어 Toylandia와 대조합니다.",
+              "example": "Toylandia has a surplus; Snackville, on the other hand, has a deficit."
+            },
+            {
+              "chunk": "because it buys more than it sells",
+              "meaning": "파는 것보다 더 많이 사기 때문에",
+              "use": "이유 접속사 because가 적자의 원인($100M 구매 > $70M 판매)을 분명히 밝힙니다.",
+              "example": "Snackville has a $30 million deficit because it buys $100 million and sells $70 million."
+            }
+          ],
+          "mustKnowGrammar": "삽입 부사구 , on the other hand,가 주어 Snackville과 동사 has 사이에 들어가 앞 문장의 Toylandia와 정반대 결과를 대조합니다. 이유 절 because it buys more than it sells가 두 나라 사이 거래의 거울 구조($100M을 사고 $70M만 팔았음)를 완성합니다.",
+          "feynmanExplanation": "Now look at the same trade / from Snackville’s side. / Snackville bought $100 million of toys / and sold $70 million of snacks. / Because it bought more than it sold, / Snackville has a $30 million trade deficit.",
+          "feynmanExplanationKo": "이제 같은 거래를 Snackville 입장에서 보세요. Snackville은 장난감 $100 million을 사고 간식 $70 million을 팔았습니다. 판 것보다 더 많이 샀기 때문에 Snackville은 $30 million의 무역 적자를 갖게 됩니다.",
+          "teachingTranscript": [
+            {
+              "english": "Teacher: Why are Toylandia’s surplus and Snackville’s deficit both $30 million?",
+              "korean": "교사: 왜 Toylandia의 흑자와 Snackville의 적자가 둘 다 $30 million인가요?"
+            },
+            {
+              "english": "Student: Because they are trading with each other: Toylandia sells $100M and buys $70M (+$30M), while Snackville buys $100M and sells $70M (−$30M).",
+              "korean": "학생: 서로 거래하기 때문입니다. Toylandia는 $100M을 팔고 $70M을 사서 +$30M이고, Snackville은 $100M을 사고 $70M을 팔아 −$30M이 됩니다."
+            }
+          ]
+        }
+      ]
+    },
+    "finalWritingSupport": {
+      "sentenceFrames": [
+        "Attribution & Definitions: According to the article, exports are things a country sells to other countries, while imports are things a country buys from them.",
+        "Money Comparison: Countries keep track of how much money they earn from exports and spend on imports, and comparing these two numbers shows whether they have a trade surplus or a trade deficit.",
+        "Surplus vs. Deficit & Nuance: A trade surplus happens when a country sells more goods and services than it buys; conversely, a trade deficit occurs when it buys more than it sells, often because people want products or countries do not make enough at home.",
+        "Fictional Example: For example, fictional Toylandia sells toys worth $100 million to Snackville but buys only $70 million in snacks; therefore, Toylandia has a $30 million surplus, while Snackville has a $30 million deficit."
+      ],
+      "usefulVocabulary": [
+        "trade",
+        "goods",
+        "services",
+        "exports",
+        "imports",
+        "surplus",
+        "deficit",
+        "conversely",
+        "specializes",
+        "at home",
+        "fictional",
+        "compare"
+      ],
+      "usefulConnectors": [
+        "more ... than",
+        "when",
+        "if",
+        "for example",
+        "therefore",
+        "compared with"
+      ],
+      "contrastMarkers": [
+        "while",
+        "conversely",
+        "on the other hand",
+        "but"
+      ],
+      "causeEffectLanguage": [
+        "because",
+        "therefore",
+        "happens when",
+        "occurs when"
+      ],
+      "attributionPhrases": [
+        "According to the article,",
+        "The article explains that",
+        "In the article’s fictional example,"
+      ],
+      "paragraphOutline": [
+        "1. Attribution & Definitions: Begin with \"According to the article,\" and define exports (things a country sells) and imports (things a country buys).",
+        "2. Money Comparison: Explain that countries track money earned from exports and spent on imports, and compare the two numbers to identify a surplus or deficit.",
+        "3. Surplus vs. Deficit & Nuance: Define surplus (\"sells more ... than it buys\") vs. deficit (\"buys more than it sells\"), noting a deficit isn’t always bad because people want products or don’t make enough at home.",
+        "4. Fictional Toylandia–Snackville Example: End by showing Toylandia selling $100 million in toys and buying $70 million in snacks ($30 million surplus), while Snackville has a $30 million deficit."
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Exports are things a country buys, and imports are things a country sells.",
+          "correction": "Exports are things a country sells to another country, while imports are things a country buys from another country.",
+          "explanation": "Reversed definitions: ex- = out (sells) and im- = in (buys). Always verify against the two bullets under \"What Is Trade?\"."
+        },
+        {
+          "mistake": "A trade deficit is always bad for the economy and lowers GDP.",
+          "correction": "According to the article, a trade deficit isn’t always bad because people want imported things or countries don’t make enough of certain products at home.",
+          "explanation": "Outside macro claim & contradiction: the article explicitly states \"A deficit isn’t always bad\" and does not mention GDP or real-world macro policy."
+        },
+        {
+          "mistake": "Toylandia sells $100 million and buys $70 million, so it has a $70 million surplus.",
+          "correction": "Toylandia sells toys worth $100 million to Snackville and buys snacks worth $70 million, giving Toylandia a trade surplus of $30 million.",
+          "explanation": "Arithmetic error: subtract imports ($70 million) from exports ($100 million) to get the $30 million difference."
+        },
+        {
+          "mistake": "When a country sell more goods than it buy, it have a trade surplus.",
+          "correction": "When a country sells more goods and services than it buys, it has a trade surplus.",
+          "explanation": "Subject-verb agreement error: match singular subject \"a country\" / \"it\" with \"sells,\" \"buys,\" and \"has.\""
+        }
+      ],
+      "teacherCorrectionFocus": [
+        "Check word count (100–140 words) and exact prompt coverage: both definitions (imports & exports) and how countries identify surplus vs. deficit.",
+        "Verify opening source attribution (\"According to the article,\"), 3+ specific article details, comparison (\"more ... than\"), and cause/effect (\"because,\" \"therefore\").",
+        "Confirm Toylandia and Snackville remain strictly fictional with exact dollar amounts ($100 million, $70 million, $30 million) and zero outside macroeconomic claims.",
+        "Check third-person singular \"-s\" (\"a country sells / buys / has / specializes\") and contrast connectors (\"while,\" \"conversely,\" \"on the other hand\")."
+      ],
+      "g1Scaffold": "Provide G1 students the 4-step Paragraph Outline and sentence frames, guiding them to plug in \"exports = sells,\" \"imports = buys,\" \"more ... than,\" \"because,\" and exact Toylandia ($100M) / Snackville ($70M) / $30M numbers.",
+      "g2Extension": "Challenge G2 students to integrate \"conversely\" and \"on the other hand\" smoothly, include the article’s nuance that a deficit isn’t always bad (\"at home\"), and hit 115–130 words with zero factual drift."
+    }
+  }
+}
